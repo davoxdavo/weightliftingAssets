@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "maintenance": {
+    "enabled": false,
+    "title": {
+      "en": "We'll be right back",
+      "ru": "Скоро вернёмся",
+      "hy": "Շուտով կվերադառնանք"
+    },
+    "message": {
+      "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
+      "ru": "Gym Logbook на обслуживании. Попробуйте снова чуть позже.",
+      "hy": "Gym Logbook-ը սպասարկման մեջ է։ Խնդրում ենք փորձել մի փոքր ուշ։"
+    }
+  },
+  "forceUpdate": {
+    "minAppVersion": "1.0.0",
+    "title": {
+      "en": "Update required",
+      "ru": "Требуется обновление",
+      "hy": "Անհրաժեշտ է թարմացում"
+    },
+    "message": {
+      "en": "A newer version of Gym Logbook is required to continue.",
+      "ru": "Для продолжения нужна более новая версия Gym Logbook.",
+      "hy": "Շարունակելու համար անհրաժեշտ է Gym Logbook-ի ավելի նոր տարբերակ։"
+    },
+    "storeURL": "https://apps.apple.com/app/id0000000000",
+    "upcomingFeatures": [
+      {
+        "en": "Faster workout logging",
+        "ru": "Более быстрый лог тренировок",
+        "hy": "Ավելի արագ մարզման գրանցում"
+      },
+      {
+        "en": "Richer muscle-balance insights",
+        "ru": "Более наглядный баланс мышц",
+        "hy": "Ավելի հարուստ մկանային հավասարակշռության վերլուծություն"
+      },
+      {
+        "en": "Improved exercise catalog",
+        "ru": "Расширенный каталог упражнений",
+        "hy": "Բարելավված վարժությունների կատալոգ"
+      }
+    ]
+  },
+  "catalog": {
+    "exercises": {
+      "version": 8,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v8/gym_exercises.json"
+    },
+    "supersets": {
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/supersets/v3/gym_supersets.json"
+    }
+  },
+  "translations": {
+    "lastSyncedAt": 1784620000,
+    "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
+  },
+  "exerciseImages": {
+    "baseURL": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/images/exercises/",
+    "revision": 1
+  }
+}

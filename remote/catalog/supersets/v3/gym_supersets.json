@@ -1,0 +1,473 @@
+{
+  "version": 3,
+  "description": "Common gym superset combinations. Members reference stable exercise catalog IDs from gym_exercises.json.",
+  "guidance": {
+    "restBetweenExercisesSeconds": [
+      0,
+      30
+    ],
+    "restAfterSupersetSeconds": [
+      60,
+      90
+    ],
+    "recommendedSets": [
+      3,
+      4
+    ],
+    "repRanges": {
+      "strength": [
+        4,
+        6
+      ],
+      "hypertrophy": [
+        8,
+        12
+      ],
+      "endurance": [
+        12,
+        20
+      ]
+    }
+  },
+  "supersets": [
+    {
+      "id": "superset-chest-back-machine",
+      "name": "Machine Chest Press + Seated Cable Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-machine-chest-press",
+        "back-seated-cable-row"
+      ]
+    },
+    {
+      "id": "superset-chest-back-dumbbell",
+      "name": "Dumbbell Bench Press + Chest-Supported Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-dumbbell-bench-press",
+        "back-chest-supported-row"
+      ]
+    },
+    {
+      "id": "superset-biceps-triceps",
+      "name": "Dumbbell Curl + Tricep Pushdown",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-dumbbell-curl",
+        "arms-tricep-pushdown"
+      ]
+    },
+    {
+      "id": "superset-quads-hamstrings",
+      "name": "Leg Extension + Seated Leg Curl",
+      "kind": "antagonist",
+      "muscles": [
+        "legs"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-extension",
+        "legs-seated-leg-curl"
+      ]
+    },
+    {
+      "id": "superset-bench-press-barbell-row",
+      "name": "Bench Press + Barbell Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-bench-press",
+        "back-barbell-row"
+      ]
+    },
+    {
+      "id": "superset-incline-dumbbell-press-pull-up",
+      "name": "Incline Dumbbell Press + Pull-Up",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-dumbbell-press",
+        "back-pull-up"
+      ]
+    },
+    {
+      "id": "superset-overhead-press-lat-pulldown",
+      "name": "Overhead Press + Lat Pulldown",
+      "kind": "push_pull",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-overhead-press",
+        "back-lat-pulldown"
+      ]
+    },
+    {
+      "id": "superset-push-up-seated-cable-row",
+      "name": "Push-Up + Seated Cable Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-push-up",
+        "back-seated-cable-row"
+      ]
+    },
+    {
+      "id": "superset-back-squat-pull-up",
+      "name": "Back Squat + Pull-Up",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "back-pull-up"
+      ]
+    },
+    {
+      "id": "superset-romanian-deadlift-dumbbell-bench-press",
+      "name": "Romanian Deadlift + Dumbbell Bench Press",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "chest"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-romanian-deadlift",
+        "chest-dumbbell-bench-press"
+      ]
+    },
+    {
+      "id": "superset-walking-lunge-seated-dumbbell-press",
+      "name": "Walking Lunge + Seated Dumbbell Press",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "shoulders"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-walking-lunge",
+        "shoulders-seated-dumbbell-press"
+      ]
+    },
+    {
+      "id": "superset-leg-press-barbell-row",
+      "name": "Leg Press + Barbell Row",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-press",
+        "back-barbell-row"
+      ]
+    },
+    {
+      "id": "superset-incline-bench-dumbbell-bench-press",
+      "name": "Incline Bench Press + Dumbbell Bench Press",
+      "kind": "agonist",
+      "muscles": [
+        "chest"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-bench-press",
+        "chest-dumbbell-bench-press"
+      ]
+    },
+    {
+      "id": "superset-pull-up-straight-arm-pulldown",
+      "name": "Pull-Up + Straight-Arm Pulldown",
+      "kind": "agonist",
+      "muscles": [
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-pull-up",
+        "back-straight-arm-pulldown"
+      ]
+    },
+    {
+      "id": "superset-back-squat-leg-extension",
+      "name": "Back Squat + Leg Extension",
+      "kind": "agonist",
+      "muscles": [
+        "legs"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-leg-extension"
+      ]
+    },
+    {
+      "id": "superset-romanian-deadlift-seated-leg-curl",
+      "name": "Romanian Deadlift + Seated Leg Curl",
+      "kind": "agonist",
+      "muscles": [
+        "legs"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-romanian-deadlift",
+        "legs-seated-leg-curl"
+      ]
+    },
+    {
+      "id": "superset-barbell-curl-tricep-pushdown",
+      "name": "Barbell Curl + Tricep Pushdown",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-barbell-curl",
+        "arms-tricep-pushdown"
+      ]
+    },
+    {
+      "id": "superset-dumbbell-fly-rear-delt-fly",
+      "name": "Dumbbell Fly + Rear Delt Fly",
+      "kind": "antagonist",
+      "muscles": [
+        "chest",
+        "shoulders"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-dumbbell-fly",
+        "shoulders-rear-delt-fly"
+      ]
+    },
+    {
+      "id": "superset-wrist-curl-reverse-wrist-curl",
+      "name": "Wrist Curl + Reverse Wrist Curl",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-wrist-curl",
+        "arms-reverse-wrist-curl"
+      ]
+    },
+    {
+      "id": "superset-lateral-raise-face-pull",
+      "name": "Lateral Raise + Face Pull",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-lateral-raise",
+        "back-face-pull"
+      ]
+    },
+    {
+      "id": "superset-front-raise-reverse-pec-deck",
+      "name": "Front Raise + Reverse Pec Deck",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-front-raise",
+        "shoulders-reverse-pec-deck"
+      ]
+    },
+    {
+      "id": "superset-arnold-press-upright-row",
+      "name": "Arnold Press + Upright Row",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-arnold-press",
+        "shoulders-upright-row"
+      ]
+    },
+    {
+      "id": "superset-ez-bar-curl-skull-crusher",
+      "name": "EZ-Bar Curl + Skull Crusher",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-ez-bar-curl",
+        "arms-skull-crusher"
+      ]
+    },
+    {
+      "id": "superset-hammer-curl-overhead-tricep-extension",
+      "name": "Hammer Curl + Overhead Tricep Extension",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-hammer-curl",
+        "arms-overhead-tricep-extension"
+      ]
+    },
+    {
+      "id": "superset-cable-curl-rope-pushdown",
+      "name": "Cable Curl + Rope Pushdown",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-cable-curl",
+        "arms-rope-pushdown"
+      ]
+    },
+    {
+      "id": "superset-hanging-leg-raise-plank",
+      "name": "Hanging Leg Raise + Plank",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-hanging-leg-raise",
+        "core-plank"
+      ]
+    },
+    {
+      "id": "superset-cable-crunch-russian-twist",
+      "name": "Cable Crunch + Russian Twist",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-cable-crunch",
+        "core-russian-twist"
+      ]
+    },
+    {
+      "id": "superset-ab-wheel-side-plank",
+      "name": "Ab Wheel + Side Plank",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-ab-wheel",
+        "core-side-plank"
+      ]
+    },
+    {
+      "id": "superset-chest-upper-mid-lower-triplet",
+      "name": "Incline Dumbbell Press + Dumbbell Bench Press + Decline Bench Press",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "chest"
+      ],
+      "subgroups": [
+        "upper",
+        "mid",
+        "lower"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-dumbbell-press",
+        "chest-dumbbell-bench-press",
+        "chest-decline-bench-press"
+      ]
+    },
+    {
+      "id": "superset-back-lats-upper-traps-triplet",
+      "name": "Lat Pulldown + Seated Cable Row + Barbell Shrug",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "back"
+      ],
+      "subgroups": [
+        "lats",
+        "upper_back",
+        "traps"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-lat-pulldown",
+        "back-seated-cable-row",
+        "back-barbell-shrug"
+      ]
+    },
+    {
+      "id": "superset-legs-quads-hamstrings-glutes-triplet",
+      "name": "Leg Extension + Seated Leg Curl + Hip Thrust",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "legs"
+      ],
+      "subgroups": [
+        "quads",
+        "hamstrings",
+        "glutes"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-extension",
+        "legs-seated-leg-curl",
+        "legs-hip-thrust"
+      ]
+    },
+    {
+      "id": "superset-shoulders-front-side-rear-triplet",
+      "name": "Front Raise + Lateral Raise + Rear Delt Fly",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "shoulders"
+      ],
+      "subgroups": [
+        "front",
+        "side",
+        "rear"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-front-raise",
+        "shoulders-lateral-raise",
+        "shoulders-rear-delt-fly"
+      ]
+    },
+    {
+      "id": "superset-arms-biceps-triceps-forearms-triplet",
+      "name": "Barbell Curl + Tricep Pushdown + Wrist Curl",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "arms"
+      ],
+      "subgroups": [
+        "biceps",
+        "triceps",
+        "forearms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-barbell-curl",
+        "arms-tricep-pushdown",
+        "arms-wrist-curl"
+      ]
+    }
+  ]
+}

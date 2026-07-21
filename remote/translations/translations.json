@@ -1,0 +1,5550 @@
+{
+  "lastSyncedAt": 1784620000,
+  "strings": {
+    "Balanced": {
+      "range": {
+        "en": "Lookback",
+        "ru": "Период",
+        "hy": "Ժամանակահատված"
+      },
+      "range.custom": {
+        "en": "Custom",
+        "ru": "Свой",
+        "hy": "Սեփական"
+      },
+      "range.days10": {
+        "en": "10 days",
+        "ru": "10 дней",
+        "hy": "10 օր"
+      },
+      "range.days15": {
+        "en": "15 days",
+        "ru": "15 дней",
+        "hy": "15 օր"
+      },
+      "range.days3": {
+        "en": "3 days",
+        "ru": "3 дня",
+        "hy": "3 օր"
+      },
+      "range.days30": {
+        "en": "30 days",
+        "ru": "30 дней",
+        "hy": "30 օր"
+      },
+      "range.days7": {
+        "en": "7 days",
+        "ru": "7 дней",
+        "hy": "7 օր"
+      },
+      "range.end": {
+        "en": "To",
+        "ru": "По",
+        "hy": "Ավարտ"
+      },
+      "range.footer": {
+        "en": "Balance uses finished workouts in this window.",
+        "ru": "Баланс считается по завершённым тренировкам за этот период.",
+        "hy": "Հավասարակշռությունը հաշվարկվում է այս ժամանակահատվածի ավարտված մարզումներից։"
+      },
+      "range.start": {
+        "en": "From",
+        "ru": "С",
+        "hy": "Սկիզբ"
+      },
+      "spider": {
+        "en": "Muscle balance",
+        "ru": "Баланс мышц",
+        "hy": "Մկանների հավասարակշռություն"
+      },
+      "spider.empty": {
+        "en": "No finished workouts in this window yet. Pick muscle groups below — we will still suggest exercises.",
+        "ru": "За этот период ещё нет завершённых тренировок. Выберите группы мышц — упражнения всё равно предложим.",
+        "hy": "Այս ժամանակահատվածում ավարտված մարզումներ չկան։ Ընտրեք մկանախմբեր՝ առաջարկներ ստանալու համար։"
+      },
+      "spider.footer": {
+        "en": "Tap a spoke to add or remove that muscle group for today.",
+        "ru": "Нажмите на ось, чтобы добавить или убрать группу мышц на сегодня.",
+        "hy": "Հպեք առանցքին՝ այսօրվա մկանախումբը ավելացնելու կամ հանելու համար։"
+      },
+      "start": {
+        "en": "Start Balanced Workout",
+        "ru": "Начать сбалансированную",
+        "hy": "Սկսել հավասարակշիռ մարզումը"
+      },
+      "suggestions": {
+        "en": "Suggested exercises",
+        "ru": "Рекомендуемые упражнения",
+        "hy": "Առաջարկվող վարժություններ"
+      },
+      "suggestions.empty": {
+        "en": "No matching exercises for the selected groups.",
+        "ru": "Нет упражнений для выбранных групп.",
+        "hy": "Ընտրված խմբերի համար վարժություններ չկան։"
+      },
+      "suggestions.pickGroups": {
+        "en": "Select at least one muscle group to see suggestions.",
+        "ru": "Выберите хотя бы одну группу мышц, чтобы увидеть рекомендации.",
+        "hy": "Ընտրեք առնվազն մեկ մկանախումբ՝ առաջարկներ տեսնելու համար։"
+      },
+      "suggestions.replace": {
+        "en": "Replace",
+        "ru": "Заменить",
+        "hy": "Փոխարինել"
+      },
+      "suggestions.replace.footer": {
+        "en": "Tap the refresh icon or swipe to replace a suggestion with another exercise.",
+        "ru": "Нажмите на значок обновления или смахните, чтобы заменить упражнение на другое.",
+        "hy": "Հպեք թարմացման նադիկին կամ սհլեք՝ առաջարկը մեկ այլ վարժությամբ փոխարինելու համար։"
+      },
+      "suggestions.replace.footerCards": {
+        "en": "Tap a card to include it. Use info for form details. Tap refresh to replace an exercise.",
+        "ru": "Нажмите на карточку, чтобы включить. Info — детали. Обновить — заменить упражнение.",
+        "hy": "Հպեք քարտին՝ ներառաելու համար։ Info՝ մանրամասնություն։ Թարմացման նադը՝ փոխարինել համար։"
+      },
+      "suggestions.replace.noneMessage": {
+        "en": "There are no other matching exercises for your selected muscle groups. This one was removed from the list.",
+        "ru": "Для выбранных групп мышц больше нет подходящих упражнений. Это удалено из списка.",
+        "hy": "Ընտրված մկանախմբերի համար այլ համապատասխան վարժություններ չկան։ Այս հանվել է ցանկից։"
+      },
+      "suggestions.replace.noneTitle": {
+        "en": "No more suggestions",
+        "ru": "Больше нет вариантов",
+        "hy": "Այլ առաջարկներ չկան"
+      },
+      "title": {
+        "en": "Balanced",
+        "ru": "Сбалансированная",
+        "hy": "Հավասարակշիռ"
+      },
+      "trainToday": {
+        "en": "Train today",
+        "ru": "Тренировать сегодня",
+        "hy": "Մարզել այսօր"
+      },
+      "trainToday.footer": {
+        "en": "Under-trained groups are preselected from your activity. Change freely.",
+        "ru": "Недотренированные группы предвыбраны по вашей активности. Можно менять.",
+        "hy": "Թերմարզված խմբերը նախընտրված են ըստ ձեր ակտիվության։ Կարող եք փոխել։"
+      }
+    },
+    "Calendar": {
+      "daySummary": {
+        "en": "Day",
+        "ru": "День",
+        "hy": "Օր"
+      },
+      "daysTrained": {
+        "en": "%lld days trained",
+        "ru": "%lld дней тренировок",
+        "hy": "%lld մարզման օր"
+      },
+      "nextMonth": {
+        "en": "Next month",
+        "ru": "Следующий месяц",
+        "hy": "Հաջորդ ամիս"
+      },
+      "noWorkout": {
+        "en": "No workout",
+        "ru": "Нет тренировки",
+        "hy": "Մարզում չկա"
+      },
+      "previousMonth": {
+        "en": "Previous month",
+        "ru": "Предыдущий месяц",
+        "hy": "Նախորդ ամիս"
+      },
+      "selectDayHint": {
+        "en": "Tap a day to see workouts.",
+        "ru": "Нажмите день, чтобы увидеть тренировки.",
+        "hy": "Հպեք օրվա՝ մարզումները տեսնելու համար։"
+      },
+      "workoutCount": {
+        "en": "%lld workouts",
+        "ru": "%lld тренировок",
+        "hy": "%lld մարզում"
+      }
+    },
+    "Category": {
+      "arms": {
+        "en": "Arms",
+        "ru": "Руки",
+        "hy": "Ձեռքեր"
+      },
+      "back": {
+        "en": "Back",
+        "ru": "Спина",
+        "hy": "Մեջք"
+      },
+      "cardio": {
+        "en": "Cardio",
+        "ru": "Кардио",
+        "hy": "Սրտանոթ"
+      },
+      "chest": {
+        "en": "Chest",
+        "ru": "Грудь",
+        "hy": "Կուրծք"
+      },
+      "core": {
+        "en": "Core",
+        "ru": "Кор",
+        "hy": "Միջուկ"
+      },
+      "legs": {
+        "en": "Legs",
+        "ru": "Ноги",
+        "hy": "Ոտքեր"
+      },
+      "mobility": {
+        "en": "Mobility",
+        "ru": "Мобильность",
+        "hy": "Շարժունություն"
+      },
+      "other": {
+        "en": "Other",
+        "ru": "Другое",
+        "hy": "Այլ"
+      },
+      "shoulders": {
+        "en": "Shoulders",
+        "ru": "Плечи",
+        "hy": "Ուսեր"
+      },
+      "superset": {
+        "en": "Superset",
+        "ru": "Суперсет",
+        "hy": "Սուպերսեթ"
+      }
+    },
+    "Common": {
+      "add": {
+        "en": "Add",
+        "ru": "Добавить",
+        "hy": "Ավելացնել"
+      },
+      "apply": {
+        "en": "Apply",
+        "ru": "Применить",
+        "hy": "Կիրառել"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "ru": "Отмена",
+        "hy": "Չեղարկել"
+      },
+      "clear": {
+        "en": "Clear",
+        "ru": "Очистить",
+        "hy": "Մաքրել"
+      },
+      "close": {
+        "en": "Close",
+        "ru": "Закрыть",
+        "hy": "Փակել"
+      },
+      "delete": {
+        "en": "Delete",
+        "ru": "Удалить",
+        "hy": "Ջնջել"
+      },
+      "done": {
+        "en": "Done",
+        "ru": "Готово",
+        "hy": "Պատրաստ"
+      },
+      "edit": {
+        "en": "Edit",
+        "ru": "Изменить",
+        "hy": "Խմբագրել"
+      },
+      "save": {
+        "en": "Save",
+        "ru": "Сохранить",
+        "hy": "Պահպանել"
+      }
+    },
+    "Distance": {
+      "mode": {
+        "en": "Distance format",
+        "ru": "Формат дистанции",
+        "hy": "Տարածության ձևաչափ"
+      },
+      "mode.meters": {
+        "en": "Meters",
+        "ru": "Метры",
+        "hy": "Մետրեր"
+      },
+      "mode.meters.short": {
+        "en": "m",
+        "ru": "м",
+        "hy": "մ"
+      },
+      "mode.kilometersMeters": {
+        "en": "Kilometers and meters",
+        "ru": "Километры и метры",
+        "hy": "Կիլոմետր և մետր"
+      },
+      "mode.kilometersMeters.short": {
+        "en": "km + m",
+        "ru": "км + м",
+        "hy": "կմ + մ"
+      }
+    },
+    "Duration": {
+      "mode": {
+        "en": "Duration format",
+        "ru": "Формат времени",
+        "hy": "Ժամանակի ձևաչափ"
+      },
+      "mode.%@.short": {
+        "en": "duration.mode.%@.short",
+        "ru": "duration.mode.%@.short",
+        "hy": "duration.mode.%@.short"
+      },
+      "mode.hoursMinutesSeconds": {
+        "en": "Hours, minutes, seconds",
+        "ru": "Часы, минуты, секунды",
+        "hy": "Ժամ, րոպե, վայրկյան"
+      },
+      "mode.hoursMinutesSeconds.short": {
+        "en": "H:M:S",
+        "ru": "Ч:М:С",
+        "hy": "Ժ:Ր:Վ"
+      },
+      "mode.minutesSeconds": {
+        "en": "Minutes and seconds",
+        "ru": "Минуты и секунды",
+        "hy": "Րոպե և վայրկյան"
+      },
+      "mode.minutesSeconds.short": {
+        "en": "Min:Sec",
+        "ru": "Мин:Сек",
+        "hy": "Րպ:Վրկ"
+      },
+      "mode.seconds": {
+        "en": "Seconds",
+        "ru": "Секунды",
+        "hy": "Վայրկյաններ"
+      },
+      "mode.seconds.short": {
+        "en": "Sec",
+        "ru": "Сек",
+        "hy": "Վրկ"
+      }
+    },
+    "E1rm": {
+      "info.button": {
+        "en": "How estimated 1RM is calculated",
+        "ru": "Как рассчитывается расчётный 1ПМ",
+        "hy": "Ինչպես է հաշվարկվում գնահատված 1ԿՄ-ը"
+      },
+      "info.message": {
+        "en": "e1RM estimates the maximum weight you could lift once using the Epley formula:\n\nweight × (1 + reps ÷ 30)\n\nFor a 1-rep set, e1RM equals the lifted weight. The app keeps the highest estimate from your performed weight-and-reps sets. It is an estimate, not a tested maximum.",
+        "ru": "e1RM оценивает максимальный вес, который вы могли бы поднять один раз, по формуле Эпли:\n\nвес × (1 + повторения ÷ 30)\n\nДля подхода из 1 повторения e1RM равен поднятому весу. Приложение сохраняет наивысшую оценку среди выполненных подходов с весом и повторениями. Это оценка, а не проверенный максимум.",
+        "hy": "e1RM-ը գնահատում է այն առավելագույն քաշը, որը կարող եք բարձրացնել մեկ անգամ՝ Epley-ի բանաձևով․\n\nքաշ × (1 + կրկնություններ ÷ 30)\n\n1 կրկնությամբ մոտեցման դեպքում e1RM-ը հավասար է բարձրացված քաշին։ Հավելվածը պահում է կատարված քաշ-կրկնություն մոտեցումների ամենաբարձր գնահատականը։ Սա գնահատական է, ոչ թե փորձարկված առավելագույն։"
+      },
+      "info.title": {
+        "en": "How e1RM Works",
+        "ru": "Как работает e1RM",
+        "hy": "Ինչպես է աշխատում e1RM-ը"
+      }
+    },
+    "Empty": {
+      "history.description": {
+        "en": "Finished workouts will show up here.",
+        "ru": "Завершённые тренировки появятся здесь.",
+        "hy": "Ավարտված մարզումները կհայտնվեն այստեղ։"
+      },
+      "history.title": {
+        "en": "No workouts yet",
+        "ru": "Пока нет тренировок",
+        "hy": "Դեռ մարզումներ չկան"
+      },
+      "records.description": {
+        "en": "PRs appear when you beat a previous best.",
+        "ru": "Рекорды появятся, когда вы побьёте предыдущий лучший результат.",
+        "hy": "Ռեկորդները կհայտնվեն, երբ գերազանցեք նախորդ լավագույն արդյունքը։"
+      },
+      "records.title": {
+        "en": "No personal records yet",
+        "ru": "Пока нет личных рекордов",
+        "hy": "Դեռ անձնական ռեկորդներ չկան"
+      },
+      "templates.description": {
+        "en": "Save a workout as a template to reuse it quickly.",
+        "ru": "Сохраните тренировку как шаблон, чтобы быстро повторять её.",
+        "hy": "Պահպանեք մարզումը որպես շաբլոն՝ արագ կրկնելու համար։"
+      },
+      "templates.title": {
+        "en": "No templates yet",
+        "ru": "Пока нет шаблонов",
+        "hy": "Դեռ շաբլոններ չկան"
+      },
+      "workout.description": {
+        "en": "Start an empty workout or pick a template when you have one.",
+        "ru": "Начните пустую тренировку или выберите шаблон, когда он появится.",
+        "hy": "Սկսեք դատարկ մարզում կամ ընտրեք շաբլոն, երբ ունենաք։"
+      },
+      "workout.title": {
+        "en": "Ready to train",
+        "ru": "Готовы тренироваться",
+        "hy": "Պատրաստ եք մարզվելու"
+      }
+    },
+    "Exercise": {
+      "addCount": {
+        "en": "Add (%lld)",
+        "ru": "Добавить (%lld)",
+        "hy": "Ավելացնել (%lld)"
+      },
+      "cardioParams": {
+        "en": "Cardio fields",
+        "ru": "Поля кардио",
+        "hy": "Կարդիո դաշտեր"
+      },
+      "cardioParams.footer": {
+        "en": "Duration or distance is required to complete a set. Other fields are optional.",
+        "ru": "Для завершения подхода нужно время или дистанция. Остальные поля необязательны.",
+        "hy": "Մոտեցումն ավարտելու համար պետք է ժամանակ կամ տարածություն։ Մյուս դաշտերը պարտադիր չեն։"
+      },
+      "catalog.%@": {
+        "en": "exercise.catalog.%@",
+        "ru": "exercise.catalog.%@",
+        "hy": "exercise.catalog.%@"
+      },
+      "catalog.arms-barbell-curl": {
+        "en": "Barbell Curl",
+        "ru": "Подъём штанги на бицепс",
+        "hy": "Ձողով բիցեպս ծալում"
+      },
+      "catalog.arms-bayesian-curl": {
+        "en": "Bayesian Curl",
+        "ru": "Байесовский подъём на бицепс",
+        "hy": "Բայեսյան ծալում"
+      },
+      "catalog.arms-bench-dip": {
+        "en": "Bench Dip",
+        "ru": "Отжимания от скамьи",
+        "hy": "Նստարանից դիպեր"
+      },
+      "catalog.arms-cable-curl": {
+        "en": "Cable Curl",
+        "ru": "Подъём на бицепс на блоке",
+        "hy": "Կաբելային բիցեպս ծալում"
+      },
+      "catalog.arms-cable-overhead-tricep-extension": {
+        "en": "Cable Overhead Tricep Extension",
+        "ru": "Разгибание трицепса из-за головы на блоке",
+        "hy": "Կաբելային գլխավերև տրիցեպս երկարացում"
+      },
+      "catalog.arms-close-grip-bench-press": {
+        "en": "Close-Grip Bench Press",
+        "ru": "Жим узким хватом",
+        "hy": "Նեղ բռնակով մամուլ"
+      },
+      "catalog.arms-close-grip-push-up": {
+        "en": "Close-Grip Push-Up",
+        "ru": "Отжимания узким хватом",
+        "hy": "Նեղ բռնակով հրումներ"
+      },
+      "catalog.arms-concentration-curl": {
+        "en": "Concentration Curl",
+        "ru": "Концентрированный подъём на бицепс",
+        "hy": "Կոնցենտրացիոն ծալում"
+      },
+      "catalog.arms-cross-body-hammer-curl": {
+        "en": "Cross-Body Hammer Curl",
+        "ru": "Молотковые сгибания поперёк тела",
+        "hy": "Խաչաձև մուրճային ծալում"
+      },
+      "catalog.arms-dip": {
+        "en": "Dip",
+        "ru": "Отжимания на брусьях",
+        "hy": "Դիպեր"
+      },
+      "catalog.arms-drag-curl": {
+        "en": "Drag Curl",
+        "ru": "Драг-сгибания",
+        "hy": "Քարշող ծալում"
+      },
+      "catalog.arms-dumbbell-curl": {
+        "en": "Dumbbell Curl",
+        "ru": "Подъём гантелей на бицепс",
+        "hy": "Համրերով բիցեպս ծալում"
+      },
+      "catalog.arms-ez-bar-curl": {
+        "en": "EZ-Bar Curl",
+        "ru": "Подъём EZ-грифа на бицепс",
+        "hy": "EZ-ձողով ծալում"
+      },
+      "catalog.arms-hammer-curl": {
+        "en": "Hammer Curl",
+        "ru": "Молотковые сгибания",
+        "hy": "Մուրճ ծալում"
+      },
+      "catalog.arms-incline-dumbbell-curl": {
+        "en": "Incline Dumbbell Curl",
+        "ru": "Подъём гантелей на наклонной",
+        "hy": "Թեքված համրերով ծալում"
+      },
+      "catalog.arms-jm-press": {
+        "en": "JM Press",
+        "ru": "Жим JM",
+        "hy": "JM մամուլ"
+      },
+      "catalog.arms-kickback": {
+        "en": "Tricep Kickback",
+        "ru": "Разгибание руки назад",
+        "hy": "Տրիցեպս հետհարված"
+      },
+      "catalog.arms-machine-bicep-curl": {
+        "en": "Machine Bicep Curl",
+        "ru": "Сгибания на бицепс в тренажёре",
+        "hy": "Մեքենայով բիցեպս ծալում"
+      },
+      "catalog.arms-machine-tricep-extension": {
+        "en": "Machine Tricep Extension",
+        "ru": "Разгибание трицепса в тренажёре",
+        "hy": "Մեքենայով տրիցեպսի երկարացում"
+      },
+      "catalog.arms-overhead-tricep-extension": {
+        "en": "Overhead Tricep Extension",
+        "ru": "Разгибание трицепса из-за головы",
+        "hy": "Գլխավերև տրիցեպս երկարացում"
+      },
+      "catalog.arms-preacher-curl": {
+        "en": "Preacher Curl",
+        "ru": "Сгибания на скамье Скотта",
+        "hy": "Պրիչեր ծալում"
+      },
+      "catalog.arms-reverse-curl": {
+        "en": "Reverse Curl",
+        "ru": "Обратные сгибания",
+        "hy": "Հակառակ ծալում"
+      },
+      "catalog.arms-reverse-wrist-curl": {
+        "en": "Reverse Wrist Curl",
+        "ru": "Разгибание запястий",
+        "hy": "Հակառակ դաստակի ծալում"
+      },
+      "catalog.arms-rope-pushdown": {
+        "en": "Rope Pushdown",
+        "ru": "Разгибание трицепса с канатом",
+        "hy": "Պարանով տրիցեպս ձգում"
+      },
+      "catalog.arms-single-arm-cable-pushdown": {
+        "en": "Single-Arm Cable Pushdown",
+        "ru": "Разгибание на блоке одной рукой",
+        "hy": "Մեկ ձեռքով կաբելային իջեցում"
+      },
+      "catalog.arms-skull-crusher": {
+        "en": "Skull Crusher",
+        "ru": "Французский жим лёжа",
+        "hy": "Գանգ ջախջախիչ"
+      },
+      "catalog.arms-spider-curl": {
+        "en": "Spider Curl",
+        "ru": "Паучьи сгибания",
+        "hy": "Սարդ ծալում"
+      },
+      "catalog.arms-tate-press": {
+        "en": "Tate Press",
+        "ru": "Жим Тейта",
+        "hy": "Թեյթի մամուլ"
+      },
+      "catalog.arms-tricep-pushdown": {
+        "en": "Tricep Pushdown",
+        "ru": "Разгибание трицепса на блоке",
+        "hy": "Տրիցեպս ձգում"
+      },
+      "catalog.arms-weighted-dip": {
+        "en": "Weighted Dip",
+        "ru": "Отжимания на брусьях с весом",
+        "hy": "Կշռով դիպեր"
+      },
+      "catalog.arms-wrist-curl": {
+        "en": "Wrist Curl",
+        "ru": "Сгибание запястий",
+        "hy": "Դաստակի ծալում"
+      },
+      "catalog.arms-zottman-curl": {
+        "en": "Zottman Curl",
+        "ru": "Сгибания Зоттмана",
+        "hy": "Զոտմանի ծալում"
+      },
+      "catalog.back-assisted-pull-up": {
+        "en": "Assisted Pull-Up",
+        "ru": "Подтягивания с помощью",
+        "hy": "Օժանդակությամբ վերքաշումներ"
+      },
+      "catalog.back-barbell-row": {
+        "en": "Barbell Row",
+        "ru": "Тяга штанги в наклоне",
+        "hy": "Ձողով թեքված քաշում"
+      },
+      "catalog.back-barbell-shrug": {
+        "en": "Barbell Shrug",
+        "ru": "Шраги со штангой",
+        "hy": "Ձողով շրագեր"
+      },
+      "catalog.back-chest-supported-row": {
+        "en": "Chest-Supported Row",
+        "ru": "Тяга с упором грудью",
+        "hy": "Կրծքով հենված քաշում"
+      },
+      "catalog.back-chin-up": {
+        "en": "Chin-Up",
+        "ru": "Подтягивания обратным хватом",
+        "hy": "Կզակի վերքաշումներ"
+      },
+      "catalog.back-close-grip-lat-pulldown": {
+        "en": "Close-Grip Lat Pulldown",
+        "ru": "Тяга верхнего блока узким хватом",
+        "hy": "Նեղ բռնակով լատերի ձգում"
+      },
+      "catalog.back-deadlift": {
+        "en": "Deadlift",
+        "ru": "Становая тяга",
+        "hy": "Դեդլիֆթ"
+      },
+      "catalog.back-dumbbell-row": {
+        "en": "Dumbbell Row",
+        "ru": "Тяга гантели в наклоне",
+        "hy": "Համրով թեքված քաշում"
+      },
+      "catalog.back-dumbbell-shrug": {
+        "en": "Dumbbell Shrug",
+        "ru": "Шраги с гантелями",
+        "hy": "Համրերով շրագեր"
+      },
+      "catalog.back-face-pull": {
+        "en": "Face Pull",
+        "ru": "Тяга к лицу",
+        "hy": "Դեմքի քաշում"
+      },
+      "catalog.back-good-morning": {
+        "en": "Good Morning",
+        "ru": "Гудморнинг",
+        "hy": "Գուդ մորնինգ"
+      },
+      "catalog.back-hyperextension": {
+        "en": "Back Extension",
+        "ru": "Гиперэкстензия",
+        "hy": "Հիպերէքստենզիա"
+      },
+      "catalog.back-inverted-row": {
+        "en": "Inverted Row",
+        "ru": "Горизонтальные подтягивания",
+        "hy": "Շրջված քաշում"
+      },
+      "catalog.back-kroc-row": {
+        "en": "Kroc Row",
+        "ru": "Тяга Крока",
+        "hy": "Կրոկի քաշում"
+      },
+      "catalog.back-lat-pulldown": {
+        "en": "Lat Pulldown",
+        "ru": "Тяга верхнего блока",
+        "hy": "Լատերի ձգում"
+      },
+      "catalog.back-machine-pullover": {
+        "en": "Machine Pullover",
+        "ru": "Пуловер в тренажёре",
+        "hy": "Մեքենայով փուլովեր"
+      },
+      "catalog.back-machine-row": {
+        "en": "Machine Row",
+        "ru": "Тяга в тренажёре",
+        "hy": "Մեքենայով քաշում"
+      },
+      "catalog.back-meadows-row": {
+        "en": "Meadows Row",
+        "ru": "Тяга Медоуза",
+        "hy": "Միդոուզ քաշում"
+      },
+      "catalog.back-neutral-grip-pull-up": {
+        "en": "Neutral-Grip Pull-Up",
+        "ru": "Подтягивания нейтральным хватом",
+        "hy": "Չեզոք բռնակով վերքաշումներ"
+      },
+      "catalog.back-pendlay-row": {
+        "en": "Pendlay Row",
+        "ru": "Тяга Пендли",
+        "hy": "Պենդլեյ քաշում"
+      },
+      "catalog.back-pull-up": {
+        "en": "Pull-Up",
+        "ru": "Подтягивания",
+        "hy": "Վերքաշումներ"
+      },
+      "catalog.back-rack-pull": {
+        "en": "Rack Pull",
+        "ru": "Тяга с плинтов",
+        "hy": "Դարակից քաշում"
+      },
+      "catalog.back-reverse-grip-lat-pulldown": {
+        "en": "Reverse-Grip Lat Pulldown",
+        "ru": "Тяга верхнего блока обратным хватом",
+        "hy": "Հակառակ բռնակով լատերի ձգում"
+      },
+      "catalog.back-seal-row": {
+        "en": "Seal Row",
+        "ru": "Тяга «тюлень»",
+        "hy": "Սիլ քաշում"
+      },
+      "catalog.back-seated-cable-row": {
+        "en": "Seated Cable Row",
+        "ru": "Тяга нижнего блока сидя",
+        "hy": "Նստած կաբելային քաշում"
+      },
+      "catalog.back-single-arm-cable-row": {
+        "en": "Single-Arm Cable Row",
+        "ru": "Тяга блока одной рукой",
+        "hy": "Մեկ ձեռքով կաբելային քաշում"
+      },
+      "catalog.back-single-arm-lat-pulldown": {
+        "en": "Single-Arm Lat Pulldown",
+        "ru": "Тяга верхнего блока одной рукой",
+        "hy": "Մեկ ձեռքով լատ քաշում"
+      },
+      "catalog.back-straight-arm-pulldown": {
+        "en": "Straight-Arm Pulldown",
+        "ru": "Тяга блока прямыми руками",
+        "hy": "Ուղիղ ձեռքերով ձգում"
+      },
+      "catalog.back-sumo-deadlift": {
+        "en": "Sumo Deadlift",
+        "ru": "Становая тяга сумо",
+        "hy": "Սումո մահվան քաշում"
+      },
+      "catalog.back-t-bar-row": {
+        "en": "T-Bar Row",
+        "ru": "Тяга Т-грифа",
+        "hy": "T-ձողով քաշում"
+      },
+      "catalog.back-trap-bar-deadlift": {
+        "en": "Trap Bar Deadlift",
+        "ru": "Становая с трэп-грифом",
+        "hy": "Trap-ձողով մահվան քաշում"
+      },
+      "catalog.back-weighted-chin-up": {
+        "en": "Weighted Chin-Up",
+        "ru": "Подтягивания обратным хватом с весом",
+        "hy": "Կշռով կզակի վերքաշումներ"
+      },
+      "catalog.back-weighted-pull-up": {
+        "en": "Weighted Pull-Up",
+        "ru": "Подтягивания с весом",
+        "hy": "Կշռով վերքաշումներ"
+      },
+      "catalog.back-wide-grip-pull-up": {
+        "en": "Wide-Grip Pull-Up",
+        "ru": "Подтягивания широким хватом",
+        "hy": "Լայն բռնակով վերքաշումներ"
+      },
+      "catalog.back-yates-row": {
+        "en": "Yates Row",
+        "ru": "Тяга Йейтса",
+        "hy": "Յեյթսի քաշում"
+      },
+      "catalog.cardio-assault-bike": {
+        "en": "Assault Bike",
+        "ru": "Эйрбайк",
+        "hy": "Ասոլթ հեծանիվ"
+      },
+      "catalog.cardio-burpee": {
+        "en": "Burpee",
+        "ru": "Бёрпи",
+        "hy": "Բերպի"
+      },
+      "catalog.cardio-cycling": {
+        "en": "Cycling",
+        "ru": "Велоспорт",
+        "hy": "Հեծանվավարություն"
+      },
+      "catalog.cardio-elliptical": {
+        "en": "Elliptical",
+        "ru": "Эллипс",
+        "hy": "Էլիպտիկ"
+      },
+      "catalog.cardio-high-knees": {
+        "en": "High Knees",
+        "ru": "Бег с высоким подниманием бедра",
+        "hy": "Բարձր ծնկներ"
+      },
+      "catalog.cardio-incline-walk": {
+        "en": "Incline Walk",
+        "ru": "Ходьба в гору",
+        "hy": "Թեքված քայլք"
+      },
+      "catalog.cardio-jump-rope": {
+        "en": "Jump Rope",
+        "ru": "Скакалка",
+        "hy": "Պարան ցատկ"
+      },
+      "catalog.cardio-jumping-jack": {
+        "en": "Jumping Jack",
+        "ru": "Джампинг джек",
+        "hy": "Ցատկող ջեք"
+      },
+      "catalog.cardio-rowing": {
+        "en": "Rowing",
+        "ru": "Гребля",
+        "hy": "Թիավարում"
+      },
+      "catalog.cardio-rowing-machine": {
+        "en": "Rowing Machine",
+        "ru": "Гребной тренажёр",
+        "hy": "Թիավարման մեքենա"
+      },
+      "catalog.cardio-running": {
+        "en": "Running",
+        "ru": "Бег",
+        "hy": "Վազք"
+      },
+      "catalog.cardio-ski-erg": {
+        "en": "SkiErg",
+        "ru": "Лыжный эргометр",
+        "hy": "Դահուկային էրգ"
+      },
+      "catalog.cardio-spin-bike": {
+        "en": "Spin Bike",
+        "ru": "Сайкл-байк",
+        "hy": "Սպին հեծանիվ"
+      },
+      "catalog.cardio-stair-climber": {
+        "en": "Stair Climber",
+        "ru": "Степпер",
+        "hy": "Աստիճանաբարձ"
+      },
+      "catalog.cardio-stairmaster": {
+        "en": "StairMaster",
+        "ru": "Степпер StairMaster",
+        "hy": "StairMaster"
+      },
+      "catalog.cardio-stationary-bike": {
+        "en": "Stationary Bike",
+        "ru": "Велотренажёр",
+        "hy": "Ստացիոնար հեծանիվ"
+      },
+      "catalog.cardio-swimming": {
+        "en": "Swimming",
+        "ru": "Плавание",
+        "hy": "Լող"
+      },
+      "catalog.cardio-treadmill": {
+        "en": "Treadmill",
+        "ru": "Беговая дорожка",
+        "hy": "Վազքուղի"
+      },
+      "catalog.cardio-walking": {
+        "en": "Walking",
+        "ru": "Ходьба",
+        "hy": "Քայլք"
+      },
+      "catalog.chest-bench-press": {
+        "en": "Bench Press",
+        "ru": "Жим лёжа",
+        "hy": "Նստարանային մամուլ"
+      },
+      "catalog.chest-cable-crossover": {
+        "en": "Cable Crossover",
+        "ru": "Кроссовер на блоке",
+        "hy": "Կաբելային խաչաձև"
+      },
+      "catalog.chest-cable-fly": {
+        "en": "Cable Fly",
+        "ru": "Разведение на блоке",
+        "hy": "Կաբելային թռիչք"
+      },
+      "catalog.chest-chest-dip": {
+        "en": "Chest Dip",
+        "ru": "Отжимания на брусьях (грудь)",
+        "hy": "Կրծքային դիպեր"
+      },
+      "catalog.chest-decline-bench-press": {
+        "en": "Decline Bench Press",
+        "ru": "Жим лёжа вниз головой",
+        "hy": "Թեքված ներքև մամուլ"
+      },
+      "catalog.chest-decline-dumbbell-press": {
+        "en": "Decline Dumbbell Press",
+        "ru": "Жим гантелей вниз головой",
+        "hy": "Թեքված ներքև համրերով մամուլ"
+      },
+      "catalog.chest-decline-push-up": {
+        "en": "Decline Push-Up",
+        "ru": "Отжимания вниз головой",
+        "hy": "Թեքված ներքև հրումներ"
+      },
+      "catalog.chest-diamond-push-up": {
+        "en": "Diamond Push-Up",
+        "ru": "Алмазные отжимания",
+        "hy": "Ադամանդե հրումներ"
+      },
+      "catalog.chest-dumbbell-bench-press": {
+        "en": "Dumbbell Bench Press",
+        "ru": "Жим гантелей лёжа",
+        "hy": "Համրերով մամուլ"
+      },
+      "catalog.chest-dumbbell-fly": {
+        "en": "Dumbbell Fly",
+        "ru": "Разведение гантелей лёжа",
+        "hy": "Համրերով թռիչք"
+      },
+      "catalog.chest-dumbbell-pullover": {
+        "en": "Dumbbell Pullover",
+        "ru": "Пуловер с гантелью",
+        "hy": "Գանտելային փուլովեր"
+      },
+      "catalog.chest-floor-press": {
+        "en": "Floor Press",
+        "ru": "Жим лёжа на полу",
+        "hy": "Հատակի մամուլ"
+      },
+      "catalog.chest-incline-bench-press": {
+        "en": "Incline Bench Press",
+        "ru": "Жим лёжа на наклонной",
+        "hy": "Թեքված վերև մամուլ"
+      },
+      "catalog.chest-incline-dumbbell-fly": {
+        "en": "Incline Dumbbell Fly",
+        "ru": "Разведение гантелей на наклонной",
+        "hy": "Թեքված վերև համրերով թռիչք"
+      },
+      "catalog.chest-incline-dumbbell-press": {
+        "en": "Incline Dumbbell Press",
+        "ru": "Жим гантелей на наклонной",
+        "hy": "Թեքված վերև համրերով մամուլ"
+      },
+      "catalog.chest-incline-machine-press": {
+        "en": "Incline Machine Press",
+        "ru": "Жим в тренажёре на наклонной",
+        "hy": "Թեքված վերև մեքենայով մամուլ"
+      },
+      "catalog.chest-incline-push-up": {
+        "en": "Incline Push-Up",
+        "ru": "Отжимания с упором выше",
+        "hy": "Թեքված վերև հրումներ"
+      },
+      "catalog.chest-landmine-press": {
+        "en": "Landmine Press",
+        "ru": "Жим лендмайн",
+        "hy": "Լենդմայն մամուլ"
+      },
+      "catalog.chest-low-to-high-cable-fly": {
+        "en": "Low-to-High Cable Fly",
+        "ru": "Сведение на блоках снизу вверх",
+        "hy": "Ցածրից բարձր կաբելային թռիչք"
+      },
+      "catalog.chest-machine-chest-press": {
+        "en": "Machine Chest Press",
+        "ru": "Жим в тренажёре на грудь",
+        "hy": "Կրծքի մեքենայով մամուլ"
+      },
+      "catalog.chest-pec-deck": {
+        "en": "Pec Deck",
+        "ru": "Пек-дек",
+        "hy": "Պեկ-դեկ"
+      },
+      "catalog.chest-push-up": {
+        "en": "Push-Up",
+        "ru": "Отжимания",
+        "hy": "Հրումներ"
+      },
+      "catalog.chest-smith-incline-press": {
+        "en": "Smith Machine Incline Press",
+        "ru": "Жим в Смите на наклонной",
+        "hy": "Սմիթի թեք մամուլ"
+      },
+      "catalog.chest-smith-machine-bench-press": {
+        "en": "Smith Machine Bench Press",
+        "ru": "Жим лёжа в Смите",
+        "hy": "Սմիթ մեքենայով մամուլ"
+      },
+      "catalog.chest-squeeze-press": {
+        "en": "Squeeze Press",
+        "ru": "Жим со сжатием",
+        "hy": "Սեղմման մամուլ"
+      },
+      "catalog.chest-svend-press": {
+        "en": "Svend Press",
+        "ru": "Жим Свенда",
+        "hy": "Սվենդ մամուլ"
+      },
+      "catalog.chest-weighted-chest-dip": {
+        "en": "Weighted Chest Dip",
+        "ru": "Отжимания на брусьях с весом",
+        "hy": "Կշռով կրծքային դիպեր"
+      },
+      "catalog.core-ab-wheel": {
+        "en": "Ab Wheel",
+        "ru": "Ролик для пресса",
+        "hy": "Որովայնի անիվ"
+      },
+      "catalog.core-bicycle-crunch": {
+        "en": "Bicycle Crunch",
+        "ru": "Велосипед",
+        "hy": "Հեծանիվ կրանչ"
+      },
+      "catalog.core-bird-dog": {
+        "en": "Bird Dog",
+        "ru": "Бёрд-дог",
+        "hy": "Թռչուն-շուն"
+      },
+      "catalog.core-cable-crunch": {
+        "en": "Cable Crunch",
+        "ru": "Скручивания на блоке",
+        "hy": "Կաբելային կրանչ"
+      },
+      "catalog.core-captains-chair-knee-raise": {
+        "en": "Captain's Chair Knee Raise",
+        "ru": "Подъём коленей в упоре",
+        "hy": "Նստարանով ծնկների բարձրացում"
+      },
+      "catalog.core-crunch": {
+        "en": "Crunch",
+        "ru": "Скручивания",
+        "hy": "Կրանչ"
+      },
+      "catalog.core-dead-bug": {
+        "en": "Dead Bug",
+        "ru": "Мёртвый жук",
+        "hy": "Մեռած բզեզ"
+      },
+      "catalog.core-decline-sit-up": {
+        "en": "Decline Sit-Up",
+        "ru": "Скручивания на наклонной",
+        "hy": "Թեքված նստել-վեր կանգնել"
+      },
+      "catalog.core-dragon-flag": {
+        "en": "Dragon Flag",
+        "ru": "Флаг дракона",
+        "hy": "Վիշապի դրոշ"
+      },
+      "catalog.core-hanging-knee-raise": {
+        "en": "Hanging Knee Raise",
+        "ru": "Подъём коленей в висе",
+        "hy": "Կախված ծնկների բարձրացում"
+      },
+      "catalog.core-hanging-leg-raise": {
+        "en": "Hanging Leg Raise",
+        "ru": "Подъём ног в висе",
+        "hy": "Կախված ոտքերի բարձրացում"
+      },
+      "catalog.core-hanging-windshield-wiper": {
+        "en": "Hanging Windshield Wiper",
+        "ru": "«Дворники» в висе",
+        "hy": "Կախված ապակեմաքրիչ"
+      },
+      "catalog.core-hollow-hold": {
+        "en": "Hollow Hold",
+        "ru": "Удержание «лодочки»",
+        "hy": "Խոռոչ պահում"
+      },
+      "catalog.core-leg-raise": {
+        "en": "Lying Leg Raise",
+        "ru": "Подъём ног лёжа",
+        "hy": "Պառկած ոտքերի բարձրացում"
+      },
+      "catalog.core-machine-crunch": {
+        "en": "Machine Crunch",
+        "ru": "Скручивания в тренажёре",
+        "hy": "Մեքենայով կրանչ"
+      },
+      "catalog.core-mountain-climber": {
+        "en": "Mountain Climber",
+        "ru": "Альпинист",
+        "hy": "Լեռնագնաց"
+      },
+      "catalog.core-pallof-press": {
+        "en": "Pallof Press",
+        "ru": "Жим Паллофа",
+        "hy": "Պալոֆ մամուլ"
+      },
+      "catalog.core-plank": {
+        "en": "Plank",
+        "ru": "Планка",
+        "hy": "Պլանկ"
+      },
+      "catalog.core-russian-twist": {
+        "en": "Russian Twist",
+        "ru": "Русские скручивания",
+        "hy": "Ռուսական պտույտ"
+      },
+      "catalog.core-side-plank": {
+        "en": "Side Plank",
+        "ru": "Боковая планка",
+        "hy": "Կողային տախտակ"
+      },
+      "catalog.core-sit-up": {
+        "en": "Sit-Up",
+        "ru": "Подъём корпуса",
+        "hy": "Նստել-վեր կանգնել"
+      },
+      "catalog.core-toes-to-bar": {
+        "en": "Toes-to-Bar",
+        "ru": "Носки к перекладине",
+        "hy": "Մատներ դեպի ձող"
+      },
+      "catalog.core-v-up": {
+        "en": "V-Up",
+        "ru": "V-подъёмы",
+        "hy": "V-բարձրացում"
+      },
+      "catalog.core-weighted-russian-twist": {
+        "en": "Weighted Russian Twist",
+        "ru": "Русские скручивания с весом",
+        "hy": "Կշռով ռուսական պտույտ"
+      },
+      "catalog.core-woodchop": {
+        "en": "Cable Woodchop",
+        "ru": "Рубка дров на блоке",
+        "hy": "Կաբելային փայտահատում"
+      },
+      "catalog.legs-back-squat": {
+        "en": "Back Squat",
+        "ru": "Приседания со штангой на спине",
+        "hy": "Հետևի սքվաթ"
+      },
+      "catalog.legs-belt-squat": {
+        "en": "Belt Squat",
+        "ru": "Приседания с поясом",
+        "hy": "Գոտիով սքվաթ"
+      },
+      "catalog.legs-bodyweight-squat": {
+        "en": "Bodyweight Squat",
+        "ru": "Приседания с собственным весом",
+        "hy": "Սեփական քաշով սքվաթ"
+      },
+      "catalog.legs-bulgarian-split-squat": {
+        "en": "Bulgarian Split Squat",
+        "ru": "Болгарские выпады",
+        "hy": "Բուլղարական սպլիտ սքվաթ"
+      },
+      "catalog.legs-cable-pull-through": {
+        "en": "Cable Pull-Through",
+        "ru": "Пулл-тру на блоке",
+        "hy": "Կաբելային փուլ-թրու"
+      },
+      "catalog.legs-donkey-calf-raise": {
+        "en": "Donkey Calf Raise",
+        "ru": "Подъёмы на носки «осёл»",
+        "hy": "Էշիկի սրունքի բարձրացում"
+      },
+      "catalog.legs-dumbbell-lunge": {
+        "en": "Dumbbell Lunge",
+        "ru": "Выпады с гантелями",
+        "hy": "Համրերով թռիչքներ"
+      },
+      "catalog.legs-dumbbell-romanian-deadlift": {
+        "en": "Dumbbell Romanian Deadlift",
+        "ru": "Румынская тяга с гантелями",
+        "hy": "Համրերով ռումինական քաշում"
+      },
+      "catalog.legs-front-squat": {
+        "en": "Front Squat",
+        "ru": "Фронтальные приседания",
+        "hy": "Առջևի սքվաթ"
+      },
+      "catalog.legs-glute-bridge": {
+        "en": "Glute Bridge",
+        "ru": "Ягодичный мост",
+        "hy": "Գլյուտե կամուրջ"
+      },
+      "catalog.legs-glute-ham-raise": {
+        "en": "Glute-Ham Raise",
+        "ru": "Подъём ягодицы-бицепса бедра",
+        "hy": "Գլյուտ-համ բարձրացում"
+      },
+      "catalog.legs-glute-kickback": {
+        "en": "Glute Kickback",
+        "ru": "Отведение ноги назад",
+        "hy": "Գլյուտե հետհարված"
+      },
+      "catalog.legs-goblet-squat": {
+        "en": "Goblet Squat",
+        "ru": "Приседания гоблет",
+        "hy": "Գոբլետ սքվաթ"
+      },
+      "catalog.legs-hack-squat": {
+        "en": "Hack Squat",
+        "ru": "Гакк-приседания",
+        "hy": "Հաք սքվաթ"
+      },
+      "catalog.legs-hip-abduction": {
+        "en": "Hip Abduction",
+        "ru": "Отведение бедра",
+        "hy": "Ազդրի առևանգում"
+      },
+      "catalog.legs-hip-adduction": {
+        "en": "Hip Adduction",
+        "ru": "Приведение бедра",
+        "hy": "Ազդրի մոտեցում"
+      },
+      "catalog.legs-hip-thrust": {
+        "en": "Hip Thrust",
+        "ru": "Ягодичный толчок",
+        "hy": "Ազդրի հրում"
+      },
+      "catalog.legs-lateral-lunge": {
+        "en": "Lateral Lunge",
+        "ru": "Боковые выпады",
+        "hy": "Կողային թռիչք"
+      },
+      "catalog.legs-leg-extension": {
+        "en": "Leg Extension",
+        "ru": "Разгибание ног",
+        "hy": "Ոտքի երկարացում"
+      },
+      "catalog.legs-leg-press": {
+        "en": "Leg Press",
+        "ru": "Жим ногами",
+        "hy": "Ոտքերի մամուլ"
+      },
+      "catalog.legs-leg-press-calf-raise": {
+        "en": "Leg Press Calf Raise",
+        "ru": "Подъёмы на носки в жиме ногами",
+        "hy": "Ոտքերի մամուլով սրունք"
+      },
+      "catalog.legs-lying-leg-curl": {
+        "en": "Lying Leg Curl",
+        "ru": "Сгибание ног лёжа",
+        "hy": "Պառկած ոտքի ծալում"
+      },
+      "catalog.legs-machine-hip-thrust": {
+        "en": "Machine Hip Thrust",
+        "ru": "Ягодичный мост в тренажёре",
+        "hy": "Մեքենայով ազդրի մղում"
+      },
+      "catalog.legs-nordic-curl": {
+        "en": "Nordic Curl",
+        "ru": "Скандинавские сгибания",
+        "hy": "Նորդիկ ծալում"
+      },
+      "catalog.legs-pendulum-squat": {
+        "en": "Pendulum Squat",
+        "ru": "Приседания в маятниковом тренажёре",
+        "hy": "Ճոճանակ սքվաթ"
+      },
+      "catalog.legs-pistol-squat": {
+        "en": "Pistol Squat",
+        "ru": "Приседания «пистолетик»",
+        "hy": "Ատրճանակ սքվաթ"
+      },
+      "catalog.legs-reverse-lunge": {
+        "en": "Reverse Lunge",
+        "ru": "Обратные выпады",
+        "hy": "Հակառակ թռիչք"
+      },
+      "catalog.legs-romanian-deadlift": {
+        "en": "Romanian Deadlift",
+        "ru": "Румынская тяга",
+        "hy": "Ռումինական քաշում"
+      },
+      "catalog.legs-seated-calf-raise": {
+        "en": "Seated Calf Raise",
+        "ru": "Подъёмы на носки сидя",
+        "hy": "Նստած սրունքի բարձրացում"
+      },
+      "catalog.legs-seated-leg-curl": {
+        "en": "Seated Leg Curl",
+        "ru": "Сгибание ног сидя",
+        "hy": "Նստած ոտքի ծալում"
+      },
+      "catalog.legs-single-leg-press": {
+        "en": "Single-Leg Press",
+        "ru": "Жим одной ногой",
+        "hy": "Մեկ ոտքով մամուլ"
+      },
+      "catalog.legs-single-leg-romanian-deadlift": {
+        "en": "Single-Leg Romanian Deadlift",
+        "ru": "Румынская тяга на одной ноге",
+        "hy": "Մեկ ոտքով ռումինական քաշում"
+      },
+      "catalog.legs-sissy-squat": {
+        "en": "Sissy Squat",
+        "ru": "Сисси-приседания",
+        "hy": "Սիսի սքվաթ"
+      },
+      "catalog.legs-smith-machine-squat": {
+        "en": "Smith Machine Squat",
+        "ru": "Приседания в Смите",
+        "hy": "Սմիթ մեքենայով սքվաթ"
+      },
+      "catalog.legs-smith-romanian-deadlift": {
+        "en": "Smith Machine Romanian Deadlift",
+        "ru": "Румынская тяга в Смите",
+        "hy": "Սմիթի ռումինական քաշում"
+      },
+      "catalog.legs-split-squat": {
+        "en": "Split Squat",
+        "ru": "Сплит-присед",
+        "hy": "Սպլիտ կքանստում"
+      },
+      "catalog.legs-standing-calf-raise": {
+        "en": "Standing Calf Raise",
+        "ru": "Подъёмы на носки стоя",
+        "hy": "Կանգնած սրունքի բարձրացում"
+      },
+      "catalog.legs-standing-leg-curl": {
+        "en": "Standing Leg Curl",
+        "ru": "Сгибание ног стоя",
+        "hy": "Կանգնած ոտքի ծալում"
+      },
+      "catalog.legs-step-up": {
+        "en": "Step-Up",
+        "ru": "Зашагивания",
+        "hy": "Քայլ վեր"
+      },
+      "catalog.legs-stiff-leg-deadlift": {
+        "en": "Stiff-Leg Deadlift",
+        "ru": "Тяга на прямых ногах",
+        "hy": "Ուղիղ ոտքերով քաշում"
+      },
+      "catalog.legs-sumo-squat": {
+        "en": "Sumo Squat",
+        "ru": "Присед сумо",
+        "hy": "Սումո կքանստում"
+      },
+      "catalog.legs-walking-lunge": {
+        "en": "Walking Lunge",
+        "ru": "Выпады в ходьбе",
+        "hy": "Քայլող թռիչքներ"
+      },
+      "catalog.legs-wall-sit": {
+        "en": "Wall Sit",
+        "ru": "Присед у стены",
+        "hy": "Պատի նստացում"
+      },
+      "catalog.legs-zercher-squat": {
+        "en": "Zercher Squat",
+        "ru": "Присед Зерхера",
+        "hy": "Զերխերի կքանստում"
+      },
+      "catalog.mobility-ankle-dorsiflexion": {
+        "en": "Ankle Dorsiflexion Stretch",
+        "ru": "Растяжка голеностопа",
+        "hy": "Կոճի ձգում"
+      },
+      "catalog.mobility-cat-cow": {
+        "en": "Cat-Cow",
+        "ru": "Кошка-корова",
+        "hy": "Կատու-կով"
+      },
+      "catalog.mobility-couch-stretch": {
+        "en": "Couch Stretch",
+        "ru": "Растяжка у дивана",
+        "hy": "Բազմոցի ձգում"
+      },
+      "catalog.mobility-hip-90-90": {
+        "en": "90/90 Hip Stretch",
+        "ru": "Растяжка бёдер 90/90",
+        "hy": "Ազդրերի ձգում 90/90"
+      },
+      "catalog.mobility-neck-rolls": {
+        "en": "Neck Rolls",
+        "ru": "Круги шеей",
+        "hy": "Պարանոցի շրջաններ"
+      },
+      "catalog.mobility-pigeon-stretch": {
+        "en": "Pigeon Stretch",
+        "ru": "Растяжка «голубь»",
+        "hy": "Աղավնու ձգում"
+      },
+      "catalog.mobility-shoulder-dislocate": {
+        "en": "Shoulder Dislocates",
+        "ru": "Плечевые проносы",
+        "hy": "Ուսերի պտույտներ"
+      },
+      "catalog.mobility-standing-forward-fold": {
+        "en": "Standing Forward Fold",
+        "ru": "Наклон вперёд стоя",
+        "hy": "Առաջ ծալում կանգնած"
+      },
+      "catalog.mobility-thoracic-open-book": {
+        "en": "Thoracic Open Book",
+        "ru": "Грудной «открытая книга»",
+        "hy": "Կրծքային «բաց գիրք»"
+      },
+      "catalog.mobility-thread-the-needle": {
+        "en": "Thread the Needle",
+        "ru": "Иголка в нитку",
+        "hy": "Ասեղ թելի մեջ"
+      },
+      "catalog.mobility-worlds-greatest-stretch": {
+        "en": "World's Greatest Stretch",
+        "ru": "Мировая растяжка",
+        "hy": "Համաշխարհային ձգում"
+      },
+      "catalog.mobility-wrist-circles": {
+        "en": "Wrist Circles",
+        "ru": "Круги кистями",
+        "hy": "Դաստակի շրջաններ"
+      },
+      "catalog.other-battle-ropes": {
+        "en": "Battle Ropes",
+        "ru": "Канатами",
+        "hy": "Մարտական պարաններ"
+      },
+      "catalog.other-box-jump": {
+        "en": "Box Jump",
+        "ru": "Запрыгивания на тумбу",
+        "hy": "Արկղի ցատկ"
+      },
+      "catalog.other-clean-and-jerk": {
+        "en": "Clean and Jerk",
+        "ru": "Толчок",
+        "hy": "Մաքրում և հրում"
+      },
+      "catalog.other-dead-hang": {
+        "en": "Dead Hang",
+        "ru": "Вис",
+        "hy": "Մեռած կախում"
+      },
+      "catalog.other-farmer-carry": {
+        "en": "Farmer Carry",
+        "ru": "Прогулка фермера",
+        "hy": "Ֆերմերի տեղափոխում"
+      },
+      "catalog.other-hang-clean": {
+        "en": "Hang Clean",
+        "ru": "Подъём на грудь с виса",
+        "hy": "Կախված մաքրում"
+      },
+      "catalog.other-kettlebell-clean": {
+        "en": "Kettlebell Clean",
+        "ru": "Подъём гири на грудь",
+        "hy": "Գիրի մաքրում"
+      },
+      "catalog.other-kettlebell-goblet-squat": {
+        "en": "Kettlebell Goblet Squat",
+        "ru": "Приседания с гирей гоблет",
+        "hy": "Գիրի գոբլետ սքվաթ"
+      },
+      "catalog.other-kettlebell-snatch": {
+        "en": "Kettlebell Snatch",
+        "ru": "Рывок гири",
+        "hy": "Գիրի պոկում"
+      },
+      "catalog.other-kettlebell-swing": {
+        "en": "Kettlebell Swing",
+        "ru": "Махи гирей",
+        "hy": "Գիրի ճոճում"
+      },
+      "catalog.other-landmine-rotation": {
+        "en": "Landmine Rotation",
+        "ru": "Ротации лендмайн",
+        "hy": "Լենդմայն պտույտ"
+      },
+      "catalog.other-medicine-ball-slam": {
+        "en": "Medicine Ball Slam",
+        "ru": "Удары медболом об пол",
+        "hy": "Բժշկական գնդակի հարված"
+      },
+      "catalog.other-muscle-up": {
+        "en": "Muscle-Up",
+        "ru": "Масл-ап",
+        "hy": "Մասլ-ափ"
+      },
+      "catalog.other-overhead-carry": {
+        "en": "Overhead Carry",
+        "ru": "Переноска над головой",
+        "hy": "Գլխավերև տեղափոխում"
+      },
+      "catalog.other-plate-pinch": {
+        "en": "Plate Pinch",
+        "ru": "Удержание дисков щипком",
+        "hy": "Սկավառակի սեղմում"
+      },
+      "catalog.other-power-clean": {
+        "en": "Power Clean",
+        "ru": "Силовой подъём на грудь",
+        "hy": "Ուժային մաքրում"
+      },
+      "catalog.other-power-snatch": {
+        "en": "Power Snatch",
+        "ru": "Силовой рывок",
+        "hy": "Ուժային պոկում"
+      },
+      "catalog.other-prowler-push": {
+        "en": "Prowler Push",
+        "ru": "Толкание саней",
+        "hy": "Prowler հրում"
+      },
+      "catalog.other-sled-pull": {
+        "en": "Sled Pull",
+        "ru": "Тяга саней",
+        "hy": "Սահնակ քաշում"
+      },
+      "catalog.other-sled-push": {
+        "en": "Sled Push",
+        "ru": "Толкание саней",
+        "hy": "Սահնակ հրում"
+      },
+      "catalog.other-snatch": {
+        "en": "Snatch",
+        "ru": "Рывок",
+        "hy": "Պոկում"
+      },
+      "catalog.other-suitcase-carry": {
+        "en": "Suitcase Carry",
+        "ru": "Переноска чемодана",
+        "hy": "Ճամպրուկի տեղափոխում"
+      },
+      "catalog.other-thruster": {
+        "en": "Thruster",
+        "ru": "Трастеры",
+        "hy": "Թրաստեր"
+      },
+      "catalog.other-tire-flip": {
+        "en": "Tire Flip",
+        "ru": "Переворот покрышки",
+        "hy": "Անվադողի շրջում"
+      },
+      "catalog.other-turkish-get-up": {
+        "en": "Turkish Get-Up",
+        "ru": "Турецкий подъём",
+        "hy": "Թուրքական վեր կանգնել"
+      },
+      "catalog.other-wall-ball": {
+        "en": "Wall Ball",
+        "ru": "Броски мяча в стену",
+        "hy": "Պատի գնդակ"
+      },
+      "catalog.shoulders-arnold-press": {
+        "en": "Arnold Press",
+        "ru": "Жим Арнольда",
+        "hy": "Արնոլդ մամուլ"
+      },
+      "catalog.shoulders-bradford-press": {
+        "en": "Bradford Press",
+        "ru": "Жим Брэдфорда",
+        "hy": "Բրեդֆորդ մամուլ"
+      },
+      "catalog.shoulders-cable-front-raise": {
+        "en": "Cable Front Raise",
+        "ru": "Подъёмы перед собой на блоке",
+        "hy": "Կաբելային առջևի բարձրացում"
+      },
+      "catalog.shoulders-cable-lateral-raise": {
+        "en": "Cable Lateral Raise",
+        "ru": "Подъёмы в стороны на блоке",
+        "hy": "Կաբելային կողային բարձրացում"
+      },
+      "catalog.shoulders-cable-rear-delt-fly": {
+        "en": "Cable Rear Delt Fly",
+        "ru": "Разведение на задние дельты на блоке",
+        "hy": "Կաբելային հետին դելտ թռիչք"
+      },
+      "catalog.shoulders-cable-upright-row": {
+        "en": "Cable Upright Row",
+        "ru": "Тяга к подбородку на блоке",
+        "hy": "Կաբելային ուղղահայաց քաշում"
+      },
+      "catalog.shoulders-cuban-press": {
+        "en": "Cuban Press",
+        "ru": "Кубинский жим",
+        "hy": "Կուբայական մամուլ"
+      },
+      "catalog.shoulders-dumbbell-upright-row": {
+        "en": "Dumbbell Upright Row",
+        "ru": "Тяга гантелей к подбородку",
+        "hy": "Համրերով ուղիղ քաշում"
+      },
+      "catalog.shoulders-front-raise": {
+        "en": "Front Raise",
+        "ru": "Подъёмы перед собой",
+        "hy": "Առջևի բարձրացում"
+      },
+      "catalog.shoulders-handstand-push-up": {
+        "en": "Handstand Push-Up",
+        "ru": "Отжимания в стойке на руках",
+        "hy": "Ձեռքի կանգնած հրումներ"
+      },
+      "catalog.shoulders-landmine-lateral-raise": {
+        "en": "Landmine Lateral Raise",
+        "ru": "Боковой подъём с лендмайна",
+        "hy": "Լենդմայն կողային բարձրացում"
+      },
+      "catalog.shoulders-lateral-raise": {
+        "en": "Lateral Raise",
+        "ru": "Подъёмы в стороны",
+        "hy": "Կողային բարձրացում"
+      },
+      "catalog.shoulders-lu-raise": {
+        "en": "Lu Raise",
+        "ru": "Подъёмы Лу",
+        "hy": "Լու բարձրացում"
+      },
+      "catalog.shoulders-machine-lateral-raise": {
+        "en": "Machine Lateral Raise",
+        "ru": "Подъёмы в стороны в тренажёре",
+        "hy": "Մեքենայով կողային բարձրացում"
+      },
+      "catalog.shoulders-machine-shoulder-press": {
+        "en": "Machine Shoulder Press",
+        "ru": "Жим плечами в тренажёре",
+        "hy": "Մեքենայով ուսերի մամուլ"
+      },
+      "catalog.shoulders-overhead-press": {
+        "en": "Overhead Press",
+        "ru": "Жим стоя",
+        "hy": "Գլխավերև մամուլ"
+      },
+      "catalog.shoulders-pike-push-up": {
+        "en": "Pike Push-Up",
+        "ru": "Отжимания «щука»",
+        "hy": "Պայկ հրումներ"
+      },
+      "catalog.shoulders-push-press": {
+        "en": "Push Press",
+        "ru": "Швунг жимовой",
+        "hy": "Պուշ-պրես"
+      },
+      "catalog.shoulders-rear-delt-fly": {
+        "en": "Rear Delt Fly",
+        "ru": "Разведение на задние дельты",
+        "hy": "Հետին դելտ թռիչք"
+      },
+      "catalog.shoulders-reverse-pec-deck": {
+        "en": "Reverse Pec Deck",
+        "ru": "Обратный пек-дек",
+        "hy": "Հակառակ պեկ-դեկ"
+      },
+      "catalog.shoulders-seated-barbell-press": {
+        "en": "Seated Barbell Press",
+        "ru": "Жим штанги сидя",
+        "hy": "Նստած ձողով մամուլ"
+      },
+      "catalog.shoulders-seated-dumbbell-press": {
+        "en": "Seated Dumbbell Press",
+        "ru": "Жим гантелей сидя",
+        "hy": "Նստած համրերով մամուլ"
+      },
+      "catalog.shoulders-single-arm-dumbbell-press": {
+        "en": "Single-Arm Dumbbell Press",
+        "ru": "Жим гантели одной рукой",
+        "hy": "Մեկ ձեռքով գանտելային մամուլ"
+      },
+      "catalog.shoulders-standing-dumbbell-press": {
+        "en": "Standing Dumbbell Press",
+        "ru": "Жим гантелей стоя",
+        "hy": "Կանգնած համրերով մամուլ"
+      },
+      "catalog.shoulders-upright-row": {
+        "en": "Upright Row",
+        "ru": "Тяга к подбородку",
+        "hy": "Ուղիղ քաշում"
+      },
+      "catalog.shoulders-y-raise": {
+        "en": "Y-Raise",
+        "ru": "Подъёмы в Y",
+        "hy": "Y բարձրացում"
+      },
+      "catalogName": {
+        "en": "Catalog name",
+        "ru": "Название в каталоге",
+        "hy": "Կատալոգի անուն"
+      },
+      "category": {
+        "en": "Category",
+        "ru": "Категория",
+        "hy": "Կատեգորիա"
+      },
+      "categoryCaption": {
+        "en": "Muscle group or Cardio",
+        "ru": "Группа мышц или кардио",
+        "hy": "Մկանային խումբ կամ սրտանոթ"
+      },
+      "categoryExerciseCount": {
+        "en": "%lld exercises",
+        "ru": "%lld упражнений",
+        "hy": "%lld վարժություն"
+      },
+      "categoryPresetCount": {
+        "en": "%lld presets",
+        "ru": "%lld пресетов",
+        "hy": "%lld նախադրված"
+      },
+      "categorySelectedCount": {
+        "en": "%lld selected",
+        "ru": "%lld выбрано",
+        "hy": "%lld ընտրված"
+      },
+      "createCustom": {
+        "en": "Create Custom Exercise",
+        "ru": "Создать своё упражнение",
+        "hy": "Ստեղծել սեփական վարժություն"
+      },
+      "createCustomIn": {
+        "en": "Create Custom in %@",
+        "ru": "Создать своё в «%@»",
+        "hy": "Ստեղծել «%@»-ում"
+      },
+      "customName": {
+        "en": "Custom name",
+        "ru": "Своё название",
+        "hy": "Սեփական անուն"
+      },
+      "customNameFooter": {
+        "en": "Not translated. Search finds this name in any app language, along with English, Russian, and Armenian catalog titles.",
+        "ru": "Не переводится. Поиск находит это имя при любом языке приложения — вместе с названиями каталога на английском, русском и армянском.",
+        "hy": "Չի թարգմանվում։ Որոնումը գտնում է այս անունը ցանկացած լեզվով՝ նաև անգլերեն, ռուսերեն և հայերեն կատալոգային անուններով։"
+      },
+      "customNamePlaceholder": {
+        "en": "Optional nickname",
+        "ru": "Необязательное имя",
+        "hy": "Ոչ պարտադիր անուն"
+      },
+      "deleteCustomMessage": {
+        "en": "“%@” will be removed from the library. Past workouts keep their logged sets.",
+        "ru": "«%@» будет удалено из библиотеки. Записанные подходы в прошлых тренировках сохранятся.",
+        "hy": "«%@» կհեռացվի գրադարանից։ Անցյալ մարզումների մոտեցումները կմնան։"
+      },
+      "deleteCustomTitle": {
+        "en": "Delete Custom Exercise?",
+        "ru": "Удалить своё упражнение?",
+        "hy": "Ջնջե՞լ հատուկ վարժությունը"
+      },
+      "edit": {
+        "en": "Edit Exercise",
+        "ru": "Редактировать упражнение",
+        "hy": "Խմբագրել վարժությունը"
+      },
+      "editTitle": {
+        "en": "Edit Exercise",
+        "ru": "Редактирование упражнения",
+        "hy": "Խմբագրել վարժությունը"
+      },
+      "favorite": {
+        "en": "Add to Favorites",
+        "ru": "Добавить в избранное",
+        "hy": "Ավելացնել ընտրյալներին"
+      },
+      "favorites": {
+        "en": "Favorites",
+        "ru": "Избранное",
+        "hy": "Ընտրյալներ"
+      },
+      "favorites.collapseA11y": {
+        "en": "Collapse favorites",
+        "ru": "Свернуть избранное",
+        "hy": "Ծալել ընտրյալները"
+      },
+      "favorites.expandA11y": {
+        "en": "Expand favorites",
+        "ru": "Развернуть избранное",
+        "hy": "Ծավալել ընտրյալները"
+      },
+      "form.arms-skull-crusher.cue1": {
+        "en": "Keep elbows fixed",
+        "ru": "Локти зафиксированы",
+        "hy": "Արմունկները ամրացրած"
+      },
+      "form.arms-skull-crusher.cue2": {
+        "en": "Lower toward the forehead",
+        "ru": "Опускайте ко лбу",
+        "hy": "Իջեցրեք դեպի ճակատ"
+      },
+      "form.arms-skull-crusher.cue3": {
+        "en": "Extend arms back up",
+        "ru": "Выпрямите руки вверх",
+        "hy": "Ուղղեք ձեռքերը վեր"
+      },
+      "form.back-face-pull.cue1": {
+        "en": "Elbows high",
+        "ru": "Локти высоко",
+        "hy": "Արմունկները բարձր"
+      },
+      "form.back-face-pull.cue2": {
+        "en": "Pull the rope to your face",
+        "ru": "Тяните канат к лицу",
+        "hy": "Պարանը ձգեք դեպի դեմք"
+      },
+      "form.back-face-pull.cue3": {
+        "en": "Rotate shoulders outward",
+        "ru": "Вращайте плечи наружу",
+        "hy": "Ուսերը պտտեք դուրս"
+      },
+      "form.back-good-morning.cue1": {
+        "en": "Bar rests on upper back",
+        "ru": "Гриф на верхней части спины",
+        "hy": "Ձողը վերին մեջքին"
+      },
+      "form.back-good-morning.cue2": {
+        "en": "Hinge forward from the hips",
+        "ru": "Наклон из тазобедренных",
+        "hy": "Ծալվեք ազդրերից առաջ"
+      },
+      "form.back-good-morning.cue3": {
+        "en": "Keep a soft knee bend",
+        "ru": "Колени слегка согнуты",
+        "hy": "Ծնկները թեթև ծալված"
+      },
+      "form.core-pallof-press.cue1": {
+        "en": "Press the handle straight out",
+        "ru": "Выжимайте рукоять вперед",
+        "hy": "Սեղմեք բռնակը առաջ"
+      },
+      "form.core-pallof-press.cue2": {
+        "en": "Stay square to the cable",
+        "ru": "Корпус лицом к тросу не крутите",
+        "hy": "Մարմինը պահեք ուղիղ"
+      },
+      "form.core-pallof-press.cue3": {
+        "en": "Resist twisting through the core",
+        "ru": "Не давайте корпусу скрутиться",
+        "hy": "Դիմադրեք ոլորմանը"
+      },
+      "form.fallback.arms.cue1": {
+        "en": "Isolate the target muscle — no body swing",
+        "ru": "Изолируйте мышцу — без раскачки",
+        "hy": "Մեկուսացրեք մկանը՝ առանց ճոճման"
+      },
+      "form.fallback.arms.cue2": {
+        "en": "Full control on the lowering phase",
+        "ru": "Контролируйте опускание",
+        "hy": "Վերահսկեք իջեցումը"
+      },
+      "form.fallback.arms.cue3": {
+        "en": "Keep elbows in a stable path",
+        "ru": "Держите локти на стабильной траектории",
+        "hy": "Արմունկները կայուն ուղով"
+      },
+      "form.fallback.back.cue1": {
+        "en": "Pull with your elbows, not your hands",
+        "ru": "Тяните локтями, не кистями",
+        "hy": "Ձգեք արմունկներով, ոչ ձեռքերով"
+      },
+      "form.fallback.back.cue2": {
+        "en": "Keep shoulders packed down",
+        "ru": "Плечи опущены и собраны",
+        "hy": "Ուսերը իջեցրած և հավաքված"
+      },
+      "form.fallback.back.cue3": {
+        "en": "Neutral spine — no rounding",
+        "ru": "Нейтральная спина — без округления",
+        "hy": "Չեզոք մեջք՝ առանց կլորացման"
+      },
+      "form.fallback.cardio.cue1": {
+        "en": "Settle into a sustainable pace",
+        "ru": "Выберите устойчивый темп",
+        "hy": "Ընտրեք կայուն տեմպ"
+      },
+      "form.fallback.cardio.cue2": {
+        "en": "Tall posture, relaxed shoulders",
+        "ru": "Прямая осанка, плечи расслаблены",
+        "hy": "Ուղիղ կեցվածք, թուլացած ուսեր"
+      },
+      "form.fallback.cardio.cue3": {
+        "en": "Breathe steadily through the set",
+        "ru": "Дышите ровно весь подход",
+        "hy": "Շնչեք հավասար ամբողջ մոտեցման ընթացքում"
+      },
+      "form.fallback.chest.cue1": {
+        "en": "Control the path — no bouncing",
+        "ru": "Контролируйте движение — без отскока",
+        "hy": "Վերահսկեք շարժումը՝ առանց ցատկի"
+      },
+      "form.fallback.chest.cue2": {
+        "en": "Full but pain-free range",
+        "ru": "Полная, но безболезненная амплитуда",
+        "hy": "Լրիվ՝ բայց առանց ցավի ամպլիտուդ"
+      },
+      "form.fallback.chest.cue3": {
+        "en": "Brace your torso before each rep",
+        "ru": "Напрягите корпус перед повтором",
+        "hy": "Ամրացրեք մարմինը յուրաքանչյուր կրկնումից առաջ"
+      },
+      "form.fallback.core.cue1": {
+        "en": "Brace like someone will poke your stomach",
+        "ru": "Напрягите пресс",
+        "hy": "Ամրացրեք որովայնը"
+      },
+      "form.fallback.core.cue2": {
+        "en": "Move slowly — quality over speed",
+        "ru": "Медленно — качество важнее скорости",
+        "hy": "Դանդաղ՝ որակը կարևոր է"
+      },
+      "form.fallback.core.cue3": {
+        "en": "Breathe out on the effort",
+        "ru": "Выдох на усилии",
+        "hy": "Արտաշնչեք ջանքի ժամանակ"
+      },
+      "form.fallback.legs.cue1": {
+        "en": "Knees track over mid-foot",
+        "ru": "Колени над серединой стопы",
+        "hy": "Ծնկները ոտքի միջնամասի վրայով"
+      },
+      "form.fallback.legs.cue2": {
+        "en": "Drive through the whole foot",
+        "ru": "Давите всей стопой",
+        "hy": "Սեղմեք ամբողջ ոտքով"
+      },
+      "form.fallback.legs.cue3": {
+        "en": "Brace before you move",
+        "ru": "Напрягите корпус перед движением",
+        "hy": "Ամրացրեք մարմինը շարժումից առաջ"
+      },
+      "form.fallback.other.cue1": {
+        "en": "Learn the setup before adding load",
+        "ru": "Освойте исходное положение до нагрузки",
+        "hy": "Սովորեք դիրքը բեռնից առաջ"
+      },
+      "form.fallback.other.cue2": {
+        "en": "Move with control — no rushed reps",
+        "ru": "Контроль — без спешки",
+        "hy": "Վերահսկվող շարժում՝ առանց շտապելու"
+      },
+      "form.fallback.other.cue3": {
+        "en": "Stop if form breaks down",
+        "ru": "Остановитесь, если техника ломается",
+        "hy": "Կանգ առեք, եթե տեխնիկան փչանում է"
+      },
+      "form.fallback.shoulders.cue1": {
+        "en": "Keep ribs down — no shrugging",
+        "ru": "Ребра опущены — без подъема плеч",
+        "hy": "Կողերը իջեցրած՝ առանց ուսերի բարձրացման"
+      },
+      "form.fallback.shoulders.cue2": {
+        "en": "Smooth tempo, lock only at the top if pain-free",
+        "ru": "Плавный темп, фиксация только без боли",
+        "hy": "Հարթ տեմպ, ֆիքսում միայն առանց ցավի"
+      },
+      "form.fallback.shoulders.cue3": {
+        "en": "Elbows slightly soft at the bottom",
+        "ru": "Локти слегка мягкие внизу",
+        "hy": "Արմունկները թեթև ծալված ներքևում"
+      },
+      "form.legs-bulgarian-split-squat.cue1": {
+        "en": "Rear foot elevated on a bench",
+        "ru": "Задняя нога на скамье",
+        "hy": "Հետևի ոտքը նստարանին"
+      },
+      "form.legs-bulgarian-split-squat.cue2": {
+        "en": "Keep torso upright",
+        "ru": "Корпус вертикально",
+        "hy": "Մարմինը ուղիղ"
+      },
+      "form.legs-bulgarian-split-squat.cue3": {
+        "en": "Front knee tracks over mid-foot",
+        "ru": "Переднее колено над стопой",
+        "hy": "Առջևի ծունկը ոտքի վրայով"
+      },
+      "form.legs-romanian-deadlift.cue1": {
+        "en": "Hinge at the hips",
+        "ru": "Сгибайтесь в тазобедренных",
+        "hy": "Ծալվեք ազդրերից"
+      },
+      "form.legs-romanian-deadlift.cue2": {
+        "en": "Keep a soft knee bend",
+        "ru": "Колени слегка согнуты",
+        "hy": "Ծնկները թեթև ծալված"
+      },
+      "form.legs-romanian-deadlift.cue3": {
+        "en": "Bar stays close to your legs",
+        "ru": "Гриф близко к ногам",
+        "hy": "Ձողը մոտ պահեք ոտքերին"
+      },
+      "formGuide.a11y": {
+        "en": "How to perform",
+        "ru": "Как выполнять",
+        "hy": "Ինչպես կատարել"
+      },
+      "formGuide.a11yHint": {
+        "en": "Shows a form guide for this exercise",
+        "ru": "Показывает подсказку по технике",
+        "hy": "Ցույց է տալիս վարժության տեխնիկան"
+      },
+      "formGuide.cuesTitle": {
+        "en": "Form cues",
+        "ru": "Подсказки по технике",
+        "hy": "Տեխնիկայի հուշումներ"
+      },
+      "formGuide.fallbackCaption": {
+        "en": "Illustration coming for this lift — use the cues below.",
+        "ru": "Иллюстрация скоро появится — пока ориентируйтесь на подсказки.",
+        "hy": "Պատկերը շուտով կավելանա — առայժմ օգտագործեք հուշումները։"
+      },
+      "formGuide.gotIt": {
+        "en": "Got it",
+        "ru": "Понятно",
+        "hy": "Պարզ է"
+      },
+      "formGuide.safetyTitle": {
+        "en": "Safety",
+        "ru": "Безопасность",
+        "hy": "Անվտանգություն"
+      },
+      "hasLoggedData": {
+        "en": "Logged",
+        "ru": "Есть записи",
+        "hy": "Գրանցված"
+      },
+      "howYouLog": {
+        "en": "How you’ll log sets",
+        "ru": "Как вы будете записывать подходы",
+        "hy": "Ինչպես կգրանցեք մոտեցումները"
+      },
+      "inWorkout": {
+        "en": "In this workout",
+        "ru": "В этой тренировке",
+        "hy": "Այս մարզման մեջ"
+      },
+      "instructions": {
+        "en": "Instructions",
+        "ru": "Инструкции",
+        "hy": "Հրահանգներ"
+      },
+      "instructions.addStep": {
+        "en": "Add step",
+        "ru": "Добавить шаг",
+        "hy": "Ավելացնել քայլ"
+      },
+      "instructions.footer": {
+        "en": "Optional. Shown in the form guide when you open this exercise.",
+        "ru": "Необязательно. Показывается в подсказке по технике при открытии упражнения.",
+        "hy": "Ընտրովի։ Կցուցադրվի ձևի ուղեցույցում այս վարժությունը բացելիս։"
+      },
+      "instructions.removeStep": {
+        "en": "Remove step",
+        "ru": "Удалить шаг",
+        "hy": "Հեռացնել քայլը"
+      },
+      "instructions.stepPlaceholder": {
+        "en": "e.g. Keep elbows tucked",
+        "ru": "напр. Держите локти ближе к телу",
+        "hy": "օր. Արմունկները պահեք մոտ"
+      },
+      "library.description": {
+        "en": "Browse muscle groups and add or edit exercises.",
+        "ru": "Просматривайте группы мышц, добавляйте и редактируйте упражнения.",
+        "hy": "Դիտեք մկանային խմբերը և ավելացրեք կամ խմբագրեք վարժությունները։"
+      },
+      "library.emptyGroup": {
+        "en": "No Exercises",
+        "ru": "Нет упражнений",
+        "hy": "Վարժություններ չկան"
+      },
+      "library.groups": {
+        "en": "Muscle Groups",
+        "ru": "Группы мышц",
+        "hy": "Մկանային խմբեր"
+      },
+      "library.title": {
+        "en": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Վարժություններ"
+      },
+      "loggingType": {
+        "en": "Logging Type",
+        "ru": "Тип записи",
+        "hy": "Գրանցման տեսակ"
+      },
+      "muscle.none": {
+        "en": "None",
+        "ru": "Нет",
+        "hy": "Չկա"
+      },
+      "muscle.primary": {
+        "en": "Primary",
+        "ru": "Основная",
+        "hy": "Հիմնական"
+      },
+      "muscle.secondary": {
+        "en": "Secondary",
+        "ru": "Вторичная",
+        "hy": "Երկրորդային"
+      },
+      "muscle.tertiary": {
+        "en": "Tertiary",
+        "ru": "Третичная",
+        "hy": "Երրորդային"
+      },
+      "myExercises": {
+        "en": "My exercises",
+        "ru": "Мои упражнения",
+        "hy": "Իմ վարժությունները"
+      },
+      "myExercisesEmpty": {
+        "en": "No custom exercises yet. Create one to see it here.",
+        "ru": "Пока нет своих упражнений. Создайте — и оно появится здесь.",
+        "hy": "Դեռ հատուկ վարժություններ չկան։ Ստեղծեք՝ այստեղ տեսնելու համար։"
+      },
+      "name": {
+        "en": "Exercise Name",
+        "ru": "Название упражнения",
+        "hy": "Վարժության անուն"
+      },
+      "namePlaceholder": {
+        "en": "e.g. Cable Crossover",
+        "ru": "напр. Кроссовер",
+        "hy": "օր. Cable Crossover"
+      },
+      "newTitle": {
+        "en": "New Exercise",
+        "ru": "Новое упражнение",
+        "hy": "Նոր վարժություն"
+      },
+      "picker.mode.showCards": {
+        "en": "Show exercise cards",
+        "ru": "Показать карточки упражнений",
+        "hy": "Ցուցադրել վարժությունների քարտեր"
+      },
+      "picker.mode.showList": {
+        "en": "Show exercise list",
+        "ru": "Показать список упражнений",
+        "hy": "Ցուցադրել վարժությունների ցանկ"
+      },
+      "pickerTitle": {
+        "en": "Add Exercise",
+        "ru": "Добавить упражнение",
+        "hy": "Ավելացնել վարժություն"
+      },
+      "popular": {
+        "en": "Popular",
+        "ru": "Популярные",
+        "hy": "Հայտնի"
+      },
+      "preview.distance": {
+        "en": "Preview: SET · KM · ✓",
+        "ru": "Превью: ПОДХОД · КМ · ✓",
+        "hy": "Նախադիտում՝ ՄՈՏԵՑՈՒՄ · ԿՄ · ✓"
+      },
+      "preview.duration": {
+        "en": "Preview: SET · SEC · ✓",
+        "ru": "Превью: ПОДХОД · СЕК · ✓",
+        "hy": "Նախադիտում՝ ՄՈՏԵՑՈՒՄ · ՎԱՐԿ · ✓"
+      },
+      "preview.reps": {
+        "en": "Preview: SET · REPS · ✓",
+        "ru": "Превью: ПОДХОД · ПОВТ · ✓",
+        "hy": "Նախադիտում՝ ՄՈՏԵՑՈՒՄ · ԿՐԿՆ · ✓"
+      },
+      "preview.weightReps": {
+        "en": "Preview: SET · KG · REPS · ✓",
+        "ru": "Превью: ПОДХОД · КГ · ПОВТ · ✓",
+        "hy": "Նախադիտում՝ ՄՈՏԵՑՈՒՄ · ԿԳ · ԿՐԿՆ · ✓"
+      },
+      "remove": {
+        "en": "Remove Exercise",
+        "ru": "Удалить упражнение",
+        "hy": "Հեռացնել վարժությունը"
+      },
+      "removeConfirmAction": {
+        "en": "Remove",
+        "ru": "Удалить",
+        "hy": "Հեռացնել"
+      },
+      "removeConfirmMessage": {
+        "en": "This exercise has logged sets. Are you sure you want to remove it from the workout?",
+        "ru": "У этого упражнения есть записанные подходы. Удалить его из тренировки?",
+        "hy": "Այս վարժության գրանցված մոտեցումներ կան։ Հեռացնե՞լ մարզումից։"
+      },
+      "removeConfirmTitle": {
+        "en": "Remove Exercise?",
+        "ru": "Удалить упражнение?",
+        "hy": "Հեռացնե՞լ վարժությունը"
+      },
+      "removeLoggedConfirm": {
+        "en": "Remove Logged Exercises",
+        "ru": "Удалить с записями",
+        "hy": "Հեռացնել գրանցվածները"
+      },
+      "removeLoggedMessage": {
+        "en": "Some exercises you unchecked have logged sets. Remove them from the workout?",
+        "ru": "У части снятых упражнений есть записанные подходы. Удалить их из тренировки?",
+        "hy": "Նշումը հանած վարժություններից մի քանիսը գրանցված մոտեցումներ ունեն։ Հեռացնե՞լ մարզումից։"
+      },
+      "removeLoggedTitle": {
+        "en": "Remove Logged Exercises?",
+        "ru": "Удалить упражнения с записями?",
+        "hy": "Հեռացնե՞լ գրանցված վարժությունները"
+      },
+      "search": {
+        "en": "Search exercises",
+        "ru": "Поиск упражнений",
+        "hy": "Որոնել վարժություն"
+      },
+      "searchEmptyDescription": {
+        "en": "Try another name, or create a custom exercise.",
+        "ru": "Попробуйте другое название или создайте своё упражнение.",
+        "hy": "Փորձեք այլ անուն կամ ստեղծեք սեփական վարժություն։"
+      },
+      "searchEmptyTitle": {
+        "en": "No exercises found",
+        "ru": "Упражнения не найдены",
+        "hy": "վարժություններ չգտնվեցին"
+      },
+      "setPreview": {
+        "en": "Set preview",
+        "ru": "Превью подхода",
+        "hy": "Մոտեցման նախադիտում"
+      },
+      "setPreviewFootnote": {
+        "en": "This is what you’ll fill in during the workout.",
+        "ru": "Так вы будете заполнять подходы на тренировке.",
+        "hy": "Մարզման ժամանակ հենց այսպես կլրացնեք մոտեցումները։"
+      },
+      "suggestedBalanceReason": {
+        "en": "Least recently trained",
+        "ru": "Давно не тренировалась",
+        "hy": "Ամենավաղ մարզված խումբը"
+      },
+      "suggestedGroup": {
+        "en": "Suggested Muscle Group",
+        "ru": "Рекомендуемая группа мышц",
+        "hy": "Առաջարկվող մկանային խումբ"
+      },
+      "unfavorite": {
+        "en": "Remove from Favorites",
+        "ru": "Удалить из избранного",
+        "hy": "Հեռացնել ընտրյալներից"
+      },
+      "unfavoriteConfirmMessage": {
+        "en": "Remove “%@” from Favorites?",
+        "ru": "Убрать «%@» из избранного?",
+        "hy": "Հեռացնե՞լ «%@»-ը ընտրյալներից"
+      },
+      "unfavoriteConfirmTitle": {
+        "en": "Remove Favorite?",
+        "ru": "Убрать из избранного?",
+        "hy": "Հեռացնե՞լ ընտրյալներից"
+      }
+    },
+    "Export": {
+      "cancel": {
+        "en": "Cancel",
+        "ru": "Отмена",
+        "hy": "Չեղարկել"
+      },
+      "create": {
+        "en": "Create File",
+        "ru": "Создать файл",
+        "hy": "Ստեղծել ֆայլ"
+      },
+      "format": {
+        "en": "Format",
+        "ru": "Формат",
+        "hy": "Ձևաչափ"
+      },
+      "format.csv": {
+        "en": "CSV (ZIP)",
+        "ru": "CSV (ZIP)",
+        "hy": "CSV (ZIP)"
+      },
+      "format.csvHint": {
+        "en": "CSV exports as a ZIP of tables so nested workouts stay round-trippable.",
+        "ru": "CSV экспортируется как ZIP с таблицами, чтобы сохранить структуру тренировок.",
+        "hy": "CSV-ն արտահանվում է որպես ZIP՝ մարզումների կառուցվածքը պահպանելու համար։"
+      },
+      "format.json": {
+        "en": "JSON",
+        "ru": "JSON",
+        "hy": "JSON"
+      },
+      "processing": {
+        "en": "Preparing export…",
+        "ru": "Подготовка экспорта…",
+        "hy": "Արտահանման պատրաստում…"
+      },
+      "range": {
+        "en": "Period",
+        "ru": "Период",
+        "hy": "Ժամանակահատված"
+      },
+      "share": {
+        "en": "Share",
+        "ru": "Поделиться",
+        "hy": "Կիսվել"
+      },
+      "title": {
+        "en": "Export",
+        "ru": "Экспорт",
+        "hy": "Արտահանում"
+      },
+      "workoutCount": {
+        "en": "%lld workouts in this period",
+        "ru": "%lld тренировок за период",
+        "hy": "%lld մարզում այս ժամանակահատվածում"
+      }
+    },
+    "Gate": {
+      "forceUpdate.action": {
+        "en": "Update in App Store",
+        "ru": "Обновить в App Store",
+        "hy": "Թարմացնել App Store-ում"
+      },
+      "forceUpdate.message": {
+        "en": "A newer version of Gym Logbook is required to continue.",
+        "ru": "Для продолжения нужна более новая версия Gym Logbook.",
+        "hy": "Շարունակելու համար անհրաժեշտ է Gym Logbook-ի ավելի նոր տարբերակ։"
+      },
+      "forceUpdate.title": {
+        "en": "Update required",
+        "ru": "Требуется обновление",
+        "hy": "Անհրաժեշտ է թարմացում"
+      },
+      "forceUpdate.upcoming": {
+        "en": "Coming in this update",
+        "ru": "В этом обновлении",
+        "hy": "Այս թարմացումում"
+      },
+      "maintenance.message": {
+        "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
+        "ru": "Gym Logbook на обслуживании. Попробуйте снова чуть позже.",
+        "hy": "Gym Logbook-ը սպասարկման մեջ է։ Խնդրում ենք փորձել մի փոքր ուշ։"
+      },
+      "maintenance.title": {
+        "en": "We'll be right back",
+        "ru": "Скоро вернёмся",
+        "hy": "Շուտով կվերադառնանք"
+      }
+    },
+    "HealthKit": {
+      "detail.notSaved": {
+        "en": "Not saved",
+        "ru": "Не сохранено",
+        "hy": "Չի պահպանվել"
+      },
+      "detail.saved": {
+        "en": "Saved",
+        "ru": "Сохранено",
+        "hy": "Պահպանված է"
+      },
+      "detail.status": {
+        "en": "Apple Health",
+        "ru": "Apple Health",
+        "hy": "Apple Health"
+      },
+      "settings.denied": {
+        "en": "Health access was denied. Enable Gym Logbook in the Health app to sync workouts.",
+        "ru": "Доступ к «Здоровью» запрещён. Разрешите Gym Logbook в приложении «Здоровье», чтобы синхронизировать тренировки.",
+        "hy": "Health մուտքը մերժվել է։ Մարզումները համաժամեցնելու համար թույլատրեք Gym Logbook-ը Health հավելվածում։"
+      },
+      "settings.footer": {
+        "en": "Finished workouts are saved to Apple Health as workout time only. Calories are never estimated or written.",
+        "ru": "Завершённые тренировки сохраняются в Apple Health только как время тренировки. Калории не оцениваются и не записываются.",
+        "hy": "Ավարտված մարզումները պահվում են Apple Health-ում միայն որպես մարզման ժամանակ։ Կալորիաներ չեն գնահատվում և չեն գրվում։"
+      },
+      "settings.openHealth": {
+        "en": "Open Health",
+        "ru": "Открыть «Здоровье»",
+        "hy": "Բացել Health"
+      },
+      "settings.syncRecent": {
+        "en": "Sync recent workouts",
+        "ru": "Синхронизировать недавние",
+        "hy": "Համաժամեցնել վերջինները"
+      },
+      "settings.syncRecentDone": {
+        "en": "Synced %lld workouts.",
+        "ru": "Синхронизировано тренировок: %lld.",
+        "hy": "Համաժամեցվեց %lld մարզում։"
+      },
+      "settings.title": {
+        "en": "Apple Health",
+        "ru": "Apple Health",
+        "hy": "Apple Health"
+      },
+      "settings.toggle": {
+        "en": "Save workouts to Apple Health",
+        "ru": "Сохранять тренировки в Apple Health",
+        "hy": "Պահել մարզումները Apple Health-ում"
+      },
+      "settings.unavailable": {
+        "en": "Apple Health is not available on this device.",
+        "ru": "Apple Health недоступен на этом устройстве.",
+        "hy": "Apple Health-ը հասանելի չէ այս սարքում։"
+      }
+    },
+    "Hint": {
+      "apply": {
+        "en": "Apply",
+        "ru": "Применить",
+        "hy": "Կիրառել"
+      },
+      "planCardio": {
+        "en": "Plan: %@ × %@ sets",
+        "ru": "План: %@ × %@ подходов",
+        "hy": "Պլան․ %@ × %@ մոտեցում"
+      },
+      "planDistance": {
+        "en": "Plan: %@ · %@ sets",
+        "ru": "План: %@ · %@ подходов",
+        "hy": "Պլան՝ %@ · %@ մոտեցում"
+      },
+      "planDuration": {
+        "en": "Plan: %@ sec · %@ sets",
+        "ru": "План: %@ сек · %@ подходов",
+        "hy": "Պլան՝ %@ վարկ · %@ մոտեցում"
+      },
+      "planReps": {
+        "en": "Plan: %@ reps · %@ sets",
+        "ru": "План: %@ повт. · %@ подходов",
+        "hy": "Պլան՝ %@ կրկն · %@ մոտեցում"
+      },
+      "planWeightReps": {
+        "en": "Plan: %@ × %@ · %@ sets",
+        "ru": "План: %@ × %@ · %@ подходов",
+        "hy": "Պլան՝ %@ × %@ · %@ մոտեցում"
+      },
+      "repeatWeight": {
+        "en": "Repeat %@ — build consistency",
+        "ru": "Повторите %@ — закрепите результат",
+        "hy": "Կրկնեք %@ — ամրացրեք արդյունքը"
+      },
+      "tryCardio": {
+        "en": "Try %@",
+        "ru": "Попробуй %@",
+        "hy": "Փորձիր %@"
+      },
+      "tryDistance": {
+        "en": "Try %@ — last was %@",
+        "ru": "Попробуйте %@ — в прошлый раз было %@",
+        "hy": "Փորձեք %@ — անցած անգամ %@ էր"
+      },
+      "tryDuration": {
+        "en": "Try %@ sec — last was %@",
+        "ru": "Попробуйте %@ сек — в прошлый раз было %@",
+        "hy": "Փորձեք %@ վարկ — անցած անգամ %@ էր"
+      },
+      "tryReps": {
+        "en": "Try %@ reps — beat last best of %@",
+        "ru": "Попробуйте %@ повт. — лучше прошлого максимума %@",
+        "hy": "Փորձեք %@ կրկն — գերազանցեք նախորդ %@-ը"
+      },
+      "tryWeight": {
+        "en": "Try %@ (+%@) — hit all reps last time",
+        "ru": "Попробуйте %@ (+%@) — в прошлый раз все повторы",
+        "hy": "Փորձեք %@ (+%@) — անցած անգամ բոլոր կրկնությունները կատարեցիք"
+      }
+    },
+    "History": {
+      "deleteMessage": {
+        "en": "This removes the workout from history. You can restore it from Recycle Bin for 30 days.",
+        "ru": "Тренировка исчезнет из истории. Её можно восстановить из корзины в течение 30 дней.",
+        "hy": "Մարզումը կհեռացվի պատմությունից։ Կարող եք վերականգնել աղբարկղից 30 օրվա ընթացքում։"
+      },
+      "deleteTitle": {
+        "en": "Move to Recycle Bin?",
+        "ru": "Переместить в корзину?",
+        "hy": "Տեղափոխե՞լ աղբարկղ"
+      },
+      "duration": {
+        "en": "Duration",
+        "ru": "Длительность",
+        "hy": "Տևողություն"
+      },
+      "finished": {
+        "en": "Finished",
+        "ru": "Конец",
+        "hy": "Ավարտ"
+      },
+      "mode": {
+        "en": "History mode",
+        "ru": "Режим истории",
+        "hy": "Պատմության ռեժիմ"
+      },
+      "mode.calendar": {
+        "en": "Calendar",
+        "ru": "Календарь",
+        "hy": "Օրացույց"
+      },
+      "mode.list": {
+        "en": "List",
+        "ru": "Список",
+        "hy": "Ցուցակ"
+      },
+      "noCompletedSets": {
+        "en": "No completed sets",
+        "ru": "Нет выполненных подходов",
+        "hy": "Ավարտված մոտեցումներ չկան"
+      },
+      "plannedBadge": {
+        "en": "Planned",
+        "ru": "План",
+        "hy": "Պլան"
+      },
+      "plannedNotDone": {
+        "en": "Planned — not done",
+        "ru": "Запланировано — не выполнено",
+        "hy": "Պլանավորված — չկատարված"
+      },
+      "plannedSetsRemaining": {
+        "en": "%lld planned set(s) not done",
+        "ru": "%lld запланированных подходов не выполнено",
+        "hy": "%lld պլանավորված մոտեցում չկատարված"
+      },
+      "saveAsTemplate": {
+        "en": "Save as Template",
+        "ru": "Сохранить как шаблон",
+        "hy": "Պահպանել որպես շաբլոն"
+      },
+      "savedAsTemplate": {
+        "en": "Saved as template",
+        "ru": "Сохранено как шаблон",
+        "hy": "Պահպանված է որպես շաբլոն"
+      },
+      "searchEmptyDescription": {
+        "en": "No finished workouts include that exercise name.",
+        "ru": "Нет завершённых тренировок с таким упражнением.",
+        "hy": "Ավարտված մարզումներում այդ վարժության անուն չկա։"
+      },
+      "searchEmptyTitle": {
+        "en": "No Matches",
+        "ru": "Ничего не найдено",
+        "hy": "Համընկնումներ չկան"
+      },
+      "searchPrompt": {
+        "en": "Search exercises",
+        "ru": "Поиск упражнений",
+        "hy": "Որոնել վարժություններ"
+      },
+      "searchResultsCount": {
+        "en": "%lld workouts",
+        "ru": "%lld тренировок",
+        "hy": "%lld մարզում"
+      },
+      "started": {
+        "en": "Started",
+        "ru": "Начало",
+        "hy": "Սկիզբ"
+      },
+      "today": {
+        "en": "Today",
+        "ru": "Сегодня",
+        "hy": "Այսօր"
+      },
+      "yesterday": {
+        "en": "Yesterday",
+        "ru": "Вчера",
+        "hy": "Երեկ"
+      }
+    },
+    "Import": {
+      "cancel": {
+        "en": "Cancel",
+        "ru": "Отмена",
+        "hy": "Չեղարկել"
+      },
+      "conflict.action": {
+        "en": "Action",
+        "ru": "Действие",
+        "hy": "Գործողություն"
+      },
+      "conflict.apply": {
+        "en": "Import",
+        "ru": "Импорт",
+        "hy": "Ներմուծել"
+      },
+      "conflict.detail": {
+        "en": "%lld exercises · %lld sets",
+        "ru": "%lld упражнений · %lld подходов",
+        "hy": "%lld վարժություն · %lld մոտեցում"
+      },
+      "conflict.imported": {
+        "en": "From file",
+        "ru": "Из файла",
+        "hy": "Ֆայլից"
+      },
+      "conflict.intro": {
+        "en": "Some imported workouts share the same start time as workouts already on this device. Choose what to keep for each.",
+        "ru": "Некоторые импортируемые тренировки имеют то же время начала, что и уже сохранённые. Выберите, что оставить для каждой.",
+        "hy": "Որոշ ներմուծվող մարզումներ ունեն նույն սկզբի ժամը, ինչ արդեն պահվածները։ Ընտրեք՝ ինչ պահել։"
+      },
+      "conflict.keepBoth": {
+        "en": "Keep both",
+        "ru": "Оставить обе",
+        "hy": "Թողնել երկուսն էլ"
+      },
+      "conflict.keepMine": {
+        "en": "Keep mine",
+        "ru": "Оставить мою",
+        "hy": "Թողնել իմը"
+      },
+      "conflict.local": {
+        "en": "On this device",
+        "ru": "На этом устройстве",
+        "hy": "Այս սարքում"
+      },
+      "conflict.title": {
+        "en": "Resolve Conflicts",
+        "ru": "Разрешить конфликты",
+        "hy": "Լուծել հակասությունները"
+      },
+      "conflict.useImport": {
+        "en": "Use import",
+        "ru": "Взять импорт",
+        "hy": "Վերցնել ներմուծումը"
+      },
+      "error.title": {
+        "en": "Import Failed",
+        "ru": "Ошибка импорта",
+        "hy": "Ներմուծման սխալ"
+      },
+      "processing": {
+        "en": "Importing data…",
+        "ru": "Импорт данных…",
+        "hy": "Տվյալների ներմուծում…"
+      },
+      "result.message": {
+        "en": "Workouts added: %lld, updated: %lld, skipped: %lld.\nExercises: %lld · Templates: %lld · PRs: %lld · Supersets: %lld",
+        "ru": "Тренировки: добавлено %lld, обновлено %lld, пропущено %lld.\nУпражнения: %lld · Шаблоны: %lld · Рекорды: %lld · Суперсеты: %lld",
+        "hy": "Մարզումներ՝ ավելացված %lld, թարմացված %lld, բաց թողնված %lld։\nՎարժություններ՝ %lld · Ձևանմուշներ՝ %lld · Ռեկորդներ՝ %lld · Սուպերսեթեր՝ %lld"
+      },
+      "result.ok": {
+        "en": "OK",
+        "ru": "OK",
+        "hy": "OK"
+      },
+      "result.title": {
+        "en": "Import Complete",
+        "ru": "Импорт завершён",
+        "hy": "Ներմուծումն ավարտված է"
+      },
+      "title": {
+        "en": "Import",
+        "ru": "Импорт",
+        "hy": "Ներմուծում"
+      }
+    },
+    "Insights": {
+      "allGroups": {
+        "en": "All groups",
+        "ru": "Все группы",
+        "hy": "Բոլոր խմբերը"
+      },
+      "avgDuration": {
+        "en": "Avg duration",
+        "ru": "Средняя длительность",
+        "hy": "Միջին տևողություն"
+      },
+      "avgDurationMinutes": {
+        "en": "%lld min",
+        "ru": "%lld мин",
+        "hy": "%lld ր"
+      },
+      "byCategory": {
+        "en": "By category",
+        "ru": "По категориям",
+        "hy": "Կատեգորիայով"
+      },
+      "chart.week": {
+        "en": "Week",
+        "ru": "Неделя",
+        "hy": "Շաբաթ"
+      },
+      "chart.workouts": {
+        "en": "Workouts",
+        "ru": "Тренировки",
+        "hy": "Մարզումներ"
+      },
+      "dataMenu": {
+        "en": "Export & Import",
+        "ru": "Экспорт и импорт",
+        "hy": "Արտահանում և ներմուծում"
+      },
+      "emptyDescription": {
+        "en": "Finish a workout to see volume, frequency, and trends.",
+        "ru": "Завершите тренировку, чтобы увидеть объём, частоту и тренды.",
+        "hy": "Ավարտեք մարզում՝ ծավալը, հաճախականությունը և միտումները տեսնելու համար։"
+      },
+      "emptyRangeDescription": {
+        "en": "Try a longer range to see volume, frequency, and trends.",
+        "ru": "Выберите более длинный период, чтобы увидеть объём, частоту и тренды.",
+        "hy": "Ընտրեք ավելի երկար ժամանակահատված՝ ծավալը, հաճախականությունը և միտումները տեսնելու համար։"
+      },
+      "emptyRangeTitle": {
+        "en": "Nothing in This Range",
+        "ru": "Нет данных за период",
+        "hy": "Այս ժամանակահատվածում տվյալներ չկան"
+      },
+      "emptyTitle": {
+        "en": "No Insights Yet",
+        "ru": "Пока нет аналитики",
+        "hy": "Դեռ վերլուծություն չկա"
+      },
+      "metric": {
+        "en": "Metric",
+        "ru": "Метрика",
+        "hy": "Ցուցանիշ"
+      },
+      "metric.sessions": {
+        "en": "Sessions",
+        "ru": "Сессии",
+        "hy": "Սեսիաներ"
+      },
+      "metric.sets": {
+        "en": "Sets",
+        "ru": "Подходы",
+        "hy": "Մոտեցումներ"
+      },
+      "metric.tonnage": {
+        "en": "Tonnage",
+        "ru": "Тоннаж",
+        "hy": "Տոննաժ"
+      },
+      "mostTrained": {
+        "en": "Most trained",
+        "ru": "Чаще всего",
+        "hy": "Ամենաշատը"
+      },
+      "muscleBalance": {
+        "en": "Muscle balance",
+        "ru": "Баланс мышц",
+        "hy": "Մկանների հավասարակշռություն"
+      },
+      "range": {
+        "en": "Range",
+        "ru": "Период",
+        "hy": "ժամանակահատված"
+      },
+      "range.all": {
+        "en": "All",
+        "ru": "Всё",
+        "hy": "Բոլորը"
+      },
+      "range.custom": {
+        "en": "Custom",
+        "ru": "Свой",
+        "hy": "Ընտրել"
+      },
+      "range.end": {
+        "en": "End",
+        "ru": "Конец",
+        "hy": "Վերջ"
+      },
+      "range.month": {
+        "en": "Month",
+        "ru": "Месяц",
+        "hy": "Ամիս"
+      },
+      "range.start": {
+        "en": "Start",
+        "ru": "Начало",
+        "hy": "Սկիզբ"
+      },
+      "range.threeMonths": {
+        "en": "3M",
+        "ru": "3 мес",
+        "hy": "3 ամիս"
+      },
+      "range.week": {
+        "en": "Week",
+        "ru": "Неделя",
+        "hy": "Շաբաթ"
+      },
+      "range.year": {
+        "en": "Year",
+        "ru": "Год",
+        "hy": "Տարի"
+      },
+      "sessionsCount": {
+        "en": "%lld sessions",
+        "ru": "%lld сессий",
+        "hy": "%lld սեսիա"
+      },
+      "setsCount": {
+        "en": "%lld sets",
+        "ru": "%lld подходов",
+        "hy": "%lld մոտեցում"
+      },
+      "streak": {
+        "en": "Streak",
+        "ru": "Серия",
+        "hy": "Շարք"
+      },
+      "streakWeeks": {
+        "en": "%lld weeks",
+        "ru": "%lld нед.",
+        "hy": "%lld շաբաթ"
+      },
+      "subgroups": {
+        "en": "Subgroups",
+        "ru": "Подгруппы",
+        "hy": "Ենթախմբեր"
+      },
+      "summary": {
+        "en": "Summary",
+        "ru": "Сводка",
+        "hy": "Ամփոփում"
+      },
+      "title": {
+        "en": "Insights",
+        "ru": "Аналитика",
+        "hy": "Վերլուծություն"
+      },
+      "tonnage": {
+        "en": "Total volume",
+        "ru": "Общий объём",
+        "hy": "Ընդհանուր ծավալ"
+      },
+      "workouts": {
+        "en": "Workouts",
+        "ru": "Тренировки",
+        "hy": "Մարզումներ"
+      },
+      "workoutsPerWeek": {
+        "en": "Workouts / week",
+        "ru": "Тренировки / неделя",
+        "hy": "Մարզում / շաբաթ"
+      }
+    },
+    "Language": {
+      "conflict.keep": {
+        "en": "Keep %@",
+        "ru": "Оставить %@",
+        "hy": "Պահել %@"
+      },
+      "conflict.message": {
+        "en": "iOS Settings language is now %2$@, but this app is set to %1$@. Which language do you want to use?",
+        "ru": "В Настройках iOS сейчас язык %2$@, а в приложении выбран %1$@. Какой язык использовать?",
+        "hy": "iOS Կարգավորումներում լեզուն այժմ %2$@ է, իսկ հավելվածում ընտրված է %1$@։ Ո՞ր լեզուն օգտագործել։"
+      },
+      "conflict.switch": {
+        "en": "Use %@",
+        "ru": "Использовать %@",
+        "hy": "Օգտագործել %@"
+      },
+      "conflict.title": {
+        "en": "Language changed",
+        "ru": "Язык изменился",
+        "hy": "Լեզուն փոխվել է"
+      }
+    },
+    "LogParam": {
+      "cadence": {
+        "en": "Cadence",
+        "ru": "Каденс",
+        "hy": "Կադենս"
+      },
+      "cadence.short": {
+        "en": "RPM",
+        "ru": "об/мин",
+        "hy": "պտ/ր"
+      },
+      "distance": {
+        "en": "Distance",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն"
+      },
+      "duration": {
+        "en": "Duration",
+        "ru": "Длительность",
+        "hy": "Տևողություն"
+      },
+      "incline": {
+        "en": "Incline",
+        "ru": "Наклон",
+        "hy": "Թեքություն"
+      },
+      "incline.short": {
+        "en": "Incline",
+        "ru": "Наклон",
+        "hy": "Թեք."
+      },
+      "resistance": {
+        "en": "Resistance",
+        "ru": "Сопротивление",
+        "hy": "Դիմադրություն"
+      },
+      "resistance.short": {
+        "en": "Level",
+        "ru": "Уровень",
+        "hy": "Մակ."
+      },
+      "speed": {
+        "en": "Speed",
+        "ru": "Скорость",
+        "hy": "Արագություն"
+      }
+    },
+    "LoggingType": {
+      "cardio": {
+        "en": "Cardio",
+        "ru": "Кардио",
+        "hy": "Կարդիո"
+      },
+      "distance": {
+        "en": "Distance",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն"
+      },
+      "duration": {
+        "en": "Duration",
+        "ru": "Длительность",
+        "hy": "Տևողություն"
+      },
+      "plain.%@.title": {
+        "en": "loggingType.plain.%@.title",
+        "ru": "loggingType.plain.%@.title",
+        "hy": "loggingType.plain.%@.title"
+      },
+      "plain.cardio.subtitle": {
+        "en": "Time and/or distance, plus optional speed, incline, resistance, cadence",
+        "ru": "Время и/или дистанция, плюс скорость, наклон, сопротивление, каденс",
+        "hy": "Ժամանակ և/կամ տարածություն, գումարած արագություն, թեքություն, դիմադրություն, կադենս"
+      },
+      "plain.cardio.title": {
+        "en": "Cardio (multi)",
+        "ru": "Кардио (несколько)",
+        "hy": "Կարդիո (բազմակի)"
+      },
+      "plain.distance.subtitle": {
+        "en": "Run, bike, row in %@",
+        "ru": "Бег, велосипед, гребля в %@",
+        "hy": "Վազք, հեծանիվ, թիավարում %@-ով"
+      },
+      "plain.distance.title": {
+        "en": "Distance",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն"
+      },
+      "plain.duration.subtitle": {
+        "en": "Hold or work time in seconds",
+        "ru": "Удержание или работа в секундах",
+        "hy": "Պահում կամ աշխատանք վայրկյաններով"
+      },
+      "plain.duration.title": {
+        "en": "Time",
+        "ru": "Время",
+        "hy": "Ժամանակ"
+      },
+      "plain.reps.subtitle": {
+        "en": "Bodyweight or no load — reps only",
+        "ru": "Свой вес или без нагрузки — только повторения",
+        "hy": "Սեփական քաշ կամ առանց բեռի — միայն կրկնություններ"
+      },
+      "plain.reps.title": {
+        "en": "Reps only",
+        "ru": "Только повторения",
+        "hy": "Միայն կրկնություններ"
+      },
+      "plain.weight_reps.subtitle": {
+        "en": "Enter %@ and reps each set",
+        "ru": "Вводите %@ и повторения в каждом подходе",
+        "hy": "Յուրաքանչյուր մոտեցման %@ և կրկնություններ"
+      },
+      "plain.weight_reps.title": {
+        "en": "Weight and reps",
+        "ru": "Вес и повторения",
+        "hy": "Քաշ և կրկնություններ"
+      },
+      "reps": {
+        "en": "Reps",
+        "ru": "Повторы",
+        "hy": "Կրկնություններ"
+      },
+      "weight_reps": {
+        "en": "Weight × Reps",
+        "ru": "Вес × Повторы",
+        "hy": "Քաշ × Կրկնություններ"
+      }
+    },
+    "Misc": {
+      "": {
+        "en": "",
+        "ru": "",
+        "hy": ""
+      },
+      " ": {
+        "en": " ",
+        "ru": " ",
+        "hy": " "
+      },
+      "%@ %@": {
+        "en": "%1$@ %2$@",
+        "ru": "%1$@ %2$@",
+        "hy": "%1$@ %2$@"
+      },
+      "%lld": {
+        "en": "%lld",
+        "ru": "%lld",
+        "hy": "%lld"
+      },
+      "%lld %@": {
+        "en": "%1$lld %2$@",
+        "ru": "%1$lld %2$@",
+        "hy": "%1$lld %2$@"
+      },
+      "1": {
+        "en": "1",
+        "ru": "1",
+        "hy": "1"
+      },
+      "10:00": {
+        "en": "10:00",
+        "ru": "10:00",
+        "hy": "10:00"
+      },
+      "·": {
+        "en": "·",
+        "ru": "·",
+        "hy": "·"
+      },
+      "•": {
+        "en": "•",
+        "ru": "•",
+        "hy": "•"
+      }
+    },
+    "Onboarding": {
+      "apply.body": {
+        "en": "When you have history, the app suggests the next load. Tap Apply to fill an empty set.",
+        "ru": "Если есть история, приложение подскажет нагрузку. Apply заполняет пустой подход.",
+        "hy": "Եթե պատմություն կա, հավելվածը կառաջարկի բեռը։ Apply-ը լրացնում է դատարկ մոտեցումը։"
+      },
+      "apply.cta": {
+        "en": "Apply",
+        "ru": "Применить",
+        "hy": "Կիրառել"
+      },
+      "apply.empty": {
+        "en": "— × —",
+        "ru": "— × —",
+        "hy": "— × —"
+      },
+      "apply.filled": {
+        "en": "62.5 × 8",
+        "ru": "62.5 × 8",
+        "hy": "62.5 × 8"
+      },
+      "apply.footer": {
+        "en": "Apply disappears after you use it so the logger stays clean.",
+        "ru": "После Apply кнопка скрывается — логгер остаётся чистым.",
+        "hy": "Apply-ից հետո կոճակը թաքնվում է, որպեսզի լոգերն մաքուր մնա։"
+      },
+      "apply.hint": {
+        "en": "Suggested: 62.5 — you hit all reps last time",
+        "ru": "Совет: 62.5 — в прошлый раз все повторы были взяты",
+        "hy": "Առաջարկ՝ 62.5 — նախորդ անգամ բոլոր կրկնությունները կատարել ես"
+      },
+      "apply.lastLabel": {
+        "en": "Last session",
+        "ru": "Прошлая сессия",
+        "hy": "Նախորդ սեսիա"
+      },
+      "apply.lastSets": {
+        "en": "60 × 8 · 60 × 8 · 62.5 × 6",
+        "ru": "60 × 8 · 60 × 8 · 62.5 × 6",
+        "hy": "60 × 8 · 60 × 8 · 62.5 × 6"
+      },
+      "apply.title": {
+        "en": "Build on last time",
+        "ru": "Опирайся на прошлый раз",
+        "hy": "Հենվիր նախորդ անգամի վրա"
+      },
+      "back": {
+        "en": "Back",
+        "ru": "Назад",
+        "hy": "Հետ"
+      },
+      "balanced.body": {
+        "en": "Balanced opens from the Workout tab. Pick a lookback, see muscle balance, choose groups, and start with suggested lifts.",
+        "ru": "Balanced открывается с вкладки Workout. Выбери период, посмотри баланс мышц, выбери группы и стартуй с предложенными упражнениями.",
+        "hy": "Balanced-ը բացվում է Workout ներդիրից։ Ընտրիր ժամանակահատված, տես մկանների հավասարակշռությունը, ընտրիր խմբեր և սկսիր առաջարկվող վարժություններով։"
+      },
+      "balanced.spiderA11y": {
+        "en": "Example muscle balance diagram",
+        "ru": "Пример диаграммы баланса мышц",
+        "hy": "Օրինակ՝ մկանների հավասարակշռության դիագրամ"
+      },
+      "balanced.step1": {
+        "en": "1. Choose lookback (3–30 days or custom)",
+        "ru": "1. Выбери период (3–30 дней или свой)",
+        "hy": "1. Ընտրիր ժամանակահատված (3–30 օր կամ այլ)"
+      },
+      "balanced.step2": {
+        "en": "2. Review the balance spider; under-trained groups are preselected",
+        "ru": "2. Смотри паутинку баланса; отстающие группы уже выбраны",
+        "hy": "2. Դիտիր հավասարակշռության սարդոսը. թերմարզված խմբերն արդեն ընտրված են"
+      },
+      "balanced.step3": {
+        "en": "3. Confirm exercises and start — one blank set each",
+        "ru": "3. Подтверди упражнения и стартуй — по одному пустому подходу",
+        "hy": "3. Հաստատիր վարժությունները և սկսիր՝ յուրաքանչյուրին մեկ դատարկ մոտեցում"
+      },
+      "balanced.steps": {
+        "en": "How it works",
+        "ru": "Как это работает",
+        "hy": "Ինչպես է աշխատում"
+      },
+      "balanced.title": {
+        "en": "Train what you've neglected",
+        "ru": "Тренируй то, что отстаёт",
+        "hy": "Մարզիր այն, ինչ հետ է մնում"
+      },
+      "balanced.where": {
+        "en": "Workout tab → Balanced",
+        "ru": "Вкладка Workout → Balanced",
+        "hy": "Workout ներդիր → Balanced"
+      },
+      "categories.also": {
+        "en": "Also: Cardio, Mobility, and Other",
+        "ru": "Также: Кардио, Мобилити и Другое",
+        "hy": "Նաև՝ Կարդիո, Շարժունություն և Այլ"
+      },
+      "categories.body": {
+        "en": "Each muscle group has a soft color so you can recognize workout types throughout the app.",
+        "ru": "У каждой группы мышц свой мягкий цвет — так проще узнавать тип тренировки.",
+        "hy": "Յուրաքանչյուր մկանախումբ ունի մեղմ գույն, որպեսզի մարզման տեսակը հեշտ ճանաչես ամբողջ հավելվածում։"
+      },
+      "categories.title": {
+        "en": "Categories have colors",
+        "ru": "У категорий есть цвета",
+        "hy": "Կատեգորիաներն ունեն գույներ"
+      },
+      "chapter.%@.title": {
+        "en": "onboarding.chapter.%@.title",
+        "ru": "onboarding.chapter.%@.title",
+        "hy": "onboarding.chapter.%@.title"
+      },
+      "chapter.apply.title": {
+        "en": "Previous performance",
+        "ru": "Прошлые результаты",
+        "hy": "Նախորդ արդյունքներ"
+      },
+      "chapter.balanced.title": {
+        "en": "Balanced session",
+        "ru": "Сбалансированная тренировка",
+        "hy": "Հավասարակշռված մարզում"
+      },
+      "chapter.categories.title": {
+        "en": "Categories & colors",
+        "ru": "Категории и цвета",
+        "hy": "Կատեգորիաներ և գույներ"
+      },
+      "chapter.customExercise.title": {
+        "en": "Custom exercises",
+        "ru": "Свои упражнения",
+        "hy": "Սեփական վարժություններ"
+      },
+      "chapter.favoritesTip.title": {
+        "en": "Favorites & form guides",
+        "ru": "Избранное и подсказки",
+        "hy": "Նախընտրելիներ և ուղեցույցներ"
+      },
+      "chapter.gradients.title": {
+        "en": "Muscle gradients",
+        "ru": "Градиенты мышц",
+        "hy": "Մկանային գրադիենտներ"
+      },
+      "chapter.healthKit.title": {
+        "en": "Apple Health",
+        "ru": "Apple Health",
+        "hy": "Apple Health"
+      },
+      "chapter.history.title": {
+        "en": "History calendar",
+        "ru": "Календарь истории",
+        "hy": "Պատմության օրացույց"
+      },
+      "chapter.language.title": {
+        "en": "Language",
+        "ru": "Язык",
+        "hy": "Լեզու"
+      },
+      "chapter.layout.title": {
+        "en": "List or Cards",
+        "ru": "Список или карточки",
+        "hy": "Ցանկ կամ քարտեր"
+      },
+      "chapter.logging.title": {
+        "en": "Logging sets",
+        "ru": "Запись подходов",
+        "hy": "Մոտեցումների գրանցում"
+      },
+      "chapter.personalization.title": {
+        "en": "Personalization",
+        "ru": "Персонализация",
+        "hy": "Անհատականացում"
+      },
+      "chapter.ready.title": {
+        "en": "You're ready",
+        "ru": "Ты готов",
+        "hy": "Պատրաստ ես"
+      },
+      "chapter.recordsInsights.title": {
+        "en": "Records & Insights",
+        "ru": "Рекорды и Insights",
+        "hy": "Ռեկորդներ և Insights"
+      },
+      "chapter.recycleBin.title": {
+        "en": "Recycle Bin",
+        "ru": "Корзина",
+        "hy": "Աղբարկղ"
+      },
+      "chapter.restTimer.title": {
+        "en": "Rest timer",
+        "ru": "Таймер отдыха",
+        "hy": "Հանգստի ժամանակաչափ"
+      },
+      "chapter.supersets.title": {
+        "en": "Supersets",
+        "ru": "Суперсеты",
+        "hy": "Սուպերսեթներ"
+      },
+      "chapter.templates.title": {
+        "en": "Templates",
+        "ru": "Шаблоны",
+        "hy": "Կաղապարներ"
+      },
+      "chapter.welcome.title": {
+        "en": "Welcome",
+        "ru": "Добро пожаловать",
+        "hy": "Բարի գալուստ"
+      },
+      "continue": {
+        "en": "Continue",
+        "ru": "Продолжить",
+        "hy": "Շարունակել"
+      },
+      "exercise.body": {
+        "en": "Tap through the steps. Muscle roles power Insights and balance suggestions.",
+        "ru": "Пройди шаги. Роли мышц нужны для Insights и баланса.",
+        "hy": "Անցիր քայլերով։ Մկանների դերերը սնուցում են Insights-ը և հավասարակշռության հուշումները։"
+      },
+      "exercise.catalogNote": {
+        "en": "Most lifts are already in the catalog — create custom only when you need something new.",
+        "ru": "Большинство упражнений уже в каталоге — создавай свои только при необходимости.",
+        "hy": "Վարժությունների մեծ մասն արդեն կատալոգում է — ստեղծիր սեփականը միայն անհրաժեշտության դեպքում։"
+      },
+      "exercise.current": {
+        "en": "Now",
+        "ru": "Сейчас",
+        "hy": "Հիմա"
+      },
+      "exercise.nextStep": {
+        "en": "Next Step",
+        "ru": "Следующий шаг",
+        "hy": "Հաջորդ քայլ"
+      },
+      "exercise.step1": {
+        "en": "1. Tap +",
+        "ru": "1. Нажми +",
+        "hy": "1. Սեղմիր +"
+      },
+      "exercise.step2": {
+        "en": "2. Choose a category",
+        "ru": "2. Выбери категорию",
+        "hy": "2. Ընտրիր կատեգորիա"
+      },
+      "exercise.step3": {
+        "en": "3. Enter the exercise name",
+        "ru": "3. Введи название",
+        "hy": "3. Մուտքագրիր անունը"
+      },
+      "exercise.step4": {
+        "en": "4. Select primary muscle",
+        "ru": "4. Выбери основную мышцу",
+        "hy": "4. Ընտրիր հիմնական մկանը"
+      },
+      "exercise.step5": {
+        "en": "5. Select secondary muscles",
+        "ru": "5. Выбери вторичные мышцы",
+        "hy": "5. Ընտրիր երկրորդական մկանները"
+      },
+      "exercise.step6": {
+        "en": "6. Save",
+        "ru": "6. Сохрани",
+        "hy": "6. Պահպանիր"
+      },
+      "exercise.title": {
+        "en": "Creating a custom exercise",
+        "ru": "Создание своего упражнения",
+        "hy": "Սեփական վարժության ստեղծում"
+      },
+      "exercise.why": {
+        "en": "Choosing muscles keeps category Insights and balance suggestions accurate.",
+        "ru": "Выбор мышц делает Insights и подсказки баланса точнее.",
+        "hy": "Մկանների ընտրությունը Insights-ն ու հավասարակշռության հուշումները դարձնում է ավելի ճշգրիտ։"
+      },
+      "favorites.body": {
+        "en": "Star lifts you use often. Tap ⓘ next to a name for form cues and target muscle maps.",
+        "ru": "Отмечай частые упражнения звездой. ⓘ рядом с именем — подсказки и карты мышц.",
+        "hy": "Աստղով նշիր հաճախակի վարժությունները։ ⓘ-ն անվան կողքին՝ տեխնիկա և մկանային քարտեզներ։"
+      },
+      "favorites.info": {
+        "en": "Form guide — art, cues, target regions",
+        "ru": "Подсказка — картинка, советы, зоны",
+        "hy": "Ուղեցույց՝ պատկեր, հուշումներ, թիրախային գոտիներ"
+      },
+      "favorites.star": {
+        "en": "Favorite — appears first in the picker",
+        "ru": "Избранное — выше в списке выбора",
+        "hy": "Նախընտրելի՝ երևում է ընտրիչի սկզբում"
+      },
+      "favorites.title": {
+        "en": "Star favorites & form guides",
+        "ru": "Избранное и подсказки по технике",
+        "hy": "Նախընտրելիներ և տեխնիկայի ուղեցույցներ"
+      },
+      "gradients.bench.a11y": {
+        "en": "Bench Press with Chest to Shoulders to Arms muscle gradient",
+        "ru": "Жим лёжа с градиентом Грудь → Плечи → Руки",
+        "hy": "Նստարանային մամլում՝ Կուրծքից Ուսերից Ձեռքեր գրադիենտով"
+      },
+      "gradients.benchMeta": {
+        "en": "Chest · Shoulders · Arms · Weight and reps",
+        "ru": "Грудь · Плечи · Руки · Вес и повторы",
+        "hy": "Կուրծք · Ուսեր · Ձեռքեր · Քաշ և կրկնություններ"
+      },
+      "gradients.benchName": {
+        "en": "Bench Press",
+        "ru": "Жим лёжа",
+        "hy": "Նստարանային մամլում"
+      },
+      "gradients.body": {
+        "en": "Exercise cards blend primary, secondary, and tertiary muscle colors.",
+        "ru": "На карточках смешиваются цвета основной, вторичной и третичной мышц.",
+        "hy": "Վարժությունների քարտերում խառնվում են հիմնական, երկրորդական և երրորդական մկանների գույները։"
+      },
+      "gradients.hideSuperset": {
+        "en": "Hide superset example",
+        "ru": "Скрыть пример суперсета",
+        "hy": "Թաքցնել սուպերսեթի օրինակը"
+      },
+      "gradients.primary": {
+        "en": "Primary muscle",
+        "ru": "Основная мышца",
+        "hy": "Հիմնական մկան"
+      },
+      "gradients.primaryDetail": {
+        "en": "Chest — most of the color",
+        "ru": "Грудь — большая часть цвета",
+        "hy": "Կուրծք — գույնի մեծ մասը"
+      },
+      "gradients.secondary": {
+        "en": "Secondary muscle",
+        "ru": "Вторичная мышца",
+        "hy": "Երկրորդական մկան"
+      },
+      "gradients.secondaryDetail": {
+        "en": "Shoulders — the middle accent",
+        "ru": "Плечи — средний акцент",
+        "hy": "Ուսեր — միջին շեշտը"
+      },
+      "gradients.showSuperset": {
+        "en": "How supersets use color",
+        "ru": "Как суперсеты используют цвет",
+        "hy": "Ինչպես սուպերսեթներն օգտագործում են գույնը"
+      },
+      "gradients.supersetBody": {
+        "en": "Supersets combine member muscle colors into one soft multi-stop accent.",
+        "ru": "Суперсет смешивает цвета упражнений в один мягкий многоцветный акцент.",
+        "hy": "Սուպերսեթը միավորում է վարժությունների մկանային գույները մեկ մեղմ բազմագույն շեշտի մեջ։"
+      },
+      "gradients.supersetCaption": {
+        "en": "Up to three muscle hues — the workout’s overall focus.",
+        "ru": "До трёх оттенков мышц — общий фокус тренировки.",
+        "hy": "Մինչև երեք մկանային երանգ՝ մարզման ընդհանուր շեշտը։"
+      },
+      "gradients.tertiary": {
+        "en": "Tertiary",
+        "ru": "Третичная",
+        "hy": "Երրորդական"
+      },
+      "gradients.tertiaryDetail": {
+        "en": "Arms (triceps) — the trailing accent",
+        "ru": "Руки (трицепс) — акцент в конце",
+        "hy": "Ձեռքեր (տրիցեպս) — վերջի շեշտը"
+      },
+      "gradients.title": {
+        "en": "Gradients show involved muscles",
+        "ru": "Градиент показывает мышцы",
+        "hy": "Գրադիենտը ցույց է տալիս մկանները"
+      },
+      "healthKitDemo.appName": {
+        "en": "Gym Logbook",
+        "ru": "Gym Logbook",
+        "hy": "Gym Logbook"
+      },
+      "healthKitDemo.body": {
+        "en": "Connect Gym Logbook to the Apple Health app so finished strength and cardio sessions appear there.",
+        "ru": "Подключи Gym Logbook к приложению «Здоровье» (Apple Health), чтобы завершённые силовые и кардио-тренировки появлялись там.",
+        "hy": "Միացրու Gym Logbook-ը Apple Health հավելվածին, որպեսզի ավարտված ուժային և կարդիո մարզումները հայտնվեն այնտեղ։"
+      },
+      "healthKitDemo.connectA11y": {
+        "en": "Connect Gym Logbook to the Apple Health app",
+        "ru": "Подключить Gym Logbook к приложению «Здоровье»",
+        "hy": "Միացնել Gym Logbook-ը Apple Health հավելվածին"
+      },
+      "healthKitDemo.distance": {
+        "en": "Includes logged distance when available",
+        "ru": "Добавляет записанную дистанцию, когда она есть",
+        "hy": "Ներառում է գրանցված տարածությունը, երբ այն առկա է"
+      },
+      "healthKitDemo.enabled": {
+        "en": "Connected to Apple Health",
+        "ru": "Подключено к Apple Health",
+        "hy": "Միացված է Apple Health-ին"
+      },
+      "healthKitDemo.healthAppName": {
+        "en": "Apple Health",
+        "ru": "Здоровье",
+        "hy": "Apple Health"
+      },
+      "healthKitDemo.noCalories": {
+        "en": "Never estimates or writes calories",
+        "ru": "Не рассчитывает и не записывает калории",
+        "hy": "Երբեք չի հաշվարկում կամ գրանցում կալորիաներ"
+      },
+      "healthKitDemo.optional": {
+        "en": "You choose whether to connect",
+        "ru": "Подключение — только по твоему выбору",
+        "hy": "Միացումը միայն քո ընտրությամբ է"
+      },
+      "healthKitDemo.privacy": {
+        "en": "Optional. Requests write access only — it does not read Health data.",
+        "ru": "По желанию. Запрашивает только запись — данные «Здоровья» не читаются.",
+        "hy": "Ցանկությամբ։ Խնդրում է միայն գրելու թույլտվություն՝ Health-ի տվյալները չի կարդում։"
+      },
+      "healthKitDemo.syncRecent": {
+        "en": "Sync Recent can add up to 30 finished workouts",
+        "ru": "«Синхронизировать недавние» добавит до 30 завершённых тренировок",
+        "hy": "«Համաժամացնել վերջինները» կարող է ավելացնել մինչև 30 ավարտված մարզում"
+      },
+      "healthKitDemo.title": {
+        "en": "Connect to Apple Health",
+        "ru": "Подключись к Apple Health",
+        "hy": "Միացիր Apple Health-ին"
+      },
+      "healthKitDemo.turnOn": {
+        "en": "Connect to Apple Health",
+        "ru": "Подключить к Apple Health",
+        "hy": "Միացնել Apple Health-ին"
+      },
+      "healthKitDemo.where": {
+        "en": "Later: History → Insights → Apple Health",
+        "ru": "Позже: History → Insights → Apple Health",
+        "hy": "Ավելի ուշ՝ History → Insights → Apple Health"
+      },
+      "healthKitDemo.workouts": {
+        "en": "Finished sessions sync as workouts",
+        "ru": "Завершённые сессии синхронизируются как тренировки",
+        "hy": "Ավարտված սեսիաները համաժամացվում են որպես մարզումներ"
+      },
+      "historyDemo.body": {
+        "en": "The History tab is a calendar of trained days. Search finds workouts by exercise name in any language.",
+        "ru": "Вкладка History — календарь тренировок. Поиск находит сессии по названию упражнения на любом языке.",
+        "hy": "History ներդիրը մարզված օրերի օրացույց է։ Որոնումը գտնում է մարզումները վարժության անունով ցանկացած լեզվով։"
+      },
+      "historyDemo.calendarA11y": {
+        "en": "Example attendance calendar",
+        "ru": "Пример календаря посещений",
+        "hy": "Օրինակ՝ այցելությունների օրացույց"
+      },
+      "historyDemo.search": {
+        "en": "Search by exercise from the History search bar",
+        "ru": "Ищи упражнение в строке поиска History",
+        "hy": "Որոնիր վարժություն History-ի որոնման տողում"
+      },
+      "historyDemo.title": {
+        "en": "History at a glance",
+        "ru": "История одним взглядом",
+        "hy": "Պատմությունը մի հայացքով"
+      },
+      "insights.body": {
+        "en": "Insights, Records, and progress charts turn your log into motivation — not noise.",
+        "ru": "Insights, рекорды и графики превращают дневник в мотивацию.",
+        "hy": "Insights-ը, ռեկորդները և գրաֆիկները օրագիրը դարձնում են մոտիվացիա՝ ոչ աղմուկ։"
+      },
+      "insights.bullet.balance": {
+        "en": "Balance muscle-group training",
+        "ru": "Балансировать группы мышц",
+        "hy": "Հավասարակշռել մկանախմբերի մարզումը"
+      },
+      "insights.bullet.consistency": {
+        "en": "Measure weekly consistency",
+        "ru": "Оценивать недельную стабильность",
+        "hy": "Չափել շաբաթական կայունությունը"
+      },
+      "insights.bullet.frequency": {
+        "en": "Monitor how often you train",
+        "ru": "Следить за частотой тренировок",
+        "hy": "Հետևել մարզումների հաճախականությանը"
+      },
+      "insights.bullet.gains": {
+        "en": "Spot strength gains over time",
+        "ru": "Видеть рост силы",
+        "hy": "Տեսնել ուժի աճը ժամանակի ընթացքում"
+      },
+      "insights.bullet.plateaus": {
+        "en": "Notice plateaus early",
+        "ru": "Замечать плато раньше",
+        "hy": "Վաղ նկատել պլատոները"
+      },
+      "insights.bullet.prs": {
+        "en": "Track personal records",
+        "ru": "Отслеживать личные рекорды",
+        "hy": "Հետևել անձնական ռեկորդներին"
+      },
+      "insights.cat.back": {
+        "en": "6 sessions",
+        "ru": "6 сессий",
+        "hy": "6 սեսիա"
+      },
+      "insights.cat.chest": {
+        "en": "8 sessions",
+        "ru": "8 сессий",
+        "hy": "8 սեսիա"
+      },
+      "insights.cat.legs": {
+        "en": "5 sessions",
+        "ru": "5 сессий",
+        "hy": "5 սեսիա"
+      },
+      "insights.chartA11y": {
+        "en": "Example weekly workout frequency chart",
+        "ru": "Пример графика частоты тренировок",
+        "hy": "Օրինակ՝ շաբաթական մարզումների հաճախականության գրաֆիկ"
+      },
+      "insights.chartTitle": {
+        "en": "Weekly frequency",
+        "ru": "Частота по неделям",
+        "hy": "Շաբաթական հաճախականություն"
+      },
+      "insights.exportTip": {
+        "en": "Backup anytime from Insights → Export (JSON or CSV).",
+        "ru": "Резервная копия: Insights → Export (JSON или CSV).",
+        "hy": "Պահուստավորիր Insights → Export-ից (JSON կամ CSV)։"
+      },
+      "insights.pr": {
+        "en": "New PR",
+        "ru": "Новый рекорд",
+        "hy": "Նոր ռեկորդ"
+      },
+      "insights.prDetail": {
+        "en": "Quiet celebration when you set a best",
+        "ru": "Спокойная отметка нового лучшего",
+        "hy": "Հանգիստ նշում, երբ նոր լավագույն ես սահմանում"
+      },
+      "insights.stat.duration": {
+        "en": "Avg duration",
+        "ru": "Ср. длительность",
+        "hy": "Միջ. տևողություն"
+      },
+      "insights.stat.streak": {
+        "en": "Streak",
+        "ru": "Серия",
+        "hy": "Շարք"
+      },
+      "insights.stat.tonnage": {
+        "en": "Tonnage",
+        "ru": "Тоннаж",
+        "hy": "Տոննաժ"
+      },
+      "insights.stat.workouts": {
+        "en": "Workouts",
+        "ru": "Тренировки",
+        "hy": "Մարզումներ"
+      },
+      "insights.title": {
+        "en": "See why consistency pays off",
+        "ru": "Зачем тренироваться регулярно",
+        "hy": "Ինչու է կարևոր կանոնավորությունը"
+      },
+      "language.body": {
+        "en": "The app and exercise names follow this language.",
+        "ru": "Интерфейс и названия упражнений будут на этом языке.",
+        "hy": "Հավելվածը և վարժությունների անունները կհետևեն այս լեզվին։"
+      },
+      "language.device": {
+        "en": "Device language",
+        "ru": "Язык устройства",
+        "hy": "Սարքի լեզու"
+      },
+      "language.footnote": {
+        "en": "You can change your language anytime in iOS Settings.",
+        "ru": "Язык можно изменить в любой момент в Настройках iOS.",
+        "hy": "Լեզուն կարող ես փոխել ցանկացած ժամանակ iOS Կարգավորումներում։"
+      },
+      "language.search": {
+        "en": "Search languages",
+        "ru": "Поиск языка",
+        "hy": "Փնտրել լեզու"
+      },
+      "language.title": {
+        "en": "Choose your language",
+        "ru": "Выбери язык",
+        "hy": "Ընտրիր լեզուն"
+      },
+      "layout.body": {
+        "en": "Pick List for a fast scan, or Cards for form art and muscle cues.",
+        "ru": "Список — для быстрого выбора, карточки — с иллюстрациями и мышцами.",
+        "hy": "Ցանկը՝ արագ ընտրության համար, քարտերը՝ պատկերներով և մկանների հուշումներով։"
+      },
+      "layout.cards": {
+        "en": "Cards",
+        "ru": "Карточки",
+        "hy": "Քարտեր"
+      },
+      "layout.cardsHint": {
+        "en": "Cards help you recognize lifts by illustration and muscle colors.",
+        "ru": "Карточки помогают узнать упражнение по картинке и цветам мышц.",
+        "hy": "Քարտերը օգնում են ճանաչել վարժությունները պատկերով և մկանների գույներով։"
+      },
+      "layout.cardsPreview": {
+        "en": "Cards layout preview",
+        "ru": "Превью карточек",
+        "hy": "Քարտերի նախադիտում"
+      },
+      "layout.footnote": {
+        "en": "You can switch layouts anytime from the exercise picker.",
+        "ru": "Переключить вид можно в любой момент в выборе упражнений.",
+        "hy": "Տեսքը կարող ես փոխել ցանկացած ժամանակ վարժությունների ընտրիչում։"
+      },
+      "layout.list": {
+        "en": "List",
+        "ru": "Список",
+        "hy": "Ցանկ"
+      },
+      "layout.listHint": {
+        "en": "List is great when you already know the name and want fewer taps.",
+        "ru": "Список удобен, когда имя упражнения уже знакомо.",
+        "hy": "Ցանկը հարմար է, երբ արդեն գիտես վարժության անունը։"
+      },
+      "layout.listPreview": {
+        "en": "List layout preview",
+        "ru": "Превью списка",
+        "hy": "Ցանկի նախադիտում"
+      },
+      "layout.picker": {
+        "en": "Exercise layout",
+        "ru": "Вид упражнений",
+        "hy": "Վարժությունների տեսք"
+      },
+      "layout.title": {
+        "en": "Choose how exercises look",
+        "ru": "Как показывать упражнения",
+        "hy": "Ինչպես ցուցադրել վարժությունները"
+      },
+      "library.done": {
+        "en": "Done",
+        "ru": "Готово",
+        "hy": "Պատրաստ է"
+      },
+      "library.intro": {
+        "en": "Jump to any topic, or replay a short session.",
+        "ru": "Открой любую тему или повтори короткую сессию.",
+        "hy": "Անցիր ցանկացած թեմայի կամ կրկնիր կարճ սեսիան։"
+      },
+      "library.playSession2": {
+        "en": "Play Progress & balance",
+        "ru": "Пройти «Прогресс и баланс»",
+        "hy": "Անցնել «Առաջընթաց և հավասարակշռություն»"
+      },
+      "library.playSession3": {
+        "en": "Play Power tips",
+        "ru": "Пройти «Продвинутые советы»",
+        "hy": "Անցնել «Ընդլայնված խորհուրդներ»"
+      },
+      "library.playlists": {
+        "en": "Sessions",
+        "ru": "Сессии",
+        "hy": "Սեսիաներ"
+      },
+      "library.title": {
+        "en": "App Tour",
+        "ru": "Тур по приложению",
+        "hy": "Հավելվածի շրջայց"
+      },
+      "logging.addSet": {
+        "en": "Add Set",
+        "ru": "Добавить",
+        "hy": "Ավելացնել"
+      },
+      "logging.body": {
+        "en": "Tap weight or reps to open the wheel picker. Swipe a set left to delete. Tap another exercise to expand it — only one stays open.",
+        "ru": "Нажми вес или повторы, чтобы открыть колесо. Свайпни подход влево, чтобы удалить. Нажми другое упражнение — открыто только одно.",
+        "hy": "Սեղմիր քաշը կամ կրկնությունները՝ անիվը բացելու համար։ Սահեցրու մոտեցումը ձախ՝ ջնջելու համար։ Սեղմիր այլ վարժություն — միայն մեկն է բաց մնում։"
+      },
+      "logging.colReps": {
+        "en": "Reps",
+        "ru": "Повт.",
+        "hy": "Կրկն."
+      },
+      "logging.colSet": {
+        "en": "Set",
+        "ru": "Подход",
+        "hy": "Մոտ."
+      },
+      "logging.colWeight": {
+        "en": "Weight",
+        "ru": "Вес",
+        "hy": "Քաշ"
+      },
+      "logging.collapseTip": {
+        "en": "Only one exercise stays expanded so you can scan what’s done and what’s left.",
+        "ru": "Открыто только одно упражнение — так видно, что уже сделано и что осталось.",
+        "hy": "Միայն մեկ վարժություն է բաց մնում, որպեսզի տեսնես՝ ինչ է արված և ինչ է մնացել։"
+      },
+      "logging.collapsedExpandedHint": {
+        "en": "Log sets here when this exercise is open. Tap another title to switch.",
+        "ru": "Записывай подходы здесь, пока упражнение открыто. Нажми другой заголовок, чтобы переключиться.",
+        "hy": "Գրանցիր մոտեցումները այստեղ, երբ վարժությունը բաց է։ Սեղմիր այլ վերնագիր՝ փոխելու համար։"
+      },
+      "logging.collapsedName": {
+        "en": "Back Squat",
+        "ru": "Приседания со штангой",
+        "hy": "Ծանրաձողով կքանստում"
+      },
+      "logging.dup": {
+        "en": "Dup",
+        "ru": "Дубль",
+        "hy": "Կրկնել"
+      },
+      "logging.exerciseName": {
+        "en": "Bench Press",
+        "ru": "Жим лёжа",
+        "hy": "Նստարանային մամլում"
+      },
+      "logging.notes": {
+        "en": "Workout notes live in Details",
+        "ru": "Заметки к тренировке — в Details",
+        "hy": "Մարզման նշումները՝ Details-ում"
+      },
+      "logging.swipeTip": {
+        "en": "Swipe a set left to delete — same as during a workout.",
+        "ru": "Свайпни подход влево, чтобы удалить — как на тренировке.",
+        "hy": "Սահեցրու մոտեցումը ձախ՝ ջնջելու համար — ինչպես մարզման ժամանակ։"
+      },
+      "logging.title": {
+        "en": "Log sets in seconds",
+        "ru": "Записывай подходы за секунды",
+        "hy": "Գրանցիր մոտեցումները վայրկյաններում"
+      },
+      "logging.toggleDone": {
+        "en": "Mark set done or undone",
+        "ru": "Отметить подход выполненным",
+        "hy": "Նշել մոտեցումը կատարված կամ ոչ"
+      },
+      "logging.why": {
+        "en": "Consistent logging unlocks progress charts, Insights, and personal records.",
+        "ru": "Регулярные записи открывают прогресс, Insights и рекорды.",
+        "hy": "Կանոնավոր գրանցումը բացում է առաջընթացի գրաֆիկները, Insights-ը և ռեկորդները։"
+      },
+      "nudge.continue": {
+        "en": "Continue",
+        "ru": "Продолжить",
+        "hy": "Շարունակել"
+      },
+      "nudge.notNow": {
+        "en": "Not now",
+        "ru": "Не сейчас",
+        "hy": "Ոչ հիմա"
+      },
+      "nudge2.body": {
+        "en": "A short tour of history, Apply, Balanced workouts, and templates — about a minute.",
+        "ru": "Короткий тур: история, Apply, Balanced и шаблоны — около минуты.",
+        "hy": "Կարճ շրջայց՝ պատմություն, Apply, Balanced և կաղապարներ՝ մոտ մեկ րոպե։"
+      },
+      "nudge2.title": {
+        "en": "Ready for the next tips?",
+        "ru": "Готов к следующим советам?",
+        "hy": "Պատրա՞ստ ես հաջորդ խորհուրդներին"
+      },
+      "nudge3.body": {
+        "en": "Recycle Bin, rest timer, Insights, and advanced picker tips — skip anytime.",
+        "ru": "Корзина, таймер отдыха, Insights и продвинутый выбор упражнений — можно пропустить.",
+        "hy": "Աղբարկղ, հանգստի ժամանակաչափ, Insights և ընտրիչի խորհուրդներ՝ կարող ես բաց թողնել։"
+      },
+      "nudge3.title": {
+        "en": "A few power tips",
+        "ru": "Несколько продвинутых советов",
+        "hy": "Մի քանի ընդլայնված խորհուրդ"
+      },
+      "personal.body": {
+        "en": "A few preferences stay under your control — here’s where they live.",
+        "ru": "Несколько настроек всегда под рукой — вот где они находятся.",
+        "hy": "Մի քանի նախընտրություն միշտ քո վերահսկողության տակ են՝ ահա որտեղ են։"
+      },
+      "personal.exercises": {
+        "en": "Exercises & categories",
+        "ru": "Упражнения и категории",
+        "hy": "Վարժություններ և կատեգորիաներ"
+      },
+      "personal.exercisesDetail": {
+        "en": "Templates → Exercises to add, edit, and favorite.",
+        "ru": "Шаблоны → Упражнения — добавить, изменить, в избранное.",
+        "hy": "Կաղապարներ → Վարժություններ՝ ավելացնել, խմբագրել և նախընտրել։"
+      },
+      "personal.footnote": {
+        "en": "These options stay available as you train — no extra setup required.",
+        "ru": "Эти возможности остаются доступны во время тренировок.",
+        "hy": "Այս տարբերակները մնում են հասանելի մարզումների ընթացքում։"
+      },
+      "personal.language": {
+        "en": "Language",
+        "ru": "Язык",
+        "hy": "Լեզու"
+      },
+      "personal.languageDetail": {
+        "en": "Chosen here; also follows iOS Settings for the system language.",
+        "ru": "Выбран здесь; также зависит от языка в Настройках iOS.",
+        "hy": "Ընտրվում է այստեղ· նաև հետևում է iOS Կարգավորումների լեզվին։"
+      },
+      "personal.layout": {
+        "en": "List or Cards",
+        "ru": "Список или карточки",
+        "hy": "Ցանկ կամ քարտեր"
+      },
+      "personal.layoutDetail": {
+        "en": "Toggle anytime in the exercise picker toolbar.",
+        "ru": "Переключается в панели выбора упражнений.",
+        "hy": "Փոխվում է վարժությունների ընտրիչի գործիքագոտում։"
+      },
+      "personal.supersets": {
+        "en": "Supersets",
+        "ru": "Суперсеты",
+        "hy": "Սուպերսեթներ"
+      },
+      "personal.supersetsDetail": {
+        "en": "Library presets and your custom groups under Templates → Exercises.",
+        "ru": "Пресеты и свои группы в Шаблоны → Упражнения.",
+        "hy": "Պատրաստի և սեփական խմբերը՝ Կաղապարներ → Վարժություններում։"
+      },
+      "personal.theme": {
+        "en": "Appearance",
+        "ru": "Оформление",
+        "hy": "Տեսք"
+      },
+      "personal.themeDetail": {
+        "en": "Light and Dark follow your iPhone appearance setting.",
+        "ru": "Светлая и тёмная темы следуют настройке iPhone.",
+        "hy": "Լուսավոր և մուգ ռեժիմները հետևում են iPhone-ի տեսքի կարգավորմանը։"
+      },
+      "personal.title": {
+        "en": "Make it yours",
+        "ru": "Настрой под себя",
+        "hy": "Դարձրու քոնը"
+      },
+      "progress": {
+        "en": "Step %lld of %lld",
+        "ru": "Шаг %lld из %lld",
+        "hy": "Քայլ %lld՝ %lld-ից"
+      },
+      "ready.body": {
+        "en": "Start logging your first workout — or explore the tabs at your own pace.",
+        "ru": "Начни первую тренировку — или просто осмотрись.",
+        "hy": "Սկսիր առաջին մարզումը՝ կամ ուսումնասիրիր հավելվածը քո տեմպով։"
+      },
+      "ready.create": {
+        "en": "Create My First Workout",
+        "ru": "Создать первую тренировку",
+        "hy": "Ստեղծել առաջին մարզումը"
+      },
+      "ready.explore": {
+        "en": "Explore the App",
+        "ru": "Осмотреть приложение",
+        "hy": "Ուսումնասիրել հավելվածը"
+      },
+      "ready.title": {
+        "en": "You’re ready",
+        "ru": "Ты готов",
+        "hy": "Պատրաստ ես"
+      },
+      "recycle.body": {
+        "en": "Deleting a finished workout or discarding an in-progress one moves it to the Recycle Bin.",
+        "ru": "Удаление завершённой или отмена текущей тренировки отправляет её в Корзину.",
+        "hy": "Ավարտված մարզումը ջնջելը կամ ընթացիկը չեղարկելը տեղափոխում է Աղբարկղ։"
+      },
+      "recycle.bullet1": {
+        "en": "Restore finished workouts to History",
+        "ru": "Верни завершённые тренировки в History",
+        "hy": "Վերականգնիր ավարտված մարզումները History-ում"
+      },
+      "recycle.bullet2": {
+        "en": "Continue an unfinished session you discarded",
+        "ru": "Продолжи отменённую незавершённую сессию",
+        "hy": "Շարունակիր չեղարկված անավարտ սեսիան"
+      },
+      "recycle.bullet3": {
+        "en": "PRs ignore trashed workouts until restored",
+        "ru": "Рекорды не учитывают удалённые, пока не восстановишь",
+        "hy": "Ռեկորդները չեն հաշվում աղբարկղի մարզումները մինչև վերականգնումը"
+      },
+      "recycle.days": {
+        "en": "28 days left",
+        "ru": "Осталось 28 дней",
+        "hy": "Մնացել է 28 օր"
+      },
+      "recycle.item": {
+        "en": "Upper body · yesterday",
+        "ru": "Верх тела · вчера",
+        "hy": "Վերին մարմին · երեկ"
+      },
+      "recycle.restore": {
+        "en": "Restore",
+        "ru": "Восстановить",
+        "hy": "Վերականգնել"
+      },
+      "recycle.title": {
+        "en": "Nothing is gone forever — for 30 days",
+        "ru": "Ничего не пропадает сразу — 30 дней",
+        "hy": "Ոչինչ անմիջապես չի անհետանում՝ 30 օր"
+      },
+      "recycle.where": {
+        "en": "History → toolbar trash icon",
+        "ru": "History → иконка корзины в панели",
+        "hy": "History → գործիքագոտու աղբարկղի պատկերակ"
+      },
+      "rest.body": {
+        "en": "On an expanded exercise, start or stop rest manually. Timing also shows on the Lock Screen and Dynamic Island.",
+        "ru": "На раскрытом упражнении запускай или останавливай отдых вручную. Таймер виден на экране блокировки и в Dynamic Island.",
+        "hy": "Բացված վարժության վրա ձեռքով սկսիր կամ կանգնեցրու հանգիստը։ Ժամանակաչափը երևում է նաև կողպեքի էկրանին և Dynamic Island-ում։"
+      },
+      "rest.liveActivity": {
+        "en": "Live Activity keeps rest visible while you rack the bar",
+        "ru": "Live Activity показывает отдых, пока ты вешаешь гриф",
+        "hy": "Live Activity-ն ցույց է տալիս հանգիստը, մինչ դու դնում ես ձողը"
+      },
+      "rest.start": {
+        "en": "Start Rest",
+        "ru": "Старт отдыха",
+        "hy": "Սկսել հանգիստը"
+      },
+      "rest.stop": {
+        "en": "Stop Rest",
+        "ru": "Стоп отдыха",
+        "hy": "Կանգնեցնել հանգիստը"
+      },
+      "rest.title": {
+        "en": "Rest between sets",
+        "ru": "Отдых между подходами",
+        "hy": "Հանգիստ մոտեցումների միջև"
+      },
+      "rest.where": {
+        "en": "Active workout · under Add Set / Dup",
+        "ru": "Активная тренировка · под Add Set / Dup",
+        "hy": "Ակտիվ մարզում · Add Set / Dup-ի տակ"
+      },
+      "session1.title": {
+        "en": "Core tour",
+        "ru": "Основной тур",
+        "hy": "Հիմնական շրջայց"
+      },
+      "session2.title": {
+        "en": "Progress & balance",
+        "ru": "Прогресс и баланс",
+        "hy": "Առաջընթաց և հավասարակշռություն"
+      },
+      "session3.title": {
+        "en": "Power tips",
+        "ru": "Продвинутые советы",
+        "hy": "Ընդլայնված խորհուրդներ"
+      },
+      "skip": {
+        "en": "Skip",
+        "ru": "Пропустить",
+        "hy": "Բաց թողնել"
+      },
+      "skip.hint": {
+        "en": "Skip onboarding and open the app",
+        "ru": "Пропустить обучение и открыть приложение",
+        "hy": "Բաց թողնել ուսուցումը և բացել հավելվածը"
+      },
+      "superset.alternating": {
+        "en": "Alternating focus: A1 → B1 → C1 → A2 → B2 → C2",
+        "ru": "Чередование: A1 → B1 → C1 → A2 → B2 → C2",
+        "hy": "Հերթափոխ շեշտ՝ A1 → B1 → C1 → A2 → B2 → C2"
+      },
+      "superset.body": {
+        "en": "Group exercises, expand a preset, and alternate focus A → B → C while you train.",
+        "ru": "Объединяй упражнения, раскрывай пресет и чередуй фокус A → B → C.",
+        "hy": "Միավորիր վարժությունները, բացիր պատրաստի սուպերսեթը և հերթափոխիր A → B → C շեշտը։"
+      },
+      "superset.nextBeat": {
+        "en": "Show next step",
+        "ru": "Следующий шаг",
+        "hy": "Հաջորդ քայլը"
+      },
+      "superset.phase1": {
+        "en": "Add the first exercise",
+        "ru": "Добавь первое упражнение",
+        "hy": "Ավելացրու առաջին վարժությունը"
+      },
+      "superset.phase2": {
+        "en": "Add the second exercise",
+        "ru": "Добавь второе упражнение",
+        "hy": "Ավելացրու երկրորդ վարժությունը"
+      },
+      "superset.phase3": {
+        "en": "Add the third exercise",
+        "ru": "Добавь третье упражнение",
+        "hy": "Ավելացրու երրորդ վարժությունը"
+      },
+      "superset.phase4": {
+        "en": "Group as a superset",
+        "ru": "Объедини в суперсет",
+        "hy": "Միավորիր որպես սուպերսեթ"
+      },
+      "superset.replay": {
+        "en": "Replay",
+        "ru": "Повторить",
+        "hy": "Կրկնել"
+      },
+      "superset.title": {
+        "en": "Supersets keep complex work organized",
+        "ru": "Суперсеты упорядочивают сложные связки",
+        "hy": "Սուպերսեթները կազմակերպում են բարդ մարզումները"
+      },
+      "superset.why": {
+        "en": "Supersets help organize complex workouts and keep paired lifts together.",
+        "ru": "Суперсеты помогают держать связанные упражнения вместе.",
+        "hy": "Սուպերսեթները օգնում են պահել կապակցված վարժությունները միասին։"
+      },
+      "templates.autofill": {
+        "en": "Templates live on the Templates tab. Create opens the exercise picker automatically.",
+        "ru": "Шаблоны — на вкладке Templates. Создание сразу открывает выбор упражнений.",
+        "hy": "Կաղապարները Templates ներդիրում են։ Ստեղծումը ավտոմատ բացում է վարժությունների ընտրիչը։"
+      },
+      "templates.body": {
+        "en": "Build a template once. Starting it auto-fills planned sets so you can train faster.",
+        "ru": "Собери шаблон один раз. Старт автоматически заполняет плановые подходы.",
+        "hy": "Կառուցիր կաղապարը մեկ անգամ։ Սկիզբը ավտոմատ լրացնում է պլանավորված մոտեցումները։"
+      },
+      "templates.row1": {
+        "en": "Push Day",
+        "ru": "Жимовой день",
+        "hy": "Հրող օր"
+      },
+      "templates.row1Meta": {
+        "en": "6 exercises · planned targets",
+        "ru": "6 упражнений · плановые цели",
+        "hy": "6 վարժություն · պլանավորված նպատակներ"
+      },
+      "templates.row2": {
+        "en": "Pull Day",
+        "ru": "Тяговый день",
+        "hy": "Ձգող օր"
+      },
+      "templates.row2Meta": {
+        "en": "5 exercises · planned targets",
+        "ru": "5 упражнений · плановые цели",
+        "hy": "5 վարժություն · պլանավորված նպատակներ"
+      },
+      "templates.title": {
+        "en": "Save routines as templates",
+        "ru": "Сохраняй программы как шаблоны",
+        "hy": "Պահպանիր ռեժիմները որպես կաղապարներ"
+      },
+      "welcome.body": {
+        "en": "Organize workouts, build routines, track progress, monitor muscle balance, and see how you improve over time.",
+        "ru": "Организуй тренировки, собирай программы, отслеживай прогресс, баланс мышц и рост результатов.",
+        "hy": "Կազմակերպիր մարզումները, կառուցիր ռեժիմներ, հետևիր առաջընթացին, մկանների հավասարակշռությանը և երկարաժամկետ աճին։"
+      },
+      "welcome.bullet.analyze": {
+        "en": "Review Insights over time",
+        "ru": "Смотри аналитику со временем",
+        "hy": "Վերլուծիր Insights-ը ժամանակի ընթացքում"
+      },
+      "welcome.bullet.balance": {
+        "en": "Watch muscle-group balance",
+        "ru": "Следи за балансом мышц",
+        "hy": "Հսկիր մկանախմբերի հավասարակշռությունը"
+      },
+      "welcome.bullet.organize": {
+        "en": "Organize every workout",
+        "ru": "Организуй каждую тренировку",
+        "hy": "Կազմակերպիր յուրաքանչյուր մարզում"
+      },
+      "welcome.bullet.progress": {
+        "en": "Track sets and personal records",
+        "ru": "Отслеживай подходы и рекорды",
+        "hy": "Հետևիր մոտեցումներին և անձնական ռեկորդներին"
+      },
+      "welcome.bullet.routines": {
+        "en": "Build reusable routines",
+        "ru": "Создавай шаблоны тренировок",
+        "hy": "Կառուցիր կրկնվող ռեժիմներ"
+      },
+      "welcome.title": {
+        "en": "Your weightlifting logbook",
+        "ru": "Твой дневник тренировок",
+        "hy": "Քո մարզումների օրագիրը"
+      }
+    },
+    "Performance": {
+      "best": {
+        "en": "best %@",
+        "ru": "лучш. %@",
+        "hy": "լավագ. %@"
+      },
+      "bestOverallDistance": {
+        "en": "Best: %@",
+        "ru": "Лучший: %@",
+        "hy": "Լավագույն՝ %@"
+      },
+      "bestOverallDuration": {
+        "en": "Best: %@ sec",
+        "ru": "Лучший: %@ сек",
+        "hy": "Լավագույն՝ %@ վարկ"
+      },
+      "bestOverallReps": {
+        "en": "Best: %@ reps",
+        "ru": "Лучший: %@ повт.",
+        "hy": "Լավագույն՝ %@ կրկն"
+      },
+      "bestOverallWeight": {
+        "en": "Best: %@",
+        "ru": "Лучший: %@",
+        "hy": "Լավագույն՝ %@"
+      },
+      "e1rm": {
+        "en": "e1RM %@",
+        "ru": "e1RM %@",
+        "hy": "e1RM %@"
+      },
+      "last": {
+        "en": "Last · %@",
+        "ru": "Прошлое · %@",
+        "hy": "Վերջին · %@"
+      },
+      "noHistory": {
+        "en": "No history yet — log your first set.",
+        "ru": "Пока нет истории — запишите первый подход.",
+        "hy": "Դեռ պատմություն չկա — գրանցեք առաջին մոտեցումը։"
+      },
+      "recent": {
+        "en": "Recent",
+        "ru": "Недавние",
+        "hy": "Վերջին"
+      },
+      "suggestedStart": {
+        "en": "Suggested start",
+        "ru": "Рекомендуемый старт",
+        "hy": "Առաջարկվող սկիզբ"
+      },
+      "volume": {
+        "en": "vol %@",
+        "ru": "объём %@",
+        "hy": "ծավալ %@"
+      }
+    },
+    "Pr": {
+      "newBadge": {
+        "en": "New PR",
+        "ru": "Новый рекорд",
+        "hy": "Նոր ռեկորդ"
+      }
+    },
+    "PrType": {
+      "best_e1rm": {
+        "en": "Best e1RM",
+        "ru": "Лучший e1RM",
+        "hy": "Լավագույն e1RM"
+      },
+      "farthest_distance": {
+        "en": "Farthest distance",
+        "ru": "Макс. дистанция",
+        "hy": "Առավելագույն հեռավորություն"
+      },
+      "heaviest_weight": {
+        "en": "Heaviest weight",
+        "ru": "Максимальный вес",
+        "hy": "Առավելագույն քաշ"
+      },
+      "longest_duration": {
+        "en": "Longest duration",
+        "ru": "Макс. длительность",
+        "hy": "Առավելագույն տևողություն"
+      },
+      "max_reps": {
+        "en": "Max reps",
+        "ru": "Макс. повторы",
+        "hy": "Առավելագույն կրկնություններ"
+      }
+    },
+    "Progress": {
+      "chart.accessibility": {
+        "en": "Exercise weight progress chart",
+        "ru": "График прогресса по весу",
+        "hy": "Վարժության քաշի առաջընթացի գրաֆիկ"
+      },
+      "chart.date": {
+        "en": "Date",
+        "ru": "Дата",
+        "hy": "Ամսաթիվ"
+      },
+      "chart.weight": {
+        "en": "Weight",
+        "ru": "Вес",
+        "hy": "Քաշ"
+      },
+      "emptyDescription": {
+        "en": "Log this exercise in at least two workouts to see a progress chart.",
+        "ru": "Запишите упражнение минимум в двух тренировках, чтобы увидеть график.",
+        "hy": "Գրանցեք այս վարժությունը առնվազն երկու մարզման մեջ՝ գրաֆիկ տեսնելու համար։"
+      },
+      "emptyRangeDescription": {
+        "en": "Try a longer range to chart this lift.",
+        "ru": "Выберите более длинный период, чтобы построить график.",
+        "hy": "Ընտրեք ավելի երկար ժամանակահատված՝ գրաֆիկ կառուցելու համար։"
+      },
+      "emptyRangeTitle": {
+        "en": "Nothing in This Range",
+        "ru": "Нет данных за период",
+        "hy": "Այս ժամանակահատվածում տվյալներ չկան"
+      },
+      "emptyTitle": {
+        "en": "Not Enough History",
+        "ru": "Мало истории",
+        "hy": "Անբավարար պատմություն"
+      },
+      "open": {
+        "en": "Progress",
+        "ru": "Прогресс",
+        "hy": "Առաջընթաց"
+      },
+      "readout.best": {
+        "en": "Best %@",
+        "ru": "Лучший %@",
+        "hy": "Լավագույն %@"
+      },
+      "readout.latest": {
+        "en": "Latest %@",
+        "ru": "Последний %@",
+        "hy": "Վերջին %@"
+      },
+      "series": {
+        "en": "Series",
+        "ru": "Серия",
+        "hy": "Սերիա"
+      },
+      "series.estimatedOneRM": {
+        "en": "Estimated 1RM",
+        "ru": "Оценка 1ПМ",
+        "hy": "Գնահատված 1ՊՄ"
+      },
+      "series.heaviestWeight": {
+        "en": "Heaviest set",
+        "ru": "Макс. вес",
+        "hy": "Առավելագույն մոտեցում"
+      }
+    },
+    "Records": {
+      "exerciseHistory": {
+        "en": "Exercise history",
+        "ru": "История упражнения",
+        "hy": "Վարժության պատմություն"
+      },
+      "hitOn": {
+        "en": "Hit on",
+        "ru": "Достигнуто",
+        "hy": "Հասնվել է"
+      },
+      "openWorkout": {
+        "en": "Open workout",
+        "ru": "Открыть тренировку",
+        "hy": "Բացել մարզումը"
+      },
+      "workoutUnavailableMessage": {
+        "en": "The session for this record was deleted. The best values are still saved.",
+        "ru": "Сессия для этого рекорда удалена. Лучшие значения сохранены.",
+        "hy": "Այս ռեկորդի սեսիան ջնջված է։ Լավագույն արժեքները պահպանված են։"
+      },
+      "workoutUnavailableTitle": {
+        "en": "Workout unavailable",
+        "ru": "Тренировка недоступна",
+        "hy": "Մարզումն անհասանելի է"
+      }
+    },
+    "RecycleBin": {
+      "continueBanner": {
+        "en": "Continue discarded workout?",
+        "ru": "Продолжить отменённую тренировку?",
+        "hy": "Շարունակե՞լ չեղարկված մարզումը"
+      },
+      "continueBanner.subtitle": {
+        "en": "Restored from Recycle Bin",
+        "ru": "Из корзины",
+        "hy": "Վերականգնված աղբարկղից"
+      },
+      "daysRemaining": {
+        "en": "%lld days left",
+        "ru": "Осталось %lld дн.",
+        "hy": "%lld օր է մնացել"
+      },
+      "deleteForever": {
+        "en": "Delete Forever",
+        "ru": "Удалить навсегда",
+        "hy": "Ջնջել ընդմիշտ"
+      },
+      "emptyDescription": {
+        "en": "Deleted and discarded workouts stay here for 30 days.",
+        "ru": "Удалённые и отменённые тренировки хранятся здесь 30 дней.",
+        "hy": "Ջնջված և չեղարկված մարզումները մնում են այստեղ 30 օր։"
+      },
+      "emptyTitle": {
+        "en": "Recycle Bin is empty",
+        "ru": "Корзина пуста",
+        "hy": "Աղբարկղը դատարկ է"
+      },
+      "footer": {
+        "en": "Workouts are permanently removed after 30 days.",
+        "ru": "Тренировки удаляются безвозвратно через 30 дней.",
+        "hy": "Մարզումները վերջնականապես կջնջվեն 30 օրից։"
+      },
+      "pending.footer": {
+        "en": "These unfinished workouts were saved when you started another session. Tap one to continue, or close to keep them in Recycle Bin.",
+        "ru": "Эти незавершённые тренировки сохранились, когда вы начали другую. Нажмите, чтобы продолжить, или закройте — они останутся в корзине.",
+        "hy": "Այս անավարտ մարզումները պահվել են, երբ սկսել եք այլ սեսիա։ Հպեք շարունակելու համար կամ փակեք՝ աղբարկղում պահելու համար։"
+      },
+      "pending.header": {
+        "en": "Pending",
+        "ru": "Ожидают",
+        "hy": "Սպասող"
+      },
+      "pending.title": {
+        "en": "Continue a workout?",
+        "ru": "Продолжить тренировку?",
+        "hy": "Շարունակե՞լ մարզումը"
+      },
+      "pendingFlash": {
+        "en": "Queued to continue after your current workout",
+        "ru": "Будет предложено после текущей тренировки",
+        "hy": "Կշարունակվի ընթացիկ մարզումից հետո"
+      },
+      "restore": {
+        "en": "Restore",
+        "ru": "Восстановить",
+        "hy": "Վերականգնել"
+      },
+      "restoredFlash": {
+        "en": "Workout restored",
+        "ru": "Тренировка восстановлена",
+        "hy": "Մարզումը վերականգնվեց"
+      },
+      "status.finished": {
+        "en": "Finished",
+        "ru": "Завершённая",
+        "hy": "Ավարտված"
+      },
+      "status.pending": {
+        "en": "Pending continue",
+        "ru": "Ожидает продолжения",
+        "hy": "Սպասում է շարունակման"
+      },
+      "status.unfinished": {
+        "en": "Unfinished",
+        "ru": "Незавершённая",
+        "hy": "Անավարտ"
+      },
+      "title": {
+        "en": "Recycle Bin",
+        "ru": "Корзина",
+        "hy": "Աղբարկղ"
+      }
+    },
+    "Rest": {
+      "timer.duration": {
+        "en": "Rest duration",
+        "ru": "Время отдыха",
+        "hy": "Հանգստի տևողություն"
+      },
+      "timer.label": {
+        "en": "Rest",
+        "ru": "Отдых",
+        "hy": "Հանգիստ"
+      },
+      "timer.needsSets": {
+        "en": "Add a set before starting rest.",
+        "ru": "Добавьте подход, прежде чем начать отдых.",
+        "hy": "Հանգիստը սկսելուց առաջ ավելացրեք մոտեցում։"
+      },
+      "timer.previousSet": {
+        "en": "Last set",
+        "ru": "Последний подход",
+        "hy": "Վերջին մոտեցում"
+      },
+      "timer.start": {
+        "en": "Start Rest",
+        "ru": "Начать отдых",
+        "hy": "Սկսել հանգիստ"
+      },
+      "timer.stop": {
+        "en": "Stop Rest",
+        "ru": "Стоп",
+        "hy": "Կանգնեցնել"
+      },
+      "timer.supersetTitle": {
+        "en": "Superset",
+        "ru": "Суперсет",
+        "hy": "Սուպերսեթ"
+      },
+      "timer.supersetUneven": {
+        "en": "Finish the round — every exercise needs the same number of sets.",
+        "ru": "Завершите круг — у всех упражнений должно быть одинаковое число подходов.",
+        "hy": "Ավարտեք շրջափուլը — բոլոր վարժությունները պետք է ունենան նույն քանակի մոտեցումներ։"
+      }
+    },
+    "Set": {
+      "add": {
+        "en": "Add Set",
+        "ru": "Добавить подход",
+        "hy": "Ավելացնել մոտեցում"
+      },
+      "deleteConfirmAction": {
+        "en": "Delete Set",
+        "ru": "Удалить подход",
+        "hy": "Ջնջել մոտեցումը"
+      },
+      "deleteConfirmMessage": {
+        "en": "This set has logged values. Are you sure you want to delete it?",
+        "ru": "У этого подхода есть записанные значения. Удалить его?",
+        "hy": "Այս մոտեցման գրանցված արժեքներ կան։ Ջնջե՞լ։"
+      },
+      "deleteConfirmTitle": {
+        "en": "Delete Set?",
+        "ru": "Удалить подход?",
+        "hy": "Ջնջե՞լ մոտեցումը"
+      },
+      "duplicate": {
+        "en": "Dup",
+        "ru": "Дубль",
+        "hy": "Կրկն"
+      },
+      "markComplete": {
+        "en": "Mark set complete",
+        "ru": "Отметить подход выполненным",
+        "hy": "Նշել մոտեցումը ավարտված"
+      },
+      "markIncomplete": {
+        "en": "Mark set incomplete",
+        "ru": "Снять отметку выполнения",
+        "hy": "Հանել ավարտված նշումը"
+      }
+    },
+    "Subgroup": {
+      "allInGroup": {
+        "en": "All in group",
+        "ru": "Все в группе",
+        "hy": "Խմբի բոլորը"
+      },
+      "allPrimary": {
+        "en": "All primary",
+        "ru": "Все основные",
+        "hy": "Բոլոր հիմնականները"
+      },
+      "arms.biceps": {
+        "en": "Biceps",
+        "ru": "Бицепс",
+        "hy": "Բիցեպս"
+      },
+      "arms.biceps.workout": {
+        "en": "Biceps",
+        "ru": "Бицепс",
+        "hy": "Բիցեպս"
+      },
+      "arms.forearms": {
+        "en": "Forearms",
+        "ru": "Предплечья",
+        "hy": "Նախաբազուկ"
+      },
+      "arms.forearms.workout": {
+        "en": "Forearms",
+        "ru": "Предплечья",
+        "hy": "Նախաբազուկ"
+      },
+      "arms.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "arms.general.workout": {
+        "en": "Arms",
+        "ru": "Руки",
+        "hy": "Ձեռքեր"
+      },
+      "arms.triceps": {
+        "en": "Triceps",
+        "ru": "Трицепс",
+        "hy": "Տրիցեպս"
+      },
+      "arms.triceps.workout": {
+        "en": "Triceps",
+        "ru": "Трицепс",
+        "hy": "Տրիցեպս"
+      },
+      "back.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "back.general.workout": {
+        "en": "Back",
+        "ru": "Спина",
+        "hy": "Մեջք"
+      },
+      "back.lats": {
+        "en": "Lats",
+        "ru": "Широчайшие",
+        "hy": "Լայնագույն"
+      },
+      "back.lats.workout": {
+        "en": "Lats",
+        "ru": "Широчайшие",
+        "hy": "Լայնագույն"
+      },
+      "back.lower_back": {
+        "en": "Lower back",
+        "ru": "Низ спины",
+        "hy": "Մեջքի ստորին"
+      },
+      "back.lower_back.workout": {
+        "en": "Lower back",
+        "ru": "Низ спины",
+        "hy": "Ստորին մեջք"
+      },
+      "back.traps": {
+        "en": "Traps",
+        "ru": "Трапеции",
+        "hy": "Տրապեցիա"
+      },
+      "back.traps.workout": {
+        "en": "Traps",
+        "ru": "Трапеции",
+        "hy": "Տրապեցիա"
+      },
+      "back.upper_back": {
+        "en": "Upper back",
+        "ru": "Верх спины",
+        "hy": "Վերին մեջք"
+      },
+      "back.upper_back.workout": {
+        "en": "Upper back",
+        "ru": "Верх спины",
+        "hy": "Վերին մեջք"
+      },
+      "chest.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "chest.general.workout": {
+        "en": "Chest",
+        "ru": "Грудь",
+        "hy": "Կուրծք"
+      },
+      "chest.lower": {
+        "en": "Lower",
+        "ru": "Низ",
+        "hy": "Ստորին"
+      },
+      "chest.lower.workout": {
+        "en": "Lower chest",
+        "ru": "Низ груди",
+        "hy": "Ստորին կուրծք"
+      },
+      "chest.mid": {
+        "en": "Mid",
+        "ru": "Середина",
+        "hy": "Միջին"
+      },
+      "chest.mid.workout": {
+        "en": "Mid chest",
+        "ru": "Середина груди",
+        "hy": "Միջին կուրծք"
+      },
+      "chest.serratus": {
+        "en": "Serratus",
+        "ru": "Передняя зубчатая",
+        "hy": "Ատամնավոր"
+      },
+      "chest.serratus.workout": {
+        "en": "Serratus",
+        "ru": "Передняя зубчатая",
+        "hy": "Ատամնավոր"
+      },
+      "chest.upper": {
+        "en": "Upper",
+        "ru": "Верх",
+        "hy": "Վերին"
+      },
+      "chest.upper.workout": {
+        "en": "Upper chest",
+        "ru": "Верх груди",
+        "hy": "Վերին կուրծք"
+      },
+      "core.abs": {
+        "en": "Abs",
+        "ru": "Пресс",
+        "hy": "Մամուլ"
+      },
+      "core.abs.workout": {
+        "en": "Abs",
+        "ru": "Пресс",
+        "hy": "Մամուլ"
+      },
+      "core.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "core.general.workout": {
+        "en": "Core",
+        "ru": "Корпус",
+        "hy": "Կորպուս"
+      },
+      "core.obliques": {
+        "en": "Obliques",
+        "ru": "Косые",
+        "hy": "Թեք"
+      },
+      "core.obliques.workout": {
+        "en": "Obliques",
+        "ru": "Косые",
+        "hy": "Թեք"
+      },
+      "core.stability": {
+        "en": "Stability",
+        "ru": "Стабилизация",
+        "hy": "Կայունություն"
+      },
+      "core.stability.workout": {
+        "en": "Core stability",
+        "ru": "Стабилизация кора",
+        "hy": "Կայունություն"
+      },
+      "diagram": {
+        "en": "Target region",
+        "ru": "Зона",
+        "hy": "Գոտի"
+      },
+      "empty": {
+        "en": "No exercises in this subgroup yet.",
+        "ru": "В этой подгруппе пока нет упражнений.",
+        "hy": "Այս ենթախմբում դեռ վարժություններ չկան։"
+      },
+      "exerciseCount": {
+        "en": "%lld exercises",
+        "ru": "%lld упражнений",
+        "hy": "%lld վարժություն"
+      },
+      "filter.all": {
+        "en": "All",
+        "ru": "Все",
+        "hy": "Բոլորը"
+      },
+      "formFooter": {
+        "en": "Choose a primary muscle subgroup so the picker can suggest related lifts.",
+        "ru": "Укажите подгруппу основной мышцы — так пикер сможет предлагать похожие упражнения.",
+        "hy": "Նշեք հիմնական մկանի ենթախումբը, որպեսզի ընտրիչը ցույց տա առնչվող վարժություններ։"
+      },
+      "legs.calves": {
+        "en": "Calves",
+        "ru": "Икры",
+        "hy": "Սրունք"
+      },
+      "legs.calves.workout": {
+        "en": "Calves",
+        "ru": "Икры",
+        "hy": "Սրունք"
+      },
+      "legs.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "legs.general.workout": {
+        "en": "Legs",
+        "ru": "Ноги",
+        "hy": "Ոտքեր"
+      },
+      "legs.glutes": {
+        "en": "Glutes",
+        "ru": "Ягодицы",
+        "hy": "Հետույք"
+      },
+      "legs.glutes.workout": {
+        "en": "Glutes",
+        "ru": "Ягодицы",
+        "hy": "Հետույք"
+      },
+      "legs.hamstrings": {
+        "en": "Hamstrings",
+        "ru": "Бицепс бедра",
+        "hy": "Ազդրի հետև"
+      },
+      "legs.hamstrings.workout": {
+        "en": "Hamstrings",
+        "ru": "Бицепс бедра",
+        "hy": "Ազդրի հետին"
+      },
+      "legs.hips": {
+        "en": "Hips",
+        "ru": "Бёдра / отведения",
+        "hy": "Կոնք"
+      },
+      "legs.hips.workout": {
+        "en": "Hips",
+        "ru": "Бёдра",
+        "hy": "Կոնք"
+      },
+      "legs.quads": {
+        "en": "Quads",
+        "ru": "Квадрицепс",
+        "hy": "Քվադրիցեպս"
+      },
+      "legs.quads.workout": {
+        "en": "Quads",
+        "ru": "Квадрицепс",
+        "hy": "Քվադրիցեպս"
+      },
+      "picker": {
+        "en": "Target muscle",
+        "ru": "Целевая мышца",
+        "hy": "Թիրախային մկան"
+      },
+      "picker.primary": {
+        "en": "Primary target",
+        "ru": "Основная цель",
+        "hy": "Հիմնական թիրախ"
+      },
+      "picker.secondary": {
+        "en": "Secondary target",
+        "ru": "Вторичная цель",
+        "hy": "Երկրորդական թիրախ"
+      },
+      "picker.tertiary": {
+        "en": "Tertiary target",
+        "ru": "Третичная цель",
+        "hy": "Երրորդական թիրախ"
+      },
+      "section": {
+        "en": "Subgroups",
+        "ru": "Подгруппы",
+        "hy": "Ենթախմբեր"
+      },
+      "sectionFooter": {
+        "en": "Filter by region. All shows every exercise in this group.",
+        "ru": "Фильтр по зоне. «Все» показывает все упражнения группы.",
+        "hy": "Զտեք ըստ գոտու։ «Բոլորը» ցույց է տալիս խմբի բոլոր վարժությունները։"
+      },
+      "shoulders.front": {
+        "en": "Front delts",
+        "ru": "Передняя дельта",
+        "hy": "Առջևի դելտա"
+      },
+      "shoulders.front.workout": {
+        "en": "Front deltoids",
+        "ru": "Передние дельты",
+        "hy": "Առջևի դելտոիդներ"
+      },
+      "shoulders.general": {
+        "en": "General",
+        "ru": "Общая",
+        "hy": "Ընդհանուր"
+      },
+      "shoulders.general.workout": {
+        "en": "Shoulders",
+        "ru": "Плечи",
+        "hy": "Ուսեր"
+      },
+      "shoulders.rear": {
+        "en": "Rear",
+        "ru": "Задняя",
+        "hy": "Հետևի"
+      },
+      "shoulders.rear.workout": {
+        "en": "Rear deltoids",
+        "ru": "Задние дельты",
+        "hy": "Հետևի դելտոիդներ"
+      },
+      "shoulders.side": {
+        "en": "Side",
+        "ru": "Средняя",
+        "hy": "Կողային"
+      },
+      "shoulders.side.workout": {
+        "en": "Side deltoids",
+        "ru": "Средние дельты",
+        "hy": "Կողային դելտոիդներ"
+      }
+    },
+    "Superset": {
+      "addMembers": {
+        "en": "Add Exercises",
+        "ru": "Добавить упражнения",
+        "hy": "Ավելացնել վարժություններ"
+      },
+      "catalog.%@": {
+        "en": "superset.catalog.%@",
+        "ru": "superset.catalog.%@",
+        "hy": "superset.catalog.%@"
+      },
+      "catalog.superset-ab-wheel-side-plank": {
+        "en": "Ab Wheel + Side Plank",
+        "ru": "Ролик для пресса + Боковая планка",
+        "hy": "Որովայնի անիվ + Կողային տախտակ"
+      },
+      "catalog.superset-arms-biceps-triceps-forearms-triplet": {
+        "en": "Barbell Curl + Tricep Pushdown + Wrist Curl",
+        "ru": "Подъём штанги на бицепс + Разгибание трицепса на блоке + Сгибание запястий",
+        "hy": "Ձողով բիցեպս ծալում + Տրիցեպս ձգում + Դաստակի ծալում"
+      },
+      "catalog.superset-arnold-press-upright-row": {
+        "en": "Arnold Press + Upright Row",
+        "ru": "Жим Арнольда + Тяга к подбородку",
+        "hy": "Արնոլդ մամուլ + Ուղիղ քաշում"
+      },
+      "catalog.superset-back-lats-upper-traps-triplet": {
+        "en": "Lat Pulldown + Seated Cable Row + Barbell Shrug",
+        "ru": "Тяга верхнего блока + Тяга нижнего блока сидя + Шраги со штангой",
+        "hy": "Լատերի ձգում + Նստած կաբելային քաշում + Ձողով շրագեր"
+      },
+      "catalog.superset-back-squat-leg-extension": {
+        "en": "Back Squat + Leg Extension",
+        "ru": "Приседания со штангой на спине + Разгибание ног",
+        "hy": "Հետևի սքվաթ + Ոտքի երկարացում"
+      },
+      "catalog.superset-back-squat-pull-up": {
+        "en": "Back Squat + Pull-Up",
+        "ru": "Приседания со штангой на спине + Подтягивания",
+        "hy": "Հետևի սքվաթ + Վերքաշումներ"
+      },
+      "catalog.superset-barbell-curl-tricep-pushdown": {
+        "en": "Barbell Curl + Tricep Pushdown",
+        "ru": "Подъём штанги на бицепс + Разгибание трицепса на блоке",
+        "hy": "Ձողով բիցեպս ծալում + Տրիցեպս ձգում"
+      },
+      "catalog.superset-bench-press-barbell-row": {
+        "en": "Bench Press + Barbell Row",
+        "ru": "Жим лёжа + Тяга штанги в наклоне",
+        "hy": "Նստարանային մամուլ + Ձողով թեքված քաշում"
+      },
+      "catalog.superset-biceps-triceps": {
+        "en": "Biceps & Triceps",
+        "ru": "Бицепс и трицепс",
+        "hy": "Բիցեպս և տրիցեպս"
+      },
+      "catalog.superset-cable-crunch-russian-twist": {
+        "en": "Cable Crunch + Russian Twist",
+        "ru": "Скручивания на блоке + Русские скручивания",
+        "hy": "Կաբելային կրանչ + Ռուսական պտույտ"
+      },
+      "catalog.superset-cable-curl-rope-pushdown": {
+        "en": "Cable Curl + Rope Pushdown",
+        "ru": "Подъём на бицепс на блоке + Разгибание трицепса с канатом",
+        "hy": "Կաբելային բիցեպս ծալում + Պարանով տրիցեպս ձգում"
+      },
+      "catalog.superset-chest-back-dumbbell": {
+        "en": "Chest & Back (Dumbbell)",
+        "ru": "Грудь и спина (гантели)",
+        "hy": "Համրերով կուրծք և մեջք"
+      },
+      "catalog.superset-chest-back-machine": {
+        "en": "Chest & Back (Machine)",
+        "ru": "Грудь и спина (тренажёр)",
+        "hy": "Կուրծք և մեջք (մեքենա)"
+      },
+      "catalog.superset-chest-upper-mid-lower-triplet": {
+        "en": "Incline Dumbbell Press + Dumbbell Bench Press + Decline Bench Press",
+        "ru": "Жим гантелей на наклонной + Жим гантелей лёжа + Жим лёжа вниз головой",
+        "hy": "Թեքված վերև համրերով մամուլ + Համրերով մամուլ + Թեքված ներքև մամուլ"
+      },
+      "catalog.superset-dumbbell-fly-rear-delt-fly": {
+        "en": "Dumbbell Fly + Rear Delt Fly",
+        "ru": "Разведение гантелей лёжа + Разведение на задние дельты",
+        "hy": "Համրերով թռիչք + Հետին դելտ թռիչք"
+      },
+      "catalog.superset-ez-bar-curl-skull-crusher": {
+        "en": "EZ-Bar Curl + Skull Crusher",
+        "ru": "Подъём EZ-грифа на бицепс + Французский жим лёжа",
+        "hy": "EZ-ձողով ծալում + Գանգ ջախջախիչ"
+      },
+      "catalog.superset-front-raise-reverse-pec-deck": {
+        "en": "Front Raise + Reverse Pec Deck",
+        "ru": "Подъёмы перед собой + Обратный пек-дек",
+        "hy": "Առջևի բարձրացում + Հակառակ պեկ-դեկ"
+      },
+      "catalog.superset-hammer-curl-overhead-tricep-extension": {
+        "en": "Hammer Curl + Overhead Tricep Extension",
+        "ru": "Молотковые сгибания + Разгибание трицепса из-за головы",
+        "hy": "Մուրճ ծալում + Գլխավերև տրիցեպս երկարացում"
+      },
+      "catalog.superset-hanging-leg-raise-plank": {
+        "en": "Hanging Leg Raise + Plank",
+        "ru": "Подъём ног в висе + Планка",
+        "hy": "Կախված ոտքերի բարձրացում + Պլանկ"
+      },
+      "catalog.superset-incline-bench-dumbbell-bench-press": {
+        "en": "Incline Bench Press + Dumbbell Bench Press",
+        "ru": "Жим лёжа на наклонной + Жим гантелей лёжа",
+        "hy": "Թեքված վերև մամուլ + Համրերով մամուլ"
+      },
+      "catalog.superset-incline-dumbbell-press-pull-up": {
+        "en": "Incline Dumbbell Press + Pull-Up",
+        "ru": "Жим гантелей на наклонной + Подтягивания",
+        "hy": "Թեքված վերև համրերով մամուլ + Վերքաշումներ"
+      },
+      "catalog.superset-lateral-raise-face-pull": {
+        "en": "Lateral Raise + Face Pull",
+        "ru": "Подъёмы в стороны + Тяга к лицу",
+        "hy": "Կողային բարձրացում + Դեմքի քաշում"
+      },
+      "catalog.superset-leg-press-barbell-row": {
+        "en": "Leg Press + Barbell Row",
+        "ru": "Жим ногами + Тяга штанги в наклоне",
+        "hy": "Ոտքերի մամուլ + Ձողով թեքված քաշում"
+      },
+      "catalog.superset-legs-quads-hamstrings-glutes-triplet": {
+        "en": "Leg Extension + Seated Leg Curl + Hip Thrust",
+        "ru": "Разгибание ног + Сгибание ног сидя + Ягодичный толчок",
+        "hy": "Ոտքի երկարացում + Նստած ոտքի ծալում + Ազդրի հրում"
+      },
+      "catalog.superset-overhead-press-lat-pulldown": {
+        "en": "Overhead Press + Lat Pulldown",
+        "ru": "Жим стоя + Тяга верхнего блока",
+        "hy": "Գլխավերև մամուլ + Լատերի ձգում"
+      },
+      "catalog.superset-pull-up-straight-arm-pulldown": {
+        "en": "Pull-Up + Straight-Arm Pulldown",
+        "ru": "Подтягивания + Тяга блока прямыми руками",
+        "hy": "Վերքաշումներ + Ուղիղ ձեռքերով ձգում"
+      },
+      "catalog.superset-push-up-seated-cable-row": {
+        "en": "Push-Up + Seated Cable Row",
+        "ru": "Отжимания + Тяга нижнего блока сидя",
+        "hy": "Հրումներ + Նստած կաբելային քաշում"
+      },
+      "catalog.superset-quads-hamstrings": {
+        "en": "Quads & Hamstrings",
+        "ru": "Квадрицепсы и бицепсы бедра",
+        "hy": "Քվադրիցեպս և ազդրի հետին"
+      },
+      "catalog.superset-romanian-deadlift-dumbbell-bench-press": {
+        "en": "Romanian Deadlift + Dumbbell Bench Press",
+        "ru": "Румынская тяга + Жим гантелей лёжа",
+        "hy": "Ռումինական քաշում + Համրերով մամուլ"
+      },
+      "catalog.superset-romanian-deadlift-seated-leg-curl": {
+        "en": "Romanian Deadlift + Seated Leg Curl",
+        "ru": "Румынская тяга + Сгибание ног сидя",
+        "hy": "Ռումինական քաշում + Նստած ոտքի ծալում"
+      },
+      "catalog.superset-shoulders-front-side-rear-triplet": {
+        "en": "Front Raise + Lateral Raise + Rear Delt Fly",
+        "ru": "Подъёмы перед собой + Подъёмы в стороны + Разведение на задние дельты",
+        "hy": "Առջևի բարձրացում + Կողային բարձրացում + Հետին դելտ թռիչք"
+      },
+      "catalog.superset-walking-lunge-seated-dumbbell-press": {
+        "en": "Walking Lunge + Seated Dumbbell Press",
+        "ru": "Выпады в ходьбе + Жим гантелей сидя",
+        "hy": "Քայլող թռիչքներ + Նստած համրերով մամուլ"
+      },
+      "catalog.superset-wrist-curl-reverse-wrist-curl": {
+        "en": "Wrist Curl + Reverse Wrist Curl",
+        "ru": "Сгибание запястий + Разгибание запястий",
+        "hy": "Դաստակի ծալում + Հակառակ դաստակի ծալում"
+      },
+      "copyName": {
+        "en": "Copy of %@",
+        "ru": "Копия: %@",
+        "hy": "%@-ի պատճեն"
+      },
+      "createAction": {
+        "en": "Create Superset",
+        "ru": "Создать суперсет",
+        "hy": "Ստեղծել սուպերսեթ"
+      },
+      "createTitle": {
+        "en": "New Superset",
+        "ru": "Новый суперсет",
+        "hy": "Նոր սուպերսեթ"
+      },
+      "customize": {
+        "en": "Customize",
+        "ru": "Настроить",
+        "hy": "Հարմարեցնել"
+      },
+      "customizedDefaultBadge": {
+        "en": "Customized",
+        "ru": "Изменён",
+        "hy": "Հարմարեցված"
+      },
+      "defaultBadge": {
+        "en": "Default",
+        "ru": "По умолчанию",
+        "hy": "Լռելյայն"
+      },
+      "defaultName": {
+        "en": "Superset",
+        "ru": "Суперсет",
+        "hy": "Սուպերսեթ"
+      },
+      "defaultReadOnlyFooter": {
+        "en": "Customize to edit this default. After saving, it moves to My Supersets.",
+        "ru": "Настройте этот пресет. После сохранения он переместится в «Мои суперсеты».",
+        "hy": "Հարմարեցրեք այս լռելյայնը խմբագրելու համար։ Պահելուց հետո այն կտեղափոխվի «Իմ սուպերսեթեր» բաժին։"
+      },
+      "deleteBuiltInMessage": {
+        "en": "This permanently removes the default preset. It will not come back after updates. Past workouts stay unchanged.",
+        "ru": "Пресет по умолчанию будет удалён навсегда и не вернётся после обновлений. Прошлые тренировки не меняются.",
+        "hy": "Սա մշտապես ջնջում է լռելյայն նախադրյալը։ Այն չի վերադառնա թարմացումներից հետո։ Անցյալ մարզումները չեն փոխվում։"
+      },
+      "deleteBuiltInTitle": {
+        "en": "Delete default superset?",
+        "ru": "Удалить суперсет по умолчанию?",
+        "hy": "Ջնջե՞լ լռելյայն սուպերսեթը"
+      },
+      "deleteMessage": {
+        "en": "This removes the saved preset only. Past workouts stay unchanged.",
+        "ru": "Удаляется только сохранённый пресет. Прошлые тренировки не меняются.",
+        "hy": "Սա ջնջում է միայն պահպանված նախադրյալը՝ Անցած մարզումները չեն փոխվում՝"
+      },
+      "deleteTitle": {
+        "en": "Delete Superset?",
+        "ru": "Удалить суперсет?",
+        "hy": "Ջնջե՞լ սուպերսեթը"
+      },
+      "editTitle": {
+        "en": "Edit Superset",
+        "ru": "Изменить суперсет",
+        "hy": "Խմբագրել սուպերսեթը"
+      },
+      "filter.a11y": {
+        "en": "Filter supersets by muscle group",
+        "ru": "Фильтр суперсетов по группе мышц",
+        "hy": "Ֆիլտրել սուպերսեթերը ըստ մկանախմբի"
+      },
+      "filter.clear": {
+        "en": "Clear filters",
+        "ru": "Сбросить фильтры",
+        "hy": "Մաքրել ֆիլտրերը"
+      },
+      "filter.empty": {
+        "en": "No supersets for these muscles",
+        "ru": "Нет суперсетов для этих мышц",
+        "hy": "Այս մկանների համար սուպերսեթեր չկան"
+      },
+      "filter.section.primary": {
+        "en": "Primary targets",
+        "ru": "Основные мышцы",
+        "hy": "Հիմնական թիրախներ"
+      },
+      "filter.section.primaryOrSecondary": {
+        "en": "Primary or secondary",
+        "ru": "Основные или вторичные",
+        "hy": "Հիմնական կամ երկրորդային"
+      },
+      "groupFooter": {
+        "en": "Do these back-to-back without resting between exercises.",
+        "ru": "Делайте подряд без отдыха между упражнениями.",
+        "hy": "Կատարեք այս մեկը մյուսից հետույալ՝ առանց վարժությունների միջև չհանգչեք՝"
+      },
+      "libraryEmpty": {
+        "en": "No Supersets Yet",
+        "ru": "Пока нет суперсетов",
+        "hy": "Դեռ սուպերսեթներ չկան"
+      },
+      "libraryEmptyDescription": {
+        "en": "Save a reusable pair or trio of exercises for one-tap add.",
+        "ru": "Сохраните пару или тройку упражнений для добавления в один тап.",
+        "hy": "Պահպանեք վարժությունների զույգ կամ եռյակ՝ մեկ հպումով ավելացնելու համար՝"
+      },
+      "memberCount": {
+        "en": "%lld exercises",
+        "ru": "%lld упражнений",
+        "hy": "%lld վարժություն"
+      },
+      "members": {
+        "en": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Վարժություններ"
+      },
+      "membersFooter": {
+        "en": "Order is A to B to C. Pick at least two exercises from any muscle groups.",
+        "ru": "Порядок A → B → C. Выберите минимум два упражнения из любых групп мышц.",
+        "hy": "Հերթականությունը A → B → C էչ Ընտրեք առնվազն երկու վարժություն ցանկացած մկանային խմբերից։"
+      },
+      "mineEmpty": {
+        "en": "No custom supersets yet. Create one or customize a default.",
+        "ru": "Пока нет своих суперсетов. Создайте или настройте пресет по умолчанию.",
+        "hy": "Դեռ հատուկ սուպերսեթեր չկան։ Ստեղծեք կամ հարմարեցրեք լռելյայնը։"
+      },
+      "moveToDefaults": {
+        "en": "Move to Defaults",
+        "ru": "Вернуть в «По умолчанию»",
+        "hy": "Տեղափոխել լռելյայններ"
+      },
+      "name": {
+        "en": "Name",
+        "ru": "Название",
+        "hy": "Անուն"
+      },
+      "removeAll": {
+        "en": "Remove Superset",
+        "ru": "Удалить суперсет",
+        "hy": "Հեռացնել սուպերսեթը"
+      },
+      "removeAllMessage": {
+        "en": "All exercises and sets in this superset will be removed from the workout.",
+        "ru": "Все упражнения и подходы этого суперсета будут удалены из тренировки.",
+        "hy": "Այս սուպերսեթի բոլոր վարժություններն ու սեթերը կհեռացվեն մարզումից։"
+      },
+      "removeAllTitle": {
+        "en": "Remove Entire Superset?",
+        "ru": "Удалить весь суперсет?",
+        "hy": "Հեռացնե՞լ ամբողջ սուպերսեթը"
+      },
+      "reorderFooter": {
+        "en": "Supersets move as one block.",
+        "ru": "Суперсеты перемещаются одним блоком.",
+        "hy": "Սուպերսեթները տեղափոխվում են որպես մեկ բլոկ՝"
+      },
+      "resetMessage": {
+        "en": "Your name, exercise, and order changes will be removed. The original preset will return to Defaults.",
+        "ru": "Изменения названия, упражнений и порядка будут удалены. Исходный пресет вернётся в «По умолчанию».",
+        "hy": "Անվան, վարժությունների և հերթականության փոփոխությունները կհեռացվեն։ Սկզբնական նախադրյալը կվերադառնա լռելյայններ։"
+      },
+      "resetTitle": {
+        "en": "Move back to Defaults?",
+        "ru": "Вернуть в «По умолчанию»?",
+        "hy": "Վերադարձնե՞լ լռելյայններ"
+      },
+      "section.defaults": {
+        "en": "Defaults",
+        "ru": "По умолчанию",
+        "hy": "Լռելյայն"
+      },
+      "section.mine": {
+        "en": "My Supersets",
+        "ru": "Мои суперсеты",
+        "hy": "Իմ սուպերսեթերը"
+      },
+      "sectionLabel": {
+        "en": "Superset",
+        "ru": "Суперсет",
+        "hy": "Սուպերսեթ"
+      },
+      "selectMembersHint": {
+        "en": "Select at least two exercises to link as a superset.",
+        "ru": "Выберите минимум два упражнения, чтобы связать их в суперсет.",
+        "hy": "Ընտրեք առնվազն երկու վարժություն՝ որպես սուպերսեթ կապելու համար՝"
+      },
+      "suggestionsTitle": {
+        "en": "Suggested for this superset",
+        "ru": "Рекомендации для этого суперсета",
+        "hy": "Առաջարկ այս սուպերսեթի համար"
+      },
+      "thenNext": {
+        "en": "Then",
+        "ru": "Затем",
+        "hy": "Հետո"
+      },
+      "ungroupMember": {
+        "en": "Remove from Superset",
+        "ru": "Убрать из суперсета",
+        "hy": "Հանել սուպերսեթից"
+      }
+    },
+    "Tab": {
+      "history": {
+        "en": "History",
+        "ru": "История",
+        "hy": "Պատմություն"
+      },
+      "records": {
+        "en": "Records",
+        "ru": "Рекорды",
+        "hy": "Ռեկորդներ"
+      },
+      "templates": {
+        "en": "Templates",
+        "ru": "Шаблоны",
+        "hy": "Շաբլոններ"
+      },
+      "workout": {
+        "en": "Workout",
+        "ru": "Тренировка",
+        "hy": "Մարզում"
+      }
+    },
+    "Template": {
+      "allTemplates": {
+        "en": "All Templates",
+        "ru": "Все шаблоны",
+        "hy": "Բոլոր կաղապարները"
+      },
+      "copyName": {
+        "en": "Copy of %@",
+        "ru": "Копия: %@",
+        "hy": "%@-ի պատճեն"
+      },
+      "create": {
+        "en": "Create Template",
+        "ru": "Создать шаблон",
+        "hy": "Ստեղծել շաբլոն"
+      },
+      "defaultName": {
+        "en": "Untitled Template",
+        "ru": "Шаблон без названия",
+        "hy": "Անվերական շաբլոն"
+      },
+      "deleteMessage": {
+        "en": "This cannot be undone.",
+        "ru": "Это действие нельзя отменить.",
+        "hy": "Հետարկել հնարավոր չէ։"
+      },
+      "deleteTitle": {
+        "en": "Delete Template?",
+        "ru": "Удалить шаблон?",
+        "hy": "Ջնջե՞լ շաբլոնը"
+      },
+      "duplicate": {
+        "en": "Duplicate",
+        "ru": "Дублировать",
+        "hy": "Կրկնել"
+      },
+      "exerciseCount": {
+        "en": "%lld exercises",
+        "ru": "%lld упражнений",
+        "hy": "%lld վարժություն"
+      },
+      "exercises": {
+        "en": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Վարժություններ"
+      },
+      "name": {
+        "en": "Name",
+        "ru": "Название",
+        "hy": "Անուն"
+      },
+      "noExercises": {
+        "en": "No exercises yet. Tap Edit to add some.",
+        "ru": "Пока нет упражнений. Нажмите «Изменить», чтобы добавить.",
+        "hy": "Դեռ վարժություններ չկան։ Հպեք «Խմբագրել»՝ ավելացնելու համար։"
+      },
+      "notFound": {
+        "en": "Template not found",
+        "ru": "Шаблон не найден",
+        "hy": "Շաբլոնը չգտնվեց"
+      },
+      "notes": {
+        "en": "Notes",
+        "ru": "Заметки",
+        "hy": "Նշումներ"
+      },
+      "plan.clear": {
+        "en": "Clear targets",
+        "ru": "Очистить цели",
+        "hy": "Մաքրել նպատակները"
+      },
+      "plan.setCount": {
+        "en": "Sets",
+        "ru": "Подходы",
+        "hy": "Մոտեցումներ"
+      },
+      "startWorkout": {
+        "en": "Start Workout",
+        "ru": "Начать тренировку",
+        "hy": "Սկսել մարզումը"
+      }
+    },
+    "Unit": {
+      "hr": {
+        "en": "hr",
+        "ru": "ч",
+        "hy": "ժ"
+      },
+      "kg": {
+        "en": "kg",
+        "ru": "кг",
+        "hy": "կգ"
+      },
+      "km": {
+        "en": "km",
+        "ru": "км",
+        "hy": "կմ"
+      },
+      "kmh": {
+        "en": "km/h",
+        "ru": "км/ч",
+        "hy": "կմ/ժ"
+      },
+      "lb": {
+        "en": "lb",
+        "ru": "фунт",
+        "hy": "ֆունտ"
+      },
+      "mi": {
+        "en": "mi",
+        "ru": "мили",
+        "hy": "մղոն"
+      },
+      "min": {
+        "en": "min",
+        "ru": "мин",
+        "hy": "րոպե"
+      },
+      "mph": {
+        "en": "mph",
+        "ru": "миль/ч",
+        "hy": "մղ/ժ"
+      },
+      "reps": {
+        "en": "reps",
+        "ru": "повт.",
+        "hy": "կրկն"
+      },
+      "sec": {
+        "en": "sec",
+        "ru": "сек",
+        "hy": "վարկ"
+      },
+      "time": {
+        "en": "Time",
+        "ru": "Время",
+        "hy": "Ժամանակ"
+      },
+      "m": {
+        "en": "m",
+        "ru": "м",
+        "hy": "մ"
+      },
+      "distance": {
+        "en": "Distance",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն"
+      }
+    },
+    "Workout": {
+      "addExercise": {
+        "en": "Add Exercise",
+        "ru": "Добавить упражнение",
+        "hy": "Ավելացնել վարժություն"
+      },
+      "balancedSection": {
+        "en": "Balanced",
+        "ru": "Сбалансированная",
+        "hy": "Հավասարակշիռ"
+      },
+      "block.collapseHint": {
+        "en": "Collapses this exercise",
+        "ru": "Сворачивает это упражнение",
+        "hy": "Փակում է այս վարժությունը"
+      },
+      "block.expandHint": {
+        "en": "Expands this exercise and collapses the others",
+        "ru": "Раскрывает это упражнение и сворачивает остальные",
+        "hy": "Բացում է այս վարժությունը և փակում մյուսները"
+      },
+      "block.notStarted": {
+        "en": "Not started",
+        "ru": "Не начато",
+        "hy": "Չսկսված"
+      },
+      "block.progress": {
+        "en": "%lld/%lld done",
+        "ru": "%lld/%lld готово",
+        "hy": "%lld/%lld պատրաստ"
+      },
+      "cancel": {
+        "en": "Cancel",
+        "ru": "Отмена",
+        "hy": "Չեղարկել"
+      },
+      "continue": {
+        "en": "Continue Workout",
+        "ru": "Продолжить тренировку",
+        "hy": "Շարունակել մարզումը"
+      },
+      "defaultName": {
+        "en": "Workout",
+        "ru": "Тренировка",
+        "hy": "Մարզում"
+      },
+      "details": {
+        "en": "Workout Details",
+        "ru": "Детали тренировки",
+        "hy": "Մարզման մանրամասներ"
+      },
+      "discard": {
+        "en": "Discard",
+        "ru": "Удалить",
+        "hy": "Հեռացնել"
+      },
+      "discardMessage": {
+        "en": "This in-progress workout will move to Recycle Bin for 30 days.",
+        "ru": "Текущая тренировка попадёт в корзину на 30 дней.",
+        "hy": "Ընթացիկ մարզումը կտեղափոխվի աղբարկղ 30 օրով։"
+      },
+      "discardTitle": {
+        "en": "Discard Workout?",
+        "ru": "Отменить тренировку?",
+        "hy": "Չեղարկե՞լ մարզումը"
+      },
+      "durationFormat": {
+        "en": "%lld min %lld sec",
+        "ru": "%lld мин %lld сек",
+        "hy": "%lld ր %lld վարկ"
+      },
+      "finish": {
+        "en": "Finish",
+        "ru": "Завершить",
+        "hy": "Ավարտել"
+      },
+      "finishMessage": {
+        "en": "Save this session to History.",
+        "ru": "Сохранить эту тренировку в Историю.",
+        "hy": "Պահպանել այս սեսիան Պատմության մեջ։"
+      },
+      "finishSave": {
+        "en": "Finish & Save",
+        "ru": "Завершить и сохранить",
+        "hy": "Ավարտել և պահպանել"
+      },
+      "finishTitle": {
+        "en": "Finish Workout?",
+        "ru": "Завершить тренировку?",
+        "hy": "Ավարտե՞լ մարզումը"
+      },
+      "focus.duplicate.description": {
+        "en": "Duplicate the last set of the focused exercise",
+        "ru": "Дублировать последний подход текущего упражнения",
+        "hy": "Կրկնել ընթացիկ վարժության վերջին մոտեցումը"
+      },
+      "focus.duplicate.parameter": {
+        "en": "Exercise",
+        "ru": "Упражнение",
+        "hy": "Վարժություն"
+      },
+      "name": {
+        "en": "Name",
+        "ru": "Название",
+        "hy": "Անուն"
+      },
+      "noExercisesYet": {
+        "en": "No exercises yet. Add one to start logging sets.",
+        "ru": "Пока нет упражнений. Добавьте упражнение, чтобы записывать подходы.",
+        "hy": "Դեռ վարժություններ չկան։ Ավելացրեք՝ մոտեցումներ գրանցելու համար։"
+      },
+      "notFound": {
+        "en": "Workout not found",
+        "ru": "Тренировка не найдена",
+        "hy": "Մարզումը չգտնվեց"
+      },
+      "notes": {
+        "en": "Notes",
+        "ru": "Заметки",
+        "hy": "Նշումներ"
+      },
+      "reorderExercises": {
+        "en": "Reorder exercises",
+        "ru": "Изменить порядок упражнений",
+        "hy": "Փոխել վարժության հերթականությունը"
+      },
+      "reorderFooter": {
+        "en": "Drag to change order. Logged sets stay with each exercise.",
+        "ru": "Перетащите, чтобы изменить порядок. Подходы остаются при упражнении.",
+        "hy": "Քաշեք՝ հերթականությունը փոխելու համար։ Մոտեցումները մնում են յուրաքանչյուր վարժության համար։"
+      },
+      "reorderHint": {
+        "en": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Վարժություններ"
+      },
+      "resumeBanner": {
+        "en": "Workout in progress",
+        "ru": "Тренировка в процессе",
+        "hy": "Մարզումն ընթացքի մեջ է"
+      },
+      "savedJustNow": {
+        "en": "Saved just now",
+        "ru": "Сохранено только что",
+        "hy": "Հենց նոր պահպանվեց"
+      },
+      "seeAllTemplates": {
+        "en": "See All Templates",
+        "ru": "Все шаблоны",
+        "hy": "Բոլոր շաբլոնները"
+      },
+      "seeAllTemplatesHint": {
+        "en": "See all templates on the Templates tab.",
+        "ru": "Все шаблоны — на вкладке «Шаблоны».",
+        "hy": "Բոլոր շաբլոնները՝ Շաբլոններ ներդիրում։"
+      },
+      "setCount": {
+        "en": "%lld sets",
+        "ru": "%lld подходов",
+        "hy": "%lld մոտեցում"
+      },
+      "showOnboarding": {
+        "en": "App Tour",
+        "ru": "Тур по приложению",
+        "hy": "Հավելվածի շրջայց"
+      },
+      "showOnboarding.footer": {
+        "en": "Browse any topic or replay a short session anytime.",
+        "ru": "Открывай любую тему или повторяй короткую сессию в любой момент.",
+        "hy": "Ցանկացած ժամանակ բացիր թեմա կամ կրկնիր կարճ սեսիան։"
+      },
+      "staleFinishExtraMinutes": {
+        "en": "Extra minutes",
+        "ru": "Дополнительные минуты",
+        "hy": "Լրացուցիչ րոպեներ"
+      },
+      "staleFinishLastActivity": {
+        "en": "Last activity: %@",
+        "ru": "Последняя активность: %@",
+        "hy": "Վերջին ակտիվություն՝ %@"
+      },
+      "staleFinishMessage": {
+        "en": "This workout has been inactive for a while. Choose how many minutes to add after the last activity.",
+        "ru": "Эта тренировка давно без активности. Выберите, сколько минут добавить после последней активности.",
+        "hy": "Այս մարզումն արդեն որոշ ժամանակ անգործուն է։ Ընտրեք՝ քանի րոպե ավելացնել վերջին ակտիվությունից հետո։"
+      },
+      "staleFinishMinutesOption": {
+        "en": "%lld min",
+        "ru": "%lld мин",
+        "hy": "%lld րոպե"
+      },
+      "staleFinishPreview": {
+        "en": "End time: %@",
+        "ru": "Время окончания: %@",
+        "hy": "Ավարտի ժամ՝ %@"
+      },
+      "staleFinishTitle": {
+        "en": "Finish After Last Activity",
+        "ru": "Завершить после последней активности",
+        "hy": "Ավարտել վերջին ակտիվությունից հետո"
+      },
+      "startBalanced": {
+        "en": "Start Balanced",
+        "ru": "Начать сбалансированную",
+        "hy": "Սկսել հավասարակշիռ"
+      },
+      "startBalanced.footer": {
+        "en": "Uses your recent training balance to suggest exercises.",
+        "ru": "Использует недавний баланс тренировок, чтобы предложить упражнения.",
+        "hy": "Օգտագործում է վերջին մարզումների հավասարակշռությունը՝ վարժություններ առաջարկելու համար։"
+      },
+      "startBalanced.subtitle": {
+        "en": "Pick muscles · suggestions from your stats",
+        "ru": "Выберите мышцы · рекомендации по вашей статистике",
+        "hy": "Ընտրեք մկաններ · առաջարկներ ձեր վիճակագրությունից"
+      },
+      "startEmpty": {
+        "en": "Start Empty Workout",
+        "ru": "Начать пустую тренировку",
+        "hy": "Սկսել դատարկ մարզում"
+      },
+      "startFromTemplate": {
+        "en": "Start from Template",
+        "ru": "Начать из шаблона",
+        "hy": "Սկսել շաբլոնից"
+      },
+      "tapToResume": {
+        "en": "Tap to resume",
+        "ru": "Нажмите, чтобы продолжить",
+        "hy": "Հպեք՝ շարունակելու համար"
+      }
+    }
+  }
+}
