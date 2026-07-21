@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "pl",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Wyciskanie klatki piersiowej na maszynie + rząd linek w pozycji siedzącej"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Wyciskanie hantli na ławce + wiosłowanie ze wsparciem klatki piersiowej"
+    },
+    "superset-biceps-triceps": {
+      "name": "Uginanie hantli + wyciskanie tricepsów"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Przedłużenie nóg + ugięcie nóg w pozycji siedzącej"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Wyciskanie na ławce + wiosłowanie sztangą"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Wyciskanie hantli w pozycji pochylonej + podciąganie"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Wyciśnięcie nad głowę + podciąganie najszerszego odcinka"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Push-Up + rząd linek w pozycji siedzącej"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Przysiad w tył + podciąganie"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Rumuński martwy ciąg + wyciskanie hantli na ławce"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Wykroki w marszu + wyciskanie hantli w pozycji siedzącej"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Wyciskanie nóg + wiosłowanie sztangą"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Wyciskanie na ławce skośnej + wyciskanie hantli na ławce"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Podciąganie + podciąganie na prostych ramionach"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Przysiad w tył + wyprost nóg"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Rumuński martwy ciąg + uginanie nóg w pozycji siedzącej"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Uginanie sztangi + wyciskanie tricepsów"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Rozpiętość hantli + rozpiętość tylnego mięśnia naramiennego"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Ugięcie nadgarstka + Odwrotne ugięcie nadgarstka"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Unoszenie boczne + przyciąganie twarzą"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Podnoszenie do przodu + talia do tyłu"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Arnold Press + wiosłowanie pionowe"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Kruszarka Czaszek"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Uginanie młotkiem + rozciąganie tricepsów nad głową"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Zwijanie kabla + opuszczanie liny"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Unoszenie nóg w zwisie + deska"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Chrupnięcie kabla + rosyjski skręt"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Koło Ab + Deska Boczna"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Wyciskanie hantli w pozycji nachylonej + Wyciskanie hantli na ławce + Wyciskanie na ławce opadającej"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Podciąganie najszerszego odcinka ciała + wiosłowanie z liną w pozycji siedzącej + wznoszenie sztangi"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Wyprost nóg + Uginanie nóg w pozycji siedzącej + Wypchnięcie bioder"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Uniesienie do przodu + uniesienie w bok + uniesienie tylnego Delt Fly"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Uginanie sztangi + wyciskanie tricepsów + uginanie nadgarstków"
+    }
+  }
+}

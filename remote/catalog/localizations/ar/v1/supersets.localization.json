@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "ar",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "تمرين الضغط على الصدر بالآلة + تمرين سحب الكابل من وضعية الجلوس"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "تمرين الضغط بالدمبل + التجديف بدعم الصدر"
+    },
+    "superset-biceps-triceps": {
+      "name": "تمرين ثني الدمبل + تمرين الضغط على العضلة ثلاثية الرؤوس"
+    },
+    "superset-quads-hamstrings": {
+      "name": "تمديد الساق + تجعيد الساق أثناء الجلوس"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "تمرين ضغط البنش + تمرين التجديف بالحديد"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "اضغط على الدمبل المائل + السحب"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "الصحافة العلوية + المنسدلة اللاتية"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "تمرين الضغط + تمرين سحب الكابل من وضعية الجلوس"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "القرفصاء الخلفي + السحب"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "الرفعة المميتة الرومانية + ضغط الدمبل"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "تمرين الاندفاع أثناء المشي + الضغط بالدمبل أثناء الجلوس"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "تمرين ضغط الأرجل + تمرين التجديف بالحديد"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "تمرين الضغط على المقعد المائل + تمرين الضغط بالدمبل"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "سحب لأعلى + سحب للذراع المستقيمة"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "القرفصاء الخلفي + تمديد الساق"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "الرفعة المميتة الرومانية + تجعيد الساق أثناء الجلوس"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "تجعيد الحديد + الضغط على العضلة ثلاثية الرؤوس"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "ذبابة الدمبل + ذبابة الدلتا الخلفية"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "تجعيد المعصم + تجعيد المعصم العكسي"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "الرفع الجانبي + سحب الوجه"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "رفع أمامي + سطح صدري عكسي"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "أرنولد برس + الصف المستقيم"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + كسارة الجمجمة"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "تمرين ثني المطرقة + تمديد العضلة ثلاثية الرؤوس العلوية"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "تجعيد الكابل + دفع الحبل للأسفل"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "رفع الساق المعلقة + اللوح الخشبي"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "أزمة الكابل + تويست الروسية"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "عجلة آب + لوح جانبي"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "تمرين الضغط بالدمبل المائل + تمرين الضغط بالدمبل + تمرين الضغط المائل"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "المنسدلة اللاتية + صف الكابل الجالس + هز الحديد"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "تمديد الساق + تجعيد الساق أثناء الجلوس + دفع الورك"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "الرفع الأمامي + الرفع الجانبي + الرفع الخلفي"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "تمرين ثني الحديد + تمرين الضغط على العضلة ثلاثية الرؤوس + تمرين ثني المعصم"
+    }
+  }
+}

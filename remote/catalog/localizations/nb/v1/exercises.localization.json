@@ -1,0 +1,3943 @@
+{
+  "schemaVersion": 1,
+  "language": "nb",
+  "version": 1,
+  "catalogVersion": 8,
+  "exercises": {
+    "arms-barbell-curl": {
+      "name": "Barbell Curl",
+      "instructions": [
+        "Stå med en vektstang med et underhåndsgrep om skulderbredde og stangen mot lårene.",
+        "Hold overarmene festet til sidene og spenn bagasjerommet høyt.",
+        "Krøll stangen til forsiden av skuldrene ved å bøye bare i albuene, senk deretter til full ekstensjon.",
+        "Hold håndleddene på linje med underarmene og unngå å svinge overkroppen.",
+        "Ikke la albuene drive fremover for å forkorte eksentrikken."
+      ]
+    },
+    "arms-bayesian-curl": {
+      "name": "Bayesiansk krølle",
+      "instructions": [
+        "Fest et enkelt håndtak til den lave remskiven og stå vendt bort med arbeidsarmen litt bak overkroppen.",
+        "Ta en forskjøvet stilling for balanse og spenn opp bagasjerommet.",
+        "Krøll håndtaket fremover ved å bøye albuen mens du holder overarmen i ro, og gå deretter tilbake til den strakte starten.",
+        "Hold kontinuerlig kabelspenning og et nøytralt håndledd.",
+        "Fullfør repsene på den ene armen, og bytt deretter håndtaket og stillingen til den andre siden."
+      ]
+    },
+    "arms-bench-dip": {
+      "name": "Benk Dip",
+      "instructions": [
+        "Sitt på kanten av en stabil benk, plasser begge hendene ved siden av hoftene på benken, og gå føttene fremover.",
+        "Støtt deg på strake armer med hoftene rett foran benkkanten.",
+        "Bøy albuene for å senke kroppen til overarmene er nesten parallelle, og trykk deretter opp igjen.",
+        "Hold skuldrene nede og albuene bakover i stedet for å slenge bredt.",
+        "Bøy knærne mer for å gjøre det lettere, eller løft føttene bare hvis skuldrene holder seg komfortable."
+      ]
+    },
+    "arms-cable-curl": {
+      "name": "Kabelkrøll",
+      "instructions": [
+        "Fest en rett eller EZ-stang til den lave remskiven og stå vendt mot stabelen med kabelen stram.",
+        "Ta et underhåndsgrep, fest overarmene til sidene og stå høyt.",
+        "Krøl stangen mot skuldrene, klem og senk deretter til full armforlengelse mot kabelen.",
+        "Hold albuene i ro og håndleddene nøytrale.",
+        "Unngå å lene deg tilbake for å fullføre krøllen ettersom stabelen blir tung."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven lavt slik at kabelen beveger seg oppover gjennom krøllen uten å trekke skuldrene fremover."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Bruk et rett eller EZ-stangfeste som er festet fast; bekreft at pinnen er helt på plass i stabelen."
+        },
+        {
+          "index": 2,
+          "title": "Stanse og avstand",
+          "description": "Stå langt nok til at vekten holder seg unna stabelen nederst, albuene tett inntil sidene."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold en høy overkropp og myke knær; unngå å lene deg tilbake for å svinge lasten."
+        }
+      ]
+    },
+    "arms-cable-overhead-tricep-extension": {
+      "name": "Kabel overhead Tricep-forlengelse",
+      "instructions": [
+        "Fest et tau til den høye trinsen, vend bort fra stabelen, og hold begge tauendene bak hodet med bøyde albuer.",
+        "Ta en forskjøvet stilling, spenn opp bagasjerommet og hold overarmene ved siden av ørene.",
+        "Strekk ut albuene til armene er rett over hodet, og legg deretter tauet tilbake bak hodet.",
+        "Hold albuene pekt fremover/oppover og minimer bevegelsen i overarmen.",
+        "Bruk en belastning du kan kontrollere uten å bøye korsryggen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at tauet eller stangen starter over hodet med spenning allerede på kabelen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et tau eller en vinklet stang sikkert; hold hendene unna stabelbanen."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Gå frem til albuene peker fremover og overarmene holder seg ved siden av ørene uten å trekke på skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Spenn kjernen og hold ribbeina nede slik at korsryggen ikke buer seg under strekk."
+        }
+      ]
+    },
+    "arms-close-grip-bench-press": {
+      "name": "Benkpress med nært grep",
+      "instructions": [
+        "Ligg på en flat benk under en vektstang og ta et overhåndsgrep omtrent skulderbredde eller litt smalere.",
+        "Plant begge føttene, sett skulderbladene og løs stangen over nedre bryst.",
+        "Senk stangen til nedre bryst med albuene sporende nær overkroppen, og trykk deretter til strake armer.",
+        "Hold håndleddene stablet over albuene og hoftene på benken.",
+        "Ikke ta et ekstremt smalt grep som belaster håndleddene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "J-krokhøyde",
+          "description": "Sett J-kroker slik at du løsner med nesten låste albuer uten å nå høyt."
+        },
+        {
+          "index": 1,
+          "title": "Sikkerhetsarmer",
+          "description": "Plasser sikringer like under den laveste kontrollerte posisjonen over nedre bryst."
+        },
+        {
+          "index": 2,
+          "title": "Grepbredde",
+          "description": "Hold hendene omtrent i skulderbredde; håndleddene forblir stablet over albuene, ikke utstrakte."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt for å støtte uten å sprette hoftene fra benken."
+        },
+        {
+          "index": 4,
+          "title": "Skulderstilling",
+          "description": "Sett skulderbladene tilbake og ned på benken før du pakker ut."
+        }
+      ]
+    },
+    "arms-close-grip-push-up": {
+      "name": "Push-up med nært grep",
+      "instructions": [
+        "Plasser begge hendene på gulvet nærmere enn skulderbredden, omtrent under brystet.",
+        "Forleng til en planke med kroppen i en rett linje og kjernen avstivet.",
+        "Senk brystet ved å bøye albuene inntil ribbeina, og trykk deretter opp igjen.",
+        "Hold albuene bakover i stedet for å flasse til 90°.",
+        "Slipp ned på knærne om nødvendig mens du holder den samme tette håndplasseringen."
+      ]
+    },
+    "arms-concentration-curl": {
+      "name": "Konsentrasjonskrøll",
+      "instructions": [
+        "Sitt på en benk, hold en manual i den ene hånden, og spenn den overarmen mot innsiden av låret på det samme benet.",
+        "Plant begge føttene bredt for en stabil base og len deg litt fremover.",
+        "Krøll manualen mot skulderen uten å flytte overarmen av låret, og senk deretter helt.",
+        "Hold håndleddet nøytralt og den ikke-arbeidende hånden på motsatt kne for balanse.",
+        "Fullfør repsene på den ene armen, bytt deretter manualen og spenn den andre armen på det andre låret."
+      ]
+    },
+    "arms-cross-body-hammer-curl": {
+      "name": "Cross-body Hammer Curl",
+      "instructions": [
+        "Stå med manualer på sidene med et nøytralt hammergrep.",
+        "Hold håndflaten vendt mot kroppen, krøl den ene manualen over mot motsatt skulder.",
+        "Klem på toppen uten å svinge overkroppen, senk deretter med kontroll.",
+        "Bytt armer eller avslutt den ene siden før du bytter.",
+        "Hold arbeidsalbuen nær ribbeina og unngå å trekke på skuldrene."
+      ]
+    },
+    "arms-dip": {
+      "name": "Dyppe",
+      "instructions": [
+        "Ta tak i parallelle stenger og støtt deg selv på strake armer med overkroppen mer oppreist enn en brystdipp.",
+        "Hold bena i ro og skuldrene plassert vekk fra ørene.",
+        "Bøy albuene for å senke til overarmene er nesten parallelle, og press deretter til strake armer.",
+        "Hold albuene nærmere kroppen for å fremheve triceps.",
+        "Stopp hvis skuldrene føles ustabile eller klemt i bunnen."
+      ]
+    },
+    "arms-drag-curl": {
+      "name": "Dra Curl",
+      "instructions": [
+        "Stå med en vektstang eller manualer med et underhåndsgrep på lårene.",
+        "Spenn opp bagasjerommet og hold albuene tett når du begynner å krølle.",
+        "Dra vekten opp langs overkroppen ved å trekke albuene bakover, ikke svinge dem fremover.",
+        "Klem i omtrent lavere brysthøyde, og senk deretter langs samme bane.",
+        "Bruk mindre belastning enn en standard krøll; hold stangen tett inntil kroppen hele tiden."
+      ]
+    },
+    "arms-dumbbell-curl": {
+      "name": "Dumbbell Curl",
+      "instructions": [
+        "Stå med en manual i hver hånd på sidene med håndflatene vendt fremover eller nøytral.",
+        "Fest overarmene til sidene og stå høyt med stammen avstivet.",
+        "Krøll begge manualene til skuldrene, klem, senk deretter til full forlengelse.",
+        "Du kan rotere håndflatene opp under krøllen hvis du starter fra en hammerposisjon.",
+        "Ikke sving hoftene eller trekk på skuldrene for å flytte vekten."
+      ]
+    },
+    "arms-ez-bar-curl": {
+      "name": "EZ-Bar Curl",
+      "instructions": [
+        "Stå med en EZ-stang på de vinklede underhåndsgrepene med stangen mot lårene.",
+        "Hold overarmene i ro på sidene og spenn opp bagasjerommet.",
+        "Krøll stangen til forsiden av skuldrene, senk deretter til full ekstensjon.",
+        "La EZ-vinklene holde håndleddene komfortable uten å tvinge dem rett.",
+        "Unngå torso-sving og unngå at albuene beveger seg langt fremover."
+      ]
+    },
+    "arms-hammer-curl": {
+      "name": "Hammer Curl",
+      "instructions": [
+        "Stå med en manual i hver hånd på sidene med håndflatene mot hverandre.",
+        "Hold overarmene festet til overkroppen og stå høyt.",
+        "Krøll manualene mot skuldrene uten å rotere håndflatene, og senk deretter helt.",
+        "Hold håndleddene nøytrale og albuene festet i sidene.",
+        "Ikke sving vektene eller len deg tilbake for å fullføre krøllen."
+      ]
+    },
+    "arms-incline-dumbbell-curl": {
+      "name": "Incline Dumbbell Curl",
+      "instructions": [
+        "Sett en benk til moderat helling, len deg tilbake og la en manual henge i hver hånd med håndflatene fremover.",
+        "Hold overarmene hengende rett ned ved siden av overkroppen og hodet mot puten.",
+        "Krøll begge manualene uten å la overarmene svinge fremover, og senk deretter til en full strekk.",
+        "Hold kontakten mellom overarmene og sidene av kroppen gjennom det meste av løftet.",
+        "Bruk en lettere belastning enn stående krøller fordi strekkstillingen er mer krevende."
+      ]
+    },
+    "arms-jm-press": {
+      "name": "JM Press",
+      "instructions": [
+        "Ligg på en flat benk og hold en vektstang eller EZ-stang over øvre bryst med et tett overhåndsgrep.",
+        "Plant begge føttene og sett skulderbladene på benken.",
+        "Senk stangen mot øvre bryst/hals mens albuene beveger seg fremover og ned, og trykk deretter opp igjen.",
+        "Hold bevegelsen mellom en presse med tett grep og en hodeskalleknuser i stedet for å blusse bredt.",
+        "Start lett – denne hybriden stresser albuene når du stresser."
+      ]
+    },
+    "arms-kickback": {
+      "name": "Triceps tilbakeslag",
+      "instructions": [
+        "Hold en manual i den ene hånden, hengsel i hoftene og støtt overkroppen med den frie hånden på en benk eller kne.",
+        "Fest den arbeidende overarmen til siden med albuen bøyd ca. 90°.",
+        "Strekk ut albuen til armen er rett bak deg, klem sammen triceps og gå tilbake til 90°.",
+        "Hold overarmen i ro og overkroppen stille.",
+        "Fullfør repsene på den ene armen, og bytt deretter manualen og støttehånden til den andre siden."
+      ]
+    },
+    "arms-machine-bicep-curl": {
+      "name": "Machine Bicep Curl",
+      "instructions": [
+        "Juster predikanten eller krøllemaskinputen slik at overarmene hviler fullt ut på den med albuene på linje med pivoten.",
+        "Sitt eller stå som maskinen krever og ta et underhåndsgrep på håndtakene.",
+        "Krøll håndtakene mot skuldrene, klem, senk deretter til full forlengelse uten å låse hardt.",
+        "Hold overarmene limt til puten hele veien.",
+        "Unngå å løfte albuene eller hoftene for å rykke i stabelen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Still inn setet slik at albuene dine er på linje med maskinens dreiepunkt og puten støtter overarmene dine."
+        },
+        {
+          "index": 1,
+          "title": "Armputeposisjon",
+          "description": "Hvil baksiden av overarmene helt på puten; skuldrene skal holde seg nede, ikke trekke på skuldrene."
+        },
+        {
+          "index": 2,
+          "title": "Håndtaks startposisjon",
+          "description": "Håndtakene skal begynne med albuene nesten utstrakte, men ikke tvunget inn i en smertefull lockout."
+        },
+        {
+          "index": 3,
+          "title": "Justeringsstifter",
+          "description": "Fest hvert sete og putepinne helt før du velger vektstabelen."
+        }
+      ]
+    },
+    "arms-machine-tricep-extension": {
+      "name": "Maskin Tricep Extension",
+      "instructions": [
+        "Juster setet slik at maskinputene eller håndtakene er på linje med albuene når overarmene støttes.",
+        "Ta tak i håndtakene og spenn lett mot puten.",
+        "Strekk ut albuene for å rette ut armene mot maskinmotstanden.",
+        "Ta en kort pause uten å låse aggressivt, og gå deretter tilbake til en kontrollert strekning.",
+        "Hold overarmene i ro; bare underarmene skal bevege seg."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Juster setet slik at albuene dine er på linje med maskinens sving gjennom hele pressen."
+        },
+        {
+          "index": 1,
+          "title": "Ryggstøtte",
+          "description": "Sitt høyt med ryggen mot puten slik at overkroppen ikke vugger for å fullføre reps."
+        },
+        {
+          "index": 2,
+          "title": "Håndtaksjustering",
+          "description": "Start med håndtak nær pannen eller øvre bryst langs maskinens bane – hold albuene festet."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt for en stabil base før du trykker på stabelen."
+        }
+      ]
+    },
+    "arms-overhead-tricep-extension": {
+      "name": "Overhead Tricep Extension",
+      "instructions": [
+        "Sitt eller stå med en manual over hodet med begge hender under toppplaten, armene strake.",
+        "Spenn opp bagasjerommet og hold overarmene ved siden av ørene.",
+        "Bøy albuene for å senke manualen bak hodet, og forleng deretter tilbake til toppen.",
+        "Hold albuene pekende fremover/oppover og minimer utsving i overarmen.",
+        "Bruk en belastning du kan kontrollere uten å bøye korsryggen eller treffe nakken."
+      ]
+    },
+    "arms-preacher-curl": {
+      "name": "Predikant Curl",
+      "instructions": [
+        "Sitt ved en predikantbenk og hvil begge overarmene helt på den vinklede puten med en EZ eller rett stang i et underhåndsgrep.",
+        "Start med armene utstrakt, men ikke låst med kraft.",
+        "Krøl stangen mot skuldrene, klem og senk deretter sakte til full ekstensjon.",
+        "Hold armhulene og overarmene i kontakt med puten hele tiden.",
+        "Ikke løft albuene av puten eller vipp overkroppen for å fullføre repetisjonen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Hev eller senk setet slik at armhulene dine sitter i den øvre kanten av puten uten å trekke på skuldrene."
+        },
+        {
+          "index": 1,
+          "title": "Puteposisjon",
+          "description": "Overarmene skal ligge helt på puten fra armhulen til albuen; håndleddene holder seg nøytrale på stangen."
+        },
+        {
+          "index": 2,
+          "title": "Startområde",
+          "description": "Begynn med nesten strake armer, men stopp uten å strekke ut albuene nederst."
+        },
+        {
+          "index": 3,
+          "title": "Barsti",
+          "description": "Hold albuene plantet på puten; ikke løft dem for å jukse vekten opp."
+        }
+      ]
+    },
+    "arms-reverse-curl": {
+      "name": "Omvendt krøll",
+      "instructions": [
+        "Stå med en vektstang eller EZ-stang med et overhåndsgrep omtrent skulderbredde mot lårene.",
+        "Fest overarmene til sidene og stå høyt.",
+        "Krøll stangen mot skuldrene uten å snu håndflatene, senk deretter til full ekstensjon.",
+        "Hold håndleddene faste og på linje med underarmene.",
+        "Bruk en lettere belastning enn underhåndskrøller - underarmer begrenser ofte denne variasjonen først."
+      ]
+    },
+    "arms-reverse-wrist-curl": {
+      "name": "Omvendt håndleddskurl",
+      "instructions": [
+        "Sitt på en benk med en lett vektstang eller manualer med overhåndsgrep og underarmene hviler på lårene eller en pute, håndleddene henger av.",
+        "Hold underarmene limt ned og grepet sikkert.",
+        "Strekk ut håndleddene for å heve baksiden av hendene, ta en pause, og senk deretter ned i en strekk.",
+        "Beveg deg kun ved håndleddene – ikke løft underarmene fra støtten.",
+        "Bruk et sakte tempo; sprett irriterer lett håndleddene."
+      ]
+    },
+    "arms-rope-pushdown": {
+      "name": "Tau Pushdown",
+      "instructions": [
+        "Fest et tau til den høye trinsen og stå vendt mot stabelen med albuene festet til sidene.",
+        "Hold begge tauendene med håndflatene vendt mot hverandre og litt fremoverlent om nødvendig.",
+        "Strekk ut albuene for å skyve tauet ned, spre endene fra hverandre nederst, og gå deretter tilbake til ca. 90°.",
+        "Hold overarmene i ro og håndleddene nøytrale.",
+        "Ikke la albuene flasse bredt eller at overkroppen klipper seg for å flytte stabelen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at tauet henger i omtrent øvre brysthøyde før du trekker spenningen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Fest et tau og bekreft at klippet er lukket før du velger vekt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå nærme nok til at albuene forblir festet til sidene dine fra første tomme av bevegelse."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold en lett fremoverlent kun fra hoftene; ikke gjør pushdown til en knase."
+        }
+      ]
+    },
+    "arms-single-arm-cable-pushdown": {
+      "name": "Enarms kabel nedskyvning",
+      "instructions": [
+        "Fest et enkelt håndtak til en høy kabel og stå vendt mot stabelen med en myk lening fremover.",
+        "Fest arbeidsalbuen til siden med underarmen som starter nær overarmen.",
+        "Strekk ut albuen for å skyve håndtaket ned til armen er rett.",
+        "Klem triceps, og gå deretter sakte tilbake til starten uten å la albuen drive fremover.",
+        "Fullfør settet på en arm før du bytter; holde skulderen stille."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at enkelthåndtaket starter nær skulderhøyde med lett forspenning."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Bruk et D-håndtak som er festet sikkert; sjekk karabinkroken før hvert sett."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Vend skuldrene til stabelen og hold arbeidsalbuen festet ved siden av brystkassen."
+        },
+        {
+          "index": 3,
+          "title": "Avstand fra maskin",
+          "description": "Stå akkurat langt nok til at kabelen rydder kroppen din uten å trekke deg sidelengs."
+        }
+      ]
+    },
+    "arms-skull-crusher": {
+      "name": "Skull Crusher",
+      "instructions": [
+        "Ligg på en flat benk og hold en EZ-stang eller manualer over skuldrene med strake armer.",
+        "Plant begge føttene og hold overarmene omtrent vinkelrett på gulvet.",
+        "Bøy albuene for å senke vekten mot pannen eller rett bak hodet, og strekk deretter tilbake til toppen.",
+        "Hold overarmene fast - bare underarmene skal bevege seg.",
+        "Start lyset og kontroller eksentrikken for å beskytte albuene."
+      ]
+    },
+    "arms-spider-curl": {
+      "name": "Spider Curl",
+      "instructions": [
+        "Ligg med brystet ned på en skråbenk slik at begge armene henger rett mot gulvet mens du holder en vektstang eller manualer.",
+        "La overarmene henge vinkelrett på gulvet og ta et underhåndsgrep.",
+        "Krøll vekten mot skuldrene uten å svinge overarmene fremover, og senk deretter helt.",
+        "Hold brystet limt til puten gjennom hele settet.",
+        "Bruk en lettere belastning enn stående krøller fordi peak contraction er strengere her."
+      ]
+    },
+    "arms-tate-press": {
+      "name": "Tate Press",
+      "instructions": [
+        "Ligg på en flat benk med manualer over brystet med håndflatene vendt mot hverandre eller litt mot føttene.",
+        "Hold overarmene vinklet slik at albuene peker noe ut.",
+        "Bøy albuene for å senke de indre platene mot midten av brystet.",
+        "Strekk ut albuene for å presse manualene opp igjen uten å utvide albuene for mye.",
+        "Bruk en moderat belastning og et kontrollert tempo; stopp hvis albuene eller skuldrene føles stresset."
+      ]
+    },
+    "arms-tricep-pushdown": {
+      "name": "Triceps Pushdown",
+      "instructions": [
+        "Fest en rett eller vinklet stang til den høye remskiven og stå vendt mot stabelen med albuer på sidene.",
+        "Ta tak i stangen med håndflatene ned og spenn stammen høyt.",
+        "Strekk ut albuene for å skyve stangen ned til armene er strake, og gå deretter tilbake til ca. 90°.",
+        "Hold overarmene limt til overkroppen og håndleddene rett.",
+        "Unngå å lene deg hardt inn i stangen eller utvide albuene bredt."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at stangen hviler nær øvre bryst før du kjører ned."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp en rett eller V-stang fast og sett inn vektstabelpinnen helt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Ta en skulderbredde stilling og fest begge albuene til sidene før du trykker ned."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold overkroppen stille; bruk bare albuene til å flytte stangen, ikke et hoftestøt."
+        }
+      ]
+    },
+    "arms-weighted-dip": {
+      "name": "Vektet Dip",
+      "instructions": [
+        "Fest et dyppebelte med plater eller hold en manual mellom føttene, og grip deretter parallelle stenger.",
+        "Støtt deg selv på strake armer med en mer oppreist overkropp for triceps betoning.",
+        "Senk til overarmene er nesten parallelle, og trykk deretter til strake armer.",
+        "Hold den ekstra lasten i ro slik at den ikke svinger fremover.",
+        "Start lettere enn kroppsvektsfall og stopp hvis skuldrene føles ustabile."
+      ]
+    },
+    "arms-wrist-curl": {
+      "name": "Krøll på håndleddet",
+      "instructions": [
+        "Sitt på en benk med en lett vektstang eller manualer med et underhåndsgrep og underarmene på lårene eller en pute, håndleddene hengende av.",
+        "Hold underarmene limt til støtten og grepet sikkert.",
+        "Bøy håndleddene for å krølle håndflatene opp, ta en pause og senk deretter ned i en strekk.",
+        "Beveg deg kun ved håndleddene uten å løfte underarmene.",
+        "Bruk et sakte tempo og stopp hvis håndleddene føler skarp smerte i stedet for muskelarbeid."
+      ]
+    },
+    "arms-zottman-curl": {
+      "name": "Zottman Curl",
+      "instructions": [
+        "Stå med manualer på sidene med håndflatene vendt fremover.",
+        "Krøll vektene opp med et standard supinert grep, albuene festet til sidene.",
+        "På toppen roterer du håndleddene slik at håndflatene vender ned.",
+        "Senk sakte med det pronerte grepet, og roter deretter håndflatene fremover i bunnen for neste rep.",
+        "Hold overkroppen i ro og bruk en vekt du kan kontrollere på eksentrikken."
+      ]
+    },
+    "back-assisted-pull-up": {
+      "name": "Assistert Pull-Up",
+      "instructions": [
+        "Still inn kneputen for den assisterte opptrekksmaskinen og velg en motvekt som lar deg fullføre kontrollerte repetisjoner.",
+        "Knel på puten, ta et overhånds skulderbredde grep, og heng med armene strake.",
+        "Trekk brystet mot stangen ved å kjøre albuene ned, og senk deretter til fullt heng.",
+        "Hold skuldrene aktive og unngå å svinge eller kippe med knærne.",
+        "Reduser assistanse etter hvert som du blir sterkere i stedet for å forhaste uferdige repetisjoner."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Kne/fotpute",
+          "description": "Sett hjelpeputen slik at knærne eller føttene hviler sikkert uten å gli av under draget."
+        },
+        {
+          "index": 1,
+          "title": "Assist last",
+          "description": "Velg nok assistanse til å fullføre kontrollerte repetisjoner – unngå å sprette av puten i bunnen."
+        },
+        {
+          "index": 2,
+          "title": "Grep og justering",
+          "description": "Ta et jevnt grep og hold kroppen rett til stangen; ikke vri på hjelpeputen."
+        },
+        {
+          "index": 3,
+          "title": "Skulderstart",
+          "description": "Begynn fra et dødt heng med skuldrene pakket ned før første drag."
+        }
+      ]
+    },
+    "back-barbell-row": {
+      "name": "Barbell Row",
+      "instructions": [
+        "Stå over en belastet vektstang med føttene omtrent hoftebredde og stangen over midtfoten.",
+        "Hengsel ved hoftene til en torsovinkel på nær 45°, spenn opp bagasjerommet og ta et jevnt overhåndsgrep.",
+        "Trekk stangen til de nedre ribbeina ved å kjøre albuene tilbake, ta en pause og senk deretter til fullt henge.",
+        "Hold ryggraden lang og knærne mykt bøyd hele veien.",
+        "Ikke gjør raden til et skuldertrekk eller bruk en hofteknapp for å dra opp stangen."
+      ]
+    },
+    "back-barbell-shrug": {
+      "name": "Vektstang trekker på skuldrene",
+      "instructions": [
+        "Stå høyt med en lastet vektstang foran lårene med et overhåndsgrep.",
+        "Hold armene rett, føttene i hoftebredde og bagasjerommet avstivet.",
+        "Løft begge skuldrene rett mot ørene, ta en kort pause, og senk deretter sakte.",
+        "Hold nakken lang og unngå å stikke haken fremover.",
+        "Ikke rull skuldrene i sirkler eller sprett stangen av lårene."
+      ]
+    },
+    "back-chest-supported-row": {
+      "name": "Bryststøttet rad",
+      "instructions": [
+        "Sett en bryststøttet radbenk eller skråbenk slik at brystet hviler helt på puten.",
+        "Hold en vektstang eller manualer med armene hengende rett og føttene plantet for balanse.",
+        "Trekk albuene tilbake mot hoftene til skulderbladene trekker seg tilbake, senk deretter med kontroll.",
+        "Hold brystet limt til puten slik at korsryggen ikke kan jukse løftet.",
+        "Velg en putevinkel som lar armene henge fritt uten å skrape gulvet."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Putevinkel / høyde",
+          "description": "Still inn brystputen slik at overkroppen støttes med brystbenet på puten og nakken nøytral."
+        },
+        {
+          "index": 1,
+          "title": "Sete eller Stanse",
+          "description": "Juster sete eller fotplattform slik at armene henger lenge uten at skuldrene klemmer seg inn i puten."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "La vektene henge med myke albuer, og ro deretter ved å kjøre albuene tilbake mot hoftene."
+        },
+        {
+          "index": 3,
+          "title": "Hodeposisjon",
+          "description": "Hold nakken lang – ikke skru hodet opp for å se deg selv i speilet."
+        }
+      ]
+    },
+    "back-chin-up": {
+      "name": "Chin-Up",
+      "instructions": [
+        "Heng fra en pull-up-stang med et underhåndsgrep i omtrent skulderbreddes avstand og armene strake.",
+        "Spenn opp bagasjerommet og start med skuldrene forsiktig trukket ned fra ørene.",
+        "Trekk til haken tømmer stangen ved å kjøre albuene ned og tilbake, og senk deretter til fullt heng.",
+        "Hold bena stille og unngå å svinge eller kippe.",
+        "Bruk et bånd eller assistert maskin hvis du ikke kan fullføre en kontrollert full-range chin-up."
+      ]
+    },
+    "back-close-grip-lat-pulldown": {
+      "name": "Close-Grip Lat Pulldown",
+      "instructions": [
+        "Fest et tett parallell- eller V-håndtak til den høye trinsen og fest begge lårene under puten.",
+        "Sitt høyt, ta håndtakene med et nøytralt grep, og start med armene helt utstrakt.",
+        "Trekk håndtaket til øvre del av brystet ved å kjøre albuene ned ved siden av overkroppen, og gå deretter sakte tilbake.",
+        "Hold brystet løftet og unngå å lene deg langt tilbake for å fullføre repetisjonen.",
+        "Ikke trekk håndtaket bak nakken."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Lårpute",
+          "description": "Sett lårputen tettsittende slik at hoftene holder seg nede gjennom hele draget."
+        },
+        {
+          "index": 1,
+          "title": "Setehøyde",
+          "description": "Sitt slik at håndtaket med nært grep når full forlengelse over hodet uten å trekke på skuldrene."
+        },
+        {
+          "index": 2,
+          "title": "Grep",
+          "description": "Bruk et nøytralt eller nært grep med håndleddene stablet; albuene kjører ned mot ribbeina."
+        },
+        {
+          "index": 3,
+          "title": "Torsovinkel",
+          "description": "Hold brystet oppe og litt mager; trekk håndtaket til øvre del av brystet, ikke bak nakken."
+        }
+      ]
+    },
+    "back-deadlift": {
+      "name": "Markløft",
+      "instructions": [
+        "Stå med midtfoten under en belastet vektstang, føttene rundt hoftebredde og stangen nær leggen.",
+        "Hengsel og bøy knærne for å gripe stangen like utenfor bena, og sett deretter en nøytral ryggrad.",
+        "Skyv gulvet bort for å stå høyt, hold stangen tett, og reverser deretter bevegelsen til gulvet.",
+        "Hold hoftene og skuldrene stige sammen i stedet for at hoftene skyter opp først.",
+        "Tilbakestill hver rep fra en død stopp hvis formen går i stykker, og rund aldri hardt gjennom korsryggen."
+      ]
+    },
+    "back-dumbbell-row": {
+      "name": "Dumbbell Row",
+      "instructions": [
+        "Plasser den ene hånden og kneet på samme side på en flat benk, med den andre foten på gulvet og en manual i den frie hånden.",
+        "Hold ryggen omtrent parallelt med gulvet og arbeidsarmen hengende rett under skulderen.",
+        "Ro manualen til hoften ved å kjøre albuen tilbake, ta en pause, og senk deretter helt.",
+        "Hold hoftene og skuldrene rett i forhold til benken – ikke vri dem åpne.",
+        "Fullfør settet, bytt deretter støttesiden og ro med den andre armen."
+      ]
+    },
+    "back-dumbbell-shrug": {
+      "name": "Hantel skuldertrekk",
+      "instructions": [
+        "Stå høyt og hold en manual i hver hånd på sidene med strake armer.",
+        "Spenn opp bagasjerommet og hold føttene i hoftebreddes avstand.",
+        "Trekk begge skuldrene rett opp mot ørene, ta en pause og senk deretter sakte.",
+        "Hold armene hengende og halsen lang uten å stikke ut haken.",
+        "Unngå å rulle skuldrene eller bruke et knesprett for å starte skuldertrekkingen."
+      ]
+    },
+    "back-face-pull": {
+      "name": "Face Pull",
+      "instructions": [
+        "Fest et tau til en kabelrullesett rundt øvre bryst- eller ansiktshøyde.",
+        "Stå vendt mot stabelen med en myk knebøy og hold begge tauendene med håndflatene vendt ned eller inn.",
+        "Trekk tauet mot ansiktet mens du utvider albuene og roterer skuldrene utvendig.",
+        "Avslutt med hendene ved siden av ørene og de bakre skuldrene sammenklemt, og gå deretter sakte tilbake.",
+        "Bruk en lett nok belastning for å holde nakken avslappet og albuene høye."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven på omtrent øvre bryst til ansiktshøyde slik at tauet beveger seg tilbake mot ansiktet."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et tau sikkert; ta et jevnt grep i begge ender før du går tilbake."
+        },
+        {
+          "index": 2,
+          "title": "Avstand fra maskin",
+          "description": "Gå tilbake til det er lett spenning på armlengdes avstand uten å lene deg for mye."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og trekk tauet mot ansiktet med albuene høye – unngå å trekke fellene hardt på skuldrene."
+        }
+      ]
+    },
+    "back-good-morning": {
+      "name": "God morgen",
+      "instructions": [
+        "Sett en vektstang over øvre del av ryggen som i en ryggknebøy og stå med føttene omtrent hoftebredde.",
+        "Støt opp bagasjerommet hardt og lås opp knærne litt mens du holder dem fast.",
+        "Hengsel ved hoftene for å senke overkroppen fremover, og kjør deretter hoftene fremover for å stå høyt.",
+        "Hold stangen låst på baksiden og ryggraden nøytral gjennom hele hengslet.",
+        "Bruk et grunt område først – denne heisen belaster korsryggen tungt når formen glipper."
+      ]
+    },
+    "back-hyperextension": {
+      "name": "Ryggforlengelse",
+      "instructions": [
+        "Juster ryggforlengelsesbenken slik at hofteputen sitter rett under hoftefolden og anklene er sikret.",
+        "Kryss armene på brystet eller hold en tallerken ved brystet og start med overkroppen omtrent på linje med bena.",
+        "Hengsel i hoftene for å senke torsoen under kontroll, og strekk deretter hoftene for å gå tilbake uten å overbue.",
+        "Hold nakken nøytral som en forlengelse av ryggraden.",
+        "Slutt å hyperekstendere korsryggen på toppen av hver rep."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pad Høyde",
+          "description": "Sett lårputen rett under hoftene slik at du kan hengsle fritt uten press på kneskålene."
+        },
+        {
+          "index": 1,
+          "title": "Ankel/fotstøtte",
+          "description": "Fest anklene eller føttene slik at kroppen ikke kan gli fremover når du hengsler ned."
+        },
+        {
+          "index": 2,
+          "title": "Hofteposisjon",
+          "description": "Plasser hoftene ved putekanten slik at hengslet skjer ved hoftene, ikke en avrundet lav rygg."
+        },
+        {
+          "index": 3,
+          "title": "Bevegelsesområde",
+          "description": "Senk bare så langt du kan holde en nøytral ryggrad; stoppe uten smerte eller overdreven avrunding."
+        }
+      ]
+    },
+    "back-inverted-row": {
+      "name": "Omvendt rad",
+      "instructions": [
+        "Sett en sikker stang rundt midjehøyde i et stativ eller bruk en solid smith-stang.",
+        "Legg deg under stangen, ta et overhåndsgrep, og heng med kroppen rett og hælene i gulvet.",
+        "Trekk brystet til stangen ved å drive albuene bakover, og senk deretter til full armforlengelse.",
+        "Hold hoftene oppe slik at kroppen holder seg i en linje fra skuldre til hæler.",
+        "Hev stangen eller bøy knærne for å gjøre det lettere; senk stangen for å gjøre det vanskeligere."
+      ]
+    },
+    "back-kroc-row": {
+      "name": "Kroc Row",
+      "instructions": [
+        "Fest en hånd og kne på en benk, hold en tung manual i den frie hånden med overkroppen nesten parallelt med gulvet.",
+        "Start med en lang arm og en pakket arbeidsskulder.",
+        "Ro hantelen hardt mot hoften med et kraftig, men kontrollert trekk, slik at en liten torso rock om nødvendig for tunge belastninger.",
+        "Senk under kontroll til en full strekk, og gjenta deretter for sett med høyere repetisjon.",
+        "Hold nakken nøytral og ikke vri så langt at korsryggen runder seg."
+      ]
+    },
+    "back-lat-pulldown": {
+      "name": "Lat Pulldown",
+      "instructions": [
+        "Fest en bred latstang til den høye trinsen og fest begge lårene under puten.",
+        "Sitt høyt, ta et bredt overhåndsgrep og start med armene helt utstrakt over hodet.",
+        "Trekk stangen til øvre del av brystet ved å kjøre albuene ned og litt bakover, og gå deretter sakte tilbake.",
+        "Led med albuene og hold brystet løftet i stedet for å krølle ryggraden hardt.",
+        "Trekk aldri stangen bak nakken."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Lårpute",
+          "description": "Juster lårputen slik at bena holder seg sikret når du drar – puten sitter godt fast på firhjulingene uten smerte."
+        },
+        {
+          "index": 1,
+          "title": "Setehøyde",
+          "description": "Sitt høyt slik at du kan strekke armene helt over hodet uten at puten løfter deg av setet."
+        },
+        {
+          "index": 2,
+          "title": "Grep",
+          "description": "Ta et grep som lar albuene reise ned og tilbake; unngå et ekstremt bredt heng som stresser skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Torsovinkel",
+          "description": "Hold en lett lene tilbake fra hoftene; ikke dra stangen bak nakken."
+        },
+        {
+          "index": 4,
+          "title": "Startende skulderstilling",
+          "description": "Begynn med lange armer og scapulae forsiktig satt – trykk ned skuldrene før det første draget."
+        }
+      ]
+    },
+    "back-machine-pullover": {
+      "name": "Maskin Pullover",
+      "instructions": [
+        "Sitt i en gensermaskin med putene mot overarmene eller albuene i henhold til maskinens design.",
+        "Fest stammen mot puten og hold ribbeina nede.",
+        "Start med armene over hodet og trekk spaken i en bue ned mot hoftene.",
+        "Ta en kort pause med albuene nær sidene, og gå deretter sakte tilbake til en behagelig strekk.",
+        "Ikke forleng korsryggen eller la vektstabelen smelle i toppen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Sitt slik at albueputene eller håndtakene er på linje med skuldrene ved begynnelsen av buen."
+        },
+        {
+          "index": 1,
+          "title": "Ryggstøtte",
+          "description": "Hold ryggen mot puten; ikke bue aggressivt for å fullføre genseren."
+        },
+        {
+          "index": 2,
+          "title": "Startområde",
+          "description": "Start med armene over hodet bare så langt som skuldrene holder seg komfortable – stopp før smerte."
+        },
+        {
+          "index": 3,
+          "title": "Justeringsstifter",
+          "description": "Fest setet og ROM-pinnene helt før du velger stabelen."
+        }
+      ]
+    },
+    "back-machine-row": {
+      "name": "Maskinrad",
+      "instructions": [
+        "Juster brystputen og setet slik at håndtakene er på linje med midten av torso når brystet støttes.",
+        "Plasser begge føttene på plattformen eller gulvet og grip de valgte håndtakene jevnt.",
+        "Trekk håndtakene mot kroppen til skulderbladene trekker seg tilbake, og gå deretter tilbake med kontroll.",
+        "Hold brystet på puten og unngå å bruke en torso rock for å fullføre trekket.",
+        "Velg en håndtaksposisjon som lar albuene bevege seg ved siden av ribbeina uten å trekke på skuldrene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Still inn setet slik at håndtakene møter midten av torso og brystet ditt sitter rett på puten."
+        },
+        {
+          "index": 1,
+          "title": "Brystpute",
+          "description": "Juster brystputen for fast kontakt uten å tvinge en avrundet øvre rygg."
+        },
+        {
+          "index": 2,
+          "title": "Fotstøtte",
+          "description": "Plant føttene på plattformen eller gulvet slik at hoftene holder seg stabile gjennom raden."
+        },
+        {
+          "index": 3,
+          "title": "Håndtaks startposisjon",
+          "description": "Begynn med armene utstrakt og skuldrene nå; ro ved å kjøre albuene tilbake, ikke trekke på skuldrene."
+        }
+      ]
+    },
+    "back-meadows-row": {
+      "name": "Meadows Row",
+      "instructions": [
+        "Fest en vektstang i en landminebase og stå vinkelrett på stangen ved siden av den belastede enden.",
+        "Hengsel ved hoftene, spenn opp bagasjerommet og grip stangens erme med hånden lenger fra basen.",
+        "Ro stangen mot hoften ved å kjøre albuen tilbake, og senk den til armen er rett.",
+        "Hold hoftene firkantede og den ikke-arbeidende hånden avstivet på låret eller en benk om nødvendig.",
+        "Fullfør repsene på den ene siden, bytt deretter side og vend motsatt retning."
+      ]
+    },
+    "back-neutral-grip-pull-up": {
+      "name": "Pull-Up med nøytralt grep",
+      "instructions": [
+        "Heng fra parallelle håndtak med nøytralt grep med armene rett og håndflatene mot hverandre.",
+        "Spenn opp bagasjerommet og sett skuldrene litt ned fra ørene.",
+        "Trekk til haken slipper håndtakene, og senk deretter til et helt heng under kontroll.",
+        "Hold albuene tett inntil kroppen og unngå å svinge bena.",
+        "Stopp kort av uferdige reps hvis skuldrene mister sin aktive innstilte posisjon."
+      ]
+    },
+    "back-pendlay-row": {
+      "name": "Pendlay rad",
+      "instructions": [
+        "Stå over en belastet vektstang med midtfoten under stangen og en hengslet overkropp omtrent parallelt med gulvet.",
+        "Ta tak i stangen rett utenfor bena, spenn hardt, og start hver repetisjon fra et fullstendig dødt stopp på gulvet.",
+        "Ro stangen eksplosivt til nedre bryst eller øvre del av magen, og senk den så helt tilbake til gulvet.",
+        "Hold ryggen flat og hoftene festet under draget – bare armene og øvre del av ryggen beveger stangen.",
+        "Tilbakestill tannreguleringen mellom repetisjonene i stedet for å sprette stangen fra gulvet."
+      ]
+    },
+    "back-pull-up": {
+      "name": "Pull-Up",
+      "instructions": [
+        "Heng fra en pull-up-stang med et overhåndsgrep litt bredere enn skuldrene og armene rett.",
+        "Spenn opp bagasjerommet og trekk skuldrene forsiktig ned før du bøyer albuene.",
+        "Trekk til haken slipper stangen, og senk deretter til et helt heng uten å svinge.",
+        "Kjør albuene ned og hold brystet mot stangen.",
+        "Bruk assistanse om nødvendig; unngå halv-reps og kipping med mindre det er den tiltenkte variasjonen."
+      ]
+    },
+    "back-rack-pull": {
+      "name": "Rack Pull",
+      "instructions": [
+        "Sett sikkerhetsnåler i et stativ slik at en lastet vektstang hviler rundt knehøyde, og stå deretter med midtfoten under stangen.",
+        "Ta tak i stangen like utenfor bena, spenn og sett en nøytral ryggrad med skuldrene over stangen.",
+        "Kjør gjennom gulvet for å stå høyt, lås hoftene, senk deretter stangen tilbake til pinnene med kontroll.",
+        "Hold stangen tett inntil kroppen under hele det korte draget.",
+        "Ikke sprett stangen av pinnene; hver rep skal starte fra et fast stopp."
+      ]
+    },
+    "back-reverse-grip-lat-pulldown": {
+      "name": "Reverse-Grip Lat Pulldown",
+      "instructions": [
+        "Fest en rett stang til den høye trinsen, ta et underhånds skulderbredde grep, og fest lårene under puten.",
+        "Sitt høyt med armene helt utstrakt og brystet løftet.",
+        "Trekk stangen til øvre del av brystet ved å kjøre albuene ned ved siden av overkroppen, og gå deretter sakte tilbake.",
+        "Hold håndleddene på linje med underarmene og unngå for mye overkroppslean.",
+        "Ikke avslutt med å krølle stangen med biceps alene eller dra bak nakken."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Lårpute",
+          "description": "Fest lårputen slik at underhåndstrekk ikke kan løfte deg av setet."
+        },
+        {
+          "index": 1,
+          "title": "Setehøyde",
+          "description": "Sitt høyt med armene helt utstrakt på toppen uten tvungen skulderheving."
+        },
+        {
+          "index": 2,
+          "title": "Grep",
+          "description": "Ta et underhåndsgrep omtrent i skulderbredde; hold albuene tett når du drar til øvre del av brystet."
+        },
+        {
+          "index": 3,
+          "title": "Startende skulderstilling",
+          "description": "Trykk ned skuldrene før du drar; unngå å fullføre ved å trekke ned stangen."
+        }
+      ]
+    },
+    "back-seal-row": {
+      "name": "Seal rad",
+      "instructions": [
+        "Ligg med forsiden ned på en hevet, flat eller selrad benk med en vektstang eller manualer hengende fritt under.",
+        "La brystet og hoftene holde seg fullt støttet og ta et jevnt grep om vekten.",
+        "Ro vekten mot undersiden av benken ved å kjøre albuene opp, og senk deretter til fullt heng.",
+        "Hold hodet nøytralt og unngå å løfte brystet av puten.",
+        "Bruk en benk som er høy nok til at platene klarer gulvet i bunnen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benkhøyde",
+          "description": "Sett benken høyt nok til at armene henger fritt uten at plater treffer gulvet i bunnen."
+        },
+        {
+          "index": 1,
+          "title": "Kroppsposisjon",
+          "description": "Ligg utsatt med brystet sentrert; hodet forblir nøytralt fra enden av benken om nødvendig."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Begynn med armene lange under skuldrene; ro uten å dra overkroppen av puten."
+        }
+      ]
+    },
+    "back-seated-cable-row": {
+      "name": "Sittende kabelrekke",
+      "instructions": [
+        "Fest et V-håndtak eller rett stang til den lave remskiven og sitt med begge føttene på plattformen og knærne mykt bøyd.",
+        "Sitt høyt, armene utstrakt, og spenn før draget.",
+        "Trekk håndtaket til de nedre ribbeina mens du holder overkroppen nesten oppreist, og gå deretter tilbake til full armforlengelse.",
+        "Trekk tilbake skulderbladene på slutten av trekket uten å trekke på skuldrene oppover.",
+        "Ikke bruk en stor stein av overkroppen til å rykke i stabelen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sete og brystpute",
+          "description": "Hvis en brystpute er til stede, sett den slik at overkroppen din er høy med lett kontakt – ikke knust fremover."
+        },
+        {
+          "index": 1,
+          "title": "Fotstøtte",
+          "description": "Plasser føttene på plattformen med myke knær; ikke lås knærne hardt mot platen."
+        },
+        {
+          "index": 2,
+          "title": "Håndtaks startposisjon",
+          "description": "Start med lange armer og skuldrene litt fremover, sett deretter skulderbladene før du ror."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold en nøytral ryggrad; unngå ekstrem tilbakelegging for å dra håndtaket inn i ribbeina."
+        }
+      ]
+    },
+    "back-single-arm-cable-row": {
+      "name": "Enarms kabelrekke",
+      "instructions": [
+        "Fest et enkelt håndtak til den lave remskiven og stå eller stå på kne vendt mot stabelen med kabelen stram.",
+        "Hold håndtaket i den ene hånden, spenn opp bagasjerommet og start med armen fremover.",
+        "Ro albuen tilbake mot hoften, ta en pause og gå tilbake til full rekkevidde.",
+        "Hold hoftene og skuldrene firkantede – ikke roter åpne med arbeidssiden.",
+        "Fullfør repetisjonene på den ene armen, bytt hender og match stillingen på den andre siden."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven i omtrent midt overkroppshøyde for en horisontal radbane."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et D-håndtak sikkert og bekreft at stabelpinnen er satt helt inn."
+        },
+        {
+          "index": 2,
+          "title": "Holdning",
+          "description": "Bruk en forskjøvet holdning for balanse; firkant skuldrene mens du ror albuen tilbake."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Unngå å rotere overkroppen til slutt; hold arbeidsskulderen pakket ned."
+        }
+      ]
+    },
+    "back-single-arm-lat-pulldown": {
+      "name": "Enarms Lat-uttrekk",
+      "instructions": [
+        "Fest et enkelt håndtak til en høy kabel og sett deg med lårene låst under puten.",
+        "Rekk deg opp med én hånd, arm lang, og fest trunkfirkanten til stabelen.",
+        "Trekk håndtaket ned ved siden av brystkassen ved å kjøre albuen mot hoften.",
+        "Ta en pause med skulderbladet ned og bakover, og gå deretter tilbake til en full strekk over hodet.",
+        "Fullfør alle repetisjoner på den ene siden før du bytter; unngå å vri overkroppen for momentum."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Lårpute",
+          "description": "Hold lårputen tettsittende slik at et trekk med en arm ikke vrir deg av setet."
+        },
+        {
+          "index": 1,
+          "title": "Remskive / håndtak",
+          "description": "Klipp et enkelt håndtak høyt; bekreft at karabinkroken er lukket før du legger i stabelen."
+        },
+        {
+          "index": 2,
+          "title": "Torsojustering",
+          "description": "Square hoftene til stabelen; motstå å rotere overkroppen for å fullføre repetisjonen."
+        },
+        {
+          "index": 3,
+          "title": "Startende skulderstilling",
+          "description": "Begynn med arbeidsarmen lang og skulderen pakket ned før du drar."
+        }
+      ]
+    },
+    "back-straight-arm-pulldown": {
+      "name": "Nedtrekk med rett arm",
+      "instructions": [
+        "Fest en rett stang eller tau til den høye trinsen og stå vendt mot stabelen med et lett hoftehengsel.",
+        "Hold tilbehøret med nesten strake armer og kabelen allerede under spenning.",
+        "Fei vedlegget ned i en bue mot lårene ved å bevege på skuldrene, og gå deretter sakte tilbake.",
+        "Hold en myk fast albuebøy og strekk ribbeina ned slik at korsryggen ikke buer.",
+        "Stopp hvis du må bøye albuene hardt eller svinge overkroppen for å flytte vekten."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at stangen eller tauet starter over hodet med armene lange."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp en rett stang eller tau fast; hold hendene unna stabelen."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Hengs litt ved hoftene med myke albuer låst i den vinkelen gjennom buen."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede; beveg deg fra skuldrene og latsene – ikke gjør det til en knase."
+        }
+      ]
+    },
+    "back-sumo-deadlift": {
+      "name": "Sumo Markløft",
+      "instructions": [
+        "Stå med bred stilling over en belastet vektstang, tærne vendt ut og stangen over midtfoten.",
+        "Sett hoftene ned mellom knærne, ta tak i stangen på innsiden av bena, og spenn med en nøytral ryggrad.",
+        "Skyv gulvet bort for å stå høyt, hold stangen tett, og senk deretter med kontroll.",
+        "Hold knærne sporende over tærne og brystet vendt fremover.",
+        "Ikke la hoftene skyte opp først eller korsryggen runde under belastningen."
+      ]
+    },
+    "back-t-bar-row": {
+      "name": "T-bar rad",
+      "instructions": [
+        "Last inn en T-stang eller landminestang og legg på den, hengslet i hoftene for å gripe tak i håndtakene.",
+        "Hold overkroppen avstivet nær et 45° hengsel med knærne mykt bøyd.",
+        "Trekk håndtakene til nedre del av brystet eller øvre del av magen, ta en pause, og senk deretter til fullt heng.",
+        "Hold albuene tett og ryggraden lang uten å runde korsryggen.",
+        "Unngå å rykke med en hip snap; overkroppsvinkelen skal holde seg nesten fast."
+      ]
+    },
+    "back-trap-bar-deadlift": {
+      "name": "Trap Bar Markløft",
+      "instructions": [
+        "Stå inne i en lastet fellestang med føttene omtrent i hoftebredde og håndtakene på linje ved siden av midtfoten.",
+        "Sett hoftene ned, hold begge håndtakene jevnt, og spenn med en nøytral ryggrad.",
+        "Skyv gulvet bort for å stå høyt, senk deretter stangen til platene berører ned under kontroll.",
+        "Hold armene strake og brystet oppe mens hofter og skuldre hever seg sammen.",
+        "Bruk de høye eller lave håndtakene konsekvent i et sett og rund aldri hardt gjennom ryggen."
+      ]
+    },
+    "back-weighted-chin-up": {
+      "name": "Vektet Chin-Up",
+      "instructions": [
+        "Fest et dipbelte med plater eller hold en manual mellom føttene, og ta deretter et underhånds pull-up grep.",
+        "Heng med strake armer og den ekstra lasten hengende stille mellom bena.",
+        "Trekk til haken slipper stangen, og senk deretter til et helt heng under kontroll.",
+        "Hold skuldrene på plass og unngå å svinge platene eller manualen.",
+        "Velg en belastning som fortsatt tillater en full kontrollert rekkevidde – delvis vektede repetisjoner lærer dårlig timing."
+      ]
+    },
+    "back-weighted-pull-up": {
+      "name": "Vektet Pull-Up",
+      "instructions": [
+        "Fest et dyppebelte med plater eller hold en manual mellom føttene, og ta deretter et overhånds opptrekksgrep.",
+        "Heng med strake armer og start med skuldrene forsiktig trukket ned.",
+        "Trekk til haken slipper stangen, og senk deretter til et helt heng uten å svinge.",
+        "Hold lasten sentrert slik at den ikke trekker deg fremover eller sidelengs.",
+        "Reduser den ekstra belastningen hvis du ikke kan kontrollere den nederste halvdelen av nedstigningen."
+      ]
+    },
+    "back-wide-grip-pull-up": {
+      "name": "Pull-Up med bredt grep",
+      "instructions": [
+        "Heng fra en opptrekkbar med et overhåndsgrep som er tydelig bredere enn skulderbredde.",
+        "Start fra et dødt heng med skuldrene pakket og stille bena.",
+        "Trekk brystet mot stangen ved å kjøre albuene ned og litt ut.",
+        "Stopp når haken slipper stangen eller brystet nærmer seg stangen, og senk deretter helt.",
+        "Unngå overdreven kipping; bruk et bånd eller maskinassistanse hvis full reps ikke er tilgjengelig ennå."
+      ]
+    },
+    "back-yates-row": {
+      "name": "Yates Row",
+      "instructions": [
+        "Stå med vektstang ved å bruke et underhåndsgrep rett utenfor lårene, overkroppen bøyd fremover ca. 30–45 grader.",
+        "Spenn opp bagasjerommet og hold en myk knebøy med flat rygg.",
+        "Ro stangen til nedre del av magen ved å kjøre albuene tilbake langs sidene.",
+        "Klem lats på toppen, og senk deretter med kontroll til strake armer.",
+        "Hold overkroppsvinkelen jevn; ikke rykk med korsryggen."
+      ]
+    },
+    "cardio-assault-bike": {
+      "name": "Assault Bike",
+      "instructions": [
+        "Juster Assault Bike-setet slik at begge føttene når pedalene med en lett knebøy i bunnen.",
+        "Plasser begge føttene på pedalene og begge hendene på de bevegelige håndtakene.",
+        "Kjør pedalene og skyv-trekk håndtakene sammen i en jevn syklus, og bygg opp til det planlagte tempoet.",
+        "Hold overkroppen høy og grepet avslappet nok til å unngå trakk på skuldrene.",
+        "Reduser tråkkfrekvensen før du stopper, slik at viftemotstanden ikke rykker i armene."
+      ]
+    },
+    "cardio-burpee": {
+      "name": "Burpee",
+      "instructions": [
+        "Stå høyt på et klart gulv med føttene i hoftebredde og armer på sidene.",
+        "Slipp hendene til gulvet og hopp eller tråkk begge føttene tilbake i en planke.",
+        "Utfør en push-up om ønskelig, og hopp eller steg føttene frem til hendene.",
+        "Eksploder oppover i et hopp med armene over hodet, land deretter mykt og gjenta.",
+        "Tråkk føttene i stedet for å hoppe om nødvendig for å holde plankelinjen og landingen kontrollert."
+      ]
+    },
+    "cardio-cycling": {
+      "name": "Sykling",
+      "instructions": [
+        "Still inn sykkelsalen slik at kneet forblir litt bøyd i bunnen av pedalslaget.",
+        "Klipp inn eller plasser begge føttene sikkert på pedalene og hold lett i styret.",
+        "Pedal med jevnt sirkulært slag, girskifte for å holde en bærekraftig tråkkfrekvens.",
+        "Hold albuene myke og øynene se fremover langs ruten.",
+        "Følg trafikkreglene utendørs og stopp hvis nummenhet eller skarpe knesmerter vises."
+      ]
+    },
+    "cardio-elliptical": {
+      "name": "Elliptisk",
+      "instructions": [
+        "Gå inn på de elliptiske pedalene, hold i de bevegelige eller faste håndtakene, og velg en lav motstand for å starte.",
+        "Stå høyt med begge føttene helt på pedalene og en myk bøyning i knærne.",
+        "Kjør pedalene gjennom en jevn ellipse mens armene beveger seg naturlig med håndtakene.",
+        "Hold hælene fra å løfte seg for mye og unngå å lene seg hardt på håndtakene.",
+        "Øk stigning eller motstand først etter at skrittet føles stabilt."
+      ]
+    },
+    "cardio-high-knees": {
+      "name": "Høye knær",
+      "instructions": [
+        "Stå høyt på et klart gulv med føttene i hoftebredde og armene bøyd i sidene som om du løper.",
+        "Spenn opp stammen og hold deg på fotkulene.",
+        "Kjør ett kne opp mot hoftehøyde mens den motsatte armen svinger fremover, bytt deretter ben raskt.",
+        "Hold overkroppen oppreist og landingslyset under hoftene.",
+        "Senk tråkkfrekvensen hvis du begynner å lene deg tilbake eller smeller med føttene."
+      ]
+    },
+    "cardio-incline-walk": {
+      "name": "Incline Walk",
+      "instructions": [
+        "Still en tredemølle til en ganghastighet og en moderat stigning før du tråkker på beltet.",
+        "Plasser begge føttene på sideskinnene først, og tråkk deretter på det bevegelige beltet som holder skinnene kort om nødvendig.",
+        "Gå med et naturlig skritt, la armene svinge fritt når de er balansert.",
+        "Hold en oppreist holdning og ta kortere skritt når stigningen øker.",
+        "Reduser stigningen til nivå før du stopper og går av."
+      ]
+    },
+    "cardio-jump-rope": {
+      "name": "Hoppetau",
+      "instructions": [
+        "Dimensjoner tauet slik at håndtakene når rundt armhulene når du står på midten.",
+        "Hold et håndtak i hver hånd med albuene nær ribbeina og hopp på ballene på begge føttene.",
+        "Snu tauet med håndleddene slik at det passerer under føttene en gang per liten sprett.",
+        "Hold hoppene lave og overkroppen stille i stedet for å legge knærne høyt hver gang.",
+        "Rydd nok tak- og gulvplass, og stopp hvis tauet fester seg gjentatte ganger på grunn av tretthet."
+      ]
+    },
+    "cardio-jumping-jack": {
+      "name": "Jumping Jack",
+      "instructions": [
+        "Stå høyt med føttene samlet og armene i sidene på et klart sklisikre gulv.",
+        "Spenn lett gjennom bagasjerommet og myk opp knærne.",
+        "Hopp føttene bredt ut mens du løfter begge armene ut og over hodet, og hopp deretter tilbake til starten.",
+        "Land mykt på midtfoten og hold en jevn rytme.",
+        "Gå føttene ut i stedet for å hoppe hvis støtet må reduseres."
+      ]
+    },
+    "cardio-rowing": {
+      "name": "Roing",
+      "instructions": [
+        "Sitt i et roskjell med begge føttene sikret i bårene og årene eller skallene i hånden.",
+        "Begynn ved fangsten med leggen nær vertikale, armene som strekker seg fremover, og overkroppen lett hengslet.",
+        "Kjør med bena først, sving deretter overkroppen, trekk deretter håndtakene til kroppen; gjenopprette i omvendt rekkefølge.",
+        "Hold bevegelseskjeden jevn og unngå å rykke tidlig med armene.",
+        "Følg lokale vannsikkerhetsregler og stopp hvis balanse eller bladarbeid blir usikkert."
+      ]
+    },
+    "cardio-rowing-machine": {
+      "name": "Romaskin",
+      "instructions": [
+        "Sitt på romaskinen, fest begge føttene på fotplatene og ta håndtaket med et overhåndsgrep.",
+        "Start ved fangsten med leggen nær vertikale, armene lange og overkroppen lett hengslet fremover.",
+        "Kjør bena, åpne torsoen, og trekk deretter håndtaket til de nedre ribbeina; gjenopprette armer, torso, deretter ben.",
+        "Hold håndtaket i en horisontal bane og skuldrene avslappet.",
+        "Unngå å runde korsryggen ved haken eller å dra i kjedet med armene først."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Fotstropper",
+          "description": "Fest fotplatene slik at stroppene sitter på tvers av midtfoten – hælene kan løfte seg litt i slaget."
+        },
+        {
+          "index": 1,
+          "title": "Demper / Motstand",
+          "description": "Start med en moderat demper; høye innstillinger er ikke nødvendig for et sikkert, effektivt slag."
+        },
+        {
+          "index": 2,
+          "title": "Setesti",
+          "description": "Sørg for at setet ruller fritt; hold skinnene nær vertikale ved fangsten uten å klemme knærne."
+        },
+        {
+          "index": 3,
+          "title": "Slagsekvens",
+          "description": "Kjør bena først, deretter hofter, deretter armer; reversere på restitusjonen – unngå å rykke med ryggen alene."
+        }
+      ]
+    },
+    "cardio-running": {
+      "name": "Løper",
+      "instructions": [
+        "Velg en tydelig rute eller løype og start med en enkel oppvarmingsjogg.",
+        "Stå høyt med en lett foroverlent fra anklene og avslappede skuldre.",
+        "Land under hoftene med en rask, lett kadens og la armene svinge motsatt bena.",
+        "Pust rytmisk og hold nevene myke.",
+        "Sakte til en tur hvis formen kollapser eller uvanlige leddsmerter vises."
+      ]
+    },
+    "cardio-ski-erg": {
+      "name": "SkiErg",
+      "instructions": [
+        "Stå vendt mot SkiErg med føttene i hoftebredde og begge hendene på håndtakene over hodet.",
+        "Spenn opp stammen og hold en myk bøy i knærne.",
+        "Hengsel og trekk begge håndtakene ned forbi hoftene i en ski-poling-bevegelse, før deretter hendene tilbake over hodet.",
+        "Kjør med lats og hofter sammen i stedet for å bare bøye albuene tidlig.",
+        "Unngå at tauet eller snorene vrir seg og tilbakestill stillingen hvis du begynner å hoppe."
+      ]
+    },
+    "cardio-spin-bike": {
+      "name": "Spin Bike",
+      "instructions": [
+        "Juster spin-bike-sadelen og styret slik at begge føttene når pedalene med en lett knebøy i bunnen.",
+        "Klipp eller fest begge skoene på pedalene og hold lett i styret.",
+        "Pedal en jevn sirkel, og legg til motstand med sykkelens spenningsknapp for å matche den planlagte innsatsen.",
+        "Hold hoftene stabile på salen under sittende arbeid og kjernen avstivet når du står.",
+        "Reduser motstanden før du stopper og løsne forsiktig."
+      ]
+    },
+    "cardio-stair-climber": {
+      "name": "Trappeklatrer",
+      "instructions": [
+        "Gå inn på trappeklatreren, hold lett i skinnene og velg en lav starthastighet.",
+        "Plasser hele foten på hvert trinn og stå høyt over hoftene.",
+        "Klatre med et jevnt vekslende trinn, la armene bevege seg naturlig eller hvile lett på skinnene.",
+        "Unngå å låse albuene på skinnene og lene kroppsvekten inn i hendene.",
+        "Bremse maskinen helt før du går forsiktig bakover."
+      ]
+    },
+    "cardio-stairmaster": {
+      "name": "StairMaster",
+      "instructions": [
+        "Gå inn på StairMaster-pedalene, hold lett i skinnene og velg et håndterbart nivå.",
+        "Hold begge føttene helt på pedalene og overkroppen oppreist.",
+        "Trykk hver pedal ned i et vekslende trinnmønster uten å la pedalene smelle.",
+        "Ta korte skritt under hoftene i stedet for å overskride.",
+        "Bruk skinnene kun for balanse og stopp hvis knærne bøyer seg innover gjentatte ganger."
+      ]
+    },
+    "cardio-stationary-bike": {
+      "name": "Stasjonær sykkel",
+      "instructions": [
+        "Juster det stasjonære sykkelsetet slik at begge bena når nesten full forlengelse med en lett knebøy i bunnen.",
+        "Plasser begge føttene på pedalene eller i tåburene og hold lett i styret.",
+        "Pedal med jevn tråkkfrekvens, justere motstanden for å matche den planlagte innsatsen.",
+        "Hold hoftene i vater på setet og skuldrene avslappet.",
+        "Reduser motstanden før stopp og avstigning."
+      ]
+    },
+    "cardio-swimming": {
+      "name": "Svømming",
+      "instructions": [
+        "Gå inn i bassenget på sikker dybde og velg en fri bane for det planlagte slaget.",
+        "Skyv av veggen i en strømlinje med begge armene utstrakt og kroppen lang.",
+        "Svøm kontinuerlige slag med rytmisk pust til den planlagte siden eller mønsteret.",
+        "Spark fra hoftene med avslappede ankler og hold hodet på linje med ryggraden.",
+        "Hvil ved veggen hvis teknikken ryker eller du føler deg kortpustet utover treningsintensjonen."
+      ]
+    },
+    "cardio-treadmill": {
+      "name": "Tredemølle",
+      "instructions": [
+        "Still tredemøllen til en lav starthastighet, tråkk på fra sideskinnene, og øk deretter tempoet gradvis.",
+        "Stå høyt med en lett foroverlent og begge føttene lander under hoftene.",
+        "Løp eller gå med en rask lett tråkkfrekvens, la armene svinge naturlig.",
+        "Bruk rekkverkene kun for korte balansekontroller, ikke kontinuerlig støtte.",
+        "Bremse beltet helt før du går inn på sideskinnene for å gå ut."
+      ]
+    },
+    "cardio-walking": {
+      "name": "Går",
+      "instructions": [
+        "Velg en oversiktlig, jevn rute og stå høyt med avslappede skuldre.",
+        "Plasser hver fot hæl-til-tå under hoftene og la armene svinge motsatt bena.",
+        "Gå i et raskt og bærekraftig tempo mens du puster komfortabelt gjennom nesen og munnen.",
+        "Hold blikket foran og skrittet jevnt i stedet for å overskride.",
+        "Senk farten på ujevne overflater og stopp hvis uvanlige leddsmerter oppstår."
+      ]
+    },
+    "chest-bench-press": {
+      "name": "Benkpress",
+      "instructions": [
+        "Ligg på en flat benk under en vektstang med øynene omtrent under stangen.",
+        "Plant begge føttene på gulvet, sett skulderbladene og ta et jevnt overhåndsgrep like utenfor skulderbredden.",
+        "Løft opp, senk stangen til midten av brystet med albuene spor under håndleddene, og trykk deretter tilbake til strake armer.",
+        "Hold hoftene på benken og stangbanen litt diagonalt mot skuldrene.",
+        "Bruk en spotter eller safe for tunge sett og sprett aldri stangen fra brystet."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "J-krokhøyde",
+          "description": "Sett J-kroker slik at du kan løsne med nesten låste albuer uten å trekke stangen av pinnene."
+        },
+        {
+          "index": 1,
+          "title": "Sikkerhetsarmer",
+          "description": "Sett sikkerheter rett under din laveste kontrollerte brystposisjon slik at de fanger en mislykket rep."
+        },
+        {
+          "index": 2,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt og bredt nok til å støtte deg uten å løfte hoftene fra benken."
+        },
+        {
+          "index": 3,
+          "title": "Skulderstilling",
+          "description": "Trekk tilbake og trykk ned skulderbladene på benken før du pakker opp; hold dem satt gjennom settet."
+        },
+        {
+          "index": 4,
+          "title": "Grepbredde",
+          "description": "Velg et grep som holder håndleddene stablet over albuene i bunnen – verken ekstrem flare eller knusing."
+        },
+        {
+          "index": 5,
+          "title": "Spotter",
+          "description": "Bruk en spotter for tunge forsøk, eller hold sikkerheten innstilt hvis du trener alene."
+        }
+      ]
+    },
+    "chest-cable-crossover": {
+      "name": "Kabelkryss",
+      "instructions": [
+        "Sett begge kabelskivene høyt og fest enkelthåndtak, stående sentrert mellom stablene.",
+        "Gå frem i en forskjøvet stilling med en myk knebøy og en lett foroverlent.",
+        "Start med åpne armer og mykt bøyde albuer, håndflatene vendt fremover eller litt ned.",
+        "Fei håndtakene ned og sammen foran den nedre delen av brystet, klem og gå tilbake med kontroll.",
+        "Hold albuene fast i bøyningen og stopp før skuldrene trekker på skuldrene eller strekker seg over bak kroppen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett begge trinsene høyt slik at kablene beveger seg nedover og innover over brystet."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Fest D-håndtakene godt på begge sider og bekreft at stabelpinnene sitter godt fast."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå sentrert mellom stabler med en myk foroverlening fra hoftene og en lett albuebøy."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å overstrekke skuldrene i den brede startposisjonen."
+        }
+      ]
+    },
+    "chest-cable-fly": {
+      "name": "Kabelflue",
+      "instructions": [
+        "Sett begge kabelskivene rundt brysthøyde og fest enkelthåndtak.",
+        "Stå sentrert med en lett foroverlent, føttene forskjøvet eller jevnt, og spenn opp bagasjerommet.",
+        "Hold håndtakene med albuene mykt bøyd og håndflatene vendt mot hverandre.",
+        "Bring hendene sammen i en bred bue på brysthøyde, pause, og åpne deretter sakte til en behagelig strekk.",
+        "Ikke lås albuene eller la kabelstablene smelle mellom repetisjonene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett trinser i omtrent midten av brystet til øvre brysthøyde for en horisontal fluebane."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Fest D-håndtakene godt på begge sider og bekreft at stabelpinnene sitter godt fast."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Gå frem til det er lett spenning i starten med myke albuer og scapulae satt."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å overstrekke skuldrene i den brede startposisjonen."
+        }
+      ]
+    },
+    "chest-chest-dip": {
+      "name": "Brystdip",
+      "instructions": [
+        "Ta tak i parallelle dyppestenger og støtt deg på strake armer med brystet litt fremover.",
+        "Kryss eller hold bena i ro og spenn magen før du går ned.",
+        "Bøy albuene og senk til overarmene er nesten parallelle, mens overkroppen lenes fremover.",
+        "Press tilbake opp til strake armer uten å låse hardt ut.",
+        "Stopp settet hvis skuldrene føles sammenklemt eller ustabile i bunnen."
+      ]
+    },
+    "chest-decline-bench-press": {
+      "name": "Avslå benkpress",
+      "instructions": [
+        "Fest underbena på en nedgangsbenk under en vektstang.",
+        "Ta et jevnt overhåndsgrep like utenfor skulderbredden og sett skulderbladene mot puten.",
+        "Løft opp, senk stangen til nedre bryst, og trykk deretter til strake armer.",
+        "Hold håndleddene stablet over albuene og hoftene presset inn i benken.",
+        "Bruk sikkerhetsbokser eller en spotter og kontroller stangen fullt ut – nedgangsvinkler gjør uttak mindre tilgivende."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås nedgangen sikkert og bruk benputene slik at du ikke kan gli mot gulvet."
+        },
+        {
+          "index": 1,
+          "title": "Benstøtte",
+          "description": "Hekt bena godt under putene før du pakker opp; hodet blir støttet på benken."
+        },
+        {
+          "index": 2,
+          "title": "J-krokhøyde",
+          "description": "Sett kroker slik at uttaket er kort og kontrollert på nedgangsbanen."
+        },
+        {
+          "index": 3,
+          "title": "Sikkerhetsarmer",
+          "description": "Sett sikkerhet rett under din laveste brystposisjon på denne nedgangsvinkelen."
+        },
+        {
+          "index": 4,
+          "title": "Spotter",
+          "description": "Foretrekker en spotter på tungt nedgangsarbeid; barbanen er vanskeligere å kausjonere alene."
+        }
+      ]
+    },
+    "chest-decline-dumbbell-press": {
+      "name": "Avslå dumbbell Press",
+      "instructions": [
+        "Fest bena på en nedgangsbenk og hold en manual i hver hånd nederst på brystet.",
+        "Plant skulderbladene, spenn opp bagasjerommet og hold håndleddene rette.",
+        "Press begge manualene opp til armene er nesten strake, og senk dem deretter ved siden av nedre bryst.",
+        "Hold albuene under håndleddene og unngå å la manualene drive mot ansiktet.",
+        "La en partner gi deg manualene hvis det føles ustabilt å komme i posisjon."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås nedgangen og fest benputene før du løfter manualene på plass."
+        },
+        {
+          "index": 1,
+          "title": "Benstøtte",
+          "description": "Hekt begge bena under putene slik at du ikke kan skli; hodet forblir på benken."
+        },
+        {
+          "index": 2,
+          "title": "Skulderstilling",
+          "description": "Hold skulderbladene satt på puten; senk klokkene til nedre bryst med håndleddene stablet."
+        },
+        {
+          "index": 3,
+          "title": "Kontroll",
+          "description": "Trykk med kontroll—ikke sprett manualer fra brystet nederst."
+        }
+      ]
+    },
+    "chest-decline-push-up": {
+      "name": "Avslå push-up",
+      "instructions": [
+        "Plasser begge føttene på en stabil benk eller boks og begge hendene på gulvet under skuldrene.",
+        "Form en rett linje fra hode til hæler og spenn magen.",
+        "Senk brystet mot gulvet ved å bøye albuene, og skyv deretter tilbake til start.",
+        "Hold hoftene i vater – ikke gjedde eller synke da føttene er hevet.",
+        "Velg en lavere overflate hvis du ikke kan holde skuldrene stabile gjennom hele spekteret."
+      ]
+    },
+    "chest-diamond-push-up": {
+      "name": "Diamond Push-Up",
+      "instructions": [
+        "Plasser begge hendene på gulvet slik at tomlene og pekefingrene danner en diamant under brystet.",
+        "Forleng bena til en planke med kroppen i en rett linje.",
+        "Senk brystet mot hendene ved å bøye albuene inntil ribbeina, og trykk deretter opp.",
+        "Hold albuene bakover i stedet for å blusse bredt.",
+        "Slipp bare ned på knærne hvis det er nødvendig, mens du fortsatt holder diamanthåndposisjonen."
+      ]
+    },
+    "chest-dumbbell-bench-press": {
+      "name": "Dumbbell Benkpress",
+      "instructions": [
+        "Ligg på en flat benk med en manual i hver hånd i ytterkantene av brystet.",
+        "Plant begge føttene, sett skulderbladene og hold håndleddene rett over albuene.",
+        "Press manualene opp til armene er nesten strake, og senk dem deretter til start.",
+        "Hold manualene i bevegelse sammen uten å klirre hardt på toppen.",
+        "Kontroller nedstigningen – ustabile skuldre eller åpne albuer betyr at belastningen er for tung."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk stabilitet",
+          "description": "Bekreft at den flate benken er låst og stabil før du sparker manualene på plass."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt; ikke løft hoftene for å fullføre tunge press."
+        },
+        {
+          "index": 2,
+          "title": "Skulderstilling",
+          "description": "Trekk tilbake skulderbladene på benken og hold manualer stablet over håndledd og albuer."
+        },
+        {
+          "index": 3,
+          "title": "Startposisjon",
+          "description": "Ta med manualer til brystet med kontroll; unngå å slippe dem fra en overhead kick-up."
+        }
+      ]
+    },
+    "chest-dumbbell-fly": {
+      "name": "Dumbbell Fly",
+      "instructions": [
+        "Ligg på en flat benk med en manual i hver hånd presset over brystet, håndflatene vendt mot hverandre.",
+        "Hold en myk fast bøy i begge albuene og plant føttene på gulvet.",
+        "Åpne armene i en bred bue til brystet er komfortabelt strukket, og før deretter manualene sammen igjen.",
+        "Hold bevegelsen i skulderleddet - ikke gjør det til en press ved å bøye albuene mer.",
+        "Bruk en rekkevidde som aldri tvinger overarmene bak en smertefull strekk."
+      ]
+    },
+    "chest-dumbbell-pullover": {
+      "name": "Dumbbell Pullover",
+      "instructions": [
+        "Ligg på tvers av eller langs en flat benk og hold en manual over brystet med begge hender under den øvre platen.",
+        "Hold en myk albuebøy og avstiv stammen slik at ribbeina holder seg nede.",
+        "Senk manualen i en bue bak hodet til du kjenner en strekk gjennom brystet og lats.",
+        "Trekk vekten tilbake over brystet ved å kjøre albuene mot hoftene.",
+        "Beveg deg sakte gjennom bunnen og stopp hvis skuldrene kjennes i klem."
+      ]
+    },
+    "chest-floor-press": {
+      "name": "Gulvpresse",
+      "instructions": [
+        "Ligg på gulvet med bøyde knær og en vektstang eller manualer holdt over brystet.",
+        "Sett skulderbladene i gulvet og ta et grep like utenfor skulderbredden.",
+        "Senk vekten til overarmene lett berører gulvet, hold albuene under håndleddene.",
+        "Press tilbake til strake armer uten å sprette armene fra gulvet.",
+        "Hold ribbeina nede og stopp settet hvis albuene krasjer i gulvet."
+      ]
+    },
+    "chest-incline-bench-press": {
+      "name": "Skråbenkpress",
+      "instructions": [
+        "Sett en justerbar benk til en moderat helling under en vektstang.",
+        "Len deg tilbake med føttene plantet, ta et jevnt overhåndsgrep og still inn skulderbladene.",
+        "Trekk ut og senk stangen til øvre del av brystet, og trykk deretter til strake armer.",
+        "Hold håndleddene stablet over albuene og unngå å blusse dem for mye.",
+        "Velg en stigning på ca. 30–45° – brattere vinkler flytter arbeidet mot skuldrene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås benken i en moderat helling slik at stangbanen forblir over den øvre delen av brystet – ikke nakken."
+        },
+        {
+          "index": 1,
+          "title": "J-krokhøyde",
+          "description": "Sett J-kroker for et kort, kontrollert uttrekk på skråbanen."
+        },
+        {
+          "index": 2,
+          "title": "Sikkerhetsarmer",
+          "description": "Sett sikkerhet rett under din laveste øvre brystposisjon på denne stigningen."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene; hoftene forblir på puten – ikke gå over skråningen."
+        },
+        {
+          "index": 4,
+          "title": "Skulderstilling",
+          "description": "Sett scapulae tilbake og ned før avrekking; hold stangen over øvre bryst."
+        }
+      ]
+    },
+    "chest-incline-dumbbell-fly": {
+      "name": "Incline Dumbbell Fly",
+      "instructions": [
+        "Sett en benk til en moderat helling og hold en manual i hver hånd over øvre bryst.",
+        "Hold en myk fast albuebøy, føttene plantet og skulderbladene på puten.",
+        "Åpne armene i en bred bue, og klem deretter manualene sammen igjen over brystet.",
+        "Hold håndflatene mot hverandre og håndleddene nøytrale hele veien.",
+        "Stopp strekningen før skuldrene føles tvunget eller klemt i skråningen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås en mild til moderat helling; en bratt stigning gjør flua til en vanskelig skulderheving."
+        },
+        {
+          "index": 1,
+          "title": "Skulderstilling",
+          "description": "Hold en myk bøyning i albuene og scapulae satt - ikke la klokkene trekke skuldrene fremover."
+        },
+        {
+          "index": 2,
+          "title": "Bevegelsesområde",
+          "description": "Senk bare til du kjenner en strekk i brystet; stopp før skuldrene føles ustabile."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene for en stabil base på skråputen."
+        }
+      ]
+    },
+    "chest-incline-dumbbell-press": {
+      "name": "Incline Dumbbell Press",
+      "instructions": [
+        "Sett en benk til en moderat helling og hold manualer på den ytre øvre delen av brystet.",
+        "Plant føttene, spenn opp stammen og hold håndleddene stablet over albuene.",
+        "Press begge manualene opp og litt sammen, og senk dem deretter til start.",
+        "Hold albuene under håndleddene i stedet for å la dem falle bak benklinjen.",
+        "Få hjelp til å plassere tunge manualer slik at den første repetisjonen starter fra en stabil posisjon."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås en moderat helling slik at pressene belaster det øvre brystet uten at klokkene driver over ansiktet."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Hold begge føttene plantet; hoftene holder seg på puten gjennom hele settet."
+        },
+        {
+          "index": 2,
+          "title": "Skulderstilling",
+          "description": "Sett scapulae tilbake og ned før første trykk; albuene følger under vektene."
+        },
+        {
+          "index": 3,
+          "title": "Bevegelsesområde",
+          "description": "Senk til overarmene er omtrent parallelle med gulvet eller litt under – stopp hvis skuldrene kommer i klem."
+        }
+      ]
+    },
+    "chest-incline-machine-press": {
+      "name": "Incline Machine Press",
+      "instructions": [
+        "Juster skråpressetet slik at håndtakene er på linje med det øvre brystet når du lener deg tilbake.",
+        "Plasser begge føttene på gulvet eller fotplaten og grip jevnt i håndtakene.",
+        "Trykk håndtakene fremover til armene er nesten strake, og gå deretter tilbake med kontroll.",
+        "Hold hodet og øvre del av ryggen mot puten gjennom hele settet.",
+        "Velg en setehøyde som ikke tvinger skuldrene til å trekke på skuldrene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Still inn setet slik at håndtakene møter øvre bryst eller nedre skulderlinje når du sitter mot puten."
+        },
+        {
+          "index": 1,
+          "title": "Ryggstøtte",
+          "description": "Hold ryggen og hodet limt til puten slik at pressen holder seg på den øvre brystbanen."
+        },
+        {
+          "index": 2,
+          "title": "Håndtaks startposisjon",
+          "description": "Håndtakene skal begynne like foran øvre del av brystet – ikke ved siden av ørene."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene; ikke løft hoftene for å fullføre de siste reps."
+        }
+      ]
+    },
+    "chest-incline-push-up": {
+      "name": "Incline Push-Up",
+      "instructions": [
+        "Plasser begge hendene på en stabil benk, bar eller boks og begge føttene på gulvet bak deg.",
+        "Form en rett kroppslinje fra hode til hæler med hendene under skuldrene.",
+        "Senk brystet mot overflaten ved å bøye albuene, og trykk deretter opp igjen.",
+        "Hold albuene ca. 45° fra overkroppen og halsen lang.",
+        "Hev håndflaten hvis gulvversjonen er for hard; senk den etter hvert som du blir sterkere."
+      ]
+    },
+    "chest-landmine-press": {
+      "name": "Landmine Press",
+      "instructions": [
+        "Fest den ene enden av en vektstang i en landminebase og hold den frie enden foran på den ene skulderen.",
+        "Stå i forskjøvet stilling med foten på samme side bakover og bagasjerommet avstivet.",
+        "Press stangen opp og litt fremover langs landminebuen, og senk deretter til skulderen.",
+        "Hold albuen under hånden og ribbeina stablet over bekkenet.",
+        "Fullfør de planlagte repsene, bytt deretter skuldre og stilling for den andre siden."
+      ]
+    },
+    "chest-low-to-high-cable-fly": {
+      "name": "Lav-til-høy kabelflue",
+      "instructions": [
+        "Sett begge kabelskivene lavt og fest enkelthåndtak, stående sentrert mellom stablene.",
+        "Gå frem i en forskjøvet stilling med en lett fremoverlent og myke albuer.",
+        "Start med hendene nær hoftene, håndflatene vendt fremover eller litt opp.",
+        "Fei håndtakene opp og sammen til omtrent øvre bryst- eller hakehøyde, og senk deretter med kontroll.",
+        "Hold albuebøyningen fast og unngå å trekke på skuldrene øverst."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett begge trinsene lavt slik at kablene beveger seg oppover og innover mot øvre bryst."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Fest D-håndtakene godt på begge sider og bekreft at stabelpinnene sitter godt fast."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå høyt mellom stabler; løft håndtakene i en oppadgående bue uten å trekke på skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å overstrekke skuldrene i den brede startposisjonen."
+        }
+      ]
+    },
+    "chest-machine-chest-press": {
+      "name": "Machine Chest Press",
+      "instructions": [
+        "Juster setet slik at maskinhåndtakene sitter midt på brystet når ryggen er mot puten.",
+        "Plasser begge føttene godt og ta tak i håndtakene med jevn håndavstand.",
+        "Trykk håndtakene fremover til armene er nesten strake, og gå deretter sakte tilbake.",
+        "Hold skulderbladene mot puten og unngå å trekke på skuldrene.",
+        "Velg en grepshøyde som lar albuene holde seg omtrent under håndleddene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Juster setet slik at håndtakene er på linje med midten av brystet når du sitter høyt mot ryggputen."
+        },
+        {
+          "index": 1,
+          "title": "Ryggposisjon",
+          "description": "Hold ryggen og hodet mot puten; ikke runde fremover for å nå håndtakene."
+        },
+        {
+          "index": 2,
+          "title": "Håndtaksjustering",
+          "description": "Håndtakene skal starte midt på brystet; feil høyde kan overbelaste skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt før du presser; hold hoftene på setet gjennom settet."
+        },
+        {
+          "index": 4,
+          "title": "Startområde",
+          "description": "Begynn med albuene omtrent på linje med overkroppen – unngå en ekstrem strekk bak kroppen."
+        }
+      ]
+    },
+    "chest-pec-deck": {
+      "name": "Pec Deck",
+      "instructions": [
+        "Juster pec-dekksetet slik at putene eller håndtakene er på linje med midten av brystet og albuene dine er litt under skulderhøyde.",
+        "Sitt høyt med ryggen mot puten og underarmene på putene eller hendene på grepene.",
+        "Bring armene sammen foran brystet, klem og åpne deretter til en kontrollert strekk.",
+        "Hold albuene i en fast myk bøy hvis du bruker håndtak.",
+        "Ikke la vektstabelen trekke armene bak overkroppen ved starten av hver repetisjon."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Juster setet slik at albuene holdes i nivå med armputene i midten av brysthøyde."
+        },
+        {
+          "index": 1,
+          "title": "Justering av armpute",
+          "description": "Sett armputer slik at underarmene hviler helt på dem med albuene lett bøyd – ikke fastklemt i skuldrene."
+        },
+        {
+          "index": 2,
+          "title": "Albueposisjon",
+          "description": "Hold albuene på putene og omtrent på linje med midten av brystet; unngå å løfte albuene over skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Ryggstøtte",
+          "description": "Sitt høyt mot ryggputen; ikke trekke på skuldrene eller len deg fremover for å lukke elektrodene."
+        }
+      ]
+    },
+    "chest-push-up": {
+      "name": "Push-Up",
+      "instructions": [
+        "Plasser begge hendene på gulvet omtrent under skuldrene og forleng bena til en planke.",
+        "Spenn magen og klem setemusklene så kroppen danner en rett linje.",
+        "Senk brystet mot gulvet ved å bøye albuene, og skyv deretter gulvet bort til full forlengelse.",
+        "Hold albuene ca. 30–45° fra overkroppen i stedet for utstrakt til 90°.",
+        "Ikke la hoftene synke eller gjedde; forkort rekkevidden eller løft hendene hvis formen bryter."
+      ]
+    },
+    "chest-smith-incline-press": {
+      "name": "Smith Machine Incline Press",
+      "instructions": [
+        "Sett en justerbar benk til en moderat helling inne i en Smith-maskin og ligg med øynene under stangen.",
+        "Løs opp med et jevnt overhåndsgrep like utenfor skulderbredden og plant begge føttene.",
+        "Senk stangen til øvre bryst med albuene spor under håndleddene.",
+        "Press langs den faste banen til strake armer uten å låse ut aggressivt.",
+        "Hold hoftene på benken og bruk sikkerhetene hvis du trener tungt alene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Benk vinkel",
+          "description": "Lås en moderat stigning under Smith-stangen slik at stien møter den øvre delen av brystet."
+        },
+        {
+          "index": 1,
+          "title": "Sikkerhetsstopp",
+          "description": "Sett stopp like under den laveste kontrollerte posisjonen på denne stigningen før lasting."
+        },
+        {
+          "index": 2,
+          "title": "Bar starthøyde",
+          "description": "Hek av med nesten låste albuer; unngå å nå høyt for å frigjøre stangen."
+        },
+        {
+          "index": 3,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene; hold hoftene på skråputen gjennom hele settet."
+        }
+      ]
+    },
+    "chest-smith-machine-bench-press": {
+      "name": "Smith maskinbenkpress",
+      "instructions": [
+        "Sett en flat benk under Smith-stangen og juster sikkerhetsstoppene til like under brystnivå.",
+        "Ligg med øynene under stangen, plant føttene og ta et jevnt overhåndsgrep.",
+        "Roter stangen for å låse opp, senk den til midten av brystet, trykk deretter til strake armer og sett den på nytt.",
+        "Hold skulderbladene innstilt og hoftene på benken hele veien.",
+        "Fordi stangbanen er fast, stopp hvis den tvungne linjen irriterer skuldrene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sikkerhetsstopp",
+          "description": "Sett Smith sikkerhetsstopp like under din laveste kontrollerte brystposisjon før du laster stangen."
+        },
+        {
+          "index": 1,
+          "title": "Bar starthøyde",
+          "description": "Begynn med stangen i en høyde som lar deg hekte av med nesten låste albuer."
+        },
+        {
+          "index": 2,
+          "title": "Fotplassering",
+          "description": "Plant begge føttene flatt; hoftene forblir på benken – ikke bygge for mye under den faste stangbanen."
+        },
+        {
+          "index": 3,
+          "title": "Skulderstilling",
+          "description": "Sett scapulae tilbake og ned; hold håndleddene stablet mens stangen beveger seg på Smith-skinnene."
+        }
+      ]
+    },
+    "chest-squeeze-press": {
+      "name": "Klem Trykk",
+      "instructions": [
+        "Ligg på en flat benk med to manualer presset sammen over brystet, håndflatene vendt mot hverandre.",
+        "Hold konstant trykk innover slik at manualene holder kontakten gjennom settet.",
+        "Senk vektene til midten av brystet med albuene spor under håndleddene.",
+        "Trykk opp igjen mens du fortsetter å klemme manualene sammen.",
+        "Bruk et kontrollert tempo; ikke la klokkene skille seg eller sprette av brystet."
+      ]
+    },
+    "chest-svend-press": {
+      "name": "Svend Press",
+      "instructions": [
+        "Stå eller sitt høyt og klem en eller to lysplater sammen mellom begge håndflatene i brysthøyde.",
+        "Hold albuene ut til sidene og platene presset tett så de ikke glir.",
+        "Press platene rett frem til armene er nesten strake, og gå deretter tilbake til brystet.",
+        "Oppretthold konstant trykk innover mellom håndflatene for hele settet.",
+        "Bruk glatte plater du kan gripe sikkert; stoppe hvis de begynner å skille seg."
+      ]
+    },
+    "chest-weighted-chest-dip": {
+      "name": "Vektet brystdip",
+      "instructions": [
+        "Fest et dyppebelte med plater eller hold en manual mellom føttene, og grip deretter parallelle stenger.",
+        "Støtt deg selv på strake armer med brystet lett fremoverlent.",
+        "Senk til overarmene nærmer seg parallelle, og trykk deretter tilbake til toppen.",
+        "Hold lasten hengende i ro slik at den ikke svinger og trekker deg fremover.",
+        "Start lettere enn kroppsvektsfall – ekstra belastning forsterker skulderbelastningen i bunnen."
+      ]
+    },
+    "core-ab-wheel": {
+      "name": "Ab hjul",
+      "instructions": [
+        "Knel på en pute som holder i håndtakene på ab-hjulet med hjulet rett under skuldrene.",
+        "Spenn magen hardt og hold hoftene litt inne.",
+        "Rull hjulet fremover mens armene holder seg nesten rette, og trekk det deretter tilbake til start ved å bøye bagasjerommet.",
+        "Hold ribbeina og bekkenet tilkoblet – ikke la korsryggen synke ned mot gulvet.",
+        "Forkort utrullingen til du kan kontrollere hele spekteret uten å kollapse."
+      ]
+    },
+    "core-bicycle-crunch": {
+      "name": "Sykkel Crunch",
+      "instructions": [
+        "Ligg på ryggen på en matte med hendene lett bak hodet og begge knærne bøyd mot brystet.",
+        "Løft skulderbladene fra gulvet og hold korsryggen trykket ned.",
+        "Strekk ut det ene benet mens du roterer den motsatte albuen mot det bøyde kneet, og bytt deretter side i en pedalrytme.",
+        "Roter fra overkroppen i stedet for å dra i hodet med hendene.",
+        "Hold begge skulderbladene sveve og unngå fullstendig hvile mellom bryterne."
+      ]
+    },
+    "core-bird-dog": {
+      "name": "Fuglehund",
+      "instructions": [
+        "Start på alle fire med hendene under skuldrene og knærne under hoftene.",
+        "Spenn magen slik at ryggraden holder seg nøytral som en bordplate.",
+        "Strekk den ene armen fremover og det motsatte benet bakover til begge er på linje med overkroppen, ta en pause og gå deretter tilbake.",
+        "Hold hoftene i vater – ikke roter eller synk mens lemmene løftes.",
+        "Veksle sider hver repetisjon, beveg sakte nok til å holde balansen."
+      ]
+    },
+    "core-cable-crunch": {
+      "name": "Cable Crunch",
+      "instructions": [
+        "Fest et tau til den høye trinsen, knel vendt mot stabelen, og hold tauendene ved siden av hodet.",
+        "Hold hoftene i ro over knærne og spenn før du beveger deg.",
+        "Krøll ribbeina mot bekkenet ved å bøye ryggraden, ta en pause og gå deretter tilbake uten å stå opp.",
+        "Trekk med magen i stedet for å dra i tauet med armene.",
+        "Hold kabelen stram på toppen slik at stabelen ikke smeller."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven høyt slik at tauet henger over hodet før du kneler eller står."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et tau sikkert; hold begge endene ved siden av hodet uten å rykke i nakken."
+        },
+        {
+          "index": 2,
+          "title": "Kne / Stansestilling",
+          "description": "Knel eller stå langt nok til at spenningen eksisterer i starten uten at stabelen smeller."
+        },
+        {
+          "index": 3,
+          "title": "Spine Motion",
+          "description": "Crunch ved å bøye ryggraden; ikke rykk med armene eller forleng nakken."
+        }
+      ]
+    },
+    "core-captains-chair-knee-raise": {
+      "name": "Kapteinsstol Kneheving",
+      "instructions": [
+        "Gå opp på en kapteinsstol, press underarmene inn i putene og la bena henge rett.",
+        "Press ryggen mot støtten og spenn magen.",
+        "Løft begge knærne mot brystet ved å krølle bekkenet, senk deretter uten å svinge.",
+        "Unngå å trekke på skuldrene i armputene eller bruke momentum fra bena.",
+        "Stopp settet hvis korsryggen løsner hardt av puten."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Arm-/albuebeskyttere",
+          "description": "Hvil underarmene helt på putene med skuldrene pakket ned - ikke trukket inn i ørene."
+        },
+        {
+          "index": 1,
+          "title": "Ryggstøtte",
+          "description": "Hold ryggen mot puten; unngå å svinge vekk fra stolen."
+        },
+        {
+          "index": 2,
+          "title": "Grep håndtak",
+          "description": "Hold håndtakene kun for stabilitet; ikke trekke på skuldrene gjennom fellene for å løfte knærne."
+        },
+        {
+          "index": 3,
+          "title": "Kontrollert bevegelse",
+          "description": "Hev knærne med kontroll; unngå overdreven svinging som belaster korsryggen."
+        }
+      ]
+    },
+    "core-crunch": {
+      "name": "Crunch",
+      "instructions": [
+        "Ligg på ryggen på en matte med knærne bøyd, føttene flate og hendene lett bak hodet eller over brystet.",
+        "Press korsryggen ned i gulvet og spenn før du løfter.",
+        "Krøll skulderbladene fra gulvet mot bekkenet, ta en pause og senk deretter sakte.",
+        "Hold nakken lang – ikke trekk hodet fremover med hendene.",
+        "Beveg deg gjennom et kort ryggradsfleksjonsområde i stedet for å sitte helt opp."
+      ]
+    },
+    "core-dead-bug": {
+      "name": "Dead Bug",
+      "instructions": [
+        "Ligg på ryggen med begge armene mot taket og både hofter og knær bøyd til 90°.",
+        "Press korsryggen ned i gulvet og spenn magen.",
+        "Strekk den ene armen over hodet og det motsatte benet mot gulvet, gå deretter tilbake og bytt side.",
+        "Hold ribbeina nede slik at korsryggen aldri buer av matten.",
+        "Beveg deg sakte nok til at bekkenet forblir stille hele veien."
+      ]
+    },
+    "core-decline-sit-up": {
+      "name": "Avslå Sit-Up",
+      "instructions": [
+        "Fest begge underbena under putene på en nedgangsbenk og len deg tilbake med overkroppen støttet.",
+        "Plasser hendene over brystet eller lett bak hodet og spenn.",
+        "Krøll overkroppen opp mot lårene, og senk deretter under kontroll til benken.",
+        "Bly med ribbeina i stedet for å dra nakken fremover.",
+        "Bruk en grunnere nedgang hvis du ikke kan kontrollere eksentrikken."
+      ]
+    },
+    "core-dragon-flag": {
+      "name": "Drage flagg",
+      "instructions": [
+        "Ligg på en benk og ta tak i benken eller en stabil støtte bak hodet med begge hender.",
+        "Spenn hardt og løft bena og hoftene slik at kroppen danner en rett linje fra skuldre til tær.",
+        "Senk den stive kroppen mot benken under kontroll, og løft den deretter tilbake uten å bøye seg i hoftene.",
+        "Hold kroppen som ett stykke – ikke gjedde eller synk gjennom korsryggen.",
+        "Bruk en tucked eller ettbens progresjon til hele spaken er kontrollerbar."
+      ]
+    },
+    "core-hanging-knee-raise": {
+      "name": "Hengende kneløft",
+      "instructions": [
+        "Heng fra en opptrekkbar med et overhåndsgrep og armene strake.",
+        "Sett skuldrene litt ned og spenn opp bagasjerommet før du flytter bena.",
+        "Løft begge knærne mot brystet ved å krølle bekkenet, senk deretter uten å svinge.",
+        "Unngå kipping eller bruk en stor kroppssving for å heve knærne.",
+        "Stopp kort hvis grepet eller skuldrene mister sin aktive hengeposisjon."
+      ]
+    },
+    "core-hanging-leg-raise": {
+      "name": "Hengende benløft",
+      "instructions": [
+        "Heng fra en pull-up-stang med armer rett og bena sammen.",
+        "Spenn opp bagasjerommet og hold et lett aktivt skuldersett.",
+        "Hev begge rette bena mot horisontal eller høyere ved å krølle bekkenet, og senk deretter sakte.",
+        "Minimer swing – ta en kort pause nederst om nødvendig for å stille kroppen.",
+        "Bøy knærne bare som en regresjon hvis rette ben bryter formen."
+      ]
+    },
+    "core-hanging-windshield-wiper": {
+      "name": "Hengende vindusvisker",
+      "instructions": [
+        "Heng fra en opptrekkbar, løft begge bena til de er nesten vertikale, og hold armene strake.",
+        "Spenn opp bagasjerommet hardt og hold skuldrene aktive.",
+        "Roter begge bena sammen fra side til side som en vindusvisker mens hoftene holder seg høye.",
+        "Kontroller hver side likt og unngå å rykke fra korsryggen.",
+        "Reduser rekkevidden eller hold knærne bøyd til du kan bevege deg uten å svinge vilt."
+      ]
+    },
+    "core-hollow-hold": {
+      "name": "Hollow Hold",
+      "instructions": [
+        "Ligg på ryggen og press korsryggen inn i matten med armene over hodet og bena utstrakt.",
+        "Løft skuldrene og bena like fra gulvet til en grunn bananform.",
+        "Hold den hule posisjonen mens du puster jevnt inn i den avstivede magen.",
+        "Hold ribbeina nede slik at korsryggen aldri buer fra gulvet.",
+        "Bøy knærne eller senk armene til sidene hvis du ikke kan holde ryggen flat."
+      ]
+    },
+    "core-leg-raise": {
+      "name": "Liggende benløft",
+      "instructions": [
+        "Ligg på ryggen på en matte med bena utstrakt og hendene under hoftene eller på sidene for støtte.",
+        "Press korsryggen ned i gulvet og spenn før du løfter.",
+        "Hev begge bena mot vertikalt, og senk dem deretter sakte uten å la ryggen bue.",
+        "Hold bena så rette som hamstringmobiliteten tillater.",
+        "Stopp nedstigningen før korsryggen flasser opp hvis kontrollen mister."
+      ]
+    },
+    "core-machine-crunch": {
+      "name": "Machine Crunch",
+      "instructions": [
+        "Juster crunch-maskinsetet og putene slik at brystputen sitter på den øvre delen av brystet og pivoten passer til midtpartiet.",
+        "Sikre bena om nødvendig og hold i håndtakene uten å rykke.",
+        "Krøll overkroppen fremover mot puten, ta en pause, og gå deretter sakte tilbake.",
+        "Bøy ryggraden i stedet for å trekke bare med armene.",
+        "Velg en belastning som lar deg føle magen uten å bruke momentum."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Sitt slik at pivoten er omtrent på linje med midten av torsoen og putene møter øvre bryst eller skuldre."
+        },
+        {
+          "index": 1,
+          "title": "Puteposisjon",
+          "description": "Hvil bryst- eller skulderputene jevnt; unngå å legge press på halsen."
+        },
+        {
+          "index": 2,
+          "title": "Fotstøtte",
+          "description": "Sikre føtter eller ankler som maskinen gir slik at hoftene holder seg nede."
+        },
+        {
+          "index": 3,
+          "title": "Bevegelsesområde",
+          "description": "Knas gjennom et kontrollert område; ikke sleng med vektstabelen i noen ender."
+        }
+      ]
+    },
+    "core-mountain-climber": {
+      "name": "Fjellklatrer",
+      "instructions": [
+        "Start i en høy planke med begge hendene under skuldrene og kroppen i en rett linje.",
+        "Spenn magen og hold hoftene i vater.",
+        "Kjør det ene kneet mot brystet, og bytt deretter ben raskt i en løpende rytme mens hendene forblir plantet.",
+        "Hold skuldrene over hendene og unngå å sprette hoftene opp og ned.",
+        "Senk tråkkfrekvensen hvis plankelinjen kollapser eller hendene glir."
+      ]
+    },
+    "core-pallof-press": {
+      "name": "Pallof Press",
+      "instructions": [
+        "Fest et enkelt håndtak i brysthøyde og stå på siden av kabelen med håndtaket holdt ved brystbenet.",
+        "Sett en atletisk holdning med føttene omtrent hoftebredde og stammen avstivet mot kabelens trekk.",
+        "Press begge hendene rett frem til armene er strukket ut, ta en pause, og gå deretter tilbake til brystet.",
+        "Motstå å rotere mot eller bort fra stabelen – overkroppen skal forbli firkantet.",
+        "Avslutt repsene vendt én vei, og snu så kabelen trekkes fra den andre siden."
+      ]
+    },
+    "core-plank": {
+      "name": "Planke",
+      "instructions": [
+        "Plasser begge underarmene på gulvet med albuene under skuldrene og forleng bena i en rett linje.",
+        "Spenn magen og klem setemusklene så hoftene verken synker eller gjedder.",
+        "Hold posisjonen mens du puster jevnt, hold nakken lang.",
+        "Press underarmene ned og hold skuldrene unna ørene.",
+        "Avslutt ventetiden når skjemaet går i stykker i stedet for å samle seg tid."
+      ]
+    },
+    "core-russian-twist": {
+      "name": "Russisk vri",
+      "instructions": [
+        "Sitt på gulvet med bøyde knær, føttene på gulvet eller svevende, og len overkroppen tilbake til en balansert V-form.",
+        "Knyt hendene sammen foran brystet og spenn opp bagasjerommet.",
+        "Roter overkroppen for å banke hendene mot gulvet ved siden av den ene hoften, deretter til den andre siden.",
+        "Hold brystet oppe og beveg deg fra midtpartiet i stedet for bare å svinge armene.",
+        "Berør begge sider for en repetisjon og sakter ned hvis føttene smeller eller ryggen runder hardt."
+      ]
+    },
+    "core-side-plank": {
+      "name": "Sideplank",
+      "instructions": [
+        "Ligg på den ene siden med albuen under skulderen og bena stablet, løft deretter hoftene i en rett linje.",
+        "Støtt på underarmen og siden av den nederste foten, stabling av skuldrene.",
+        "Hold sideplanken mens du spenner undersiden av midjen og puster jevnt.",
+        "Hold hoftene fremover – ikke la dem synke tilbake eller falle ned på gulvet.",
+        "Bytt til den andre siden etter det tidsbestemte holdet og match albue- og fotplasseringen."
+      ]
+    },
+    "core-sit-up": {
+      "name": "Sit-Up",
+      "instructions": [
+        "Ligg på ryggen med knærne bøyd, føttene flate og armene i kryss på brystet eller strekker seg fremover.",
+        "Spenn opp magen og hold føttene lett forankret om nødvendig.",
+        "Krøll overkroppen helt opp til en sittende stilling, og senk deretter under kontroll til gulvet.",
+        "Led med brystet i stedet for å dra nakken fremover.",
+        "Reduser rekkevidden til en knase hvis hoftebøyerne tar over eller ryggen føles anstrengt."
+      ]
+    },
+    "core-toes-to-bar": {
+      "name": "Toes-to-Bar",
+      "instructions": [
+        "Heng fra en opptrekkbar med et overhåndsgrep og armene strake.",
+        "Start med en hul kroppsstilling og aktive skuldre.",
+        "Hev begge rette bena til tærne berører stangen, og senk deretter under kontroll.",
+        "Bruk kun en kip hvis det er stilen du ønsker; ellers hold svingen liten og kontrollert.",
+        "Bøy knærne som en progresjon hvis kontakt med rett ben ennå ikke er mulig."
+      ]
+    },
+    "core-v-up": {
+      "name": "V-Up",
+      "instructions": [
+        "Ligg flatt på ryggen på en matte med armene utstrakt over hodet og bena rett.",
+        "Spenn magen og press korsryggen mot gulvet for å starte.",
+        "Løft samtidig bena og overkroppen slik at hendene når mot tærne til en V-form, og senk deretter med kontroll.",
+        "Hold bena så rette som mulig og unngå å bruke en vill stein for å få fart.",
+        "Berør leggbenene i stedet for tærne hvis hamstringmobiliteten begrenser full rekkevidde."
+      ]
+    },
+    "core-weighted-russian-twist": {
+      "name": "Vektet russisk vri",
+      "instructions": [
+        "Sitt på gulvet med en tallerken, medisinball eller manual ved brystet, bøyde knær og len deg tilbake til en balansert V-form.",
+        "Hold begge føttene på gulvet eller sveve sammen og fest bagasjerommet rundt vekten.",
+        "Roter overkroppen for å flytte vekten ved siden av den ene hoften, deretter til den andre siden under kontroll.",
+        "Hold belastningen tett inntil kroppen og brystet oppe i stedet for å runde hardt gjennom ryggen.",
+        "Berør begge sider for en repetisjon og sakter ned hvis vekten trekker deg ut av balanse."
+      ]
+    },
+    "core-woodchop": {
+      "name": "Kabelvedhugg",
+      "instructions": [
+        "Fest et enkelt håndtak høyt eller lavt på en kabelstabel og stå på siden med føttene bredere enn hoftene.",
+        "Hold håndtaket med begge hender og spenn bagasjerommet over myke knær.",
+        "Roter overkroppen for å trekke håndtaket over kroppen fra høy til lav eller lav til høy, og gå deretter tilbake under kontroll.",
+        "Hold armene ganske rette og snu gjennom midtpartiet, ikke bare armene.",
+        "Avslutt repsene vendt én vei, bytt deretter side slik at kabelen nærmer seg fra motsatt side."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Still inn remskiven høyt for høy-til-lav-koteletter eller lavt for lav-til-høy, som samsvarer med den planlagte banen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et D-håndtak eller tau sikkert før du legger i stabelen."
+        },
+        {
+          "index": 2,
+          "title": "Stanse og avstand",
+          "description": "Ta en stabil atletisk holdning langt nok til at kabelen holder seg unna kroppen gjennom rotasjonen."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Roter gjennom overkroppen med myke knær; ikke skru ned korsryggen med låste hofter."
+        }
+      ]
+    },
+    "legs-back-squat": {
+      "name": "Rygg knebøy",
+      "instructions": [
+        "Sett en vektstang på et knebøystativ i omtrent øvre brysthøyde og gå under den slik at den sitter på øvre del av ryggen.",
+        "Løft opp med føttene omtrent i skulderbredde, tærne litt ut, og stiv stammen hardt.",
+        "Sett hoftene ned og bakover til lårene er minst parallelle, og kjør deretter gjennom midtfoten for å stå.",
+        "Hold knærne sporende over tærne og brystet omtrent over midtfoten.",
+        "Sett forsiktig opp igjen mellom settene og sprett aldri ut av en kollapset bunnposisjon."
+      ]
+    },
+    "legs-belt-squat": {
+      "name": "Belte knebøy",
+      "instructions": [
+        "Fest beltet rundt hoftene og fest det til belt-squat-maskinen eller lastepinnen.",
+        "Stå på plattformen med føttene omtrent skulderbredde og hold håndtakene kun for balanse.",
+        "Sett hoftene ned i en knebøy, og kjør deretter gjennom føttene for å stå uten å lene deg hardt på hendene.",
+        "Hold overkroppen mer oppreist enn en ryggknebøy siden belastningen henger fra hoftene.",
+        "Lås opp vognen helt før du laster ned, og sett den inn igjen før du går ut av beltet."
+      ]
+    },
+    "legs-bodyweight-squat": {
+      "name": "Kroppsvekt knebøy",
+      "instructions": [
+        "Stå med føttene omtrent skulderbredde og tærne litt utslått på et klart gulv.",
+        "Spenn magen og strekk armene fremover eller plasser hendene på hoftene.",
+        "Sett hoftene ned og tilbake til en kontrollert dybde, og stå deretter ved å presse gjennom hele foten.",
+        "Hold hælene nede og knærne i retning av tærne.",
+        "Ta en pause i bunnen hvis balansen er tapt, i stedet for å sprette ut av hullet."
+      ]
+    },
+    "legs-bulgarian-split-squat": {
+      "name": "Bulgarsk Split Squat",
+      "instructions": [
+        "Stå i delt stilling med den bakre foten hevet på en stabil benk og den fremre foten langt nok frem for balanse.",
+        "Hold manualer på sidene eller en vektstang på baksiden, og spenn bagasjerommet over det fremre benet.",
+        "Senk det bakre kneet mot gulvet ved å bøye det fremre kneet, og kjør deretter gjennom den fremre foten for å heve.",
+        "Hold mesteparten av vekten på det fremre benet og den fremre hælen jordet.",
+        "Fullfør repetisjonene på ett ben, bytt deretter den forhøyede foten og match stillingen på den andre siden."
+      ]
+    },
+    "legs-cable-pull-through": {
+      "name": "Kabelgjennomføring",
+      "instructions": [
+        "Fest et tau til den lave remskiven, vend bort fra stabelen, og strekk kabelen slik at den går mellom bena.",
+        "Hold begge tauendene ved hoftene med strake armer og heng torsoen fremover med en myk knebøyning.",
+        "Kjør hoftene fremover for å stå høyt til setemusklene klemmer, og hengs deretter tilbake til start.",
+        "Hold armene passive - hoftene, ikke armene, skal bevege tauet.",
+        "Oppretthold en nøytral ryggrad og stopp hvis korsryggen runder for å nå lenger."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven lavt slik at kabelen går mellom bena fra gulvstabelen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klipp et tau sikkert; vend deg bort fra stabelen og strekk kabelen."
+        },
+        {
+          "index": 2,
+          "title": "Avstand fra maskin",
+          "description": "Gå frem til det er spenning i starten av hengslet uten å rykke i stabelen."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hengsel med en nøytral ryggrad; kjøre hoftene gjennom uten å hyperekstendere korsryggen ved lockout."
+        }
+      ]
+    },
+    "legs-donkey-calf-raise": {
+      "name": "Eselkalvheving",
+      "instructions": [
+        "Sett opp på en eselkalvmaskin eller bøy deg fremover med hoftene støttet og ballene på begge føttene på en hevet kant.",
+        "La hælene henge under plattformen og legg eventuell belastning på hoftene som maskinen krever.",
+        "Løft begge hælene så høyt som mulig, ta en pause og senk deretter ned til en hel strekk.",
+        "Hold knærne mykt rette uten å låse dem hardt.",
+        "Unngå å sprette i bunnen eller rulle anklene utover."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Hoftepute",
+          "description": "Sett puten på tvers av hoftene slik at belastningen sitter på bekkenet, ikke korsryggen."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser fotballene på blokken med hælene frie til å bevege seg gjennom hele rekkevidden."
+        },
+        {
+          "index": 2,
+          "title": "Torso støtte",
+          "description": "Fest torsoen på maskinputene slik den er designet; hold nakken nøytral."
+        },
+        {
+          "index": 3,
+          "title": "Kontroll",
+          "description": "Unngå å sprette ut av den nederste strekningen under hofteputen."
+        }
+      ]
+    },
+    "legs-dumbbell-lunge": {
+      "name": "Dumbbell Lunge",
+      "instructions": [
+        "Stå høyt med en manual i hver hånd på sidene med føttene sammen.",
+        "Gå en fot frem i et langt nok skritt til at begge knærne kan bøye seg ca. 90°.",
+        "Senk det bakre kneet mot gulvet, og skyv deretter gjennom den fremre foten for å gå tilbake til stående.",
+        "Hold stammen oppreist og det fremre kneet spor over tærne.",
+        "Bytt ben hver rep eller avslutt den ene siden først, bytt deretter, hold manualene stille på sidene."
+      ]
+    },
+    "legs-dumbbell-romanian-deadlift": {
+      "name": "Dumbbell rumensk markløft",
+      "instructions": [
+        "Stå med en manual i hver hånd foran lårene med en myk knebøy.",
+        "Spenn opp bagasjerommet og hold skulderbladene forsiktig innstilt.",
+        "Skyv hoftene bakover for å skyve manualene nedover lårene til du kjenner at en hamstring strekker seg, og kjør deretter hoftene frem for å stå.",
+        "Hold manualene tett inntil bena og ryggraden lang.",
+        "Stopp nedstigningen før korsryggen runder eller manualene driver bort fra kroppen."
+      ]
+    },
+    "legs-front-squat": {
+      "name": "Knebøy foran",
+      "instructions": [
+        "Sett en vektstang i en front-rack på tvers av frontene av skuldrene med albuene høye, eller bruk et cross-arm stativ.",
+        "Løs opp med føttene omtrent i skulderbredde og spenn opp bagasjerommet.",
+        "Sitt rett ned mellom hoftene til dybden, og kjør deretter gjennom midtfoten for å stå.",
+        "Hold albuene oppe slik at stangen holder seg på skuldrene i stedet for å rulle fremover.",
+        "Bruk en lettere belastning enn den bakre knebøyen hvis stativposisjonen begrenser dybde eller balanse."
+      ]
+    },
+    "legs-glute-bridge": {
+      "name": "Glute Bridge",
+      "instructions": [
+        "Ligg på ryggen på en matte med bøyde knær, føttene flate i hoftebredde og armene langs sidene.",
+        "Spenn magen og trekk litt i bekkenet slik at korsryggen ikke bues hardt.",
+        "Kjør gjennom hælene for å heve hoftene til kroppen danner en linje fra skuldre til knær, og senk deretter sakte.",
+        "Klem setemusklene på toppen uten å skyve ribbeina mot taket.",
+        "Hold begge føttene plantet og unngå å flytte til den ene siden."
+      ]
+    },
+    "legs-glute-ham-raise": {
+      "name": "Glute-Ham Raise",
+      "instructions": [
+        "Juster GHD slik at lårene hviler på puten og anklene er festet under fotrullene.",
+        "Start med kroppen omtrent i en rett linje fra knærne til hodet og spenn opp bagasjerommet.",
+        "Senk overkroppen ved å strekke ut i knærne under kontroll, og krøll deretter opp igjen ved å bøye knærne og hoftene.",
+        "Hold hoftene utvidet når du reiser deg slik at hamstrings, ikke en ryggbue, gjør jobben.",
+        "Bruk en forkortet rekkevidde eller båndhjelp til du kan kontrollere hele eksentrikken."
+      ]
+    },
+    "legs-glute-kickback": {
+      "name": "Glute tilbakeslag",
+      "instructions": [
+        "Fest en ankelmansjett til den lave kabelen eller sett en glute-kickback maskinpute mot den ene foten.",
+        "Vend mot støtten, hold i rammen og hold arbeidsbenets hoftefirkant med en myk bøyning i det stående kneet.",
+        "Kjør arbeidsbeinet rett bakover fra hoften, klem sammen setemuskelen, og gå deretter tilbake uten å berøre hardt.",
+        "Hold overkroppen i ro - ikke bøy korsryggen for å løfte benet høyere.",
+        "Fullfør repsene på ett ben, og bytt deretter mansjetten eller puten til den andre ankelen."
+      ]
+    },
+    "legs-goblet-squat": {
+      "name": "Goblet Squat",
+      "instructions": [
+        "Hold en manual eller kettlebell vertikalt mot midten av brystet med begge hender.",
+        "Stå med føttene omtrent i skulderbredde og tærne litt ut, albuene pekende ned ved siden av vekten.",
+        "Sett hoftene ned mellom knærne til dybden, og kjør deretter gjennom midtfoten for å stå.",
+        "Hold brystet høyt og vekten limt til brystbenet hele veien.",
+        "Bruk albuene til å spore forsiktig inn i knærne uten å tvinge en ekstrem stilling."
+      ]
+    },
+    "legs-hack-squat": {
+      "name": "Hack Squat",
+      "instructions": [
+        "Gå inn på hack-squat-plattformen, plasser skuldrene under putene, og sett begge føttene omtrent i skulderbredden.",
+        "Lås opp sikringene, spenn opp bagasjerommet og hold ryggen flatt mot puten.",
+        "Bøy knærne for å senke ned i en knebøy, og trykk deretter plattformen bort for å stå.",
+        "Hold hælene nede og knærne spor over tærne.",
+        "Sett inn sikkerhetsanordningene igjen før du går ut, og stopp hvis korsryggen løsner puten."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Skulderputer",
+          "description": "Sett skulderputene slik at de sitter komfortabelt uten å tvinge nakken til å bøye seg."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser føttene midt på plattformen i en stilling som lar knærne spore over tærne."
+        },
+        {
+          "index": 2,
+          "title": "Ryggposisjon",
+          "description": "Hold ryggen og hoftene mot sledeputen gjennom hele knebøyen."
+        },
+        {
+          "index": 3,
+          "title": "Sikker dybde",
+          "description": "Gå ned til en dybde du kan kontrollere uten at korsryggen løsner på puten."
+        },
+        {
+          "index": 4,
+          "title": "Sikkerhetsstopp",
+          "description": "Aktiver sikkerhetssperrene hvis maskinen gir dem før du laster tungt."
+        }
+      ]
+    },
+    "legs-hip-abduction": {
+      "name": "Hoftebortføring",
+      "instructions": [
+        "Sitt i hofteabduksjonsmaskinen med de ytre lårputene rett over knærne og ryggen mot puten.",
+        "Hold i håndtakene og plasser begge føttene på fotstøttene.",
+        "Åpne begge knærne utover mot putene, ta en pause, og gå deretter sakte tilbake uten å la stabelen smelle.",
+        "Hold bekkenet i ro på setet – ikke vugg for å oppnå rekkevidde.",
+        "Bruk en smertefri rekkevidde; skarp hofteklemming betyr at setet eller startvinkelen må justeres."
+      ]
+    },
+    "legs-hip-adduction": {
+      "name": "Hofteadduksjon",
+      "instructions": [
+        "Sitt i hofteadduksjonsmaskinen med de indre lårputene rett over knærne og ryggen mot puten.",
+        "Hold i håndtakene og plasser begge føttene på fotstøttene med bena åpne til startvinkelen.",
+        "Klem begge knærne innover mot putene, ta en pause, og gå deretter sakte tilbake til åpen posisjon.",
+        "Hold overkroppen oppreist og bekkenet plantet på setet.",
+        "Ikke sprett elektrodene sammen eller tving en rekkevidde som klemmer lysken."
+      ]
+    },
+    "legs-hip-thrust": {
+      "name": "Hip Thrust",
+      "instructions": [
+        "Sitt på gulvet med øvre del av ryggen mot en stabil benk og en polstret vektstang over hoftefolden.",
+        "Plant begge føttene flatt i hoftebredde slik at leggen blir nesten vertikal på toppen.",
+        "Kjør gjennom hælene for å heve hoftene til overkroppen er omtrent parallelt med gulvet, og senk deretter med kontroll.",
+        "Trekk litt på haken og avslutt med å klemme setemusklene, ikke ved å legge over korsryggen.",
+        "Hold begge føttene jordet og stangen sentrert over hoftene for hele settet."
+      ]
+    },
+    "legs-lateral-lunge": {
+      "name": "Lateral Lunge",
+      "instructions": [
+        "Stå høyt med føttene samlet, hold manualer på sidene eller med hendene fri.",
+        "Ta et bredt skritt direkte til den ene siden og hold det etterfølgende beinet rett.",
+        "Sett hoftene bakover og ned over stepping-benet, og skyv deretter av foten for å gå tilbake til midten.",
+        "Hold tråkkfoten flat og kneet spor over tærne.",
+        "Bytt sider hver repetisjon eller avslutt den ene siden, bytt deretter, uten å la overkroppen kollapse fremover."
+      ]
+    },
+    "legs-leg-extension": {
+      "name": "Benforlengelse",
+      "instructions": [
+        "Juster setet slik at knærne er på linje med maskinens dreiepunkt og leggbelegget hviler like over anklene.",
+        "Len deg tilbake mot puten, hold i håndtakene og plasser begge leggen bak puten.",
+        "Strekk begge knærne til bena er nesten strake, ta en pause og senk deretter sakte.",
+        "Hold hoftene nede på setet for hele settet.",
+        "Unngå å slå inn i en hard lockout eller bruke momentum fra overkroppen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Justering av ryggstøtte",
+          "description": "Sitt med ryggen mot puten slik at lårene er fullt støttet på setet."
+        },
+        {
+          "index": 1,
+          "title": "Knejustering",
+          "description": "Juster setet slik at knærne er på linje med maskinens dreiepunkt."
+        },
+        {
+          "index": 2,
+          "title": "Rullepute",
+          "description": "Plasser rulleputen rett over anklene – ikke på skinnebenet midt i tibia."
+        },
+        {
+          "index": 3,
+          "title": "Setedybde",
+          "description": "Flytt setet forover eller bakover slik at baksiden av knærne slipper setekanten komfortabelt."
+        }
+      ]
+    },
+    "legs-leg-press": {
+      "name": "Benpress",
+      "instructions": [
+        "Sitt i benpresssetet, plasser begge føttene omtrent skulderbredde på plattformen, og juster setet slik at knærne begynner komfortabelt bøyd.",
+        "Ta tak i håndtakene, spenn opp bagasjerommet og lås opp sledesikringene.",
+        "Bøy begge knærne for å senke plattformen mot brystet, og press deretter gjennom hele foten for å forlenge bena.",
+        "Hold korsryggen og hoftene limt til setet – ikke la bekkenet krølle seg under i bunnen.",
+        "Sett inn sikkerhetsboksene på nytt før du går ut og stopp uten å låse knærne voldsomt."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sete/ryggvinkel",
+          "description": "Juster setet eller sleden slik at ryggen og korsbenet holder seg flatt på puten gjennom pressen."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser føttene midt på plattformen, omtrent hofte- til skulderbredde, med hæler plantet – ikke bare på tærne."
+        },
+        {
+          "index": 2,
+          "title": "Knesporing",
+          "description": "Knærne sporer over tærne; ikke la dem kollapse hardt innover under belastning."
+        },
+        {
+          "index": 3,
+          "title": "Sikker dybde",
+          "description": "Senk til lårene nærmer seg en rett vinkel eller din komfortable dybde uten at den lave ryggen runder av puten."
+        },
+        {
+          "index": 4,
+          "title": "Lockout advarsel",
+          "description": "Avslutt med myke knær – ikke sleng leddene i en hard lockout under tung belastning."
+        }
+      ]
+    },
+    "legs-leg-press-calf-raise": {
+      "name": "Beinpress leggheving",
+      "instructions": [
+        "Sitt i benpressen og plasser bare ballene på begge føttene på den nedre kanten av plattformen med hælene hengende av.",
+        "Press plattformen til en myk kneforlengelse og hold benposisjonen stødig.",
+        "Senk begge hælene for en strekk, løft deretter opp på fotballene så høyt som mulig og ta en pause.",
+        "Hold anklene på linje og unngå å la knærne bøye seg og rette ut hver rep.",
+        "Bruk en kontrollert rekkevidde og hold sikkerheten innstilt før start."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Fotplassering",
+          "description": "Plasser fotballene på den nedre kanten av plattformen med hælene frie til å bevege seg."
+        },
+        {
+          "index": 1,
+          "title": "Seteposisjon",
+          "description": "Hold ryggen mot puten med myke knær – ikke lås bena helt mens du løfter hælene."
+        },
+        {
+          "index": 2,
+          "title": "Bevegelsesområde",
+          "description": "Lavere hæler under kontroll; stopp hvis du kjenner et kraftig drag i akilles eller leggen."
+        },
+        {
+          "index": 3,
+          "title": "Sikkerhet",
+          "description": "Bruk en lett nok belastning til at du kan kontrollere strekningen – ikke sprett ut av bunnen."
+        }
+      ]
+    },
+    "legs-lying-leg-curl": {
+      "name": "Liggende beinkrøll",
+      "instructions": [
+        "Ligg med forsiden ned på den liggende leg-curl-maskinen med kneleddet på linje med pivoten og rullen rett over hælene.",
+        "Ta tak i håndtakene og hold hoftene presset inn i puten.",
+        "Krøll begge hælene mot setemusklene, ta en pause og senk deretter under kontroll.",
+        "Hold anklene avslappet i en naturlig stilling i stedet for å peke hardt.",
+        "Ikke løft hoftene eller rykk i stabelen med fart."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knejustering",
+          "description": "Ligg slik at knærne er på linje med maskinens pivot ved kanten av puten."
+        },
+        {
+          "index": 1,
+          "title": "Rulleputeposisjon",
+          "description": "Juster ankelrullen slik at den hviler like over hælene."
+        },
+        {
+          "index": 2,
+          "title": "Hofteposisjon",
+          "description": "Hold hoftene presset inn i puten; ikke løft dem for å jukse vekten opp."
+        },
+        {
+          "index": 3,
+          "title": "Rygg/bryststøtte",
+          "description": "Hvil overkroppen helt på puten med en nøytral hals – ikke sveiv hodet opp."
+        }
+      ]
+    },
+    "legs-machine-hip-thrust": {
+      "name": "Maskin Hip Thrust",
+      "instructions": [
+        "Sitt i en hip-thrust maskin med ryggputen mot øvre del av ryggen og hofteputen eller beltet festet.",
+        "Plant føttene flatt slik at skinnene er omtrent vertikale på toppen.",
+        "Kjør gjennom hælene for å forlenge hoftene til overkroppen og lårene danner en rett linje.",
+        "Klem setemusklene på toppen uten å overlappe korsryggen, senk deretter med kontroll.",
+        "Hold haken litt trukket og stopp hvis korsryggen tar over bevegelsen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Ryggputehøyde",
+          "description": "Sett ryggputen slik at den sitter på tvers av skulderbladene, ikke på nakken."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser føttene slik at leggen er omtrent vertikale øverst; knærne sporer over tærne."
+        },
+        {
+          "index": 2,
+          "title": "Hofteposisjon",
+          "description": "Kjør gjennom midtfoten og avslutt med et tilbaketrukket bekken – unngå å overlappe korsryggen."
+        },
+        {
+          "index": 3,
+          "title": "Sikkerhet",
+          "description": "Fest sete- og putepinnene helt før lasting; kontroller nedstigningen under puten."
+        }
+      ]
+    },
+    "legs-nordic-curl": {
+      "name": "Nordic Curl",
+      "instructions": [
+        "Knel på polstring og fest begge anklene under en tung benk, partner eller Nordic curl anker.",
+        "Hold hoftene utvidet og stammen avstivet i en rett linje fra knærne til hodet.",
+        "Senk overkroppen sakte fremover ved å gjøre motstand ved knærne, og trekk deretter opp igjen eller skyv fra gulvet for å gå tilbake.",
+        "Hold hendene klare til å fange deg selv når vanskelighetsgraden øker nær gulvet.",
+        "Forkort den eksentriske rekkevidden til du kan kontrollere det meste av nedstigningen uten å kollapse."
+      ]
+    },
+    "legs-pendulum-squat": {
+      "name": "Pendel knebøy",
+      "instructions": [
+        "Gå opp på pendel-knebøy-plattformen, plasser skuldrene under putene, og sett begge føttene sikkert.",
+        "Lås opp maskinen, spenn opp bagasjerommet og hold ryggen mot puten.",
+        "Gå ned ved å bøye knærne langs maskinens bue, og trykk deretter tilbake til start.",
+        "Hold hælene nede og knærne spor over tærne.",
+        "Sett inn sikkerhetsanordningene igjen før du går bort fra maskinen."
+      ]
+    },
+    "legs-pistol-squat": {
+      "name": "Pistol knebøy",
+      "instructions": [
+        "Stå på den ene foten med det andre benet strukket forover og armene strekker seg fremover for balanse.",
+        "Spenn opp stammen og hold den stående hælen limt til gulvet.",
+        "Sett hoftene ned på det stående beinet til en kontrollert dybde, og kjør deretter gjennom den foten for å stå.",
+        "Hold det forlengede benet fra gulvet og kneet på arbeidsbeinet spor over tærne.",
+        "Fullfør repsene på ett ben, og bytt deretter; bruk en støtte eller delvis dybde til balansen er solid."
+      ]
+    },
+    "legs-reverse-lunge": {
+      "name": "Omvendt Lunge",
+      "instructions": [
+        "Stå høyt med manualer på sidene eller med kun kroppsvekt og føttene sammen.",
+        "Gå en fot rett tilbake i en delt stilling, og hold den fremre foten plantet.",
+        "Senk det bakre kneet mot gulvet, og skyv deretter gjennom den fremre foten for å gå tilbake til stående.",
+        "Hold stammen oppreist og det fremre kneet spor over tærne.",
+        "Bytt ben eller avslutt den ene siden først, bytt deretter, uten å forhaste deg tilbake."
+      ]
+    },
+    "legs-romanian-deadlift": {
+      "name": "Rumensk markløft",
+      "instructions": [
+        "Stå med en lastet vektstang foran lårene med en myk knebøy og et overhånds- eller blandet grep.",
+        "Spenn opp bagasjerommet og still inn skulderbladene før du flytter.",
+        "Skyv hoftene bakover for å skyve stangen nedover lårene til hamstrings strekker seg, og kjør deretter hoftene frem for å stå.",
+        "Hold stangen tett inntil bena og ryggraden lang for hele hengslet.",
+        "Stopp før korsryggen runder; dette er et hoftehengsel, ikke en knebøy."
+      ]
+    },
+    "legs-seated-calf-raise": {
+      "name": "Sittende kalveløft",
+      "instructions": [
+        "Sitt i den sittende leggmaskinen, plasser ballene til begge føttene på plattformkanten, og sett lårputen på underlårene.",
+        "Lås opp stopperen og la hælene synke ned i en behagelig strekk.",
+        "Løft begge hælene så høyt som mulig, pause og senk deretter sakte.",
+        "Hold knærne stabile under puten uten å sprette.",
+        "Sett stopperen på nytt før du fjerner lårputen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sete og knepute",
+          "description": "Sitt med kneputen hvilende på underlårene rett over knærne – ikke på kneskålene."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser fotballene på plattformen med hælene fri til å falle."
+        },
+        {
+          "index": 2,
+          "title": "Bevegelsesområde",
+          "description": "Lavere hæler under kontroll; unngå å sprette ut av en dyp strekning."
+        },
+        {
+          "index": 3,
+          "title": "Justeringsstifter",
+          "description": "Fest knepute-pinnen helt før du velger stabelen eller lasteplatene."
+        }
+      ]
+    },
+    "legs-seated-leg-curl": {
+      "name": "Sittende Leg Curl",
+      "instructions": [
+        "Juster den sittende ben-curl-maskinen slik at kneet er på linje med pivoten og den nedre puten hviler like over hælene.",
+        "Len deg tilbake mot puten, fest hofteputen på lårene og hold i håndtakene.",
+        "Krøll begge hælene under setet mot setemusklene, ta en pause og gå sakte tilbake.",
+        "Hold hoftene nede og unngå å løfte lapputen med lårene.",
+        "Ikke la vektstabelen smelle på slutten av returen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knejustering",
+          "description": "Still knærne opp med maskinens pivot før du velger vekt."
+        },
+        {
+          "index": 1,
+          "title": "Rulleputeposisjon",
+          "description": "Sett den nedre rullen rett over hælene på Achilles-området, ikke midt på leggen."
+        },
+        {
+          "index": 2,
+          "title": "Lår/hoftepute",
+          "description": "Fest lårputen slik at hoftene holder seg nede når du krøller."
+        },
+        {
+          "index": 3,
+          "title": "Ryggstøtte",
+          "description": "Sitt høyt mot ryggputen; unngå å runde forover for å fullføre krøllen."
+        }
+      ]
+    },
+    "legs-single-leg-press": {
+      "name": "Ettbenspress",
+      "instructions": [
+        "Sitt i benpresssetet og plasser bare en fot i midten av plattformen, med den andre foten hvilende fra sleden.",
+        "Ta tak i håndtakene, spenn opp bagasjerommet og lås opp sikringene mens du holder hoftene og korsryggen på setet.",
+        "Bøy arbeidskneet for å senke plattformen under kontroll, og trykk deretter gjennom hele foten for å forlenge benet.",
+        "Hold det ikke-arbeidende benet avslappet og unna den bevegelige plattformen.",
+        "Sett inn sikkerhetsboksene på nytt, bytt føtter og gjenta den samme fotplasseringen på den andre siden."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sete/ryggvinkel",
+          "description": "Hold ryggen flatt på puten; stabiliser den ikke-arbeidende foten fra plattformen eller lett på gulvet ettersom maskinen tillater det."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Sentrer arbeidsfoten på plattformen med hælen ned; unngå en smal kantstilling."
+        },
+        {
+          "index": 2,
+          "title": "Knesporing",
+          "description": "Følg kneet over tærne og hold hoftene firkantet på puten."
+        },
+        {
+          "index": 3,
+          "title": "Sikker dybde",
+          "description": "Bruk en kontrollert dybde som forhindrer at bekkenet vrir seg av ryggputen."
+        },
+        {
+          "index": 4,
+          "title": "Lockout advarsel",
+          "description": "Unngå hard lockout på ett ben; hold et mykt kne øverst."
+        }
+      ]
+    },
+    "legs-single-leg-romanian-deadlift": {
+      "name": "Rumensk markløft med ett ben",
+      "instructions": [
+        "Stå på ett ben og hold en manual eller kettlebell i motsatt hånd, mykt kne på ståbenet.",
+        "Spenn opp bagasjerommet og hold hoftene rett mot gulvet.",
+        "Hengsel fremover, og send det frie benet tilbake når vekten beveger seg mot midten av leggen.",
+        "Gå tilbake ved å kjøre hoften fremover til du står høyt og balansert.",
+        "Bruk et lett trykk på den frie tåen for balanse om nødvendig; bytt ben etter settet."
+      ]
+    },
+    "legs-sissy-squat": {
+      "name": "Sissy Squat",
+      "instructions": [
+        "Stå med føttene omtrent i hoftebredde, hold lett en stabil støtte og hev deg opp på fotkulene; alternativt, fest underbena i en sissy-squat benk.",
+        "Spenn opp bagasjerommet og hold lårene og overkroppen i en rett linje med hoftene forlenget.",
+        "La knærne bevege seg fremover mens hele kroppen lener seg bakover, og hold hælene hevet i den ustøttede versjonen.",
+        "Senk bare så langt du kan kontrollere, og strekk deretter knærne for å komme tilbake uten å sitte hoftene bakover.",
+        "Bruk en kort rekkevidde først og stopp hvis knærne føler skarp smerte i stedet for muskelanstrengelse."
+      ]
+    },
+    "legs-smith-machine-squat": {
+      "name": "Smith Machine Squat",
+      "instructions": [
+        "Sett Smith-stangen på øvre del av ryggen og plasser begge føttene litt foran stanglinjen for balanse.",
+        "Lås opp stangen, spenn opp bagasjerommet og sett føttene omtrent i skulderbredde fra hverandre.",
+        "Sett hoftene ned til en kontrollert dybde langs den faste stangbanen, og kjør deretter opp for å stå og reol.",
+        "Hold knærne sporende over tærne og hælene nede.",
+        "Fordi banen er fast, juster fotplasseringen nøye og stopp hvis den tvungne linjen irriterer knærne eller ryggen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sikkerhetsstopp",
+          "description": "Sett sikkerhetsstopp like under det laveste punktet på knebøyen din før du laster stangen."
+        },
+        {
+          "index": 1,
+          "title": "Bar Høyde",
+          "description": "Start med stangen på øvre del av ryggen i en høyde som lar deg hekte av uten å reise seg på tærne."
+        },
+        {
+          "index": 2,
+          "title": "Fotposisjonering",
+          "description": "Plasser føttene litt foran stangbanen slik at du kan sitte mellom hælene under de faste skinnene."
+        },
+        {
+          "index": 3,
+          "title": "Rack posisjon",
+          "description": "Hekt forsiktig av og hekt begge sider helt på toppen av hvert sett."
+        }
+      ]
+    },
+    "legs-smith-romanian-deadlift": {
+      "name": "Smith Machine rumensk markløft",
+      "instructions": [
+        "Stå inne i en Smith-maskin med stangen over midtfoten, myke knær og hender like utenfor lårene.",
+        "Trekk ut, sett skulderbladene og spenn opp bagasjerommet.",
+        "Hengsel i hoftene for å skyve stangen nedover lårene til du kjenner en sterk hamstringstrekk.",
+        "Kjør hoftene fremover for å stå høyt uten å forlenge korsryggen.",
+        "Hold stangen nær bena og knærvinkelen nesten konstant."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Sikkerhetsstopp",
+          "description": "Sett stoppere rett under din laveste kontrollerte hengselposisjon."
+        },
+        {
+          "index": 1,
+          "title": "Bar starthøyde",
+          "description": "Begynn med stangen i midten av låret til hoftehøyde slik at du kan hekte av med en høy overkropp."
+        },
+        {
+          "index": 2,
+          "title": "Fotposisjonering",
+          "description": "Stå med føttene under hoftene; hold stangen nær bena på Smith-stien."
+        },
+        {
+          "index": 3,
+          "title": "ryggradsposisjon",
+          "description": "Hengsel i hoftene med nøytral rygg; stopp før lavryggsrundene."
+        }
+      ]
+    },
+    "legs-split-squat": {
+      "name": "Split Squat",
+      "instructions": [
+        "Stå i en forskjøvet stilling med begge føttene på gulvet, hold manualer på sidene eller en vektstang på ryggen.",
+        "Hold overkroppen høy og den fremre foten flat.",
+        "Senk rett ned til det bakre kneet nesten berører gulvet og forlåret er omtrent parallelt.",
+        "Kjør gjennom den fremre hælen og midtfoten for å gå tilbake til starten uten å tråkke føttene sammen.",
+        "Hold det fremre kneet spor over midtfoten; bytt ben etter å ha fullført settet."
+      ]
+    },
+    "legs-standing-calf-raise": {
+      "name": "Stående kalvheving",
+      "instructions": [
+        "Stå i en stående leggmaskin eller på en hevet kant med ballene på begge føttene på plattformen og putene på skuldrene.",
+        "Lås opp stopperen og la begge hælene synke ned i en strekk mens du holder i håndtakene for balanse.",
+        "Stig opp på ballene på begge føttene så høyt som mulig, pause, og senk deretter sakte.",
+        "Hold knærne mykt rette og anklene rett opp og ned.",
+        "Unngå å sprette i bunnen eller forhaste ufullstendige lockouts på toppen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Høyde på skulderputen",
+          "description": "Sett puter på skuldrene slik at du står høyt uten å presse nakken."
+        },
+        {
+          "index": 1,
+          "title": "Fotplassering",
+          "description": "Plasser fotballene på blokken med hæler fri; hold anklene rette."
+        },
+        {
+          "index": 2,
+          "title": "Knestilling",
+          "description": "Hold et mykt kne – ikke lås hardt mens du spretter gjennom leggene."
+        },
+        {
+          "index": 3,
+          "title": "Bevegelsesområde",
+          "description": "Bruk en kontrollert strekk i bunnen; stopp hvis du føler skarpe akillessmerter."
+        }
+      ]
+    },
+    "legs-standing-leg-curl": {
+      "name": "Stående Leg Curl",
+      "instructions": [
+        "Stå i den stående leg-curl-maskinen med arbeidsankelen under rullen og låret mot puten.",
+        "Hold i håndtakene og hold støttebenet stabilt med en myk knebøy.",
+        "Krøll arbeidshælen mot setemuskelen, pause, og senk deretter under kontroll.",
+        "Hold hoftene rett i forhold til maskinen og unngå å lene deg bort fra arbeidssiden.",
+        "Fullfør settet på ett ben, flytt deretter rullen til den andre ankelen og gjenta."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knejustering",
+          "description": "Stå slik at arbeidskneet er på linje med maskinens dreiepunkt."
+        },
+        {
+          "index": 1,
+          "title": "Rulleputeposisjon",
+          "description": "Plasser rullen rett over ankelen på arbeidsbeinet."
+        },
+        {
+          "index": 2,
+          "title": "Hofteposisjon",
+          "description": "Hold hoftene firkantede og overkroppen høye; unngå å lene deg hardt inn i støtteputen."
+        },
+        {
+          "index": 3,
+          "title": "Support Hold",
+          "description": "Bruk håndtakene kun for balanse – ikke trekk deg opp gjennom armene."
+        }
+      ]
+    },
+    "legs-step-up": {
+      "name": "Step-Up",
+      "instructions": [
+        "Stå vendt mot en stabil boks eller benk med manualer på sidene eller kun med kroppsvekt.",
+        "Plasser en hel fot på boksen slik at trinnhælen er fullt støttet.",
+        "Kjør gjennom den foten for å stå høyt på boksen, og gå deretter ned under kontroll med samme eller etterfølgende fot.",
+        "Hold overkroppen oppreist og kneet på arbeidsbeinet spor over tærne.",
+        "Fullfør reps ledende med ett ben, bytt deretter den ledende foten; unngå å skyve hardt avgårde med det etterfølgende beinet."
+      ]
+    },
+    "legs-stiff-leg-deadlift": {
+      "name": "Stiff-leg markløft",
+      "instructions": [
+        "Stå med en vektstang eller manualer foran lårene med knærne nesten rett, men ikke låst.",
+        "Spenn opp bagasjerommet og hold skulderbladene forsiktig innstilt.",
+        "Hengsel ved hoftene for å senke vekten langs bena til hamstrings strekker seg, og gå deretter tilbake ved å forlenge hoftene.",
+        "Hold vekten tett og ryggraden lang med minimal knebøy hele veien.",
+        "Bruk kortere rekkevidde enn rumensk markløft hvis korsryggen begynner å runde."
+      ]
+    },
+    "legs-sumo-squat": {
+      "name": "Sumo Squat",
+      "instructions": [
+        "Stå med bred stilling og tærne vendt ut, hold en manual, kettlebell eller vektstang.",
+        "Spenn opp bagasjerommet og hold brystet oppe.",
+        "Sett hoftene ned mellom hælene til lårene er minst parallelle, knærne følger over tærne.",
+        "Kjør gulvet fra hverandre og stå høyt uten å la knærne falle inn.",
+        "Hold hælene nede og stopp dybden hvis korsryggen runder."
+      ]
+    },
+    "legs-walking-lunge": {
+      "name": "Walking Lunge",
+      "instructions": [
+        "Stå høyt med manualer på sidene og rydd en rett gangsti.",
+        "Gå en fot frem i et utfall, senk det bakre kneet mot gulvet.",
+        "Skyv gjennom den fremre foten for å bringe det bakre benet gjennom til neste trinn fremover uten å ta en pause oppreist om ønskelig.",
+        "Hold stammen oppreist og hvert fremre kne spor over tærne.",
+        "Fortsett alternerende ben for den planlagte distansen eller repetisjonene, og vend deretter trygt hvis plassen er begrenset."
+      ]
+    },
+    "legs-wall-sit": {
+      "name": "Vegg Sitte",
+      "instructions": [
+        "Stå med ryggen flatt mot en vegg og gå føttene frem omtrent to fotlengder.",
+        "Skyv ned til lårene er nesten parallelle med gulvet og knærne er over anklene.",
+        "Hold den sittende posisjonen med ryggen og hodet mot veggen og armene avslappet eller i kryss.",
+        "Hold jevnt trykk gjennom begge føttene og pust jevnt.",
+        "Skyv tilbake oppover veggen for å stå når hold slutter – ikke la knærne falle innover."
+      ]
+    },
+    "legs-zercher-squat": {
+      "name": "Zercher knebøy",
+      "instructions": [
+        "Vugg en vektstang i albuene i omtrent midjehøyde, hendene sammen eller håndflatene opp for stabilitet.",
+        "Stå med føttene rundt skulderbredde, spenn hardt og hold albuene stramt til kroppen.",
+        "Sett hoftene ned og tilbake i en knebøy mens du holder overkroppen så oppreist som belastningen tillater.",
+        "Kjør gjennom midten av foten for å stå, hold stangen festet i albuene.",
+        "Bruk en pute eller et håndkle hvis albuene er ømme og stopp før øvre del av ryggen faller forover."
+      ]
+    },
+    "mobility-ankle-dorsiflexion": {
+      "name": "Ankel Dorsiflexion Stretch",
+      "instructions": [
+        "Knel med en fot frem og kneet spor over tærne.",
+        "Kjør det fremre kneet fremover mens du holder hælen nede.",
+        "Hold en forsiktig strekk gjennom ankelen uten å kollapse buen.",
+        "Bytt side etter tidsinnstilt hold.",
+        "Bruk en vegg eller stativ for lett balansestøtte om nødvendig."
+      ]
+    },
+    "mobility-cat-cow": {
+      "name": "Katt-ku",
+      "instructions": [
+        "Start på hender og knær med håndledd under skuldrene og knærne under hoftene.",
+        "Pust inn mens du bøyer ryggen og løfter brystet og halebeinet (ku).",
+        "Pust ut mens du runder ryggraden og stikk haken og bekkenet (katt).",
+        "Beveg deg sakte gjennom en behagelig rekkevidde uten å tvinge nakken.",
+        "Hold armene lange og hoftene stablet over knærne."
+      ]
+    },
+    "mobility-couch-stretch": {
+      "name": "Stretch på sofaen",
+      "instructions": [
+        "Plasser det bakre leggen mot en benk eller vegg med den fremre foten plantet i et utfall.",
+        "Hold overkroppen høy og trekk forsiktig bekkenet for å føle en hoftebøyer-strekk.",
+        "Hold uten å tvinge det bakre kneet til smerte.",
+        "Bytt side etter tidsinnstilt hold.",
+        "Bruk hendene til støtte til balansen blir bedre."
+      ]
+    },
+    "mobility-hip-90-90": {
+      "name": "90/90 Hoftestrekk",
+      "instructions": [
+        "Sitt med begge knærne bøyd ca 90 grader og det fremre leggen parallelt med overkroppen.",
+        "Hold brystet høyt og len deg litt mot fremre legg til du kjenner en hoftestrekk.",
+        "Bytt side ved å rotere begge bena sammen uten å tvinge knærne.",
+        "Pust jevnt og unngå runding gjennom korsryggen.",
+        "Bruk hendene for lett støtte hvis balansen er begrenset."
+      ]
+    },
+    "mobility-neck-rolls": {
+      "name": "Halsruller",
+      "instructions": [
+        "Sitt eller stå høyt og rull hodet forsiktig i en langsom sirkel innenfor et smertefritt område.",
+        "Reverser retningen etter at målet reps.",
+        "Hold skuldrene nede og unngå å tvinge endestreken.",
+        "Hopp over denne øvelsen hvis du har restriksjoner for nakkeskade.",
+        "Pust jevnt hele veien."
+      ]
+    },
+    "mobility-pigeon-stretch": {
+      "name": "Duestrekk",
+      "instructions": [
+        "Fra en halvt knelende stilling, ta det ene leggen over kroppen og forleng det bakre benet bak deg.",
+        "Vend hoftene mot gulvet og brett frem kun så langt komforten tillater det.",
+        "Hold det fremre kneet støttet og unngå å tvinge ekstern rotasjon.",
+        "Hold, bytt side.",
+        "Bruk en pute under hoften hvis strekningen føles ujevn."
+      ]
+    },
+    "mobility-shoulder-dislocate": {
+      "name": "Skulder løsner",
+      "instructions": [
+        "Hold et lett bånd eller pinne med et bredt overhåndsgrep.",
+        "Hold albuene myke og løft armene over hodet, deretter bak kroppen i en stor bue.",
+        "Gå tilbake den samme banen til fronten uten å tvinge enden.",
+        "Utvid grepet hvis skuldrene kjennes i klem.",
+        "Stå høyt og unngå å bøye korsryggen."
+      ]
+    },
+    "mobility-standing-forward-fold": {
+      "name": "Stående fremfold",
+      "instructions": [
+        "Stå med føttene i hoftebredde og hengslet fra hoftene for å brette seg fremover.",
+        "Hold en myk knebøy og la hodet henge tungt.",
+        "Hold mens du puster inn på baksiden av bena.",
+        "Rull sakte opp ryggvirvel for ryggvirvel for å stå.",
+        "Stopp uten skarpe smerter i korsryggen."
+      ]
+    },
+    "mobility-thoracic-open-book": {
+      "name": "Thoracic Open Book",
+      "instructions": [
+        "Ligg på siden med knærne stablet og armene strukket fremover i skulderhøyde.",
+        "Rekk den øverste armen over kroppen og åpne den mot gulvet bak deg.",
+        "Følg hånden med øynene og hold knærne stablet.",
+        "Ta en pause i åpen stilling, og gå deretter tilbake med kontroll.",
+        "Beveg deg bare så langt som midt på ryggen tillater uten smerte."
+      ]
+    },
+    "mobility-thread-the-needle": {
+      "name": "Tre nålen",
+      "instructions": [
+        "Start på hender og knær.",
+        "Skyv den ene armen under den motsatte armhulen mot gulvet mens du hviler på den støttende underarmen.",
+        "Roter øvre del av ryggen og hold hoftene stablet over knærne.",
+        "Gå tilbake til start og bytt side.",
+        "Beveg deg sakte og stopp uten skarpe skuldersmerter."
+      ]
+    },
+    "mobility-worlds-greatest-stretch": {
+      "name": "Verdens største strekk",
+      "instructions": [
+        "Fra et utfall, plasser den fremre foten flatt og det bakre kneet ned eller lett løftet.",
+        "Plasser hånden på samme side innenfor den fremre foten og nå den motsatte armen til taket.",
+        "Roter gjennom midten av ryggen og åpne brystet uten å kollapse det fremre kneet.",
+        "Legg hånden tilbake til gulvet og bytt side med kontroll.",
+        "Hold hoftene firkantede og den fremre hælen jordet."
+      ]
+    },
+    "mobility-wrist-circles": {
+      "name": "Håndleddssirkler",
+      "instructions": [
+        "Strekk ut en eller begge armene og sirkuler forsiktig håndleddene gjennom en full komfortabel rekkevidde.",
+        "Reverser retningen etter at målet reps.",
+        "Hold albuene myke og skuldrene avslappet.",
+        "Stopp hvis du føler skarpe leddsmerter.",
+        "Beveg deg sakte nok til å kontrollere banen."
+      ]
+    },
+    "other-battle-ropes": {
+      "name": "Kamptau",
+      "instructions": [
+        "Forankre kamptauene sikkert og hold den ene enden i hver hånd med føttene i omtrent skulderbreddes avstand.",
+        "Hengs litt i hoftene med myke knær og spenn opp bagasjerommet.",
+        "Lag vekslende eller samtidige bølger ved å kjøre armene opp og ned mens føttene forblir plantet.",
+        "Hold bølgene fra skuldrene og armene, ikke fra avrunding av ryggen.",
+        "Forkort rekkevidden eller senk tempoet når bølgemønsteret mister konsistensen."
+      ]
+    },
+    "other-box-jump": {
+      "name": "Box Jump",
+      "instructions": [
+        "Stå vendt mot en stabil boks med føttene i hoftebredde og armene klare til å svinge.",
+        "Belast hofter og knær i en kvart knebøy mens du svinger armene bakover.",
+        "Hopp på boksen, land mykt med begge føttene helt på overflaten og knærne sporende over tærne.",
+        "Stå høyt for å fullføre repetisjonen, og gå deretter ned en fot om gangen.",
+        "Velg en bokshøyde du kan lande stille på; ikke rebound umiddelbart fra en ustabil landing."
+      ]
+    },
+    "other-clean-and-jerk": {
+      "name": "Rent og rykk",
+      "instructions": [
+        "Stå over en belastet vektstang med midtfoten under stangen, grip rett utenfor bena og sett en nøytral ryggrad.",
+        "Trekk stangen fra gulvet forbi knærne, forleng deretter hoftene eksplosivt og trekk på skuldrene for å løfte den.",
+        "Slipp under stangen i en fremre stativlås, stå helt, dypp og kjør for å rykke den over hodet til låsing.",
+        "Ta i mot rykket med armene låst og føttene i en stabil splitt- eller kraftstilling, og ta deretter føttene tilbake.",
+        "Bruk støtfangerplater på en passende plattform og slipp stangen trygt ved behov."
+      ]
+    },
+    "other-dead-hang": {
+      "name": "Dead Hang",
+      "instructions": [
+        "Heng fra en pull-up-stang med et overhånds- eller blandet grep og begge armene rette.",
+        "Pakk tomlene rundt stangen og hold hendene jevnt fordelt.",
+        "La kroppen henge lenge mens du holder en liten mengde aktiv skulderspenning, og hold så lenge.",
+        "Pust jevnt og unngå å svinge eller bøye albuene.",
+        "Gå ned til en boks eller et gulv før grepet plutselig svikter."
+      ]
+    },
+    "other-farmer-carry": {
+      "name": "Farmer Carry",
+      "instructions": [
+        "Stå mellom to tunge manualer, kettlebells eller bondehåndtak og ta tak i en i hver hånd på sidene.",
+        "Dødløft dem til en høy stående stilling med skuldrene satt og bagasjerommet avstivet.",
+        "Gå fremover med korte kontrollerte skritt for den planlagte distansen mens du holder redskapene unna lårene.",
+        "Hold ribbeina stablet over bekkenet og unngå å lene deg til hver side.",
+        "Sett begge redskapene ned sammen under kontroll på slutten av bæret."
+      ]
+    },
+    "other-hang-clean": {
+      "name": "Heng Clean",
+      "instructions": [
+        "Hold en vektstang ved henget over knærne med et overhåndsgrep og en hengslet atletisk holdning.",
+        "Spenn opp bagasjerommet og hold stangen inntil lårene.",
+        "Strekk ut hoftene og knærne eksplosivt, trekk på skuldrene, trekk deretter under stangen inn i en front-rack-lås og stå.",
+        "Ta i mot stangen på skuldrene med albuene høye og føttene flate.",
+        "Senk stangen tilbake til hengende under kontroll mellom reps."
+      ]
+    },
+    "other-kettlebell-clean": {
+      "name": "Kettlebell Clean",
+      "instructions": [
+        "Stå over en kettlebell med føttene omtrent skulderbredde og klokken mellom føttene.",
+        "Hengsel ned, ta tak i håndtaket med den ene hånden, og trekk klokken tilbake mellom bena.",
+        "Strekk ut hoftene for å svinge klokken opp, og før den deretter inn i en stativposisjon på underarmen på samme side.",
+        "Hold håndleddet rett i stativet og albuen tett inntil kroppen.",
+        "Senk eller gå på klokken for neste rengjøring, og bytt hender etter de planlagte reps."
+      ]
+    },
+    "other-kettlebell-goblet-squat": {
+      "name": "Kettlebell Goblet Squat",
+      "instructions": [
+        "Hold en kettlebell ved hornene på midten av brystet med begge hender.",
+        "Stå med føttene omtrent i skulderbredde og tærne litt ut, albuene pekende ned.",
+        "Sett hoftene ned mellom knærne til dybden, og kjør deretter gjennom midtfoten for å stå.",
+        "Hold kettlebellen limt til brystet og overkroppen oppreist.",
+        "Følg knærne over tærne og hold hælene nede hele veien."
+      ]
+    },
+    "other-kettlebell-snatch": {
+      "name": "Kettlebell Snatch",
+      "instructions": [
+        "Stå over en kettlebell med føttene omtrent skulderbredde og ta tak i håndtaket med én hånd.",
+        "Gå tilbake klokken mellom bena med en hengslet atletisk holdning.",
+        "Strekk ut hoftene eksplosivt og slå hånden gjennom så klokken lander mykt over hodet med en låst arm.",
+        "Hold klokken tett på vei opp og avslutt med biceps nær øret og ribbeina ned.",
+        "Senk til svingposisjonen for neste repetisjon, og bytt hender etter det planlagte settet."
+      ]
+    },
+    "other-kettlebell-swing": {
+      "name": "Kettlebell Swing",
+      "instructions": [
+        "Stå med føttene omtrent i skulderbredde, hengslene ned og ta tak i en kettlebell med begge hendene mellom føttene.",
+        "Gå klokken tilbake mellom bena med flat rygg og myke knær.",
+        "Skyv hoftene fremover for å svinge klokken til omtrent brysthøyde, og la den deretter flyte tilbake til neste fottur.",
+        "Hold armene avslappede koblinger - kraften kommer fra hoftehengslet, ikke en knebøy eller armheving.",
+        "Parker klokken trygt på gulvet ved å hengsle etter den siste repetisjonen."
+      ]
+    },
+    "other-landmine-rotation": {
+      "name": "Landmine rotasjon",
+      "instructions": [
+        "Fest en vektstang i en landminebase og hold den frie enden med begge hender i brysthøyde.",
+        "Stå med føttene bredere enn hoftene og knærne myke, vendt mot landminen.",
+        "Roter overkroppen for å flytte stangen i en bue fra den ene hoften mot den andre, og reverser deretter.",
+        "Hold armene relativt rette og snu gjennom midtpartiet mens føttene forblir plantet.",
+        "Kontroller begge sider likt og stopp hvis korsryggen tar over vridningen."
+      ]
+    },
+    "other-medicine-ball-slam": {
+      "name": "Medisin Ball Slam",
+      "instructions": [
+        "Stå med føttene omtrent i skulderbredde og hold en ikke-sprettende medisinball på brystet eller over hodet.",
+        "Spenn opp stammen og løft deg litt opp på tærne mens du løfter ballen over hodet hvis du starter fra brystet.",
+        "Slå ballen i gulvet ved å hengsle og kjøre armene ned, ta den opp og gjenta.",
+        "Hold ansiktet fritt for returer og knærne sporer over tærne på hengslet.",
+        "Bruk en smellball på et egnet underlag som ikke skader gulvet."
+      ]
+    },
+    "other-muscle-up": {
+      "name": "Muskel-opp",
+      "instructions": [
+        "Heng fra en pull-up bar eller ringer med et falskt eller standard grep og armene rette.",
+        "Trekk brystet aggressivt mot stangen mens du holder kroppen hul eller med en kontrollert kip.",
+        "Flytt brystet over stangen og trykk til låste armer i støtteposisjon.",
+        "Hold håndleddene stablet over stangen i støtten og senk forsiktig mellom repetisjonene.",
+        "Bygg styrke med pull-up og dip-progresjoner før du tvinger full muskel-ups."
+      ]
+    },
+    "other-overhead-carry": {
+      "name": "Overhead Carry",
+      "instructions": [
+        "Trykk eller riv en manual, kettlebell eller vektstang til en låst posisjon over hodet med en eller begge armene.",
+        "Stå høyt med ribbeina nede, biceps nær ørene og stammen avstivet.",
+        "Gå fremover med korte skritt for den planlagte avstanden mens du holder lasten låst ute.",
+        "Hold håndleddet stablet over albuen og skulderen, og unngå å lene deg bort fra belastningen.",
+        "Senk redskapet forsiktig etter bæringen; for enarmsarbeid, bytt side og gjenta."
+      ]
+    },
+    "other-plate-pinch": {
+      "name": "Plate klype",
+      "instructions": [
+        "Press to glatte plater sammen i en hånd med de glatte sidene ut og felgene på linje.",
+        "Stå høyt med arbeidsarmen hengende på siden og bagasjerommet avstivet.",
+        "Hold klypen uten å hvile platene på låret i den planlagte tiden.",
+        "Hold skulderen innstilt og håndleddet nøytralt mens du puster jevnt.",
+        "Sett platene ned under kontroll, og bytt hender for den andre siden."
+      ]
+    },
+    "other-power-clean": {
+      "name": "Power Clean",
+      "instructions": [
+        "Stå over en lastet vektstang med midtfot under stangen og et overhåndsgrep like utenfor bena.",
+        "Sett en nøytral ryggrad og spenn før du skiller stangen fra gulvet.",
+        "Trekk eksplosivt gjennom hoftene, grip deretter stangen i et grunt front-rack quarter knebøy og stå.",
+        "Hold stangen tett og motta den med albuene høye og føttene flate.",
+        "Senk stangen til gulvet under kontroll eller slipp den på støtfangerplater mellom reps."
+      ]
+    },
+    "other-power-snatch": {
+      "name": "Power Snatch",
+      "instructions": [
+        "Stå over en lastet vektstang med et bredt grep og midtfot under stangen.",
+        "Sett en nøytral ryggrad, spenn og hold skuldrene over stangen i starten.",
+        "Trekk stangen fra gulvet og strekk ut hoftene eksplosivt, og ta den deretter over hodet i en grunne knebøy og stå.",
+        "Avslutt med låste armer, stangen over midten av foten, og hodet gjennom.",
+        "Bruk lette teknikkbelastninger til overliggende fangst er stabilt."
+      ]
+    },
+    "other-prowler-push": {
+      "name": "Prowler Push",
+      "instructions": [
+        "Last en prowler jevnt og vend den med begge hender på de høye eller lave håndtakene.",
+        "Len deg fremover til en atletisk holdning med begge føttene bak sleden og bagasjerommet avstivet.",
+        "Kjør fremover med korte kraftige skritt, og hold kontinuerlig trykk gjennom håndtakene.",
+        "Hold ryggraden lang og øynene se noen meter frem.",
+        "Rydd kjørefeltet før start og stopp før fotgrepet eller holdningen svikter."
+      ]
+    },
+    "other-sled-pull": {
+      "name": "Sledetrekk",
+      "instructions": [
+        "Fest en sele eller stropper til en lastet slede og vend deg bort fra den med stroppene stramme.",
+        "Len deg litt fremover med myke knær og avstivet stamme.",
+        "Gå eller marsjer fremover, trekk sleden bak deg med korte kjøretrinn.",
+        "Unngå at stroppene trekker skuldrene til et skuldertrekk.",
+        "Rydd stien bak deg og stopp hvis sleden fanger eller kroppsholdningen kollapser."
+      ]
+    },
+    "other-sled-push": {
+      "name": "Slede Push",
+      "instructions": [
+        "Belast sleden jevnt og plasser begge hendene på stengene eller stolpene i behagelig høyde.",
+        "Len deg inn i sleden med begge føttene bak den og kroppen i en rett linje fra hode til hæler.",
+        "Kjør sleden fremover med korte kraftige skritt mens du holder konstant armtrykk.",
+        "Hold hoftene fra å stige mye høyere enn skuldrene.",
+        "Bruk en klar torv eller betongbane og stopp før teknikken bryter."
+      ]
+    },
+    "other-snatch": {
+      "name": "Snap",
+      "instructions": [
+        "Stå over en lastet vektstang med et bredt grep, midtfot under stangen og en nøytral ryggrad.",
+        "Trekk stangen fra gulvet forbi knærne mens du holder den tett og skuldrene over stangen.",
+        "Strekk ut hoftene eksplosivt, trekk deretter under for å fange stangen over hodet i full knebøy og stå for å avslutte.",
+        "Lås armene hardt i haken med stangen over midtfoten.",
+        "Tren med teknikkbelastninger og støtfangerplater; slipp stangen trygt når fangsten svikter."
+      ]
+    },
+    "other-suitcase-carry": {
+      "name": "Koffert bære",
+      "instructions": [
+        "Markløft en tung manual eller kettlebell til siden av den ene hoften som om du holder en koffert.",
+        "Stå høyt med den frie armen avslappet eller litt ut for balanse og bagasjerommet støttet mot det magre.",
+        "Gå fremover med korte skritt for den planlagte distansen uten å la lasten trekke deg sidelengs.",
+        "Hold begge skuldrene i vater og ribbeina stablet over bekkenet.",
+        "Sett ned redskapet, bytt hender og bær samme avstand på den andre siden."
+      ]
+    },
+    "other-thruster": {
+      "name": "Thruster",
+      "instructions": [
+        "Hold en vektstang i fremre stativ eller manualer ved skuldrene med føttene omtrent i skulderbredde.",
+        "Spenn opp bagasjerommet og hold albuene oppe i stativposisjon.",
+        "Sitt i en hel knebøy foran, kjør deretter opp og press vekten over hodet i en kontinuerlig bevegelse.",
+        "Lås armene over hodet når hoftene og knærne strekker seg, og senk deretter vekten tilbake til skuldrene.",
+        "Ikke pause lenge i knebøyen hvis målet er en thruster-syklus; keep the bar path close."
+      ]
+    },
+    "other-tire-flip": {
+      "name": "Dekk Flip",
+      "instructions": [
+        "Kjør mot et stort dekk, sett deg på huk og skyv begge hendene under den nære kanten med flat rygg.",
+        "Spenn hardt og sett føttene omtrent skulderbredde bak dekket.",
+        "Kjør gjennom bena for å løfte dekket opp på kanten, og skyv det deretter over for å fullføre flippen.",
+        "Gå frem og tilbakestill håndposisjonen for neste vending i stedet for å runde baksiden for å øse.",
+        "Rydd landingsområdet og velg et dekk du kan kontrollere uten å miste grepet under kanten."
+      ]
+    },
+    "other-turkish-get-up": {
+      "name": "Tyrkisk Get-Up",
+      "instructions": [
+        "Ligg på ryggen med en kettlebell i den ene hånden låst mot taket, bøyd kne på samme side og den frie armen på gulvet i ca. 45°.",
+        "Hold øynene på kettlebellen og press arbeidsskulderen aktivt inn i gulvet for å starte.",
+        "Rull til den frie albuen, deretter hånden, sveip det rette beinet gjennom til et kne, stå høyt og snu trinnene til gulvet.",
+        "Hold den belastede armen vertikal over skulderen i hvert trinn.",
+        "Fullfør sekvensen på den ene siden, bytt deretter kettlebellen til den andre hånden og speil benposisjonene."
+      ]
+    },
+    "other-wall-ball": {
+      "name": "Veggball",
+      "instructions": [
+        "Stå vendt mot et veggmål og hold en medisinball ved brystet med føttene omtrent i skulderbredde.",
+        "Spenn opp bagasjerommet og hold albuene under ballen.",
+        "Sitt i en knebøy, kjør deretter opp og kast ballen til målet i en bevegelse.",
+        "Ta returen ved brystet og gå umiddelbart ned i neste knebøy.",
+        "Velg en målhøyde og ballvekt som lar deg fange uten å kollapse overkroppen fremover."
+      ]
+    },
+    "shoulders-arnold-press": {
+      "name": "Arnold Press",
+      "instructions": [
+        "Sitt på en benk med ryggstøtte og hold dumbbells i skulderhøyde, håndflatene vendt mot deg.",
+        "Spenn opp stammen og hold begge føttene plantet på gulvet.",
+        "Trykk manualene over hodet mens du roterer håndflatene fremover, og reverser deretter rotasjonen på vei ned.",
+        "Avslutt med armene nesten strake uten å trekke skuldrene inn i ørene.",
+        "Hold ribbeina nede slik at korsryggen ikke buer av puten."
+      ]
+    },
+    "shoulders-bradford-press": {
+      "name": "Bradford Press",
+      "instructions": [
+        "Sitt eller stå med en lett vektstang foran på skuldrene med et overhåndsgrep.",
+        "Spenn opp bagasjerommet og hold albuene under stangen.",
+        "Trykk stangen akkurat høyt nok til å tømme hodet, flytt den til bakre stativet, senk litt, og reverser deretter forover.",
+        "Bruk en kontinuerlig grunne bane rundt hodet i stedet for å låse ut over hodet hver gang.",
+        "Velg en lett belastning – denne variasjonen belaster skuldrene når de stresses eller overbelastes."
+      ]
+    },
+    "shoulders-cable-front-raise": {
+      "name": "Kabel foran heving",
+      "instructions": [
+        "Fest et enkelt håndtak til den lave remskiven og stå vendt bort eller sidelengs slik at kabelen rydder kroppen.",
+        "Hold håndtaket i den ene hånden ved låret med en myk albuebøy og spenn opp bagasjerommet.",
+        "Løft armen fremover til omtrent skulderhøyde, ta en pause og senk deretter sakte.",
+        "Hold håndflaten vendt ned eller litt inn og unngå å svinge overkroppen.",
+        "Fullfør repsene på den ene armen, og bytt deretter håndtaket til den andre hånden."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven lavt slik at kabelen beveger seg oppover foran kroppen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klem håndtaket sikkert og sett inn vektstabelpinnen helt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå høyt vendt bort eller mot stabelen ettersom kabelbanen krever; hold en myk albue."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å svinge overkroppen for å flytte lasten."
+        }
+      ]
+    },
+    "shoulders-cable-lateral-raise": {
+      "name": "Kabel sideveis heving",
+      "instructions": [
+        "Fest et enkelt håndtak til den lave remskiven og stå på siden slik at arbeidsarmen er lengst fra stabelen.",
+        "Hold håndtaket foran nær låret med en myk albuebøy og spenn høyt.",
+        "Løft armen ut til siden til hånden når omtrent skulderhøyde, senk deretter under kontroll.",
+        "Led med albuen og hold håndleddet nøytralt i stedet for å helle hånden ned.",
+        "Fullfør settet på den ene siden, snu deg deretter og løft med den andre armen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven lavt ved siden av deg slik at kabelen stiger i skulderbladsplanet."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klem håndtaket sikkert og sett inn vektstabelpinnen helt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå på siden av stabelen med den ytre armen som holder i håndtaket; torso forblir stille."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å svinge overkroppen for å flytte lasten."
+        }
+      ]
+    },
+    "shoulders-cable-rear-delt-fly": {
+      "name": "Kabel Bakre Delt Fly",
+      "instructions": [
+        "Sett to trinser i omtrent skulderhøyde og ta tak i venstre håndtak med høyre hånd og høyre håndtak med venstre.",
+        "Stå sentrert med armene i kryss foran brystet og en myk albuebøyning.",
+        "Åpne begge armene ut til sidene til de er på linje med skuldrene, klem sammen de bakre delene og gå sakte tilbake.",
+        "Hold overkroppen i ro og albuene i en fast myk bøy.",
+        "Bruk en lett belastning slik at bevegelsen forblir i de bakre skuldrene, ikke de øvre fellene."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven i omtrent øvre brysthøyde for en omvendt flybane."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klem håndtaket sikkert og sett inn vektstabelpinnen helt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Gå tilbake med myke albuer og trekk håndtakene fra hverandre ved å drive albuene tilbake."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å svinge overkroppen for å flytte lasten."
+        }
+      ]
+    },
+    "shoulders-cable-upright-row": {
+      "name": "Kabel oppreist rad",
+      "instructions": [
+        "Fest en rett stang eller EZ-stang til en lav kabel og stå høyt vendt mot stabelen.",
+        "Hold stangen med et smalt-til-skulderbredde overhåndsgrep, armene lange.",
+        "Trekk stangen opp langs kroppen til den når omtrent nedre brysthøyde, albuene høye og utover.",
+        "Ta en kort pause, og senk deretter med kontroll til strake armer.",
+        "Hold håndleddene nøytrale og stopp hvis skuldrene klemmer; ikke rykk forbi komfortområdet."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Remskive Høyde",
+          "description": "Sett remskiven lavt slik at kabelen beveger seg oppover langs torsoen."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaksfeste",
+          "description": "Klem håndtaket sikkert og sett inn vektstabelpinnen helt."
+        },
+        {
+          "index": 2,
+          "title": "Startposisjon",
+          "description": "Stå tett inntil stabelen med stangen eller tauet i lårhøyde før du drar opp."
+        },
+        {
+          "index": 3,
+          "title": "Kroppsjustering",
+          "description": "Hold ribbeina nede og unngå å svinge overkroppen for å flytte lasten."
+        }
+      ]
+    },
+    "shoulders-cuban-press": {
+      "name": "Kubansk presse",
+      "instructions": [
+        "Hold lette manualer på sidene, og ro dem deretter oppreist til overarmene er parallelle med gulvet.",
+        "Roter skuldrene utvendig slik at underarmene peker opp og vektene sitter over albuene.",
+        "Press manualene over hodet til strake armer.",
+        "Vend banen: Senk til ekstern rotasjonshold, roter deretter og senk til sidene.",
+        "Bruk lett belastning og jevnt tempo; dette er en skulderhelse- og kontrollbevegelse."
+      ]
+    },
+    "shoulders-dumbbell-upright-row": {
+      "name": "Hantel oppreist rad",
+      "instructions": [
+        "Stå med en manual i hver hånd foran lårene med håndflatene vendt mot kroppen.",
+        "Spenn opp bagasjerommet og hold føttene i hoftebreddes avstand.",
+        "Trekk manualene rett opp mot nedre bryst, ledende med albuene, og senk deretter sakte.",
+        "Hold manualene tett inntil kroppen og stopp rundt nedre brysthøyde.",
+        "Reduser rekkevidden eller belastningen hvis skuldrene føles i klem på toppen."
+      ]
+    },
+    "shoulders-front-raise": {
+      "name": "Forhøyning foran",
+      "instructions": [
+        "Stå med en manual i hver hånd på forsiden av lårene med håndflatene vendt mot lårene.",
+        "Spenn opp bagasjerommet og hold en myk bøy i begge albuene.",
+        "Hev en eller begge armene fremover til omtrent skulderhøyde, ta en pause og senk deretter under kontroll.",
+        "Hold ribbeina nede og unngå å lene deg tilbake for å svinge vektene opp.",
+        "Hvis du hever en arm om gangen, bytt side hver repetisjon med samme tempo."
+      ]
+    },
+    "shoulders-handstand-push-up": {
+      "name": "Håndstående push-up",
+      "instructions": [
+        "Spark opp i et håndstående mot en klar vegg med begge hendene på gulvet i omtrent skulderbreddes avstand.",
+        "Vend veggen eller tilbake til veggen med kroppen stablet og kjernen avstivet.",
+        "Bøy albuene for å senke hodet mot gulvet, og press deretter tilbake til strake armer.",
+        "Hold albuene sporende fremover/litt ut og nakken nøytral.",
+        "Bruk en gjeddeprogresjon eller redusert rekkevidde til du kan kontrollere hele nedstigningen og trykke."
+      ]
+    },
+    "shoulders-landmine-lateral-raise": {
+      "name": "Landmine lateral heving",
+      "instructions": [
+        "Stå sidelengs til en landmine med den frie enden av stangen i den ytre hånden ved hoften.",
+        "Spenn opp bagasjerommet og hold en myk albuebøyning.",
+        "Hev stangen ut og litt fremover i en bred bue til omtrent skulderhøyde.",
+        "Senk under kontroll til hoften uten å la platen krasje.",
+        "Hold skulderbladet stabilt og bytt side etter at du er ferdig med settet."
+      ]
+    },
+    "shoulders-lateral-raise": {
+      "name": "Lateral heving",
+      "instructions": [
+        "Stå med en manual i hver hånd på sidene med håndflatene vendt innover.",
+        "Støt høyt med en myk bøy i begge albuene og ribbeina ned.",
+        "Løft begge armene ut til sidene til hendene når omtrent skulderhøyde, senk deretter sakte.",
+        "Led litt med albuene og hold håndleddene nøytrale.",
+        "Stopp før du trekker på skuldrene og ikke sving overkroppen for å få fart."
+      ]
+    },
+    "shoulders-lu-raise": {
+      "name": "Lu Raise",
+      "instructions": [
+        "Stå med lette manualer på forsiden av lårene med en lett lening fremover fra hoftene.",
+        "Hold en myk albuebøy og spenn opp bagasjerommet.",
+        "Hev manualene i en bred bue som blander en front- og sidebane til armene er over hodet, og reverser deretter sakte.",
+        "Hold kontinuerlig spenning og unngå å bøye albuene til en press.",
+        "Bruk en lett belastning – denne langdistansehøyningen er lett å jukse med kroppssving."
+      ]
+    },
+    "shoulders-machine-lateral-raise": {
+      "name": "Maskin lateral heving",
+      "instructions": [
+        "Juster maskinsetet slik at putene hviler på de ytre overarmene rett over albuene.",
+        "Sitt høyt, hold i håndtakene hvis de finnes, og plasser begge armene mot putene.",
+        "Løft begge armene ut til sidene til de nærmer seg skulderhøyde, senk deretter under kontroll.",
+        "Hold håndleddene avslappet og overkroppen mot ryggputen.",
+        "Unngå å trekke på skuldrene i putene eller sprette ut av bunnen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Sitt slik at skulderleddene er på linje med maskinens dreiepunkt og putene møter de ytre armene."
+        },
+        {
+          "index": 1,
+          "title": "Pute/håndtaksposisjon",
+          "description": "Hvil de ytre armene på putene uten å trekke skuldrene opp i ørene."
+        },
+        {
+          "index": 2,
+          "title": "Ryggstøtte",
+          "description": "Hold overkroppen stille mot puten; heve med skuldrene, ikke en mager."
+        },
+        {
+          "index": 3,
+          "title": "Bevegelsesområde",
+          "description": "Hev til omtrent skulderhøyde eller litt under; stoppe hvis nakken eller fellene tar overhånd."
+        }
+      ]
+    },
+    "shoulders-machine-shoulder-press": {
+      "name": "Maskin skulderpress",
+      "instructions": [
+        "Juster setet slik at maskinhåndtakene starter rundt skulderhøyde når ryggen er mot puten.",
+        "Plasser begge føttene på gulvet og grip håndtakene jevnt med håndleddene stablet.",
+        "Trykk på håndtakene over hodet til armene er nesten strake, og senk deretter til omtrent ørehøyde.",
+        "Hold hodet og ryggen mot puten og ribbeina nede.",
+        "Velg en setehøyde som ikke fremtvinger en trukket startposisjon."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Juster setet slik at håndtakene starter rundt øvre bryst til hakehøyde – ikke ved siden av ørene."
+        },
+        {
+          "index": 1,
+          "title": "Håndtaks startposisjon",
+          "description": "Håndtakene skal være omtrent på linje med fronten av skuldrene før du trykker."
+        },
+        {
+          "index": 2,
+          "title": "Ryggstøtte",
+          "description": "Hold ryggen og hodet mot puten; unngå buing for å fullføre tunge reps."
+        },
+        {
+          "index": 3,
+          "title": "Albuejustering",
+          "description": "Albuene holder seg under håndtakene; ikke blusse inn i en ekstrem bak-nakken-bane."
+        }
+      ]
+    },
+    "shoulders-overhead-press": {
+      "name": "Overhead Press",
+      "instructions": [
+        "Stå med en vektstang i det fremre stativet over skuldrene med et overhåndsgrep like utenfor skulderbredden.",
+        "Still føttene rundt hoftebredde, spenn opp bagasjerommet og hold albuene litt foran stangen.",
+        "Press stangen rett over hodet til armene låser seg med hodet gjennom, og senk deretter til skuldrene.",
+        "Hold ribbeina stablet over bekkenet og unngå å lene deg tilbake i en benkpressvinkel.",
+        "Beveg hodet litt bakover på vei opp og frem igjen når stangen passerer, uten å slenge på nakken."
+      ]
+    },
+    "shoulders-pike-push-up": {
+      "name": "Pike Push-Up",
+      "instructions": [
+        "Plasser begge hendene på gulvet og gå inn med føttene slik at hoftene reiser seg til en omvendt V-gjedde.",
+        "Hold bena så strake som bevegeligheten tillater og hodet mellom armene.",
+        "Bøy albuene for å senke hodet mot gulvet mellom hendene, og trykk deretter tilbake til gjedda.",
+        "Hold hoftene høye slik at skuldrene, ikke brystet, gjør det meste av pressingen.",
+        "Hev føttene på en boks først etter at gulvgjedda er kontrollert."
+      ]
+    },
+    "shoulders-push-press": {
+      "name": "Trykk Trykk",
+      "instructions": [
+        "Stå med vektstang i fremre stativ, føttene i hoftebredde og hendene like utenfor skuldrene.",
+        "Spenn opp stammen og hold albuene litt foran stangen.",
+        "Dypp knærne noen centimeter, kjør deretter oppover og trykk stangen over hodet for å låse ut mens bena strekker seg.",
+        "Senk stangen tilbake til skuldrene under kontroll før neste dukkert.",
+        "Hold dippen rett ned – ikke gjør den til en fremoverlent eller dyp knebøy."
+      ]
+    },
+    "shoulders-rear-delt-fly": {
+      "name": "Bakre Delt Fly",
+      "instructions": [
+        "Hold en manual i hver hånd og hengsel ved hoftene til overkroppen er nesten parallelt med gulvet, armene hengende.",
+        "Hold en myk fast albuebøy og spenn opp bagasjerommet.",
+        "Løft begge armene ut til sidene til de er på linje med skuldrene, klem og senk deretter sakte.",
+        "Bly med albuene og hold nakken lang fremfor å se opp.",
+        "Bruk lett belastning og stopp hvis de øvre fellene overtar bevegelsen."
+      ]
+    },
+    "shoulders-reverse-pec-deck": {
+      "name": "Omvendt Pec-dekk",
+      "instructions": [
+        "Juster det omvendte pec-dekksetet slik at håndtakene er i skulderhøyde og brystet ditt er mot puten.",
+        "Ta tak i håndtakene med armene strukket fremover og en myk albuebøyning.",
+        "Åpne begge armene ut til sidene til de er på linje med overkroppen, ta en pause og gå sakte tilbake.",
+        "Hold brystet på puten og unngå å trekke på skuldrene.",
+        "Velg en last som lar de bakre deltene fungere uten å rykke i stabelen."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Setehøyde",
+          "description": "Still inn setet slik at håndtak eller puter møter midten av brystet til skulderhøyde med armene strukket fremover."
+        },
+        {
+          "index": 1,
+          "title": "Brystpute",
+          "description": "Hold lett kontakt med brystputen; ikke knus brystbenet inn i det for å fullføre reps."
+        },
+        {
+          "index": 2,
+          "title": "Albueposisjon",
+          "description": "Hold en myk albuebøy og sveip armene bakover – unngå å trekke på skuldrene."
+        },
+        {
+          "index": 3,
+          "title": "Skulderstart",
+          "description": "Begynn med armene som strekker seg fremover og scapulae satt; åpne kun gjennom et smertefritt område."
+        }
+      ]
+    },
+    "shoulders-seated-barbell-press": {
+      "name": "Sittende vektstangpresse",
+      "instructions": [
+        "Sitt på en benk med ryggstøtte og ta ut en vektstang fra forsiden av skuldrene eller et stativ.",
+        "Plant begge føttene, spenn opp stammen og ta et jevnt overhåndsgrep like utenfor skulderbredden.",
+        "Trykk på stangen over hodet for å låse ut, og senk den deretter til omtrent hake- eller skulderhøyde.",
+        "Hold ryggen mot puten og håndleddene stablet over albuene.",
+        "Unngå overdreven ryggbue for å fullføre pressen."
+      ]
+    },
+    "shoulders-seated-dumbbell-press": {
+      "name": "Sittende manualpress",
+      "instructions": [
+        "Sitt på en benk med ryggstøtte og hold en manual i hver hånd i skulderhøyde, håndflatene fremover.",
+        "Plant begge føttene og fest stammen mot puten.",
+        "Press begge manualene over hodet til armene er nesten strake, og senk deretter ned til skuldrene.",
+        "Hold håndleddene stablet og unngå å klinge hardt med manualene på toppen.",
+        "Ikke la ribbeina blusse så langt at korsryggen forlater puten."
+      ]
+    },
+    "shoulders-single-arm-dumbbell-press": {
+      "name": "Enarms manualpress",
+      "instructions": [
+        "Sitt eller stå mens du holder en manual i skulderhøyde med håndleddet stablet over albuen.",
+        "Fest stammen hardt slik at ribbeina holder seg stablet over bekkenet.",
+        "Press manualen over hodet til en rett arm uten å lene deg for mye bort fra vekten.",
+        "Senk med kontroll til skulderen, og gjenta deretter; bytt arm etter settet.",
+        "Hold nakken lang og stopp hvis den nedre ryggen buer seg for å fullføre lockouten."
+      ]
+    },
+    "shoulders-standing-dumbbell-press": {
+      "name": "Stående manualpress",
+      "instructions": [
+        "Stå med en manual i hver hånd i skulderhøyde med håndflatene vendt fremover eller litt inn.",
+        "Still føttene rundt hoftebredde, spenn opp bagasjerommet og hold ribbeina nede.",
+        "Press begge manualene over hodet til nesten lockout, og senk deretter ned til skuldrene under kontroll.",
+        "Hold albuene under håndleddene og unngå å lene deg tilbake.",
+        "Stopp settet hvis du må dyppe knærne eller svinge for å flytte vekten."
+      ]
+    },
+    "shoulders-upright-row": {
+      "name": "Oppreist rad",
+      "instructions": [
+        "Stå med en vektstang foran lårene med et overhåndsgrep omtrent skulderbredde eller litt smalere.",
+        "Spenn opp bagasjerommet og hold stangen tett inntil kroppen.",
+        "Trekk stangen rett opp mot nedre bryst, ledende med albuene, og senk deretter sakte.",
+        "Stopp rundt nedre brysthøyde i stedet for å tvinge stangen under haken.",
+        "Utvid grepet eller forkort rekkevidden hvis skuldrene kjennes i klem."
+      ]
+    },
+    "shoulders-y-raise": {
+      "name": "Y-løft",
+      "instructions": [
+        "Hold lette manualer og heng litt eller legg deg med brystet ned på en skråbenk.",
+        "Start med armene hengende lange, tomlene peker omtrent fremover eller opp.",
+        "Hev armene til en Y-form ca. 30–45 grader fra overhead, ledende med tomlene.",
+        "Ta en pause på toppen uten å trekke på skuldrene, og senk deretter sakte.",
+        "Bruk en lett last; dette er en kontrolløvelse, ikke et tungt styrkeløft."
+      ]
+    }
+  }
+}

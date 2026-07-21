@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "hy",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Կուրծք և մեջք (մեքենա)"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Համրերով կուրծք և մեջք"
+    },
+    "superset-biceps-triceps": {
+      "name": "Բիցեպս և տրիցեպս"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Քվադրիցեպս և ազդրի հետին"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Նստարանային մամուլ + Ձողով թեքված քաշում"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Թեքված վերև համրերով մամուլ + Վերքաշումներ"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Գլխավերև մամուլ + Լատերի ձգում"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Հրումներ + Նստած կաբելային քաշում"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Հետևի սքվաթ + Վերքաշումներ"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Ռումինական քաշում + Համրերով մամուլ"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Քայլող թռիչքներ + Նստած համրերով մամուլ"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Ոտքերի մամուլ + Ձողով թեքված քաշում"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Թեքված վերև մամուլ + Համրերով մամուլ"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Վերքաշումներ + Ուղիղ ձեռքերով ձգում"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Հետևի սքվաթ + Ոտքի երկարացում"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Ռումինական քաշում + Նստած ոտքի ծալում"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Ձողով բիցեպս ծալում + Տրիցեպս ձգում"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Համրերով թռիչք + Հետին դելտ թռիչք"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Դաստակի ծալում + Հակառակ դաստակի ծալում"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Կողային բարձրացում + Դեմքի քաշում"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Առջևի բարձրացում + Հակառակ պեկ-դեկ"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Արնոլդ մամուլ + Ուղիղ քաշում"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-ձողով ծալում + Գանգ ջախջախիչ"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Մուրճ ծալում + Գլխավերև տրիցեպս երկարացում"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Կաբելային բիցեպս ծալում + Պարանով տրիցեպս ձգում"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Կախված ոտքերի բարձրացում + Պլանկ"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Կաբելային կրանչ + Ռուսական պտույտ"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Որովայնի անիվ + Կողային տախտակ"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Թեքված վերև համրերով մամուլ + Համրերով մամուլ + Թեքված ներքև մամուլ"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Լատերի ձգում + Նստած կաբելային քաշում + Ձողով շրագեր"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Ոտքի երկարացում + Նստած ոտքի ծալում + Ազդրի հրում"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Առջևի բարձրացում + Կողային բարձրացում + Հետին դելտ թռիչք"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Ձողով բիցեպս ծալում + Տրիցեպս ձգում + Դաստակի ծալում"
+    }
+  }
+}

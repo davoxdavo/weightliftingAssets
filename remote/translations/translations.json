@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784630415,
+  "lastSyncedAt": 1784631358,
   "strings": {
     "Balanced": {
       "range": {
@@ -540,13 +540,13 @@
         "en": "Cancel",
         "ru": "Отмена",
         "hy": "Չեղարկել",
-        "sv": "Avboka",
-        "nb": "Kansellere",
+        "sv": "Avbryt",
+        "nb": "Avbryt",
         "nl": "Annuleren",
-        "da": "Ophæve",
-        "pl": "Anulować",
+        "da": "Annuller",
+        "pl": "Anuluj",
         "fr": "Annuler",
-        "ar": "يلغي"
+        "ar": "إلغاء"
       },
       "clear": {
         "en": "Clear",
@@ -580,21 +580,21 @@
         "nb": "Slett",
         "nl": "Verwijderen",
         "da": "Slet",
-        "pl": "Usuwać",
+        "pl": "Usuń",
         "fr": "Supprimer",
-        "ar": "يمسح"
+        "ar": "حذف"
       },
       "done": {
         "en": "Done",
         "ru": "Готово",
         "hy": "Պատրաստ",
-        "sv": "Gjort",
+        "sv": "Klar",
         "nb": "Ferdig",
         "nl": "Klaar",
         "da": "Færdig",
-        "pl": "Zrobione",
-        "fr": "Fait",
-        "ar": "منتهي"
+        "pl": "Gotowe",
+        "fr": "Terminé",
+        "ar": "تم"
       },
       "edit": {
         "en": "Edit",
@@ -613,12 +613,12 @@
         "ru": "Сохранить",
         "hy": "Պահպանել",
         "sv": "Spara",
-        "nb": "Spare",
-        "nl": "Redden",
-        "da": "Spare",
-        "pl": "Ratować",
-        "fr": "Sauvegarder",
-        "ar": "يحفظ"
+        "nb": "Lagre",
+        "nl": "Opslaan",
+        "da": "Gem",
+        "pl": "Zapisz",
+        "fr": "Enregistrer",
+        "ar": "حفظ"
       }
     },
     "Distance": {
@@ -3563,13 +3563,13 @@
         "en": "Cancel",
         "ru": "Отмена",
         "hy": "Չեղարկել",
-        "sv": "Avboka",
-        "nb": "Kansellere",
+        "sv": "Avbryt",
+        "nb": "Avbryt",
         "nl": "Annuleren",
-        "da": "Ophæve",
-        "pl": "Anulować",
+        "da": "Annuller",
+        "pl": "Anuluj",
         "fr": "Annuler",
-        "ar": "يلغي"
+        "ar": "إلغاء"
       },
       "create": {
         "en": "Create File",
@@ -4293,13 +4293,13 @@
         "en": "Cancel",
         "ru": "Отмена",
         "hy": "Չեղարկել",
-        "sv": "Avboka",
-        "nb": "Kansellere",
+        "sv": "Avbryt",
+        "nb": "Avbryt",
         "nl": "Annuleren",
-        "da": "Ophæve",
-        "pl": "Anulować",
+        "da": "Annuller",
+        "pl": "Anuluj",
         "fr": "Annuler",
-        "ar": "يلغي"
+        "ar": "إلغاء"
       },
       "conflict.action": {
         "en": "Action",
@@ -5889,13 +5889,13 @@
         "en": "Continue",
         "ru": "Продолжить",
         "hy": "Շարունակել",
-        "sv": "Fortsätta",
-        "nb": "Fortsette",
+        "sv": "Fortsätt",
+        "nb": "Fortsett",
         "nl": "Doorgaan",
-        "da": "Fortsætte",
-        "pl": "Kontynuować",
+        "da": "Fortsæt",
+        "pl": "Kontynuuj",
         "fr": "Continuer",
-        "ar": "يكمل"
+        "ar": "متابعة"
       },
       "exercise.body": {
         "en": "Tap through the steps. Muscle roles power Insights and balance suggestions.",
@@ -6909,13 +6909,13 @@
         "en": "Done",
         "ru": "Готово",
         "hy": "Պատրաստ է",
-        "sv": "Gjort",
+        "sv": "Klar",
         "nb": "Ferdig",
         "nl": "Klaar",
         "da": "Færdig",
-        "pl": "Zrobione",
-        "fr": "Fait",
-        "ar": "منتهي"
+        "pl": "Gotowe",
+        "fr": "Terminé",
+        "ar": "تم"
       },
       "library.intro": {
         "en": "Jump to any topic, or replay a short session.",
@@ -7161,13 +7161,13 @@
         "en": "Continue",
         "ru": "Продолжить",
         "hy": "Շարունակել",
-        "sv": "Fortsätta",
-        "nb": "Fortsette",
+        "sv": "Fortsätt",
+        "nb": "Fortsett",
         "nl": "Doorgaan",
-        "da": "Fortsætte",
-        "pl": "Kontynuować",
+        "da": "Fortsæt",
+        "pl": "Kontynuuj",
         "fr": "Continuer",
-        "ar": "يكمل"
+        "ar": "متابعة"
       },
       "nudge.notNow": {
         "en": "Not now",
@@ -10767,13 +10767,13 @@
         "en": "Cancel",
         "ru": "Отмена",
         "hy": "Չեղարկել",
-        "sv": "Avboka",
-        "nb": "Kansellere",
+        "sv": "Avbryt",
+        "nb": "Avbryt",
         "nl": "Annuleren",
-        "da": "Ophæve",
-        "pl": "Anulować",
+        "da": "Annuller",
+        "pl": "Anuluj",
         "fr": "Annuler",
-        "ar": "يلغي"
+        "ar": "إلغاء"
       },
       "continue": {
         "en": "Continue Workout",

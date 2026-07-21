@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "sv",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Maskinbröstpress + Sittande kabelrad"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Hantel Bänkpress + Bröststödd rad"
+    },
+    "superset-biceps-triceps": {
+      "name": "Dumbbell Curl + Triceps Pushdown"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Benförlängning + Sittande Ben Curl"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Bänkpress + skivstångsrad"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Lutande Hantel Tryck + Pull-Up"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Overhead Tryck + Lat Pulldown"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Push-Up + Sittande kabelrad"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Back Squat + Pull-Up"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Rumänsk marklyft + hantelbänkpress"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Walking Lunge + Sittande Hantelpress"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Benpress + Skivstångsrad"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Incline Bänkpress + Hantel Bänkpress"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Pull-Up + Straight-Arm Pulldown"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Back Squat + Leg Extension"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Rumänsk marklyft + sittande bencurl"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Barbell Curl + Triceps Pushdown"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Hantelfluga + Bakre Deltfluga"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Wrist Curl + Reverse Wrist Curl"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Lateral Raise + Face Pull"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Fronthöjning + Reverse Pec-däck"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Arnold Tryck + Upprätt rad"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Skull Crusher"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Hammer Curl + Overhead Triceps Extension"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Cable Curl + Rope Pushdown"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Hängande benhöjning + planka"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Cable Crunch + Russian Twist"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Ab Wheel + Side Plank"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Lutande hantelpress + hantelbänkpress + avböj bänkpress"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Lat Pulldown + Sittande kabelrad + skivstångsrykning"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Benförlängning + Sittande Ben Curl + Hip Thrust"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Front Raise + Lateral Raise + Bakre Delt Fly"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Skivstångscurl + Triceps Pushdown + Handledscurl"
+    }
+  }
+}

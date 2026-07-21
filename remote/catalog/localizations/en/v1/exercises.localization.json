@@ -1,0 +1,3943 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "version": 1,
+  "catalogVersion": 8,
+  "exercises": {
+    "arms-barbell-curl": {
+      "name": "Barbell Curl",
+      "instructions": [
+        "Stand holding a barbell with an underhand grip about shoulder-width and the bar against the thighs.",
+        "Keep the upper arms pinned to the sides and brace the trunk tall.",
+        "Curl the bar to the fronts of the shoulders by bending only at the elbows, then lower to full extension.",
+        "Keep the wrists aligned with the forearms and avoid swinging the torso.",
+        "Do not let the elbows drift forward to shorten the eccentric."
+      ]
+    },
+    "arms-bayesian-curl": {
+      "name": "Bayesian Curl",
+      "instructions": [
+        "Attach a single handle to the low pulley and stand facing away with the working arm reaching slightly behind the torso.",
+        "Take a staggered stance for balance and brace the trunk.",
+        "Curl the handle forward by bending the elbow while keeping the upper arm still, then return to the stretched start.",
+        "Keep continuous cable tension and a neutral wrist.",
+        "Finish the reps on one arm, then switch the handle and stance to the other side."
+      ]
+    },
+    "arms-bench-dip": {
+      "name": "Bench Dip",
+      "instructions": [
+        "Sit on the edge of a stable bench, place both hands beside the hips on the bench, and walk the feet forward.",
+        "Support yourself on straight arms with the hips just in front of the bench edge.",
+        "Bend the elbows to lower the body until the upper arms are near parallel, then press back up.",
+        "Keep the shoulders down and the elbows tracking back rather than flaring wide.",
+        "Bend the knees more to make it easier, or elevate the feet only if the shoulders stay comfortable."
+      ]
+    },
+    "arms-cable-curl": {
+      "name": "Cable Curl",
+      "instructions": [
+        "Attach a straight or EZ bar to the low pulley and stand facing the stack with the cable taut.",
+        "Take an underhand grip, pin the upper arms to the sides, and stand tall.",
+        "Curl the bar toward the shoulders, squeeze, then lower to full arm extension against the cable.",
+        "Keep the elbows still and the wrists neutral.",
+        "Avoid leaning back to finish the curl as the stack gets heavy."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley low so the cable travels upward through the curl without yanking your shoulders forward."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Use a straight or EZ bar attachment clipped firmly; confirm the pin is fully seated in the stack."
+        },
+        {
+          "index": 2,
+          "title": "Stance & Distance",
+          "description": "Stand far enough that the weight stays clear of the stack at the bottom, elbows close to your sides."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep a tall torso and soft knees; avoid leaning back to swing the load."
+        }
+      ]
+    },
+    "arms-cable-overhead-tricep-extension": {
+      "name": "Cable Overhead Tricep Extension",
+      "instructions": [
+        "Attach a rope to the high pulley, face away from the stack, and hold both rope ends behind the head with elbows bent.",
+        "Take a staggered stance, brace the trunk, and keep the upper arms beside the ears.",
+        "Extend the elbows until the arms are straight overhead, then return the rope behind the head.",
+        "Keep the elbows pointed forward/up and minimize upper-arm travel.",
+        "Use a load you can control without arching the lower back."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the rope or bar starts above your head with tension already on the cable."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a rope or angled bar securely; keep hands clear of the stack path."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Step forward until elbows point forward and upper arms stay beside your ears without shrugging."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Brace your core and keep ribs down so the low back does not arch under the stretch."
+        }
+      ]
+    },
+    "arms-close-grip-bench-press": {
+      "name": "Close-Grip Bench Press",
+      "instructions": [
+        "Lie on a flat bench under a barbell and take an overhand grip about shoulder-width or slightly narrower.",
+        "Plant both feet, set the shoulder blades, and unrack the bar over the lower chest.",
+        "Lower the bar to the lower chest with elbows tracking close to the torso, then press to straight arms.",
+        "Keep the wrists stacked over the elbows and the hips on the bench.",
+        "Do not take an extremely narrow grip that stresses the wrists."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "J-Hook Height",
+          "description": "Set J-hooks so you unrack with nearly locked elbows without reaching high."
+        },
+        {
+          "index": 1,
+          "title": "Safety Arms",
+          "description": "Place safeties just below the lowest controlled position over your lower chest."
+        },
+        {
+          "index": 2,
+          "title": "Grip Width",
+          "description": "Keep hands about shoulder-width; wrists stay stacked over elbows, not flared wide."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat to brace without bouncing the hips off the bench."
+        },
+        {
+          "index": 4,
+          "title": "Shoulder Position",
+          "description": "Set the shoulder blades back and down on the bench before you unrack."
+        }
+      ]
+    },
+    "arms-close-grip-push-up": {
+      "name": "Close-Grip Push-Up",
+      "instructions": [
+        "Place both hands on the floor closer than shoulder-width, roughly under the chest.",
+        "Extend into a plank with the body in one straight line and the core braced.",
+        "Lower the chest by bending the elbows close to the ribs, then press back up.",
+        "Keep the elbows tracking back rather than flaring to 90°.",
+        "Drop to the knees if needed while keeping the same close hand placement."
+      ]
+    },
+    "arms-concentration-curl": {
+      "name": "Concentration Curl",
+      "instructions": [
+        "Sit on a bench, hold a dumbbell in one hand, and brace that upper arm against the inner thigh of the same-side leg.",
+        "Plant both feet wide for a stable base and lean slightly forward.",
+        "Curl the dumbbell toward the shoulder without moving the upper arm off the thigh, then lower fully.",
+        "Keep the wrist neutral and the non-working hand on the opposite knee for balance.",
+        "Finish the reps on one arm, then switch the dumbbell and brace the other arm on the other thigh."
+      ]
+    },
+    "arms-cross-body-hammer-curl": {
+      "name": "Cross-Body Hammer Curl",
+      "instructions": [
+        "Stand holding dumbbells at the sides with a neutral hammer grip.",
+        "Keeping the palm facing the body, curl one dumbbell across toward the opposite shoulder.",
+        "Squeeze at the top without swinging the torso, then lower with control.",
+        "Alternate arms or finish one side before switching.",
+        "Keep the working elbow close to the ribs and avoid shrugging."
+      ]
+    },
+    "arms-dip": {
+      "name": "Dip",
+      "instructions": [
+        "Grip parallel bars and support yourself on straight arms with the torso more upright than a chest dip.",
+        "Keep the legs still and the shoulders set down away from the ears.",
+        "Bend the elbows to lower until the upper arms are near parallel, then press to straight arms.",
+        "Keep the elbows closer to the body to emphasize the triceps.",
+        "Stop if the shoulders feel unstable or pinched at the bottom."
+      ]
+    },
+    "arms-drag-curl": {
+      "name": "Drag Curl",
+      "instructions": [
+        "Stand holding a barbell or dumbbells with an underhand grip at the thighs.",
+        "Brace the trunk and keep the elbows close as you begin the curl.",
+        "Drag the weight up along the torso by pulling the elbows back, not swinging them forward.",
+        "Squeeze at about lower-chest height, then lower along the same path.",
+        "Use less load than a standard curl; keep the bar close to the body the whole time."
+      ]
+    },
+    "arms-dumbbell-curl": {
+      "name": "Dumbbell Curl",
+      "instructions": [
+        "Stand holding a dumbbell in each hand at the sides with palms facing forward or neutral.",
+        "Pin the upper arms to the sides and stand tall with the trunk braced.",
+        "Curl both dumbbells to the shoulders, squeeze, then lower to full extension.",
+        "You may rotate the palms up during the curl if starting from a hammer position.",
+        "Do not swing the hips or shrug the shoulders to move the weight."
+      ]
+    },
+    "arms-ez-bar-curl": {
+      "name": "EZ-Bar Curl",
+      "instructions": [
+        "Stand holding an EZ bar on the angled underhand grips with the bar against the thighs.",
+        "Keep the upper arms still at the sides and brace the trunk.",
+        "Curl the bar to the fronts of the shoulders, then lower to full extension.",
+        "Let the EZ angles keep the wrists comfortable without forcing them straight.",
+        "Avoid torso swing and keep the elbows from traveling far forward."
+      ]
+    },
+    "arms-hammer-curl": {
+      "name": "Hammer Curl",
+      "instructions": [
+        "Stand holding a dumbbell in each hand at the sides with palms facing each other.",
+        "Keep the upper arms pinned to the torso and stand tall.",
+        "Curl the dumbbells toward the shoulders without rotating the palms, then lower fully.",
+        "Keep the wrists neutral and the elbows fixed at the sides.",
+        "Do not swing the weights or lean back to finish the curl."
+      ]
+    },
+    "arms-incline-dumbbell-curl": {
+      "name": "Incline Dumbbell Curl",
+      "instructions": [
+        "Set a bench to a moderate incline, sit back, and let a dumbbell hang in each hand with palms forward.",
+        "Keep the upper arms hanging straight down beside the torso and the head against the pad.",
+        "Curl both dumbbells without letting the upper arms swing forward, then lower to a full stretch.",
+        "Maintain contact of the upper arms with the sides of the body through most of the lift.",
+        "Use a lighter load than standing curls because the stretch position is more demanding."
+      ]
+    },
+    "arms-jm-press": {
+      "name": "JM Press",
+      "instructions": [
+        "Lie on a flat bench holding a barbell or EZ bar over the upper chest with a close overhand grip.",
+        "Plant both feet and set the shoulder blades on the bench.",
+        "Lower the bar toward the upper chest/neck while the elbows travel forward and down, then press back up.",
+        "Keep the movement between a close-grip press and a skull crusher rather than flaring wide.",
+        "Start light—this hybrid stresses the elbows when rushed."
+      ]
+    },
+    "arms-kickback": {
+      "name": "Tricep Kickback",
+      "instructions": [
+        "Hold a dumbbell in one hand, hinge at the hips, and support the torso with the free hand on a bench or knee.",
+        "Pin the working upper arm to the side with the elbow bent about 90°.",
+        "Extend the elbow until the arm is straight behind you, squeeze the tricep, then return to 90°.",
+        "Keep the upper arm still and the torso quiet.",
+        "Finish the reps on one arm, then switch the dumbbell and supporting hand to the other side."
+      ]
+    },
+    "arms-machine-bicep-curl": {
+      "name": "Machine Bicep Curl",
+      "instructions": [
+        "Adjust the preacher or curl-machine pad so the upper arms rest fully on it with the elbows aligned to the pivot.",
+        "Sit or stand as the machine requires and take an underhand grip on the handles.",
+        "Curl the handles toward the shoulders, squeeze, then lower to full extension without locking harshly.",
+        "Keep the upper arms glued to the pad throughout.",
+        "Avoid lifting the elbows or hips to yank the stack."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Set the seat so your elbows line up with the machine’s pivot and the pad supports your upper arms."
+        },
+        {
+          "index": 1,
+          "title": "Arm Pad Position",
+          "description": "Rest the backs of your upper arms fully on the pad; shoulders should stay down, not shrugged."
+        },
+        {
+          "index": 2,
+          "title": "Handle Starting Position",
+          "description": "Handles should begin with elbows nearly extended but not forced into a painful lockout."
+        },
+        {
+          "index": 3,
+          "title": "Adjustment Pins",
+          "description": "Fully engage every seat and pad pin before selecting the weight stack."
+        }
+      ]
+    },
+    "arms-machine-tricep-extension": {
+      "name": "Machine Tricep Extension",
+      "instructions": [
+        "Adjust the seat so the machine pads or handles align with your elbows when the upper arms are supported.",
+        "Grip the handles and brace lightly against the pad.",
+        "Extend the elbows to straighten the arms against the machine resistance.",
+        "Pause briefly without locking aggressively, then return to a controlled stretch.",
+        "Keep the upper arms still; only the forearms should move."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Adjust the seat so your elbows align with the machine pivot through the whole press."
+        },
+        {
+          "index": 1,
+          "title": "Back Support",
+          "description": "Sit tall with your back against the pad so the torso does not rock to finish reps."
+        },
+        {
+          "index": 2,
+          "title": "Handle Alignment",
+          "description": "Start with handles near your forehead or upper chest along the machine’s path—keep elbows fixed."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat for a stable base before pressing the stack."
+        }
+      ]
+    },
+    "arms-overhead-tricep-extension": {
+      "name": "Overhead Tricep Extension",
+      "instructions": [
+        "Sit or stand holding one dumbbell overhead with both hands under the top plate, arms straight.",
+        "Brace the trunk and keep the upper arms beside the ears.",
+        "Bend the elbows to lower the dumbbell behind the head, then extend back to the top.",
+        "Keep the elbows pointing forward/up and minimize upper-arm flare.",
+        "Use a load you can control without arching the lower back or hitting the neck."
+      ]
+    },
+    "arms-preacher-curl": {
+      "name": "Preacher Curl",
+      "instructions": [
+        "Sit at a preacher bench and rest both upper arms fully on the angled pad with an EZ or straight bar in an underhand grip.",
+        "Start with the arms extended but not forcefully locked.",
+        "Curl the bar toward the shoulders, squeeze, then lower slowly to full extension.",
+        "Keep the armpits and upper arms in contact with the pad the entire time.",
+        "Do not lift the elbows off the pad or rock the torso to finish the rep."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Raise or lower the seat so your armpits sit at the top edge of the pad without shrugging."
+        },
+        {
+          "index": 1,
+          "title": "Pad Position",
+          "description": "Upper arms should lie fully on the pad from armpit to elbow; wrists stay neutral on the bar."
+        },
+        {
+          "index": 2,
+          "title": "Starting Range",
+          "description": "Begin with arms nearly straight but stop short of hyperextending the elbows at the bottom."
+        },
+        {
+          "index": 3,
+          "title": "Bar Path",
+          "description": "Keep elbows planted on the pad; do not lift them to cheat the weight up."
+        }
+      ]
+    },
+    "arms-reverse-curl": {
+      "name": "Reverse Curl",
+      "instructions": [
+        "Stand holding a barbell or EZ bar with an overhand grip about shoulder-width against the thighs.",
+        "Pin the upper arms to the sides and stand tall.",
+        "Curl the bar toward the shoulders without flipping the palms, then lower to full extension.",
+        "Keep the wrists firm and aligned with the forearms.",
+        "Use a lighter load than underhand curls—forearms often limit this variation first."
+      ]
+    },
+    "arms-reverse-wrist-curl": {
+      "name": "Reverse Wrist Curl",
+      "instructions": [
+        "Sit on a bench holding a light barbell or dumbbells with an overhand grip and the forearms resting on the thighs or a pad, wrists hanging off.",
+        "Keep the forearms glued down and the grip secure.",
+        "Extend the wrists to raise the back of the hands, pause, then lower into a stretch.",
+        "Move only at the wrists—do not lift the forearms off the support.",
+        "Use a slow tempo; bouncing easily irritates the wrists."
+      ]
+    },
+    "arms-rope-pushdown": {
+      "name": "Rope Pushdown",
+      "instructions": [
+        "Attach a rope to the high pulley and stand facing the stack with elbows pinned to the sides.",
+        "Hold both rope ends with palms facing each other and a slight forward lean if needed.",
+        "Extend the elbows to push the rope down, spread the ends apart at the bottom, then return to about 90°.",
+        "Keep the upper arms still and the wrists neutral.",
+        "Do not let the elbows flare wide or the torso rock to move the stack."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the rope hangs at about upper-chest height before you take tension."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Attach a rope and confirm the clip is closed before selecting weight."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand close enough that elbows stay pinned to your sides from the first inch of motion."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep a slight forward lean from the hips only; do not turn the pushdown into a crunch."
+        }
+      ]
+    },
+    "arms-single-arm-cable-pushdown": {
+      "name": "Single-Arm Cable Pushdown",
+      "instructions": [
+        "Attach a single handle to a high cable and stand facing the stack with a soft forward lean.",
+        "Pin the working elbow to the side with the forearm starting near the upper arm.",
+        "Extend the elbow to push the handle down until the arm is straight.",
+        "Squeeze the triceps, then return slowly to the start without letting the elbow drift forward.",
+        "Finish the set on one arm before switching; keep the shoulder quiet."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the single handle starts near shoulder height with light preload."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Use a D-handle clipped securely; check the carabiner before each set."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Square your shoulders to the stack and keep the working elbow fixed beside your ribcage."
+        },
+        {
+          "index": 3,
+          "title": "Distance from Machine",
+          "description": "Stand just far enough that the cable clears your body without pulling you sideways."
+        }
+      ]
+    },
+    "arms-skull-crusher": {
+      "name": "Skull Crusher",
+      "instructions": [
+        "Lie on a flat bench holding an EZ bar or dumbbells over the shoulders with arms straight.",
+        "Plant both feet and keep the upper arms roughly perpendicular to the floor.",
+        "Bend the elbows to lower the weight toward the forehead or just behind the head, then extend back to the top.",
+        "Keep the upper arms fixed—only the forearms should move.",
+        "Start light and control the eccentric to protect the elbows."
+      ]
+    },
+    "arms-spider-curl": {
+      "name": "Spider Curl",
+      "instructions": [
+        "Lie chest-down on an incline bench so both arms hang straight toward the floor holding a barbell or dumbbells.",
+        "Let the upper arms hang perpendicular to the floor and take an underhand grip.",
+        "Curl the weight toward the shoulders without swinging the upper arms forward, then lower fully.",
+        "Keep the chest glued to the pad throughout the set.",
+        "Use a lighter load than standing curls because peak contraction is stricter here."
+      ]
+    },
+    "arms-tate-press": {
+      "name": "Tate Press",
+      "instructions": [
+        "Lie on a flat bench holding dumbbells above the chest with palms facing each other or slightly toward the feet.",
+        "Keep the upper arms angled so the elbows point somewhat out.",
+        "Bend the elbows to lower the inner plates toward the center of the chest.",
+        "Extend the elbows to press the dumbbells back up without flaring the elbows excessively.",
+        "Use a moderate load and a controlled tempo; stop if the elbows or shoulders feel stressed."
+      ]
+    },
+    "arms-tricep-pushdown": {
+      "name": "Tricep Pushdown",
+      "instructions": [
+        "Attach a straight or angled bar to the high pulley and stand facing the stack with elbows at the sides.",
+        "Grip the bar with palms down and brace the trunk tall.",
+        "Extend the elbows to push the bar down until the arms are straight, then return to about 90°.",
+        "Keep the upper arms glued to the torso and the wrists straight.",
+        "Avoid leaning hard into the bar or flaring the elbows wide."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the bar rests near upper chest before you drive down."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a straight or V-bar firmly and fully insert the weight-stack pin."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Take a shoulder-width stance and pin both elbows to your sides before pressing down."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep the torso quiet; use only the elbows to move the bar, not a hip thrust."
+        }
+      ]
+    },
+    "arms-weighted-dip": {
+      "name": "Weighted Dip",
+      "instructions": [
+        "Secure a dip belt with plates or hold a dumbbell between the feet, then grip parallel bars.",
+        "Support yourself on straight arms with a more upright torso for triceps emphasis.",
+        "Lower until the upper arms are near parallel, then press to straight arms.",
+        "Keep the added load still so it does not swing forward.",
+        "Start lighter than bodyweight dips and stop if the shoulders feel unstable."
+      ]
+    },
+    "arms-wrist-curl": {
+      "name": "Wrist Curl",
+      "instructions": [
+        "Sit on a bench holding a light barbell or dumbbells with an underhand grip and the forearms on the thighs or a pad, wrists hanging off.",
+        "Keep the forearms glued to the support and the grip secure.",
+        "Flex the wrists to curl the palms up, pause, then lower into a stretch.",
+        "Move only at the wrists without lifting the forearms.",
+        "Use a slow tempo and stop if the wrists feel sharp pain rather than muscle work."
+      ]
+    },
+    "arms-zottman-curl": {
+      "name": "Zottman Curl",
+      "instructions": [
+        "Stand holding dumbbells at the sides with palms facing forward.",
+        "Curl the weights up with a standard supinated grip, elbows pinned to the sides.",
+        "At the top, rotate the wrists so palms face down.",
+        "Lower slowly with the pronated grip, then rotate palms forward at the bottom for the next rep.",
+        "Keep the torso still and use a weight you can control on the eccentric."
+      ]
+    },
+    "back-assisted-pull-up": {
+      "name": "Assisted Pull-Up",
+      "instructions": [
+        "Set the assisted pull-up machine knee pad and select a counterweight that lets you finish controlled reps.",
+        "Kneel on the pad, take an overhand shoulder-width grip, and hang with arms straight.",
+        "Pull the chest toward the bar by driving the elbows down, then lower to a full hang.",
+        "Keep the shoulders active and avoid swinging or kipping with the knees.",
+        "Reduce assistance as you get stronger rather than rushing unfinished reps."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knee / Foot Pad",
+          "description": "Set the assist pad so knees or feet rest securely without sliding off during the pull."
+        },
+        {
+          "index": 1,
+          "title": "Assist Load",
+          "description": "Choose enough assistance to complete controlled reps—avoid bouncing off the pad at the bottom."
+        },
+        {
+          "index": 2,
+          "title": "Grip & Alignment",
+          "description": "Take an even grip and keep the body square to the bar; do not twist on the assist pad."
+        },
+        {
+          "index": 3,
+          "title": "Shoulder Start",
+          "description": "Begin from a dead hang with shoulders packed down before the first pull."
+        }
+      ]
+    },
+    "back-barbell-row": {
+      "name": "Barbell Row",
+      "instructions": [
+        "Stand over a loaded barbell with feet about hip-width and the bar over mid-foot.",
+        "Hinge at the hips to a torso angle near 45°, brace the trunk, and take an even overhand grip.",
+        "Pull the bar to the lower ribs by driving the elbows back, pause, then lower to full hang.",
+        "Keep the spine long and the knees softly bent throughout.",
+        "Do not turn the row into a shrug or use a hip snap to yank the bar up."
+      ]
+    },
+    "back-barbell-shrug": {
+      "name": "Barbell Shrug",
+      "instructions": [
+        "Stand tall holding a loaded barbell in front of the thighs with an overhand grip.",
+        "Keep the arms straight, feet about hip-width, and the trunk braced.",
+        "Elevate both shoulders straight toward the ears, pause briefly, then lower slowly.",
+        "Keep the neck long and avoid jutting the chin forward.",
+        "Do not roll the shoulders in circles or bounce the bar off the thighs."
+      ]
+    },
+    "back-chest-supported-row": {
+      "name": "Chest-Supported Row",
+      "instructions": [
+        "Set a chest-supported row bench or incline bench so your chest rests fully on the pad.",
+        "Hold a barbell or dumbbells with arms hanging straight and feet planted for balance.",
+        "Pull the elbows back toward the hips until the shoulder blades retract, then lower with control.",
+        "Keep the chest glued to the pad so the lower back cannot cheat the lift.",
+        "Choose a pad angle that lets the arms hang freely without scraping the floor."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pad Angle / Height",
+          "description": "Set the chest pad so your torso is supported with the sternum on the pad and neck neutral."
+        },
+        {
+          "index": 1,
+          "title": "Seat or Stance",
+          "description": "Adjust seat or foot platform so arms hang long without the shoulders jamming into the pad."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Let the weights hang with soft elbows, then row by driving elbows back toward the hips."
+        },
+        {
+          "index": 3,
+          "title": "Head Position",
+          "description": "Keep the neck long—do not crank the head up to watch yourself in the mirror."
+        }
+      ]
+    },
+    "back-chin-up": {
+      "name": "Chin-Up",
+      "instructions": [
+        "Hang from a pull-up bar with an underhand grip about shoulder-width apart and arms straight.",
+        "Brace the trunk and start with the shoulders gently pulled down away from the ears.",
+        "Pull until the chin clears the bar by driving the elbows down and back, then lower to a full hang.",
+        "Keep the legs quiet and avoid swinging or kipping.",
+        "Use a band or assisted machine if you cannot complete a controlled full-range chin-up."
+      ]
+    },
+    "back-close-grip-lat-pulldown": {
+      "name": "Close-Grip Lat Pulldown",
+      "instructions": [
+        "Attach a close parallel or V-handle to the high pulley and secure both thighs under the pad.",
+        "Sit tall, take the handles with a neutral grip, and start with arms fully extended.",
+        "Pull the handle to the upper chest by driving the elbows down beside the torso, then return slowly.",
+        "Keep the chest lifted and avoid leaning far back to finish the rep.",
+        "Do not pull the handle behind the neck."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Thigh Pad",
+          "description": "Set the thigh pad snug so your hips stay down through the full pull."
+        },
+        {
+          "index": 1,
+          "title": "Seat Height",
+          "description": "Sit so the close-grip handle reaches full overhead extension without shrugging."
+        },
+        {
+          "index": 2,
+          "title": "Grip",
+          "description": "Use a neutral or close grip with wrists stacked; elbows drive down toward the ribs."
+        },
+        {
+          "index": 3,
+          "title": "Torso Angle",
+          "description": "Keep the chest up and a small lean; pull the handle to the upper chest, not behind the neck."
+        }
+      ]
+    },
+    "back-deadlift": {
+      "name": "Deadlift",
+      "instructions": [
+        "Stand with mid-foot under a loaded barbell, feet about hip-width, and the bar close to the shins.",
+        "Hinge and bend the knees to grip the bar just outside the legs, then brace and set a neutral spine.",
+        "Push the floor away to stand tall, keeping the bar close, then reverse the motion to the floor.",
+        "Keep the hips and shoulders rising together rather than the hips shooting up first.",
+        "Reset each rep from a dead stop if form breaks, and never round hard through the lower back."
+      ]
+    },
+    "back-dumbbell-row": {
+      "name": "Dumbbell Row",
+      "instructions": [
+        "Place one hand and the same-side knee on a flat bench, with the other foot on the floor and a dumbbell in the free hand.",
+        "Keep the back roughly parallel to the floor and the working arm hanging straight under the shoulder.",
+        "Row the dumbbell to the hip by driving the elbow back, pause, then lower fully.",
+        "Keep the hips and shoulders square to the bench—do not twist open.",
+        "Finish the set, then switch the supporting side and row with the other arm."
+      ]
+    },
+    "back-dumbbell-shrug": {
+      "name": "Dumbbell Shrug",
+      "instructions": [
+        "Stand tall holding a dumbbell in each hand at the sides with arms straight.",
+        "Brace the trunk and keep the feet about hip-width apart.",
+        "Shrug both shoulders straight up toward the ears, pause, then lower slowly.",
+        "Keep the arms hanging and the neck long without jutting the chin.",
+        "Avoid rolling the shoulders or using a knee bounce to start the shrug."
+      ]
+    },
+    "back-face-pull": {
+      "name": "Face Pull",
+      "instructions": [
+        "Attach a rope to a cable pulley set around upper-chest or face height.",
+        "Stand facing the stack with a soft knee bend and hold both rope ends with palms facing down or in.",
+        "Pull the rope toward the face while flaring the elbows out and externally rotating the shoulders.",
+        "Finish with the hands beside the ears and the rear shoulders squeezed, then return slowly.",
+        "Use a light enough load to keep the neck relaxed and the elbows high."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley at about upper-chest to face height so the rope travels back toward the face."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a rope securely; take an even grip on both ends before stepping back."
+        },
+        {
+          "index": 2,
+          "title": "Distance from Machine",
+          "description": "Step back until there is light tension at arm’s length without leaning excessively."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and pull the rope toward the face with elbows high—avoid shrugging the traps hard."
+        }
+      ]
+    },
+    "back-good-morning": {
+      "name": "Good Morning",
+      "instructions": [
+        "Set a barbell across the upper back as in a back squat and stand with feet about hip-width.",
+        "Brace the trunk hard and unlock the knees slightly while keeping them fixed.",
+        "Hinge at the hips to lower the torso forward, then drive the hips forward to stand tall.",
+        "Keep the bar locked on the back and the spine neutral throughout the hinge.",
+        "Use a shallow range first—this lift loads the lower back heavily when form slips."
+      ]
+    },
+    "back-hyperextension": {
+      "name": "Back Extension",
+      "instructions": [
+        "Adjust the back-extension bench so the hip pad sits just below the hip crease and the ankles are secured.",
+        "Cross the arms on the chest or hold a plate at the chest and start with the torso roughly in line with the legs.",
+        "Hinge at the hips to lower the torso under control, then extend the hips to return without over-arching.",
+        "Keep the neck neutral as an extension of the spine.",
+        "Stop short of hyperextending the lower back at the top of each rep."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pad Height",
+          "description": "Set the thigh pad just below the hips so you can hinge freely without pressure on the kneecaps."
+        },
+        {
+          "index": 1,
+          "title": "Ankle / Foot Support",
+          "description": "Secure the ankles or feet so the body cannot slide forward when you hinge down."
+        },
+        {
+          "index": 2,
+          "title": "Hip Position",
+          "description": "Place the hips at the pad edge so the hinge happens at the hips, not a rounded low back."
+        },
+        {
+          "index": 3,
+          "title": "Range of Motion",
+          "description": "Lower only as far as you can keep a neutral spine; stop short of pain or excessive rounding."
+        }
+      ]
+    },
+    "back-inverted-row": {
+      "name": "Inverted Row",
+      "instructions": [
+        "Set a secure bar around waist height in a rack or use a sturdy smith bar.",
+        "Lie under the bar, take an overhand grip, and hang with the body straight and heels on the floor.",
+        "Pull the chest to the bar by driving the elbows back, then lower to full arm extension.",
+        "Keep the hips up so the body stays in one line from shoulders to heels.",
+        "Raise the bar or bend the knees to make it easier; lower the bar to make it harder."
+      ]
+    },
+    "back-kroc-row": {
+      "name": "Kroc Row",
+      "instructions": [
+        "Brace one hand and knee on a bench, holding a heavy dumbbell in the free hand with the torso nearly parallel to the floor.",
+        "Start with a long arm and a packed working shoulder.",
+        "Row the dumbbell hard toward the hip with a powerful but controlled pull, allowing a small torso rock if needed for heavy loads.",
+        "Lower under control to a full stretch, then repeat for higher-rep sets.",
+        "Keep the neck neutral and do not twist so far that the low back rounds."
+      ]
+    },
+    "back-lat-pulldown": {
+      "name": "Lat Pulldown",
+      "instructions": [
+        "Attach a wide lat bar to the high pulley and secure both thighs under the pad.",
+        "Sit tall, take a wide overhand grip, and start with arms fully extended overhead.",
+        "Pull the bar to the upper chest by driving the elbows down and slightly back, then return slowly.",
+        "Lead with the elbows and keep the chest lifted rather than curling the spine hard.",
+        "Never pull the bar behind the neck."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Thigh Pad",
+          "description": "Adjust the thigh pad so your legs stay secured when you pull—pad snug on the quads without pain."
+        },
+        {
+          "index": 1,
+          "title": "Seat Height",
+          "description": "Sit tall so you can fully extend the arms overhead without the pad lifting you off the seat."
+        },
+        {
+          "index": 2,
+          "title": "Grip",
+          "description": "Take a grip that lets elbows travel down and back; avoid an extreme wide hang that stresses the shoulders."
+        },
+        {
+          "index": 3,
+          "title": "Torso Angle",
+          "description": "Keep a slight lean back from the hips; do not yank the bar behind the neck."
+        },
+        {
+          "index": 4,
+          "title": "Starting Shoulder Position",
+          "description": "Begin with arms long and scapulae gently set—depress the shoulders before the first pull."
+        }
+      ]
+    },
+    "back-machine-pullover": {
+      "name": "Machine Pullover",
+      "instructions": [
+        "Sit in a pullover machine with the pads against the upper arms or elbows per the machine design.",
+        "Brace the trunk against the pad and keep the ribs down.",
+        "Start with the arms overhead and pull the lever in an arc down toward the hips.",
+        "Pause briefly with the elbows near the sides, then return slowly to a comfortable stretch.",
+        "Do not hyperextend the lower back or let the weight stack slam at the top."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Sit so the elbow pads or handles align with your shoulders at the start of the arc."
+        },
+        {
+          "index": 1,
+          "title": "Back Support",
+          "description": "Keep the back against the pad; do not arch aggressively to finish the pullover."
+        },
+        {
+          "index": 2,
+          "title": "Starting Range",
+          "description": "Start with arms overhead only as far as shoulders stay comfortable—stop before pain."
+        },
+        {
+          "index": 3,
+          "title": "Adjustment Pins",
+          "description": "Fully engage seat and ROM pins before selecting the stack."
+        }
+      ]
+    },
+    "back-machine-row": {
+      "name": "Machine Row",
+      "instructions": [
+        "Adjust the chest pad and seat so the handles align with the mid-torso when your chest is supported.",
+        "Place both feet on the platform or floor and grip the chosen handles evenly.",
+        "Pull the handles toward the body until the shoulder blades retract, then return with control.",
+        "Keep the chest on the pad and avoid using a torso rock to finish the pull.",
+        "Select a handle position that lets the elbows travel beside the ribs without shrugging."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Set the seat so handles meet mid-torso and your chest sits squarely on the pad."
+        },
+        {
+          "index": 1,
+          "title": "Chest Pad",
+          "description": "Adjust the chest pad for firm contact without forcing a rounded upper back."
+        },
+        {
+          "index": 2,
+          "title": "Foot Support",
+          "description": "Plant feet on the platform or floor so hips stay stable through the row."
+        },
+        {
+          "index": 3,
+          "title": "Handle Starting Position",
+          "description": "Begin with arms extended and shoulders reaching; row by driving elbows back, not shrugging up."
+        }
+      ]
+    },
+    "back-meadows-row": {
+      "name": "Meadows Row",
+      "instructions": [
+        "Secure a barbell in a landmine base and stand perpendicular to the bar beside the loaded end.",
+        "Hinge at the hips, brace the trunk, and grip the sleeve of the bar with the hand farther from the base.",
+        "Row the bar toward the hip by driving that elbow back, then lower until the arm is straight.",
+        "Keep the hips square and the non-working hand braced on the thigh or a bench if needed.",
+        "Finish the reps on one side, then switch sides and face the opposite direction."
+      ]
+    },
+    "back-neutral-grip-pull-up": {
+      "name": "Neutral-Grip Pull-Up",
+      "instructions": [
+        "Hang from parallel neutral-grip handles with arms straight and palms facing each other.",
+        "Brace the trunk and set the shoulders slightly down away from the ears.",
+        "Pull until the chin clears the handles, then lower to a full hang under control.",
+        "Keep the elbows close to the body and avoid swinging the legs.",
+        "Stop short of unfinished reps if the shoulders lose their active set position."
+      ]
+    },
+    "back-pendlay-row": {
+      "name": "Pendlay Row",
+      "instructions": [
+        "Stand over a loaded barbell with mid-foot under the bar and a hinged torso roughly parallel to the floor.",
+        "Grip the bar just outside the legs, brace hard, and start each rep from a complete dead stop on the floor.",
+        "Explosively row the bar to the lower chest or upper abdomen, then lower it all the way back to the floor.",
+        "Keep the back flat and the hips fixed during the pull—only the arms and upper back move the bar.",
+        "Reset your brace between reps rather than bouncing the bar off the floor."
+      ]
+    },
+    "back-pull-up": {
+      "name": "Pull-Up",
+      "instructions": [
+        "Hang from a pull-up bar with an overhand grip slightly wider than the shoulders and arms straight.",
+        "Brace the trunk and pull the shoulders gently down before bending the elbows.",
+        "Pull until the chin clears the bar, then lower to a full hang without swinging.",
+        "Drive the elbows down and keep the chest reaching toward the bar.",
+        "Use assistance if needed; avoid half-reps and kipping unless that is the intended variation."
+      ]
+    },
+    "back-rack-pull": {
+      "name": "Rack Pull",
+      "instructions": [
+        "Set safety pins in a rack so a loaded barbell rests around knee height, then stand with mid-foot under the bar.",
+        "Grip the bar just outside the legs, brace, and set a neutral spine with the shoulders over the bar.",
+        "Drive through the floor to stand tall, lock the hips, then lower the bar back to the pins with control.",
+        "Keep the bar close to the body for the entire short pull.",
+        "Do not bounce the bar off the pins; each rep should start from a settled stop."
+      ]
+    },
+    "back-reverse-grip-lat-pulldown": {
+      "name": "Reverse-Grip Lat Pulldown",
+      "instructions": [
+        "Attach a straight bar to the high pulley, take an underhand shoulder-width grip, and secure the thighs under the pad.",
+        "Sit tall with arms fully extended and the chest lifted.",
+        "Pull the bar to the upper chest by driving the elbows down beside the torso, then return slowly.",
+        "Keep the wrists aligned with the forearms and avoid excessive torso lean.",
+        "Do not finish by curling the bar with the biceps alone or pulling behind the neck."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Thigh Pad",
+          "description": "Secure the thigh pad so underhand pulls cannot lift you off the seat."
+        },
+        {
+          "index": 1,
+          "title": "Seat Height",
+          "description": "Sit tall with arms fully extended at the top without forced shoulder elevation."
+        },
+        {
+          "index": 2,
+          "title": "Grip",
+          "description": "Take an underhand grip about shoulder-width; keep elbows close as you pull to the upper chest."
+        },
+        {
+          "index": 3,
+          "title": "Starting Shoulder Position",
+          "description": "Depress the shoulders before pulling; avoid finishing by shrugging the bar down."
+        }
+      ]
+    },
+    "back-seal-row": {
+      "name": "Seal Row",
+      "instructions": [
+        "Lie face-down on a raised flat or seal-row bench with a barbell or dumbbells hanging freely below.",
+        "Let the chest and hips stay fully supported and take an even grip on the weight.",
+        "Row the weight toward the underside of the bench by driving the elbows up, then lower to a full hang.",
+        "Keep the head neutral and avoid lifting the chest off the pad.",
+        "Use a bench high enough that the plates clear the floor at the bottom."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Height",
+          "description": "Set the bench high enough that arms hang free without plates hitting the floor at the bottom."
+        },
+        {
+          "index": 1,
+          "title": "Body Position",
+          "description": "Lie prone with the chest centered; head stays neutral off the end of the bench if needed."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Begin with arms long under the shoulders; row without yanking the torso off the pad."
+        }
+      ]
+    },
+    "back-seated-cable-row": {
+      "name": "Seated Cable Row",
+      "instructions": [
+        "Attach a V-handle or straight bar to the low pulley and sit with both feet on the platform and knees softly bent.",
+        "Sit tall, arms extended, and brace before the pull.",
+        "Pull the handle to the lower ribs while keeping the torso nearly upright, then return to full arm extension.",
+        "Retract the shoulder blades at the end of the pull without shrugging upward.",
+        "Do not use a large rock of the torso to yank the stack."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat & Chest Pad",
+          "description": "If a chest pad is present, set it so your torso is tall with light contact—not crushed forward."
+        },
+        {
+          "index": 1,
+          "title": "Foot Support",
+          "description": "Place feet on the platform with soft knees; do not lock the knees hard against the plate."
+        },
+        {
+          "index": 2,
+          "title": "Handle Starting Position",
+          "description": "Start with arms long and shoulders reaching forward slightly, then set the scapulae before rowing."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep a neutral spine; avoid extreme layback to yank the handle into the ribs."
+        }
+      ]
+    },
+    "back-single-arm-cable-row": {
+      "name": "Single-Arm Cable Row",
+      "instructions": [
+        "Attach a single handle to the low pulley and stand or half-kneel facing the stack with the cable taut.",
+        "Hold the handle in one hand, brace the trunk, and start with the arm reaching forward.",
+        "Row the elbow back toward the hip, pause, then return to full reach.",
+        "Keep the hips and shoulders square—do not rotate open with the working side.",
+        "Complete the reps on one arm, then switch hands and match the stance on the other side."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley at about mid-torso height for a horizontal row path."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a D-handle securely and confirm the stack pin is fully inserted."
+        },
+        {
+          "index": 2,
+          "title": "Stance",
+          "description": "Use a staggered stance for balance; square the shoulders as you row the elbow back."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Avoid rotating the torso to finish; keep the working shoulder packed down."
+        }
+      ]
+    },
+    "back-single-arm-lat-pulldown": {
+      "name": "Single-Arm Lat Pulldown",
+      "instructions": [
+        "Attach a single handle to a high cable and sit with thighs locked under the pad.",
+        "Reach up with one hand, arm long, and brace the trunk square to the stack.",
+        "Pull the handle down beside the ribcage by driving the elbow toward the hip.",
+        "Pause with the shoulder blade down and back, then return to a full stretch overhead.",
+        "Finish all reps on one side before switching; avoid twisting the torso for momentum."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Thigh Pad",
+          "description": "Keep the thigh pad snug so a one-arm pull does not twist you off the seat."
+        },
+        {
+          "index": 1,
+          "title": "Pulley / Handle",
+          "description": "Clip a single handle high; confirm the carabiner is closed before loading the stack."
+        },
+        {
+          "index": 2,
+          "title": "Torso Alignment",
+          "description": "Square the hips to the stack; resist rotating the torso to finish the rep."
+        },
+        {
+          "index": 3,
+          "title": "Starting Shoulder Position",
+          "description": "Begin with the working arm long and the shoulder packed down before pulling."
+        }
+      ]
+    },
+    "back-straight-arm-pulldown": {
+      "name": "Straight-Arm Pulldown",
+      "instructions": [
+        "Attach a straight bar or rope to the high pulley and stand facing the stack with a slight hip hinge.",
+        "Hold the attachment with arms nearly straight and the cable already under tension.",
+        "Sweep the attachment down in an arc toward the thighs by moving at the shoulders, then return slowly.",
+        "Keep a soft fixed elbow bend and brace the ribs down so the lower back does not arch.",
+        "Stop if you must bend the elbows hard or swing the torso to move the weight."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the bar or rope starts overhead with arms long."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a straight bar or rope firmly; keep hands clear of the stack."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Hinge slightly at the hips with soft elbows locked in that angle through the arc."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down; move from the shoulders and lats—do not turn it into a crunch."
+        }
+      ]
+    },
+    "back-sumo-deadlift": {
+      "name": "Sumo Deadlift",
+      "instructions": [
+        "Stand with a wide stance over a loaded barbell, toes turned out, and the bar over mid-foot.",
+        "Sit the hips down between the knees, grip the bar inside the legs, and brace with a neutral spine.",
+        "Push the floor away to stand tall, keeping the bar close, then lower with control.",
+        "Keep the knees tracking over the toes and the chest facing forward.",
+        "Do not let the hips shoot up first or the lower back round under the load."
+      ]
+    },
+    "back-t-bar-row": {
+      "name": "T-Bar Row",
+      "instructions": [
+        "Load a T-bar or landmine bar and straddle it, hinging at the hips to grip the handles.",
+        "Keep the torso braced near a 45° hinge with knees softly bent.",
+        "Pull the handles to the lower chest or upper abdomen, pause, then lower to full hang.",
+        "Keep the elbows close and the spine long without rounding the lower back.",
+        "Avoid yanking with a hip snap; the torso angle should stay nearly fixed."
+      ]
+    },
+    "back-trap-bar-deadlift": {
+      "name": "Trap Bar Deadlift",
+      "instructions": [
+        "Stand inside a loaded trap bar with feet about hip-width and the handles aligned beside the mid-foot.",
+        "Sit the hips down, grip both handles evenly, and brace with a neutral spine.",
+        "Push the floor away to stand tall, then lower the bar until the plates touch down under control.",
+        "Keep the arms straight and the chest up as the hips and shoulders rise together.",
+        "Use the high or low handles consistently within a set and never round hard through the back."
+      ]
+    },
+    "back-weighted-chin-up": {
+      "name": "Weighted Chin-Up",
+      "instructions": [
+        "Secure a dip belt with plates or hold a dumbbell between the feet, then take an underhand pull-up grip.",
+        "Hang with arms straight and the added load hanging still between the legs.",
+        "Pull until the chin clears the bar, then lower to a full hang under control.",
+        "Keep the shoulders set and avoid swinging the plates or dumbbell.",
+        "Choose a load that still allows a full controlled range—partial weighted reps teach poor timing."
+      ]
+    },
+    "back-weighted-pull-up": {
+      "name": "Weighted Pull-Up",
+      "instructions": [
+        "Secure a dip belt with plates or hold a dumbbell between the feet, then take an overhand pull-up grip.",
+        "Hang with arms straight and start with the shoulders gently pulled down.",
+        "Pull until the chin clears the bar, then lower to a full hang without swinging.",
+        "Keep the load centered so it does not pull you forward or sideways.",
+        "Reduce the added load if you cannot control the bottom half of the descent."
+      ]
+    },
+    "back-wide-grip-pull-up": {
+      "name": "Wide-Grip Pull-Up",
+      "instructions": [
+        "Hang from a pull-up bar with an overhand grip clearly wider than shoulder width.",
+        "Start from a dead hang with the shoulders packed and legs quiet.",
+        "Pull the chest toward the bar by driving the elbows down and slightly out.",
+        "Stop when the chin clears the bar or the chest nears the bar, then lower fully.",
+        "Avoid excessive kipping; use a band or machine assist if full reps are not yet available."
+      ]
+    },
+    "back-yates-row": {
+      "name": "Yates Row",
+      "instructions": [
+        "Stand with a barbell using an underhand grip just outside the thighs, torso leaned forward about 30–45 degrees.",
+        "Brace the trunk and keep a soft knee bend with a flat back.",
+        "Row the bar to the lower abdomen by driving the elbows back along the sides.",
+        "Squeeze the lats at the top, then lower with control to straight arms.",
+        "Keep the torso angle steady; do not yank with the lower back."
+      ]
+    },
+    "cardio-assault-bike": {
+      "name": "Assault Bike",
+      "instructions": [
+        "Adjust the Assault Bike seat so both feet reach the pedals with a slight knee bend at the bottom.",
+        "Place both feet on the pedals and both hands on the moving handles.",
+        "Drive the pedals and push-pull the handles together in a smooth cycle, building to the planned pace.",
+        "Keep the torso tall and the grip relaxed enough to avoid shrugged shoulders.",
+        "Ease the cadence before stopping so the fan resistance does not yank the arms."
+      ]
+    },
+    "cardio-burpee": {
+      "name": "Burpee",
+      "instructions": [
+        "Stand tall on a clear floor with feet about hip-width and arms at the sides.",
+        "Drop the hands to the floor and jump or step both feet back into a plank.",
+        "Perform a push-up if desired, then jump or step the feet forward to the hands.",
+        "Explode upward into a jump with the arms reaching overhead, then land softly and repeat.",
+        "Step the feet instead of jumping if needed to keep the plank line and landing controlled."
+      ]
+    },
+    "cardio-cycling": {
+      "name": "Cycling",
+      "instructions": [
+        "Set the bicycle saddle so the knee stays slightly bent at the bottom of the pedal stroke.",
+        "Clip in or place both feet securely on the pedals and hold the handlebars lightly.",
+        "Pedal with a smooth circular stroke, shifting gears to keep a sustainable cadence.",
+        "Keep the elbows soft and the eyes looking ahead along the route.",
+        "Obey traffic rules outdoors and stop if numbness or sharp knee pain appears."
+      ]
+    },
+    "cardio-elliptical": {
+      "name": "Elliptical",
+      "instructions": [
+        "Step onto the elliptical pedals, hold the moving or fixed handles, and select a low resistance to start.",
+        "Stand tall with both feet fully on the pedals and a soft bend in the knees.",
+        "Drive the pedals through a smooth ellipse while the arms move naturally with the handles.",
+        "Keep the heels from lifting excessively and avoid leaning hard on the handles.",
+        "Increase incline or resistance only after the stride feels stable."
+      ]
+    },
+    "cardio-high-knees": {
+      "name": "High Knees",
+      "instructions": [
+        "Stand tall on a clear floor with feet hip-width and arms bent at the sides as if running.",
+        "Brace the trunk and stay on the balls of the feet.",
+        "Drive one knee up toward hip height while the opposite arm swings forward, then switch legs rapidly.",
+        "Keep the torso upright and the landing light under the hips.",
+        "Slow the cadence if you start leaning back or slamming the feet."
+      ]
+    },
+    "cardio-incline-walk": {
+      "name": "Incline Walk",
+      "instructions": [
+        "Set a treadmill to a walking speed and a moderate incline before stepping on the belt.",
+        "Place both feet on the side rails first, then step onto the moving belt holding the rails briefly if needed.",
+        "Walk with a natural stride, letting the arms swing freely once balanced.",
+        "Keep an upright posture and take shorter steps as the incline rises.",
+        "Reduce the incline to level before stopping and stepping off."
+      ]
+    },
+    "cardio-jump-rope": {
+      "name": "Jump Rope",
+      "instructions": [
+        "Size the rope so the handles reach about the armpits when you stand on its center.",
+        "Hold a handle in each hand with elbows close to the ribs and jump on the balls of both feet.",
+        "Turn the rope with the wrists so it passes under the feet once per small bounce.",
+        "Keep jumps low and the torso quiet rather than tucking the knees high each time.",
+        "Clear enough ceiling and floor space, and stop if the rope repeatedly catches because of fatigue."
+      ]
+    },
+    "cardio-jumping-jack": {
+      "name": "Jumping Jack",
+      "instructions": [
+        "Stand tall with feet together and arms at the sides on a clear non-slip floor.",
+        "Brace lightly through the trunk and soften the knees.",
+        "Jump the feet out wide while raising both arms out and overhead, then jump back to the start.",
+        "Land softly on the mid-foot and keep a steady rhythm.",
+        "Step the feet out instead of jumping if impact needs to be reduced."
+      ]
+    },
+    "cardio-rowing": {
+      "name": "Rowing",
+      "instructions": [
+        "Sit in a rowing shell with both feet secured in the stretchers and the oars or sculls in hand.",
+        "Start at the catch with shins near vertical, arms reaching forward, and the torso slightly hinged.",
+        "Drive with the legs first, then swing the torso, then pull the handles to the body; recover in reverse order.",
+        "Keep the chain of motion smooth and avoid yanking early with the arms.",
+        "Follow local water safety rules and stop if balance or blade work becomes unsafe."
+      ]
+    },
+    "cardio-rowing-machine": {
+      "name": "Rowing Machine",
+      "instructions": [
+        "Sit on the rower, strap both feet onto the footplates, and take the handle with an overhand grip.",
+        "Start at the catch with shins near vertical, arms long, and the torso hinged forward slightly.",
+        "Drive the legs, open the torso, then pull the handle to the lower ribs; recover arms, torso, then legs.",
+        "Keep the handle moving in a horizontal path and the shoulders relaxed.",
+        "Avoid rounding the lower back at the catch or yanking the chain with the arms first."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Foot Straps",
+          "description": "Secure the footplates so the straps sit across the mid-foot—heels can lift slightly in the stroke."
+        },
+        {
+          "index": 1,
+          "title": "Damper / Resistance",
+          "description": "Start with a moderate damper; high settings are not required for a safe, effective stroke."
+        },
+        {
+          "index": 2,
+          "title": "Seat Path",
+          "description": "Ensure the seat rolls freely; keep shins near vertical at the catch without jamming the knees."
+        },
+        {
+          "index": 3,
+          "title": "Stroke Sequence",
+          "description": "Drive legs first, then hips, then arms; reverse on the recovery—avoid yanking with the back alone."
+        }
+      ]
+    },
+    "cardio-running": {
+      "name": "Running",
+      "instructions": [
+        "Choose a clear route or track and start with an easy warm-up jog.",
+        "Stand tall with a slight forward lean from the ankles and relaxed shoulders.",
+        "Land under the hips with a quick, light cadence and let the arms swing opposite the legs.",
+        "Breathe rhythmically and keep the fists soft.",
+        "Slow to a walk if form collapses or unusual joint pain appears."
+      ]
+    },
+    "cardio-ski-erg": {
+      "name": "SkiErg",
+      "instructions": [
+        "Stand facing the SkiErg with feet about hip-width and both hands on the handles overhead.",
+        "Brace the trunk and keep a soft bend in the knees.",
+        "Hinge and pull both handles down past the hips in a ski-poling motion, then return the hands overhead.",
+        "Drive with the lats and hips together rather than only bending the elbows early.",
+        "Keep the rope or cords from twisting and reset your stance if you start hopping."
+      ]
+    },
+    "cardio-spin-bike": {
+      "name": "Spin Bike",
+      "instructions": [
+        "Adjust the spin-bike saddle and handlebars so both feet reach the pedals with a slight knee bend at the bottom.",
+        "Clip in or strap both shoes onto the pedals and hold the handlebars lightly.",
+        "Pedal a smooth circle, adding resistance with the bike's tension knob to match the planned effort.",
+        "Keep the hips stable on the saddle during seated work and the core braced when standing.",
+        "Reduce resistance before stopping and unclip carefully."
+      ]
+    },
+    "cardio-stair-climber": {
+      "name": "Stair Climber",
+      "instructions": [
+        "Step onto the stair climber, hold the rails lightly, and select a slow starting speed.",
+        "Place the whole foot on each step and stand tall over the hips.",
+        "Climb with a steady alternating step, letting the arms move naturally or rest lightly on the rails.",
+        "Avoid locking the elbows on the rails and leaning the body weight into the hands.",
+        "Slow the machine fully before stepping off backward with care."
+      ]
+    },
+    "cardio-stairmaster": {
+      "name": "StairMaster",
+      "instructions": [
+        "Step onto the StairMaster pedals, hold the rails lightly, and choose a manageable level.",
+        "Keep both feet fully on the pedals and the torso upright.",
+        "Press each pedal down in an alternating stepping pattern without letting the pedals slam.",
+        "Take short steps under the hips rather than overstriding.",
+        "Use the rails for balance only and stop if the knees cave inward repeatedly."
+      ]
+    },
+    "cardio-stationary-bike": {
+      "name": "Stationary Bike",
+      "instructions": [
+        "Adjust the stationary-bike seat so both legs reach near full extension with a slight knee bend at the bottom.",
+        "Place both feet on the pedals or in the toe cages and hold the handlebars lightly.",
+        "Pedal at a steady cadence, adjusting resistance to match the planned effort.",
+        "Keep the hips level on the seat and the shoulders relaxed.",
+        "Reduce resistance before stopping and dismounting."
+      ]
+    },
+    "cardio-swimming": {
+      "name": "Swimming",
+      "instructions": [
+        "Enter the pool at a safe depth and choose a clear lane for the planned stroke.",
+        "Push off the wall in a streamline with both arms extended and the body long.",
+        "Swim continuous strokes with rhythmic breathing to the planned side or pattern.",
+        "Kick from the hips with relaxed ankles and keep the head aligned with the spine.",
+        "Rest at the wall if technique breaks or you feel short of breath beyond training intent."
+      ]
+    },
+    "cardio-treadmill": {
+      "name": "Treadmill",
+      "instructions": [
+        "Set the treadmill to a slow start speed, step on from the side rails, then gradually increase pace.",
+        "Stand tall with a slight forward lean and both feet landing under the hips.",
+        "Run or walk with a quick light cadence, letting the arms swing naturally.",
+        "Use the handrails only for brief balance checks, not continuous support.",
+        "Slow the belt fully before stepping onto the side rails to exit."
+      ]
+    },
+    "cardio-walking": {
+      "name": "Walking",
+      "instructions": [
+        "Choose a clear, even route and stand tall with relaxed shoulders.",
+        "Place each foot heel-to-toe under the hips and let the arms swing opposite the legs.",
+        "Walk at a brisk sustainable pace while breathing comfortably through the nose and mouth.",
+        "Keep the gaze ahead and the stride smooth rather than overstriding.",
+        "Slow down on uneven surfaces and stop if unusual joint pain appears."
+      ]
+    },
+    "chest-bench-press": {
+      "name": "Bench Press",
+      "instructions": [
+        "Lie on a flat bench under a racked barbell with eyes roughly under the bar.",
+        "Plant both feet on the floor, set the shoulder blades, and take an even overhand grip just outside shoulder width.",
+        "Unrack, lower the bar to mid-chest with elbows tracking under the wrists, then press back to straight arms.",
+        "Keep the hips on the bench and the bar path slightly diagonal toward the shoulders.",
+        "Use a spotter or safeties for heavy sets and never bounce the bar off the chest."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "J-Hook Height",
+          "description": "Set J-hooks so you can unrack with nearly locked elbows without shrugging the bar off the pins."
+        },
+        {
+          "index": 1,
+          "title": "Safety Arms",
+          "description": "Set safeties just below your lowest controlled chest position so they catch a failed rep."
+        },
+        {
+          "index": 2,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat and wide enough to brace without lifting the hips off the bench."
+        },
+        {
+          "index": 3,
+          "title": "Shoulder Position",
+          "description": "Retract and depress the shoulder blades on the bench before unracking; keep them set through the set."
+        },
+        {
+          "index": 4,
+          "title": "Grip Width",
+          "description": "Choose a grip that keeps wrists stacked over elbows at the bottom—neither extreme flare nor crush."
+        },
+        {
+          "index": 5,
+          "title": "Spotter",
+          "description": "Use a spotter for heavy attempts, or keep safeties set if training alone."
+        }
+      ]
+    },
+    "chest-cable-crossover": {
+      "name": "Cable Crossover",
+      "instructions": [
+        "Set both cable pulleys high and attach single handles, standing centered between the stacks.",
+        "Step forward into a staggered stance with a soft knee bend and a slight forward lean.",
+        "Start with arms open and elbows softly bent, palms facing forward or slightly down.",
+        "Sweep the handles down and together in front of the lower chest, squeeze, then return with control.",
+        "Keep the elbows fixed in their bend and stop before the shoulders shrug or overstretch behind the body."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set both pulleys high so the cables travel downward and inward across the chest."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip D-handles securely on both sides and confirm stack pins are fully seated."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand centered between stacks with a soft forward lean from the hips and a slight elbow bend."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid overstretching the shoulders at the wide start position."
+        }
+      ]
+    },
+    "chest-cable-fly": {
+      "name": "Cable Fly",
+      "instructions": [
+        "Set both cable pulleys around chest height and attach single handles.",
+        "Stand centered with a slight forward lean, feet staggered or even, and brace the trunk.",
+        "Hold the handles with elbows softly bent and palms facing each other.",
+        "Bring the hands together in a wide arc at chest level, pause, then open slowly to a comfortable stretch.",
+        "Do not lock the elbows or let the cable stacks slam between reps."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set pulleys at about mid-chest to upper-chest height for a horizontal fly path."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip D-handles securely on both sides and confirm stack pins are fully seated."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Step forward until there is light tension at the start with elbows soft and scapulae set."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid overstretching the shoulders at the wide start position."
+        }
+      ]
+    },
+    "chest-chest-dip": {
+      "name": "Chest Dip",
+      "instructions": [
+        "Grip parallel dip bars and support yourself on straight arms with the chest slightly forward.",
+        "Cross or keep the legs still and brace the abdomen before descending.",
+        "Bend the elbows and lower until the upper arms are near parallel, keeping the torso leaned forward.",
+        "Press back up to straight arms without locking out harshly.",
+        "Stop the set if the shoulders feel pinched or unstable at the bottom."
+      ]
+    },
+    "chest-decline-bench-press": {
+      "name": "Decline Bench Press",
+      "instructions": [
+        "Secure your lower legs on a decline bench under a racked barbell.",
+        "Take an even overhand grip just outside shoulder width and set the shoulder blades against the pad.",
+        "Unrack, lower the bar to the lower chest, then press to straight arms.",
+        "Keep the wrists stacked over the elbows and the hips pressed into the bench.",
+        "Use safeties or a spotter and control the bar fully—decline angles make unracking less forgiving."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock the decline securely and use the leg pads so you cannot slide toward the floor."
+        },
+        {
+          "index": 1,
+          "title": "Leg Support",
+          "description": "Hook the legs firmly under the pads before unracking; head stays supported on the bench."
+        },
+        {
+          "index": 2,
+          "title": "J-Hook Height",
+          "description": "Set hooks so the unrack is short and controlled on the decline path."
+        },
+        {
+          "index": 3,
+          "title": "Safety Arms",
+          "description": "Set safeties just below your lowest chest position on this decline angle."
+        },
+        {
+          "index": 4,
+          "title": "Spotter",
+          "description": "Prefer a spotter on heavy decline work; the bar path is harder to bail alone."
+        }
+      ]
+    },
+    "chest-decline-dumbbell-press": {
+      "name": "Decline Dumbbell Press",
+      "instructions": [
+        "Secure your legs on a decline bench and hold a dumbbell in each hand at the lower chest.",
+        "Plant the shoulder blades, brace the trunk, and keep the wrists straight.",
+        "Press both dumbbells up until the arms are nearly straight, then lower them beside the lower chest.",
+        "Keep the elbows under the wrists and avoid letting the dumbbells drift toward the face.",
+        "Have a partner hand you the dumbbells if getting into position feels unstable."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock the decline and secure the leg pads before lifting the dumbbells into place."
+        },
+        {
+          "index": 1,
+          "title": "Leg Support",
+          "description": "Hook both legs under the pads so you cannot slide; head stays on the bench."
+        },
+        {
+          "index": 2,
+          "title": "Shoulder Position",
+          "description": "Keep shoulder blades set on the pad; lower the bells to the lower chest with wrists stacked."
+        },
+        {
+          "index": 3,
+          "title": "Control",
+          "description": "Press with control—do not bounce dumbbells off the chest at the bottom."
+        }
+      ]
+    },
+    "chest-decline-push-up": {
+      "name": "Decline Push-Up",
+      "instructions": [
+        "Place both feet on a stable bench or box and both hands on the floor under the shoulders.",
+        "Form a straight line from head to heels and brace the abdomen.",
+        "Lower the chest toward the floor by bending the elbows, then push back to the start.",
+        "Keep the hips level—do not pike or sag as the feet are elevated.",
+        "Choose a lower surface if you cannot keep the shoulders stable through the full range."
+      ]
+    },
+    "chest-diamond-push-up": {
+      "name": "Diamond Push-Up",
+      "instructions": [
+        "Place both hands on the floor so the thumbs and index fingers form a diamond under the chest.",
+        "Extend the legs into a plank with the body in one straight line.",
+        "Lower the chest toward the hands by bending the elbows close to the ribs, then press up.",
+        "Keep the elbows tracking back rather than flaring wide.",
+        "Drop to the knees only if needed, still keeping the diamond hand position."
+      ]
+    },
+    "chest-dumbbell-bench-press": {
+      "name": "Dumbbell Bench Press",
+      "instructions": [
+        "Lie on a flat bench holding a dumbbell in each hand at the outer edges of the chest.",
+        "Plant both feet, set the shoulder blades, and keep the wrists straight above the elbows.",
+        "Press the dumbbells up until the arms are nearly straight, then lower them to the start.",
+        "Keep the dumbbells moving together without clanking them hard at the top.",
+        "Control the descent—unstable shoulders or open elbows mean the load is too heavy."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Stability",
+          "description": "Confirm the flat bench is locked and stable before kicking the dumbbells into position."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat; do not lift the hips to finish heavy presses."
+        },
+        {
+          "index": 2,
+          "title": "Shoulder Position",
+          "description": "Retract the shoulder blades on the bench and keep dumbbells stacked over the wrists and elbows."
+        },
+        {
+          "index": 3,
+          "title": "Starting Position",
+          "description": "Bring dumbbells to the chest with control; avoid dropping them from an overhead kick-up."
+        }
+      ]
+    },
+    "chest-dumbbell-fly": {
+      "name": "Dumbbell Fly",
+      "instructions": [
+        "Lie on a flat bench with a dumbbell in each hand pressed above the chest, palms facing each other.",
+        "Keep a soft fixed bend in both elbows and plant the feet on the floor.",
+        "Open the arms in a wide arc until the chest is comfortably stretched, then bring the dumbbells back together.",
+        "Keep the movement in the shoulder joint—do not turn it into a press by bending the elbows more.",
+        "Use a range that never forces the upper arms behind a painful stretch."
+      ]
+    },
+    "chest-dumbbell-pullover": {
+      "name": "Dumbbell Pullover",
+      "instructions": [
+        "Lie across or along a flat bench holding one dumbbell above the chest with both hands under the upper plate.",
+        "Keep a soft elbow bend and brace the trunk so the ribs stay down.",
+        "Lower the dumbbell in an arc behind the head until you feel a stretch through the chest and lats.",
+        "Pull the weight back over the chest by driving the elbows toward the hips.",
+        "Move slowly through the bottom and stop if the shoulders feel pinched."
+      ]
+    },
+    "chest-floor-press": {
+      "name": "Floor Press",
+      "instructions": [
+        "Lie on the floor with knees bent and a barbell or dumbbells held above the chest.",
+        "Set the shoulder blades into the floor and take a grip just outside shoulder width.",
+        "Lower the weight until the upper arms lightly touch the floor, keeping elbows under the wrists.",
+        "Press back to straight arms without bouncing the arms off the floor.",
+        "Keep the ribs down and stop the set if the elbows crash into the floor."
+      ]
+    },
+    "chest-incline-bench-press": {
+      "name": "Incline Bench Press",
+      "instructions": [
+        "Set an adjustable bench to a moderate incline under a racked barbell.",
+        "Lie back with feet planted, take an even overhand grip, and set the shoulder blades.",
+        "Unrack and lower the bar to the upper chest, then press to straight arms.",
+        "Keep the wrists stacked over the elbows and avoid flaring them excessively.",
+        "Choose an incline of about 30–45°—steeper angles shift the work toward the shoulders."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock the bench at a moderate incline so the bar path stays over the upper chest—not the neck."
+        },
+        {
+          "index": 1,
+          "title": "J-Hook Height",
+          "description": "Set J-hooks for a short, controlled unrack on the incline path."
+        },
+        {
+          "index": 2,
+          "title": "Safety Arms",
+          "description": "Set safeties just below your lowest upper-chest position on this incline."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet; hips stay on the pad—do not bridge off the incline."
+        },
+        {
+          "index": 4,
+          "title": "Shoulder Position",
+          "description": "Set scapulae back and down before unracking; keep the bar over the upper chest."
+        }
+      ]
+    },
+    "chest-incline-dumbbell-fly": {
+      "name": "Incline Dumbbell Fly",
+      "instructions": [
+        "Set a bench to a moderate incline and hold a dumbbell in each hand above the upper chest.",
+        "Keep a soft fixed elbow bend, feet planted, and shoulder blades on the pad.",
+        "Open the arms in a wide arc, then squeeze the dumbbells back together above the chest.",
+        "Keep the palms facing each other and the wrists neutral throughout.",
+        "Stop the stretch before the shoulders feel forced or pinched on the incline."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock a mild-to-moderate incline; a steep incline turns the fly into an awkward shoulder raise."
+        },
+        {
+          "index": 1,
+          "title": "Shoulder Position",
+          "description": "Keep a soft bend in the elbows and scapulae set—do not let the bells pull the shoulders forward."
+        },
+        {
+          "index": 2,
+          "title": "Range of Motion",
+          "description": "Lower only until you feel a chest stretch; stop before the shoulders feel unstable."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet for a stable base on the incline pad."
+        }
+      ]
+    },
+    "chest-incline-dumbbell-press": {
+      "name": "Incline Dumbbell Press",
+      "instructions": [
+        "Set a bench to a moderate incline and hold dumbbells at the outer upper chest.",
+        "Plant the feet, brace the trunk, and keep the wrists stacked over the elbows.",
+        "Press both dumbbells up and slightly together, then lower them to the start.",
+        "Keep the elbows under the wrists rather than letting them drop behind the bench line.",
+        "Have help positioning heavy dumbbells so the first rep starts from a stable set position."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock a moderate incline so the presses load the upper chest without the bells drifting over the face."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Keep both feet planted; hips stay on the pad throughout the set."
+        },
+        {
+          "index": 2,
+          "title": "Shoulder Position",
+          "description": "Set the scapulae back and down before the first press; elbows track under the weights."
+        },
+        {
+          "index": 3,
+          "title": "Range of Motion",
+          "description": "Lower until upper arms are about parallel to the floor or slightly below—stop if shoulders pinch."
+        }
+      ]
+    },
+    "chest-incline-machine-press": {
+      "name": "Incline Machine Press",
+      "instructions": [
+        "Adjust the incline press seat so the handles align with the upper chest when you sit back.",
+        "Place both feet on the floor or footplate and grip the handles evenly.",
+        "Press the handles forward until the arms are nearly straight, then return with control.",
+        "Keep the head and upper back against the pad throughout the set.",
+        "Select a seat height that does not force the shoulders into a shrugged start."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Set the seat so handles meet the upper chest or lower shoulder line when you sit against the pad."
+        },
+        {
+          "index": 1,
+          "title": "Back Support",
+          "description": "Keep the back and head glued to the pad so the press stays on the upper chest path."
+        },
+        {
+          "index": 2,
+          "title": "Handle Starting Position",
+          "description": "Handles should begin just in front of the upper chest—not beside the ears."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet; do not lift the hips to finish the last reps."
+        }
+      ]
+    },
+    "chest-incline-push-up": {
+      "name": "Incline Push-Up",
+      "instructions": [
+        "Place both hands on a stable bench, bar, or box and both feet on the floor behind you.",
+        "Form a straight body line from head to heels with the hands under the shoulders.",
+        "Lower the chest toward the surface by bending the elbows, then press back up.",
+        "Keep the elbows about 45° from the torso and the neck long.",
+        "Raise the hand surface if the floor version is too hard; lower it as you get stronger."
+      ]
+    },
+    "chest-landmine-press": {
+      "name": "Landmine Press",
+      "instructions": [
+        "Secure one end of a barbell in a landmine base and hold the free end at the front of one shoulder.",
+        "Stand in a staggered stance with the same-side foot back and the trunk braced.",
+        "Press the bar up and slightly forward along the landmine arc, then lower to the shoulder.",
+        "Keep the elbow under the hand and the ribs stacked over the pelvis.",
+        "Finish the planned reps, then switch shoulders and stance for the other side."
+      ]
+    },
+    "chest-low-to-high-cable-fly": {
+      "name": "Low-to-High Cable Fly",
+      "instructions": [
+        "Set both cable pulleys low and attach single handles, standing centered between the stacks.",
+        "Step forward into a staggered stance with a slight forward lean and soft elbows.",
+        "Start with hands near the hips, palms facing forward or slightly up.",
+        "Sweep the handles up and together to about upper-chest or chin height, then lower with control.",
+        "Keep the elbow bend fixed and avoid shrugging the shoulders at the top."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set both pulleys low so the cables travel upward and inward toward the upper chest."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip D-handles securely on both sides and confirm stack pins are fully seated."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand tall between stacks; raise handles on an upward arc without shrugging the traps."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid overstretching the shoulders at the wide start position."
+        }
+      ]
+    },
+    "chest-machine-chest-press": {
+      "name": "Machine Chest Press",
+      "instructions": [
+        "Adjust the seat so the machine handles sit at mid-chest when your back is against the pad.",
+        "Place both feet firmly and grip the handles with even hand spacing.",
+        "Press the handles forward until the arms are nearly straight, then return slowly.",
+        "Keep the shoulder blades against the pad and avoid shrugging into the finish.",
+        "Choose a grip height that lets the elbows stay roughly under the wrists."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Adjust the seat so the handles align with mid-chest when you sit tall against the back pad."
+        },
+        {
+          "index": 1,
+          "title": "Backrest Position",
+          "description": "Keep your back and head against the pad; do not round forward to reach the handles."
+        },
+        {
+          "index": 2,
+          "title": "Handle Alignment",
+          "description": "Handles should start at mid-chest; incorrect height can overload the shoulders."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat before pressing; keep hips on the seat through the set."
+        },
+        {
+          "index": 4,
+          "title": "Starting Range",
+          "description": "Begin with elbows roughly in line with the torso—avoid an extreme stretch behind the body."
+        }
+      ]
+    },
+    "chest-pec-deck": {
+      "name": "Pec Deck",
+      "instructions": [
+        "Adjust the pec-deck seat so the pads or handles align with mid-chest and your elbows are slightly below shoulder height.",
+        "Sit tall with the back against the pad and forearms on the pads or hands on the grips.",
+        "Bring the arms together in front of the chest, squeeze, then open to a controlled stretch.",
+        "Keep the elbows at a fixed soft bend if using handles.",
+        "Do not let the weight stack yank the arms behind the torso at the start of each rep."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Adjust the seat so your elbows stay level with the arm pads at mid-chest height."
+        },
+        {
+          "index": 1,
+          "title": "Arm Pad Adjustment",
+          "description": "Set arm pads so forearms rest fully on them with elbows slightly bent—not jammed into the shoulders."
+        },
+        {
+          "index": 2,
+          "title": "Elbow Position",
+          "description": "Keep elbows on the pads and roughly in line with mid-chest; avoid lifting elbows above the shoulders."
+        },
+        {
+          "index": 3,
+          "title": "Back Support",
+          "description": "Sit tall against the back pad; do not shrug or lean forward to close the pads."
+        }
+      ]
+    },
+    "chest-push-up": {
+      "name": "Push-Up",
+      "instructions": [
+        "Place both hands on the floor roughly under the shoulders and extend the legs into a plank.",
+        "Brace the abdomen and squeeze the glutes so the body forms one straight line.",
+        "Lower the chest toward the floor by bending the elbows, then push the floor away to full extension.",
+        "Keep the elbows about 30–45° from the torso rather than flared to 90°.",
+        "Do not let the hips sag or pike; shorten the range or elevate the hands if form breaks."
+      ]
+    },
+    "chest-smith-incline-press": {
+      "name": "Smith Machine Incline Press",
+      "instructions": [
+        "Set an adjustable bench to a moderate incline inside a Smith machine and lie with eyes under the bar.",
+        "Unrack with an even overhand grip just outside shoulder width and plant both feet.",
+        "Lower the bar to the upper chest with elbows tracking under the wrists.",
+        "Press along the fixed path to straight arms without locking out aggressively.",
+        "Keep the hips on the bench and use the safeties if training heavy alone."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Bench Angle",
+          "description": "Lock a moderate incline under the Smith bar so the path meets the upper chest."
+        },
+        {
+          "index": 1,
+          "title": "Safety Stops",
+          "description": "Set stops just below the lowest controlled position on this incline before loading."
+        },
+        {
+          "index": 2,
+          "title": "Bar Starting Height",
+          "description": "Unhook with nearly locked elbows; avoid reaching high to free the bar."
+        },
+        {
+          "index": 3,
+          "title": "Foot Placement",
+          "description": "Plant both feet; keep hips on the incline pad throughout the set."
+        }
+      ]
+    },
+    "chest-smith-machine-bench-press": {
+      "name": "Smith Machine Bench Press",
+      "instructions": [
+        "Set a flat bench under the Smith bar and adjust the safety stops to just below chest level.",
+        "Lie with eyes under the bar, plant the feet, and take an even overhand grip.",
+        "Rotate the bar to unlock, lower it to mid-chest, then press to straight arms and re-rack.",
+        "Keep the shoulder blades set and the hips on the bench throughout.",
+        "Because the bar path is fixed, stop if the forced line irritates the shoulders."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Safety Stops",
+          "description": "Set Smith safety stops just below your lowest controlled chest position before loading the bar."
+        },
+        {
+          "index": 1,
+          "title": "Bar Starting Height",
+          "description": "Begin with the bar at a height that lets you unhook with nearly locked elbows."
+        },
+        {
+          "index": 2,
+          "title": "Foot Placement",
+          "description": "Plant both feet flat; hips stay on the bench—do not bridge excessively under the fixed bar path."
+        },
+        {
+          "index": 3,
+          "title": "Shoulder Position",
+          "description": "Set scapulae back and down; keep wrists stacked as the bar travels on the Smith rails."
+        }
+      ]
+    },
+    "chest-squeeze-press": {
+      "name": "Squeeze Press",
+      "instructions": [
+        "Lie on a flat bench holding two dumbbells pressed together above the chest, palms facing each other.",
+        "Keep constant inward pressure so the dumbbells stay touching through the set.",
+        "Lower the weights to mid-chest with elbows tracking under the wrists.",
+        "Press back up while continuing to squeeze the dumbbells together.",
+        "Use a controlled tempo; do not let the bells separate or bounce off the chest."
+      ]
+    },
+    "chest-svend-press": {
+      "name": "Svend Press",
+      "instructions": [
+        "Stand or sit tall and squeeze one or two light plates together between both palms at chest height.",
+        "Keep the elbows out to the sides and the plates pressed tightly so they do not slip.",
+        "Press the plates straight forward until the arms are nearly straight, then return to the chest.",
+        "Maintain constant inward pressure between the palms for the whole set.",
+        "Use smooth plates you can grip securely; stop if they start to separate."
+      ]
+    },
+    "chest-weighted-chest-dip": {
+      "name": "Weighted Chest Dip",
+      "instructions": [
+        "Secure a dip belt with plates or hold a dumbbell between the feet, then grip parallel bars.",
+        "Support yourself on straight arms with the chest leaned slightly forward.",
+        "Lower until the upper arms approach parallel, then press back to the top.",
+        "Keep the load hanging still so it does not swing and pull you forward.",
+        "Start lighter than bodyweight dips—added load amplifies shoulder stress at the bottom."
+      ]
+    },
+    "core-ab-wheel": {
+      "name": "Ab Wheel",
+      "instructions": [
+        "Kneel on a pad holding the ab-wheel handles with the wheel directly under the shoulders.",
+        "Brace the abdomen hard and keep the hips slightly tucked.",
+        "Roll the wheel forward while the arms stay nearly straight, then pull it back to the start by flexing the trunk.",
+        "Keep the ribs and pelvis connected—do not let the lower back sag toward the floor.",
+        "Shorten the roll-out until you can control the full range without collapsing."
+      ]
+    },
+    "core-bicycle-crunch": {
+      "name": "Bicycle Crunch",
+      "instructions": [
+        "Lie on your back on a mat with hands lightly behind the head and both knees bent toward the chest.",
+        "Lift the shoulder blades off the floor and keep the lower back pressed down.",
+        "Extend one leg while rotating the opposite elbow toward the bent knee, then switch sides in a pedaling rhythm.",
+        "Rotate from the torso rather than yanking the head with the hands.",
+        "Keep both shoulder blades hovering and avoid fully resting between switches."
+      ]
+    },
+    "core-bird-dog": {
+      "name": "Bird Dog",
+      "instructions": [
+        "Start on all fours with hands under the shoulders and knees under the hips.",
+        "Brace the abdomen so the spine stays neutral like a tabletop.",
+        "Extend one arm forward and the opposite leg back until both are in line with the torso, pause, then return.",
+        "Keep the hips level—do not rotate or sag as the limbs lift.",
+        "Alternate sides each rep, moving slowly enough to keep balance."
+      ]
+    },
+    "core-cable-crunch": {
+      "name": "Cable Crunch",
+      "instructions": [
+        "Attach a rope to the high pulley, kneel facing the stack, and hold the rope ends beside the head.",
+        "Keep the hips still over the knees and brace before moving.",
+        "Curl the ribs toward the pelvis by flexing the spine, pause, then return without standing up.",
+        "Pull with the abdominals rather than yanking the rope with the arms.",
+        "Keep the cable taut at the top so the stack does not slam."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high so the rope hangs above the head before you kneel or stand."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a rope securely; hold both ends beside the head without yanking the neck."
+        },
+        {
+          "index": 2,
+          "title": "Knee / Stance Position",
+          "description": "Kneel or stand far enough that tension exists at the start without the stack slamming."
+        },
+        {
+          "index": 3,
+          "title": "Spine Motion",
+          "description": "Crunch by flexing the spine; do not yank with the arms or hyperextend the neck."
+        }
+      ]
+    },
+    "core-captains-chair-knee-raise": {
+      "name": "Captain's Chair Knee Raise",
+      "instructions": [
+        "Step onto a captain's chair, press the forearms into the pads, and let the legs hang straight.",
+        "Press the back against the support and brace the abdomen.",
+        "Lift both knees toward the chest by curling the pelvis, then lower without swinging.",
+        "Avoid shrugging into the arm pads or using momentum from the legs.",
+        "Stop the set if the lower back peels hard off the pad."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Arm / Elbow Pads",
+          "description": "Rest the forearms fully on the pads with shoulders packed down—not shrugged into the ears."
+        },
+        {
+          "index": 1,
+          "title": "Back Support",
+          "description": "Keep the back against the pad; avoid swinging away from the chair."
+        },
+        {
+          "index": 2,
+          "title": "Grip Handles",
+          "description": "Hold the handles only for stability; do not shrug up through the traps to lift the knees."
+        },
+        {
+          "index": 3,
+          "title": "Controlled Motion",
+          "description": "Raise the knees with control; avoid excessive swinging that stresses the low back."
+        }
+      ]
+    },
+    "core-crunch": {
+      "name": "Crunch",
+      "instructions": [
+        "Lie on your back on a mat with knees bent, feet flat, and hands lightly behind the head or across the chest.",
+        "Press the lower back into the floor and brace before lifting.",
+        "Curl the shoulder blades off the floor toward the pelvis, pause, then lower slowly.",
+        "Keep the neck long—do not pull the head forward with the hands.",
+        "Move through a short spinal flexion range rather than sitting all the way up."
+      ]
+    },
+    "core-dead-bug": {
+      "name": "Dead Bug",
+      "instructions": [
+        "Lie on your back with both arms reaching toward the ceiling and both hips and knees bent to 90°.",
+        "Press the lower back into the floor and brace the abdomen.",
+        "Extend one arm overhead and the opposite leg toward the floor, then return and switch sides.",
+        "Keep the ribs down so the lower back never arches off the mat.",
+        "Move slowly enough that the pelvis stays still throughout."
+      ]
+    },
+    "core-decline-sit-up": {
+      "name": "Decline Sit-Up",
+      "instructions": [
+        "Secure both lower legs under the pads of a decline bench and lie back with the torso supported.",
+        "Place the hands across the chest or lightly behind the head and brace.",
+        "Curl the torso up toward the thighs, then lower under control to the bench.",
+        "Lead with the ribs rather than yanking the neck forward.",
+        "Use a shallower decline if you cannot control the eccentric."
+      ]
+    },
+    "core-dragon-flag": {
+      "name": "Dragon Flag",
+      "instructions": [
+        "Lie on a bench and grip the bench or a stable support behind the head with both hands.",
+        "Brace hard and lift the legs and hips so the body forms a straight line from shoulders to toes.",
+        "Lower the rigid body toward the bench under control, then raise it back without bending at the hips.",
+        "Keep the body as one piece—do not pike or sag through the lower back.",
+        "Use a tucked or single-leg progression until the full lever is controllable."
+      ]
+    },
+    "core-hanging-knee-raise": {
+      "name": "Hanging Knee Raise",
+      "instructions": [
+        "Hang from a pull-up bar with an overhand grip and arms straight.",
+        "Set the shoulders slightly down and brace the trunk before moving the legs.",
+        "Lift both knees toward the chest by curling the pelvis, then lower without swinging.",
+        "Avoid kipping or using a large body swing to raise the knees.",
+        "Stop short if the grip or shoulders lose their active hang position."
+      ]
+    },
+    "core-hanging-leg-raise": {
+      "name": "Hanging Leg Raise",
+      "instructions": [
+        "Hang from a pull-up bar with arms straight and legs together.",
+        "Brace the trunk and keep a slight active shoulder set.",
+        "Raise both straight legs toward horizontal or higher by curling the pelvis, then lower slowly.",
+        "Minimize swing—pause briefly at the bottom if needed to still the body.",
+        "Bend the knees only as a regression if straight legs break your form."
+      ]
+    },
+    "core-hanging-windshield-wiper": {
+      "name": "Hanging Windshield Wiper",
+      "instructions": [
+        "Hang from a pull-up bar, raise both legs until they are near vertical, and keep the arms straight.",
+        "Brace the trunk hard and keep the shoulders active.",
+        "Rotate both legs together from side to side like a windshield wiper while the hips stay high.",
+        "Control each side equally and avoid yanking from the lower back.",
+        "Reduce the range or keep the knees bent until you can move without swinging wildly."
+      ]
+    },
+    "core-hollow-hold": {
+      "name": "Hollow Hold",
+      "instructions": [
+        "Lie on your back and press the lower back into the mat with arms reaching overhead and legs extended.",
+        "Lift the shoulders and legs just off the floor into a shallow banana shape.",
+        "Hold that hollow position while breathing steadily into the braced abdomen.",
+        "Keep the ribs down so the lower back never arches off the floor.",
+        "Bend the knees or lower the arms to the sides if you cannot keep the back flat."
+      ]
+    },
+    "core-leg-raise": {
+      "name": "Lying Leg Raise",
+      "instructions": [
+        "Lie on your back on a mat with legs extended and hands under the hips or at the sides for support.",
+        "Press the lower back into the floor and brace before lifting.",
+        "Raise both legs toward vertical, then lower them slowly without letting the back arch.",
+        "Keep the legs as straight as hamstring mobility allows.",
+        "Stop the descent before the lower back peels up if control is lost."
+      ]
+    },
+    "core-machine-crunch": {
+      "name": "Machine Crunch",
+      "instructions": [
+        "Adjust the crunch-machine seat and pads so the chest pad sits on the upper chest and the pivot matches your midsection.",
+        "Secure the legs if required and hold the handles without yanking.",
+        "Curl the torso forward against the pad, pause, then return slowly.",
+        "Flex the spine rather than pulling only with the arms.",
+        "Select a load that lets you feel the abdominals without using momentum."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Sit so the pivot aligns roughly with the mid-torso and pads meet the upper chest or shoulders."
+        },
+        {
+          "index": 1,
+          "title": "Pad Position",
+          "description": "Rest the chest or shoulder pads evenly; avoid putting pressure on the throat."
+        },
+        {
+          "index": 2,
+          "title": "Foot Support",
+          "description": "Secure feet or ankles as the machine provides so the hips stay down."
+        },
+        {
+          "index": 3,
+          "title": "Range of Motion",
+          "description": "Crunch through a controlled range; do not slam the weight stack at either end."
+        }
+      ]
+    },
+    "core-mountain-climber": {
+      "name": "Mountain Climber",
+      "instructions": [
+        "Start in a high plank with both hands under the shoulders and the body in one straight line.",
+        "Brace the abdomen and keep the hips level.",
+        "Drive one knee toward the chest, then quickly switch legs in a running rhythm while the hands stay planted.",
+        "Keep the shoulders over the hands and avoid bouncing the hips up and down.",
+        "Slow the cadence if the plank line collapses or the hands slide."
+      ]
+    },
+    "core-pallof-press": {
+      "name": "Pallof Press",
+      "instructions": [
+        "Attach a single handle at chest height and stand side-on to the cable with the handle held at the sternum.",
+        "Set a athletic stance with feet about hip-width and the trunk braced against the cable's pull.",
+        "Press both hands straight forward until the arms are extended, pause, then return to the chest.",
+        "Resist rotating toward or away from the stack—the torso should stay square.",
+        "Finish the reps facing one way, then turn around so the cable pulls from the other side."
+      ]
+    },
+    "core-plank": {
+      "name": "Plank",
+      "instructions": [
+        "Place both forearms on the floor with elbows under the shoulders and extend the legs into a straight line.",
+        "Brace the abdomen and squeeze the glutes so the hips neither sag nor pike.",
+        "Hold the position while breathing steadily, keeping the neck long.",
+        "Press the forearms down and keep the shoulders away from the ears.",
+        "End the hold when the form breaks rather than accumulating sagging time."
+      ]
+    },
+    "core-russian-twist": {
+      "name": "Russian Twist",
+      "instructions": [
+        "Sit on the floor with knees bent, feet on the floor or hovering, and lean the torso back to a balanced V shape.",
+        "Clasp the hands together in front of the chest and brace the trunk.",
+        "Rotate the torso to tap the hands toward the floor beside one hip, then to the other side.",
+        "Keep the chest up and move from the midsection rather than only swinging the arms.",
+        "Touch both sides for one rep and slow down if the feet slam or the back rounds hard."
+      ]
+    },
+    "core-side-plank": {
+      "name": "Side Plank",
+      "instructions": [
+        "Lie on one side with the elbow under the shoulder and the legs stacked, then lift the hips into a straight line.",
+        "Support on the forearm and the side of the bottom foot, stacking the shoulders.",
+        "Hold the side plank while bracing the underside of the waist and breathing steadily.",
+        "Keep the hips forward—do not let them sag back or droop to the floor.",
+        "Switch to the other side after the timed hold and match the elbow and foot placement."
+      ]
+    },
+    "core-sit-up": {
+      "name": "Sit-Up",
+      "instructions": [
+        "Lie on your back with knees bent, feet flat, and arms crossed on the chest or reaching forward.",
+        "Brace the abdomen and keep the feet lightly anchored if needed.",
+        "Curl the torso all the way up to a seated position, then lower under control to the floor.",
+        "Lead with the chest rather than yanking the neck forward.",
+        "Reduce the range to a crunch if the hip flexors take over or the back feels strained."
+      ]
+    },
+    "core-toes-to-bar": {
+      "name": "Toes-to-Bar",
+      "instructions": [
+        "Hang from a pull-up bar with an overhand grip and arms straight.",
+        "Start with a hollow body position and active shoulders.",
+        "Raise both straight legs until the toes touch the bar, then lower under control.",
+        "Use a kip only if that is your intended style; otherwise keep the swing small and controlled.",
+        "Bend the knees as a progression if straight-leg contact is not yet possible."
+      ]
+    },
+    "core-v-up": {
+      "name": "V-Up",
+      "instructions": [
+        "Lie flat on your back on a mat with arms extended overhead and legs straight.",
+        "Brace the abdomen and press the lower back toward the floor to start.",
+        "Simultaneously lift the legs and torso so the hands reach toward the toes into a V shape, then lower with control.",
+        "Keep the legs as straight as possible and avoid using a wild rock for momentum.",
+        "Touch the shins instead of the toes if hamstring mobility limits the full reach."
+      ]
+    },
+    "core-weighted-russian-twist": {
+      "name": "Weighted Russian Twist",
+      "instructions": [
+        "Sit on the floor holding a plate, medicine ball, or dumbbell at the chest, knees bent, and lean back into a balanced V shape.",
+        "Keep both feet on the floor or hovering together and brace the trunk around the weight.",
+        "Rotate the torso to move the weight beside one hip, then to the other side under control.",
+        "Keep the load close to the body and the chest up rather than rounding hard through the back.",
+        "Touch both sides for one rep and slow down if the weight pulls you off balance."
+      ]
+    },
+    "core-woodchop": {
+      "name": "Cable Woodchop",
+      "instructions": [
+        "Attach a single handle high or low on a cable stack and stand side-on with feet wider than the hips.",
+        "Hold the handle with both hands and brace the trunk over soft knees.",
+        "Rotate the torso to pull the handle across the body from high to low or low to high, then return under control.",
+        "Keep the arms fairly straight and turn through the midsection, not just the arms.",
+        "Finish the reps facing one way, then switch sides so the cable approaches from the opposite side."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley high for high-to-low chops or low for low-to-high, matching your planned path."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a D-handle or rope securely before loading the stack."
+        },
+        {
+          "index": 2,
+          "title": "Stance & Distance",
+          "description": "Take a stable athletic stance far enough that the cable stays clear of the body through the rotate."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Rotate through the torso with soft knees; do not wrench the low back with locked hips."
+        }
+      ]
+    },
+    "legs-back-squat": {
+      "name": "Back Squat",
+      "instructions": [
+        "Set a barbell on a squat rack at about upper-chest height and step under it so it sits on the upper back.",
+        "Unrack with feet about shoulder-width, toes slightly out, and brace the trunk hard.",
+        "Sit the hips down and back until the thighs reach at least parallel, then drive through the mid-foot to stand.",
+        "Keep the knees tracking over the toes and the chest roughly over the mid-foot.",
+        "Re-rack carefully between sets and never bounce out of a collapsed bottom position."
+      ]
+    },
+    "legs-belt-squat": {
+      "name": "Belt Squat",
+      "instructions": [
+        "Secure the belt around the hips and attach it to the belt-squat machine or loading pin.",
+        "Stand on the platform with feet about shoulder-width and hold the handles only for balance.",
+        "Sit the hips down into a squat, then drive through the feet to stand without leaning hard on the hands.",
+        "Keep the torso more upright than a back squat since the load hangs from the hips.",
+        "Unlock the carriage fully before loading the descent, and re-rack before exiting the belt."
+      ]
+    },
+    "legs-bodyweight-squat": {
+      "name": "Bodyweight Squat",
+      "instructions": [
+        "Stand with feet about shoulder-width and toes slightly turned out on a clear floor.",
+        "Brace the abdomen and extend the arms forward or place the hands on the hips.",
+        "Sit the hips down and back to a controlled depth, then stand by pushing through the whole foot.",
+        "Keep the heels down and the knees tracking in the direction of the toes.",
+        "Pause at the bottom if balance is lost, rather than bouncing out of the hole."
+      ]
+    },
+    "legs-bulgarian-split-squat": {
+      "name": "Bulgarian Split Squat",
+      "instructions": [
+        "Stand in a split stance with the rear foot elevated on a stable bench and the front foot far enough forward for balance.",
+        "Hold dumbbells at the sides or a barbell on the back, and brace the trunk over the front leg.",
+        "Lower the rear knee toward the floor by bending the front knee, then drive through the front foot to rise.",
+        "Keep most of the weight on the front leg and the front heel grounded.",
+        "Finish the reps on one leg, then switch the elevated foot and match the stance on the other side."
+      ]
+    },
+    "legs-cable-pull-through": {
+      "name": "Cable Pull-Through",
+      "instructions": [
+        "Attach a rope to the low pulley, face away from the stack, and straddle the cable so it passes between the legs.",
+        "Hold both rope ends at the hips with arms straight and hinge the torso forward with a soft knee bend.",
+        "Drive the hips forward to stand tall until the glutes squeeze, then hinge back to the start.",
+        "Keep the arms passive—the hips, not the arms, should move the rope.",
+        "Maintain a neutral spine and stop if the lower back rounds to reach farther."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley low so the cable travels between the legs from the floor stack."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip a rope securely; face away from the stack and straddle the cable."
+        },
+        {
+          "index": 2,
+          "title": "Distance from Machine",
+          "description": "Step forward until there is tension at the start of the hinge without yanking the stack."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Hinge with a neutral spine; drive the hips through without hyperextending the low back at lockout."
+        }
+      ]
+    },
+    "legs-donkey-calf-raise": {
+      "name": "Donkey Calf Raise",
+      "instructions": [
+        "Set up on a donkey calf machine or bend forward with hips supported and the balls of both feet on a raised edge.",
+        "Let the heels hang below the platform and place any load on the hips as the machine requires.",
+        "Raise both heels as high as possible, pause, then lower into a full stretch.",
+        "Keep the knees softly straight without locking them hard.",
+        "Avoid bouncing at the bottom or rolling the ankles outward."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Hip Pad",
+          "description": "Set the pad across the hips so load sits on the pelvis, not the low back."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place the balls of the feet on the block with heels free to move through a full range."
+        },
+        {
+          "index": 2,
+          "title": "Torso Support",
+          "description": "Brace the torso on the machine pads as designed; keep the neck neutral."
+        },
+        {
+          "index": 3,
+          "title": "Control",
+          "description": "Avoid bouncing out of the bottom stretch under the hip pad."
+        }
+      ]
+    },
+    "legs-dumbbell-lunge": {
+      "name": "Dumbbell Lunge",
+      "instructions": [
+        "Stand tall holding a dumbbell in each hand at the sides with feet together.",
+        "Step one foot forward into a long enough stride that both knees can bend about 90°.",
+        "Lower the back knee toward the floor, then push through the front foot to return to standing.",
+        "Keep the trunk upright and the front knee tracking over the toes.",
+        "Alternate legs each rep or finish one side first, then switch, keeping the dumbbells still at the sides."
+      ]
+    },
+    "legs-dumbbell-romanian-deadlift": {
+      "name": "Dumbbell Romanian Deadlift",
+      "instructions": [
+        "Stand holding a dumbbell in each hand in front of the thighs with a soft knee bend.",
+        "Brace the trunk and keep the shoulder blades gently set.",
+        "Push the hips back to slide the dumbbells down the thighs until you feel a hamstring stretch, then drive the hips forward to stand.",
+        "Keep the dumbbells close to the legs and the spine long.",
+        "Stop the descent before the lower back rounds or the dumbbells drift away from the body."
+      ]
+    },
+    "legs-front-squat": {
+      "name": "Front Squat",
+      "instructions": [
+        "Set a barbell in a front-rack across the fronts of the shoulders with elbows high, or use a cross-arm rack.",
+        "Unrack with feet about shoulder-width and brace the trunk upright.",
+        "Sit straight down between the hips to depth, then drive through the mid-foot to stand.",
+        "Keep the elbows up so the bar stays on the shoulders rather than rolling forward.",
+        "Use a lighter load than the back squat if the rack position limits depth or balance."
+      ]
+    },
+    "legs-glute-bridge": {
+      "name": "Glute Bridge",
+      "instructions": [
+        "Lie on your back on a mat with knees bent, feet flat about hip-width, and arms by the sides.",
+        "Brace the abdomen and tuck the pelvis slightly so the lower back is not arched hard.",
+        "Drive through the heels to raise the hips until the body forms a line from shoulders to knees, then lower slowly.",
+        "Squeeze the glutes at the top without pushing the ribs toward the ceiling.",
+        "Keep both feet planted and avoid shifting to one side."
+      ]
+    },
+    "legs-glute-ham-raise": {
+      "name": "Glute-Ham Raise",
+      "instructions": [
+        "Adjust the GHD so the thighs rest on the pad and the ankles are secured under the foot rollers.",
+        "Start with the body roughly in a straight line from knees to head and brace the trunk.",
+        "Lower the torso by extending at the knees under control, then curl back up by flexing the knees and hips.",
+        "Keep the hips extended as you rise so the hamstrings, not a back arch, do the work.",
+        "Use a shortened range or band assistance until you can control the full eccentric."
+      ]
+    },
+    "legs-glute-kickback": {
+      "name": "Glute Kickback",
+      "instructions": [
+        "Attach an ankle cuff to the low cable or set a glute-kickback machine pad against one foot.",
+        "Face the support, hold the frame, and keep the working leg's hip square with a soft bend in the standing knee.",
+        "Drive the working leg straight back from the hip, squeeze the glute, then return without touching down hard.",
+        "Keep the torso still—do not arch the lower back to lift the leg higher.",
+        "Finish the reps on one leg, then switch the cuff or pad to the other ankle."
+      ]
+    },
+    "legs-goblet-squat": {
+      "name": "Goblet Squat",
+      "instructions": [
+        "Hold one dumbbell or kettlebell vertically against the center of the chest with both hands.",
+        "Stand with feet about shoulder-width and toes slightly out, elbows pointing down beside the weight.",
+        "Sit the hips down between the knees to depth, then drive through the mid-foot to stand.",
+        "Keep the chest tall and the weight glued to the sternum throughout.",
+        "Use the elbows to gently track inside the knees without forcing an extreme stance."
+      ]
+    },
+    "legs-hack-squat": {
+      "name": "Hack Squat",
+      "instructions": [
+        "Step onto the hack-squat platform, place the shoulders under the pads, and set both feet about shoulder-width.",
+        "Unlock the safeties, brace the trunk, and keep the back flat against the pad.",
+        "Bend the knees to lower into a squat, then press the platform away to stand.",
+        "Keep the heels down and the knees tracking over the toes.",
+        "Re-engage the safeties before stepping out, and stop if the lower back peels off the pad."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Shoulder Pads",
+          "description": "Set shoulder pads so they sit comfortably without forcing the neck into flexion."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place feet mid-platform at a stance that lets knees track over the toes."
+        },
+        {
+          "index": 2,
+          "title": "Back Position",
+          "description": "Keep the back and hips against the sled pad throughout the squat."
+        },
+        {
+          "index": 3,
+          "title": "Safe Depth",
+          "description": "Descend to a depth you can control without the low back peeling off the pad."
+        },
+        {
+          "index": 4,
+          "title": "Safety Stops",
+          "description": "Engage safety catches if the machine provides them before loading heavy."
+        }
+      ]
+    },
+    "legs-hip-abduction": {
+      "name": "Hip Abduction",
+      "instructions": [
+        "Sit in the hip-abduction machine with the outer thigh pads just above the knees and the back against the pad.",
+        "Hold the handles and place both feet on the footrests.",
+        "Open both knees outward against the pads, pause, then return slowly without letting the stack slam.",
+        "Keep the pelvis still on the seat—do not rock to gain range.",
+        "Use a pain-free range; sharp hip pinching means the seat or start angle needs adjustment."
+      ]
+    },
+    "legs-hip-adduction": {
+      "name": "Hip Adduction",
+      "instructions": [
+        "Sit in the hip-adduction machine with the inner thigh pads just above the knees and the back against the pad.",
+        "Hold the handles and place both feet on the footrests with the legs open to the start angle.",
+        "Squeeze both knees inward against the pads, pause, then return slowly to the open position.",
+        "Keep the torso upright and the pelvis planted on the seat.",
+        "Do not bounce the pads together or force a range that pinches the groin."
+      ]
+    },
+    "legs-hip-thrust": {
+      "name": "Hip Thrust",
+      "instructions": [
+        "Sit on the floor with the upper back against a stable bench and a padded barbell over the hip crease.",
+        "Plant both feet flat about hip-width so the shins will be nearly vertical at the top.",
+        "Drive through the heels to raise the hips until the torso is roughly parallel to the floor, then lower with control.",
+        "Tuck the chin slightly and finish by squeezing the glutes, not by overarching the lower back.",
+        "Keep both feet grounded and the bar centered over the hips for the whole set."
+      ]
+    },
+    "legs-lateral-lunge": {
+      "name": "Lateral Lunge",
+      "instructions": [
+        "Stand tall with feet together, holding dumbbells at the sides or with hands free.",
+        "Take a wide step directly to one side and keep the trailing leg straight.",
+        "Sit the hips back and down over the stepping leg, then push off that foot to return to center.",
+        "Keep the stepping foot flat and the knee tracking over the toes.",
+        "Alternate sides each rep or finish one side, then switch, without letting the torso collapse forward."
+      ]
+    },
+    "legs-leg-extension": {
+      "name": "Leg Extension",
+      "instructions": [
+        "Adjust the seat so the knees align with the machine's pivot and the shin pad rests just above the ankles.",
+        "Sit back against the pad, hold the handles, and place both shins behind the pad.",
+        "Extend both knees until the legs are nearly straight, pause, then lower slowly.",
+        "Keep the hips down on the seat for the entire set.",
+        "Avoid slamming into a hard lockout or using momentum from the torso."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Backrest Adjustment",
+          "description": "Sit with the back against the pad so the thighs are fully supported on the seat."
+        },
+        {
+          "index": 1,
+          "title": "Knee Alignment",
+          "description": "Adjust the seat so your knees align with the machine’s pivot point."
+        },
+        {
+          "index": 2,
+          "title": "Roller Pad",
+          "description": "Place the roller pad just above the ankles—not on the shin bone mid-tibia."
+        },
+        {
+          "index": 3,
+          "title": "Seat Depth",
+          "description": "Move the seat forward or back so the back of the knees clears the seat edge comfortably."
+        }
+      ]
+    },
+    "legs-leg-press": {
+      "name": "Leg Press",
+      "instructions": [
+        "Sit in the leg-press seat, place both feet about shoulder-width on the platform, and adjust the seat so the knees start comfortably bent.",
+        "Grip the handles, brace the trunk, and unlock the sled safeties.",
+        "Bend both knees to lower the platform toward the chest, then press through the whole foot to extend the legs.",
+        "Keep the lower back and hips glued to the seat—do not let the pelvis curl under at the bottom.",
+        "Re-rack the safeties before exiting and stop short of locking the knees violently."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat / Back Angle",
+          "description": "Adjust the seat or sled so your back and sacrum stay flat on the pad through the press."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place feet mid-platform, about hip- to shoulder-width, with heels planted—not only on the toes."
+        },
+        {
+          "index": 2,
+          "title": "Knee Tracking",
+          "description": "Knees track over the toes; do not let them collapse hard inward under load."
+        },
+        {
+          "index": 3,
+          "title": "Safe Depth",
+          "description": "Lower until thighs approach a right angle or your comfortable depth without the low back rounding off the pad."
+        },
+        {
+          "index": 4,
+          "title": "Lockout Warning",
+          "description": "Finish with soft knees—do not slam the joints into a hard lockout under heavy load."
+        }
+      ]
+    },
+    "legs-leg-press-calf-raise": {
+      "name": "Leg Press Calf Raise",
+      "instructions": [
+        "Sit in the leg press and place only the balls of both feet on the lower edge of the platform with heels hanging off.",
+        "Press the platform to a soft knee extension and hold that leg position steady.",
+        "Lower both heels for a stretch, then rise onto the balls of the feet as high as possible and pause.",
+        "Keep the ankles aligned and avoid letting the knees bend and straighten each rep.",
+        "Use a controlled range and keep the safeties set before starting."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Foot Placement",
+          "description": "Place the balls of the feet on the lower edge of the platform with heels free to move."
+        },
+        {
+          "index": 1,
+          "title": "Seat Position",
+          "description": "Keep the back against the pad with soft knees—do not fully lock the legs while raising the heels."
+        },
+        {
+          "index": 2,
+          "title": "Range of Motion",
+          "description": "Lower heels under control; stop if you feel a sharp pull in the Achilles or calf."
+        },
+        {
+          "index": 3,
+          "title": "Safety",
+          "description": "Use a light enough load that you can control the stretch—do not bounce out of the bottom."
+        }
+      ]
+    },
+    "legs-lying-leg-curl": {
+      "name": "Lying Leg Curl",
+      "instructions": [
+        "Lie face-down on the lying leg-curl machine with the knee joint aligned to the pivot and the roller just above the heels.",
+        "Grip the handles and keep the hips pressed into the pad.",
+        "Curl both heels toward the glutes, pause, then lower under control.",
+        "Keep the ankles relaxed in a natural position rather than pointed hard.",
+        "Do not lift the hips or yank the stack with momentum."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knee Alignment",
+          "description": "Lie so the knees line up with the machine’s pivot at the edge of the pad."
+        },
+        {
+          "index": 1,
+          "title": "Roller Pad Position",
+          "description": "Adjust the ankle roller to rest just above the heels."
+        },
+        {
+          "index": 2,
+          "title": "Hip Position",
+          "description": "Keep hips pressed into the pad; do not lift them to cheat the weight up."
+        },
+        {
+          "index": 3,
+          "title": "Back / Chest Support",
+          "description": "Rest the torso fully on the pad with a neutral neck—do not crank the head up."
+        }
+      ]
+    },
+    "legs-machine-hip-thrust": {
+      "name": "Machine Hip Thrust",
+      "instructions": [
+        "Sit in a hip-thrust machine with the back pad against the upper back and the lap pad or belt secured.",
+        "Plant the feet flat so shins are roughly vertical at the top.",
+        "Drive through the heels to extend the hips until the torso and thighs form a straight line.",
+        "Squeeze the glutes at the top without overarching the lumbar spine, then lower with control.",
+        "Keep the chin slightly tucked and stop if the low back takes over the movement."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Back Pad Height",
+          "description": "Set the back pad so it sits across the shoulder blades, not on the neck."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place feet so shins are roughly vertical at the top; knees track over the toes."
+        },
+        {
+          "index": 2,
+          "title": "Hip Position",
+          "description": "Drive through the mid-foot and finish with a tucked pelvis—avoid overarching the low back."
+        },
+        {
+          "index": 3,
+          "title": "Safety",
+          "description": "Fully engage seat and pad pins before loading; control the descent under the pad."
+        }
+      ]
+    },
+    "legs-nordic-curl": {
+      "name": "Nordic Curl",
+      "instructions": [
+        "Kneel on padding and secure both ankles under a heavy bench, partner, or Nordic curl anchor.",
+        "Keep the hips extended and the trunk braced in a straight line from knees to head.",
+        "Slowly lower the torso forward by resisting at the knees, then pull back up or push off the floor to return.",
+        "Keep the hands ready to catch yourself as the difficulty rises near the floor.",
+        "Shorten the eccentric range until you can control most of the descent without collapsing."
+      ]
+    },
+    "legs-pendulum-squat": {
+      "name": "Pendulum Squat",
+      "instructions": [
+        "Step onto the pendulum-squat platform, place the shoulders under the pads, and set both feet securely.",
+        "Unlock the machine, brace the trunk, and keep the back against the pad.",
+        "Descend by bending the knees along the machine's arc, then press back to the start.",
+        "Keep the heels down and the knees tracking over the toes.",
+        "Re-engage the safeties before stepping away from the machine."
+      ]
+    },
+    "legs-pistol-squat": {
+      "name": "Pistol Squat",
+      "instructions": [
+        "Stand on one foot with the other leg extended forward and arms reaching ahead for balance.",
+        "Brace the trunk and keep the standing heel glued to the floor.",
+        "Sit the hips down on the standing leg to a controlled depth, then drive through that foot to stand.",
+        "Keep the extended leg off the floor and the knee of the working leg tracking over the toes.",
+        "Finish the reps on one leg, then switch; use a support or partial depth until balance is solid."
+      ]
+    },
+    "legs-reverse-lunge": {
+      "name": "Reverse Lunge",
+      "instructions": [
+        "Stand tall holding dumbbells at the sides or with bodyweight only and feet together.",
+        "Step one foot straight back into a split stance, keeping the front foot planted.",
+        "Lower the back knee toward the floor, then push through the front foot to return to standing.",
+        "Keep the trunk upright and the front knee tracking over the toes.",
+        "Alternate legs or finish one side first, then switch, without rushing the return step."
+      ]
+    },
+    "legs-romanian-deadlift": {
+      "name": "Romanian Deadlift",
+      "instructions": [
+        "Stand holding a loaded barbell in front of the thighs with a soft knee bend and an overhand or mixed grip.",
+        "Brace the trunk and set the shoulder blades before moving.",
+        "Push the hips back to slide the bar down the thighs until the hamstrings stretch, then drive the hips forward to stand.",
+        "Keep the bar close to the legs and the spine long for the whole hinge.",
+        "Stop before the lower back rounds; this is a hip hinge, not a squat."
+      ]
+    },
+    "legs-seated-calf-raise": {
+      "name": "Seated Calf Raise",
+      "instructions": [
+        "Sit in the seated calf machine, place the balls of both feet on the platform edge, and set the thigh pad on the lower thighs.",
+        "Unlock the stop and let the heels sink into a comfortable stretch.",
+        "Raise both heels as high as possible, pause, then lower slowly.",
+        "Keep the knees stable under the pad without bouncing.",
+        "Re-rack the stop before removing the thigh pad."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat & Knee Pad",
+          "description": "Sit with the knee pad resting on the lower thighs just above the knees—not on the kneecaps."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place the balls of the feet on the platform with heels free to drop."
+        },
+        {
+          "index": 2,
+          "title": "Range of Motion",
+          "description": "Lower heels under control; avoid bouncing out of a deep stretch."
+        },
+        {
+          "index": 3,
+          "title": "Adjustment Pins",
+          "description": "Engage the knee-pad pin fully before selecting the stack or loading plates."
+        }
+      ]
+    },
+    "legs-seated-leg-curl": {
+      "name": "Seated Leg Curl",
+      "instructions": [
+        "Adjust the seated leg-curl machine so the knee aligns with the pivot and the lower pad rests just above the heels.",
+        "Sit back against the pad, secure the lap pad on the thighs, and hold the handles.",
+        "Curl both heels under the seat toward the glutes, pause, then return slowly.",
+        "Keep the hips down and avoid lifting the lap pad with the thighs.",
+        "Do not let the weight stack slam at the end of the return."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knee Alignment",
+          "description": "Line the knees up with the machine pivot before selecting the weight."
+        },
+        {
+          "index": 1,
+          "title": "Roller Pad Position",
+          "description": "Set the lower roller just above the heels on the Achilles area, not mid-calf."
+        },
+        {
+          "index": 2,
+          "title": "Thigh / Hip Pad",
+          "description": "Secure the thigh pad so hips stay down when you curl."
+        },
+        {
+          "index": 3,
+          "title": "Back Support",
+          "description": "Sit tall against the back pad; avoid rounding forward to finish the curl."
+        }
+      ]
+    },
+    "legs-single-leg-press": {
+      "name": "Single-Leg Press",
+      "instructions": [
+        "Sit in the leg-press seat and place only one foot in the center of the platform, with the other foot resting off the sled.",
+        "Grip the handles, brace the trunk, and unlock the safeties while keeping the hips and lower back on the seat.",
+        "Bend the working knee to lower the platform under control, then press through that whole foot to extend the leg.",
+        "Keep the non-working leg relaxed and clear of the moving platform.",
+        "Re-rack the safeties, switch feet, and repeat the same foot placement on the other side."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat / Back Angle",
+          "description": "Keep the back flat on the pad; stabilize the non-working foot off the platform or lightly on the floor as the machine allows."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Center the working foot on the platform with the heel down; avoid a narrow edge stance."
+        },
+        {
+          "index": 2,
+          "title": "Knee Tracking",
+          "description": "Track the knee over the toes and keep the hips square on the pad."
+        },
+        {
+          "index": 3,
+          "title": "Safe Depth",
+          "description": "Use a controlled depth that keeps the pelvis from twisting off the back pad."
+        },
+        {
+          "index": 4,
+          "title": "Lockout Warning",
+          "description": "Avoid hard lockouts on one leg; keep a soft knee at the top."
+        }
+      ]
+    },
+    "legs-single-leg-romanian-deadlift": {
+      "name": "Single-Leg Romanian Deadlift",
+      "instructions": [
+        "Stand on one leg holding a dumbbell or kettlebell in the opposite hand, soft knee on the stance leg.",
+        "Brace the trunk and keep the hips square to the floor.",
+        "Hinge forward, sending the free leg back as the weight travels toward mid-shin.",
+        "Return by driving the stance hip forward until you stand tall and balanced.",
+        "Use a light touch of the free toe for balance if needed; switch legs after the set."
+      ]
+    },
+    "legs-sissy-squat": {
+      "name": "Sissy Squat",
+      "instructions": [
+        "Stand with feet about hip-width, lightly hold a stable support, and rise onto the balls of the feet; alternatively, secure the lower legs in a sissy-squat bench.",
+        "Brace the trunk and keep the thighs and torso in one straight line with the hips extended.",
+        "Let the knees travel forward as the whole body leans backward, keeping the heels raised in the unsupported version.",
+        "Lower only as far as you can control, then extend the knees to return without sitting the hips back.",
+        "Use a short range first and stop if the knees feel sharp pain rather than muscular effort."
+      ]
+    },
+    "legs-smith-machine-squat": {
+      "name": "Smith Machine Squat",
+      "instructions": [
+        "Set the Smith bar on the upper back and position both feet slightly forward of the bar line for balance.",
+        "Unlock the bar, brace the trunk, and set the feet about shoulder-width apart.",
+        "Sit the hips down to a controlled depth along the fixed bar path, then drive up to stand and re-rack.",
+        "Keep the knees tracking over the toes and the heels down.",
+        "Because the path is fixed, adjust foot placement carefully and stop if the forced line irritates the knees or back."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Safety Stops",
+          "description": "Set safety stops just below the lowest point of your squat before loading the bar."
+        },
+        {
+          "index": 1,
+          "title": "Bar Height",
+          "description": "Start with the bar on the upper back at a height that lets you unhook without rising on the toes."
+        },
+        {
+          "index": 2,
+          "title": "Foot Positioning",
+          "description": "Place feet slightly forward of the bar path so you can sit between the heels under the fixed rails."
+        },
+        {
+          "index": 3,
+          "title": "Rack Position",
+          "description": "Unhook carefully and re-hook both sides fully at the top of every set."
+        }
+      ]
+    },
+    "legs-smith-romanian-deadlift": {
+      "name": "Smith Machine Romanian Deadlift",
+      "instructions": [
+        "Stand inside a Smith machine with the bar over mid-foot, soft knees, and hands just outside the thighs.",
+        "Unrack, set the shoulder blades, and brace the trunk.",
+        "Hinge at the hips to slide the bar down the thighs until you feel a strong hamstring stretch.",
+        "Drive the hips forward to stand tall without hyperextending the low back.",
+        "Keep the bar close to the legs and the knees angle nearly constant."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Safety Stops",
+          "description": "Set stops just below your lowest controlled hinge position."
+        },
+        {
+          "index": 1,
+          "title": "Bar Starting Height",
+          "description": "Begin with the bar at mid-thigh to hip height so you can unhook with a tall torso."
+        },
+        {
+          "index": 2,
+          "title": "Foot Positioning",
+          "description": "Stand with feet under the hips; keep the bar close to the legs on the Smith path."
+        },
+        {
+          "index": 3,
+          "title": "Spine Position",
+          "description": "Hinge at the hips with a neutral back; stop before the low back rounds."
+        }
+      ]
+    },
+    "legs-split-squat": {
+      "name": "Split Squat",
+      "instructions": [
+        "Stand in a staggered stance with both feet on the floor, holding dumbbells at the sides or a barbell on the back.",
+        "Keep the torso tall and the front foot flat.",
+        "Lower straight down until the back knee nearly touches the floor and the front thigh is about parallel.",
+        "Drive through the front heel and mid-foot to return to the start without stepping the feet together.",
+        "Keep the front knee tracking over the mid-foot; switch legs after finishing the set."
+      ]
+    },
+    "legs-standing-calf-raise": {
+      "name": "Standing Calf Raise",
+      "instructions": [
+        "Stand in a standing calf machine or on a raised edge with the balls of both feet on the platform and the pads on the shoulders.",
+        "Unlock the stop and let both heels sink into a stretch while holding the handles for balance.",
+        "Rise onto the balls of both feet as high as possible, pause, then lower slowly.",
+        "Keep the knees softly straight and the ankles tracking straight up and down.",
+        "Avoid bouncing at the bottom or rushing incomplete lockouts at the top."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Shoulder Pad Height",
+          "description": "Set pads on the shoulders so you stand tall without compressing the neck."
+        },
+        {
+          "index": 1,
+          "title": "Foot Placement",
+          "description": "Place the balls of the feet on the block with heels free; keep ankles tracking straight."
+        },
+        {
+          "index": 2,
+          "title": "Knee Position",
+          "description": "Keep a soft knee—do not lock hard while bouncing through the calves."
+        },
+        {
+          "index": 3,
+          "title": "Range of Motion",
+          "description": "Use a controlled stretch at the bottom; stop if you feel sharp Achilles pain."
+        }
+      ]
+    },
+    "legs-standing-leg-curl": {
+      "name": "Standing Leg Curl",
+      "instructions": [
+        "Stand in the standing leg-curl machine with the working ankle under the roller and the thigh against the pad.",
+        "Hold the handles and keep the supporting leg stable with a soft knee bend.",
+        "Curl the working heel toward the glute, pause, then lower under control.",
+        "Keep the hips square to the machine and avoid leaning away from the working side.",
+        "Finish the set on one leg, then move the roller to the other ankle and repeat."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Knee Alignment",
+          "description": "Stand so the working knee aligns with the machine pivot."
+        },
+        {
+          "index": 1,
+          "title": "Roller Pad Position",
+          "description": "Place the roller just above the ankle on the working leg."
+        },
+        {
+          "index": 2,
+          "title": "Hip Position",
+          "description": "Keep the hips square and the torso tall; avoid leaning hard into the support pad."
+        },
+        {
+          "index": 3,
+          "title": "Support Hold",
+          "description": "Use the handles for balance only—do not pull yourself up through the arms."
+        }
+      ]
+    },
+    "legs-step-up": {
+      "name": "Step-Up",
+      "instructions": [
+        "Stand facing a stable box or bench holding dumbbells at the sides or with bodyweight only.",
+        "Place one whole foot on the box so the stepping heel is fully supported.",
+        "Drive through that foot to stand tall on the box, then step down under control with the same or trailing foot.",
+        "Keep the torso upright and the knee of the working leg tracking over the toes.",
+        "Complete the reps leading with one leg, then switch the leading foot; avoid pushing off hard with the trailing leg."
+      ]
+    },
+    "legs-stiff-leg-deadlift": {
+      "name": "Stiff-Leg Deadlift",
+      "instructions": [
+        "Stand holding a barbell or dumbbells in front of the thighs with the knees almost straight but not locked.",
+        "Brace the trunk and keep the shoulder blades gently set.",
+        "Hinge at the hips to lower the weight along the legs until the hamstrings stretch, then return by extending the hips.",
+        "Keep the weight close and the spine long with minimal knee bend throughout.",
+        "Use a shorter range than the Romanian deadlift if the lower back starts to round."
+      ]
+    },
+    "legs-sumo-squat": {
+      "name": "Sumo Squat",
+      "instructions": [
+        "Stand with a wide stance and toes turned out, holding a dumbbell, kettlebell, or barbell.",
+        "Brace the trunk and keep the chest up.",
+        "Sit the hips down between the heels until the thighs are at least parallel, knees tracking over the toes.",
+        "Drive the floor apart and stand tall without letting the knees cave in.",
+        "Keep the heels down and stop the depth if the lower back rounds."
+      ]
+    },
+    "legs-walking-lunge": {
+      "name": "Walking Lunge",
+      "instructions": [
+        "Stand tall holding dumbbells at the sides and clear a straight walking path.",
+        "Step one foot forward into a lunge, lowering the back knee toward the floor.",
+        "Push through the front foot to bring the back leg through into the next forward step without pausing upright if desired.",
+        "Keep the trunk upright and each front knee tracking over the toes.",
+        "Continue alternating legs for the planned distance or reps, then turn safely if space is limited."
+      ]
+    },
+    "legs-wall-sit": {
+      "name": "Wall Sit",
+      "instructions": [
+        "Stand with the back flat against a wall and walk the feet forward about two foot-lengths.",
+        "Slide down until the thighs are near parallel to the floor and the knees are above the ankles.",
+        "Hold that seated position with the back and head against the wall and arms relaxed or crossed.",
+        "Keep even pressure through both feet and breathe steadily.",
+        "Slide back up the wall to stand when the hold ends—do not let the knees collapse inward."
+      ]
+    },
+    "legs-zercher-squat": {
+      "name": "Zercher Squat",
+      "instructions": [
+        "Cradle a barbell in the crooks of the elbows at about waist height, hands clasped or palms up for stability.",
+        "Stand with feet about shoulder width, brace hard, and keep the elbows tight to the body.",
+        "Sit the hips down and back into a squat while keeping the torso as upright as the load allows.",
+        "Drive through mid-foot to stand, keeping the bar pinned in the elbows.",
+        "Use a pad or towel if the elbows are sore and stop before the upper back collapses forward."
+      ]
+    },
+    "mobility-ankle-dorsiflexion": {
+      "name": "Ankle Dorsiflexion Stretch",
+      "instructions": [
+        "Kneel with one foot forward and the knee tracking over the toes.",
+        "Drive the front knee forward while keeping the heel down.",
+        "Hold a gentle stretch through the ankle without collapsing the arch.",
+        "Switch sides after the timed hold.",
+        "Use a wall or rack for light balance support if needed."
+      ]
+    },
+    "mobility-cat-cow": {
+      "name": "Cat-Cow",
+      "instructions": [
+        "Start on hands and knees with wrists under shoulders and knees under hips.",
+        "Inhale as you arch the back and lift the chest and tailbone (cow).",
+        "Exhale as you round the spine and tuck the chin and pelvis (cat).",
+        "Move slowly through a comfortable range without forcing the neck.",
+        "Keep the arms long and the hips stacked over the knees."
+      ]
+    },
+    "mobility-couch-stretch": {
+      "name": "Couch Stretch",
+      "instructions": [
+        "Place the back shin against a bench or wall with the front foot planted in a lunge.",
+        "Keep the torso tall and gently tuck the pelvis to feel a hip-flexor stretch.",
+        "Hold without forcing the back knee into pain.",
+        "Switch sides after the timed hold.",
+        "Use hands for support until balance improves."
+      ]
+    },
+    "mobility-hip-90-90": {
+      "name": "90/90 Hip Stretch",
+      "instructions": [
+        "Sit with both knees bent about 90 degrees and the front shin parallel to the torso.",
+        "Keep the chest tall and lean slightly toward the front shin until you feel a hip stretch.",
+        "Switch sides by rotating both legs together without forcing the knees.",
+        "Breathe steadily and avoid rounding through the lower back.",
+        "Use hands for light support if balance is limited."
+      ]
+    },
+    "mobility-neck-rolls": {
+      "name": "Neck Rolls",
+      "instructions": [
+        "Sit or stand tall and gently roll the head in a slow circle within a pain-free range.",
+        "Reverse direction after the target reps.",
+        "Keep the shoulders down and avoid forcing end range.",
+        "Skip this drill if you have neck injury restrictions.",
+        "Breathe steadily throughout."
+      ]
+    },
+    "mobility-pigeon-stretch": {
+      "name": "Pigeon Stretch",
+      "instructions": [
+        "From a half-kneeling position, bring one shin across the body and extend the back leg behind you.",
+        "Square the hips toward the floor and fold forward only as far as comfort allows.",
+        "Keep the front knee supported and avoid forcing external rotation.",
+        "Hold, then switch sides.",
+        "Use a pad under the hip if the stretch feels uneven."
+      ]
+    },
+    "mobility-shoulder-dislocate": {
+      "name": "Shoulder Dislocates",
+      "instructions": [
+        "Hold a light band or stick with a wide overhand grip.",
+        "Keep the elbows soft and raise the arms overhead, then behind the body in a large arc.",
+        "Return the same path to the front without forcing end range.",
+        "Widen the grip if the shoulders feel pinched.",
+        "Stand tall and avoid arching the lower back."
+      ]
+    },
+    "mobility-standing-forward-fold": {
+      "name": "Standing Forward Fold",
+      "instructions": [
+        "Stand with feet hip-width and hinge from the hips to fold forward.",
+        "Keep a soft knee bend and let the head hang heavy.",
+        "Hold while breathing into the back of the legs.",
+        "Roll up slowly vertebra by vertebra to stand.",
+        "Stop short of sharp low-back pain."
+      ]
+    },
+    "mobility-thoracic-open-book": {
+      "name": "Thoracic Open Book",
+      "instructions": [
+        "Lie on your side with knees stacked and arms extended forward at shoulder height.",
+        "Reach the top arm across the body and open it toward the floor behind you.",
+        "Follow the hand with your eyes and keep the knees stacked.",
+        "Pause in the open position, then return with control.",
+        "Move only as far as the mid-back allows without pain."
+      ]
+    },
+    "mobility-thread-the-needle": {
+      "name": "Thread the Needle",
+      "instructions": [
+        "Start on hands and knees.",
+        "Slide one arm under the opposite armpit toward the floor while resting on the supporting forearm.",
+        "Rotate the upper back and keep the hips stacked over the knees.",
+        "Return to the start and switch sides.",
+        "Move slowly and stop short of sharp shoulder pain."
+      ]
+    },
+    "mobility-worlds-greatest-stretch": {
+      "name": "World's Greatest Stretch",
+      "instructions": [
+        "From a lunge, place the front foot flat and the back knee down or lightly lifted.",
+        "Place the same-side hand inside the front foot and reach the opposite arm to the ceiling.",
+        "Rotate through the mid-back and open the chest without collapsing the front knee.",
+        "Return the hand to the floor and switch sides with control.",
+        "Keep the hips square and the front heel grounded."
+      ]
+    },
+    "mobility-wrist-circles": {
+      "name": "Wrist Circles",
+      "instructions": [
+        "Extend one or both arms and gently circle the wrists through a full comfortable range.",
+        "Reverse direction after the target reps.",
+        "Keep the elbows soft and the shoulders relaxed.",
+        "Stop if you feel sharp joint pain.",
+        "Move slowly enough to control the path."
+      ]
+    },
+    "other-battle-ropes": {
+      "name": "Battle Ropes",
+      "instructions": [
+        "Anchor the battle ropes securely and hold one end in each hand with feet about shoulder-width apart.",
+        "Hinge slightly at the hips with soft knees and brace the trunk.",
+        "Create alternating or simultaneous waves by driving the arms up and down while the feet stay planted.",
+        "Keep the waves originating from the shoulders and arms, not from rounding the back.",
+        "Shorten the range or slow the tempo when the wave pattern loses consistency."
+      ]
+    },
+    "other-box-jump": {
+      "name": "Box Jump",
+      "instructions": [
+        "Stand facing a stable box with feet about hip-width and arms ready to swing.",
+        "Load the hips and knees into a quarter squat while swinging the arms back.",
+        "Jump onto the box, landing softly with both feet fully on the surface and the knees tracking over the toes.",
+        "Stand tall to finish the rep, then step down one foot at a time.",
+        "Choose a box height you can land on quietly; do not rebound immediately off an unstable landing."
+      ]
+    },
+    "other-clean-and-jerk": {
+      "name": "Clean and Jerk",
+      "instructions": [
+        "Stand over a loaded barbell with mid-foot under the bar, grip just outside the legs, and set a neutral spine.",
+        "Pull the bar from the floor past the knees, then explosively extend the hips and shrug to lift it.",
+        "Drop under the bar into a front rack catch, stand fully, then dip and drive to jerk it overhead to lockout.",
+        "Receive the jerk with arms locked and feet in a stable split or power stance, then recover the feet.",
+        "Use bumper plates on a suitable platform and drop the bar safely when needed."
+      ]
+    },
+    "other-dead-hang": {
+      "name": "Dead Hang",
+      "instructions": [
+        "Hang from a pull-up bar with an overhand or mixed grip and both arms straight.",
+        "Wrap the thumbs around the bar and keep the hands evenly spaced.",
+        "Let the body hang long while keeping a small amount of active shoulder tension, then hold for time.",
+        "Breathe steadily and avoid swinging or bending the elbows.",
+        "Step down to a box or floor before the grip fails suddenly."
+      ]
+    },
+    "other-farmer-carry": {
+      "name": "Farmer Carry",
+      "instructions": [
+        "Stand between two heavy dumbbells, kettlebells, or farmer handles and grip one in each hand at the sides.",
+        "Deadlift them to a tall standing position with the shoulders set and the trunk braced.",
+        "Walk forward with short controlled steps for the planned distance while keeping the implements clear of the thighs.",
+        "Keep the ribs stacked over the pelvis and avoid leaning to either side.",
+        "Set both implements down together under control at the end of the carry."
+      ]
+    },
+    "other-hang-clean": {
+      "name": "Hang Clean",
+      "instructions": [
+        "Hold a barbell at the hang above the knees with an overhand grip and a hinged athletic stance.",
+        "Brace the trunk and keep the bar close to the thighs.",
+        "Extend the hips and knees explosively, shrug, then pull under the bar into a front-rack catch and stand.",
+        "Receive the bar on the shoulders with the elbows high and the feet flat.",
+        "Lower the bar back to the hang under control between reps."
+      ]
+    },
+    "other-kettlebell-clean": {
+      "name": "Kettlebell Clean",
+      "instructions": [
+        "Stand over a kettlebell with feet about shoulder-width and the bell between the feet.",
+        "Hinge down, grip the handle with one hand, and hike the bell back between the legs.",
+        "Extend the hips to swing the bell up, then guide it into a rack position on the same-side forearm.",
+        "Keep the wrist straight in the rack and the elbow close to the body.",
+        "Lower or hike the bell for the next clean, then switch hands after the planned reps."
+      ]
+    },
+    "other-kettlebell-goblet-squat": {
+      "name": "Kettlebell Goblet Squat",
+      "instructions": [
+        "Hold one kettlebell by the horns at the center of the chest with both hands.",
+        "Stand with feet about shoulder-width and toes slightly out, elbows pointing down.",
+        "Sit the hips down between the knees to depth, then drive through the mid-foot to stand.",
+        "Keep the kettlebell glued to the chest and the torso upright.",
+        "Track the knees over the toes and keep the heels down throughout."
+      ]
+    },
+    "other-kettlebell-snatch": {
+      "name": "Kettlebell Snatch",
+      "instructions": [
+        "Stand over a kettlebell with feet about shoulder-width and grip the handle with one hand.",
+        "Hike the bell back between the legs with a hinged athletic stance.",
+        "Extend the hips explosively and punch the hand through so the bell lands softly overhead with a locked arm.",
+        "Keep the bell close on the way up and finish with the biceps near the ear and the ribs down.",
+        "Lower to the swing position for the next rep, then switch hands after the planned set."
+      ]
+    },
+    "other-kettlebell-swing": {
+      "name": "Kettlebell Swing",
+      "instructions": [
+        "Stand with feet about shoulder-width, hinge down, and grip a kettlebell with both hands between the feet.",
+        "Hike the bell back between the legs with a flat back and soft knees.",
+        "Snap the hips forward to swing the bell to about chest height, then let it float back into the next hike.",
+        "Keep the arms relaxed connectors—the power comes from the hip hinge, not a squat or arm raise.",
+        "Park the bell safely on the floor by hinging after the final rep."
+      ]
+    },
+    "other-landmine-rotation": {
+      "name": "Landmine Rotation",
+      "instructions": [
+        "Secure a barbell in a landmine base and hold the free end with both hands at chest height.",
+        "Stand with feet wider than the hips and the knees soft, facing the landmine.",
+        "Rotate the torso to move the bar in an arc from one hip toward the other, then reverse.",
+        "Keep the arms relatively straight and turn through the midsection while the feet stay planted.",
+        "Control both sides equally and stop if the lower back takes over the twist."
+      ]
+    },
+    "other-medicine-ball-slam": {
+      "name": "Medicine Ball Slam",
+      "instructions": [
+        "Stand with feet about shoulder-width holding a non-bouncing medicine ball at the chest or overhead.",
+        "Brace the trunk and rise onto the toes slightly as you lift the ball overhead if starting from the chest.",
+        "Slam the ball into the floor by hinging and driving the arms down, then pick it up and repeat.",
+        "Keep the face clear of rebounds and the knees tracking over the toes on the hinge.",
+        "Use a slam ball on a suitable surface that will not damage the floor."
+      ]
+    },
+    "other-muscle-up": {
+      "name": "Muscle-Up",
+      "instructions": [
+        "Hang from a pull-up bar or rings with a false or standard grip and arms straight.",
+        "Pull the chest aggressively toward the bar while keeping the body hollow or with a controlled kip.",
+        "Transition the chest over the bar and press to locked arms in a support position.",
+        "Keep the wrists stacked over the bar in the support and lower carefully between reps.",
+        "Build strength with pull-up and dip progressions before forcing full muscle-ups."
+      ]
+    },
+    "other-overhead-carry": {
+      "name": "Overhead Carry",
+      "instructions": [
+        "Press or snatch a dumbbell, kettlebell, or barbell to a locked overhead position with one or both arms.",
+        "Stand tall with the ribs down, biceps near the ears, and the trunk braced.",
+        "Walk forward with short steps for the planned distance while keeping the load locked out.",
+        "Keep the wrist stacked over the elbow and shoulder, and avoid leaning away from the load.",
+        "Lower the implement carefully after the carry; for single-arm work, switch sides and repeat."
+      ]
+    },
+    "other-plate-pinch": {
+      "name": "Plate Pinch",
+      "instructions": [
+        "Press two smooth plates together in one hand with the smooth sides out and the rims aligned.",
+        "Stand tall with the working arm hanging at the side and the trunk braced.",
+        "Hold the pinch without resting the plates on the thigh for the planned time.",
+        "Keep the shoulder set and the wrist neutral while breathing steadily.",
+        "Set the plates down under control, then switch hands for the other side."
+      ]
+    },
+    "other-power-clean": {
+      "name": "Power Clean",
+      "instructions": [
+        "Stand over a loaded barbell with mid-foot under the bar and an overhand grip just outside the legs.",
+        "Set a neutral spine and brace before separating the bar from the floor.",
+        "Pull explosively through the hips, then catch the bar in a shallow front-rack quarter squat and stand.",
+        "Keep the bar close and receive it with elbows high and feet flat.",
+        "Lower the bar to the floor under control or drop it on bumper plates between reps."
+      ]
+    },
+    "other-power-snatch": {
+      "name": "Power Snatch",
+      "instructions": [
+        "Stand over a loaded barbell with a wide snatch grip and mid-foot under the bar.",
+        "Set a neutral spine, brace, and keep the shoulders over the bar at the start.",
+        "Pull the bar from the floor and extend the hips explosively, then catch it overhead in a shallow squat and stand.",
+        "Finish with locked arms, the bar over mid-foot, and the head through.",
+        "Use light technique loads until the overhead catch is consistently stable."
+      ]
+    },
+    "other-prowler-push": {
+      "name": "Prowler Push",
+      "instructions": [
+        "Load a prowler evenly and face it with both hands on the high or low handles.",
+        "Lean forward into an athletic stance with both feet behind the sled and the trunk braced.",
+        "Drive forward with short powerful steps, keeping continuous pressure through the handles.",
+        "Keep the spine long and the eyes looking a few meters ahead.",
+        "Clear the lane before starting and stop before foot traction or posture fails."
+      ]
+    },
+    "other-sled-pull": {
+      "name": "Sled Pull",
+      "instructions": [
+        "Attach a harness or straps to a loaded sled and face away from it with the straps taut.",
+        "Lean slightly forward with soft knees and a braced trunk.",
+        "Walk or march forward, pulling the sled behind you with short driving steps.",
+        "Keep the straps from yanking the shoulders into a shrug.",
+        "Clear the path behind you and stop if the sled catches or posture collapses."
+      ]
+    },
+    "other-sled-push": {
+      "name": "Sled Push",
+      "instructions": [
+        "Load the sled evenly and place both hands on the poles or posts at a comfortable height.",
+        "Lean into the sled with both feet behind it and the body in a straight line from head to heels.",
+        "Drive the sled forward with short powerful steps while keeping constant arm pressure.",
+        "Keep the hips from rising much higher than the shoulders.",
+        "Use a clear turf or concrete lane and stop before technique breaks."
+      ]
+    },
+    "other-snatch": {
+      "name": "Snatch",
+      "instructions": [
+        "Stand over a loaded barbell with a wide snatch grip, mid-foot under the bar, and a set neutral spine.",
+        "Pull the bar from the floor past the knees while keeping it close and the shoulders over the bar.",
+        "Extend the hips explosively, then pull under to catch the bar overhead in a full squat and stand to finish.",
+        "Lock the arms hard in the catch with the bar over mid-foot.",
+        "Train with technique loads and bumper plates; drop the bar safely when the catch fails."
+      ]
+    },
+    "other-suitcase-carry": {
+      "name": "Suitcase Carry",
+      "instructions": [
+        "Deadlift one heavy dumbbell or kettlebell to the side of one hip as if holding a suitcase.",
+        "Stand tall with the free arm relaxed or slightly out for balance and the trunk braced against the lean.",
+        "Walk forward with short steps for the planned distance without letting the load pull you sideways.",
+        "Keep both shoulders level and the ribs stacked over the pelvis.",
+        "Set the implement down, switch hands, and carry the same distance on the other side."
+      ]
+    },
+    "other-thruster": {
+      "name": "Thruster",
+      "instructions": [
+        "Hold a barbell in the front rack or dumbbells at the shoulders with feet about shoulder-width.",
+        "Brace the trunk and keep the elbows up in the rack position.",
+        "Sit into a full front squat, then drive up and press the weight overhead in one continuous motion.",
+        "Lock the arms overhead as the hips and knees extend, then lower the weight back to the shoulders.",
+        "Do not pause long in the squat if the goal is a thruster cycle; keep the bar path close."
+      ]
+    },
+    "other-tire-flip": {
+      "name": "Tire Flip",
+      "instructions": [
+        "Face a large tire, squat down, and slide both hands under the near edge with a flat back.",
+        "Brace hard and set the feet about shoulder-width behind the tire.",
+        "Drive through the legs to lift the tire onto its edge, then push it over to complete the flip.",
+        "Step forward and reset the hand position for the next flip rather than rounding the back to scoop.",
+        "Clear the landing area and choose a tire you can control without losing the grip under the edge."
+      ]
+    },
+    "other-turkish-get-up": {
+      "name": "Turkish Get-Up",
+      "instructions": [
+        "Lie on your back holding a kettlebell in one hand locked toward the ceiling, same-side knee bent, and the free arm on the floor at about 45°.",
+        "Keep eyes on the kettlebell and press the working shoulder actively into the floor to start.",
+        "Roll to the free elbow, then the hand, sweep the straight leg through to a kneel, stand tall, then reverse the steps to the floor.",
+        "Keep the loaded arm vertical over the shoulder in every stage.",
+        "Complete the sequence on one side, then switch the kettlebell to the other hand and mirror the leg positions."
+      ]
+    },
+    "other-wall-ball": {
+      "name": "Wall Ball",
+      "instructions": [
+        "Stand facing a wall target holding a medicine ball at the chest with feet about shoulder-width.",
+        "Brace the trunk and keep the elbows under the ball.",
+        "Sit into a squat, then drive up and throw the ball to the target in one motion.",
+        "Catch the rebound at the chest and immediately descend into the next squat.",
+        "Choose a target height and ball weight that let you catch without collapsing the torso forward."
+      ]
+    },
+    "shoulders-arnold-press": {
+      "name": "Arnold Press",
+      "instructions": [
+        "Sit on a bench with back support holding dumbbells at shoulder height, palms facing you.",
+        "Brace the trunk and keep both feet planted on the floor.",
+        "Press the dumbbells overhead while rotating the palms forward, then reverse the rotation on the way down.",
+        "Finish with the arms nearly straight without shrugging the shoulders into the ears.",
+        "Keep the ribs down so the lower back does not arch off the pad."
+      ]
+    },
+    "shoulders-bradford-press": {
+      "name": "Bradford Press",
+      "instructions": [
+        "Sit or stand holding a light barbell at the front of the shoulders with an overhand grip.",
+        "Brace the trunk and keep the elbows under the bar.",
+        "Press the bar just high enough to clear the head, move it to the back-rack, lower slightly, then reverse to the front.",
+        "Use a continuous shallow path around the head rather than locking out overhead each time.",
+        "Choose a light load—this variation stresses the shoulders when rushed or overloaded."
+      ]
+    },
+    "shoulders-cable-front-raise": {
+      "name": "Cable Front Raise",
+      "instructions": [
+        "Attach a single handle to the low pulley and stand facing away or sideways so the cable clears the body.",
+        "Hold the handle in one hand at the thigh with a soft elbow bend and brace the trunk.",
+        "Raise the arm forward to about shoulder height, pause, then lower slowly.",
+        "Keep the palm facing down or slightly in and avoid swinging the torso.",
+        "Finish the reps on one arm, then switch the handle to the other hand."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley low so the cable travels upward in front of the body."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip the handle securely and fully insert the weight-stack pin."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand tall facing away or toward the stack as the cable path requires; keep a soft elbow."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid swinging the torso to move the load."
+        }
+      ]
+    },
+    "shoulders-cable-lateral-raise": {
+      "name": "Cable Lateral Raise",
+      "instructions": [
+        "Attach a single handle to the low pulley and stand side-on so the working arm is farthest from the stack.",
+        "Hold the handle in front of the near thigh with a soft elbow bend and brace tall.",
+        "Raise the arm out to the side until the hand reaches about shoulder height, then lower under control.",
+        "Lead with the elbow and keep the wrist neutral rather than pouring the hand down.",
+        "Complete the set on one side, then turn around and raise with the other arm."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley low beside you so the cable rises in the scapular plane."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip the handle securely and fully insert the weight-stack pin."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand side-on to the stack with the outside arm holding the handle; torso stays quiet."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid swinging the torso to move the load."
+        }
+      ]
+    },
+    "shoulders-cable-rear-delt-fly": {
+      "name": "Cable Rear Delt Fly",
+      "instructions": [
+        "Set two pulleys at about shoulder height and grasp the left handle with the right hand and the right handle with the left.",
+        "Stand centered with arms crossed in front of the chest and a soft elbow bend.",
+        "Open both arms out to the sides until they align with the shoulders, squeeze the rear delts, then return slowly.",
+        "Keep the torso still and the elbows at a fixed soft bend.",
+        "Use a light load so the movement stays in the rear shoulders, not the upper traps."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley at about upper-chest height for a reverse-fly path."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip the handle securely and fully insert the weight-stack pin."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Step back with soft elbows and pull the handles apart by driving the elbows back."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid swinging the torso to move the load."
+        }
+      ]
+    },
+    "shoulders-cable-upright-row": {
+      "name": "Cable Upright Row",
+      "instructions": [
+        "Attach a straight bar or EZ bar to a low cable and stand tall facing the stack.",
+        "Hold the bar with a narrow-to-shoulder-width overhand grip, arms long.",
+        "Pull the bar up along the body until it reaches about lower-chest height, elbows high and out.",
+        "Pause briefly, then lower with control to straight arms.",
+        "Keep the wrists neutral and stop if the shoulders pinch; do not yank past the comfort range."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Pulley Height",
+          "description": "Set the pulley low so the cable travels upward along the torso."
+        },
+        {
+          "index": 1,
+          "title": "Handle Attachment",
+          "description": "Clip the handle securely and fully insert the weight-stack pin."
+        },
+        {
+          "index": 2,
+          "title": "Starting Position",
+          "description": "Stand close to the stack with the bar or rope at thigh height before pulling up."
+        },
+        {
+          "index": 3,
+          "title": "Body Alignment",
+          "description": "Keep ribs down and avoid swinging the torso to move the load."
+        }
+      ]
+    },
+    "shoulders-cuban-press": {
+      "name": "Cuban Press",
+      "instructions": [
+        "Hold light dumbbells at the sides, then upright-row them until the upper arms are parallel to the floor.",
+        "Externally rotate the shoulders so the forearms point up and the weights sit above the elbows.",
+        "Press the dumbbells overhead to straight arms.",
+        "Reverse the path: lower to the external-rotation hold, then rotate and lower to the sides.",
+        "Use a light load and smooth tempo; this is a shoulder-health and control movement."
+      ]
+    },
+    "shoulders-dumbbell-upright-row": {
+      "name": "Dumbbell Upright Row",
+      "instructions": [
+        "Stand holding a dumbbell in each hand in front of the thighs with palms facing the body.",
+        "Brace the trunk and keep the feet about hip-width apart.",
+        "Pull the dumbbells straight up toward the lower chest, leading with the elbows, then lower slowly.",
+        "Keep the dumbbells close to the body and stop around lower-chest height.",
+        "Reduce the range or load if the shoulders feel pinched at the top."
+      ]
+    },
+    "shoulders-front-raise": {
+      "name": "Front Raise",
+      "instructions": [
+        "Stand holding a dumbbell in each hand at the fronts of the thighs with palms facing the thighs.",
+        "Brace the trunk and keep a soft bend in both elbows.",
+        "Raise one or both arms forward to about shoulder height, pause, then lower under control.",
+        "Keep the ribs down and avoid leaning back to swing the weights up.",
+        "If raising one arm at a time, alternate sides each rep with the same tempo."
+      ]
+    },
+    "shoulders-handstand-push-up": {
+      "name": "Handstand Push-Up",
+      "instructions": [
+        "Kick up into a handstand against a clear wall with both hands on the floor about shoulder-width apart.",
+        "Face the wall or back to the wall with the body stacked and the core braced.",
+        "Bend the elbows to lower the head toward the floor, then press back to straight arms.",
+        "Keep the elbows tracking forward/slightly out and the neck neutral.",
+        "Use a pike progression or reduced range until you can control the full descent and press."
+      ]
+    },
+    "shoulders-landmine-lateral-raise": {
+      "name": "Landmine Lateral Raise",
+      "instructions": [
+        "Stand sideways to a landmine with the free end of the bar in the outside hand at the hip.",
+        "Brace the trunk and keep a soft elbow bend.",
+        "Raise the bar out and slightly forward in a wide arc to about shoulder height.",
+        "Lower under control to the hip without letting the plate crash.",
+        "Keep the shoulder blade stable and switch sides after finishing the set."
+      ]
+    },
+    "shoulders-lateral-raise": {
+      "name": "Lateral Raise",
+      "instructions": [
+        "Stand holding a dumbbell in each hand at the sides with palms facing inward.",
+        "Brace tall with a soft bend in both elbows and the ribs down.",
+        "Raise both arms out to the sides until the hands reach about shoulder height, then lower slowly.",
+        "Lead slightly with the elbows and keep the wrists neutral.",
+        "Stop before shrugging the traps and do not swing the torso for momentum."
+      ]
+    },
+    "shoulders-lu-raise": {
+      "name": "Lu Raise",
+      "instructions": [
+        "Stand holding light dumbbells at the fronts of the thighs with a slight lean forward from the hips.",
+        "Keep a soft elbow bend and brace the trunk.",
+        "Raise the dumbbells in a wide arc that blends a front and lateral path until the arms are overhead, then reverse slowly.",
+        "Keep continuous tension and avoid bending the elbows into a press.",
+        "Use a light load—this long-range raise is easy to cheat with body swing."
+      ]
+    },
+    "shoulders-machine-lateral-raise": {
+      "name": "Machine Lateral Raise",
+      "instructions": [
+        "Adjust the machine seat so the pads rest on the outer upper arms just above the elbows.",
+        "Sit tall, hold the handles if present, and place both arms against the pads.",
+        "Raise both arms out to the sides until they approach shoulder height, then lower under control.",
+        "Keep the wrists relaxed and the torso against the back pad.",
+        "Avoid shrugging into the pads or bouncing out of the bottom."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Sit so the shoulder joints align with the machine’s pivot and pads meet the outer arms."
+        },
+        {
+          "index": 1,
+          "title": "Pad / Handle Position",
+          "description": "Rest the outer arms on the pads without shrugging the shoulders up into the ears."
+        },
+        {
+          "index": 2,
+          "title": "Back Support",
+          "description": "Keep the torso quiet against the pad; raise with the shoulders, not a lean."
+        },
+        {
+          "index": 3,
+          "title": "Range of Motion",
+          "description": "Raise to about shoulder height or slightly below; stop if the neck or traps take over."
+        }
+      ]
+    },
+    "shoulders-machine-shoulder-press": {
+      "name": "Machine Shoulder Press",
+      "instructions": [
+        "Adjust the seat so the machine handles start around shoulder height when your back is against the pad.",
+        "Place both feet on the floor and grip the handles evenly with wrists stacked.",
+        "Press the handles overhead until the arms are nearly straight, then lower to about ear level.",
+        "Keep the head and back against the pad and the ribs down.",
+        "Choose a seat height that does not force a shrugged starting position."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Adjust the seat so handles start around upper-chest to chin height—not beside the ears."
+        },
+        {
+          "index": 1,
+          "title": "Handle Starting Position",
+          "description": "Handles should align roughly with the front of the shoulders before you press."
+        },
+        {
+          "index": 2,
+          "title": "Back Support",
+          "description": "Keep the back and head against the pad; avoid arching to finish heavy reps."
+        },
+        {
+          "index": 3,
+          "title": "Elbow Alignment",
+          "description": "Elbows stay under the handles; do not flare into an extreme behind-the-neck path."
+        }
+      ]
+    },
+    "shoulders-overhead-press": {
+      "name": "Overhead Press",
+      "instructions": [
+        "Stand holding a barbell in the front rack across the shoulders with an overhand grip just outside shoulder width.",
+        "Set the feet about hip-width, brace the trunk, and keep the elbows slightly in front of the bar.",
+        "Press the bar straight overhead until the arms lock out with the head through, then lower to the shoulders.",
+        "Keep the ribs stacked over the pelvis and avoid leaning back into a bench-press angle.",
+        "Move the head slightly back on the way up and forward again as the bar passes, without craning the neck."
+      ]
+    },
+    "shoulders-pike-push-up": {
+      "name": "Pike Push-Up",
+      "instructions": [
+        "Place both hands on the floor and walk the feet in so the hips rise into an inverted-V pike.",
+        "Keep the legs as straight as mobility allows and the head between the arms.",
+        "Bend the elbows to lower the head toward the floor between the hands, then press back to the pike.",
+        "Keep the hips high so the shoulders, not the chest, do most of the pressing.",
+        "Elevate the feet on a box only after the floor pike is controlled."
+      ]
+    },
+    "shoulders-push-press": {
+      "name": "Push Press",
+      "instructions": [
+        "Stand with a barbell in the front rack, feet about hip-width, and hands just outside the shoulders.",
+        "Brace the trunk and keep the elbows slightly in front of the bar.",
+        "Dip the knees a few centimeters, then drive upward and press the bar overhead to lockout as the legs extend.",
+        "Lower the bar back to the shoulders under control before the next dip.",
+        "Keep the dip straight down—do not turn it into a forward lean or deep squat."
+      ]
+    },
+    "shoulders-rear-delt-fly": {
+      "name": "Rear Delt Fly",
+      "instructions": [
+        "Hold a dumbbell in each hand and hinge at the hips until the torso is near parallel to the floor, arms hanging.",
+        "Keep a soft fixed elbow bend and brace the trunk.",
+        "Raise both arms out to the sides until they align with the shoulders, squeeze, then lower slowly.",
+        "Lead with the elbows and keep the neck long rather than looking up.",
+        "Use a light load and stop if the upper traps take over the movement."
+      ]
+    },
+    "shoulders-reverse-pec-deck": {
+      "name": "Reverse Pec Deck",
+      "instructions": [
+        "Adjust the reverse pec-deck seat so the handles are at shoulder height and your chest is against the pad.",
+        "Grip the handles with arms extended forward and a soft elbow bend.",
+        "Open both arms out to the sides until they align with the torso, pause, then return slowly.",
+        "Keep the chest on the pad and avoid shrugging the shoulders up.",
+        "Select a load that lets the rear delts work without yanking the stack."
+      ],
+      "safety": [
+        {
+          "index": 0,
+          "title": "Seat Height",
+          "description": "Set the seat so handles or pads meet mid-chest to shoulder height with arms extended forward."
+        },
+        {
+          "index": 1,
+          "title": "Chest Pad",
+          "description": "Keep light contact with the chest pad; do not crush the sternum into it to finish reps."
+        },
+        {
+          "index": 2,
+          "title": "Elbow Position",
+          "description": "Maintain a soft elbow bend and sweep the arms back—avoid shrugging the weight up."
+        },
+        {
+          "index": 3,
+          "title": "Shoulder Start",
+          "description": "Begin with arms reaching forward and scapulae set; open only through a pain-free range."
+        }
+      ]
+    },
+    "shoulders-seated-barbell-press": {
+      "name": "Seated Barbell Press",
+      "instructions": [
+        "Sit on a bench with back support and unrack a barbell from the front of the shoulders or a rack.",
+        "Plant both feet, brace the trunk, and take an even overhand grip just outside shoulder width.",
+        "Press the bar overhead to lockout, then lower it to about chin or shoulder height.",
+        "Keep the back against the pad and the wrists stacked over the elbows.",
+        "Avoid excessive lower-back arch to finish the press."
+      ]
+    },
+    "shoulders-seated-dumbbell-press": {
+      "name": "Seated Dumbbell Press",
+      "instructions": [
+        "Sit on a bench with back support holding a dumbbell in each hand at shoulder height, palms forward.",
+        "Plant both feet and brace the trunk against the pad.",
+        "Press both dumbbells overhead until the arms are nearly straight, then lower to the shoulders.",
+        "Keep the wrists stacked and avoid clanging the dumbbells hard at the top.",
+        "Do not let the ribs flare so far that the lower back leaves the pad."
+      ]
+    },
+    "shoulders-single-arm-dumbbell-press": {
+      "name": "Single-Arm Dumbbell Press",
+      "instructions": [
+        "Sit or stand holding one dumbbell at shoulder height with the wrist stacked over the elbow.",
+        "Brace the trunk hard so the ribs stay stacked over the pelvis.",
+        "Press the dumbbell overhead to a straight arm without leaning excessively away from the weight.",
+        "Lower with control to the shoulder, then repeat; switch arms after the set.",
+        "Keep the neck long and stop if the low back arches to finish the lockout."
+      ]
+    },
+    "shoulders-standing-dumbbell-press": {
+      "name": "Standing Dumbbell Press",
+      "instructions": [
+        "Stand holding a dumbbell in each hand at shoulder height with palms facing forward or slightly in.",
+        "Set the feet about hip-width, brace the trunk, and keep the ribs down.",
+        "Press both dumbbells overhead to near lockout, then lower to the shoulders under control.",
+        "Keep the elbows under the wrists and avoid leaning back.",
+        "Stop the set if you must dip the knees or swing to move the weight."
+      ]
+    },
+    "shoulders-upright-row": {
+      "name": "Upright Row",
+      "instructions": [
+        "Stand holding a barbell in front of the thighs with an overhand grip about shoulder-width or slightly narrower.",
+        "Brace the trunk and keep the bar close to the body.",
+        "Pull the bar straight up toward the lower chest, leading with the elbows, then lower slowly.",
+        "Stop around lower-chest height rather than forcing the bar under the chin.",
+        "Widen the grip or shorten the range if the shoulders feel pinched."
+      ]
+    },
+    "shoulders-y-raise": {
+      "name": "Y-Raise",
+      "instructions": [
+        "Hold light dumbbells and hinge slightly or lie chest-down on an incline bench.",
+        "Start with arms hanging long, thumbs pointing roughly forward or up.",
+        "Raise the arms into a Y shape about 30–45 degrees from overhead, leading with the thumbs.",
+        "Pause at the top without shrugging, then lower slowly.",
+        "Use a light load; this is a control drill, not a heavy strength lift."
+      ]
+    }
+  }
+}

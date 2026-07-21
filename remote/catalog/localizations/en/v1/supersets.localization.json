@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Chest & Back (Machine)"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Chest & Back (Dumbbell)"
+    },
+    "superset-biceps-triceps": {
+      "name": "Biceps & Triceps"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Quads & Hamstrings"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Bench Press + Barbell Row"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Incline Dumbbell Press + Pull-Up"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Overhead Press + Lat Pulldown"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Push-Up + Seated Cable Row"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Back Squat + Pull-Up"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Romanian Deadlift + Dumbbell Bench Press"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Walking Lunge + Seated Dumbbell Press"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Leg Press + Barbell Row"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Incline Bench Press + Dumbbell Bench Press"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Pull-Up + Straight-Arm Pulldown"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Back Squat + Leg Extension"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Romanian Deadlift + Seated Leg Curl"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Barbell Curl + Tricep Pushdown"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Dumbbell Fly + Rear Delt Fly"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Wrist Curl + Reverse Wrist Curl"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Lateral Raise + Face Pull"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Front Raise + Reverse Pec Deck"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Arnold Press + Upright Row"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Skull Crusher"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Hammer Curl + Overhead Tricep Extension"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Cable Curl + Rope Pushdown"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Hanging Leg Raise + Plank"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Cable Crunch + Russian Twist"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Ab Wheel + Side Plank"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Incline Dumbbell Press + Dumbbell Bench Press + Decline Bench Press"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Lat Pulldown + Seated Cable Row + Barbell Shrug"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Leg Extension + Seated Leg Curl + Hip Thrust"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Front Raise + Lateral Raise + Rear Delt Fly"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Barbell Curl + Tricep Pushdown + Wrist Curl"
+    }
+  }
+}

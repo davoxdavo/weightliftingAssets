@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "fr",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Presse pectorale machine + rangée de câbles assis"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Développé couché avec haltères + rangée avec soutien de la poitrine"
+    },
+    "superset-biceps-triceps": {
+      "name": "Curl avec haltères + poussée des triceps"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Extension de jambe + Curl de jambe assis"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Développé couché + rangée d'haltères"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Presse à haltères inclinée + traction"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Presse aérienne + Pulldown latéral"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Push-Up + Rangée de Câbles Assis"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Squat arrière + traction"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Soulevé de terre roumain + développé couché avec haltères"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Fente de marche + Presse avec haltères assis"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Presse à jambes + rangée d'haltères"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Développé couché incliné + développé couché avec haltères"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Pull-Up + Pulldown avec bras droit"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Squat arrière + extension des jambes"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Soulevé de terre roumain + Curl des jambes assis"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Curl haltères + poussée des triceps"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Mouche d'haltère + Mouche Delt arrière"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Curl du poignet + Curl du poignet inversé"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Élévation latérale + traction du visage"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Élévation avant + pont Pec inversé"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Arnold Press + Rangée verticale"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Broyeur de crâne"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Curl marteau + extension des triceps au-dessus de la tête"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Boucle de câble + poussée de corde"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Élévation de jambe suspendue + planche"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Crunch de câble + torsion russe"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Roue abdominale + planche latérale"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Développé couché avec haltères incliné + Développé couché avec haltères + Développé couché incliné"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Tirage latéral + Rangée de câbles assis + Haussement d'haltères"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Extension de jambe + Curl de jambe assis + Poussée de hanche"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Élévation avant + élévation latérale + mouche Delt arrière"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Curl d'haltères + poussée des triceps + curl du poignet"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "nl",
+  "version": 1,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Machine Chest Press + zittende kabelrij"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Halterbankdrukken + borstondersteunde rij"
+    },
+    "superset-biceps-triceps": {
+      "name": "Dumbbell Curl + Triceps-pushdown"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Beenverlenging + zittende beenkrul"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Bankdrukken + halterrij"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Helling halterpers + pull-up"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Overheadpress + Lat Pulldown"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Push-up + zittende kabelrij"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Backsquat + optrekken"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Roemeense Deadlift + Dumbbell Bench Press"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Lopende Lunge + Zittende Dumbbell Press"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Legpress + halterrij"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Hellingbankdrukken + halterbankdrukken"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Pull-up + pull-down met rechte arm"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Rughurk + beenverlenging"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Roemeense deadlift + zittende beencurl"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Barbellcurl + triceps-pushdown"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Haltervlieg + achterste deltavlieg"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Polskrul + omgekeerde polskrul"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Lateraal heffen + gezicht trekken"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Front Raise + Reverse Pec-dek"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Arnold Druk op + Rechtopstaande rij"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Schedelbreker"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Hammer Curl + Tricep-extensie boven het hoofd"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Kabelkrul + touw naar beneden duwen"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Hangende beenverhoging + plank"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Kabelcrunch + Russische twist"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Ab-wiel + zijplank"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Incline Dumbbell Press + Dumbbell Bench Press + Decline Bankdrukken"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Lat Pulldown + Zittende Kabelrij + Halterophalen"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Beenverlenging + zittende beenkrul + heupkracht"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Front Raise + Lateral Raise + Rear Delt Fly"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Barbell Curl + Tricep Pushdown + Pols Curl"
+    }
+  }
+}
