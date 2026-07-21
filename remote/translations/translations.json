@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784620000,
+  "lastSyncedAt": 1784626589,
   "strings": {
     "Balanced": {
       "range": {
@@ -5544,6 +5544,168 @@
         "en": "Tap to resume",
         "ru": "Нажмите, чтобы продолжить",
         "hy": "Հպեք՝ շարունակելու համար"
+      }
+    },
+    "Account": {
+      "title": {
+        "en": "Account",
+        "ru": "Аккаунт",
+        "hy": "Հաշիվ"
+      },
+      "disclaimer": {
+        "en": "Signing in protects your account identity and prepares future cloud sync. Workouts stay on this device for now.",
+        "ru": "Вход защищает аккаунт и готовит будущую синхронизацию. Тренировки пока остаются на этом устройстве.",
+        "hy": "Մուտքը պաշտպանում է հաշիվը և պատրաստում է ապագա համաժամեցումը։ Մարզումները առայժմ մնում են այս սարքում։"
+      },
+      "linkedFooter": {
+        "en": "Signing out or deleting your account does not erase workouts saved on this device.",
+        "ru": "Выход или удаление аккаунта не стирает тренировки на этом устройстве.",
+        "hy": "Ելքը կամ հաշվի ջնջումը չի ջնջում այս սարքում պահված մարզումները։"
+      },
+      "signIn.section": {
+        "en": "Sign in",
+        "ru": "Войти",
+        "hy": "Մուտք"
+      },
+      "signIn.apple": {
+        "en": "Continue with Apple",
+        "ru": "Продолжить с Apple",
+        "hy": "Շարունակել Apple-ով"
+      },
+      "signIn.google": {
+        "en": "Continue with Google",
+        "ru": "Продолжить с Google",
+        "hy": "Շարունակել Google-ով"
+      },
+      "provider.apple": {
+        "en": "Apple",
+        "ru": "Apple",
+        "hy": "Apple"
+      },
+      "provider.google": {
+        "en": "Google",
+        "ru": "Google",
+        "hy": "Google"
+      },
+      "status.guest": {
+        "en": "Guest",
+        "ru": "Гость",
+        "hy": "Հյուր"
+      },
+      "status.guestSubtitle": {
+        "en": "You can log workouts now. Sign in when you want a lasting account.",
+        "ru": "Можно вести дневник сейчас. Войдите, когда захотите постоянный аккаунт.",
+        "hy": "Կարող եք գրանցել մարզումներ հիմա։ Մուտք գործեք, երբ ցանկանաք մշտական հաշիվ։"
+      },
+      "status.localOnly": {
+        "en": "Offline guest",
+        "ru": "Офлайн-гость",
+        "hy": "Անցանց հյուր"
+      },
+      "status.preparing": {
+        "en": "Preparing account…",
+        "ru": "Готовим аккаунт…",
+        "hy": "Հաշիվը պատրաստվում է…"
+      },
+      "status.signedIn": {
+        "en": "Signed in",
+        "ru": "Вы вошли",
+        "hy": "Մուտք եք գործել"
+      },
+      "status.signedInSubtitle": {
+        "en": "Account linked on this device",
+        "ru": "Аккаунт привязан на этом устройстве",
+        "hy": "Հաշիվը կապված է այս սարքին"
+      },
+      "prompt.workoutTitle": {
+        "en": "Sign in to keep your progress",
+        "ru": "Войдите, чтобы сохранить прогресс",
+        "hy": "Մուտք գործեք՝ առաջընթացը պահելու համար"
+      },
+      "prompt.workoutBody": {
+        "en": "Link Apple or Google so your account is ready when cloud sync arrives. Workouts stay local for now.",
+        "ru": "Привяжите Apple или Google — аккаунт будет готов к синхронизации. Тренировки пока локальные.",
+        "hy": "Կապեք Apple կամ Google՝ համաժամեցման համար։ Մարզումները առայժմ տեղական են։"
+      },
+      "prompt.insightsTitle": {
+        "en": "Protect your Insights later",
+        "ru": "Защитите Insights на будущее",
+        "hy": "Պաշտպանեք Insights-ը ապագայի համար"
+      },
+      "prompt.insightsBody": {
+        "en": "You’re using a guest account. Sign in so your identity is ready for future sync — workouts are not uploaded yet.",
+        "ru": "Вы в гостевом режиме. Войдите, чтобы аккаунт был готов к синхронизации — тренировки пока не загружаются.",
+        "hy": "Դուք հյուր եք։ Մուտք գործեք, որ հաշիվը պատրաստ լինի համաժամեցմանը — մարզումները դեռ չեն վերբեռնվում։"
+      },
+      "prompt.signIn": {
+        "en": "Sign in",
+        "ru": "Войти",
+        "hy": "Մուտք"
+      },
+      "prompt.continueInsights": {
+        "en": "Continue to Insights",
+        "ru": "Перейти к Insights",
+        "hy": "Շարունակել Insights"
+      },
+      "signOut": {
+        "en": "Sign out",
+        "ru": "Выйти",
+        "hy": "Ելք"
+      },
+      "signOut.confirmTitle": {
+        "en": "Sign out?",
+        "ru": "Выйти?",
+        "hy": "Ելք՞"
+      },
+      "signOut.confirmMessage": {
+        "en": "You’ll return to a guest account. Workouts on this device stay here.",
+        "ru": "Вы вернётесь в гостевой режим. Тренировки на устройстве останутся.",
+        "hy": "Կվերադառնաք հյուրի ռեժիմ։ Սարքի մարզումները կմնան։"
+      },
+      "delete": {
+        "en": "Delete account",
+        "ru": "Удалить аккаунт",
+        "hy": "Ջնջել հաշիվը"
+      },
+      "delete.confirmTitle": {
+        "en": "Delete account?",
+        "ru": "Удалить аккаунт?",
+        "hy": "Ջնջե՞լ հաշիվը"
+      },
+      "delete.confirmMessage": {
+        "en": "Removes your Firebase account. Workouts on this device are kept.",
+        "ru": "Удалит аккаунт Firebase. Тренировки на устройстве сохранятся.",
+        "hy": "Կջնջի Firebase հաշիվը։ Սարքի մարզումները կպահպանվեն։"
+      },
+      "delete.reauthTitle": {
+        "en": "Confirm it’s you",
+        "ru": "Подтвердите вход",
+        "hy": "Հաստատեք ինքնությունը"
+      },
+      "delete.reauthMessage": {
+        "en": "Sign in again with Apple or Google to delete your account.",
+        "ru": "Войдите снова через Apple или Google, чтобы удалить аккаунт.",
+        "hy": "Կրկին մուտք գործեք Apple կամ Google-ով՝ հաշիվը ջնջելու համար։"
+      },
+      "error.network": {
+        "en": "Network unavailable. Try again when you’re online.",
+        "ru": "Нет сети. Попробуйте, когда будете онлайн.",
+        "hy": "Ցանց չկա։ Փորձեք առցանց ժամանակ։"
+      },
+      "error.requiresRecentLogin": {
+        "en": "Please sign in again to continue.",
+        "ru": "Войдите снова, чтобы продолжить.",
+        "hy": "Շարունակելու համար կրկին մուտք գործեք։"
+      },
+      "error.cancelled": {
+        "en": "Sign-in was cancelled.",
+        "ru": "Вход отменён.",
+        "hy": "Մուտքը չեղարկվեց։"
+      },
+      "error.generic": {
+        "en": "Something went wrong. Please try again.",
+        "ru": "Что-то пошло не так. Попробуйте ещё раз.",
+        "hy": "Ինչ-որ բան սխալ է։ Կրկին փորձեք։"
       }
     }
   }
