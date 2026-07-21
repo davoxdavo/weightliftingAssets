@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784631358,
+  "lastSyncedAt": 1784637419,
   "strings": {
     "Balanced": {
       "range": {
@@ -3767,6 +3767,18 @@
       }
     },
     "HealthKit": {
+      "detail.failed": {
+        "en": "Failed",
+        "ru": "Ошибка",
+        "hy": "Ձախողվել է",
+        "sv": "Misslyckades",
+        "nb": "Mislyktes",
+        "nl": "Mislukt",
+        "da": "Mislykkedes",
+        "pl": "Niepowodzenie",
+        "fr": "Échec",
+        "ar": "فشل"
+      },
       "detail.notSaved": {
         "en": "Not saved",
         "ru": "Не сохранено",
@@ -3778,6 +3790,30 @@
         "pl": "Nie zapisano",
         "fr": "Non enregistré",
         "ar": "لم يتم حفظها"
+      },
+      "detail.pending": {
+        "en": "Pending",
+        "ru": "Ожидание",
+        "hy": "Սպասում",
+        "sv": "Väntar",
+        "nb": "Venter",
+        "nl": "In afwachting",
+        "da": "Afventer",
+        "pl": "Oczekuje",
+        "fr": "En attente",
+        "ar": "قيد الانتظار"
+      },
+      "detail.retry": {
+        "en": "Retry",
+        "ru": "Повторить",
+        "hy": "Կրկին փորձել",
+        "sv": "Försök igen",
+        "nb": "Prøv igjen",
+        "nl": "Opnieuw proberen",
+        "da": "Prøv igen",
+        "pl": "Ponów",
+        "fr": "Réessayer",
+        "ar": "إعادة المحاولة"
       },
       "detail.saved": {
         "en": "Saved",
@@ -3815,6 +3851,18 @@
         "fr": "L’accès aux soins de santé leur a été refusé. Activez Gym Logbook dans l’application Santé pour synchroniser les entraînements.",
         "ar": "تم رفض الوصول إلى الصحة. قم بتمكين Gym Logbook في تطبيق Health لمزامنة التدريبات."
       },
+      "settings.failedCount": {
+        "en": "%lld workouts failed to sync. Use Sync recent or Retry on a workout.",
+        "ru": "Не удалось синхронизировать тренировок: %lld. Используйте «Синхронизировать недавние» или «Повторить» на тренировке.",
+        "hy": "Չհաջողվեց համաժամեցնել %lld մարզում։ Օգտագործեք «Համաժամեցնել վերջինները» կամ «Կրկին փորձել» մարզման վրա։",
+        "sv": "%lld träningspass synkades inte. Använd Synka senaste eller Försök igen på ett pass.",
+        "nb": "%lld treningsøkter kunne ikke synkroniseres. Bruk Synkroniser nylige eller Prøv igjen på en økt.",
+        "nl": "%lld trainingen konden niet worden gesynchroniseerd. Gebruik Recente synchroniseren of Opnieuw proberen bij een training.",
+        "da": "%lld træninger kunne ikke synkroniseres. Brug Synkroniser seneste eller Prøv igen på en træning.",
+        "pl": "Nie udało się zsynchronizować %lld treningów. Użyj Synchronizuj ostatnie lub Ponów przy treningu.",
+        "fr": "%lld entraînements n’ont pas pu être synchronisés. Utilisez Synchroniser les récents ou Réessayer sur un entraînement.",
+        "ar": "فشل مزامنة %lld من التدريبات. استخدم مزامنة الأخيرة أو إعادة المحاولة على تمرين."
+      },
       "settings.footer": {
         "en": "Finished workouts are saved to Apple Health as workout time only. Calories are never estimated or written.",
         "ru": "Завершённые тренировки сохраняются в Apple Health только как время тренировки. Калории не оцениваются и не записываются.",
@@ -3839,6 +3887,18 @@
         "fr": "Santé ouverte",
         "ar": "افتح الصحة"
       },
+      "settings.pending": {
+        "en": "Some workouts are waiting to sync.",
+        "ru": "Некоторые тренировки ждут синхронизации.",
+        "hy": "Որոշ մարզումներ սպասում են համաժամեցման։",
+        "sv": "Vissa träningspass väntar på synkning.",
+        "nb": "Noen treningsøkter venter på synkronisering.",
+        "nl": "Sommige trainingen wachten op synchronisatie.",
+        "da": "Nogle træninger venter på synkronisering.",
+        "pl": "Niektóre treningi czekają na synchronizację.",
+        "fr": "Certains entraînements attendent d’être synchronisés.",
+        "ar": "بعض التدريبات بانتظار المزامنة."
+      },
       "settings.syncRecent": {
         "en": "Sync recent workouts",
         "ru": "Синхронизировать недавние",
@@ -3862,6 +3922,30 @@
         "pl": "Zsynchronizowane treningi %lld.",
         "fr": "Entraînements %lld synchronisés.",
         "ar": "تمت مزامنة %lld من التدريبات."
+      },
+      "settings.syncRecentPartial": {
+        "en": "Synced %lld workouts; %lld failed.",
+        "ru": "Синхронизировано: %lld; с ошибкой: %lld.",
+        "hy": "Համաժամեցվեց %lld; ձախողվեց %lld։",
+        "sv": "Synkroniserade %lld träningspass; %lld misslyckades.",
+        "nb": "Synkroniserte %lld treningsøkter; %lld mislyktes.",
+        "nl": "%lld trainingen gesynchroniseerd; %lld mislukt.",
+        "da": "Synkroniserede %lld træninger; %lld mislykkedes.",
+        "pl": "Zsynchronizowano %lld treningów; %lld niepowodzeń.",
+        "fr": "%lld entraînements synchronisés ; %lld échecs.",
+        "ar": "تمت مزامنة %lld؛ فشل %lld."
+      },
+      "settings.syncing": {
+        "en": "Syncing…",
+        "ru": "Синхронизация…",
+        "hy": "Համաժամեցում…",
+        "sv": "Synkroniserar…",
+        "nb": "Synkroniserer…",
+        "nl": "Synchroniseren…",
+        "da": "Synkroniserer…",
+        "pl": "Synchronizowanie…",
+        "fr": "Synchronisation…",
+        "ar": "جارٍ المزامنة…"
       },
       "settings.title": {
         "en": "Apple Health",
@@ -3898,6 +3982,18 @@
         "pl": "Usługa Apple Health nie jest dostępna na tym urządzeniu.",
         "fr": "Apple Health n'est pas disponible sur cet appareil.",
         "ar": "Apple Health غير متوفر على هذا الجهاز."
+      },
+      "settings.upToDate": {
+        "en": "Workouts are up to date in Apple Health.",
+        "ru": "Тренировки актуальны в Apple Health.",
+        "hy": "Մարզումները արդի են Apple Health-ում։",
+        "sv": "Träningspassen är uppdaterade i Apple Health.",
+        "nb": "Treningsøktene er oppdatert i Apple Health.",
+        "nl": "Trainingen zijn up-to-date in Apple Health.",
+        "da": "Træninger er opdateret i Apple Health.",
+        "pl": "Treningi są aktualne w Apple Health.",
+        "fr": "Les entraînements sont à jour dans Apple Health.",
+        "ar": "التدريبات محدّثة في Apple Health."
       }
     },
     "Hint": {
@@ -11760,6 +11856,54 @@
         "pl": "That device will return to a guest account when it next syncs. Workouts on that device stay there.",
         "fr": "That device will return to a guest account when it next syncs. Workouts on that device stay there.",
         "ar": "That device will return to a guest account when it next syncs. Workouts on that device stay there."
+      },
+      "error.accountExists": {
+        "en": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "ru": "Этот вход уже привязан к другому аккаунту. Оставайтесь гостем или продолжите в тот аккаунт.",
+        "hy": "Այս մուտքն արդեն կապված է այլ հաշվի հետ։ Մնացեք հյուր, կամ շարունակեք այդ հաշիվը։",
+        "sv": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "nb": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "nl": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "da": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "pl": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "fr": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
+        "ar": "This sign-in is already linked to another account. Stay as guest, or continue to that account."
+      },
+      "adoptExisting.title": {
+        "en": "Use existing account?",
+        "ru": "Использовать существующий аккаунт?",
+        "hy": "Օգտագործե՞լ առկա հաշիվը",
+        "sv": "Use existing account?",
+        "nb": "Use existing account?",
+        "nl": "Use existing account?",
+        "da": "Use existing account?",
+        "pl": "Use existing account?",
+        "fr": "Use existing account?",
+        "ar": "Use existing account?"
+      },
+      "adoptExisting.message": {
+        "en": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "ru": "Этот вход Apple или Google уже принадлежит другому аккаунту. Продолжение переключит на него. Гостевой облачный профиль на этом устройстве будет оставлен. Тренировки останутся на устройстве.",
+        "hy": "Այս Apple կամ Google մուտքն արդեն պատկանում է այլ հաշվի։ Շարունակելը կանցնի այդ հաշիվ։ Այս սարքի հյուրի ամպային պրոֆիլը կլքվի։ Մարզումները կմնան սարքում։",
+        "sv": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "nb": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "nl": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "da": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "pl": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "fr": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
+        "ar": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device."
+      },
+      "adoptExisting.confirm": {
+        "en": "Use existing account",
+        "ru": "Использовать существующий",
+        "hy": "Օգտագործել առկա հաշիվը",
+        "sv": "Use existing account",
+        "nb": "Use existing account",
+        "nl": "Use existing account",
+        "da": "Use existing account",
+        "pl": "Use existing account",
+        "fr": "Use existing account",
+        "ar": "Use existing account"
       }
     }
   }
