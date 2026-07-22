@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784745287,
+  "lastSyncedAt": 1784746031,
   "strings": {
     "Balanced": {
       "range": {
@@ -10935,6 +10935,31 @@
         "en": "Remote Quad Engine",
         "ru": "Remote Quad Engine",
         "hy": "Remote Quad Engine"
+      },
+      "catalog.template-remote-morning-lift": {
+        "en": "Remote Morning Lift",
+        "ru": "Remote Morning Lift",
+        "hy": "Remote Morning Lift"
+      },
+      "catalog.template-remote-shoulder-lab": {
+        "en": "Remote Shoulder Lab",
+        "ru": "Remote Shoulder Lab",
+        "hy": "Remote Shoulder Lab"
+      },
+      "catalog.template-remote-hinge-carry": {
+        "en": "Remote Hinge + Carry",
+        "ru": "Remote Hinge + Carry",
+        "hy": "Remote Hinge + Carry"
+      },
+      "catalog.template-remote-bodyweight-flow": {
+        "en": "Remote Bodyweight Flow",
+        "ru": "Remote Bodyweight Flow",
+        "hy": "Remote Bodyweight Flow"
+      },
+      "catalog.template-remote-engine-finisher": {
+        "en": "Remote Engine Finisher",
+        "ru": "Remote Engine Finisher",
+        "hy": "Remote Engine Finisher"
       }
     },
     "Unit": {
