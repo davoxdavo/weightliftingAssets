@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784753618,
+  "lastSyncedAt": 1784753800,
   "strings": {
     "Balanced": {
       "range": {
@@ -8528,6 +8528,30 @@
       }
     },
     "Records": {
+      "emptyRangeDescription": {
+        "en": "Try a longer period to see personal bests.",
+        "ru": "Выберите более длинный период, чтобы увидеть личные рекорды.",
+        "hy": "Ընտրեք ավելի երկար ժամանակահատված՝ անձնական ռեկորդները տեսնելու համար։",
+        "sv": "Prova en längre period för att se personliga rekord.",
+        "nb": "Prøv en lengre periode for å se personlige rekorder.",
+        "nl": "Probeer een langere periode om persoonlijke records te zien.",
+        "da": "Prøv en længere periode for at se personlige rekorder.",
+        "pl": "Wybierz dłuższy okres, aby zobaczyć rekordy osobiste.",
+        "fr": "Essayez une période plus longue pour voir vos records personnels.",
+        "ar": "جرّب فترة أطول لعرض الأرقام الشخصية."
+      },
+      "emptyRangeTitle": {
+        "en": "Nothing in This Period",
+        "ru": "Нет рекордов за период",
+        "hy": "Այս ժամանակահատվածում ռեկորդներ չկան",
+        "sv": "Inget i den här perioden",
+        "nb": "Ingenting i denne perioden",
+        "nl": "Niets in deze periode",
+        "da": "Intet i denne periode",
+        "pl": "Nic w tym okresie",
+        "fr": "Rien sur cette période",
+        "ar": "لا شيء في هذه الفترة"
+      },
       "exerciseHistory": {
         "en": "Exercise history",
         "ru": "История упражнения",
@@ -8563,6 +8587,66 @@
         "pl": "Otwarty trening",
         "fr": "Entraînement ouvert",
         "ar": "تمرين مفتوح"
+      },
+      "range": {
+        "en": "Period",
+        "ru": "Период",
+        "hy": "Ժամանակահատված",
+        "sv": "Period",
+        "nb": "Periode",
+        "nl": "Periode",
+        "da": "Periode",
+        "pl": "Okres",
+        "fr": "Période",
+        "ar": "الفترة"
+      },
+      "range.all": {
+        "en": "All time",
+        "ru": "За всё время",
+        "hy": "Ամբողջ ժամանակ",
+        "sv": "All tid",
+        "nb": "Alle tider",
+        "nl": "Aller tijden",
+        "da": "Al tid",
+        "pl": "Cały czas",
+        "fr": "Tout le temps",
+        "ar": "طوال الوقت"
+      },
+      "range.sixMonths": {
+        "en": "Last 6 months",
+        "ru": "Последние 6 месяцев",
+        "hy": "Վերջին 6 ամիսը",
+        "sv": "Senaste 6 månaderna",
+        "nb": "Siste 6 måneder",
+        "nl": "Laatste 6 maanden",
+        "da": "Seneste 6 måneder",
+        "pl": "Ostatnie 6 miesięcy",
+        "fr": "6 derniers mois",
+        "ar": "آخر 6 أشهر"
+      },
+      "range.year": {
+        "en": "Last year",
+        "ru": "Последний год",
+        "hy": "Վերջին տարին",
+        "sv": "Senaste året",
+        "nb": "Siste år",
+        "nl": "Afgelopen jaar",
+        "da": "Seneste år",
+        "pl": "Ostatni rok",
+        "fr": "L’année dernière",
+        "ar": "العام الماضي"
+      },
+      "recalculate": {
+        "en": "Recalculate",
+        "ru": "Пересчитать",
+        "hy": "Վերահաշվել",
+        "sv": "Beräkna om",
+        "nb": "Beregn på nytt",
+        "nl": "Herberekenen",
+        "da": "Genberegn",
+        "pl": "Przelicz",
+        "fr": "Recalculer",
+        "ar": "إعادة الحساب"
       },
       "workoutUnavailableMessage": {
         "en": "The session for this record was deleted. The best values are still saved.",

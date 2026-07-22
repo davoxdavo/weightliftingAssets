@@ -210,7 +210,7 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1784753618,
+    "lastSyncedAt": 1784753800,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {
@@ -219,6 +219,7 @@
   },
   "legal": {
     "termsURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/terms.html",
-    "privacyURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/privacy.html"
+    "privacyURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/privacy.html",
+    "supportURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/support.html"
   }
 }
