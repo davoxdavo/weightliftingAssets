@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "description": "Default workout templates. Exercises reference stable catalog IDs from gym_exercises.json; optional supersets expand from gym_supersets.json.",
+  "templates": [
+    {
+      "id": "template-monday-full-body-a",
+      "name": "Monday — Full Body A",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-goblet-squat", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-machine-chest-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-lat-pulldown", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-seated-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "core-plank", "plannedSetCount": 3, "plannedDurationSec": 45 },
+        { "supersetCatalogId": "superset-biceps-triceps", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-tuesday-upper-push",
+      "name": "Tuesday — Upper Push",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "chest-dumbbell-bench-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-incline-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-machine-shoulder-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-lateral-raise", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-tricep-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-wednesday-lower",
+      "name": "Wednesday — Lower",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-leg-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-romanian-deadlift", "plannedSetCount": 3, "plannedReps": 10 },
+        { "supersetCatalogId": "superset-quads-hamstrings", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "legs-standing-calf-raise", "plannedSetCount": 3, "plannedReps": 15 }
+      ]
+    },
+    {
+      "id": "template-thursday-upper-pull",
+      "name": "Thursday — Upper Pull",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "back-lat-pulldown", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-seated-cable-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-chest-supported-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-face-pull", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-dumbbell-curl", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-friday-full-body-b",
+      "name": "Friday — Full Body B",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-walking-lunge", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-pec-deck", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "back-dumbbell-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-rear-delt-fly", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "core-dead-bug", "plannedSetCount": 3, "plannedReps": 12 },
+        { "supersetCatalogId": "superset-cable-curl-rope-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-saturday-posterior",
+      "name": "Saturday — Posterior",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-hip-thrust", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-romanian-deadlift", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-glute-bridge", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "core-bird-dog", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-sunday-cardio-core",
+      "name": "Sunday — Cardio + Core",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "cardio-incline-walk", "plannedSetCount": 1, "plannedDurationSec": 1200 },
+        { "supersetCatalogId": "superset-cable-crunch-russian-twist", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "core-plank", "plannedSetCount": 3, "plannedDurationSec": 45 }
+      ]
+    },
+    {
+      "id": "template-chest-day",
+      "name": "Chest Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "chest-machine-chest-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-incline-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-pec-deck", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-rope-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-back-day",
+      "name": "Back Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "back-lat-pulldown", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-seated-cable-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-machine-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-face-pull", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-hammer-curl", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-legs-day",
+      "name": "Legs Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-leg-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-goblet-squat", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-romanian-deadlift", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "legs-hip-thrust", "plannedSetCount": 3, "plannedReps": 10 },
+        { "supersetCatalogId": "superset-quads-hamstrings", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "legs-standing-calf-raise", "plannedSetCount": 3, "plannedReps": 15 }
+      ]
+    },
+    {
+      "id": "template-shoulders-day",
+      "name": "Shoulders Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "shoulders-seated-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "supersetCatalogId": "superset-shoulders-front-side-rear-triplet", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-rope-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-arms-day",
+      "name": "Arms Day",
+      "notes": "",
+      "exercises": [
+        { "supersetCatalogId": "superset-biceps-triceps", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-hammer-curl", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-rope-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-push-day",
+      "name": "Push Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "chest-dumbbell-bench-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-seated-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "chest-incline-dumbbell-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-lateral-raise", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-tricep-pushdown", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-pull-day",
+      "name": "Pull Day",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "back-lat-pulldown", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-seated-cable-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-chest-supported-row", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-face-pull", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-dumbbell-curl", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    },
+    {
+      "id": "template-machine-circuit",
+      "name": "Machine Circuit",
+      "notes": "",
+      "exercises": [
+        { "exerciseCatalogId": "legs-leg-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "supersetCatalogId": "superset-chest-back-machine", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "back-lat-pulldown", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "shoulders-machine-shoulder-press", "plannedSetCount": 3, "plannedReps": 10 },
+        { "exerciseCatalogId": "arms-machine-bicep-curl", "plannedSetCount": 3, "plannedReps": 12 },
+        { "exerciseCatalogId": "arms-machine-tricep-extension", "plannedSetCount": 3, "plannedReps": 12 }
+      ]
+    }
+  ]
+}

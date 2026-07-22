@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784705907,
+  "lastSyncedAt": 1784738323,
   "strings": {
     "Balanced": {
       "range": {
@@ -10650,6 +10650,86 @@
         "pl": "Rozpocznij trening",
         "fr": "Commencer l'entraînement",
         "ar": "ابدأ التمرين"
+      },
+      "catalog.%@": {
+        "en": "template.catalog.%@",
+        "ru": "template.catalog.%@",
+        "hy": "template.catalog.%@"
+      },
+      "catalog.template-monday-full-body-a": {
+        "en": "Monday — Full Body A",
+        "ru": "Понедельник — Всё тело A",
+        "hy": "Երկուշաբթի — Ամբողջ մարմին A"
+      },
+      "catalog.template-tuesday-upper-push": {
+        "en": "Tuesday — Upper Push",
+        "ru": "Вторник — Верх (жим)",
+        "hy": "Երեքշաբթի — Վերին հրում"
+      },
+      "catalog.template-wednesday-lower": {
+        "en": "Wednesday — Lower",
+        "ru": "Среда — Низ",
+        "hy": "Չորեքշաբթի — Ստորին"
+      },
+      "catalog.template-thursday-upper-pull": {
+        "en": "Thursday — Upper Pull",
+        "ru": "Четверг — Верх (тяга)",
+        "hy": "Հինգշաբթի — Վերին քաշում"
+      },
+      "catalog.template-friday-full-body-b": {
+        "en": "Friday — Full Body B",
+        "ru": "Пятница — Всё тело B",
+        "hy": "Ուրբաթ — Ամբողջ մարմին B"
+      },
+      "catalog.template-saturday-posterior": {
+        "en": "Saturday — Posterior",
+        "ru": "Суббота — Задняя цепь",
+        "hy": "Շաբաթ — Հետին շղթա"
+      },
+      "catalog.template-sunday-cardio-core": {
+        "en": "Sunday — Cardio + Core",
+        "ru": "Воскресенье — Кардио + Кор",
+        "hy": "Կիրակի — Կարդիո + Կոր"
+      },
+      "catalog.template-chest-day": {
+        "en": "Chest Day",
+        "ru": "День груди",
+        "hy": "Կրծքավանդակի օր"
+      },
+      "catalog.template-back-day": {
+        "en": "Back Day",
+        "ru": "День спины",
+        "hy": "Մեջքի օր"
+      },
+      "catalog.template-legs-day": {
+        "en": "Legs Day",
+        "ru": "День ног",
+        "hy": "Ոտքերի օր"
+      },
+      "catalog.template-shoulders-day": {
+        "en": "Shoulders Day",
+        "ru": "День плеч",
+        "hy": "Ուսերի օր"
+      },
+      "catalog.template-arms-day": {
+        "en": "Arms Day",
+        "ru": "День рук",
+        "hy": "Ձեռքերի օր"
+      },
+      "catalog.template-push-day": {
+        "en": "Push Day",
+        "ru": "День жима",
+        "hy": "Հրում օր"
+      },
+      "catalog.template-pull-day": {
+        "en": "Pull Day",
+        "ru": "День тяги",
+        "hy": "Քաշում օր"
+      },
+      "catalog.template-machine-circuit": {
+        "en": "Machine Circuit",
+        "ru": "Круг на тренажёрах",
+        "hy": "Մեքենաների շրջան"
       }
     },
     "Unit": {

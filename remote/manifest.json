@@ -203,9 +203,16 @@
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ar/v1/supersets.localization.json"
         }
       }
+    },
+    "templates": {
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v1/gym_templates.json"
     }
   },
-  "translations": 1784705907,
+  "translations": {
+    "lastSyncedAt": 1784738323,
+    "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
+  },
   "exerciseImages": {
     "baseURL": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/images/exercises/",
     "revision": 1
