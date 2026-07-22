@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "fr",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Boucle d'haltères",
@@ -3937,6 +3937,78 @@
         "Levez les bras en forme de Y à environ 30 à 45 degrés par rapport au dessus de votre tête, en commençant par les pouces.",
         "Faites une pause en haut sans hausser les épaules, puis descendez lentement.",
         "Utilisez une charge légère ; il s'agit d'un exercice de contrôle, pas d'un levage lourd."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Développé disque devant",
+      "instructions": [
+        "Tenez-vous droit en tenant un disque à hauteur de poitrine, mains sur les bords.",
+        "Poussez le disque vers l’avant jusqu’à ce que les bras soient presque tendus, puis revenez.",
+        "Gardez les côtes basses et évitez de hausser les épaules.",
+        "Mouvement fluide ; ne rebondissez pas le disque sur la poitrine."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Rowing Helms",
+      "instructions": [
+        "Appuyez la poitrine sur un banc incliné et tenez des haltères bras pendants.",
+        "Ramenez les charges vers les hanches en poussant les coudes en arrière.",
+        "Serrez le haut du dos en haut, puis redescendez sous contrôle.",
+        "Gardez le cou neutre et évitez de tirer seulement avec les bras."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Nordic inversé",
+      "instructions": [
+        "À genoux, hanches étendues, orteils ou chevilles fixés.",
+        "Gardez une ligne droite des genoux aux épaules en vous penchant lentement en arrière.",
+        "Descendez aussi loin que vous contrôlez, puis remontez avec les quadriceps.",
+        "Ne cassez pas aux hanches et ne pliez pas le tronc vers l’avant."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Conducteur de bus",
+      "instructions": [
+        "Tenez un disque léger bras tendus devant la poitrine comme un volant.",
+        "Faites tourner le disque à gauche et à droite en gardant les bras tendus.",
+        "Gainez le tronc et gardez les épaules basses.",
+        "Charge légère ; arrêtez si les coudes se plient."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Curl serveur",
+      "instructions": [
+        "Tenez un haltère verticalement dans une paume à la cuisse comme un plateau.",
+        "Fléchissez vers l’épaule en gardant le bras supérieur immobile.",
+        "Descendez lentement en extension complète sans faire basculer l’haltère.",
+        "Gardez le poignet empilé sous la charge."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Planche de Copenhague",
+      "instructions": [
+        "Allongez-vous sur le côté, pied ou tibia supérieur sur un banc, jambe inférieure libre.",
+        "Appuyez-vous sur l’avant-bras inférieur et soulevez les hanches en planche latérale.",
+        "Gardez le corps aligné de la tête aux talons.",
+        "Arrêtez si les hanches s’affaissent ou si l’épaule d’appui s’effondre."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmer walk",
+      "instructions": [
+        "Soulevez des charges lourdes sur les côtés et tenez-vous droit.",
+        "Marchez à pas courts et stables, côtes empilées au-dessus du bassin.",
+        "Ne penchez pas d’un côté et ne haussez pas les épaules vers le cou.",
+        "Reposez les charges sous contrôle à la fin de la série."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Depuis une fente, placez les deux mains au sol à l’intérieur du pied avant.",
+        "Tournez la poitrine vers le genou avant et levez le bras vers le plafond.",
+        "Remettez la main au sol, puis reculez les hanches pour allonger la jambe arrière.",
+        "Bougez lentement dans une amplitude confortable."
       ]
     }
   }

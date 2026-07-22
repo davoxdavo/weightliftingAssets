@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "nb",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Barbell Curl",
@@ -3937,6 +3937,78 @@
         "Hev armene til en Y-form ca. 30–45 grader fra overhead, ledende med tomlene.",
         "Ta en pause på toppen uten å trekke på skuldrene, og senk deretter sakte.",
         "Bruk en lett last; dette er en kontrolløvelse, ikke et tungt styrkeløft."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Plate Press-Out",
+      "instructions": [
+        "Stå oppreist og hold en vektplate ved brystet med begge hender på kantene.",
+        "Press platen rett ut til armene nesten er rette, før den tilbake til brystet.",
+        "Hold ribbeina nede og unngå å trekke skuldrene opp.",
+        "Beveg deg jevnt; ikke spret platen mot brystet."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Helms-roing",
+      "instructions": [
+        "Støtt brystet mot en skråbenk og hold manualer med armene hengende.",
+        "Ro vektene mot hoftene ved å føre albuer bakover.",
+        "Klem øvre rygg på toppen og senk kontrollert.",
+        "Hold nakken nøytral og unngå å rykke med bare armene."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Omvendt nordic",
+      "instructions": [
+        "Stå på knærne med hofter strukket og tær eller ankler fiksert.",
+        "Hold en rett linje fra knær til skuldre mens du lener deg sakte bakover.",
+        "Gå så langt du kontrollerer, reis deg deretter med fremside lår.",
+        "Ikke knekk i hoftene eller fold overkroppen frem."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Bussjåfør",
+      "instructions": [
+        "Hold en lett plate med utstrakte armer foran brystet som et ratt.",
+        "Roter platen venstre og høyre mens armene er utstrakt.",
+        "Stram kjernen og hold skuldrene nede.",
+        "Bruk lett belastning; stopp hvis albuene bøyes."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Waiter-curl",
+      "instructions": [
+        "Hold en manual vertikalt i én håndflate ved låret som et serveringsbrett.",
+        "Curl vekten til skulderen mens overarmen er stille.",
+        "Senk sakte til full strekk uten å tippe manualen.",
+        "Hold håndleddet stablet under belastningen."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "København-planke",
+      "instructions": [
+        "Ligg på siden med øvre fot eller legg på en benk og nedre ben fritt.",
+        "Støtt på nedre underarm og løft hoftene til en sideplanke.",
+        "Hold kroppen i én linje fra hode til hæler.",
+        "Stopp hvis hoftene synker eller støtteskulderen kollapser."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmers walk",
+      "instructions": [
+        "Løft tunge redskaper ved sidene og stå oppreist.",
+        "Gå med korte stabile steg med ribbeina stablet over bekkenet.",
+        "Ikke len deg til én side eller trekk skuldrene opp mot nakken.",
+        "Sett vektene ned kontrollert når settet er ferdig."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Fra utfall, plasser begge hender på gulvet innenfor fremre fot.",
+        "Roter brystet mot fremre kne og strekk armen mot taket.",
+        "Før hånden tilbake til gulvet, skyv deretter hoftene bakover for å forlenge bakre ben.",
+        "Beveg deg sakte innenfor et behagelig område."
       ]
     }
   }

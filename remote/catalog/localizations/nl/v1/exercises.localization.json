@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "nl",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Barbell-krul",
@@ -3937,6 +3937,78 @@
         "Hef de armen in een Y-vorm, ongeveer 30-45 graden vanaf het hoofd, waarbij u de duimen gebruikt.",
         "Pauzeer bovenaan zonder je schouders op te halen en laat dan langzaam zakken.",
         "Gebruik een lichte belasting; dit is een controleoefening, geen zware lift."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Plate Press-Out",
+      "instructions": [
+        "Sta rechtop en houd een gewichtsschijf op borsthoogte met beide handen op de randen.",
+        "Duw de schijf recht naar voren tot de armen bijna gestrekt zijn, breng terug naar de borst.",
+        "Houd de ribben omlaag en trek de schouders niet op.",
+        "Beweeg soepel; stuit niet met de schijf op de borst."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Helms-roeien",
+      "instructions": [
+        "Steun je borst op een schuine bank en houd dumbbells met hangende armen.",
+        "Roei de gewichten naar de heupen door de ellebogen naar achteren te drijven.",
+        "Knijp de bovenrug bovenaan samen en laat gecontroleerd zakken.",
+        "Houd de nek neutraal en ruk niet alleen met de armen."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Omgekeerde Nordic",
+      "instructions": [
+        "Kniel hoog met gestrekte heupen en tenen of enkels gefixeerd.",
+        "Houd een rechte lijn van knieën tot schouders terwijl je langzaam achterover leunt.",
+        "Ga zo ver als je controleert, kom dan omhoog met de quads.",
+        "Breek niet in de heupen en vouw de romp niet naar voren."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Buschauffeur",
+      "instructions": [
+        "Houd een lichte schijf met gestrekte armen voor de borst als een stuur.",
+        "Draai de schijf links en rechts terwijl de armen gestrekt blijven.",
+        "Span de romp aan en houd de schouders laag.",
+        "Gebruik een lichte last; stop als de ellebogen buigen."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Waiter-curl",
+      "instructions": [
+        "Houd een dumbbell verticaal in één palm bij de dij als een dienblad.",
+        "Curl het gewicht naar de schouder terwijl de bovenarm stil blijft.",
+        "Laat langzaam zakken tot volledige extensie zonder de dumbbell te kantelen.",
+        "Houd de pols gestapeld onder de last."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Kopenhagen-plank",
+      "instructions": [
+        "Lig op je zij met de bovenste voet of scheen op een bank en het onderste been vrij.",
+        "Steun op de onderste onderarm en til de heupen in een zijplank.",
+        "Houd het lichaam in één lijn van hoofd tot hielen.",
+        "Stop als de heupen zakken of de steunschouder inzakt."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmers walk",
+      "instructions": [
+        "Til zware implementen aan de zijkanten op en sta rechtop.",
+        "Loop met korte stabiele stappen met de ribben gestapeld boven het bekken.",
+        "Leun niet naar één kant en trek de schouders niet op naar de nek.",
+        "Zet de gewichten gecontroleerd neer aan het einde van de set."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Vanuit een lunge plaats je beide handen op de vloer binnen de voorste voet.",
+        "Roteer de borst naar de voorste knie en reik met de arm naar het plafond.",
+        "Breng de hand terug naar de vloer en schuif de heupen naar achteren om het achterste been te verlengen.",
+        "Beweeg langzaam binnen een comfortabel bereik."
       ]
     }
   }

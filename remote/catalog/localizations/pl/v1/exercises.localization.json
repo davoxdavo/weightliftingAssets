@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "pl",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Uginanie sztangi",
@@ -3937,6 +3937,78 @@
         "Unieś ramiona w kształt litery Y, około 30–45 stopni nad głowę, prowadząc kciukami.",
         "Zatrzymaj się na górze bez wzruszania ramionami, a następnie powoli opuść.",
         "Użyj lekkiego obciążenia; to jest ćwiczenie kontrolne, a nie podnoszenie ciężarów."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Wyciskanie talerza w przód",
+      "instructions": [
+        "Stań prosto, trzymając talerz na wysokości klatki obiema dłońmi za krawędzie.",
+        "Wyciskaj talerz prosto przed siebie, aż ramiona będą prawie proste, potem wróć do klatki.",
+        "Trzymaj żebra w dół i nie unosz barków.",
+        "Ruch płynny; nie odbijaj talerza od klatki."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Wiosłowanie Helmsa",
+      "instructions": [
+        "Oprzyj klatkę o skośną ławkę i trzymaj hantle ze swobodnie zwisającymi ramionami.",
+        "Przyciągaj ciężar do bioder, prowadząc łokcie w tył.",
+        "Ściśnij górę pleców na górze i opuszczaj kontrolowanie.",
+        "Trzymaj szyję neutralnie; nie szarp samym ramionami."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Odwrócony Nordic",
+      "instructions": [
+        "Klęcz wyprostowany z biodrami wyciągniętymi, palce lub kostki unieruchomione.",
+        "Utrzymuj prostą linię od kolan do barków, powoli odchylając się do tyłu.",
+        "Zejdź tak daleko, jak kontrolujesz, potem wróć siłą czworogłowych.",
+        "Nie łam bioder i nie składaj tułowia do przodu."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Kierowca autobusu",
+      "instructions": [
+        "Trzymaj lekki talerz na wyprostowanych ramionach przed klatką jak kierownicę.",
+        "Obracaj talerz w lewo i prawo, trzymając ramiona wyprostowane.",
+        "Napnij tułów i opuszcz barki.",
+        "Używaj lekkiego obciążenia; przerwij, jeśli łokcie się uginają."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Uginanie kelnera",
+      "instructions": [
+        "Trzymaj hantel pionowo na jednej dłoni przy udzie jak tackę kelnera.",
+        "Uginaj do barku, trzymając ramię nieruchomo.",
+        "Opuszczaj powoli do pełnego wyprostu bez przechylania hantla.",
+        "Trzymaj nadgarstek pod obciążeniem."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Deska kopenhaska",
+      "instructions": [
+        "Leż na boku z górną stopą lub piszczelem na ławce, dolna noga wolna.",
+        "Oprzyj się na dolnym przedramieniu i unieś biodra w deskę boczną.",
+        "Trzymaj ciało w jednej linii od głowy do pięt.",
+        "Przerwij, jeśli biodra opadają lub bark podporowy zapada się."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Spacer farmera",
+      "instructions": [
+        "Podnieś ciężkie obciążenia po bokach i stań prosto.",
+        "Idź krótkimi stabilnymi krokami, trzymając żebra nad miednicą.",
+        "Nie przechylaj się na bok i nie unosz barków do szyi.",
+        "Odłóż ciężar kontrolowanie na koniec serii."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Z wykroku połóż obie dłonie na podłodze wewnątrz przedniej stopy.",
+        "Obróć klatkę w stronę przedniego kolana i unieś rękę do sufitu.",
+        "Wróć dłonią na podłogę, potem cofnij biodra, wydłużając tylną nogę.",
+        "Ruszaj się wolno w komfortowym zakresie."
       ]
     }
   }

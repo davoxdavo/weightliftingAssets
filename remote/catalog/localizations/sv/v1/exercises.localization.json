@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "sv",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Skivstång Curl",
@@ -3937,6 +3937,78 @@
         "Lyft upp armarna till en Y-form cirka 30–45 grader från ovansidan, ledande med tummarna.",
         "Pausa längst upp utan att rycka på axlarna och sänk sedan långsamt.",
         "Använd lätt last; detta är en kontrollövning, inte ett tungt styrkelyft."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Plattpress ut",
+      "instructions": [
+        "Stå upprätt och håll en viktskiva vid bröstet med båda händerna på kanterna.",
+        "Pressa skivan rakt ut tills armarna nästan är raka, återgå sedan till bröstet.",
+        "Håll revbenen nere och undvik att rycka upp axlarna.",
+        "Rör dig mjukt; studsa inte skivan mot bröstet."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Helms-rodd",
+      "instructions": [
+        "Stöd bröstet mot en lutande bänk och håll hantlar med armarna hängande.",
+        "Roda vikterna mot höfterna genom att driva armbågarna bakåt.",
+        "Kläm övre ryggen i toppen och sänk kontrollerat.",
+        "Håll nacken neutral och undvik att rycka med bara armarna."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Omvänd nordic",
+      "instructions": [
+        "Knästå högt med höfterna utsträckta och tår eller vrister fixerade.",
+        "Håll en rak linje från knän till axlar medan du långsamt lutar dig bakåt.",
+        "Gå så långt du kontrollerar, res dig sedan med framsida lår.",
+        "Bryt inte i höfterna och vik inte bålen framåt."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Busschaufför",
+      "instructions": [
+        "Håll en lätt skiva med utsträckta armar framför bröstet som en ratt.",
+        "Rotera skivan vänster och höger med armarna utsträckta.",
+        "Spänn bålen och håll axlarna nere.",
+        "Använd lätt belastning; stanna om armbågarna böjs."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Waiter-curl",
+      "instructions": [
+        "Håll en hantel vertikalt i ena handflatan vid låret som en serveringsbricka.",
+        "Curla vikten till axeln medan överarmen är stilla.",
+        "Sänk långsamt till full extension utan att tippa hanteln.",
+        "Håll handleden staplad under belastningen."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Köpenhamnsplankan",
+      "instructions": [
+        "Ligg på sidan med övre fot eller smalben på en bänk och undre benet fritt.",
+        "Stöd på undre underarmen och lyft höfterna till en sidplanka.",
+        "Håll kroppen i en linje från huvud till hälar.",
+        "Stoppa om höfterna sjunker eller stödaxeln kollapsar."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmers walk",
+      "instructions": [
+        "Lyft tunga redskap vid sidorna och stå tall.",
+        "Gå med korta stabila steg med revbenen staplade över bäckenet.",
+        "Luta dig inte åt sidan och ryck inte upp axlarna mot nacken.",
+        "Sätt ner vikterna under kontroll när setet är slut."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Från utfall, placera båda händerna på golvet innanför främre foten.",
+        "Rotera bröstet mot främre knät och räck armen mot taket.",
+        "För tillbaka handen till golvet, skjut sedan höfterna bakåt för att länga bakre benet.",
+        "Rör dig långsamt inom ett bekvämt spann."
       ]
     }
   }

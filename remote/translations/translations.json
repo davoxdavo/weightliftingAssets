@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784743520,
+  "lastSyncedAt": 1784744156,
   "strings": {
     "Balanced": {
       "range": {
@@ -3556,6 +3556,46 @@
         "pl": "Usunąć ulubione?",
         "fr": "Supprimer le favori ?",
         "ar": "إزالة المفضلة؟"
+      },
+      "catalog.chest-plate-press-out": {
+        "en": "Plate Press-Out",
+        "ru": "Жим диска вперёд",
+        "hy": "Սկավառակի մամուլ առաջ"
+      },
+      "catalog.back-helms-row": {
+        "en": "Helms Row",
+        "ru": "Тяга Хелмса",
+        "hy": "Հելմս քաշում"
+      },
+      "catalog.legs-reverse-nordic": {
+        "en": "Reverse Nordic",
+        "ru": "Обратный нордик",
+        "hy": "Հակադարձ նորդիկ"
+      },
+      "catalog.shoulders-bus-driver": {
+        "en": "Bus Driver",
+        "ru": "Водитель автобуса",
+        "hy": "Ավտոբուսի վարորդ"
+      },
+      "catalog.arms-waiter-curl": {
+        "en": "Waiter Curl",
+        "ru": "Сгибание официанта",
+        "hy": "Մատուցողի ծալում"
+      },
+      "catalog.core-copenhagen-plank": {
+        "en": "Copenhagen Plank",
+        "ru": "Копенгагенская планка",
+        "hy": "Կոպենհագենի տախտակ"
+      },
+      "catalog.cardio-farmer-carry": {
+        "en": "Farmer Carry",
+        "ru": "Прогулка фермера",
+        "hy": "Ֆերմերի քայլք"
+      },
+      "catalog.mobility-world-greatest-stretch": {
+        "en": "World’s Greatest Stretch",
+        "ru": "Лучшая растяжка в мире",
+        "hy": "Աշխարհի լավագույն ձգում"
       }
     },
     "Export": {
@@ -10780,6 +10820,26 @@
         "en": "Mobility Reset",
         "ru": "Мобилити-сброс",
         "hy": "Շարժունության վերակայում"
+      },
+      "catalog.template-remote-probe-push": {
+        "en": "Remote Probe — Push",
+        "ru": "Remote Probe — Жим",
+        "hy": "Remote Probe — Հրում"
+      },
+      "catalog.template-remote-probe-pull": {
+        "en": "Remote Probe — Pull",
+        "ru": "Remote Probe — Тяга",
+        "hy": "Remote Probe — Քաշում"
+      },
+      "catalog.template-remote-probe-mobility": {
+        "en": "Remote Probe — Mobility",
+        "ru": "Remote Probe — Мобилити",
+        "hy": "Remote Probe — Շարժունություն"
+      },
+      "catalog.template-remote-probe-full": {
+        "en": "Remote Probe — Full Body",
+        "ru": "Remote Probe — Всё тело",
+        "hy": "Remote Probe — Ամբողջ մարմին"
       }
     },
     "Unit": {

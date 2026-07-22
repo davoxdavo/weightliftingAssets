@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "en",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Barbell Curl",
@@ -3937,6 +3937,78 @@
         "Raise the arms into a Y shape about 30–45 degrees from overhead, leading with the thumbs.",
         "Pause at the top without shrugging, then lower slowly.",
         "Use a light load; this is a control drill, not a heavy strength lift."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Plate Press-Out",
+      "instructions": [
+        "Stand tall holding a weight plate at chest height with both hands on the edges.",
+        "Press the plate straight out until the arms are nearly straight, then return to the chest.",
+        "Keep the ribs down and avoid shrugging the shoulders.",
+        "Move smoothly; do not bounce the plate off the chest."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Helms Row",
+      "instructions": [
+        "Brace your chest on an incline bench and hold dumbbells with arms hanging.",
+        "Row the weights toward the hips by driving the elbows back.",
+        "Squeeze the upper back at the top, then lower under control.",
+        "Keep the neck neutral and avoid yanking with the arms alone."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Reverse Nordic",
+      "instructions": [
+        "Kneel tall with the hips extended and toes pointed or ankles braced.",
+        "Keep a straight line from knees to shoulders as you lean back slowly.",
+        "Go as far as you can control, then pull yourself upright using the quads.",
+        "Do not break at the hips or fold the torso forward."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Bus Driver",
+      "instructions": [
+        "Hold a light plate at arm’s length in front of the chest like a steering wheel.",
+        "Rotate the plate left and right while keeping the arms extended.",
+        "Brace the trunk and keep the shoulders down.",
+        "Use a light load; stop if the elbows bend or the plate drops."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Waiter Curl",
+      "instructions": [
+        "Hold a dumbbell vertically in one palm like a waiter’s tray at the thigh.",
+        "Curl the weight to the shoulder while keeping the upper arm still.",
+        "Lower slowly to full extension without tipping the dumbbell.",
+        "Keep the wrist stacked under the load."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Copenhagen Plank",
+      "instructions": [
+        "Lie on your side with the top foot or shin on a bench and the bottom leg free.",
+        "Prop on the bottom forearm and lift the hips into a side plank.",
+        "Keep the body in one line from head to heels.",
+        "Stop if the hips sag or the supporting shoulder collapses."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmer Carry",
+      "instructions": [
+        "Pick up heavy implements at the sides and stand tall.",
+        "Walk with short stable steps while keeping the ribs stacked over the pelvis.",
+        "Do not lean to one side or shrug the loads into the neck.",
+        "Set the weights down under control when the set ends."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "From a lunge, place both hands on the floor inside the front foot.",
+        "Rotate the chest toward the front knee and reach the arm to the ceiling.",
+        "Return the hand to the floor, then shift hips back to lengthen the rear leg.",
+        "Move slowly and stay within a comfortable range."
       ]
     }
   }

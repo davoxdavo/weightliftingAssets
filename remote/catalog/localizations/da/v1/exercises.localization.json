@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "da",
-  "version": 1,
-  "catalogVersion": 8,
+  "version": 2,
+  "catalogVersion": 9,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Barbell Curl",
@@ -3937,6 +3937,78 @@
         "Løft armene til en Y-form omkring 30-45 grader fra overhovedet, førende med tommelfingrene.",
         "Hold pause øverst uden at trække på skuldrene, og sænk derefter langsomt.",
         "Brug en let belastning; dette er en kontroløvelse, ikke et tungt styrkeløft."
+      ]
+    },
+    "chest-plate-press-out": {
+      "name": "Plate Press-Out",
+      "instructions": [
+        "Stå oprejst og hold en vægtskive ved brystet med begge hænder på kanterne.",
+        "Pres skiven lige ud, indtil armene næsten er strakte, og før den tilbage til brystet.",
+        "Hold ribbenene nede og undgå at trække skuldrene op.",
+        "Bevæg dig jævnt; lad ikke skiven bounce mod brystet."
+      ]
+    },
+    "back-helms-row": {
+      "name": "Helms-roning",
+      "instructions": [
+        "Støt brystet mod en skrå bænk og hold håndvægte med armene hængende.",
+        "Rør vægtene mod hofterne ved at drive albuerne bagud.",
+        "Klem den øvre ryg i toppen og sænk kontrolleret.",
+        "Hold nakken neutral og undgå at rykke kun med armene."
+      ]
+    },
+    "legs-reverse-nordic": {
+      "name": "Omvendt nordic",
+      "instructions": [
+        "Knæl højt med hofterne strakte og tæer eller ankler fikseret.",
+        "Hold en lige linje fra knæ til skuldre, mens du langsomt læner dig bagud.",
+        "Gå så langt du kan kontrollere, rejs dig så med forsiden af låret.",
+        "Knæk ikke i hofterne og fold ikke overkroppen frem."
+      ]
+    },
+    "shoulders-bus-driver": {
+      "name": "Buschauffør",
+      "instructions": [
+        "Hold en let skive med strakte arme foran brystet som et rat.",
+        "Roter skiven til venstre og højre med armene strakte.",
+        "Spænd kernen og hold skuldrene nede.",
+        "Brug let belastning; stop hvis albuerne bøjes."
+      ]
+    },
+    "arms-waiter-curl": {
+      "name": "Waiter-curl",
+      "instructions": [
+        "Hold en håndvægt lodret i én håndflade ved låret som en serveringsbakke.",
+        "Curl vægten til skulderen, mens overarmen er stille.",
+        "Sænk langsomt til fuld stræk uden at tippe håndvægten.",
+        "Hold håndleddet stablet under belastningen."
+      ]
+    },
+    "core-copenhagen-plank": {
+      "name": "Københavner-planke",
+      "instructions": [
+        "Lig på siden med øverste fod eller skinneben på en bænk og underste ben frit.",
+        "Støt på underste underarm og løft hofterne til en sideplanke.",
+        "Hold kroppen i én linje fra hoved til hæle.",
+        "Stop hvis hofterne synker eller støtteskulderen kollapser."
+      ]
+    },
+    "cardio-farmer-carry": {
+      "name": "Farmers walk",
+      "instructions": [
+        "Løft tunge redskaber ved siderne og stå oprejst.",
+        "Gå med korte stabile skridt med ribbenene stablet over bækkenet.",
+        "Læn dig ikke til én side og træk ikke skuldrene op mod nakken.",
+        "Sæt vægtene ned under kontrol, når sættet er slut."
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "name": "World’s Greatest Stretch",
+      "instructions": [
+        "Fra et udfald sættes begge hænder på gulvet inden for den forreste fod.",
+        "Roter brystet mod det forreste knæ og ræk armen mod loftet.",
+        "Før hånden tilbage til gulvet, skub derefter hofterne bagud for at forlænge bageste ben.",
+        "Bevæg dig langsomt inden for et behageligt område."
       ]
     }
   }

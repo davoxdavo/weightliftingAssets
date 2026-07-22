@@ -95,8 +95,8 @@
   },
   "catalog": {
     "exercises": {
-      "version": 8,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v8/gym_exercises.json"
+      "version": 9,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v9/gym_exercises.json"
     },
     "supersets": {
       "version": 3,
@@ -105,7 +105,7 @@
     "localizations": {
       "en": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/en/v1/exercises.localization.json"
         },
         "supersets": {
@@ -115,7 +115,7 @@
       },
       "ru": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v1/exercises.localization.json"
         },
         "supersets": {
@@ -125,7 +125,7 @@
       },
       "hy": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v1/exercises.localization.json"
         },
         "supersets": {
@@ -135,7 +135,7 @@
       },
       "sv": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/sv/v1/exercises.localization.json"
         },
         "supersets": {
@@ -145,7 +145,7 @@
       },
       "nb": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nb/v1/exercises.localization.json"
         },
         "supersets": {
@@ -155,7 +155,7 @@
       },
       "nl": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nl/v1/exercises.localization.json"
         },
         "supersets": {
@@ -165,7 +165,7 @@
       },
       "da": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/da/v1/exercises.localization.json"
         },
         "supersets": {
@@ -175,7 +175,7 @@
       },
       "pl": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/pl/v1/exercises.localization.json"
         },
         "supersets": {
@@ -185,7 +185,7 @@
       },
       "fr": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/fr/v1/exercises.localization.json"
         },
         "supersets": {
@@ -195,7 +195,7 @@
       },
       "ar": {
         "exercises": {
-          "version": 1,
+          "version": 2,
           "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ar/v1/exercises.localization.json"
         },
         "supersets": {
@@ -205,12 +205,12 @@
       }
     },
     "templates": {
-      "version": 2,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v2/gym_templates.json"
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v3/gym_templates.json"
     }
   },
   "translations": {
-    "lastSyncedAt": 1784743520,
+    "lastSyncedAt": 1784744156,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {
