@@ -218,8 +218,8 @@
     "revision": 1
   },
   "legal": {
-    "termsURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/terms.html",
-    "privacyURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/privacy.html",
-    "supportURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/legal/support.html"
+    "termsURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/terms.html",
+    "privacyURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/privacy.html",
+    "supportURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/support.html"
   }
 }
