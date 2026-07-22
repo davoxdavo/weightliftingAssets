@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784744156,
+  "lastSyncedAt": 1784744702,
   "strings": {
     "Balanced": {
       "range": {
@@ -10840,6 +10840,66 @@
         "en": "Remote Probe — Full Body",
         "ru": "Remote Probe — Всё тело",
         "hy": "Remote Probe — Ամբողջ մարմին"
+      },
+      "catalog.template-olympic-primer": {
+        "en": "Olympic Primer",
+        "ru": "Олимпийский старт",
+        "hy": "Օլիմպիական նախապատրաստում"
+      },
+      "catalog.template-athletic-power": {
+        "en": "Athletic Power",
+        "ru": "Атлетическая мощность",
+        "hy": "Աթլետիկ ուժ"
+      },
+      "catalog.template-calisthenics-strength": {
+        "en": "Calisthenics Strength",
+        "ru": "Сила калистеники",
+        "hy": "Կալիսթենիկ ուժ"
+      },
+      "catalog.template-deadlift-focus": {
+        "en": "Deadlift Focus",
+        "ru": "Фокус на становой",
+        "hy": "Մեռյալ վերելքի ֆոկուս"
+      },
+      "catalog.template-unilateral-legs": {
+        "en": "Unilateral Legs",
+        "ru": "Односторонняя ноги",
+        "hy": "Միակողմանի ոտքեր"
+      },
+      "catalog.template-vertical-press": {
+        "en": "Vertical Press",
+        "ru": "Вертикальный жим",
+        "hy": "Ուղղահայաց մամուլ"
+      },
+      "catalog.template-engine-builder": {
+        "en": "Engine Builder",
+        "ru": "Двигатель",
+        "hy": "Շարժիչի կառուցում"
+      },
+      "catalog.template-old-school-pump": {
+        "en": "Old-School Pump",
+        "ru": "Классический памп",
+        "hy": "Հին դպրոցի պոմպ"
+      },
+      "catalog.template-strongman-lite": {
+        "en": "Strongman Lite",
+        "ru": "Стронгмен лайт",
+        "hy": "Ստրոնգմեն լայթ"
+      },
+      "catalog.template-desk-reset-plus": {
+        "en": "Desk Reset Plus",
+        "ru": "Сброс после офиса",
+        "hy": "Սեղանի վերակայում+"
+      },
+      "catalog.template-floor-press-day": {
+        "en": "Floor Press Day",
+        "ru": "Жим с пола",
+        "hy": "Հատակի մամուլի օր"
+      },
+      "catalog.template-pull-up-factory": {
+        "en": "Pull-Up Factory",
+        "ru": "Фабрика подтягиваний",
+        "hy": "Ձգումների գործարան"
       }
     },
     "Unit": {
