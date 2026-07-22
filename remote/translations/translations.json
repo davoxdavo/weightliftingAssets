@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784746031,
+  "lastSyncedAt": 1784747895,
   "strings": {
     "Balanced": {
       "range": {
@@ -10536,6 +10536,18 @@
         "fr": "Tous les modèles",
         "ar": "جميع القوالب"
       },
+      "count": {
+        "en": "%lld templates",
+        "ru": "%lld шаблонов",
+        "hy": "%lld կաղապար",
+        "sv": "%lld mallar",
+        "nb": "%lld maler",
+        "nl": "%lld sjablonen",
+        "da": "%lld skabeloner",
+        "pl": "%lld szablonów",
+        "fr": "%lld modèles",
+        "ar": "%lld قوالب"
+      },
       "copyName": {
         "en": "Copy of %@",
         "ru": "Копия: %@",
@@ -11480,6 +11492,18 @@
         "pl": "Zobacz wszystkie szablony",
         "fr": "Voir tous les modèles",
         "ar": "شاهد كافة القوالب"
+      },
+      "seeAllTemplatesCount": {
+        "en": "See All Templates (%lld)",
+        "ru": "Все шаблоны (%lld)",
+        "hy": "Բոլոր շաբլոնները (%lld)",
+        "sv": "Se alla mallar (%lld)",
+        "nb": "Se alle maler (%lld)",
+        "nl": "Bekijk alle sjablonen (%lld)",
+        "da": "Se alle skabeloner (%lld)",
+        "pl": "Zobacz wszystkie szablony (%lld)",
+        "fr": "Voir tous les modèles (%lld)",
+        "ar": "شاهد كافة القوالب (%lld)"
       },
       "seeAllTemplatesHint": {
         "en": "See all templates on the Templates tab.",
