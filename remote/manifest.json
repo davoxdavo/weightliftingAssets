@@ -96,125 +96,125 @@
   "catalog": {
     "exercises": {
       "version": 9,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v9/gym_exercises.json"
+      "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/exercises/v9/gym_exercises.json"
     },
     "supersets": {
       "version": 3,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/supersets/v3/gym_supersets.json"
+      "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/supersets/v3/gym_supersets.json"
     },
     "localizations": {
       "en": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/en/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/en/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/en/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/en/v1/supersets.localization.json"
         }
       },
       "ru": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/ru/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/ru/v1/supersets.localization.json"
         }
       },
       "hy": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/hy/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/hy/v1/supersets.localization.json"
         }
       },
       "sv": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/sv/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/sv/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/sv/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/sv/v1/supersets.localization.json"
         }
       },
       "nb": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nb/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/nb/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nb/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/nb/v1/supersets.localization.json"
         }
       },
       "nl": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nl/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/nl/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/nl/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/nl/v1/supersets.localization.json"
         }
       },
       "da": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/da/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/da/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/da/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/da/v1/supersets.localization.json"
         }
       },
       "pl": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/pl/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/pl/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/pl/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/pl/v1/supersets.localization.json"
         }
       },
       "fr": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/fr/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/fr/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/fr/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/fr/v1/supersets.localization.json"
         }
       },
       "ar": {
         "exercises": {
           "version": 2,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ar/v1/exercises.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/ar/v1/exercises.localization.json"
         },
         "supersets": {
           "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ar/v1/supersets.localization.json"
+          "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/localizations/ar/v1/supersets.localization.json"
         }
       }
     },
     "templates": {
       "version": 4,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v4/gym_templates.json"
+      "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/catalog/templates/v4/gym_templates.json"
     }
   },
   "translations": {
-    "lastSyncedAt": 1784744702,
-    "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
+    "lastSyncedAt": 1784745040,
+    "url": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/translations/translations.json"
   },
   "exerciseImages": {
-    "baseURL": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/images/exercises/",
+    "baseURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/images/exercises/",
     "revision": 1
   }
 }
