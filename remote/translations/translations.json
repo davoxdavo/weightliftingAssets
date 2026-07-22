@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784747895,
+  "lastSyncedAt": 1784753618,
   "strings": {
     "Balanced": {
       "range": {
@@ -6946,18 +6946,6 @@
         "fr": "Vous pouvez changer votre langue à tout moment dans les paramètres iOS.",
         "ar": "يمكنك تغيير لغتك في أي وقت في إعدادات iOS."
       },
-      "language.search": {
-        "en": "Search languages",
-        "ru": "Поиск языка",
-        "hy": "Փնտրել լեզու",
-        "sv": "Sök efter språk",
-        "nb": "Søk etter språk",
-        "nl": "Zoek talen",
-        "da": "Søg efter sprog",
-        "pl": "Wyszukaj języki",
-        "fr": "Langues de recherche",
-        "ar": "لغات البحث"
-      },
       "language.title": {
         "en": "Choose your language",
         "ru": "Выбери язык",
@@ -8231,6 +8219,18 @@
         "pl": "e1RM %@",
         "fr": "e1RM %@",
         "ar": "e1RM %@"
+      },
+      "daysAgo": {
+        "en": "%lld days ago",
+        "ru": "%lld дн. назад",
+        "hy": "%lld օր առաջ",
+        "sv": "för %lld dagar sedan",
+        "nb": "for %lld dager siden",
+        "nl": "%lld dagen geleden",
+        "da": "for %lld dage siden",
+        "pl": "%lld dni temu",
+        "fr": "il y a %lld jours",
+        "ar": "منذ %lld أيام"
       },
       "last": {
         "en": "Last · %@",
@@ -10972,6 +10972,78 @@
         "en": "Remote Engine Finisher",
         "ru": "Remote Engine Finisher",
         "hy": "Remote Engine Finisher"
+      },
+      "filter.all": {
+        "en": "All",
+        "ru": "Все",
+        "hy": "Բոլորը",
+        "sv": "Alla",
+        "nb": "Alle",
+        "nl": "Alle",
+        "da": "Alle",
+        "pl": "Wszystkie",
+        "fr": "Tous",
+        "ar": "الكل"
+      },
+      "filter.mine": {
+        "en": "My Templates",
+        "ru": "Мои шаблоны",
+        "hy": "Իմ կաղապարները",
+        "sv": "Mina mallar",
+        "nb": "Mine maler",
+        "nl": "Mijn sjablonen",
+        "da": "Mine skabeloner",
+        "pl": "Moje szablony",
+        "fr": "Mes modèles",
+        "ar": "قوالبي"
+      },
+      "filter.empty": {
+        "en": "No templates match these filters",
+        "ru": "Нет шаблонов по этим фильтрам",
+        "hy": "Այս ֆիլտրերով կաղապար չկա",
+        "sv": "Inga mallar matchar filtren",
+        "nb": "Ingen maler matcher filtrene",
+        "nl": "Geen sjablonen komen overeen met deze filters",
+        "da": "Ingen skabeloner matcher filtrene",
+        "pl": "Brak szablonów dla tych filtrów",
+        "fr": "Aucun modèle ne correspond à ces filtres",
+        "ar": "لا توجد قوالب تطابق هذه عوامل التصفية"
+      },
+      "filter.clear": {
+        "en": "Clear filters",
+        "ru": "Сбросить фильтры",
+        "hy": "Մաքրել ֆիլտրերը",
+        "sv": "Rensa filter",
+        "nb": "Nullstill filtre",
+        "nl": "Filters wissen",
+        "da": "Ryd filtre",
+        "pl": "Wyczyść filtry",
+        "fr": "Effacer les filtres",
+        "ar": "مسح عوامل التصفية"
+      },
+      "filter.muscleA11y": {
+        "en": "Filter templates by my templates or muscle groups",
+        "ru": "Фильтр шаблонов: мои или по группам мышц",
+        "hy": "Զտել կաղապարները՝ իմը կամ մկանախմբերով",
+        "sv": "Filtrera mallar efter mina mallar eller muskelgrupper",
+        "nb": "Filtrer maler etter mine maler eller muskelgrupper",
+        "nl": "Filter sjablonen op mijn sjablonen of spiergroepen",
+        "da": "Filtrer skabeloner efter mine skabeloner eller muskelgrupper",
+        "pl": "Filtruj szablony: moje lub grupy mięśni",
+        "fr": "Filtrer les modèles : mes modèles ou groupes musculaires",
+        "ar": "تصفية القوالب حسب قوالبي أو مجموعات العضلات"
+      },
+      "filter.ownershipA11y": {
+        "en": "Filter by all or my templates",
+        "ru": "Фильтр: все или мои шаблоны",
+        "hy": "Զտել՝ բոլորը կամ իմ կաղապարները",
+        "sv": "Filtrera alla eller mina mallar",
+        "nb": "Filtrer alle eller mine maler",
+        "nl": "Filter alle of mijn sjablonen",
+        "da": "Filtrer alle eller mine skabeloner",
+        "pl": "Filtruj wszystkie lub moje szablony",
+        "fr": "Filtrer tous ou mes modèles",
+        "ar": "تصفية الكل أو قوالبي"
       }
     },
     "Unit": {
@@ -12262,6 +12334,78 @@
         "pl": "Use existing account",
         "fr": "Use existing account",
         "ar": "Use existing account"
+      },
+      "legal.section": {
+        "en": "Legal",
+        "ru": "Правовая информация",
+        "hy": "Իրավական",
+        "sv": "Juridik",
+        "nb": "Juridisk",
+        "nl": "Juridisch",
+        "da": "Juridisk",
+        "pl": "Informacje prawne",
+        "fr": "Mentions légales",
+        "ar": "قانوني"
+      },
+      "legal.terms": {
+        "en": "Terms and Conditions",
+        "ru": "Условия использования",
+        "hy": "Օգտագործման պայմաններ",
+        "sv": "Villkor",
+        "nb": "Vilkår",
+        "nl": "Voorwaarden",
+        "da": "Vilkår",
+        "pl": "Warunki",
+        "fr": "Conditions d’utilisation",
+        "ar": "الشروط والأحكام"
+      },
+      "legal.privacy": {
+        "en": "Privacy Policy",
+        "ru": "Политика конфиденциальности",
+        "hy": "Գաղտնիության քաղաքականություն",
+        "sv": "Integritetspolicy",
+        "nb": "Personvernerklæring",
+        "nl": "Privacybeleid",
+        "da": "Privatlivspolitik",
+        "pl": "Polityka prywatności",
+        "fr": "Politique de confidentialité",
+        "ar": "سياسة الخصوصية"
+      },
+      "legal.footer": {
+        "en": "By continuing, you agree to the Terms and Conditions and Privacy Policy.",
+        "ru": "Продолжая, вы принимаете Условия использования и Политику конфиденциальности.",
+        "hy": "Շարունակելով՝ համաձայնում եք Օգտագործման պայմաններին և Գաղտնիության քաղաքականությանը։",
+        "sv": "Genom att fortsätta godkänner du villkoren och integritetspolicyn.",
+        "nb": "Ved å fortsette godtar du vilkårene og personvernerklæringen.",
+        "nl": "Door verder te gaan ga je akkoord met de voorwaarden en het privacybeleid.",
+        "da": "Ved at fortsætte accepterer du vilkårene og privatlivspolitikken.",
+        "pl": "Kontynuując, akceptujesz Warunki oraz Politykę prywatności.",
+        "fr": "En continuant, vous acceptez les Conditions d’utilisation et la Politique de confidentialité.",
+        "ar": "بالمتابعة، فإنك توافق على الشروط والأحكام وسياسة الخصوصية."
+      },
+      "legal.loadError": {
+        "en": "Couldn’t load this page. Check your connection and try again.",
+        "ru": "Не удалось загрузить страницу. Проверьте соединение и попробуйте снова.",
+        "hy": "Չհաջողվեց բեռնել էջը։ Ստուգեք կապը և փորձեք նորից։",
+        "sv": "Kunde inte läsa in sidan. Kontrollera anslutningen och försök igen.",
+        "nb": "Kunne ikke laste siden. Sjekk tilkoblingen og prøv igjen.",
+        "nl": "Kon deze pagina niet laden. Controleer je verbinding en probeer opnieuw.",
+        "da": "Kunne ikke indlæse siden. Tjek din forbindelse og prøv igen.",
+        "pl": "Nie udało się wczytać strony. Sprawdź połączenie i spróbuj ponownie.",
+        "fr": "Impossible de charger cette page. Vérifiez votre connexion et réessayez.",
+        "ar": "تعذر تحميل هذه الصفحة. تحقق من اتصالك وحاول مرة أخرى."
+      },
+      "legal.retry": {
+        "en": "Try Again",
+        "ru": "Повторить",
+        "hy": "Կրկին փորձել",
+        "sv": "Försök igen",
+        "nb": "Prøv igjen",
+        "nl": "Opnieuw proberen",
+        "da": "Prøv igen",
+        "pl": "Spróbuj ponownie",
+        "fr": "Réessayer",
+        "ar": "حاول مرة أخرى"
       }
     },
     "Sync": {
