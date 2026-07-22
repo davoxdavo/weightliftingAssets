@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "language": "nl",
-  "version": 2,
-  "catalogVersion": 9,
+  "version": 3,
+  "catalogVersion": 10,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Barbell-krul",
@@ -4009,6 +4009,51 @@
         "Roteer de borst naar de voorste knie en reik met de arm naar het plafond.",
         "Breng de hand terug naar de vloer en schuif de heupen naar achteren om het achterste been te verlengen.",
         "Beweeg langzaam binnen een comfortabel bereik."
+      ]
+    },
+    "legs-spanish-squat": {
+      "name": "Spaanse squat",
+      "instructions": [
+        "Loop a strong band behind the knees and anchor it in front so it pulls the shins forward.",
+        "Stand tall, sit the hips back slightly, and squat while keeping the torso upright.",
+        "Drive through the mid-foot to stand without letting the knees cave in.",
+        "Keep constant band tension; do not let the knees shoot far past a comfortable range."
+      ]
+    },
+    "shoulders-bradford-raise": {
+      "name": "Bradford raise",
+      "instructions": [
+        "Hold a light bar at the front of the shoulders with a palms-forward grip.",
+        "Press just high enough to clear the head, then lower behind the neck.",
+        "Immediately reverse: clear the head again and lower to the front.",
+        "Use a light load and a smooth path; do not bounce on the neck."
+      ]
+    },
+    "core-hollow-rock": {
+      "name": "Hollow Rock",
+      "instructions": [
+        "Lie on your back and press the lower back into the floor into a hollow body shape.",
+        "Extend the arms overhead and the legs long while keeping the ribs down.",
+        "Rock gently forward and back without losing the hollow position.",
+        "Stop if the lower back arches off the floor."
+      ]
+    },
+    "cardio-sled-push": {
+      "name": "Sled push",
+      "instructions": [
+        "Load a sled and take a forward athletic stance with arms extended on the poles or pads.",
+        "Drive through the legs with short powerful steps, keeping the hips low.",
+        "Keep the arms stable and the eyes forward; do not bounce the torso up.",
+        "Reset under control at the end of each push."
+      ]
+    },
+    "mobility-90-90-hip-switch": {
+      "name": "90/90 heupwisseling",
+      "instructions": [
+        "Sit in a 90/90 position with both knees bent and the torso tall.",
+        "Without using the hands, rotate both legs together to the opposite 90/90.",
+        "Keep the chest up and move slowly through the hips.",
+        "Stay in a pain-free range; shorten the motion if the knees complain."
       ]
     }
   }

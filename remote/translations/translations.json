@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784745040,
+  "lastSyncedAt": 1784745287,
   "strings": {
     "Balanced": {
       "range": {
@@ -3596,6 +3596,31 @@
         "en": "World’s Greatest Stretch",
         "ru": "Лучшая растяжка в мире",
         "hy": "Աշխարհի լավագույն ձգում"
+      },
+      "catalog.legs-spanish-squat": {
+        "en": "Spanish Squat",
+        "ru": "Испанский присед",
+        "hy": "Իսպանական կռում"
+      },
+      "catalog.shoulders-bradford-raise": {
+        "en": "Bradford Raise",
+        "ru": "Подъём Брэдфорда",
+        "hy": "Բրեդֆորդ բարձրացում"
+      },
+      "catalog.core-hollow-rock": {
+        "en": "Hollow Rock",
+        "ru": "Hollow Rock",
+        "hy": "Hollow Rock"
+      },
+      "catalog.cardio-sled-push": {
+        "en": "Sled Push",
+        "ru": "Толкание саней",
+        "hy": "Սահնակների հրում"
+      },
+      "catalog.mobility-90-90-hip-switch": {
+        "en": "90/90 Hip Switch",
+        "ru": "Переход 90/90",
+        "hy": "90/90 ազդրերի փոխում"
       }
     },
     "Export": {
@@ -10900,6 +10925,16 @@
         "en": "Pull-Up Factory",
         "ru": "Фабрика подтягиваний",
         "hy": "Ձգումների գործարան"
+      },
+      "catalog.template-remote-five-pack": {
+        "en": "Remote Five Pack",
+        "ru": "Remote Five Pack",
+        "hy": "Remote Five Pack"
+      },
+      "catalog.template-remote-quad-engine": {
+        "en": "Remote Quad Engine",
+        "ru": "Remote Quad Engine",
+        "hy": "Remote Quad Engine"
       }
     },
     "Unit": {
