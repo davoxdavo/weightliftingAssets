@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1784738323,
+  "lastSyncedAt": 1784743520,
   "strings": {
     "Balanced": {
       "range": {
@@ -10730,6 +10730,56 @@
         "en": "Machine Circuit",
         "ru": "Круг на тренажёрах",
         "hy": "Մեքենաների շրջան"
+      },
+      "catalog.template-upper-hypertrophy": {
+        "en": "Upper Hypertrophy",
+        "ru": "Гипертрофия верха",
+        "hy": "Վերին հիպերտրոֆիա"
+      },
+      "catalog.template-lower-strength": {
+        "en": "Lower Strength",
+        "ru": "Сила низа",
+        "hy": "Ստորին ուժ"
+      },
+      "catalog.template-chest-triceps": {
+        "en": "Chest & Triceps",
+        "ru": "Грудь и трицепс",
+        "hy": "Կուրծք և տրիցեպս"
+      },
+      "catalog.template-back-thickness": {
+        "en": "Back Thickness",
+        "ru": "Толщина спины",
+        "hy": "Մեջքի հաստություն"
+      },
+      "catalog.template-shoulder-pump": {
+        "en": "Shoulder Pump",
+        "ru": "Накачка плеч",
+        "hy": "Ուսերի պոմպ"
+      },
+      "catalog.template-core-finisher": {
+        "en": "Core Finisher",
+        "ru": "Кор-финишер",
+        "hy": "Կոր ֆինիշեր"
+      },
+      "catalog.template-glute-emphasis": {
+        "en": "Glute Emphasis",
+        "ru": "Акцент на ягодицы",
+        "hy": "Կոնքերի շեշտ"
+      },
+      "catalog.template-bodyweight-basics": {
+        "en": "Bodyweight Basics",
+        "ru": "База с весом тела",
+        "hy": "Մարմնի քաշի հիմք"
+      },
+      "catalog.template-conditioning": {
+        "en": "Conditioning Circuit",
+        "ru": "Кондиционный круг",
+        "hy": "Կոնդիցիոն շրջան"
+      },
+      "catalog.template-mobility-reset": {
+        "en": "Mobility Reset",
+        "ru": "Мобилити-сброс",
+        "hy": "Շարժունության վերակայում"
       }
     },
     "Unit": {

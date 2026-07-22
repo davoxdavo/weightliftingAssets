@@ -205,12 +205,12 @@
       }
     },
     "templates": {
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v1/gym_templates.json"
+      "version": 2,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v2/gym_templates.json"
     }
   },
   "translations": {
-    "lastSyncedAt": 1784738323,
+    "lastSyncedAt": 1784743520,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {
