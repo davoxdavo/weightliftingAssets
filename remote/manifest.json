@@ -16,8 +16,8 @@
     },
     "message": {
       "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
-      "ru": "Gym Logbook на обслуживании. Попробуйте снова чуть позже.",
-      "hy": "Gym Logbook-ը սպասարկման մեջ է։ Խնդրում ենք փորձել մի փոքր ուշ։",
+      "ru": "Gym Logbook на обслуживании. Загляни чуть позже.",
+      "hy": "Gym Logbook-ը սպասարկման մեջ է։ Փորձիր մի փոքր ուշ։",
       "sv": "Gymloggboken genomgår underhåll. Försök snart igen.",
       "nb": "Gymloggbok er under vedlikehold. Vennligst prøv igjen snart.",
       "nl": "Gymlogboek ondergaat onderhoud. Probeer het binnenkort opnieuw.",
@@ -31,7 +31,7 @@
     "minAppVersion": "1.0.0",
     "title": {
       "en": "Update required",
-      "ru": "Требуется обновление",
+      "ru": "Нужно обновление",
       "hy": "Անհրաժեշտ է թարմացում",
       "sv": "Uppdatering krävs",
       "nb": "Oppdatering kreves",
@@ -43,8 +43,8 @@
     },
     "message": {
       "en": "A newer version of Gym Logbook is required to continue.",
-      "ru": "Для продолжения нужна более новая версия Gym Logbook.",
-      "hy": "Շարունակելու համար անհրաժեշտ է Gym Logbook-ի ավելի նոր տարբերակ։",
+      "ru": "Чтобы продолжить, установи более новую версию Gym Logbook.",
+      "hy": "Շարունակելու համար տեղադրիր Gym Logbook-ի ավելի նոր տարբերակը։",
       "sv": "En nyare version av Gym Logbook krävs för att fortsätta.",
       "nb": "En nyere versjon av Gym Logbook kreves for å fortsette.",
       "nl": "Om verder te kunnen gaan, is een nieuwere versie van Gym Logbook vereist.",
@@ -57,7 +57,7 @@
     "upcomingFeatures": [
       {
         "en": "Faster workout logging",
-        "ru": "Более быстрый лог тренировок",
+        "ru": "Ещё быстрее записывать тренировки",
         "hy": "Ավելի արագ մարզման գրանցում",
         "sv": "Snabbare träningsloggning",
         "nb": "Raskere treningslogging",
@@ -69,8 +69,8 @@
       },
       {
         "en": "Richer muscle-balance insights",
-        "ru": "Более наглядный баланс мышц",
-        "hy": "Ավելի հարուստ մկանային հավասարակշռության վերլուծություն",
+        "ru": "Нагляднее видеть баланс мышц",
+        "hy": "Ավելի հստակ մկանային հավասարակշռության վերլուծություն",
         "sv": "Rikare muskelbalansinsikter",
         "nb": "Rikere muskelbalanseinnsikt",
         "nl": "Rijkere inzichten in de spierbalans",
@@ -81,8 +81,8 @@
       },
       {
         "en": "Improved exercise catalog",
-        "ru": "Расширенный каталог упражнений",
-        "hy": "Բարելավված վարժությունների կատալոգ",
+        "ru": "Удобнее каталог упражнений",
+        "hy": "Ավելի հարմար վարժությունների կատալոգ",
         "sv": "Förbättrad träningskatalog",
         "nb": "Forbedret treningskatalog",
         "nl": "Verbeterde oefencatalogus",
@@ -115,22 +115,22 @@
       },
       "ru": {
         "exercises": {
-          "version": 3,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v1/exercises.localization.json"
+          "version": 4,
+          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v4/exercises.localization.json"
         },
         "supersets": {
-          "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v1/supersets.localization.json"
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v2/supersets.localization.json"
         }
       },
       "hy": {
         "exercises": {
-          "version": 3,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v1/exercises.localization.json"
+          "version": 4,
+          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v4/exercises.localization.json"
         },
         "supersets": {
-          "version": 1,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v1/supersets.localization.json"
+          "version": 2,
+          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/hy/v2/supersets.localization.json"
         }
       },
       "sv": {
@@ -210,7 +210,7 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1784753800,
+    "lastSyncedAt": 1784852572,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {

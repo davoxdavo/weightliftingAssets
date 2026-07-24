@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "language": "ru",
+  "version": 2,
+  "catalogVersion": 3,
+  "supersets": {
+    "superset-chest-back-machine": {
+      "name": "Грудь и спина (машина)"
+    },
+    "superset-chest-back-dumbbell": {
+      "name": "Грудь и спина (гантели)"
+    },
+    "superset-biceps-triceps": {
+      "name": "Бицепсы и трицепсы"
+    },
+    "superset-quads-hamstrings": {
+      "name": "Квадрицепсы и подколенные сухожилия"
+    },
+    "superset-bench-press-barbell-row": {
+      "name": "Жим лежа + тяга штанги"
+    },
+    "superset-incline-dumbbell-press-pull-up": {
+      "name": "Жим гантелей на наклонной скамье + подтягивания"
+    },
+    "superset-overhead-press-lat-pulldown": {
+      "name": "Жим над головой + тяга широчайших мышц вниз"
+    },
+    "superset-push-up-seated-cable-row": {
+      "name": "Отжимание + тяга кабеля сидя"
+    },
+    "superset-back-squat-pull-up": {
+      "name": "Приседания на спине + подтягивания"
+    },
+    "superset-romanian-deadlift-dumbbell-bench-press": {
+      "name": "Румынская становая тяга + жим гантелей лежа"
+    },
+    "superset-walking-lunge-seated-dumbbell-press": {
+      "name": "Ходьба с выпадами + жим гантелей сидя"
+    },
+    "superset-leg-press-barbell-row": {
+      "name": "Жим ногами + тяга штанги"
+    },
+    "superset-incline-bench-dumbbell-bench-press": {
+      "name": "Жим лежа на наклонной скамье + Жим гантелей лежа"
+    },
+    "superset-pull-up-straight-arm-pulldown": {
+      "name": "Подтягивание + тяга вниз на прямых руках"
+    },
+    "superset-back-squat-leg-extension": {
+      "name": "Приседания на спине + разгибание ног"
+    },
+    "superset-romanian-deadlift-seated-leg-curl": {
+      "name": "Румынская становая тяга + сгибание ног сидя"
+    },
+    "superset-barbell-curl-tricep-pushdown": {
+      "name": "Сгибание рук со штангой + отжимание на трицепс"
+    },
+    "superset-dumbbell-fly-rear-delt-fly": {
+      "name": "Разведение гантелей + разведение задних дельт"
+    },
+    "superset-wrist-curl-reverse-wrist-curl": {
+      "name": "Сгибание запястья + обратное сгибание запястья"
+    },
+    "superset-lateral-raise-face-pull": {
+      "name": "Боковой подъем + тяга лица"
+    },
+    "superset-front-raise-reverse-pec-deck": {
+      "name": "Подъем передней части + обратный подъем грудных мышц"
+    },
+    "superset-arnold-press-upright-row": {
+      "name": "Арнольд Пресс + Тяга вертикальных штанг"
+    },
+    "superset-ez-bar-curl-skull-crusher": {
+      "name": "EZ-Bar Curl + Skull Crusher"
+    },
+    "superset-hammer-curl-overhead-tricep-extension": {
+      "name": "Сгибание рук «молоток» + разгибание трицепса над головой"
+    },
+    "superset-cable-curl-rope-pushdown": {
+      "name": "Сгибание кабеля + отжимание от веревки вниз"
+    },
+    "superset-hanging-leg-raise-plank": {
+      "name": "Подъем ног в висе + планка"
+    },
+    "superset-cable-crunch-russian-twist": {
+      "name": "Кейбл Кранч + Русский Твист"
+    },
+    "superset-ab-wheel-side-plank": {
+      "name": "Колесо для пресса + боковая планка"
+    },
+    "superset-chest-upper-mid-lower-triplet": {
+      "name": "Жим гантелей на наклонной скамье + Жим гантелей на скамье + Жим на наклонной скамье"
+    },
+    "superset-back-lats-upper-traps-triplet": {
+      "name": "Тяга широчайших мышц + Тяга кабеля сидя + Шраги со штангой"
+    },
+    "superset-legs-quads-hamstrings-glutes-triplet": {
+      "name": "Разгибание ног + сгибание ног сидя + толчок бедрами"
+    },
+    "superset-shoulders-front-side-rear-triplet": {
+      "name": "Подъем спереди + Подъём в стороны + Размах задних дельт"
+    },
+    "superset-arms-biceps-triceps-forearms-triplet": {
+      "name": "Сгибание рук со штангой + отжимание на трицепс + сгибание запястий"
+    }
+  }
+}

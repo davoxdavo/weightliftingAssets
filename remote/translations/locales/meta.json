@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "lastSyncedAt": 1784852572,
+  "locales": [
+    "en",
+    "ru",
+    "hy",
+    "sv",
+    "nb",
+    "nl",
+    "da",
+    "pl",
+    "fr",
+    "ar"
+  ],
+  "catalogKeyPrefixes": [
+    "exercise.catalog.",
+    "superset.catalog.",
+    "template.catalog."
+  ],
+  "notes": "Author flat locale files here. Compile with scripts/compile_translations.py"
+}
