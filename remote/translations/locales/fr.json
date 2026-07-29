@@ -990,5 +990,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "Inclure les supersets",
+  "balanced.suggestions.includeSupersetsFooter": "Si activé, les supersets de la bibliothèque apparaissent après les cartes d’exercices.",
+  "balanced.rehabThisSession": "Rééducation / récupération",
+  "balanced.rehabThisSession.footer": "Favorise la mobilité et le travail avec élastiques pour ces suggestions seulement. Ne modifie pas le compte.",
+  "balanced.homeThisSession": "Maison / équipement minimal",
+  "balanced.homeThisSession.footer": "Favorise le travail avec élastiques et au poids du corps pour ces suggestions seulement. Ne modifie pas le compte."
 }

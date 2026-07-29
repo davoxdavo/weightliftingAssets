@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785350115,
+  "lastSyncedAt": 1785358165,
   "strings": {
     "Misc": {
       "": {
@@ -1170,6 +1170,54 @@
         "fr": "Balance utilise les entraînements terminés dans cette fenêtre.",
         "ar": "يستخدم الرصيد التدريبات النهائية في هذه النافذة."
       },
+      "homeThisSession": {
+        "en": "Home / minimal equipment",
+        "ru": "Дом / минимум оборудования",
+        "hy": "Տուն / նվազագույն սարքավորում",
+        "sv": "Hem / minimal utrustning",
+        "nb": "Hjem / minimalt utstyr",
+        "nl": "Thuis / minimale apparatuur",
+        "da": "Hjem / minimalt udstyr",
+        "pl": "Dom / minimalny sprzęt",
+        "fr": "Maison / équipement minimal",
+        "ar": "منزل / معدات بسيطة"
+      },
+      "homeThisSession.footer": {
+        "en": "Boosts band and bodyweight work for these suggestions only. Does not change Account settings.",
+        "ru": "Повышает работу с лентами и весом тела только для этих предложений. Не меняет настройки аккаунта.",
+        "hy": "Բարձրացնում է ժապավենային և մարմնի քաշով վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։",
+        "sv": "Lyfter band- och kroppsviktsarbete endast för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Booster bånd- og kroppsvektarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Verhoogt band- en lichaamsgewichtwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Booster bånd- og kropsvægtsarbejde kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija pracę z gumami i ciężarem ciała tylko dla tych sugestii. Nie zmienia ustawień konta.",
+        "fr": "Favorise le travail avec élastiques et au poids du corps pour ces suggestions seulement. Ne modifie pas le compte.",
+        "ar": "يعزز تمارين الأربطة ووزن الجسم لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
+      },
+      "rehabThisSession": {
+        "en": "Rehab / recovery",
+        "ru": "Реабилитация / восстановление",
+        "hy": "Վերականգնում",
+        "sv": "Rehab / återhämtning",
+        "nb": "Rehab / restitusjon",
+        "nl": "Rehab / herstel",
+        "da": "Rehab / restitution",
+        "pl": "Rehab / regeneracja",
+        "fr": "Rééducation / récupération",
+        "ar": "تأهيل / تعافي"
+      },
+      "rehabThisSession.footer": {
+        "en": "Boosts mobility and band work for these suggestions only. Does not change Account settings.",
+        "ru": "Повышает мобилити и работу с лентами только для этих предложений. Не меняет настройки аккаунта.",
+        "hy": "Բարձրացնում է շարժունությունը և ժապավենային վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։",
+        "sv": "Lyfter mobilitet och bandarbete endast för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Booster mobilitet og båndarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Verhoogt mobiliteit en bandwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Booster mobilitet og båndarbejde kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija mobilność i pracę z gumami tylko dla tych sugestii. Nie zmienia ustawień konta.",
+        "fr": "Favorise la mobilité et le travail avec élastiques pour ces suggestions seulement. Ne modifie pas le compte.",
+        "ar": "يعزز تمارين المرونة والأربطة لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
+      },
       "range.start": {
         "en": "From",
         "ru": "От",
@@ -1325,6 +1373,30 @@
         "pl": "Żadnych więcej sugestii",
         "fr": "Plus aucune suggestion",
         "ar": "لا مزيد من الاقتراحات"
+      },
+      "suggestions.includeSupersets": {
+        "en": "Include supersets",
+        "ru": "Включать суперсеты",
+        "hy": "Ներառել սուպերսեթերը",
+        "sv": "Inkludera supersets",
+        "nb": "Inkluder supersett",
+        "nl": "Supersets opnemen",
+        "da": "Medtag supersets",
+        "pl": "Uwzględnij superserie",
+        "fr": "Inclure les supersets",
+        "ar": "تضمين السوبرسيتس"
+      },
+      "suggestions.includeSupersetsFooter": {
+        "en": "When on, library supersets appear after the exercise cards.",
+        "ru": "Если включено, библиотечные суперсеты показываются после карточек упражнений.",
+        "hy": "Միացված լինելու դեպքում գրադարանի սուպերսեթերը հայտնվում են վարժություններից հետո։",
+        "sv": "När det är på visas bibliotekets supersets efter övningskorten.",
+        "nb": "Når på, vises biblioteksupersett etter øvelseskortene.",
+        "nl": "Indien aan verschijnen bibliotheek-supersets na de oefeningskaarten.",
+        "da": "Når den er slået til, vises bibliotekssupersets efter øvelseskortene.",
+        "pl": "Po włączeniu superserie z biblioteki pojawiają się po kartach ćwiczeń.",
+        "fr": "Si activé, les supersets de la bibliothèque apparaissent après les cartes d’exercices.",
+        "ar": "عند التفعيل تظهر سوبرسيتس المكتبة بعد بطاقات التمارين."
       },
       "title": {
         "en": "Balanced",

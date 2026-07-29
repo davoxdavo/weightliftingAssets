@@ -990,5 +990,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "تضمين السوبرسيتس",
+  "balanced.suggestions.includeSupersetsFooter": "عند التفعيل تظهر سوبرسيتس المكتبة بعد بطاقات التمارين.",
+  "balanced.rehabThisSession": "تأهيل / تعافي",
+  "balanced.rehabThisSession.footer": "يعزز تمارين المرونة والأربطة لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب.",
+  "balanced.homeThisSession": "منزل / معدات بسيطة",
+  "balanced.homeThisSession.footer": "يعزز تمارين الأربطة ووزن الجسم لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
 }

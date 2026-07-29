@@ -1333,5 +1333,11 @@
   "account.training.rehab.title": "Реабилитация / восстановление",
   "account.training.rehab.footer": "Чаще предлагать мобильность и щадящую работу с лентами.",
   "picker.homeSuggestions": "Для дома",
-  "picker.rehabSuggestions": "Для реабилитации"
+  "picker.rehabSuggestions": "Для реабилитации",
+  "balanced.suggestions.includeSupersets": "Включать суперсеты",
+  "balanced.suggestions.includeSupersetsFooter": "Если включено, библиотечные суперсеты показываются после карточек упражнений.",
+  "balanced.rehabThisSession": "Реабилитация / восстановление",
+  "balanced.rehabThisSession.footer": "Повышает мобилити и работу с лентами только для этих предложений. Не меняет настройки аккаунта.",
+  "balanced.homeThisSession": "Дом / минимум оборудования",
+  "balanced.homeThisSession.footer": "Повышает работу с лентами и весом тела только для этих предложений. Не меняет настройки аккаунта."
 }

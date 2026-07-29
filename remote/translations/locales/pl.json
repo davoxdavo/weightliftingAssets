@@ -990,5 +990,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "Uwzględnij superserie",
+  "balanced.suggestions.includeSupersetsFooter": "Po włączeniu superserie z biblioteki pojawiają się po kartach ćwiczeń.",
+  "balanced.rehabThisSession": "Rehab / regeneracja",
+  "balanced.rehabThisSession.footer": "Podbija mobilność i pracę z gumami tylko dla tych sugestii. Nie zmienia ustawień konta.",
+  "balanced.homeThisSession": "Dom / minimalny sprzęt",
+  "balanced.homeThisSession.footer": "Podbija pracę z gumami i ciężarem ciała tylko dla tych sugestii. Nie zmienia ustawień konta."
 }

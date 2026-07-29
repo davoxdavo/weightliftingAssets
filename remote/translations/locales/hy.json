@@ -1333,5 +1333,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "Ներառել սուպերսեթերը",
+  "balanced.suggestions.includeSupersetsFooter": "Միացված լինելու դեպքում գրադարանի սուպերսեթերը հայտնվում են վարժություններից հետո։",
+  "balanced.rehabThisSession": "Վերականգնում",
+  "balanced.rehabThisSession.footer": "Բարձրացնում է շարժունությունը և ժապավենային վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։",
+  "balanced.homeThisSession": "Տուն / նվազագույն սարքավորում",
+  "balanced.homeThisSession.footer": "Բարձրացնում է ժապավենային և մարմնի քաշով վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։"
 }

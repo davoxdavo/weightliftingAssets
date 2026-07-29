@@ -1333,5 +1333,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "Include supersets",
+  "balanced.suggestions.includeSupersetsFooter": "When on, library supersets appear after the exercise cards.",
+  "balanced.rehabThisSession": "Rehab / recovery",
+  "balanced.rehabThisSession.footer": "Boosts mobility and band work for these suggestions only. Does not change Account settings.",
+  "balanced.homeThisSession": "Home / minimal equipment",
+  "balanced.homeThisSession.footer": "Boosts band and bodyweight work for these suggestions only. Does not change Account settings."
 }

@@ -990,5 +990,11 @@
   "account.training.rehab.title": "Rehab / recovery",
   "account.training.rehab.footer": "Boost mobility and rehab-friendly band work in suggestions.",
   "picker.homeSuggestions": "Suggested for home",
-  "picker.rehabSuggestions": "Suggested for rehab"
+  "picker.rehabSuggestions": "Suggested for rehab",
+  "balanced.suggestions.includeSupersets": "Inkluder supersett",
+  "balanced.suggestions.includeSupersetsFooter": "Når på, vises biblioteksupersett etter øvelseskortene.",
+  "balanced.rehabThisSession": "Rehab / restitusjon",
+  "balanced.rehabThisSession.footer": "Booster mobilitet og båndarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+  "balanced.homeThisSession": "Hjem / minimalt utstyr",
+  "balanced.homeThisSession.footer": "Booster bånd- og kroppsvektarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger."
 }
