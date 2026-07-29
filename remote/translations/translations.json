@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785343187,
+  "lastSyncedAt": 1785350115,
   "strings": {
     "Misc": {
       "": {
@@ -783,6 +783,66 @@
         "pl": "Konto",
         "fr": "Compte",
         "ar": "حساب"
+      },
+      "training.home.footer": {
+        "en": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "ru": "Чаще предлагать упражнения с лентами и с весом тела.",
+        "hy": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "sv": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "nb": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "nl": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "da": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "pl": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "fr": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "ar": "Boost resistance-band and bodyweight suggestions when picking exercises."
+      },
+      "training.home.title": {
+        "en": "Home / minimal equipment",
+        "ru": "Дом / минимум оборудования",
+        "hy": "Home / minimal equipment",
+        "sv": "Home / minimal equipment",
+        "nb": "Home / minimal equipment",
+        "nl": "Home / minimal equipment",
+        "da": "Home / minimal equipment",
+        "pl": "Home / minimal equipment",
+        "fr": "Home / minimal equipment",
+        "ar": "Home / minimal equipment"
+      },
+      "training.rehab.footer": {
+        "en": "Boost mobility and rehab-friendly band work in suggestions.",
+        "ru": "Чаще предлагать мобильность и щадящую работу с лентами.",
+        "hy": "Boost mobility and rehab-friendly band work in suggestions.",
+        "sv": "Boost mobility and rehab-friendly band work in suggestions.",
+        "nb": "Boost mobility and rehab-friendly band work in suggestions.",
+        "nl": "Boost mobility and rehab-friendly band work in suggestions.",
+        "da": "Boost mobility and rehab-friendly band work in suggestions.",
+        "pl": "Boost mobility and rehab-friendly band work in suggestions.",
+        "fr": "Boost mobility and rehab-friendly band work in suggestions.",
+        "ar": "Boost mobility and rehab-friendly band work in suggestions."
+      },
+      "training.rehab.title": {
+        "en": "Rehab / recovery",
+        "ru": "Реабилитация / восстановление",
+        "hy": "Rehab / recovery",
+        "sv": "Rehab / recovery",
+        "nb": "Rehab / recovery",
+        "nl": "Rehab / recovery",
+        "da": "Rehab / recovery",
+        "pl": "Rehab / recovery",
+        "fr": "Rehab / recovery",
+        "ar": "Rehab / recovery"
+      },
+      "training.section": {
+        "en": "Training preferences",
+        "ru": "Настройки тренировок",
+        "hy": "Training preferences",
+        "sv": "Training preferences",
+        "nb": "Training preferences",
+        "nl": "Training preferences",
+        "da": "Training preferences",
+        "pl": "Training preferences",
+        "fr": "Training preferences",
+        "ar": "Training preferences"
       }
     },
     "Balanced": {
@@ -1085,6 +1145,104 @@
         "pl": "Grupy niedostatecznie przeszkolone są wstępnie wybierane na podstawie Twojej aktywności. Zmieniaj swobodnie.",
         "fr": "Les groupes sous-formés sont présélectionnés parmi votre activité. Changez librement.",
         "ar": "يتم اختيار المجموعات غير المدربة مسبقًا من نشاطك. التغيير بحرية."
+      }
+    },
+    "BandLevel": {
+      "heavy": {
+        "en": "Heavy",
+        "ru": "Heavy",
+        "hy": "Heavy",
+        "sv": "Heavy",
+        "nb": "Heavy",
+        "nl": "Heavy",
+        "da": "Heavy",
+        "pl": "Heavy",
+        "fr": "Heavy",
+        "ar": "Heavy"
+      },
+      "heavy.short": {
+        "en": "Heavy",
+        "ru": "Heavy",
+        "hy": "Heavy",
+        "sv": "Heavy",
+        "nb": "Heavy",
+        "nl": "Heavy",
+        "da": "Heavy",
+        "pl": "Heavy",
+        "fr": "Heavy",
+        "ar": "Heavy"
+      },
+      "light": {
+        "en": "Light",
+        "ru": "Light",
+        "hy": "Light",
+        "sv": "Light",
+        "nb": "Light",
+        "nl": "Light",
+        "da": "Light",
+        "pl": "Light",
+        "fr": "Light",
+        "ar": "Light"
+      },
+      "light.short": {
+        "en": "Light",
+        "ru": "Light",
+        "hy": "Light",
+        "sv": "Light",
+        "nb": "Light",
+        "nl": "Light",
+        "da": "Light",
+        "pl": "Light",
+        "fr": "Light",
+        "ar": "Light"
+      },
+      "medium": {
+        "en": "Medium",
+        "ru": "Medium",
+        "hy": "Medium",
+        "sv": "Medium",
+        "nb": "Medium",
+        "nl": "Medium",
+        "da": "Medium",
+        "pl": "Medium",
+        "fr": "Medium",
+        "ar": "Medium"
+      },
+      "medium.short": {
+        "en": "Med",
+        "ru": "Med",
+        "hy": "Med",
+        "sv": "Med",
+        "nb": "Med",
+        "nl": "Med",
+        "da": "Med",
+        "pl": "Med",
+        "fr": "Med",
+        "ar": "Med"
+      },
+      "power": {
+        "en": "Power",
+        "ru": "Power",
+        "hy": "Power",
+        "sv": "Power",
+        "nb": "Power",
+        "nl": "Power",
+        "da": "Power",
+        "pl": "Power",
+        "fr": "Power",
+        "ar": "Power"
+      },
+      "power.short": {
+        "en": "Power",
+        "ru": "Power",
+        "hy": "Power",
+        "sv": "Power",
+        "nb": "Power",
+        "nl": "Power",
+        "da": "Power",
+        "pl": "Power",
+        "fr": "Power",
+        "ar": "Power"
       }
     },
     "Calendar": {
@@ -4894,6 +5052,18 @@
         "fr": "Appliquer",
         "ar": "يتقدم"
       },
+      "planBandReps": {
+        "en": "Plan: %@ × %@ · %@ sets",
+        "ru": "Plan: %@ × %@ · %@ sets",
+        "hy": "Plan: %@ × %@ · %@ sets",
+        "sv": "Plan: %@ × %@ · %@ sets",
+        "nb": "Plan: %@ × %@ · %@ sets",
+        "nl": "Plan: %@ × %@ · %@ sets",
+        "da": "Plan: %@ × %@ · %@ sets",
+        "pl": "Plan: %@ × %@ · %@ sets",
+        "fr": "Plan: %@ × %@ · %@ sets",
+        "ar": "Plan: %@ × %@ · %@ sets"
+      },
       "planCardio": {
         "en": "Plan: %@ × %@ sets",
         "ru": "План: наборы %@ × %@",
@@ -4965,6 +5135,18 @@
         "pl": "Powtórz %@ — buduj spójność",
         "fr": "Répétez %@ — créez une cohérence",
         "ar": "كرر %@ — قم ببناء الاتساق"
+      },
+      "tryBandReps": {
+        "en": "Try %@ × %@ — beat last best of %@ at this band",
+        "ru": "Try %@ × %@ — beat last best of %@ at this band",
+        "hy": "Try %@ × %@ — beat last best of %@ at this band",
+        "sv": "Try %@ × %@ — beat last best of %@ at this band",
+        "nb": "Try %@ × %@ — beat last best of %@ at this band",
+        "nl": "Try %@ × %@ — beat last best of %@ at this band",
+        "da": "Try %@ × %@ — beat last best of %@ at this band",
+        "pl": "Try %@ × %@ — beat last best of %@ at this band",
+        "fr": "Try %@ × %@ — beat last best of %@ at this band",
+        "ar": "Try %@ × %@ — beat last best of %@ at this band"
       },
       "tryCardio": {
         "en": "Try %@",
@@ -6070,6 +6252,18 @@
       }
     },
     "LoggingType": {
+      "band_reps": {
+        "en": "Band × Reps",
+        "ru": "Band × Reps",
+        "hy": "Band × Reps",
+        "sv": "Band × Reps",
+        "nb": "Band × Reps",
+        "nl": "Band × Reps",
+        "da": "Band × Reps",
+        "pl": "Band × Reps",
+        "fr": "Band × Reps",
+        "ar": "Band × Reps"
+      },
       "cardio": {
         "en": "Cardio",
         "ru": "Кардио",
@@ -6117,6 +6311,30 @@
         "pl": "logowanieType.plain.%@.title",
         "fr": "loggingType.plain.%@.title",
         "ar": "loggingType.plain.%@.title"
+      },
+      "plain.band_reps.subtitle": {
+        "en": "Resistance band level and reps each set",
+        "ru": "Resistance band level and reps each set",
+        "hy": "Resistance band level and reps each set",
+        "sv": "Resistance band level and reps each set",
+        "nb": "Resistance band level and reps each set",
+        "nl": "Resistance band level and reps each set",
+        "da": "Resistance band level and reps each set",
+        "pl": "Resistance band level and reps each set",
+        "fr": "Resistance band level and reps each set",
+        "ar": "Resistance band level and reps each set"
+      },
+      "plain.band_reps.title": {
+        "en": "Band and reps",
+        "ru": "Band and reps",
+        "hy": "Band and reps",
+        "sv": "Band and reps",
+        "nb": "Band and reps",
+        "nl": "Band and reps",
+        "da": "Band and reps",
+        "pl": "Band and reps",
+        "fr": "Band and reps",
+        "ar": "Band and reps"
       },
       "plain.cardio.subtitle": {
         "en": "Time and/or distance, plus optional speed, incline, resistance, cadence",
@@ -9111,6 +9329,32 @@
         "pl": "tom %@",
         "fr": "vol %@",
         "ar": "المجلد %@"
+      }
+    },
+    "Picker": {
+      "homeSuggestions": {
+        "en": "Suggested for home",
+        "ru": "Для дома",
+        "hy": "Suggested for home",
+        "sv": "Suggested for home",
+        "nb": "Suggested for home",
+        "nl": "Suggested for home",
+        "da": "Suggested for home",
+        "pl": "Suggested for home",
+        "fr": "Suggested for home",
+        "ar": "Suggested for home"
+      },
+      "rehabSuggestions": {
+        "en": "Suggested for rehab",
+        "ru": "Для реабилитации",
+        "hy": "Suggested for rehab",
+        "sv": "Suggested for rehab",
+        "nb": "Suggested for rehab",
+        "nl": "Suggested for rehab",
+        "da": "Suggested for rehab",
+        "pl": "Suggested for rehab",
+        "fr": "Suggested for rehab",
+        "ar": "Suggested for rehab"
       }
     },
     "Pr": {
@@ -12469,6 +12713,18 @@
       }
     },
     "Unit": {
+      "band": {
+        "en": "Band",
+        "ru": "Band",
+        "hy": "Band",
+        "sv": "Band",
+        "nb": "Band",
+        "nl": "Band",
+        "da": "Band",
+        "pl": "Band",
+        "fr": "Band",
+        "ar": "Band"
+      },
       "bodyWeight": {
         "en": "Body Weight",
         "ru": "Вес тела",
