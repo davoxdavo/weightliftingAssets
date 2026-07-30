@@ -1405,5 +1405,16 @@
   "friends.session.leave",
   "friends.session.banner",
   "friends.session.pickFriend",
-  "account.friends"
+  "account.friends",
+  "friends.session.accept",
+  "friends.session.alertBody",
+  "friends.session.alertTitle",
+  "friends.session.decline",
+  "friends.session.declinedBody",
+  "friends.session.declinedTitle",
+  "friends.session.sync.removalBody",
+  "friends.session.sync.removalTitle",
+  "account.displayName.title",
+  "account.displayName.placeholder",
+  "account.displayName.footer"
 ]

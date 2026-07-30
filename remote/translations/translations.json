@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785366603,
+  "lastSyncedAt": 1785402195,
   "strings": {
     "Misc": {
       "": {
@@ -1071,6 +1071,42 @@
         "pl": "Friends",
         "fr": "Friends",
         "ar": "Friends"
+      },
+      "displayName.title": {
+        "en": "Display Name",
+        "ru": "Display Name",
+        "hy": "Display Name",
+        "sv": "Display Name",
+        "nb": "Display Name",
+        "nl": "Display Name",
+        "da": "Display Name",
+        "pl": "Display Name",
+        "fr": "Display Name",
+        "ar": "Display Name"
+      },
+      "displayName.placeholder": {
+        "en": "Your name",
+        "ru": "Your name",
+        "hy": "Your name",
+        "sv": "Your name",
+        "nb": "Your name",
+        "nl": "Your name",
+        "da": "Your name",
+        "pl": "Your name",
+        "fr": "Your name",
+        "ar": "Your name"
+      },
+      "displayName.footer": {
+        "en": "Shown to friends when you use Friends & Sharing.",
+        "ru": "Shown to friends when you use Friends & Sharing.",
+        "hy": "Shown to friends when you use Friends & Sharing.",
+        "sv": "Shown to friends when you use Friends & Sharing.",
+        "nb": "Shown to friends when you use Friends & Sharing.",
+        "nl": "Shown to friends when you use Friends & Sharing.",
+        "da": "Shown to friends when you use Friends & Sharing.",
+        "pl": "Shown to friends when you use Friends & Sharing.",
+        "fr": "Shown to friends when you use Friends & Sharing.",
+        "ar": "Shown to friends when you use Friends & Sharing."
       }
     },
     "Balanced": {
@@ -14577,6 +14613,30 @@
         "fr": "Accept",
         "ar": "Accept"
       },
+      "session.alertBody": {
+        "en": "Accept to join their workout now, or decline to keep training on your own.",
+        "ru": "Accept to join their workout now, or decline to keep training on your own.",
+        "hy": "Accept to join their workout now, or decline to keep training on your own.",
+        "sv": "Accept to join their workout now, or decline to keep training on your own.",
+        "nb": "Accept to join their workout now, or decline to keep training on your own.",
+        "nl": "Accept to join their workout now, or decline to keep training on your own.",
+        "da": "Accept to join their workout now, or decline to keep training on your own.",
+        "pl": "Accept to join their workout now, or decline to keep training on your own.",
+        "fr": "Accept to join their workout now, or decline to keep training on your own.",
+        "ar": "Accept to join their workout now, or decline to keep training on your own."
+      },
+      "session.alertTitle": {
+        "en": "%@ invited you to train together",
+        "ru": "%@ invited you to train together",
+        "hy": "%@ invited you to train together",
+        "sv": "%@ invited you to train together",
+        "nb": "%@ invited you to train together",
+        "nl": "%@ invited you to train together",
+        "da": "%@ invited you to train together",
+        "pl": "%@ invited you to train together",
+        "fr": "%@ invited you to train together",
+        "ar": "%@ invited you to train together"
+      },
       "session.decline": {
         "en": "Decline",
         "ru": "Decline",
@@ -14589,53 +14649,53 @@
         "fr": "Decline",
         "ar": "Decline"
       },
-      "session.alertTitle": {
-        "en": "%@ wants to work out together",
-        "ru": "%@ wants to work out together",
-        "hy": "%@ wants to work out together",
-        "sv": "%@ wants to work out together",
-        "nb": "%@ wants to work out together",
-        "nl": "%@ wants to work out together",
-        "da": "%@ wants to work out together",
-        "pl": "%@ wants to work out together",
-        "fr": "%@ wants to work out together",
-        "ar": "%@ wants to work out together"
-      },
-      "session.alertBody": {
-        "en": "Accept to join their session live, or decline.",
-        "ru": "Accept to join their session live, or decline.",
-        "hy": "Accept to join their session live, or decline.",
-        "sv": "Accept to join their session live, or decline.",
-        "nb": "Accept to join their session live, or decline.",
-        "nl": "Accept to join their session live, or decline.",
-        "da": "Accept to join their session live, or decline.",
-        "pl": "Accept to join their session live, or decline.",
-        "fr": "Accept to join their session live, or decline.",
-        "ar": "Accept to join their session live, or decline."
+      "session.declinedBody": {
+        "en": "Your friend declined the workout invite.",
+        "ru": "Your friend declined the workout invite.",
+        "hy": "Your friend declined the workout invite.",
+        "sv": "Your friend declined the workout invite.",
+        "nb": "Your friend declined the workout invite.",
+        "nl": "Your friend declined the workout invite.",
+        "da": "Your friend declined the workout invite.",
+        "pl": "Your friend declined the workout invite.",
+        "fr": "Your friend declined the workout invite.",
+        "ar": "Your friend declined the workout invite."
       },
       "session.declinedTitle": {
-        "en": "Invite declined",
-        "ru": "Invite declined",
-        "hy": "Invite declined",
-        "sv": "Invite declined",
-        "nb": "Invite declined",
-        "nl": "Invite declined",
-        "da": "Invite declined",
-        "pl": "Invite declined",
-        "fr": "Invite declined",
-        "ar": "Invite declined"
+        "en": "Invite Declined",
+        "ru": "Invite Declined",
+        "hy": "Invite Declined",
+        "sv": "Invite Declined",
+        "nb": "Invite Declined",
+        "nl": "Invite Declined",
+        "da": "Invite Declined",
+        "pl": "Invite Declined",
+        "fr": "Invite Declined",
+        "ar": "Invite Declined"
       },
-      "session.declinedBody": {
-        "en": "%@ declined your workout invite.",
-        "ru": "%@ declined your workout invite.",
-        "hy": "%@ declined your workout invite.",
-        "sv": "%@ declined your workout invite.",
-        "nb": "%@ declined your workout invite.",
-        "nl": "%@ declined your workout invite.",
-        "da": "%@ declined your workout invite.",
-        "pl": "%@ declined your workout invite.",
-        "fr": "%@ declined your workout invite.",
-        "ar": "%@ declined your workout invite."
+      "session.sync.removalBody": {
+        "en": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "ru": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "hy": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "sv": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "nb": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "nl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "da": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "pl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "fr": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "ar": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy."
+      },
+      "session.sync.removalTitle": {
+        "en": "Remove %lld Exercise(s)?",
+        "ru": "Remove %lld Exercise(s)?",
+        "hy": "Remove %lld Exercise(s)?",
+        "sv": "Remove %lld Exercise(s)?",
+        "nb": "Remove %lld Exercise(s)?",
+        "nl": "Remove %lld Exercise(s)?",
+        "da": "Remove %lld Exercise(s)?",
+        "pl": "Remove %lld Exercise(s)?",
+        "fr": "Remove %lld Exercise(s)?",
+        "ar": "Remove %lld Exercise(s)?"
       }
     }
   }

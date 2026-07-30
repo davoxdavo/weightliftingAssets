@@ -1405,5 +1405,16 @@
   "friends.error.inviteMine": "This is your own invite. Send it to a friend.",
   "friends.error.blocked": "You can't connect with this person.",
   "friends.error.notFriends": "You are not connected with this person any more.",
-  "friends.error.shareUnavailable": "This share is no longer available."
+  "friends.error.shareUnavailable": "This share is no longer available.",
+  "friends.session.accept": "Accept",
+  "friends.session.alertBody": "Accept to join their workout now, or decline to keep training on your own.",
+  "friends.session.alertTitle": "%@ invited you to train together",
+  "friends.session.decline": "Decline",
+  "friends.session.declinedBody": "Your friend declined the workout invite.",
+  "friends.session.declinedTitle": "Invite Declined",
+  "friends.session.sync.removalBody": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+  "friends.session.sync.removalTitle": "Remove %lld Exercise(s)?",
+  "account.displayName.title": "Display Name",
+  "account.displayName.placeholder": "Your name",
+  "account.displayName.footer": "Shown to friends when you use Friends & Sharing."
 }
