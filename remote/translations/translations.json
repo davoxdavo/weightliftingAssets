@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785402195,
+  "lastSyncedAt": 1785449754,
   "strings": {
     "Misc": {
       "": {
@@ -13771,6 +13771,18 @@
         "fr": "Utilise votre solde d'entraînement récent pour suggérer des exercices.",
         "ar": "يستخدم رصيدك التدريبي الأخير لاقتراح التمارين."
       },
+      "startBalanced.headline": {
+        "en": "Train what you've neglected",
+        "ru": "Тренируйте то, что запустили",
+        "hy": "Մարզեք այն, ինչ անտեսել եք",
+        "sv": "Träna det du har försummat",
+        "nb": "Tren det du har forsømt",
+        "nl": "Train wat je hebt verwaarloosd",
+        "da": "Træn det, du har forsømt",
+        "pl": "Trenuj to, co zaniedbałeś",
+        "fr": "Entraînez ce que vous avez négligé",
+        "ar": "درّب ما أهملته"
+      },
       "startBalanced.subtitle": {
         "en": "Pick muscles · suggestions from your stats",
         "ru": "Выбери мышцы · подсказки по твоей статистике",
@@ -13794,6 +13806,18 @@
         "pl": "Rozpocznij pusty trening",
         "fr": "Commencer un entraînement à vide",
         "ar": "ابدأ التمرين الفارغ"
+      },
+      "startEmpty.footer": {
+        "en": "Freestyle — add exercises as you go.",
+        "ru": "Свободная тренировка — добавляйте упражнения по ходу.",
+        "hy": "Ազատ մարզում — վարժություններն ավելացրեք ընթացքում։",
+        "sv": "Fritt pass — lägg till övningar allt eftersom.",
+        "nb": "Fri økt — legg til øvelser underveis.",
+        "nl": "Vrije training — voeg oefeningen toe terwijl je bezig bent.",
+        "da": "Fri træning — tilføj øvelser undervejs.",
+        "pl": "Trening dowolny — dodawaj ćwiczenia na bieżąco.",
+        "fr": "Séance libre — ajoutez des exercices au fur et à mesure.",
+        "ar": "تمرين حر — أضف التمارين أثناء التقدم."
       },
       "startFromTemplate": {
         "en": "Start from Template",
