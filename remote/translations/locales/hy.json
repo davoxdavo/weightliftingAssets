@@ -1093,6 +1093,7 @@
   "set.duplicate": "Դուփ",
   "set.markComplete": "Նշեք հավաքածուն ավարտված է",
   "set.markIncomplete": "Նշեք հավաքածուն թերի",
+  "set.needsPreviousFilled": "Լրացրու վերջին մոտեցումը՝ նորը ավելացնելուց առաջ։",
   "subgroup.allInGroup": "Բոլորը խմբում",
   "subgroup.allPrimary": "Բոլորը առաջնային",
   "subgroup.arms.biceps": "Biceps",

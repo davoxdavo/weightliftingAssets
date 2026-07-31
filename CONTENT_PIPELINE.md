@@ -15,7 +15,7 @@ flowchart TD
     A2 --> A3["compiled UI pack<br/>translations/translations.json"]
 
     B1["catalog source of truth<br/>app repo data/gym_exercises.json"] --> B2["publish new vN folder<br/>expand_localizations.py per language"]
-    B2 --> B3["structural catalog<br/>catalog/exercises/v12"]
+    B2 --> B3["structural catalog<br/>catalog/exercises/v13"]
     B2 --> B4["localized strings<br/>catalog/localizations/&lt;lang&gt;"]
 
     A3 --> M["remote/manifest.json<br/>versions + lastSyncedAt pointers"]
@@ -64,7 +64,7 @@ Deliberately split in two, so a translation fix never touches exercise structure
 **Structural, language-neutral** — ids, muscles, `loggingType`, `logParams`. Never translated.
 
 ```text
-catalog/exercises/v12/gym_exercises.json
+catalog/exercises/v13/gym_exercises.json
 catalog/supersets/v3/gym_supersets.json
 catalog/templates/v7/gym_templates.json
 ```
@@ -138,11 +138,11 @@ Three hosts in one manifest, each for a reason:
 
 Observations from tracing the tree, not scheduled work.
 
-1. **Directory `vN` ≠ content `version`.** `catalog/localizations/en/v2/exercises.localization.json` carries `"version": 4`, and the manifest declares `4` while pointing at the `v2` path. Same for `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Only `ru` and `hy` line up (`v5` / version 5). Functionally fine — clients compare the integer, not the path — but the folder name misstates the revision.
+1. **Directory `vN` ≠ content `version`.** `catalog/localizations/en/v3/exercises.localization.json` carries `"version": 5`, and the manifest declares `5` while pointing at the `v3` path. Same for `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Only `ru` and `hy` line up (`v6` / version 6). Functionally fine — clients compare the integer, not the path — but the folder name misstates the revision.
 2. **Exercise names live in both systems.** `translations.json` still carries 343 legacy `exercise.catalog.*` / `superset.catalog.*` / `template.catalog.*` keys, `en` / `ru` / `hy` only. These predate `catalog/localizations/` and are the older way of translating exercise names.
-3. **Stale payloads published.** `catalog/exercises/v10` and `v11` are still in the tree. The app repo's `data/REMOTE_MANIFEST.md` says to prune down to the current supported payload (`v12`).
+3. **Stale payloads published.** `catalog/exercises/v10`, `v11` and `v12` are all still in the tree. The app repo's `data/REMOTE_MANIFEST.md` says to prune down to the current supported payload (`v13`).
 4. **`manifests/content-10-7.json` is a snapshot, not an entrypoint.** Shipping builds must keep `REMOTE_MANIFEST_URL` on the stable `remote/manifest.json`.
-5. **`catalogVersion` drift.** Every published localization file declares `"catalogVersion": 11`, but the manifest serves `catalog/exercises/v12`. No translation is actually missing — both carry the same 309 exercise ids — so v12 changed fields rather than rows and the localizations were never re-stamped. The field is advisory; nothing on the client compares it.
+5. **`catalogVersion` drift — resolved 2026-07-31.** Localization files now declare `"catalogVersion": 13`, matching the served `catalog/exercises/v13`. (It read `11` against a served `v12` until the v13 rename pass re-stamped them.) The field is advisory; nothing on the client compares it.
 
 ## See also
 

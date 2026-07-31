@@ -1093,6 +1093,7 @@
   "set.duplicate": "Дюп",
   "set.markComplete": "Отметить набор как завершенный",
   "set.markIncomplete": "Отметить набор как неполный",
+  "set.needsPreviousFilled": "Заполни последний подход, прежде чем добавлять новый.",
   "subgroup.allInGroup": "Все в группе",
   "subgroup.allPrimary": "Все первичные",
   "subgroup.arms.biceps": "Бицепс",

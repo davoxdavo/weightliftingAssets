@@ -1093,6 +1093,7 @@
   "set.duplicate": "Dup",
   "set.markComplete": "Mark set complete",
   "set.markIncomplete": "Mark set incomplete",
+  "set.needsPreviousFilled": "Fill in the last set before adding another.",
   "subgroup.allInGroup": "All in group",
   "subgroup.allPrimary": "All primary",
   "subgroup.arms.biceps": "Biceps",

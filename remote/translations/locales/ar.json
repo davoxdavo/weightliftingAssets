@@ -833,6 +833,7 @@
   "set.duplicate": "دوب",
   "set.markComplete": "ضع علامة على المجموعة مكتملة",
   "set.markIncomplete": "وضع علامة على المجموعة بأنها غير مكتملة",
+  "set.needsPreviousFilled": "أكمل المجموعة الأخيرة قبل إضافة مجموعة جديدة.",
   "subgroup.allInGroup": "الكل في المجموعة",
   "subgroup.allPrimary": "جميع الابتدائية",
   "subgroup.arms.biceps": "العضلة ذات الرأسين",

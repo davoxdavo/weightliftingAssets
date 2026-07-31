@@ -833,6 +833,7 @@
   "set.duplicate": "Dupé",
   "set.markComplete": "Marquer l'ensemble terminé",
   "set.markIncomplete": "Ensemble de marques incomplet",
+  "set.needsPreviousFilled": "Complétez la dernière série avant d'en ajouter une autre.",
   "subgroup.allInGroup": "Tous en groupe",
   "subgroup.allPrimary": "Tous primaires",
   "subgroup.arms.biceps": "Biceps",

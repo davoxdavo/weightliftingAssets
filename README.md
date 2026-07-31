@@ -15,12 +15,14 @@ remote/
   legal/
     terms.html                     # Terms and Conditions (generic English)
     privacy.html                   # Privacy Policy (generic English)
-  catalog/
-    exercises/vN/gym_exercises.json
-    supersets/vN/gym_supersets.json
-    localizations/<locale>/v1/
-      exercises.localization.json
+  catalog/                                  # live paths 2026-07-31 — manifest.json is the truth
+    exercises/v13/gym_exercises.json
+    supersets/v3/gym_supersets.json
+    templates/v7/gym_templates.json
+    localizations/<locale>/vN/              # ru,hy = v6 / others = v3 (exercises)
+      exercises.localization.json           # ru,hy = v2 / others = v1 (supersets)
       supersets.localization.json
+  manifests/                                # optional snapshot archives; prune old ones
   images/exercises/<formGuideAsset>.png
 ```
 
@@ -33,7 +35,7 @@ remote/
 ```json
 "exerciseImages": {
   "baseURL": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/images/exercises/",
-  "revision": 1
+  "revision": 2
 }
 ```
 
@@ -41,7 +43,7 @@ Clients resolve art as `{baseURL}{formGuideAsset}.png` and bump `revision` when 
 
 ## Translations
 
-This repository owns `remote/translations/translations.json`. The iOS app keeps a bundled offline copy and regenerates `TranslationKey.swift` from this pack.
+This repository owns `remote/translations/translations.json`. The iOS app has **no bundled offline copy** — first launch downloads the pack (see the app repo's `TRANSLATIONS_AND_SYMBOLS.md` step 5 and `remote/translations/README.md`); it regenerates `TranslationKey.swift` from this pack. Authoring is moving to the **Gym Logbook Content Manager** app, which writes byte-identical output to `scripts/compile_translations.py`.
 
 Supported UI locales: `en`, `ru`, `hy`, `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Translate from English.
 

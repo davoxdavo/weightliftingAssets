@@ -833,6 +833,7 @@
   "set.duplicate": "Dup",
   "set.markComplete": "Markeerset compleet",
   "set.markIncomplete": "Markeerset onvolledig",
+  "set.needsPreviousFilled": "Vul de laatste set in voordat je een nieuwe toevoegt.",
   "subgroup.allInGroup": "Allemaal in groep",
   "subgroup.allPrimary": "Allemaal primair",
   "subgroup.arms.biceps": "Biceps",

@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785475998,
+  "lastSyncedAt": 1785517073,
   "strings": {
     "Misc": {
       "": {
@@ -11399,6 +11399,18 @@
         "pl": "Oznacz zestaw jako niekompletny",
         "fr": "Ensemble de marques incomplet",
         "ar": "وضع علامة على المجموعة بأنها غير مكتملة"
+      },
+      "needsPreviousFilled": {
+        "en": "Fill in the last set before adding another.",
+        "ru": "Заполни последний подход, прежде чем добавлять новый.",
+        "hy": "Լրացրու վերջին մոտեցումը՝ նորը ավելացնելուց առաջ։",
+        "sv": "Fyll i det senaste setet innan du lägger till ett nytt.",
+        "nb": "Fyll ut det siste settet før du legger til et nytt.",
+        "nl": "Vul de laatste set in voordat je een nieuwe toevoegt.",
+        "da": "Udfyld det sidste sæt, før du tilføjer et nyt.",
+        "pl": "Uzupełnij ostatnią serię przed dodaniem kolejnej.",
+        "fr": "Complétez la dernière série avant d'en ajouter une autre.",
+        "ar": "أكمل المجموعة الأخيرة قبل إضافة مجموعة جديدة."
       }
     },
     "Subgroup": {

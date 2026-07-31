@@ -833,6 +833,7 @@
   "set.duplicate": "Dup",
   "set.markComplete": "Märk set färdig",
   "set.markIncomplete": "Markeringsuppsättningen är ofullständig",
+  "set.needsPreviousFilled": "Fyll i det senaste setet innan du lägger till ett nytt.",
   "subgroup.allInGroup": "Alla i grupp",
   "subgroup.allPrimary": "Alla primära",
   "subgroup.arms.biceps": "Biceps",

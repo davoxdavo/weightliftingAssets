@@ -833,6 +833,7 @@
   "set.duplicate": "Dup",
   "set.markComplete": "Merk settet fullført",
   "set.markIncomplete": "Merkesett som ufullstendig",
+  "set.needsPreviousFilled": "Fyll ut det siste settet før du legger til et nytt.",
   "subgroup.allInGroup": "Alle i gruppe",
   "subgroup.allPrimary": "Alle primære",
   "subgroup.arms.biceps": "Biceps",
