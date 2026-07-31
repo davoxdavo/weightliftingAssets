@@ -4,6 +4,8 @@ Static HTTPS assets for Gym Logbook Pro: remote manifest, translations, catalogs
 
 Hosted via GitHub raw URLs on `main` for now; may move to another CDN later.
 
+How the two content systems (UI copy vs exercise catalog) fit together, and what gates each client download: [`CONTENT_PIPELINE.md`](CONTENT_PIPELINE.md).
+
 ## Layout
 
 ```text
