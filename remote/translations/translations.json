@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785517073,
+  "lastSyncedAt": 1785544676,
   "strings": {
     "Misc": {
       "": {
@@ -11411,6 +11411,200 @@
         "pl": "Uzupełnij ostatnią serię przed dodaniem kolejnej.",
         "fr": "Complétez la dernière série avant d'en ajouter une autre.",
         "ar": "أكمل المجموعة الأخيرة قبل إضافة مجموعة جديدة."
+      }
+    },
+    "Share": {
+      "caption": {
+        "en": "%1$@ — %2$@",
+        "ru": "%1$@ — %2$@",
+        "hy": "%1$@ — %2$@",
+        "sv": "%1$@ — %2$@",
+        "nb": "%1$@ — %2$@",
+        "nl": "%1$@ — %2$@",
+        "da": "%1$@ — %2$@",
+        "pl": "%1$@ — %2$@",
+        "fr": "%1$@ — %2$@",
+        "ar": "%1$@ — %2$@"
+      },
+      "empty.month": {
+        "en": "No workouts logged this month.",
+        "ru": "В этом месяце нет тренировок.",
+        "hy": "Այս ամիս մարզումներ չեն գրանցվել։",
+        "sv": "Inga träningspass loggade den här månaden.",
+        "nb": "Ingen økter logget denne måneden.",
+        "nl": "Deze maand zijn er geen trainingen gelogd.",
+        "da": "Ingen træninger logget denne måned.",
+        "pl": "Brak treningów w tym miesiącu.",
+        "fr": "Aucune séance enregistrée ce mois-ci.",
+        "ar": "لم يتم تسجيل أي تمارين هذا الشهر."
+      },
+      "empty.title": {
+        "en": "Nothing to Share Yet",
+        "ru": "Пока нечем поделиться",
+        "hy": "Դեռ կիսվելու բան չկա",
+        "sv": "Inget att dela än",
+        "nb": "Ingenting å dele ennå",
+        "nl": "Nog niets te delen",
+        "da": "Intet at dele endnu",
+        "pl": "Nie ma jeszcze czym się dzielić",
+        "fr": "Rien à partager pour l'instant",
+        "ar": "لا يوجد ما تشاركه بعد"
+      },
+      "empty.workout": {
+        "en": "This workout has no completed sets.",
+        "ru": "В этой тренировке нет выполненных подходов.",
+        "hy": "Այս մարզման մեջ կատարված մոտեցումներ չկան։",
+        "sv": "Det här passet har inga slutförda set.",
+        "nb": "Denne økten har ingen fullførte sett.",
+        "nl": "Deze training heeft geen voltooide sets.",
+        "da": "Denne træning har ingen gennemførte sæt.",
+        "pl": "Ten trening nie ma ukończonych serii.",
+        "fr": "Cette séance n'a aucune série terminée.",
+        "ar": "لا توجد مجموعات مكتملة في هذا التمرين."
+      },
+      "error": {
+        "en": "Couldn't create the image.",
+        "ru": "Не удалось создать изображение.",
+        "hy": "Չհաջողվեց ստեղծել պատկերը։",
+        "sv": "Det gick inte att skapa bilden.",
+        "nb": "Kunne ikke lage bildet.",
+        "nl": "Kan de afbeelding niet maken.",
+        "da": "Kunne ikke oprette billedet.",
+        "pl": "Nie udało się utworzyć obrazu.",
+        "fr": "Impossible de créer l'image.",
+        "ar": "تعذّر إنشاء الصورة."
+      },
+      "footer": {
+        "en": "Gym Logbook",
+        "ru": "Gym Logbook",
+        "hy": "Gym Logbook",
+        "sv": "Gym Logbook",
+        "nb": "Gym Logbook",
+        "nl": "Gym Logbook",
+        "da": "Gym Logbook",
+        "pl": "Gym Logbook",
+        "fr": "Gym Logbook",
+        "ar": "Gym Logbook"
+      },
+      "month.action": {
+        "en": "Share Month",
+        "ru": "Поделиться месяцем",
+        "hy": "Կիսվել ամսով",
+        "sv": "Dela månad",
+        "nb": "Del måned",
+        "nl": "Maand delen",
+        "da": "Del måned",
+        "pl": "Udostępnij miesiąc",
+        "fr": "Partager le mois",
+        "ar": "مشاركة الشهر"
+      },
+      "month.eyebrow": {
+        "en": "MONTH RECAP",
+        "ru": "ИТОГИ МЕСЯЦА",
+        "hy": "ԱՄՍՎԱ ԱՄՓՈՓՈՒՄ",
+        "sv": "MÅNADSSAMMANFATTNING",
+        "nb": "MÅNEDSOPPSUMMERING",
+        "nl": "MAANDOVERZICHT",
+        "da": "MÅNEDSOPSAMLING",
+        "pl": "PODSUMOWANIE MIESIĄCA",
+        "fr": "BILAN DU MOIS",
+        "ar": "ملخص الشهر"
+      },
+      "month.next": {
+        "en": "Next month",
+        "ru": "Следующий месяц",
+        "hy": "Հաջորդ ամիս",
+        "sv": "Nästa månad",
+        "nb": "Neste måned",
+        "nl": "Volgende maand",
+        "da": "Næste måned",
+        "pl": "Następny miesiąc",
+        "fr": "Mois suivant",
+        "ar": "الشهر التالي"
+      },
+      "month.previous": {
+        "en": "Previous month",
+        "ru": "Предыдущий месяц",
+        "hy": "Նախորդ ամիս",
+        "sv": "Föregående månad",
+        "nb": "Forrige måned",
+        "nl": "Vorige maand",
+        "da": "Forrige måned",
+        "pl": "Poprzedni miesiąc",
+        "fr": "Mois précédent",
+        "ar": "الشهر السابق"
+      },
+      "newPrs": {
+        "en": "%lld new PRs",
+        "ru": "%lld новых рекордов",
+        "hy": "%lld նոր ռեկորդ",
+        "sv": "%lld nya rekord",
+        "nb": "%lld nye rekorder",
+        "nl": "%lld nieuwe PR's",
+        "da": "%lld nye rekorder",
+        "pl": "%lld nowych rekordów",
+        "fr": "%lld nouveaux records",
+        "ar": "%lld رقم قياسي جديد"
+      },
+      "title": {
+        "en": "Share",
+        "ru": "Поделиться",
+        "hy": "Կիսվել",
+        "sv": "Dela",
+        "nb": "Del",
+        "nl": "Delen",
+        "da": "Del",
+        "pl": "Udostępnij",
+        "fr": "Partager",
+        "ar": "مشاركة"
+      },
+      "trainingDays": {
+        "en": "%lld training days",
+        "ru": "%lld дней тренировок",
+        "hy": "%lld մարզման օր",
+        "sv": "%lld träningsdagar",
+        "nb": "%lld treningsdager",
+        "nl": "%lld trainingsdagen",
+        "da": "%lld træningsdage",
+        "pl": "%lld dni treningowych",
+        "fr": "%lld jours d'entraînement",
+        "ar": "%lld يوم تدريب"
+      },
+      "workout.action": {
+        "en": "Share Workout",
+        "ru": "Поделиться тренировкой",
+        "hy": "Կիսվել մարզումով",
+        "sv": "Dela träningspass",
+        "nb": "Del økt",
+        "nl": "Training delen",
+        "da": "Del træning",
+        "pl": "Udostępnij trening",
+        "fr": "Partager la séance",
+        "ar": "مشاركة التمرين"
+      },
+      "workout.eyebrow": {
+        "en": "WORKOUT",
+        "ru": "ТРЕНИРОВКА",
+        "hy": "ՄԱՐԶՈՒՄ",
+        "sv": "TRÄNINGSPASS",
+        "nb": "ØKT",
+        "nl": "TRAINING",
+        "da": "TRÆNING",
+        "pl": "TRENING",
+        "fr": "SÉANCE",
+        "ar": "تمرين"
+      },
+      "workoutCount": {
+        "en": "%lld workouts",
+        "ru": "%lld тренировок",
+        "hy": "%lld մարզում",
+        "sv": "%lld träningspass",
+        "nb": "%lld økter",
+        "nl": "%lld trainingen",
+        "da": "%lld træninger",
+        "pl": "%lld treningów",
+        "fr": "%lld séances",
+        "ar": "%lld تمرين"
       }
     },
     "Subgroup": {
