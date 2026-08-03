@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785544676,
+  "lastSyncedAt": 1785745335,
   "strings": {
     "Misc": {
       "": {
@@ -11546,6 +11546,54 @@
         "fr": "%lld nouveaux records",
         "ar": "%lld رقم قياسي جديد"
       },
+      "style.balance": {
+        "en": "Balance",
+        "ru": "Баланс",
+        "hy": "Հավասարակշռություն",
+        "sv": "Balans",
+        "nb": "Balanse",
+        "nl": "Balans",
+        "da": "Balance",
+        "pl": "Równowaga",
+        "fr": "Équilibre",
+        "ar": "التوازن"
+      },
+      "style.headline": {
+        "en": "Headline",
+        "ru": "Главное",
+        "hy": "Գլխավոր",
+        "sv": "Rubrik",
+        "nb": "Overskrift",
+        "nl": "Kerncijfer",
+        "da": "Overskrift",
+        "pl": "Nagłówek",
+        "fr": "À la une",
+        "ar": "العنوان"
+      },
+      "style.highlights": {
+        "en": "Highlights",
+        "ru": "Лучшее",
+        "hy": "Կարևորները",
+        "sv": "Höjdpunkter",
+        "nb": "Høydepunkter",
+        "nl": "Hoogtepunten",
+        "da": "Højdepunkter",
+        "pl": "Najważniejsze",
+        "fr": "Temps forts",
+        "ar": "أبرز النقاط"
+      },
+      "style.overview": {
+        "en": "Overview",
+        "ru": "Обзор",
+        "hy": "Ընդհանուր",
+        "sv": "Översikt",
+        "nb": "Oversikt",
+        "nl": "Overzicht",
+        "da": "Oversigt",
+        "pl": "Przegląd",
+        "fr": "Aperçu",
+        "ar": "نظرة عامة"
+      },
       "title": {
         "en": "Share",
         "ru": "Поделиться",
@@ -14651,6 +14699,162 @@
         "fr": "Remarques",
         "ar": "ملحوظات"
       },
+      "plan.addExercises": {
+        "en": "Add Exercises",
+        "ru": "Добавить упражнения",
+        "hy": "Ավելացնել վարժություններ",
+        "sv": "Lägg till övningar",
+        "nb": "Legg til øvelser",
+        "nl": "Oefeningen toevoegen",
+        "da": "Tilføj øvelser",
+        "pl": "Dodaj ćwiczenia",
+        "fr": "Ajouter des exercices",
+        "ar": "إضافة التمارين"
+      },
+      "plan.discardTitle": {
+        "en": "Discard this plan?",
+        "ru": "Отменить этот план?",
+        "hy": "Հրաժարվե՞լ այս պլանից։",
+        "sv": "Kassera planen?",
+        "nb": "Kaste denne planen?",
+        "nl": "Dit plan weggooien?",
+        "da": "Kassér denne plan?",
+        "pl": "Odrzucić ten plan?",
+        "fr": "Abandonner ce plan ?",
+        "ar": "هل تريد تجاهل هذه الخطة؟"
+      },
+      "plan.exercises": {
+        "en": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Զորավարժություններ",
+        "sv": "Övningar",
+        "nb": "Øvelser",
+        "nl": "Oefeningen",
+        "da": "Øvelser",
+        "pl": "Ćwiczenia",
+        "fr": "Exercices",
+        "ar": "تمارين"
+      },
+      "plan.exercisesEmpty": {
+        "en": "No exercises yet. Add a few to plan this session.",
+        "ru": "Упражнений пока нет. Добавьте несколько, чтобы спланировать тренировку.",
+        "hy": "Դեռ վարժություններ չկան։ Ավելացրեք մի քանիսը՝ մարզումը պլանավորելու համար։",
+        "sv": "Inga övningar än. Lägg till några för att planera passet.",
+        "nb": "Ingen øvelser ennå. Legg til noen for å planlegge økten.",
+        "nl": "Nog geen oefeningen. Voeg er een paar toe om deze training te plannen.",
+        "da": "Ingen øvelser endnu. Tilføj nogle for at planlægge træningen.",
+        "pl": "Brak ćwiczeń. Dodaj kilka, aby zaplanować trening.",
+        "fr": "Aucun exercice pour l'instant. Ajoutez-en quelques-uns pour planifier la séance.",
+        "ar": "لا توجد تمارين بعد. أضف بعضها لتخطيط هذا التمرين."
+      },
+      "plan.namePlaceholder": {
+        "en": "Session name",
+        "ru": "Название тренировки",
+        "hy": "Մարզման անվանումը",
+        "sv": "Passets namn",
+        "nb": "Navn på økten",
+        "nl": "Naam van de training",
+        "da": "Træningens navn",
+        "pl": "Nazwa treningu",
+        "fr": "Nom de la séance",
+        "ar": "اسم التمرين"
+      },
+      "plan.namePromptMessage": {
+        "en": "Give this plan a name so you can find it later.",
+        "ru": "Дайте плану название, чтобы легко найти его позже.",
+        "hy": "Տվեք այս պլանին անվանում, որպեսզի հետո հեշտ գտնեք։",
+        "sv": "Ge planen ett namn så att du hittar den senare.",
+        "nb": "Gi planen et navn så du finner den igjen senere.",
+        "nl": "Geef dit plan een naam zodat je het later terugvindt.",
+        "da": "Giv planen et navn, så du kan finde den igen senere.",
+        "pl": "Nadaj planowi nazwę, aby łatwo go później znaleźć.",
+        "fr": "Donnez un nom à ce plan pour le retrouver plus tard.",
+        "ar": "أعطِ هذه الخطة اسمًا لتتمكن من العثور عليها لاحقًا."
+      },
+      "plan.namePromptTitle": {
+        "en": "Name this session",
+        "ru": "Назовите тренировку",
+        "hy": "Անվանեք այս մարզումը",
+        "sv": "Namnge passet",
+        "nb": "Gi økten et navn",
+        "nl": "Geef deze training een naam",
+        "da": "Navngiv træningen",
+        "pl": "Nazwij ten trening",
+        "fr": "Nommez cette séance",
+        "ar": "سمِّ هذا التمرين"
+      },
+      "plan.saveTemplateFooter": {
+        "en": "Save these exercises as a template without starting a workout.",
+        "ru": "Сохраните эти упражнения как шаблон, не начиная тренировку.",
+        "hy": "Պահպանեք այս վարժությունները որպես կաղապար՝ առանց մարզումը սկսելու։",
+        "sv": "Spara övningarna som en mall utan att starta ett pass.",
+        "nb": "Lagre disse øvelsene som en mal uten å starte en økt.",
+        "nl": "Bewaar deze oefeningen als sjabloon zonder een training te starten.",
+        "da": "Gem disse øvelser som en skabelon uden at starte en træning.",
+        "pl": "Zapisz te ćwiczenia jako szablon bez rozpoczynania treningu.",
+        "fr": "Enregistrez ces exercices comme modèle sans commencer de séance.",
+        "ar": "احفظ هذه التمارين كقالب دون بدء التمرين."
+      },
+      "plan.start": {
+        "en": "Start Workout",
+        "ru": "Начать тренировку",
+        "hy": "Սկսեք մարզվելը",
+        "sv": "Starta träningen",
+        "nb": "Start treningen",
+        "nl": "Training starten",
+        "da": "Start træning",
+        "pl": "Rozpocznij trening",
+        "fr": "Commencer l'entraînement",
+        "ar": "ابدأ التمرين"
+      },
+      "plan.startFooter": {
+        "en": "The session clock starts when the workout opens — planning time doesn't count.",
+        "ru": "Отсчёт времени начнётся при открытии тренировки — планирование не учитывается.",
+        "hy": "Ժամանակի հաշվարկը սկսվում է մարզումը բացելիս — պլանավորման ժամանակը չի հաշվվում։",
+        "sv": "Tiden börjar räknas när passet öppnas — planeringstiden räknas inte.",
+        "nb": "Tiden begynner å gå når økten åpnes — planleggingstiden teller ikke.",
+        "nl": "De tijd begint te lopen zodra de training opent — plannen telt niet mee.",
+        "da": "Tiden begynder, når træningen åbnes — planlægningstiden tæller ikke med.",
+        "pl": "Czas zaczyna się liczyć po otwarciu treningu — planowanie się nie liczy.",
+        "fr": "Le chronomètre démarre à l'ouverture de la séance — le temps de planification ne compte pas.",
+        "ar": "يبدأ الوقت عند فتح التمرين — وقت التخطيط لا يُحتسب."
+      },
+      "plan.summary": {
+        "en": "Session summary",
+        "ru": "Обзор тренировки",
+        "hy": "Մարզման ամփոփում",
+        "sv": "Passöversikt",
+        "nb": "Øktoversikt",
+        "nl": "Overzicht van de training",
+        "da": "Træningsoversigt",
+        "pl": "Podsumowanie treningu",
+        "fr": "Résumé de la séance",
+        "ar": "ملخص التمرين"
+      },
+      "plan.summaryEmpty": {
+        "en": "Add exercises to see which muscles this session trains.",
+        "ru": "Добавьте упражнения, чтобы увидеть, какие мышцы задействует тренировка.",
+        "hy": "Ավելացրեք վարժություններ՝ տեսնելու, թե որ մկաններն է մարզում այս մարզումը։",
+        "sv": "Lägg till övningar för att se vilka muskler passet tränar.",
+        "nb": "Legg til øvelser for å se hvilke muskler økten trener.",
+        "nl": "Voeg oefeningen toe om te zien welke spieren deze training traint.",
+        "da": "Tilføj øvelser for at se, hvilke muskler træningen træner.",
+        "pl": "Dodaj ćwiczenia, aby zobaczyć, które mięśnie trenuje ten trening.",
+        "fr": "Ajoutez des exercices pour voir quels muscles cette séance travaille.",
+        "ar": "أضف تمارين لترى العضلات التي يدربها هذا التمرين."
+      },
+      "plan.title": {
+        "en": "Plan Session",
+        "ru": "Планирование тренировки",
+        "hy": "Պլանավորել մարզումը",
+        "sv": "Planera passet",
+        "nb": "Planlegg økten",
+        "nl": "Training plannen",
+        "da": "Planlæg træningen",
+        "pl": "Zaplanuj trening",
+        "fr": "Planifier la séance",
+        "ar": "خطط التمرين"
+      },
       "reorderExercises": {
         "en": "Reorder exercises",
         "ru": "Изменение порядка упражнений",
@@ -14916,16 +15120,16 @@
         "ar": "ابدأ التمرين الفارغ"
       },
       "startEmpty.footer": {
-        "en": "Freestyle — add exercises as you go.",
-        "ru": "Свободная тренировка — добавляйте упражнения по ходу.",
-        "hy": "Ազատ մարզում — վարժություններն ավելացրեք ընթացքում։",
-        "sv": "Fritt pass — lägg till övningar allt eftersom.",
-        "nb": "Fri økt — legg til øvelser underveis.",
-        "nl": "Vrije training — voeg oefeningen toe terwijl je bezig bent.",
-        "da": "Fri træning — tilføj øvelser undervejs.",
-        "pl": "Trening dowolny — dodawaj ćwiczenia na bieżąco.",
-        "fr": "Séance libre — ajoutez des exercices au fur et à mesure.",
-        "ar": "تمرين حر — أضف التمارين أثناء التقدم."
+        "en": "Freestyle — pick your exercises, then start.",
+        "ru": "Свободная тренировка — выберите упражнения, затем начните.",
+        "hy": "Ազատ մարզում — ընտրեք վարժությունները, ապա սկսեք։",
+        "sv": "Fritt pass — välj dina övningar och starta sedan.",
+        "nb": "Fri økt — velg øvelsene dine, og start.",
+        "nl": "Vrije training — kies je oefeningen en start daarna.",
+        "da": "Fri træning — vælg dine øvelser, og start.",
+        "pl": "Trening dowolny — wybierz ćwiczenia, a potem zacznij.",
+        "fr": "Séance libre — choisissez vos exercices, puis commencez.",
+        "ar": "تمرين حر — اختر تمارينك ثم ابدأ."
       },
       "startFromTemplate": {
         "en": "Start from Template",

@@ -6,6 +6,13 @@ Hosted via GitHub raw URLs on `main` for now; may move to another CDN later.
 
 How the two content systems (UI copy vs exercise catalog) fit together, and what gates each client download: [`CONTENT_PIPELINE.md`](CONTENT_PIPELINE.md).
 
+Before publishing anything, review what is actually live:
+
+```bash
+python3 scripts/review_catalog.py --summary   # read-only: catalog + localizations + images
+python3 scripts/fix_catalog.py prune          # dry run; --apply to write
+```
+
 ## Layout
 
 ```text

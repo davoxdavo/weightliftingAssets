@@ -59,15 +59,22 @@ Supported locales: `en`, `ru`, `hy`, `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. E
 
 ## System 2 — exercise catalog (`remote/catalog/`)
 
-Deliberately split in two, so a translation fix never touches exercise structure and vice versa.
+Split in two, so a translation fix does not have to touch exercise structure.
 
-**Structural, language-neutral** — ids, muscles, `loggingType`, `logParams`. Never translated.
+**Structural** — ids, muscles, `loggingType`, `logParams`.
 
 ```text
 catalog/exercises/v13/gym_exercises.json
 catalog/supersets/v3/gym_supersets.json
 catalog/templates/v7/gym_templates.json
 ```
+
+> **This file is not language-neutral, despite the split.** `name` is a bare
+> English string, and `instructions` / `safety[].title` / `safety[].description`
+> are locale maps carrying **en + ru inline**. That inline copy predates
+> `catalog/localizations/` and is not what the device renders — the
+> localization file wins. Treat the inline text as a legacy mirror, and check
+> it with `scripts/review_catalog.py --only drift` before trusting it.
 
 **Text layer, per language** — keyed by the same structural ids.
 
@@ -124,6 +131,42 @@ After publishing, purge the CDN for the stable manifest:
 curl -s "https://purge.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/manifest.json"
 ```
 
+## Reviewing and fixing
+
+Two scripts resolve everything from `manifest.json` — never from a hardcoded
+`vN` — so they always inspect what is actually live.
+
+```bash
+python3 scripts/review_catalog.py --summary
+```
+
+Read-only. Checks the catalog, all ten localizations, and every published image
+in one pass, with stable issue codes: `C*` catalog integrity, `L*` localization
+vs catalog, `D*` inline catalog text vs the localization file, `M*` images, `P*`
+publishing hygiene. `--only <area>`, `--locale <code>`, `--json`, and
+`--fail-on warn` (for CI) narrow or reshape the output. `--summary` prints the
+per-locale coverage table, which is the view worth reading before a release.
+
+```bash
+python3 scripts/fix_catalog.py reconcile          # dry run
+python3 scripts/fix_catalog.py reconcile --apply
+```
+
+Applies the mechanical fixes. Dry-run by default; `--apply` writes.
+
+| Command | What it does |
+| --- | --- |
+| `reconcile` | Rewrites the structural catalog's inline text from `catalog/localizations/`, publishes it as the next `exercises/vN+1`, and repoints the manifest. |
+| `restamp` | Sets `catalogVersion` in every localization to the served catalog version. Patches the served file **in place** — the field is advisory, so bumping the pointer would force every device to re-download ~270 KB per locale for nothing. `--republish` opts into the strict vN+1 path. |
+| `prune` | Deletes published catalog payloads the manifest no longer points at. |
+
+Neither script invents a translation. Untranslated entries (`L11` / `L12`) are
+only ever reported.
+
+The **Gym Logbook Content Manager** app carries the same rules in
+`ExerciseReviewValidator` (same codes, same severities) with an editor on top —
+keep the two in step when either changes.
+
 ## Hosting
 
 Three hosts in one manifest, each for a reason:
@@ -136,13 +179,30 @@ Three hosts in one manifest, each for a reason:
 
 ## Known inconsistencies
 
-Observations from tracing the tree, not scheduled work.
+All verified by `scripts/review_catalog.py` — re-run it rather than trusting
+this list, which is a snapshot.
 
-1. **Directory `vN` ≠ content `version`.** `catalog/localizations/en/v3/exercises.localization.json` carries `"version": 5`, and the manifest declares `5` while pointing at the `v3` path. Same for `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Only `ru` and `hy` line up (`v6` / version 6). Functionally fine — clients compare the integer, not the path — but the folder name misstates the revision.
-2. **Exercise names live in both systems.** `translations.json` still carries 343 legacy `exercise.catalog.*` / `superset.catalog.*` / `template.catalog.*` keys, `en` / `ru` / `hy` only. These predate `catalog/localizations/` and are the older way of translating exercise names.
-3. **Stale payloads published.** `catalog/exercises/v10`, `v11` and `v12` are all still in the tree. The app repo's `data/REMOTE_MANIFEST.md` says to prune down to the current supported payload (`v13`).
-4. **`manifests/content-10-7.json` is a snapshot, not an entrypoint.** Shipping builds must keep `REMOTE_MANIFEST_URL` on the stable `remote/manifest.json`.
-5. **`catalogVersion` drift — resolved 2026-07-31.** Localization files now declare `"catalogVersion": 13`, matching the served `catalog/exercises/v13`. (It read `11` against a served `v12` until the v13 rename pass re-stamped them.) The field is advisory; nothing on the client compares it.
+1. **The structural catalog's inline Russian has drifted.** 258 of 309
+   exercises have `instructions.ru` in `exercises/v13/gym_exercises.json` that
+   disagrees with `localizations/ru/v6/`, plus 507 safety title/description
+   fields. The localization file is what devices render, so this is invisible
+   to users — but it means the catalog cannot be trusted as a text source.
+   Review codes `D2` / `D4`; `fix_catalog.py reconcile` clears it.
+2. **51 exercises are untranslated in all nine non-English locales** — every
+   `band_*` movement added with `band_reps` in catalog v11. Names fall back to
+   English everywhere. Beyond those, `da` / `sv` / `nb` carry ~137 English
+   names each, and every locale has ~55 English instruction blocks. Review
+   codes `L11` / `L12`; no script can fix these.
+3. **Exercise text lives in three places.** The structural catalog's inline
+   en + ru; `catalog/localizations/<lang>/`; and 343 legacy
+   `exercise.catalog.*` / `superset.catalog.*` / `template.catalog.*` keys
+   still shipping in `translations.json` (`en` / `ru` / `hy` only), which
+   predate the localization files. Review code `P3`.
+4. **Directory `vN` ≠ content `version`.** `catalog/localizations/en/v3/exercises.localization.json` carries `"version": 5`, and the manifest declares `5` while pointing at the `v3` path. Same for `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Only `ru` and `hy` line up (`v6` / version 6). Functionally fine — clients compare the integer, not the path — but the folder name misstates the revision. Review code `P2`.
+5. **Stale payloads published.** `catalog/exercises/v10`, `v11` and `v12` are all still in the tree, plus 20 superseded localization folders. Review code `P1`; `fix_catalog.py prune` clears them.
+6. **`manifests/content-10-7.json` is a snapshot, not an entrypoint.** Shipping builds must keep `REMOTE_MANIFEST_URL` on the stable `remote/manifest.json`.
+7. **Three form guides exceed 1.4 MB** (`legs-back-squat`, `legs-donkey-calf-raise`, `legs-hip-adduction`). The corpus is uniformly 1024×1024 8-bit RGB PNG at ~1.1 MB, 309 files, ~307 MB total. Review code `M6`.
+8. **`catalogVersion` drift — resolved 2026-07-31.** Localization files now declare `"catalogVersion": 13`, matching the served `catalog/exercises/v13`. The field is advisory; nothing on the client compares it.
 
 ## See also
 
@@ -150,4 +210,5 @@ Observations from tracing the tree, not scheduled work.
 - [`remote/translations/locales/README.md`](remote/translations/locales/README.md) — authoring rules for flat locale files
 - App repo `data/REMOTE_MANIFEST.md` — full manifest field reference and operator recipes
 - App repo `data/SHIP_CATALOG_UPDATE.md` — step-by-step catalog release playbook
+- App repo `Gym Logbook Content Manager/` — the editor app; its Exercises module runs the same review rules with a UI on top
 - App repo `TRANSLATIONS_AND_SYMBOLS.md` — the "every UI copy change updates this pack" rule
