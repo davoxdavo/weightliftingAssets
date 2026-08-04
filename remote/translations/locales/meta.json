@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastSyncedAt": 1785745335,
+  "lastSyncedAt": 1785881992,
   "locales": [
     "en",
     "ru",
@@ -18,5 +18,5 @@
     "superset.catalog.",
     "template.catalog."
   ],
-  "notes": "Author flat locale files here. Compile with scripts/compile_translations.py"
+  "notes": ""
 }

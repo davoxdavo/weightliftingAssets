@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785745335,
+  "lastSyncedAt": 1785881992,
   "strings": {
     "Misc": {
       "": {
@@ -116,37 +116,37 @@
         "en": "Use existing account",
         "ru": "Использовать существующую учетную запись",
         "hy": "Օգտագործեք գոյություն ունեցող հաշիվը",
-        "sv": "Use existing account",
-        "nb": "Use existing account",
-        "nl": "Use existing account",
-        "da": "Use existing account",
-        "pl": "Use existing account",
-        "fr": "Use existing account",
-        "ar": "Use existing account"
+        "sv": "Använd befintligt konto",
+        "nb": "Bruk eksisterende konto",
+        "nl": "Gebruik bestaand account",
+        "da": "Brug eksisterende konto",
+        "pl": "Użyj istniejącego konta",
+        "fr": "Utiliser un compte existant",
+        "ar": "استخدم الحساب الحالي"
       },
       "adoptExisting.message": {
         "en": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
         "ru": "Эта учетная запись Apple или Google уже принадлежит другой учетной записи. Продолжаем переключаться на эту учетную запись. Твой гостевой облачный профиль на этом устройстве будет удален. Тренировки остаются на этом устройстве.",
-        "hy": "Apple-ի կամ Google-ի այս մուտքն արդեն պատկանում է մեկ այլ հաշվի: Շարունակվում է անցնել այդ հաշվին: Ձեր հյուրի ամպային պրոֆիլն այս սարքում կհրաժարվի: Մարզումները մնում են այս սարքում:",
-        "sv": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "nb": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "nl": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "da": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "pl": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "fr": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "ar": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device."
+        "hy": "Այս Apple կամ Google մուտքը արդեն պատկանում է մեկ այլ հաշվի: Շարունակելը անցնում է այդ հաշվին: Այս սարքի վրա ձեր հյուրի ամպային պրոֆիլը կջնջվի, սակայն մարզումները և նվաճումները կպահպանվեն",
+        "sv": "Denna Apple- eller Google-inloggning tillhör redan ett annat konto. Om du fortsätter växlas den till det kontot. Din gästmolnprofil på den här enheten kommer att tas bort. Träningspass finns kvar på den här enheten.",
+        "nb": "Denne Apple- eller Google-påloggingen tilhører allerede en annen konto. Hvis du fortsetter, byttes det til den kontoen. Gjesteskyprofilen din på denne enheten blir forlatt. Treningsøkter forblir på denne enheten.",
+        "nl": "Deze Apple- of Google-aanmelding is al gekoppeld aan een ander account. Doorgaan schakelt over naar dat account. Uw gastcloudprofiel op dit apparaat wordt verwijderd. Trainingen blijven op dit apparaat staan.",
+        "da": "Dette Apple- eller Google-login tilhører allerede en anden konto. Hvis du fortsætter, skifter du til den konto. Din gæsteprofil i skyen på denne enhed vil blive forladt. Træningsprogrammer forbliver på denne enhed.",
+        "pl": "To logowanie Apple lub Google jest już przypisane do innego konta. Kontynuowanie spowoduje przełączenie na to konto. Twój profil w chmurze dla gości na tym urządzeniu zostanie porzucony. Treningi pozostaną na tym urządzeniu.",
+        "fr": "Ce compte Apple ou Google est déjà associé à un autre compte. Vous serez redirigé vers ce compte. Votre profil invité sur le cloud de cet appareil sera supprimé. Vos séances d'entraînement restent enregistrées sur cet appareil.",
+        "ar": "هذا الحساب المُسجّل دخوله من Apple أو Google مرتبطٌ بالفعل بحسابٍ آخر. سيتمّ الانتقال إلى ذلك الحساب عند المتابعة. سيتمّ حذف ملف تعريف الضيف السحابي الخاص بك من هذا الجهاز. ستبقى بيانات التمارين الرياضية على هذا الجهاز."
       },
       "adoptExisting.title": {
         "en": "Use existing account?",
         "ru": "Использовать существующую учетную запись?",
-        "hy": "Օգտագործե՞լ գոյություն ունեցող հաշիվը:",
-        "sv": "Use existing account?",
-        "nb": "Use existing account?",
-        "nl": "Use existing account?",
-        "da": "Use existing account?",
-        "pl": "Use existing account?",
-        "fr": "Use existing account?",
-        "ar": "Use existing account?"
+        "hy": "Օգտագործե՞լ գոյություն ունեցող հաշիվը",
+        "sv": "Använd befintligt konto?",
+        "nb": "Vil du bruke eksisterende konto?",
+        "nl": "Bestaand account gebruiken?",
+        "da": "Vil du bruge eksisterende konto?",
+        "pl": "Użyć istniejącego konta?",
+        "fr": "Utiliser un compte existant ?",
+        "ar": "هل تستخدم حسابًا موجودًا؟"
       },
       "delete": {
         "en": "Delete account",
@@ -2074,8 +2074,8 @@
     "E1rm": {
       "info.button": {
         "en": "How estimated 1RM is calculated",
-        "ru": "Как рассчитывается примерный 1ПМ",
-        "hy": "Ինչպես է հաշվարկված 1RM-ը",
+        "ru": "Как рассчитывается 1ПМ",
+        "hy": "Ինչպես է հաշվարկվում 1RM-ը",
         "sv": "Hur beräknad 1RM beräknas",
         "nb": "Hvordan estimert 1RM beregnes",
         "nl": "Hoe de geschatte 1RM wordt berekend",
