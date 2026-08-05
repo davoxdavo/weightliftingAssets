@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785881992,
+  "lastSyncedAt": 1785932495,
   "strings": {
     "Misc": {
       "": {
@@ -147,6 +147,30 @@
         "pl": "Użyć istniejącego konta?",
         "fr": "Utiliser un compte existant ?",
         "ar": "هل تستخدم حسابًا موجودًا؟"
+      },
+      "appearance.footer": {
+        "en": "Choose Light, Dark, or match your device setting.",
+        "ru": "Выберите светлую, тёмную тему или соответствие настройке устройства.",
+        "hy": "Ընտրեք բաց, մուգ կամ սարքի կարգավորմանը համապատասխան տեսք։",
+        "sv": "Välj ljust, mörkt eller matcha enhetens inställning.",
+        "nb": "Velg lyst, mørkt, eller følg enhetens innstilling.",
+        "nl": "Kies licht, donker, of volg de instelling van je apparaat.",
+        "da": "Vælg lyst, mørkt, eller følg enhedens indstilling.",
+        "pl": "Wybierz jasny, ciemny lub zgodny z ustawieniem urządzenia.",
+        "fr": "Choisissez clair, sombre, ou suivez le réglage de l'appareil.",
+        "ar": "اختر فاتحًا أو داكنًا أو مطابقًا لإعداد جهازك."
+      },
+      "appearance.title": {
+        "en": "Appearance",
+        "ru": "Оформление",
+        "hy": "Տեսք",
+        "sv": "Utseende",
+        "nb": "Utseende",
+        "nl": "Weergave",
+        "da": "Udseende",
+        "pl": "Wygląd",
+        "fr": "Apparence",
+        "ar": "المظهر"
       },
       "delete": {
         "en": "Delete account",
@@ -544,6 +568,78 @@
         "fr": "Friends",
         "ar": "Friends"
       },
+      "healthKit.footer": {
+        "en": "Sync finished workouts to Apple Health — workout time and optional distance only, never calories.",
+        "ru": "Синхронизируйте завершённые тренировки с Apple Health — только время тренировки и, по желанию, дистанция, но никогда калории.",
+        "hy": "Համաժամեցրեք ավարտված մարզումները Apple Health-ի հետ՝ միայն մարզման տևողությունը և, ցանկության դեպքում, հեռավորությունը, երբեք՝ կալորիաները։",
+        "sv": "Synkronisera avslutade träningspass till Apple Health – endast träningstid och valfri sträcka, aldrig kalorier.",
+        "nb": "Synkroniser fullførte treningsøkter til Apple Health – kun treningstid og valgfri distanse, aldri kalorier.",
+        "nl": "Synchroniseer voltooide trainingen met Apple Health — alleen trainingstijd en optioneel afstand, nooit calorieën.",
+        "da": "Synkroniser afsluttede træningspas til Apple Health – kun træningstid og valgfri distance, aldrig kalorier.",
+        "pl": "Synchronizuj ukończone treningi z Apple Health — tylko czas treningu i opcjonalnie dystans, nigdy kalorie.",
+        "fr": "Synchronisez les entraînements terminés avec Apple Health — durée d'entraînement et distance en option seulement, jamais les calories.",
+        "ar": "مزامنة التمارين المكتملة مع Apple Health — مدة التمرين والمسافة الاختيارية فقط، ولا يتم أبدًا مزامنة السعرات الحرارية."
+      },
+      "healthKit.section": {
+        "en": "Health",
+        "ru": "Здоровье",
+        "hy": "Առողջություն",
+        "sv": "Hälsa",
+        "nb": "Helse",
+        "nl": "Gezondheid",
+        "da": "Sundhed",
+        "pl": "Zdrowie",
+        "fr": "Santé",
+        "ar": "الصحة"
+      },
+      "healthKit.statusOff": {
+        "en": "Off",
+        "ru": "Выключено",
+        "hy": "Անջատված է",
+        "sv": "Av",
+        "nb": "Av",
+        "nl": "Uit",
+        "da": "Fra",
+        "pl": "Wyłączone",
+        "fr": "Désactivé",
+        "ar": "مُعطّل"
+      },
+      "healthKit.statusOn": {
+        "en": "On",
+        "ru": "Включено",
+        "hy": "Միացված է",
+        "sv": "På",
+        "nb": "På",
+        "nl": "Aan",
+        "da": "Til",
+        "pl": "Włączone",
+        "fr": "Activé",
+        "ar": "مُفعّل"
+      },
+      "healthKit.statusUnavailable": {
+        "en": "Not available on this device",
+        "ru": "Недоступно на этом устройстве",
+        "hy": "Հասանելի չէ այս սարքում",
+        "sv": "Inte tillgängligt på den här enheten",
+        "nb": "Ikke tilgjengelig på denne enheten",
+        "nl": "Niet beschikbaar op dit apparaat",
+        "da": "Ikke tilgængelig på denne enhed",
+        "pl": "Niedostępne na tym urządzeniu",
+        "fr": "Non disponible sur cet appareil",
+        "ar": "غير متاح على هذا الجهاز"
+      },
+      "healthKit.title": {
+        "en": "Apple Health",
+        "ru": "Apple Health",
+        "hy": "Apple Health",
+        "sv": "Apples hälsa",
+        "nb": "Apple Helse",
+        "nl": "Apple Gezondheid",
+        "da": "Apple Health",
+        "pl": "Zdrowie jabłka",
+        "fr": "Pomme Santé",
+        "ar": "صحة التفاح"
+      },
       "legal.footer": {
         "en": "By continuing, you agree to the Terms and Conditions and Privacy Policy.",
         "ru": "Продолжая, вы соглашаетесь с Условиями использования и Политикой конфиденциальности.",
@@ -663,6 +759,18 @@
         "pl": "Units",
         "fr": "Units",
         "ar": "Units"
+      },
+      "preferences.section": {
+        "en": "Preferences",
+        "ru": "Настройки",
+        "hy": "Նախապատվություններ",
+        "sv": "Inställningar",
+        "nb": "Innstillinger",
+        "nl": "Voorkeuren",
+        "da": "Indstillinger",
+        "pl": "Preferencje",
+        "fr": "Préférences",
+        "ar": "التفضيلات"
       },
       "prompt.continueInsights": {
         "en": "Continue to Insights",
@@ -6251,6 +6359,30 @@
         "pl": "Treningi są aktualne w Apple Health.",
         "fr": "Les entraînements sont à jour dans Apple Health.",
         "ar": "التدريبات محدّثة في Apple Health."
+      },
+      "settings.whatSyncsBody": {
+        "en": "Finished workouts sync to Apple Health as workout time, plus distance when available. Calories, heart rate, and other health data are never read or written.",
+        "ru": "Завершённые тренировки синхронизируются с Apple Health как время тренировки и, при наличии, дистанция. Калории, пульс и другие данные о здоровье никогда не читаются и не записываются.",
+        "hy": "Ավարտված մարզումները համաժամեցվում են Apple Health-ի հետ որպես մարզման տևողություն, ինչպես նաև հեռավորություն, երբ հասանելի է։ Կալորիաները, զարկերակը և այլ առողջական տվյալները երբեք չեն կարդացվում կամ գրանցվում։",
+        "sv": "Avslutade träningspass synkroniseras till Apple Health som träningstid, plus sträcka när det är tillgängligt. Kalorier, puls och andra hälsodata läses eller skrivs aldrig.",
+        "nb": "Fullførte treningsøkter synkroniseres til Apple Health som treningstid, pluss distanse når tilgjengelig. Kalorier, puls og andre helsedata blir aldri lest eller skrevet.",
+        "nl": "Voltooide trainingen worden gesynchroniseerd met Apple Health als trainingstijd, plus afstand indien beschikbaar. Calorieën, hartslag en andere gezondheidsgegevens worden nooit gelezen of geschreven.",
+        "da": "Afsluttede træningspas synkroniseres til Apple Health som træningstid, plus distance når tilgængelig. Kalorier, puls og andre sundhedsdata læses eller skrives aldrig.",
+        "pl": "Ukończone treningi są synchronizowane z Apple Health jako czas treningu oraz dystans, jeśli jest dostępny. Kalorie, tętno i inne dane zdrowotne nigdy nie są odczytywane ani zapisywane.",
+        "fr": "Les entraînements terminés sont synchronisés avec Apple Health en tant que durée d'entraînement, ainsi que la distance lorsqu'elle est disponible. Les calories, la fréquence cardiaque et les autres données de santé ne sont jamais lues ni écrites.",
+        "ar": "تتم مزامنة التمارين المكتملة مع Apple Health كوقت تمرين، بالإضافة إلى المسافة عند توفرها. لا تتم قراءة أو كتابة السعرات الحرارية أو معدل ضربات القلب أو أي بيانات صحية أخرى أبدًا."
+      },
+      "settings.whatSyncsTitle": {
+        "en": "What syncs",
+        "ru": "Что синхронизируется",
+        "hy": "Ինչ է համաժամեցվում",
+        "sv": "Vad synkroniseras",
+        "nb": "Hva synkroniseres",
+        "nl": "Wat wordt gesynchroniseerd",
+        "da": "Hvad synkroniseres",
+        "pl": "Co jest synchronizowane",
+        "fr": "Ce qui est synchronisé",
+        "ar": "ما الذي تتم مزامنته"
       }
     },
     "Hint": {
@@ -8249,6 +8381,18 @@
         "pl": "Szablony",
         "fr": "Modèles",
         "ar": "قوالب"
+      },
+      "chapter.theme.title": {
+        "en": "Appearance",
+        "ru": "Оформление",
+        "hy": "Տեսք",
+        "sv": "Utseende",
+        "nb": "Utseende",
+        "nl": "Weergave",
+        "da": "Udseende",
+        "pl": "Wygląd",
+        "fr": "Apparence",
+        "ar": "المظهر"
       },
       "chapter.welcome.title": {
         "en": "Welcome",
@@ -10313,6 +10457,42 @@
         "pl": "Zapisz procedury jako szablony",
         "fr": "Enregistrer les routines sous forme de modèles",
         "ar": "حفظ الإجراءات كقوالب"
+      },
+      "theme.body": {
+        "en": "Choose how Gym Logbook looks. You can change this later in Account.",
+        "ru": "Выберите, как будет выглядеть Gym Logbook. Позже это можно изменить в Аккаунте.",
+        "hy": "Ընտրեք, թե ինչպես տեսք ունենա Gym Logbook-ը։ Ավելի ուշ կարող եք փոխել Հաշվում։",
+        "sv": "Välj hur Gym Logbook ser ut. Du kan ändra detta senare i Konto.",
+        "nb": "Velg hvordan Gym Logbook skal se ut. Du kan endre dette senere i Konto.",
+        "nl": "Kies hoe Gym Logbook eruitziet. Je kunt dit later wijzigen in Account.",
+        "da": "Vælg, hvordan Gym Logbook skal se ud. Du kan ændre dette senere under Konto.",
+        "pl": "Wybierz, jak ma wyglądać Gym Logbook. Możesz to później zmienić w Koncie.",
+        "fr": "Choisissez l'apparence de Gym Logbook. Vous pourrez la modifier plus tard dans Compte.",
+        "ar": "اختر شكل تطبيق Gym Logbook. يمكنك تغيير هذا لاحقًا من الحساب."
+      },
+      "theme.footnote": {
+        "en": "Defaults to matching your device setting.",
+        "ru": "По умолчанию соответствует настройке устройства.",
+        "hy": "Լռելյայն համապատասխանում է սարքի կարգավորմանը։",
+        "sv": "Matchar som standard enhetens inställning.",
+        "nb": "Følger enhetens innstilling som standard.",
+        "nl": "Volgt standaard de instelling van je apparaat.",
+        "da": "Følger som standard enhedens indstilling.",
+        "pl": "Domyślnie zgodny z ustawieniem urządzenia.",
+        "fr": "Par défaut, suit le réglage de l'appareil.",
+        "ar": "يطابق افتراضيًا إعداد جهازك."
+      },
+      "theme.title": {
+        "en": "Appearance",
+        "ru": "Оформление",
+        "hy": "Տեսք",
+        "sv": "Utseende",
+        "nb": "Utseende",
+        "nl": "Weergave",
+        "da": "Udseende",
+        "pl": "Wygląd",
+        "fr": "Apparence",
+        "ar": "المظهر"
       },
       "welcome.body": {
         "en": "Organize workouts, build routines, track progress, monitor muscle balance, and see how you improve over time.",
@@ -14178,6 +14358,80 @@
         "pl": "Rozpocznij trening",
         "fr": "Commencer l'entraînement",
         "ar": "ابدأ التمرين"
+      }
+    },
+    "Theme": {
+      "dark": {
+        "en": "Dark",
+        "ru": "Тёмная",
+        "hy": "Մուգ",
+        "sv": "Mörkt",
+        "nb": "Mørkt",
+        "nl": "Donker",
+        "da": "Mørkt",
+        "pl": "Ciemny",
+        "fr": "Sombre",
+        "ar": "داكن"
+      },
+      "darkDetail": {
+        "en": "Always dark",
+        "ru": "Всегда тёмная",
+        "hy": "Միշտ մուգ",
+        "sv": "Alltid mörkt",
+        "nb": "Alltid mørkt",
+        "nl": "Altijd donker",
+        "da": "Altid mørkt",
+        "pl": "Zawsze ciemny",
+        "fr": "Toujours sombre",
+        "ar": "داكن دائمًا"
+      },
+      "light": {
+        "en": "Light",
+        "ru": "Светлая",
+        "hy": "Բաց",
+        "sv": "Ljust",
+        "nb": "Lyst",
+        "nl": "Licht",
+        "da": "Lyst",
+        "pl": "Jasny",
+        "fr": "Clair",
+        "ar": "فاتح"
+      },
+      "lightDetail": {
+        "en": "Always light",
+        "ru": "Всегда светлая",
+        "hy": "Միշտ բաց",
+        "sv": "Alltid ljust",
+        "nb": "Alltid lyst",
+        "nl": "Altijd licht",
+        "da": "Altid lyst",
+        "pl": "Zawsze jasny",
+        "fr": "Toujours clair",
+        "ar": "فاتح دائمًا"
+      },
+      "system": {
+        "en": "System",
+        "ru": "Системная",
+        "hy": "Համակարգային",
+        "sv": "System",
+        "nb": "System",
+        "nl": "Systeem",
+        "da": "System",
+        "pl": "Systemowy",
+        "fr": "Système",
+        "ar": "النظام"
+      },
+      "systemDetail": {
+        "en": "Match device setting",
+        "ru": "Как на устройстве",
+        "hy": "Ինչպես սարքում",
+        "sv": "Matcha enhetens inställning",
+        "nb": "Følg enhetens innstilling",
+        "nl": "Volg apparaatinstelling",
+        "da": "Følg enhedens indstilling",
+        "pl": "Zgodny z ustawieniem urządzenia",
+        "fr": "Suivre le réglage de l'appareil",
+        "ar": "مطابقة إعداد الجهاز"
       }
     },
     "Unit": {
