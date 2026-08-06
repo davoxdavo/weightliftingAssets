@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785949201,
+  "lastSyncedAt": 1785952343,
   "strings": {
     "Misc": {
       "": {
@@ -676,6 +676,18 @@
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
       },
+      "language.title": {
+        "en": "Language",
+        "ru": "Язык",
+        "hy": "Լեզու",
+        "sv": "Språk",
+        "nb": "Språk",
+        "nl": "Taal",
+        "da": "Sprog",
+        "pl": "Język",
+        "fr": "Langue",
+        "ar": "اللغة"
+      },
       "legal.footer": {
         "en": "By continuing, you agree to the Terms and Conditions and Privacy Policy.",
         "ru": "Продолжая, вы соглашаетесь с Условиями использования и Политикой конфиденциальности.",
@@ -819,6 +831,18 @@
         "pl": "Preferencje",
         "fr": "Préférences",
         "ar": "التفضيلات"
+      },
+      "profileDetails.section": {
+        "en": "Profile Details",
+        "ru": "Профиль",
+        "hy": "Պրոֆիլի տվյալներ",
+        "sv": "Profiluppgifter",
+        "nb": "Profildetaljer",
+        "nl": "Profielgegevens",
+        "da": "Profiloplysninger",
+        "pl": "Dane profilu",
+        "fr": "Détails du profil",
+        "ar": "تفاصيل الملف الشخصي"
       },
       "prompt.continueInsights": {
         "en": "Continue to Insights",
