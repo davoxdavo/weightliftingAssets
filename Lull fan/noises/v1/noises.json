@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "profiles": [
+    {
+      "id": "box",
+      "name": "Box Fan",
+      "subtitle": "Steady, close, familiar",
+      "palette": {
+        "mesh": [
+          "#180C0E", "#2E1414", "#1C0E10",
+          "#3A1A16", "#7A3826", "#401C1A",
+          "#120A0C", "#281414", "#140B0D"
+        ],
+        "glow": "#D87648",
+        "artwork": ["#261212", "#7A3826"]
+      },
+      "whiteMix": 0.10,
+      "pinkMix": 0.70,
+      "brownMix": 0.20,
+      "lpCutoff": 900,
+      "lpQ": 1.4,
+      "resFreq": 120,
+      "resGain": 0.30,
+      "fastRate": 9.0,
+      "fastDepth": 0.10,
+      "slowRate": 0.13,
+      "slowDepth": 0.06,
+      "cutoffSweep": 0.10,
+      "spread": 0.37,
+      "gain": 0.85
+    },
+    {
+      "id": "ceiling",
+      "name": "Ceiling Fan",
+      "subtitle": "Wide, slow, overhead",
+      "palette": {
+        "mesh": [
+          "#0C1411", "#14221C", "#0D1613",
+          "#182C24", "#34604A", "#1A3027",
+          "#0A110F", "#121E19", "#0B1210"
+        ],
+        "glow": "#7AC29C",
+        "artwork": ["#101C17", "#34604A"]
+      },
+      "whiteMix": 0.05,
+      "pinkMix": 0.50,
+      "brownMix": 0.45,
+      "lpCutoff": 600,
+      "lpQ": 1.1,
+      "resFreq": 95,
+      "resGain": 0.34,
+      "fastRate": 5.0,
+      "fastDepth": 0.13,
+      "slowRate": 0.09,
+      "slowDepth": 0.09,
+      "cutoffSweep": 0.14,
+      "spread": 0.45,
+      "gain": 0.88
+    },
+    {
+      "id": "soft",
+      "name": "Soft Air",
+      "subtitle": "Gentle and even",
+      "palette": {
+        "mesh": [
+          "#0E1116", "#181E27", "#0F1318",
+          "#1C242F", "#3E4E64", "#1E2632",
+          "#0B0E12", "#151A22", "#0C0F14"
+        ],
+        "glow": "#94AAC8",
+        "artwork": ["#12161D", "#3E4E64"]
+      },
+      "whiteMix": 0.00,
+      "pinkMix": 1.00,
+      "brownMix": 0.00,
+      "lpCutoff": 2200,
+      "lpQ": 0.8,
+      "resFreq": 110,
+      "resGain": 0.02,
+      "fastRate": 6.0,
+      "fastDepth": 0.02,
+      "slowRate": 0.10,
+      "slowDepth": 0.07,
+      "cutoffSweep": 0.12,
+      "spread": 0.30,
+      "gain": 0.72
+    },
+    {
+      "id": "hum",
+      "name": "Deep Hum",
+      "subtitle": "Low, warm, grounding",
+      "palette": {
+        "mesh": [
+          "#130D18", "#21162A", "#140E1A",
+          "#291B34", "#56386C", "#2C1D38",
+          "#0E0A12", "#1C1324", "#100B14"
+        ],
+        "glow": "#A87CCE",
+        "artwork": ["#1A1221", "#56386C"]
+      },
+      "whiteMix": 0.00,
+      "pinkMix": 0.25,
+      "brownMix": 0.75,
+      "lpCutoff": 320,
+      "lpQ": 1.6,
+      "resFreq": 88,
+      "resGain": 0.46,
+      "fastRate": 4.5,
+      "fastDepth": 0.04,
+      "slowRate": 0.07,
+      "slowDepth": 0.08,
+      "cutoffSweep": 0.08,
+      "spread": 0.40,
+      "gain": 0.95
+    },
+    {
+      "id": "tide",
+      "name": "Night Tide",
+      "subtitle": "Slow swells, like surf",
+      "palette": {
+        "mesh": [
+          "#0B1318", "#122029", "#0C141A",
+          "#162833", "#2C566C", "#182B37",
+          "#090F13", "#101C24", "#0A1115"
+        ],
+        "glow": "#6EB2D0",
+        "artwork": ["#0F1A21", "#2C566C"]
+      },
+      "whiteMix": 0.05,
+      "pinkMix": 0.35,
+      "brownMix": 0.60,
+      "lpCutoff": 450,
+      "lpQ": 1.2,
+      "resFreq": 100,
+      "resGain": 0.16,
+      "fastRate": 5.5,
+      "fastDepth": 0.03,
+      "slowRate": 0.08,
+      "slowDepth": 0.30,
+      "cutoffSweep": 0.65,
+      "spread": 0.50,
+      "gain": 0.90
+    },
+    {
+      "id": "cabin",
+      "name": "Cabin",
+      "subtitle": "Airliner cruise",
+      "palette": {
+        "mesh": [
+          "#121214", "#201F23", "#131316",
+          "#28262C", "#54505C", "#2B292F",
+          "#0E0E10", "#1B1A1E", "#0F0F12"
+        ],
+        "glow": "#B2ACBE",
+        "artwork": ["#18181B", "#54505C"]
+      },
+      "whiteMix": 0.25,
+      "pinkMix": 0.60,
+      "brownMix": 0.15,
+      "lpCutoff": 1600,
+      "lpQ": 1.0,
+      "resFreq": 140,
+      "resGain": 0.26,
+      "fastRate": 14.0,
+      "fastDepth": 0.05,
+      "slowRate": 0.11,
+      "slowDepth": 0.05,
+      "cutoffSweep": 0.09,
+      "spread": 0.33,
+      "gain": 0.80
+    },
+    {
+      "id": "tower",
+      "name": "Air Tower",
+      "subtitle": "Focused and modern",
+      "palette": {
+        "mesh": [
+          "#18140E", "#2A2318", "#1A160F",
+          "#342B1C", "#705C3A", "#382E1E",
+          "#120F0B", "#241E14", "#14110C"
+        ],
+        "glow": "#D6B476",
+        "artwork": ["#221C13", "#705C3A"]
+      },
+      "whiteMix": 0.10,
+      "pinkMix": 0.80,
+      "brownMix": 0.10,
+      "lpCutoff": 1100,
+      "lpQ": 2.2,
+      "resFreq": 128,
+      "resGain": 0.30,
+      "fastRate": 11.0,
+      "fastDepth": 0.08,
+      "slowRate": 0.12,
+      "slowDepth": 0.05,
+      "cutoffSweep": 0.10,
+      "spread": 0.22,
+      "gain": 0.82
+    },
+    {
+      "id": "rain",
+      "name": "Distant Rain",
+      "subtitle": "Bright, soft, far away",
+      "palette": {
+        "mesh": [
+          "#0E1215", "#181F24", "#0F1317",
+          "#1E272D", "#425662", "#202930",
+          "#0B0F11", "#161C21", "#0C1013"
+        ],
+        "glow": "#96B8CA",
+        "artwork": ["#13181C", "#425662"]
+      },
+      "whiteMix": 0.45,
+      "pinkMix": 0.55,
+      "brownMix": 0.00,
+      "lpCutoff": 4000,
+      "lpQ": 0.7,
+      "resFreq": 150,
+      "resGain": 0.01,
+      "fastRate": 7.0,
+      "fastDepth": 0.02,
+      "slowRate": 0.15,
+      "slowDepth": 0.16,
+      "cutoffSweep": 0.30,
+      "spread": 0.48,
+      "gain": 0.70
+    }
+  ]
+}
