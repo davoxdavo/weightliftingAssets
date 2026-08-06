@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 1,
+  "version": 2,
   "profiles": [
     {
       "id": "box",
@@ -8,12 +8,21 @@
       "subtitle": "Steady, close, familiar",
       "palette": {
         "mesh": [
-          "#180C0E", "#2E1414", "#1C0E10",
-          "#3A1A16", "#7A3826", "#401C1A",
-          "#120A0C", "#281414", "#140B0D"
+          "#180C0E",
+          "#2E1414",
+          "#1C0E10",
+          "#3A1A16",
+          "#7A3826",
+          "#401C1A",
+          "#120A0C",
+          "#281414",
+          "#140B0D"
         ],
         "glow": "#D87648",
-        "artwork": ["#261212", "#7A3826"]
+        "artwork": [
+          "#261212",
+          "#7A3826"
+        ]
       },
       "whiteMix": 0.10,
       "pinkMix": 0.70,
@@ -36,12 +45,21 @@
       "subtitle": "Wide, slow, overhead",
       "palette": {
         "mesh": [
-          "#0C1411", "#14221C", "#0D1613",
-          "#182C24", "#34604A", "#1A3027",
-          "#0A110F", "#121E19", "#0B1210"
+          "#0C1411",
+          "#14221C",
+          "#0D1613",
+          "#182C24",
+          "#34604A",
+          "#1A3027",
+          "#0A110F",
+          "#121E19",
+          "#0B1210"
         ],
         "glow": "#7AC29C",
-        "artwork": ["#101C17", "#34604A"]
+        "artwork": [
+          "#101C17",
+          "#34604A"
+        ]
       },
       "whiteMix": 0.05,
       "pinkMix": 0.50,
@@ -64,12 +82,21 @@
       "subtitle": "Gentle and even",
       "palette": {
         "mesh": [
-          "#0E1116", "#181E27", "#0F1318",
-          "#1C242F", "#3E4E64", "#1E2632",
-          "#0B0E12", "#151A22", "#0C0F14"
+          "#0E1116",
+          "#181E27",
+          "#0F1318",
+          "#1C242F",
+          "#3E4E64",
+          "#1E2632",
+          "#0B0E12",
+          "#151A22",
+          "#0C0F14"
         ],
         "glow": "#94AAC8",
-        "artwork": ["#12161D", "#3E4E64"]
+        "artwork": [
+          "#12161D",
+          "#3E4E64"
+        ]
       },
       "whiteMix": 0.00,
       "pinkMix": 1.00,
@@ -92,12 +119,21 @@
       "subtitle": "Low, warm, grounding",
       "palette": {
         "mesh": [
-          "#130D18", "#21162A", "#140E1A",
-          "#291B34", "#56386C", "#2C1D38",
-          "#0E0A12", "#1C1324", "#100B14"
+          "#130D18",
+          "#21162A",
+          "#140E1A",
+          "#291B34",
+          "#56386C",
+          "#2C1D38",
+          "#0E0A12",
+          "#1C1324",
+          "#100B14"
         ],
         "glow": "#A87CCE",
-        "artwork": ["#1A1221", "#56386C"]
+        "artwork": [
+          "#1A1221",
+          "#56386C"
+        ]
       },
       "whiteMix": 0.00,
       "pinkMix": 0.25,
@@ -120,12 +156,21 @@
       "subtitle": "Slow swells, like surf",
       "palette": {
         "mesh": [
-          "#0B1318", "#122029", "#0C141A",
-          "#162833", "#2C566C", "#182B37",
-          "#090F13", "#101C24", "#0A1115"
+          "#0B1318",
+          "#122029",
+          "#0C141A",
+          "#162833",
+          "#2C566C",
+          "#182B37",
+          "#090F13",
+          "#101C24",
+          "#0A1115"
         ],
         "glow": "#6EB2D0",
-        "artwork": ["#0F1A21", "#2C566C"]
+        "artwork": [
+          "#0F1A21",
+          "#2C566C"
+        ]
       },
       "whiteMix": 0.05,
       "pinkMix": 0.35,
@@ -148,12 +193,21 @@
       "subtitle": "Airliner cruise",
       "palette": {
         "mesh": [
-          "#121214", "#201F23", "#131316",
-          "#28262C", "#54505C", "#2B292F",
-          "#0E0E10", "#1B1A1E", "#0F0F12"
+          "#121214",
+          "#201F23",
+          "#131316",
+          "#28262C",
+          "#54505C",
+          "#2B292F",
+          "#0E0E10",
+          "#1B1A1E",
+          "#0F0F12"
         ],
         "glow": "#B2ACBE",
-        "artwork": ["#18181B", "#54505C"]
+        "artwork": [
+          "#18181B",
+          "#54505C"
+        ]
       },
       "whiteMix": 0.25,
       "pinkMix": 0.60,
@@ -176,12 +230,21 @@
       "subtitle": "Focused and modern",
       "palette": {
         "mesh": [
-          "#18140E", "#2A2318", "#1A160F",
-          "#342B1C", "#705C3A", "#382E1E",
-          "#120F0B", "#241E14", "#14110C"
+          "#18140E",
+          "#2A2318",
+          "#1A160F",
+          "#342B1C",
+          "#705C3A",
+          "#382E1E",
+          "#120F0B",
+          "#241E14",
+          "#14110C"
         ],
         "glow": "#D6B476",
-        "artwork": ["#221C13", "#705C3A"]
+        "artwork": [
+          "#221C13",
+          "#705C3A"
+        ]
       },
       "whiteMix": 0.10,
       "pinkMix": 0.80,
@@ -204,12 +267,21 @@
       "subtitle": "Bright, soft, far away",
       "palette": {
         "mesh": [
-          "#0E1215", "#181F24", "#0F1317",
-          "#1E272D", "#425662", "#202930",
-          "#0B0F11", "#161C21", "#0C1013"
+          "#0E1215",
+          "#181F24",
+          "#0F1317",
+          "#1E272D",
+          "#425662",
+          "#202930",
+          "#0B0F11",
+          "#161C21",
+          "#0C1013"
         ],
         "glow": "#96B8CA",
-        "artwork": ["#13181C", "#425662"]
+        "artwork": [
+          "#13181C",
+          "#425662"
+        ]
       },
       "whiteMix": 0.45,
       "pinkMix": 0.55,
@@ -225,6 +297,302 @@
       "cutoffSweep": 0.30,
       "spread": 0.48,
       "gain": 0.70
+    },
+    {
+      "id": "desk",
+      "name": "Desk Fan",
+      "subtitle": "Small, direct, personal",
+      "palette": {
+        "mesh": [
+          "#11151A",
+          "#1A2129",
+          "#12171C",
+          "#202A34",
+          "#4A6C92",
+          "#24303A",
+          "#0D1014",
+          "#171D23",
+          "#0E1216"
+        ],
+        "glow": "#7DBBFF",
+        "artwork": [
+          "#151B21",
+          "#4A6C92"
+        ]
+      },
+      "whiteMix": 0.15,
+      "pinkMix": 0.75,
+      "brownMix": 0.10,
+      "lpCutoff": 1500,
+      "lpQ": 1.1,
+      "resFreq": 132,
+      "resGain": 0.18,
+      "fastRate": 10.0,
+      "fastDepth": 0.07,
+      "slowRate": 0.12,
+      "slowDepth": 0.04,
+      "cutoffSweep": 0.12,
+      "spread": 0.28,
+      "gain": 0.82
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial Fan",
+      "subtitle": "Powerful warehouse airflow",
+      "palette": {
+        "mesh": [
+          "#151515",
+          "#252525",
+          "#171717",
+          "#333333",
+          "#767676",
+          "#3A3A3A",
+          "#101010",
+          "#1D1D1D",
+          "#121212"
+        ],
+        "glow": "#C8D0D8",
+        "artwork": [
+          "#222222",
+          "#767676"
+        ]
+      },
+      "whiteMix": 0.00,
+      "pinkMix": 0.15,
+      "brownMix": 0.85,
+      "lpCutoff": 260,
+      "lpQ": 2.1,
+      "resFreq": 72,
+      "resGain": 0.58,
+      "fastRate": 3.8,
+      "fastDepth": 0.12,
+      "slowRate": 0.05,
+      "slowDepth": 0.10,
+      "cutoffSweep": 0.06,
+      "spread": 0.62,
+      "gain": 1.00
+    },
+    {
+      "id": "vent",
+      "name": "Air Vent",
+      "subtitle": "Continuous HVAC airflow",
+      "palette": {
+        "mesh": [
+          "#0D1418",
+          "#152028",
+          "#0F161B",
+          "#1A2A34",
+          "#4C7A92",
+          "#1D2F39",
+          "#0A1013",
+          "#121C22",
+          "#0C1215"
+        ],
+        "glow": "#8FD7E6",
+        "artwork": [
+          "#122027",
+          "#4C7A92"
+        ]
+      },
+      "whiteMix": 0.30,
+      "pinkMix": 0.60,
+      "brownMix": 0.10,
+      "lpCutoff": 2800,
+      "lpQ": 0.9,
+      "resFreq": 145,
+      "resGain": 0.05,
+      "fastRate": 13.0,
+      "fastDepth": 0.03,
+      "slowRate": 0.14,
+      "slowDepth": 0.03,
+      "cutoffSweep": 0.18,
+      "spread": 0.55,
+      "gain": 0.76
+    },
+    {
+      "id": "vintage",
+      "name": "Vintage Fan",
+      "subtitle": "Old motor with character",
+      "palette": {
+        "mesh": [
+          "#1A130E",
+          "#2C1F18",
+          "#1C150F",
+          "#38261C",
+          "#8B5D3A",
+          "#3E2A1F",
+          "#120D0A",
+          "#241912",
+          "#140F0B"
+        ],
+        "glow": "#E09A5C",
+        "artwork": [
+          "#261B14",
+          "#8B5D3A"
+        ]
+      },
+      "whiteMix": 0.05,
+      "pinkMix": 0.35,
+      "brownMix": 0.60,
+      "lpCutoff": 520,
+      "lpQ": 1.8,
+      "resFreq": 82,
+      "resGain": 0.42,
+      "fastRate": 6.5,
+      "fastDepth": 0.08,
+      "slowRate": 0.09,
+      "slowDepth": 0.08,
+      "cutoffSweep": 0.09,
+      "spread": 0.36,
+      "gain": 0.92
+    },
+    {
+      "id": "wind",
+      "name": "Open Window",
+      "subtitle": "Natural outdoor breeze",
+      "palette": {
+        "mesh": [
+          "#0B1412",
+          "#13201B",
+          "#0C1513",
+          "#1A2A22",
+          "#4E9174",
+          "#1C3026",
+          "#09100E",
+          "#111C17",
+          "#0A110F"
+        ],
+        "glow": "#8DE6B2",
+        "artwork": [
+          "#13201A",
+          "#4E9174"
+        ]
+      },
+      "whiteMix": 0.50,
+      "pinkMix": 0.45,
+      "brownMix": 0.05,
+      "lpCutoff": 5200,
+      "lpQ": 0.6,
+      "resFreq": 180,
+      "resGain": 0.01,
+      "fastRate": 2.8,
+      "fastDepth": 0.01,
+      "slowRate": 0.05,
+      "slowDepth": 0.42,
+      "cutoffSweep": 0.72,
+      "spread": 0.68,
+      "gain": 0.66
+    },
+    {
+      "id": "turbo",
+      "name": "Turbo Fan",
+      "subtitle": "High speed cooling",
+      "palette": {
+        "mesh": [
+          "#11131A",
+          "#1A202C",
+          "#12141C",
+          "#212A38",
+          "#567DFF",
+          "#243043",
+          "#0D0F14",
+          "#171C25",
+          "#0E1117"
+        ],
+        "glow": "#73A6FF",
+        "artwork": [
+          "#18202C",
+          "#567DFF"
+        ]
+      },
+      "whiteMix": 0.05,
+      "pinkMix": 0.90,
+      "brownMix": 0.05,
+      "lpCutoff": 1800,
+      "lpQ": 1.5,
+      "resFreq": 160,
+      "resGain": 0.14,
+      "fastRate": 18.0,
+      "fastDepth": 0.12,
+      "slowRate": 0.18,
+      "slowDepth": 0.03,
+      "cutoffSweep": 0.08,
+      "spread": 0.18,
+      "gain": 0.87
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep Breeze",
+      "subtitle": "Barely there airflow",
+      "palette": {
+        "mesh": [
+          "#0E1016",
+          "#171C26",
+          "#0F1118",
+          "#1B2230",
+          "#6E82A6",
+          "#1E2534",
+          "#0A0C11",
+          "#141823",
+          "#0B0D12"
+        ],
+        "glow": "#A8BEE8",
+        "artwork": [
+          "#141925",
+          "#6E82A6"
+        ]
+      },
+      "whiteMix": 0.35,
+      "pinkMix": 0.65,
+      "brownMix": 0.00,
+      "lpCutoff": 3500,
+      "lpQ": 0.7,
+      "resFreq": 120,
+      "resGain": 0.02,
+      "fastRate": 4.2,
+      "fastDepth": 0.01,
+      "slowRate": 0.07,
+      "slowDepth": 0.12,
+      "cutoffSweep": 0.22,
+      "spread": 0.58,
+      "gain": 0.68
+    },
+    {
+      "id": "storm",
+      "name": "Storm Wind",
+      "subtitle": "Strong gusts and movement",
+      "palette": {
+        "mesh": [
+          "#0D1118",
+          "#161D28",
+          "#0E1219",
+          "#1B2432",
+          "#5872A5",
+          "#1D2837",
+          "#090C12",
+          "#111721",
+          "#0A0E13"
+        ],
+        "glow": "#7CA6E6",
+        "artwork": [
+          "#141C28",
+          "#5872A5"
+        ]
+      },
+      "whiteMix": 0.20,
+      "pinkMix": 0.50,
+      "brownMix": 0.30,
+      "lpCutoff": 850,
+      "lpQ": 1.3,
+      "resFreq": 92,
+      "resGain": 0.22,
+      "fastRate": 3.2,
+      "fastDepth": 0.20,
+      "slowRate": 0.04,
+      "slowDepth": 0.50,
+      "cutoffSweep": 0.80,
+      "spread": 0.74,
+      "gain": 0.95
     }
   ]
 }
