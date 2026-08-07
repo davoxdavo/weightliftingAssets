@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 2,
+  "version": 4,
   "profiles": [
     {
       "id": "box",
@@ -24,6 +24,7 @@
           "#7A3826"
         ]
       },
+      "version": 1,
       "whiteMix": 0.10,
       "pinkMix": 0.70,
       "brownMix": 0.20,
@@ -61,6 +62,7 @@
           "#34604A"
         ]
       },
+      "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.50,
       "brownMix": 0.45,
@@ -98,6 +100,7 @@
           "#3E4E64"
         ]
       },
+      "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 1.00,
       "brownMix": 0.00,
@@ -135,6 +138,7 @@
           "#56386C"
         ]
       },
+      "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 0.25,
       "brownMix": 0.75,
@@ -172,6 +176,7 @@
           "#2C566C"
         ]
       },
+      "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.35,
       "brownMix": 0.60,
@@ -209,6 +214,7 @@
           "#54505C"
         ]
       },
+      "version": 1,
       "whiteMix": 0.25,
       "pinkMix": 0.60,
       "brownMix": 0.15,
@@ -246,6 +252,7 @@
           "#705C3A"
         ]
       },
+      "version": 3,
       "whiteMix": 0.10,
       "pinkMix": 0.80,
       "brownMix": 0.10,
@@ -283,6 +290,7 @@
           "#425662"
         ]
       },
+      "version": 1,
       "whiteMix": 0.45,
       "pinkMix": 0.55,
       "brownMix": 0.00,
@@ -320,6 +328,7 @@
           "#4A6C92"
         ]
       },
+      "version": 1,
       "whiteMix": 0.15,
       "pinkMix": 0.75,
       "brownMix": 0.10,
@@ -357,6 +366,7 @@
           "#767676"
         ]
       },
+      "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 0.15,
       "brownMix": 0.85,
@@ -394,6 +404,7 @@
           "#4C7A92"
         ]
       },
+      "version": 3,
       "whiteMix": 0.30,
       "pinkMix": 0.60,
       "brownMix": 0.10,
@@ -431,6 +442,7 @@
           "#8B5D3A"
         ]
       },
+      "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.35,
       "brownMix": 0.60,
@@ -468,6 +480,7 @@
           "#4E9174"
         ]
       },
+      "version": 1,
       "whiteMix": 0.50,
       "pinkMix": 0.45,
       "brownMix": 0.05,
@@ -505,6 +518,7 @@
           "#567DFF"
         ]
       },
+      "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.90,
       "brownMix": 0.05,
@@ -542,6 +556,7 @@
           "#6E82A6"
         ]
       },
+      "version": 1,
       "whiteMix": 0.35,
       "pinkMix": 0.65,
       "brownMix": 0.00,
@@ -579,6 +594,7 @@
           "#5872A5"
         ]
       },
+      "version": 1,
       "whiteMix": 0.20,
       "pinkMix": 0.50,
       "brownMix": 0.30,
@@ -593,6 +609,120 @@
       "cutoffSweep": 0.80,
       "spread": 0.74,
       "gain": 0.95
+    },
+    {
+      "id": "oscillating",
+      "name": "Oscillating Fan",
+      "subtitle": "Sweeping side to side",
+      "palette": {
+        "mesh": [
+          "#180C10",
+          "#2E1420",
+          "#1C0E14",
+          "#3A1A2C",
+          "#8A3C56",
+          "#3E1C2E",
+          "#120A0D",
+          "#281420",
+          "#140B12"
+        ],
+        "glow": "#E8829C",
+        "artwork": [
+          "#241220",
+          "#8A3C56"
+        ]
+      },
+      "version": 1,
+      "whiteMix": 0.10,
+      "pinkMix": 0.75,
+      "brownMix": 0.15,
+      "lpCutoff": 1300,
+      "lpQ": 1.3,
+      "resFreq": 118,
+      "resGain": 0.20,
+      "fastRate": 9.5,
+      "fastDepth": 0.08,
+      "slowRate": 0.16,
+      "slowDepth": 0.38,
+      "cutoffSweep": 0.45,
+      "spread": 0.85,
+      "gain": 0.84
+    },
+    {
+      "id": "aircon",
+      "name": "Air Conditioner",
+      "subtitle": "Cold steady compressor hum",
+      "palette": {
+        "mesh": [
+          "#0C1416",
+          "#142226",
+          "#0D1719",
+          "#1A2C30",
+          "#3C6E78",
+          "#1D3136",
+          "#0A1113",
+          "#131F22",
+          "#0B1315"
+        ],
+        "glow": "#C4EEF5",
+        "artwork": [
+          "#122024",
+          "#3C6E78"
+        ]
+      },
+      "version": 1,
+      "whiteMix": 0.20,
+      "pinkMix": 0.50,
+      "brownMix": 0.30,
+      "lpCutoff": 700,
+      "lpQ": 1.6,
+      "resFreq": 100,
+      "resGain": 0.34,
+      "fastRate": 3.0,
+      "fastDepth": 0.02,
+      "slowRate": 0.05,
+      "slowDepth": 0.18,
+      "cutoffSweep": 0.14,
+      "spread": 0.30,
+      "gain": 0.88
+    },
+    {
+      "id": "server",
+      "name": "Server Room",
+      "subtitle": "High-pitched cooling whine",
+      "palette": {
+        "mesh": [
+          "#0E0E18",
+          "#18182A",
+          "#10101A",
+          "#202038",
+          "#5858C8",
+          "#26264A",
+          "#0C0C14",
+          "#1A1A2C",
+          "#0D0D16"
+        ],
+        "glow": "#8C8CFF",
+        "artwork": [
+          "#1C1C30",
+          "#5858C8"
+        ]
+      },
+      "version": 1,
+      "whiteMix": 0.20,
+      "pinkMix": 0.75,
+      "brownMix": 0.05,
+      "lpCutoff": 2200,
+      "lpQ": 2.0,
+      "resFreq": 195,
+      "resGain": 0.22,
+      "fastRate": 20.0,
+      "fastDepth": 0.15,
+      "slowRate": 0.20,
+      "slowDepth": 0.04,
+      "cutoffSweep": 0.07,
+      "spread": 0.15,
+      "gain": 0.83
     }
   ]
 }
