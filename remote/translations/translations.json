@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1785952343,
+  "lastSyncedAt": 1786303653,
   "strings": {
     "Misc": {
       "": {
@@ -174,7 +174,7 @@
       },
       "delete": {
         "en": "Delete account",
-        "ru": "Удалить аккаунт",
+        "ru": "Удалить профиль",
         "hy": "Ջնջել հաշիվը",
         "sv": "Ta bort konto",
         "nb": "Slett konto",
@@ -568,42 +568,6 @@
         "fr": "Friends",
         "ar": "Friends"
       },
-      "fullName.footer": {
-        "en": "Shown at the top of your account.",
-        "ru": "Отображается в верхней части вашего аккаунта.",
-        "hy": "Ցուցադրվում է ձեր հաշվի վերևում։",
-        "sv": "Visas högst upp på ditt konto.",
-        "nb": "Vises øverst på kontoen din.",
-        "nl": "Wordt bovenaan je account weergegeven.",
-        "da": "Vises øverst på din konto.",
-        "pl": "Wyświetlane u góry Twojego konta.",
-        "fr": "Affiché en haut de votre compte.",
-        "ar": "يظهر أعلى حسابك."
-      },
-      "fullName.placeholder": {
-        "en": "Your name",
-        "ru": "Ваше имя",
-        "hy": "Ձեր անունը",
-        "sv": "Ditt namn",
-        "nb": "Ditt navn",
-        "nl": "Je naam",
-        "da": "Dit navn",
-        "pl": "Twoje imię",
-        "fr": "Votre nom",
-        "ar": "اسمك"
-      },
-      "fullName.title": {
-        "en": "Full Name",
-        "ru": "Полное имя",
-        "hy": "Լրիվ անուն",
-        "sv": "Fullständigt namn",
-        "nb": "Fullt navn",
-        "nl": "Volledige naam",
-        "da": "Fulde navn",
-        "pl": "Imię i nazwisko",
-        "fr": "Nom complet",
-        "ar": "الاسم الكامل"
-      },
       "healthKit.footer": {
         "en": "Sync finished workouts to Apple Health — workout time and optional distance only, never calories.",
         "ru": "Синхронизируйте завершённые тренировки с Apple Health — только время тренировки и, по желанию, дистанция, но никогда калории.",
@@ -675,18 +639,6 @@
         "pl": "Zdrowie jabłka",
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
-      },
-      "language.title": {
-        "en": "Language",
-        "ru": "Язык",
-        "hy": "Լեզու",
-        "sv": "Språk",
-        "nb": "Språk",
-        "nl": "Taal",
-        "da": "Sprog",
-        "pl": "Język",
-        "fr": "Langue",
-        "ar": "اللغة"
       },
       "legal.footer": {
         "en": "By continuing, you agree to the Terms and Conditions and Privacy Policy.",
@@ -772,18 +724,6 @@
         "fr": "Signing out or deleting your account does not erase workouts saved on this device. Remote sign-out ends that device’s session when it next syncs.",
         "ar": "Signing out or deleting your account does not erase workouts saved on this device. Remote sign-out ends that device’s session when it next syncs."
       },
-      "manage": {
-        "en": "Manage account",
-        "ru": "Управление аккаунтом",
-        "hy": "Կառավարել հաշիվը",
-        "sv": "Hantera konto",
-        "nb": "Administrer konto",
-        "nl": "Account beheren",
-        "da": "Administrer konto",
-        "pl": "Zarządzaj kontem",
-        "fr": "Gérer le compte",
-        "ar": "إدارة الحساب"
-      },
       "measurement.footer": {
         "en": "Applies to exercises without their own unit override. History values stay stored in kg/meters.",
         "ru": "Применяется к упражнениям без переопределения собственного блока. Значения истории сохраняются в кг/метрах.",
@@ -831,18 +771,6 @@
         "pl": "Preferencje",
         "fr": "Préférences",
         "ar": "التفضيلات"
-      },
-      "profileDetails.section": {
-        "en": "Profile Details",
-        "ru": "Профиль",
-        "hy": "Պրոֆիլի տվյալներ",
-        "sv": "Profiluppgifter",
-        "nb": "Profildetaljer",
-        "nl": "Profielgegevens",
-        "da": "Profiloplysninger",
-        "pl": "Dane profilu",
-        "fr": "Détails du profil",
-        "ar": "تفاصيل الملف الشخصي"
       },
       "prompt.continueInsights": {
         "en": "Continue to Insights",
