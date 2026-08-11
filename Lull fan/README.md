@@ -28,6 +28,7 @@ Each entry in `profiles` mirrors `FanProfile` in the app 1:1
 | `id` | string | Stable identifier. Never reuse an id for a different sound — it's also the key for free-rotation and rewarded-unlock state on-device. |
 | `name`, `subtitle` | string | Displayed in the sound picker. |
 | `palette` | object | `{ "mesh": [9 hex colors], "glow": "hex color", "artwork": [2 hex colors] }` — see below. Fully data-driven: a new profile can use any colors, it doesn't have to reuse one of the eight bundled looks. |
+| `category` | string | **Required as of app version with `FanCategory`** — `"mechanical"` or `"nature"`. Purely visual: it picks which motif `FanStage` renders (spinning fan blades vs. a swaying leaf cluster), it doesn't touch the DSP. **A row without this field fails to decode, which invalidates the *entire* file** (see "Validation" below) — every existing row needs it, not just new ones. |
 | `version` | int | This sound's own version — separate from the file-level `"version"` above. Start new sounds at `1`; bump an existing sound's `version` when retuning it. The app compares this per-`id` to what it last saw to decide whether to show a "New" badge (and, on the catalog sheet, list it in the "New" section) — unchanged `version` never triggers the badge, even when other fields in the row change. See `LullFan/Docs/REMOTE-NOISES.md`. |
 | `whiteMix`, `pinkMix`, `brownMix` | float | Noise source blend, should sum to ~1. |
 | `lpCutoff`, `lpQ`, `resFreq`, `resGain` | float | Body of the sound; `lpCutoff`/`resFreq` in Hz, measured at speed 0.5. |
@@ -92,6 +93,12 @@ The whole downloaded file is rejected (old catalog kept) if:
 - any entry's `palette` doesn't have exactly 9 `mesh` colors and 2 `artwork`
   colors, or any color in `mesh` / `glow` / `artwork` fails to parse as a
   6-digit hex color.
+
+One more failure mode, at the JSON-decoding step *before* any of the above
+even runs: every field in the profile-shape table is required, `category`
+included — a row missing any of them fails to decode, which has the same
+practical effect (old catalog kept) but isn't a `validate()` check, it's the
+`Decodable` conformance itself rejecting the row.
 
 There's no partial acceptance — a bad row invalidates the whole publish, by
 design, so a typo can't silently ship 7 sounds and quietly drop one.

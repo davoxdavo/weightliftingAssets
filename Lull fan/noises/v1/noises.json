@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": 4,
+  "version": 5,
   "profiles": [
     {
       "id": "box",
@@ -24,6 +24,7 @@
           "#7A3826"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.10,
       "pinkMix": 0.70,
@@ -62,6 +63,7 @@
           "#34604A"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.50,
@@ -100,6 +102,7 @@
           "#3E4E64"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 1.00,
@@ -138,6 +141,7 @@
           "#56386C"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 0.25,
@@ -176,6 +180,7 @@
           "#2C566C"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.35,
@@ -214,6 +219,7 @@
           "#54505C"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.25,
       "pinkMix": 0.60,
@@ -252,6 +258,7 @@
           "#705C3A"
         ]
       },
+      "category": "mechanical",
       "version": 3,
       "whiteMix": 0.10,
       "pinkMix": 0.80,
@@ -290,6 +297,7 @@
           "#425662"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.45,
       "pinkMix": 0.55,
@@ -328,6 +336,7 @@
           "#4A6C92"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.15,
       "pinkMix": 0.75,
@@ -366,6 +375,7 @@
           "#767676"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.00,
       "pinkMix": 0.15,
@@ -404,6 +414,7 @@
           "#4C7A92"
         ]
       },
+      "category": "mechanical",
       "version": 3,
       "whiteMix": 0.30,
       "pinkMix": 0.60,
@@ -442,6 +453,7 @@
           "#8B5D3A"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.35,
@@ -480,6 +492,7 @@
           "#4E9174"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.50,
       "pinkMix": 0.45,
@@ -518,6 +531,7 @@
           "#567DFF"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.05,
       "pinkMix": 0.90,
@@ -556,6 +570,7 @@
           "#6E82A6"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.35,
       "pinkMix": 0.65,
@@ -594,6 +609,7 @@
           "#5872A5"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.20,
       "pinkMix": 0.50,
@@ -632,6 +648,7 @@
           "#8A3C56"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.10,
       "pinkMix": 0.75,
@@ -670,6 +687,7 @@
           "#3C6E78"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.20,
       "pinkMix": 0.50,
@@ -708,6 +726,7 @@
           "#5858C8"
         ]
       },
+      "category": "mechanical",
       "version": 1,
       "whiteMix": 0.20,
       "pinkMix": 0.75,
@@ -723,6 +742,240 @@
       "cutoffSweep": 0.07,
       "spread": 0.15,
       "gain": 0.83
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean Waves",
+      "subtitle": "Slow swells, rolling in",
+      "palette": {
+        "mesh": [
+          "#0A1518",
+          "#112227",
+          "#0B1619",
+          "#16282D",
+          "#2A5860",
+          "#18292E",
+          "#081113",
+          "#0F1B1E",
+          "#091416"
+        ],
+        "glow": "#4FC3D9",
+        "artwork": [
+          "#0E1B1E",
+          "#2A5860"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.1,
+      "pinkMix": 0.25,
+      "brownMix": 0.65,
+      "lpCutoff": 550,
+      "lpQ": 1.1,
+      "resFreq": 85,
+      "resGain": 0.16,
+      "fastRate": 2.2,
+      "fastDepth": 0.05,
+      "slowRate": 0.045,
+      "slowDepth": 0.5,
+      "cutoffSweep": 0.75,
+      "spread": 0.6,
+      "gain": 0.88
+    },
+    {
+      "id": "forest",
+      "name": "Forest Breeze",
+      "subtitle": "Leaves, and the wind through them",
+      "palette": {
+        "mesh": [
+          "#0D160D",
+          "#172616",
+          "#0E1710",
+          "#1C2E18",
+          "#3E6A30",
+          "#1E3019",
+          "#0A100A",
+          "#141F12",
+          "#0B140C"
+        ],
+        "glow": "#9ED17A",
+        "artwork": [
+          "#122011",
+          "#3E6A30"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.3,
+      "pinkMix": 0.62,
+      "brownMix": 0.08,
+      "lpCutoff": 3000,
+      "lpQ": 0.85,
+      "resFreq": 3400,
+      "resGain": 0.07,
+      "fastRate": 12.0,
+      "fastDepth": 0.12,
+      "slowRate": 0.22,
+      "slowDepth": 0.3,
+      "cutoffSweep": 0.5,
+      "spread": 0.45,
+      "gain": 0.75
+    },
+    {
+      "id": "stream",
+      "name": "Mountain Stream",
+      "subtitle": "Bright water over stone",
+      "palette": {
+        "mesh": [
+          "#0C1517",
+          "#162428",
+          "#0D1619",
+          "#1B2C30",
+          "#3A5F64",
+          "#1D2E32",
+          "#0A1113",
+          "#131F22",
+          "#0B1315"
+        ],
+        "glow": "#BEE6E8",
+        "artwork": [
+          "#101C1E",
+          "#3A5F64"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.5,
+      "pinkMix": 0.35,
+      "brownMix": 0.15,
+      "lpCutoff": 4200,
+      "lpQ": 0.9,
+      "resFreq": 1800,
+      "resGain": 0.14,
+      "fastRate": 18.0,
+      "fastDepth": 0.1,
+      "slowRate": 0.25,
+      "slowDepth": 0.1,
+      "cutoffSweep": 0.15,
+      "spread": 0.55,
+      "gain": 0.75
+    },
+    {
+      "id": "thunderstorm",
+      "name": "Thunderstorm",
+      "subtitle": "Distant rumble, steady rain",
+      "palette": {
+        "mesh": [
+          "#10121A",
+          "#1B1E2C",
+          "#12141C",
+          "#202435",
+          "#4A527C",
+          "#22263A",
+          "#0C0E14",
+          "#171A26",
+          "#0D0F16"
+        ],
+        "glow": "#7C8AB8",
+        "artwork": [
+          "#171A28",
+          "#4A527C"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.12,
+      "pinkMix": 0.2,
+      "brownMix": 0.68,
+      "lpCutoff": 700,
+      "lpQ": 1.0,
+      "resFreq": 55,
+      "resGain": 0.22,
+      "fastRate": 9.0,
+      "fastDepth": 0.05,
+      "slowRate": 0.035,
+      "slowDepth": 0.55,
+      "cutoffSweep": 0.7,
+      "spread": 0.65,
+      "gain": 0.9
+    },
+    {
+      "id": "waterfall",
+      "name": "Waterfall",
+      "subtitle": "The constant rush of falling water",
+      "palette": {
+        "mesh": [
+          "#081820",
+          "#0F2836",
+          "#091B24",
+          "#153648",
+          "#286E96",
+          "#17394C",
+          "#061217",
+          "#0D2028",
+          "#071419"
+        ],
+        "glow": "#3E8FD1",
+        "artwork": [
+          "#0D2530",
+          "#286E96"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.55,
+      "pinkMix": 0.3,
+      "brownMix": 0.15,
+      "lpCutoff": 4800,
+      "lpQ": 0.8,
+      "resFreq": 300,
+      "resGain": 0.18,
+      "fastRate": 22.0,
+      "fastDepth": 0.06,
+      "slowRate": 0.08,
+      "slowDepth": 0.08,
+      "cutoffSweep": 0.12,
+      "spread": 0.62,
+      "gain": 0.9
+    },
+    {
+      "id": "prairie",
+      "name": "Prairie Wind",
+      "subtitle": "Open, steady, and wide",
+      "palette": {
+        "mesh": [
+          "#141608",
+          "#242612",
+          "#161809",
+          "#2E3016",
+          "#626A34",
+          "#2C2E15",
+          "#0F1006",
+          "#1D1E0F",
+          "#101107"
+        ],
+        "glow": "#B8C46A",
+        "artwork": [
+          "#212210",
+          "#626A34"
+        ]
+      },
+      "category": "nature",
+      "version": 1,
+      "whiteMix": 0.12,
+      "pinkMix": 0.5,
+      "brownMix": 0.38,
+      "lpCutoff": 1300,
+      "lpQ": 0.9,
+      "resFreq": 180,
+      "resGain": 0.13,
+      "fastRate": 3.2,
+      "fastDepth": 0.14,
+      "slowRate": 0.09,
+      "slowDepth": 0.38,
+      "cutoffSweep": 0.55,
+      "spread": 0.5,
+      "gain": 0.8
     }
   ]
 }
