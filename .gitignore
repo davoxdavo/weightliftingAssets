@@ -1,2 +1,8 @@
 .DS_Store
 **/.DS_Store
+
+# Local tooling for scripts/translate_ru_hy.py
+.venv/
+__pycache__/
+scripts/.translate_cache.json
+scripts/.translate_failures.json

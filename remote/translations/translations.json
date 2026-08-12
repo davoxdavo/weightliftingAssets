@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786519947,
+  "lastSyncedAt": 1786572333,
   "strings": {
     "Misc": {
       "": {
@@ -126,8 +126,8 @@
       },
       "adoptExisting.message": {
         "en": "This Apple or Google sign-in already belongs to another account. Continuing switches to that account. Your guest cloud profile on this device will be abandoned. Workouts stay on this device.",
-        "ru": "Эта учетная запись Apple или Google уже принадлежит другой учетной записи. Продолжаем переключаться на эту учетную запись. Твой гостевой облачный профиль на этом устройстве будет удален. Тренировки остаются на этом устройстве.",
-        "hy": "Այս Apple կամ Google մուտքը արդեն պատկանում է մեկ այլ հաշվի: Շարունակելը անցնում է այդ հաշվին: Այս սարքի վրա ձեր հյուրի ամպային պրոֆիլը կջնջվի, սակայն մարզումները և նվաճումները կպահպանվեն",
+        "ru": "Эта учетная запись Apple или Google уже принадлежит другой учетной записи. Продолжаем переключаться на эту учетную запись. Ваш гостевой облачный профиль на этом устройстве будет удален. Тренировки остаются на этом устройстве.",
+        "hy": "Apple-ի կամ Google-ի այս մուտքն արդեն պատկանում է մեկ այլ հաշվի: Շարունակվում է անցնել այդ հաշվին: Ձեր հյուրի ամպային պրոֆիլն այս սարքում կհրաժարվի: Մարզումները մնում են այս սարքում:",
         "sv": "Denna Apple- eller Google-inloggning tillhör redan ett annat konto. Om du fortsätter växlas den till det kontot. Din gästmolnprofil på den här enheten kommer att tas bort. Träningspass finns kvar på den här enheten.",
         "nb": "Denne Apple- eller Google-påloggingen tilhører allerede en annen konto. Hvis du fortsetter, byttes det til den kontoen. Gjesteskyprofilen din på denne enheten blir forlatt. Treningsøkter forblir på denne enheten.",
         "nl": "Deze Apple- of Google-aanmelding is al gekoppeld aan een ander account. Doorgaan schakelt over naar dat account. Uw gastcloudprofiel op dit apparaat wordt verwijderd. Trainingen blijven op dit apparaat staan.",
@@ -139,7 +139,7 @@
       "adoptExisting.title": {
         "en": "Use existing account?",
         "ru": "Использовать существующую учетную запись?",
-        "hy": "Օգտագործե՞լ գոյություն ունեցող հաշիվը",
+        "hy": "Օգտագործե՞լ գոյություն ունեցող հաշիվը:",
         "sv": "Använd befintligt konto?",
         "nb": "Vil du bruke eksisterende konto?",
         "nl": "Bestaand account gebruiken?",
@@ -150,8 +150,8 @@
       },
       "appearance.footer": {
         "en": "Choose Light, Dark, or match your device setting.",
-        "ru": "Выберите светлую, тёмную тему или соответствие настройке устройства.",
-        "hy": "Ընտրեք բաց, մուգ կամ սարքի կարգավորմանը համապատասխան տեսք։",
+        "ru": "Выберите «Светлый», «Темный» или соответствующий настройке вашего устройства.",
+        "hy": "Ընտրեք Light, Dark կամ համապատասխանեք ձեր սարքի կարգավորումներին:",
         "sv": "Välj ljust, mörkt eller matcha enhetens inställning.",
         "nb": "Velg lyst, mørkt, eller følg enhetens innstilling.",
         "nl": "Kies licht, donker, of volg de instelling van je apparaat.",
@@ -162,8 +162,8 @@
       },
       "appearance.title": {
         "en": "Appearance",
-        "ru": "Оформление",
-        "hy": "Տեսք",
+        "ru": "Появление",
+        "hy": "Արտաքին տեսք",
         "sv": "Utseende",
         "nb": "Utseende",
         "nl": "Weergave",
@@ -174,7 +174,7 @@
       },
       "delete": {
         "en": "Delete account",
-        "ru": "Удалить профиль",
+        "ru": "Удалить аккаунт",
         "hy": "Ջնջել հաշիվը",
         "sv": "Ta bort konto",
         "nb": "Slett konto",
@@ -186,8 +186,8 @@
       },
       "delete.confirmMessage": {
         "en": "This marks your cloud account as removed and signs you out. Your personal details are cleared — only your name is kept.",
-        "ru": "Облачный аккаунт будет помечен как удалённый, и вы выйдете из него. Личные данные будут удалены — останется только имя.",
-        "hy": "Ամպային հաշիվը կնշվի որպես հեռացված, և դուք դուրս կգաք։ Անձնական տվյալները կմաքրվեն — կմնա միայն անունը։",
+        "ru": "Это пометит вашу облачную учетную запись как удаленную и вы выйдете из нее. Ваши личные данные удаляются — сохраняется только ваше имя.",
+        "hy": "Սա նշում է ձեր ամպային հաշիվը որպես հեռացված և ձեզ դուրս է բերում: Ձեր անձնական տվյալները ջնջված են, միայն ձեր անունը պահվում է:",
         "sv": "Ditt molnkonto markeras som borttaget och du loggas ut. Dina personuppgifter rensas – bara namnet sparas.",
         "nb": "Skykontoen din merkes som fjernet og du logges ut. Personopplysningene dine slettes – bare navnet beholdes.",
         "nl": "Je cloudaccount wordt gemarkeerd als verwijderd en je wordt afgemeld. Je persoonlijke gegevens worden gewist – alleen je naam blijft bewaard.",
@@ -210,8 +210,8 @@
       },
       "delete.deviceFooter": {
         "en": "Deleting removes every workout, template, record and custom exercise from this device. This can’t be undone.",
-        "ru": "Удаление уберёт с этого устройства все тренировки, шаблоны, рекорды и свои упражнения. Отменить это нельзя.",
-        "hy": "Ջնջելը այս սարքից կհեռացնի բոլոր մարզումները, ձևանմուշները, ռեկորդները և ձեր վարժությունները։ Դա հետ բերել հնարավոր չէ։",
+        "ru": "При удалении с этого устройства удаляются все тренировки, шаблоны, записи и пользовательские упражнения. Это невозможно отменить.",
+        "hy": "Ջնջումը կհեռացնի այս սարքից բոլոր մարզումները, ձևանմուշները, ձայնագրությունները և հատուկ վարժությունները: Սա հնարավոր չէ հետարկել:",
         "sv": "Borttagning tar bort alla träningspass, mallar, rekord och egna övningar från den här enheten. Det kan inte ångras.",
         "nb": "Sletting fjerner alle økter, maler, rekorder og egne øvelser fra denne enheten. Det kan ikke angres.",
         "nl": "Verwijderen wist alle trainingen, sjablonen, records en eigen oefeningen van dit apparaat. Dit kan niet worden ongedaan gemaakt.",
@@ -223,7 +223,7 @@
       "delete.deviceHeader": {
         "en": "Data on this device",
         "ru": "Данные на этом устройстве",
-        "hy": "Տվյալները այս սարքում",
+        "hy": "Տվյալներ այս սարքի վրա",
         "sv": "Data på den här enheten",
         "nb": "Data på denne enheten",
         "nl": "Gegevens op dit apparaat",
@@ -234,8 +234,8 @@
       },
       "delete.doneErasedMessage": {
         "en": "Your account is marked as removed and you’re signed out. Everything on this device was deleted.",
-        "ru": "Аккаунт помечен как удалённый, вы вышли из него. Все данные на этом устройстве удалены.",
-        "hy": "Հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել։ Այս սարքի բոլոր տվյալները ջնջվել են։",
+        "ru": "Ваша учетная запись помечена как удаленная, и вы вышли из системы. Все на этом устройстве было удалено.",
+        "hy": "Ձեր հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել: Այս սարքի ամեն ինչ ջնջվել է:",
         "sv": "Ditt konto är markerat som borttaget och du är utloggad. Allt på den här enheten togs bort.",
         "nb": "Kontoen din er merket som fjernet og du er logget ut. Alt på denne enheten ble slettet.",
         "nl": "Je account is gemarkeerd als verwijderd en je bent afgemeld. Alles op dit apparaat is verwijderd.",
@@ -246,8 +246,8 @@
       },
       "delete.doneKeptMessage": {
         "en": "Your account is marked as removed and you’re signed out. Your data on this device was kept.",
-        "ru": "Аккаунт помечен как удалённый, вы вышли из него. Данные на этом устройстве сохранены.",
-        "hy": "Հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել։ Տվյալները այս սարքում պահպանվել են։",
+        "ru": "Ваша учетная запись помечена как удаленная, и вы вышли из системы. Ваши данные на этом устройстве были сохранены.",
+        "hy": "Ձեր հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել: Այս սարքում ձեր տվյալները պահվել են:",
         "sv": "Ditt konto är markerat som borttaget och du är utloggad. Dina data på den här enheten behölls.",
         "nb": "Kontoen din er merket som fjernet og du er logget ut. Dataene på denne enheten ble beholdt.",
         "nl": "Je account is gemarkeerd als verwijderd en je bent afgemeld. Je gegevens op dit apparaat zijn bewaard.",
@@ -258,7 +258,7 @@
       },
       "delete.doneTitle": {
         "en": "Account removed",
-        "ru": "Аккаунт удалён",
+        "ru": "Аккаунт удален",
         "hy": "Հաշիվը հեռացվեց",
         "sv": "Kontot är borttaget",
         "nb": "Kontoen er fjernet",
@@ -270,8 +270,8 @@
       },
       "delete.eraseFailedMessage": {
         "en": "Your account is marked as removed and you’re signed out, but the data on this device couldn’t be deleted.",
-        "ru": "Аккаунт помечен как удалённый, вы вышли из него, но данные на этом устройстве удалить не удалось.",
-        "hy": "Հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել, բայց այս սարքի տվյալները չհաջողվեց ջնջել։",
+        "ru": "Ваша учетная запись помечена как удаленная, и вы вышли из нее, но данные на этом устройстве удалить не удалось.",
+        "hy": "Ձեր հաշիվը նշված է որպես հեռացված, և դուք դուրս եք եկել, սակայն այս սարքի տվյալները չհաջողվեց ջնջել:",
         "sv": "Ditt konto är markerat som borttaget och du är utloggad, men data på den här enheten kunde inte tas bort.",
         "nb": "Kontoen din er merket som fjernet og du er logget ut, men dataene på denne enheten kunne ikke slettes.",
         "nl": "Je account is gemarkeerd als verwijderd en je bent afgemeld, maar de gegevens op dit apparaat konden niet worden verwijderd.",
@@ -282,7 +282,7 @@
       },
       "delete.eraseOption": {
         "en": "Delete everything on this device",
-        "ru": "Удалить всё на этом устройстве",
+        "ru": "Удалить все на этом устройстве",
         "hy": "Ջնջել ամեն ինչ այս սարքում",
         "sv": "Ta bort allt på den här enheten",
         "nb": "Slett alt på denne enheten",
@@ -295,7 +295,7 @@
       "delete.exportAction": {
         "en": "Export a backup",
         "ru": "Экспортировать резервную копию",
-        "hy": "Արտահանել պահուստը",
+        "hy": "Արտահանել կրկնօրինակը",
         "sv": "Exportera en säkerhetskopia",
         "nb": "Eksporter en sikkerhetskopi",
         "nl": "Back-up exporteren",
@@ -306,8 +306,8 @@
       },
       "delete.exportFooter": {
         "en": "Save a copy of your workouts, templates and records. You can import it again later.",
-        "ru": "Сохраните копию тренировок, шаблонов и рекордов. Позже её можно импортировать.",
-        "hy": "Պահեք ձեր մարզումների, ձևանմուշների և ռեկորդների պատճենը։ Այն կարող եք հետո ներմուծել։",
+        "ru": "Сохраните копию своих тренировок, шаблонов и записей. Вы можете импортировать его снова позже.",
+        "hy": "Պահպանեք ձեր մարզումների, ձևանմուշների և գրառումների պատճենը: Դուք կարող եք այն նորից ներմուծել ավելի ուշ:",
         "sv": "Spara en kopia av dina träningspass, mallar och rekord. Du kan importera den igen senare.",
         "nb": "Lagre en kopi av øktene, malene og rekordene dine. Du kan importere den igjen senere.",
         "nl": "Bewaar een kopie van je trainingen, sjablonen en records. Je kunt die later weer importeren.",
@@ -318,8 +318,8 @@
       },
       "delete.exportHeader": {
         "en": "Before you go",
-        "ru": "Перед выходом",
-        "hy": "Նախքան հեռանալը",
+        "ru": "Прежде чем уйти",
+        "hy": "Նախքան գնալը",
         "sv": "Innan du går",
         "nb": "Før du går",
         "nl": "Voordat je gaat",
@@ -330,8 +330,8 @@
       },
       "delete.keepOption": {
         "en": "Keep my data on this device",
-        "ru": "Оставить данные на устройстве",
-        "hy": "Պահել տվյալները սարքում",
+        "ru": "Сохранить мои данные на этом устройстве",
+        "hy": "Պահպանեք իմ տվյալները այս սարքում",
         "sv": "Behåll mina data på enheten",
         "nb": "Behold dataene mine på enheten",
         "nl": "Mijn gegevens op dit apparaat bewaren",
@@ -462,8 +462,8 @@
       },
       "displayName.footer": {
         "en": "Shown to friends when you use Friends & Sharing.",
-        "ru": "Shown to friends when you use Friends & Sharing.",
-        "hy": "Shown to friends when you use Friends & Sharing.",
+        "ru": "Показывается друзьям, когда вы используете «Друзья и обмен».",
+        "hy": "Ցույց է տրվում ընկերներին, երբ դուք օգտագործում եք «Ընկերներ և համօգտագործում»:",
         "sv": "Shown to friends when you use Friends & Sharing.",
         "nb": "Shown to friends when you use Friends & Sharing.",
         "nl": "Shown to friends when you use Friends & Sharing.",
@@ -474,8 +474,8 @@
       },
       "displayName.placeholder": {
         "en": "Your name",
-        "ru": "Your name",
-        "hy": "Your name",
+        "ru": "Ваше имя",
+        "hy": "Ձեր անունը",
         "sv": "Your name",
         "nb": "Your name",
         "nl": "Your name",
@@ -486,8 +486,8 @@
       },
       "displayName.title": {
         "en": "Display Name",
-        "ru": "Display Name",
-        "hy": "Display Name",
+        "ru": "Отображаемое имя",
+        "hy": "Ցուցադրվող անուն",
         "sv": "Display Name",
         "nb": "Display Name",
         "nl": "Display Name",
@@ -558,8 +558,8 @@
       },
       "friends": {
         "en": "Friends",
-        "ru": "Friends",
-        "hy": "Friends",
+        "ru": "Друзья",
+        "hy": "Ընկերներ",
         "sv": "Friends",
         "nb": "Friends",
         "nl": "Friends",
@@ -570,8 +570,8 @@
       },
       "fullName.footer": {
         "en": "Shown at the top of your account.",
-        "ru": "Shown at the top of your account.",
-        "hy": "Ցուցադրվում է ձեր հաշվի վերևում։",
+        "ru": "Отображается вверху вашего аккаунта.",
+        "hy": "Ցուցադրված է ձեր հաշվի վերևում:",
         "sv": "Visas högst upp på ditt konto.",
         "nb": "Vises øverst på kontoen din.",
         "nl": "Wordt bovenaan je account weergegeven.",
@@ -582,7 +582,7 @@
       },
       "fullName.placeholder": {
         "en": "Your name",
-        "ru": "Your name",
+        "ru": "Ваше имя",
         "hy": "Ձեր անունը",
         "sv": "Ditt namn",
         "nb": "Ditt navn",
@@ -594,8 +594,8 @@
       },
       "fullName.title": {
         "en": "Full Name",
-        "ru": "Full Name",
-        "hy": "Լրիվ անուն",
+        "ru": "Полное имя",
+        "hy": "Ամբողջական անուն",
         "sv": "Fullständigt namn",
         "nb": "Fullt navn",
         "nl": "Volledige naam",
@@ -606,8 +606,8 @@
       },
       "healthKit.footer": {
         "en": "Sync finished workouts to Apple Health — workout time and optional distance only, never calories.",
-        "ru": "Синхронизируйте завершённые тренировки с Apple Health — только время тренировки и, по желанию, дистанция, но никогда калории.",
-        "hy": "Համաժամեցրեք ավարտված մարզումները Apple Health-ի հետ՝ միայն մարզման տևողությունը և, ցանկության դեպքում, հեռավորությունը, երբեք՝ կալորիաները։",
+        "ru": "Синхронизируйте завершенные тренировки с Apple Health — только время тренировки и дополнительное расстояние, а не калории.",
+        "hy": "Ավարտված մարզումները համաժամեցրեք Apple Health-ի հետ՝ մարզման ժամանակը և միայն ընտրովի հեռավորությունը, երբեք կալորիաներ:",
         "sv": "Synkronisera avslutade träningspass till Apple Health – endast träningstid och valfri sträcka, aldrig kalorier.",
         "nb": "Synkroniser fullførte treningsøkter til Apple Health – kun treningstid og valgfri distanse, aldri kalorier.",
         "nl": "Synchroniseer voltooide trainingen met Apple Health — alleen trainingstijd en optioneel afstand, nooit calorieën.",
@@ -630,8 +630,8 @@
       },
       "healthKit.statusOff": {
         "en": "Off",
-        "ru": "Выключено",
-        "hy": "Անջատված է",
+        "ru": "Выключенный",
+        "hy": "Անջատված",
         "sv": "Av",
         "nb": "Av",
         "nl": "Uit",
@@ -642,7 +642,7 @@
       },
       "healthKit.statusOn": {
         "en": "On",
-        "ru": "Включено",
+        "ru": "На",
         "hy": "Միացված է",
         "sv": "På",
         "nb": "På",
@@ -678,7 +678,7 @@
       },
       "language.title": {
         "en": "Language",
-        "ru": "Language",
+        "ru": "Язык",
         "hy": "Լեզու",
         "sv": "Språk",
         "nb": "Språk",
@@ -774,8 +774,8 @@
       },
       "manage": {
         "en": "Manage account",
-        "ru": "Manage account",
-        "hy": "Կառավարել հաշիվը",
+        "ru": "Управление аккаунтом",
+        "hy": "Կառավարեք հաշիվը",
         "sv": "Hantera konto",
         "nb": "Administrer konto",
         "nl": "Account beheren",
@@ -786,7 +786,7 @@
       },
       "measurement.footer": {
         "en": "Applies to exercises without their own unit override. History values stay stored in kg/meters.",
-        "ru": "Применяется к упражнениям без переопределения собственного блока. Значения истории сохраняются в кг/метрах.",
+        "ru": "Применяется к упражнениям без переопределения собственного модуля. Значения истории сохраняются в кг/метрах.",
         "hy": "Կիրառվում է վարժություններին՝ առանց սեփական միավորի անտեսման: Պատմության արժեքները պահպանվում են կգ/մետրով:",
         "sv": "Applies to exercises without their own unit override. History values stay stored in kg/meters.",
         "nb": "Applies to exercises without their own unit override. History values stay stored in kg/meters.",
@@ -822,7 +822,7 @@
       },
       "preferences.section": {
         "en": "Preferences",
-        "ru": "Настройки",
+        "ru": "Предпочтения",
         "hy": "Նախապատվություններ",
         "sv": "Inställningar",
         "nb": "Innstillinger",
@@ -834,8 +834,8 @@
       },
       "profileDetails.section": {
         "en": "Profile Details",
-        "ru": "Profile Details",
-        "hy": "Պրոֆիլի տվյալներ",
+        "ru": "Детали профиля",
+        "hy": "Անձնագրի մանրամասները",
         "sv": "Profiluppgifter",
         "nb": "Profildetaljer",
         "nl": "Profielgegevens",
@@ -858,7 +858,7 @@
       },
       "prompt.insightsBody": {
         "en": "You’re using a guest account. Sign in so your identity is ready for future sync — workouts are not uploaded yet.",
-        "ru": "ты используете гостевую учетную запись. Войдите в систему, чтобы твоя личность была готова к дальнейшей синхронизации — тренировки еще не загружены.",
+        "ru": "Вы используете гостевую учетную запись. Войдите в систему, чтобы ваша личность была готова к дальнейшей синхронизации — тренировки еще не загружены.",
         "hy": "Դուք օգտագործում եք հյուրի հաշիվ: Մուտք գործեք, որպեսզի ձեր ինքնությունը պատրաստ լինի ապագա համաժամացման համար. մարզումները դեռ վերբեռնված չեն:",
         "sv": "Du använder ett gästkonto. Logga in så att din identitet är redo för framtida synkronisering – träningspass har inte laddats upp ännu.",
         "nb": "Du bruker en gjestekonto. Logg på slik at identiteten din er klar for fremtidig synkronisering – treningsøkter er ikke lastet opp ennå.",
@@ -894,7 +894,7 @@
       },
       "prompt.workoutBody": {
         "en": "Link Apple or Google so your account is ready when cloud sync arrives. Workouts stay local for now.",
-        "ru": "Свяжите Apple или Google, чтобы твоя учетная запись была готова к моменту синхронизации с облаком. Тренировки пока остаются локальными.",
+        "ru": "Свяжите Apple или Google, чтобы ваша учетная запись была готова к моменту синхронизации с облаком. Тренировки пока остаются локальными.",
         "hy": "Կապեք Apple-ին կամ Google-ին, որպեսզի ձեր հաշիվը պատրաստ լինի, երբ ամպային համաժամացումը հասնի: Մարզումները մնում են տեղական:",
         "sv": "Länka Apple eller Google så att ditt konto är redo när molnsynkronisering kommer. Träningen förblir lokal för tillfället.",
         "nb": "Koble til Apple eller Google slik at kontoen din er klar når skysynkronisering kommer. Treningsøktene forblir lokale for nå.",
@@ -966,8 +966,8 @@
       },
       "providers.footer": {
         "en": "Add Apple and Google so you can sign in with either on another device. You can remove a method only when both are connected — keep at least one, or use Delete account.",
-        "ru": "Добавьте Apple и Google, чтобы входить с любого из них на другом устройстве. Способ входа можно удалить только если подключены оба — оставьте хотя бы один или удалите аккаунт.",
-        "hy": "Ավելացրեք Apple և Google՝ այլ սարքից որևէ մեկով մուտք գործելու համար։ Եղանակը կարող եք հեռացնել միայն երբ երկուսն էլ կապված են — պահեք առնվազն մեկը կամ ջնջեք հաշիվը։",
+        "ru": "Добавьте Apple и Google, чтобы можно было войти в систему с помощью любого из них на другом устройстве. Вы можете удалить метод только тогда, когда оба подключены — оставьте хотя бы один или используйте «Удалить учетную запись».",
+        "hy": "Ավելացրեք Apple-ը և Google-ը, որպեսզի կարողանաք մուտք գործել որևէ այլ սարքի միջոցով: Դուք կարող եք հեռացնել մեթոդը միայն այն դեպքում, երբ երկուսն էլ միացված են. պահեք առնվազն մեկը կամ օգտագործեք Ջնջել հաշիվը:",
         "sv": "Lägg till Apple och Google så att du kan logga in med antingen på en annan enhet. Du kan ta bort en metod bara när båda är anslutna — behåll minst en, eller radera kontot.",
         "nb": "Legg til Apple og Google så du kan logge inn med begge på en annen enhet. Du kan fjerne en metode bare når begge er tilkoblet — behold minst én, eller slett kontoen.",
         "nl": "Voeg Apple en Google toe zodat je met beide op een ander apparaat kunt inloggen. Je kunt een methode alleen verwijderen als beide gekoppeld zijn — houd er minstens één, of verwijder je account.",
@@ -990,7 +990,7 @@
       },
       "providers.unlink": {
         "en": "Remove",
-        "ru": "Удалить",
+        "ru": "Удалять",
         "hy": "Հեռացնել",
         "sv": "Ta bort",
         "nb": "Fjern",
@@ -1002,8 +1002,8 @@
       },
       "providers.unlinkConfirmMessage": {
         "en": "You can still sign in with your other connected account. Cloud sync continues, and everything on this device stays here.",
-        "ru": "Вы по-прежнему сможете войти через другой подключённый аккаунт. Облачная синхронизация продолжится, всё на этом устройстве останется.",
-        "hy": "Կարող եք մուտք գործել մյուս կապված հաշվով։ Ամպային սինքը կշարունակվի, և այս սարքի ամեն ինչը կմնա։",
+        "ru": "Вы по-прежнему можете войти в систему, используя другую подключенную учетную запись. Облачная синхронизация продолжится, и все данные на этом устройстве останутся здесь.",
+        "hy": "Դուք դեռ կարող եք մուտք գործել ձեր մյուս միացված հաշվի միջոցով: Cloud sync-ը շարունակվում է, և այս սարքի ամեն ինչ մնում է այստեղ:",
         "sv": "Du kan fortfarande logga in med ditt andra anslutna konto. Molnsynken fortsätter och allt på den här enheten sparas.",
         "nb": "Du kan fortsatt logge inn med den andre tilknyttede kontoen. Skysynkroniseringen fortsetter, og alt på denne enheten beholdes.",
         "nl": "Je kunt nog steeds inloggen met je andere gekoppelde account. Cloudsynchronisatie gaat door en alles op dit apparaat blijft bewaard.",
@@ -1014,8 +1014,8 @@
       },
       "providers.unlinkConfirmTitle": {
         "en": "Remove this sign-in method?",
-        "ru": "Удалить этот способ входа?",
-        "hy": "Հեռացնե՞լ այս մուտքի եղանակը",
+        "ru": "Удалить этот метод входа?",
+        "hy": "Հեռացնե՞լ այս մուտքի մեթոդը:",
         "sv": "Ta bort den här inloggningsmetoden?",
         "nb": "Fjerne denne innloggingsmetoden?",
         "nl": "Deze aanmeldmethode verwijderen?",
@@ -1026,8 +1026,8 @@
       },
       "providers.unlinkLastConfirmMessage": {
         "en": "Unlinking your only sign-in method stops cloud sync. Everything on this device is kept.",
-        "ru": "Отключение единственного способа входа останавливает облачную синхронизацию. Всё на этом устройстве сохранится.",
-        "hy": "Միակ մուտքի եղանակը հեռացնելը կանգնեցնում է ամպային սինքը։ Այս սարքի ամեն ինչը կպահպանվի։",
+        "ru": "Отмена привязки единственного метода входа останавливает синхронизацию с облаком. Все на этом устройстве сохраняется.",
+        "hy": "Մուտքի ձեր միակ մեթոդի անջատումը դադարեցնում է ամպային համաժամացումը: Այս սարքի վրա ամեն ինչ պահվում է:",
         "sv": "Om du tar bort din enda inloggningsmetod stoppas molnsynken. Allt på den här enheten sparas.",
         "nb": "Hvis du fjerner den eneste innloggingsmetoden, stopper skysynkroniseringen. Alt på denne enheten beholdes.",
         "nl": "Als je je enige aanmeldmethode verwijdert, stopt cloudsynchronisatie. Alles op dit apparaat blijft bewaard.",
@@ -1039,7 +1039,7 @@
       "providers.unlinkLastConfirmTitle": {
         "en": "Stop cloud sync?",
         "ru": "Остановить облачную синхронизацию?",
-        "hy": "Կանգնեցնե՞լ ամպային սինքը",
+        "hy": "Դադարեցնե՞լ ամպային համաժամացումը:",
         "sv": "Stoppa molnsynk?",
         "nb": "Stoppe skysynkronisering?",
         "nl": "Cloudsynchronisatie stoppen?",
@@ -1050,8 +1050,8 @@
       },
       "providers.unlinkReauthMessage": {
         "en": "Sign in again with Apple or Google to remove this sign-in method.",
-        "ru": "Войдите снова через Apple или Google, чтобы удалить этот способ входа.",
-        "hy": "Կրկին մուտք գործեք Apple-ով կամ Google-ով՝ այս մուտքի եղանակը հեռացնելու համար։",
+        "ru": "Войдите еще раз с помощью Apple или Google, чтобы удалить этот метод входа.",
+        "hy": "Նորից մուտք գործեք Apple-ի կամ Google-ի միջոցով՝ մուտքի այս մեթոդը հեռացնելու համար:",
         "sv": "Logga in igen med Apple eller Google för att ta bort den här inloggningsmetoden.",
         "nb": "Logg inn igjen med Apple eller Google for å fjerne denne innloggingsmetoden.",
         "nl": "Meld je opnieuw aan met Apple of Google om deze aanmeldmethode te verwijderen.",
@@ -1122,7 +1122,7 @@
       },
       "signOut.confirmMessage": {
         "en": "You’ll return to a guest account. Workouts on this device stay here.",
-        "ru": "ты вернетесь в гостевую учетную запись. Тренировки на этом устройстве остаются здесь.",
+        "ru": "Вы вернетесь в гостевую учетную запись. Тренировки на этом устройстве остаются здесь.",
         "hy": "Դուք կվերադառնաք հյուրի հաշիվ: Այս սարքի վրա մարզումները մնում են այստեղ:",
         "sv": "Du kommer tillbaka till ett gästkonto. Träningspass på den här enheten stannar här.",
         "nb": "Du kommer tilbake til en gjestekonto. Treningsøkter på denne enheten forblir her.",
@@ -1158,8 +1158,8 @@
       },
       "status.guestSubtitle": {
         "en": "You can log workouts now. Sign in when you want a lasting account.",
-        "ru": "Можно вести дневник уже сейчас. Войди, когда захочешь постоянный аккаунт.",
-        "hy": "Կարող ես հիմա գրանցել մարզումներ։ Մուտք գործիր, երբ ցանկանաս մշտական հաշիվ։",
+        "ru": "Теперь вы можете записывать тренировки. Войдите в систему, если вам нужен постоянный аккаунт.",
+        "hy": "Դուք կարող եք գրանցել մարզումները հիմա: Մուտք գործեք, երբ ցանկանում եք մնայուն հաշիվ ունենալ:",
         "sv": "Du kan logga träningspass nu. Logga in när du vill ha ett varaktigt konto.",
         "nb": "Du kan logge treningsøkter nå. Logg på når du vil ha en varig konto.",
         "nl": "U kunt nu trainingen loggen. Meld u aan als u een blijvend account wilt.",
@@ -1230,8 +1230,8 @@
       },
       "training.home.footer": {
         "en": "Boost resistance-band and bodyweight suggestions when picking exercises.",
-        "ru": "Чаще предлагать упражнения с лентами и с весом тела.",
-        "hy": "Boost resistance-band and bodyweight suggestions when picking exercises.",
+        "ru": "Увеличьте рекомендации по использованию эспандеров и веса тела при выборе упражнений.",
+        "hy": "Զորավարժություններ ընտրելիս ուժեղացրեք դիմադրության գոտին և մարմնի քաշի առաջարկները:",
         "sv": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "nb": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "nl": "Boost resistance-band and bodyweight suggestions when picking exercises.",
@@ -1242,8 +1242,8 @@
       },
       "training.home.title": {
         "en": "Home / minimal equipment",
-        "ru": "Дом / минимум оборудования",
-        "hy": "Home / minimal equipment",
+        "ru": "Главная / минимальное оборудование",
+        "hy": "Տուն / նվազագույն սարքավորումներ",
         "sv": "Home / minimal equipment",
         "nb": "Home / minimal equipment",
         "nl": "Home / minimal equipment",
@@ -1254,8 +1254,8 @@
       },
       "training.rehab.footer": {
         "en": "Boost mobility and rehab-friendly band work in suggestions.",
-        "ru": "Чаще предлагать мобильность и щадящую работу с лентами.",
-        "hy": "Boost mobility and rehab-friendly band work in suggestions.",
+        "ru": "Повысьте мобильность и удобную для реабилитации работу группы в предложениях.",
+        "hy": "Առաջարկություններում խթանել շարժունակությունը և վերականգնողական խմբի աշխատանքը:",
         "sv": "Boost mobility and rehab-friendly band work in suggestions.",
         "nb": "Boost mobility and rehab-friendly band work in suggestions.",
         "nl": "Boost mobility and rehab-friendly band work in suggestions.",
@@ -1267,7 +1267,7 @@
       "training.rehab.title": {
         "en": "Rehab / recovery",
         "ru": "Реабилитация / восстановление",
-        "hy": "Rehab / recovery",
+        "hy": "Վերականգնում / վերականգնում",
         "sv": "Rehab / recovery",
         "nb": "Rehab / recovery",
         "nl": "Rehab / recovery",
@@ -1278,8 +1278,8 @@
       },
       "training.section": {
         "en": "Training preferences",
-        "ru": "Настройки тренировок",
-        "hy": "Training preferences",
+        "ru": "Настройки обучения",
+        "hy": "Վերապատրաստման նախասիրություններ",
         "sv": "Training preferences",
         "nb": "Training preferences",
         "nl": "Training preferences",
@@ -1292,8 +1292,8 @@
     "Balanced": {
       "homeThisSession": {
         "en": "Home / minimal equipment",
-        "ru": "Дом / минимум оборудования",
-        "hy": "Տուն / նվազագույն սարքավորում",
+        "ru": "Главная / минимальное оборудование",
+        "hy": "Տուն / նվազագույն սարքավորումներ",
         "sv": "Hem / minimal utrustning",
         "nb": "Hjem / minimalt utstyr",
         "nl": "Thuis / minimale apparatuur",
@@ -1304,8 +1304,8 @@
       },
       "homeThisSession.footer": {
         "en": "Boosts band and bodyweight work for these suggestions only. Does not change Account settings.",
-        "ru": "Повышает работу с лентами и весом тела только для этих предложений. Не меняет настройки аккаунта.",
-        "hy": "Բարձրացնում է ժապավենային և մարմնի քաշով վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։",
+        "ru": "Улучшает работу с лентами и собственным весом только для этих предложений. Не меняет настройки учетной записи.",
+        "hy": "Բարձրացնում է ժապավենի և մարմնի քաշի աշխատանքը միայն այս առաջարկների համար: Չի փոխում Հաշվի կարգավորումները:",
         "sv": "Lyfter band- och kroppsviktsarbete endast för dessa förslag. Ändrar inte kontoinställningar.",
         "nb": "Booster bånd- og kroppsvektarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
         "nl": "Verhoogt band- en lichaamsgewichtwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
@@ -1448,8 +1448,8 @@
       },
       "rehabThisSession.footer": {
         "en": "Boosts mobility and band work for these suggestions only. Does not change Account settings.",
-        "ru": "Повышает мобилити и работу с лентами только для этих предложений. Не меняет настройки аккаунта.",
-        "hy": "Բարձրացնում է շարժունությունը և ժապավենային վարժությունները միայն այս առաջարկների համար։ Հաշվի կարգավորումները չի փոխում։",
+        "ru": "Повышает мобильность и работу группы только для этих предложений. Не меняет настройки учетной записи.",
+        "hy": "Բարձրացնում է շարժունակությունը և նվագախմբային աշխատանքը միայն այս առաջարկների համար: Չի փոխում Հաշվի կարգավորումները:",
         "sv": "Lyfter mobilitet och bandarbete endast för dessa förslag. Ändrar inte kontoinställningar.",
         "nb": "Booster mobilitet og båndarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
         "nl": "Verhoogt mobiliteit en bandwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
@@ -1532,8 +1532,8 @@
       },
       "suggestions.includeSupersets": {
         "en": "Include supersets",
-        "ru": "Включать суперсеты",
-        "hy": "Ներառել սուպերսեթերը",
+        "ru": "Включить суперсеты",
+        "hy": "Ներառեք սուպերսեթեր",
         "sv": "Inkludera supersets",
         "nb": "Inkluder supersett",
         "nl": "Supersets opnemen",
@@ -1544,8 +1544,8 @@
       },
       "suggestions.includeSupersetsFooter": {
         "en": "When on, library supersets appear after the exercise cards.",
-        "ru": "Если включено, библиотечные суперсеты показываются после карточек упражнений.",
-        "hy": "Միացված լինելու դեպքում գրադարանի սուպերսեթերը հայտնվում են վարժություններից հետո։",
+        "ru": "Если этот параметр включен, расширенные наборы библиотеки отображаются после карточек с упражнениями.",
+        "hy": "Երբ միացված է, գրադարանի սուպերկետերը հայտնվում են վարժությունների քարտերից հետո:",
         "sv": "När det är på visas bibliotekets supersets efter övningskorten.",
         "nb": "Når på, vises biblioteksupersett etter øvelseskortene.",
         "nl": "Indien aan verschijnen bibliotheek-supersets na de oefeningskaarten.",
@@ -1592,8 +1592,8 @@
       },
       "suggestions.replace.footerCards": {
         "en": "Tap a card to include it. Use info for form details. Tap refresh to replace an exercise.",
-        "ru": "Нажми карточку, чтобы включить. Info — детали техники. Обновить — заменить упражнение.",
-        "hy": "Հպիր քարտին՝ ներառելու համար։ Info՝ տեխնիկայի մանրամասներ։ Թարմացնել՝ վարժությունը փոխարինելու համար։",
+        "ru": "Коснитесь карты, чтобы добавить ее. Используйте информацию для деталей формы. Нажмите «Обновить», чтобы заменить упражнение.",
+        "hy": "Հպեք քարտին՝ այն ներառելու համար: Օգտագործեք տեղեկատվություն ձևի մանրամասների համար: Հպեք «Թարմացնել»՝ վարժությունը փոխարինելու համար:",
         "sv": "Tryck på ett kort för att inkludera det. Använd info för formulärdetaljer. Tryck på Uppdatera för att ersätta en övning.",
         "nb": "Trykk på et kort for å inkludere det. Bruk info for skjemadetaljer. Trykk på oppdater for å erstatte en øvelse.",
         "nl": "Tik op een kaart om deze op te nemen. Gebruik info voor formulierdetails. Tik op vernieuwen om een ​​oefening te vervangen.",
@@ -1666,8 +1666,8 @@
     "BandLevel": {
       "heavy": {
         "en": "Heavy",
-        "ru": "Heavy",
-        "hy": "Heavy",
+        "ru": "Тяжелый",
+        "hy": "Ծանր",
         "sv": "Heavy",
         "nb": "Heavy",
         "nl": "Heavy",
@@ -1678,8 +1678,8 @@
       },
       "heavy.short": {
         "en": "Heavy",
-        "ru": "Heavy",
-        "hy": "Heavy",
+        "ru": "Тяжелый",
+        "hy": "Ծանր",
         "sv": "Heavy",
         "nb": "Heavy",
         "nl": "Heavy",
@@ -1690,8 +1690,8 @@
       },
       "light": {
         "en": "Light",
-        "ru": "Light",
-        "hy": "Light",
+        "ru": "Свет",
+        "hy": "Լույս",
         "sv": "Light",
         "nb": "Light",
         "nl": "Light",
@@ -1702,8 +1702,8 @@
       },
       "light.short": {
         "en": "Light",
-        "ru": "Light",
-        "hy": "Light",
+        "ru": "Свет",
+        "hy": "Լույս",
         "sv": "Light",
         "nb": "Light",
         "nl": "Light",
@@ -1714,8 +1714,8 @@
       },
       "medium": {
         "en": "Medium",
-        "ru": "Medium",
-        "hy": "Medium",
+        "ru": "Середина",
+        "hy": "Միջին",
         "sv": "Medium",
         "nb": "Medium",
         "nl": "Medium",
@@ -1726,8 +1726,8 @@
       },
       "medium.short": {
         "en": "Med",
-        "ru": "Med",
-        "hy": "Med",
+        "ru": "Мед",
+        "hy": "Բժշկ",
         "sv": "Med",
         "nb": "Med",
         "nl": "Med",
@@ -1738,8 +1738,8 @@
       },
       "power": {
         "en": "Power",
-        "ru": "Power",
-        "hy": "Power",
+        "ru": "Власть",
+        "hy": "Իշխանություն",
         "sv": "Power",
         "nb": "Power",
         "nl": "Power",
@@ -1750,8 +1750,8 @@
       },
       "power.short": {
         "en": "Power",
-        "ru": "Power",
-        "hy": "Power",
+        "ru": "Власть",
+        "hy": "Իշխանություն",
         "sv": "Power",
         "nb": "Power",
         "nl": "Power",
@@ -1971,7 +1971,7 @@
       "superset": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերմոտեցում",
+        "hy": "Սուպերսեթ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -1984,7 +1984,7 @@
     "Common": {
       "add": {
         "en": "Add",
-        "ru": "Добавить",
+        "ru": "Добавлять",
         "hy": "Ավելացնել",
         "sv": "Tillägga",
         "nb": "Legge til",
@@ -2032,7 +2032,7 @@
       },
       "close": {
         "en": "Close",
-        "ru": "Закрыть",
+        "ru": "Закрывать",
         "hy": "Փակել",
         "sv": "Nära",
         "nb": "Lukke",
@@ -2056,8 +2056,8 @@
       },
       "done": {
         "en": "Done",
-        "ru": "Готово",
-        "hy": "Պատրաստ է",
+        "ru": "Сделанный",
+        "hy": "Կատարված է",
         "sv": "Klar",
         "nb": "Ferdig",
         "nl": "Klaar",
@@ -2068,7 +2068,7 @@
       },
       "edit": {
         "en": "Edit",
-        "ru": "Изменить",
+        "ru": "Редактировать",
         "hy": "Խմբագրել",
         "sv": "Redigera",
         "nb": "Redigere",
@@ -2080,7 +2080,7 @@
       },
       "save": {
         "en": "Save",
-        "ru": "Сохранить",
+        "ru": "Сохранять",
         "hy": "Պահպանել",
         "sv": "Spara",
         "nb": "Lagre",
@@ -2254,8 +2254,8 @@
     "E1rm": {
       "info.button": {
         "en": "How estimated 1RM is calculated",
-        "ru": "Как рассчитывается 1ПМ",
-        "hy": "Ինչպես է հաշվարկվում 1RM-ը",
+        "ru": "Как рассчитывается примерный 1ПМ",
+        "hy": "Ինչպես է հաշվարկված 1RM-ը",
         "sv": "Hur beräknad 1RM beräknas",
         "nb": "Hvordan estimert 1RM beregnes",
         "nl": "Hoe de geschatte 1RM wordt berekend",
@@ -2316,8 +2316,8 @@
       },
       "records.description": {
         "en": "PRs appear when you beat a previous best.",
-        "ru": "Рекорды появятся, когда побьёшь свой прошлый лучший результат.",
-        "hy": "Ռեկորդները կհայտնվեն, երբ գերազանցես նախորդ լավագույն արդյունքը։",
+        "ru": "Лидеры появляются, когда вы побиваете предыдущий рекорд.",
+        "hy": "PR-ները հայտնվում են, երբ դուք հաղթում եք նախորդ լավագույնին:",
         "sv": "PR visas när du slår ett tidigare bästa.",
         "nb": "PR-er vises når du slår en tidligere beste.",
         "nl": "PR's verschijnen wanneer je een vorig record verslaat.",
@@ -2364,7 +2364,7 @@
       },
       "workout.description": {
         "en": "Start an empty workout or pick a template when you have one.",
-        "ru": "Начните пустую тренировку или выберите шаблон, если он у тебя есть.",
+        "ru": "Начните пустую тренировку или выберите шаблон, если он у вас есть.",
         "hy": "Սկսեք դատարկ մարզվելը կամ ընտրեք ձևանմուշ, երբ ունեք:",
         "sv": "Starta ett tomt träningspass eller välj en mall när du har en.",
         "nb": "Start en tom treningsøkt eller velg en mal når du har en.",
@@ -2414,7 +2414,7 @@
       },
       "cardioParams.footer": {
         "en": "Duration or distance is required to complete a set. Other fields are optional.",
-        "ru": "Для завершения подхода требуется продолжительность или расстояние. Остальные поля являются необязательными.",
+        "ru": "Для завершения сета требуется продолжительность или расстояние. Остальные поля являются необязательными.",
         "hy": "Տևողությունը կամ հեռավորությունը պահանջվում է հավաքածուն ավարտելու համար: Այլ դաշտերը պարտադիր չեն:",
         "sv": "Varaktighet eller distans krävs för att slutföra ett set. Andra fält är valfria.",
         "nb": "Varighet eller distanse kreves for å fullføre et sett. Andre felt er valgfrie.",
@@ -2426,8 +2426,8 @@
       },
       "catalog.%@": {
         "en": "exercise.catalog.%@",
-        "ru": "упражнения.каталог.%@",
-        "hy": "վարժություն.կատալոգ.%@"
+        "ru": "exercise.catalog.%@",
+        "hy": "exercise.catalog.%@"
       },
       "catalog.arms-barbell-curl": {
         "en": "Barbell Curl",
@@ -2532,7 +2532,7 @@
       "catalog.arms-preacher-curl": {
         "en": "Preacher Curl",
         "ru": "Проповедник Керл",
-        "hy": "Քարոզիչ Curl"
+        "hy": "Preacher Curl"
       },
       "catalog.arms-reverse-curl": {
         "en": "Reverse Curl",
@@ -2641,7 +2641,7 @@
       },
       "catalog.back-face-pull": {
         "en": "Face Pull",
-        "ru": "Подтягивание лица",
+        "ru": "Подтяжка лица",
         "hy": "Դեմքի ձգում"
       },
       "catalog.back-good-morning": {
@@ -2872,7 +2872,7 @@
       "catalog.cardio-treadmill": {
         "en": "Treadmill",
         "ru": "Беговая дорожка",
-        "hy": "վազքուղի"
+        "hy": "Վազքուղի"
       },
       "catalog.cardio-walking": {
         "en": "Walking",
@@ -2952,12 +2952,12 @@
       "catalog.chest-incline-dumbbell-press": {
         "en": "Incline Dumbbell Press",
         "ru": "Жим гантелей на наклонной скамье",
-        "hy": "Թեք համրիչ"
+        "hy": "Թեքվել Dumbbell Press"
       },
       "catalog.chest-incline-machine-press": {
         "en": "Incline Machine Press",
         "ru": "Наклонный пресс",
-        "hy": "Թեքվել մեքենայի մամուլ"
+        "hy": "Թեք մեքենա մամուլ"
       },
       "catalog.chest-incline-push-up": {
         "en": "Incline Push-Up",
@@ -3051,7 +3051,7 @@
       },
       "catalog.core-crunch": {
         "en": "Crunch",
-        "ru": "хруст",
+        "ru": "Хруст",
         "hy": "Ճռճռոց"
       },
       "catalog.core-dead-bug": {
@@ -3167,7 +3167,7 @@
       "catalog.legs-bodyweight-squat": {
         "en": "Bodyweight Squat",
         "ru": "Приседания с собственным весом",
-        "hy": "Մարմնի քաշի Squat"
+        "hy": "Մարմնի քաշային սքվատ"
       },
       "catalog.legs-bulgarian-split-squat": {
         "en": "Bulgarian Split Squat",
@@ -3237,7 +3237,7 @@
       "catalog.legs-hip-thrust": {
         "en": "Hip Thrust",
         "ru": "Выдвижение бедра",
-        "hy": "Հիպ տրասթ"
+        "hy": "Hip Thrust"
       },
       "catalog.legs-lateral-lunge": {
         "en": "Lateral Lunge",
@@ -3362,7 +3362,7 @@
       "catalog.legs-stiff-leg-deadlift": {
         "en": "Stiff-Leg Deadlift",
         "ru": "Становая тяга на прямых ногах",
-        "hy": "Կոշտ ոտքի մեռյալ բարձրացում"
+        "hy": "Կոշտ ոտքի մեռյալ վերելք"
       },
       "catalog.legs-sumo-squat": {
         "en": "Sumo Squat",
@@ -3562,7 +3562,7 @@
       "catalog.other-suitcase-carry": {
         "en": "Suitcase Carry",
         "ru": "Чемодан",
-        "hy": "Ճամպրուկի տեղափոխում"
+        "hy": "Ճամպրուկի կրում"
       },
       "catalog.other-thruster": {
         "en": "Thruster",
@@ -3882,8 +3882,8 @@
       },
       "discardSelectionConfirm": {
         "en": "Discard",
-        "ru": "Отменить",
-        "hy": "Չեղարկել",
+        "ru": "Отказаться",
+        "hy": "Վերացնել",
         "sv": "Förkasta",
         "nb": "Forkast",
         "nl": "Verwerpen",
@@ -3894,8 +3894,8 @@
       },
       "discardSelectionMessage": {
         "en": "You have unsaved exercise selections. Save them or discard?",
-        "ru": "У вас есть несохранённые выбранные упражнения. Сохранить их или отменить?",
-        "hy": "Դուք ունեք չպահպանված ընտրված վարժություններ: Պահպանե՞լ դրանք, թե՞ չեղարկել:",
+        "ru": "У вас есть несохраненные варианты упражнений. Сохранить их или выбросить?",
+        "hy": "Դուք ունեք չպահված վարժությունների ընտրանքներ: Պահե՞լ դրանք, թե՞ հրաժարվել:",
         "sv": "Du har osparade övningsval. Spara dem eller förkasta?",
         "nb": "Du har ulagrede øvelsesvalg. Vil du lagre dem eller forkaste?",
         "nl": "Je hebt niet-opgeslagen oefeningselecties. Opslaan of verwerpen?",
@@ -3907,7 +3907,7 @@
       "discardSelectionTitle": {
         "en": "Discard Selection?",
         "ru": "Отменить выбор?",
-        "hy": "Չեղարկե՞լ ընտրությունը:",
+        "hy": "Չեղարկե՞լ ընտրությունը",
         "sv": "Förkasta urval?",
         "nb": "Forkaste utvalg?",
         "nl": "Selectie verwerpen?",
@@ -4230,7 +4230,7 @@
       },
       "form.fallback.cardio.cue3": {
         "en": "Breathe steadily through the set",
-        "ru": "Дышите ровно во время подхода",
+        "ru": "Дышите ровно во время сета",
         "hy": "Շնչեք անշեղորեն հավաքածուի միջով",
         "sv": "Andas stadigt genom setet",
         "nb": "Pust jevnt gjennom settet",
@@ -4530,7 +4530,7 @@
       },
       "formGuide.fallbackCaption": {
         "en": "Illustration coming for this lift — use the cues below.",
-        "ru": "Иллюстрация подходит для этого подъемника — используйте подсказки ниже.",
+        "ru": "Иллюстрация подходит для этого подъема — используйте подсказки ниже.",
         "hy": "Այս վերելակի նկարազարդումը. օգտագործեք ստորև նշված նշանները:",
         "sv": "Illustration kommer för detta lyft — använd ledtrådarna nedan.",
         "nb": "Illustrasjon kommer for denne heisen — bruk signalene nedenfor.",
@@ -4950,7 +4950,7 @@
       },
       "removeConfirmMessage": {
         "en": "This exercise has logged sets. Are you sure you want to remove it from the workout?",
-        "ru": "В этом упражнении есть зарегистрированные подходы. ты уверены, что хотите удалить его из тренировки?",
+        "ru": "В этом упражнении есть зарегистрированные подходы. Вы уверены, что хотите удалить его из тренировки?",
         "hy": "Այս վարժությունն ունի գրանցված հավաքածուներ: Իսկապե՞ս ուզում եք հեռացնել այն մարզումից:",
         "sv": "Den här övningen har loggade set. Är du säker på att du vill ta bort den från träningen?",
         "nb": "Denne øvelsen har loggede sett. Er du sikker på at du vil fjerne den fra treningsøkten?",
@@ -5180,7 +5180,7 @@
       },
       "format.csvHint": {
         "en": "CSV exports as a ZIP of tables so nested workouts stay round-trippable.",
-        "ru": "Таблицы в формате CSV экспортируются в виде ZIP-файла, поэтому вложенные тренировки можно выполнять в обоих направлениях.",
+        "ru": "Таблицы в формате CSV экспортируются в виде ZIP-файла, поэтому вложенные тренировки сохраняются в обоих направлениях.",
         "hy": "CSV-ն արտահանվում է որպես աղյուսակների ZIP, այնպես որ ներկառուցված մարզումները մնում են շրջադարձային:",
         "sv": "CSV-exporter som en ZIP av tabeller så att kapslade träningspass förblir tur och retur.",
         "nb": "CSV eksporterer som en ZIP av tabeller, slik at nestede treningsøkter forblir tur-retur.",
@@ -5290,8 +5290,8 @@
     "Friends": {
       "accept": {
         "en": "Accept",
-        "ru": "Accept",
-        "hy": "Accept",
+        "ru": "Принимать",
+        "hy": "Ընդունել",
         "sv": "Accept",
         "nb": "Accept",
         "nl": "Accept",
@@ -5302,8 +5302,8 @@
       },
       "block": {
         "en": "Block",
-        "ru": "Block",
-        "hy": "Block",
+        "ru": "Блокировать",
+        "hy": "Արգելափակել",
         "sv": "Block",
         "nb": "Block",
         "nl": "Block",
@@ -5314,8 +5314,8 @@
       },
       "connected": {
         "en": "Connected",
-        "ru": "Connected",
-        "hy": "Connected",
+        "ru": "Подключено",
+        "hy": "Միացված է",
         "sv": "Connected",
         "nb": "Connected",
         "nl": "Connected",
@@ -5326,8 +5326,8 @@
       },
       "decline": {
         "en": "Decline",
-        "ru": "Decline",
-        "hy": "Decline",
+        "ru": "Отклонить",
+        "hy": "Անկում",
         "sv": "Decline",
         "nb": "Decline",
         "nl": "Decline",
@@ -5338,8 +5338,8 @@
       },
       "editPermissions": {
         "en": "Shared permissions",
-        "ru": "Shared permissions",
-        "hy": "Shared permissions",
+        "ru": "Общие разрешения",
+        "hy": "Համօգտագործվող թույլտվություններ",
         "sv": "Shared permissions",
         "nb": "Shared permissions",
         "nl": "Shared permissions",
@@ -5350,8 +5350,8 @@
       },
       "empty": {
         "en": "No friends yet. Share an invite or scan a QR code.",
-        "ru": "No friends yet. Share an invite or scan a QR code.",
-        "hy": "No friends yet. Share an invite or scan a QR code.",
+        "ru": "Друзей пока нет. Поделитесь приглашением или отсканируйте QR-код.",
+        "hy": "Դեռ ընկերներ չկան: Կիսվեք հրավերով կամ սկանավորեք QR կոդը:",
         "sv": "No friends yet. Share an invite or scan a QR code.",
         "nb": "No friends yet. Share an invite or scan a QR code.",
         "nl": "No friends yet. Share an invite or scan a QR code.",
@@ -5362,8 +5362,8 @@
       },
       "error.blocked": {
         "en": "You can't connect with this person.",
-        "ru": "You can't connect with this person.",
-        "hy": "You can't connect with this person.",
+        "ru": "Вы не можете связаться с этим человеком.",
+        "hy": "Դուք չեք կարող կապվել այս անձի հետ:",
         "sv": "You can't connect with this person.",
         "nb": "You can't connect with this person.",
         "nl": "You can't connect with this person.",
@@ -5374,8 +5374,8 @@
       },
       "error.inviteExpired": {
         "en": "This invite has expired. Ask for a new one.",
-        "ru": "This invite has expired. Ask for a new one.",
-        "hy": "This invite has expired. Ask for a new one.",
+        "ru": "Срок действия этого приглашения истек. Попросите новый.",
+        "hy": "Այս հրավերի ժամկետը սպառվել է: Հարցրեք նորը:",
         "sv": "This invite has expired. Ask for a new one.",
         "nb": "This invite has expired. Ask for a new one.",
         "nl": "This invite has expired. Ask for a new one.",
@@ -5386,8 +5386,8 @@
       },
       "error.inviteInvalid": {
         "en": "This invite link is not valid.",
-        "ru": "This invite link is not valid.",
-        "hy": "This invite link is not valid.",
+        "ru": "Эта ссылка для приглашения недействительна.",
+        "hy": "Հրավերի այս հղումը վավեր չէ:",
         "sv": "This invite link is not valid.",
         "nb": "This invite link is not valid.",
         "nl": "This invite link is not valid.",
@@ -5398,8 +5398,8 @@
       },
       "error.inviteMine": {
         "en": "This is your own invite. Send it to a friend.",
-        "ru": "This is your own invite. Send it to a friend.",
-        "hy": "This is your own invite. Send it to a friend.",
+        "ru": "Это ваше личное приглашение. Отправьте другу.",
+        "hy": "Սա ձեր սեփական հրավերն է: Ուղարկեք այն ընկերոջը:",
         "sv": "This is your own invite. Send it to a friend.",
         "nb": "This is your own invite. Send it to a friend.",
         "nl": "This is your own invite. Send it to a friend.",
@@ -5410,8 +5410,8 @@
       },
       "error.inviteUsed": {
         "en": "This invite has already been used.",
-        "ru": "This invite has already been used.",
-        "hy": "This invite has already been used.",
+        "ru": "Это приглашение уже использовано.",
+        "hy": "Այս հրավերն արդեն օգտագործվել է։",
         "sv": "This invite has already been used.",
         "nb": "This invite has already been used.",
         "nl": "This invite has already been used.",
@@ -5422,8 +5422,8 @@
       },
       "error.notFriends": {
         "en": "You are not connected with this person any more.",
-        "ru": "You are not connected with this person any more.",
-        "hy": "You are not connected with this person any more.",
+        "ru": "Вы больше не связаны с этим человеком.",
+        "hy": "Դուք այլևս կապված չեք այս անձի հետ:",
         "sv": "You are not connected with this person any more.",
         "nb": "You are not connected with this person any more.",
         "nl": "You are not connected with this person any more.",
@@ -5434,8 +5434,8 @@
       },
       "error.notLinked": {
         "en": "Link an account to use Friends.",
-        "ru": "Link an account to use Friends.",
-        "hy": "Link an account to use Friends.",
+        "ru": "Свяжите учетную запись, чтобы использовать Друзья.",
+        "hy": "Կապեք հաշիվ՝ ընկերներից օգտվելու համար:",
         "sv": "Link an account to use Friends.",
         "nb": "Link an account to use Friends.",
         "nl": "Link an account to use Friends.",
@@ -5446,8 +5446,8 @@
       },
       "error.shareUnavailable": {
         "en": "This share is no longer available.",
-        "ru": "This share is no longer available.",
-        "hy": "This share is no longer available.",
+        "ru": "Эта доля больше не доступна.",
+        "hy": "Այս համօգտագործումն այլևս հասանելի չէ:",
         "sv": "This share is no longer available.",
         "nb": "This share is no longer available.",
         "nl": "This share is no longer available.",
@@ -5458,8 +5458,8 @@
       },
       "generateQR": {
         "en": "Show QR",
-        "ru": "Show QR",
-        "hy": "Show QR",
+        "ru": "Показать QR-код",
+        "hy": "Ցույց տալ QR",
         "sv": "Show QR",
         "nb": "Show QR",
         "nl": "Show QR",
@@ -5470,8 +5470,8 @@
       },
       "invite.confirm": {
         "en": "Confirm",
-        "ru": "Confirm",
-        "hy": "Confirm",
+        "ru": "Подтверждать",
+        "hy": "Հաստատել",
         "sv": "Confirm",
         "nb": "Confirm",
         "nl": "Confirm",
@@ -5482,8 +5482,8 @@
       },
       "invite.expires": {
         "en": "Expires in 30 minutes · single use",
-        "ru": "Expires in 30 minutes · single use",
-        "hy": "Expires in 30 minutes · single use",
+        "ru": "Срок действия истекает через 30 минут · одноразовое использование",
+        "hy": "Ժամկետը լրանում է 30 րոպեից · մեկանգամյա օգտագործման ժամանակ",
         "sv": "Expires in 30 minutes · single use",
         "nb": "Expires in 30 minutes · single use",
         "nl": "Expires in 30 minutes · single use",
@@ -5494,8 +5494,8 @@
       },
       "invite.message": {
         "en": "%@ wants to connect.",
-        "ru": "%@ wants to connect.",
-        "hy": "%@ wants to connect.",
+        "ru": "%@ хочет подключиться.",
+        "hy": "%@-ն ուզում է միանալ:",
         "sv": "%@ wants to connect.",
         "nb": "%@ wants to connect.",
         "nl": "%@ wants to connect.",
@@ -5506,8 +5506,8 @@
       },
       "invite.title": {
         "en": "Friend invite",
-        "ru": "Friend invite",
-        "hy": "Friend invite",
+        "ru": "Пригласить друга",
+        "hy": "Ընկերոջ հրավեր",
         "sv": "Friend invite",
         "nb": "Friend invite",
         "nl": "Friend invite",
@@ -5518,8 +5518,8 @@
       },
       "pending": {
         "en": "Pending",
-        "ru": "Pending",
-        "hy": "Pending",
+        "ru": "В ожидании",
+        "hy": "Սպասվում է",
         "sv": "Pending",
         "nb": "Pending",
         "nl": "Pending",
@@ -5530,8 +5530,8 @@
       },
       "perm.seeCurrentlyTraining": {
         "en": "Currently training",
-        "ru": "Currently training",
-        "hy": "Currently training",
+        "ru": "В настоящее время тренируюсь",
+        "hy": "Ներկայումս մարզվում է",
         "sv": "Currently training",
         "nb": "Currently training",
         "nl": "Currently training",
@@ -5542,8 +5542,8 @@
       },
       "perm.seeLastWorkout": {
         "en": "Last workout",
-        "ru": "Last workout",
-        "hy": "Last workout",
+        "ru": "Последняя тренировка",
+        "hy": "Վերջին մարզվելը",
         "sv": "Last workout",
         "nb": "Last workout",
         "nl": "Last workout",
@@ -5554,8 +5554,8 @@
       },
       "perm.seeOnlineStatus": {
         "en": "Online status",
-        "ru": "Online status",
-        "hy": "Online status",
+        "ru": "Онлайн-статус",
+        "hy": "Առցանց կարգավիճակ",
         "sv": "Online status",
         "nb": "Online status",
         "nl": "Online status",
@@ -5566,8 +5566,8 @@
       },
       "perm.sharedWorkoutsOnly": {
         "en": "Shared workouts only",
-        "ru": "Shared workouts only",
-        "hy": "Shared workouts only",
+        "ru": "Только общие тренировки",
+        "hy": "Միայն ընդհանուր մարզումներ",
         "sv": "Shared workouts only",
         "nb": "Shared workouts only",
         "nl": "Shared workouts only",
@@ -5578,8 +5578,8 @@
       },
       "perm.viewAchievements": {
         "en": "Achievements",
-        "ru": "Achievements",
-        "hy": "Achievements",
+        "ru": "Достижения",
+        "hy": "Ձեռքբերումներ",
         "sv": "Achievements",
         "nb": "Achievements",
         "nl": "Achievements",
@@ -5590,8 +5590,8 @@
       },
       "perm.viewActiveWorkout": {
         "en": "View active workout",
-        "ru": "View active workout",
-        "hy": "View active workout",
+        "ru": "Посмотреть активную тренировку",
+        "hy": "Դիտեք ակտիվ մարզվելը",
         "sv": "View active workout",
         "nb": "View active workout",
         "nl": "View active workout",
@@ -5602,8 +5602,8 @@
       },
       "perm.viewCompletedWorkouts": {
         "en": "View completed workouts",
-        "ru": "View completed workouts",
-        "hy": "View completed workouts",
+        "ru": "Просмотр завершенных тренировок",
+        "hy": "Դիտեք ավարտված մարզումները",
         "sv": "View completed workouts",
         "nb": "View completed workouts",
         "nl": "View completed workouts",
@@ -5614,8 +5614,8 @@
       },
       "perm.viewCustomExercises": {
         "en": "Custom exercises",
-        "ru": "Custom exercises",
-        "hy": "Custom exercises",
+        "ru": "Пользовательские упражнения",
+        "hy": "Պատվերով վարժություններ",
         "sv": "Custom exercises",
         "nb": "Custom exercises",
         "nl": "Custom exercises",
@@ -5626,8 +5626,8 @@
       },
       "perm.viewE1RM": {
         "en": "One-rep max estimates",
-        "ru": "One-rep max estimates",
-        "hy": "One-rep max estimates",
+        "ru": "Оценка максимума в одном повторении",
+        "hy": "Մեկ կրկնության առավելագույն գնահատումներ",
         "sv": "One-rep max estimates",
         "nb": "One-rep max estimates",
         "nl": "One-rep max estimates",
@@ -5638,8 +5638,8 @@
       },
       "perm.viewExerciseNotes": {
         "en": "Exercise notes",
-        "ru": "Exercise notes",
-        "hy": "Exercise notes",
+        "ru": "Примечания к упражнениям",
+        "hy": "Զորավարժությունների նշումներ",
         "sv": "Exercise notes",
         "nb": "Exercise notes",
         "nl": "Exercise notes",
@@ -5650,8 +5650,8 @@
       },
       "perm.viewExerciseRatings": {
         "en": "Exercise ratings",
-        "ru": "Exercise ratings",
-        "hy": "Exercise ratings",
+        "ru": "Рейтинги упражнений",
+        "hy": "Զորավարժությունների վարկանիշներ",
         "sv": "Exercise ratings",
         "nb": "Exercise ratings",
         "nl": "Exercise ratings",
@@ -5662,8 +5662,8 @@
       },
       "perm.viewMonthlyStats": {
         "en": "Monthly statistics",
-        "ru": "Monthly statistics",
-        "hy": "Monthly statistics",
+        "ru": "Ежемесячная статистика",
+        "hy": "Ամսական վիճակագրություն",
         "sv": "Monthly statistics",
         "nb": "Monthly statistics",
         "nl": "Monthly statistics",
@@ -5674,8 +5674,8 @@
       },
       "perm.viewMuscleRecovery": {
         "en": "Muscle recovery",
-        "ru": "Muscle recovery",
-        "hy": "Muscle recovery",
+        "ru": "Восстановление мышц",
+        "hy": "Մկանների վերականգնում",
         "sv": "Muscle recovery",
         "nb": "Muscle recovery",
         "nl": "Muscle recovery",
@@ -5686,8 +5686,8 @@
       },
       "perm.viewPersonalRecords": {
         "en": "Personal records",
-        "ru": "Personal records",
-        "hy": "Personal records",
+        "ru": "Личные рекорды",
+        "hy": "Անձնական գրառումներ",
         "sv": "Personal records",
         "nb": "Personal records",
         "nl": "Personal records",
@@ -5698,8 +5698,8 @@
       },
       "perm.viewPlannedWorkouts": {
         "en": "View planned workouts",
-        "ru": "View planned workouts",
-        "hy": "View planned workouts",
+        "ru": "Просмотр запланированных тренировок",
+        "hy": "Դիտեք պլանավորված մարզումները",
         "sv": "View planned workouts",
         "nb": "View planned workouts",
         "nl": "View planned workouts",
@@ -5710,8 +5710,8 @@
       },
       "perm.viewProgressGraphs": {
         "en": "Progress graphs",
-        "ru": "Progress graphs",
-        "hy": "Progress graphs",
+        "ru": "Графики прогресса",
+        "hy": "Առաջընթացի գրաֆիկներ",
         "sv": "Progress graphs",
         "nb": "Progress graphs",
         "nl": "Progress graphs",
@@ -5722,8 +5722,8 @@
       },
       "perm.viewStreaks": {
         "en": "Workout streaks",
-        "ru": "Workout streaks",
-        "hy": "Workout streaks",
+        "ru": "Серии тренировок",
+        "hy": "Մարզման գծեր",
         "sv": "Workout streaks",
         "nb": "Workout streaks",
         "nl": "Workout streaks",
@@ -5734,8 +5734,8 @@
       },
       "perm.viewTemplates": {
         "en": "View workout templates",
-        "ru": "View workout templates",
-        "hy": "View workout templates",
+        "ru": "Просмотр шаблонов тренировок",
+        "hy": "Դիտեք մարզումների ձևանմուշները",
         "sv": "View workout templates",
         "nb": "View workout templates",
         "nl": "View workout templates",
@@ -5746,8 +5746,8 @@
       },
       "perm.viewVolumeHistory": {
         "en": "Volume history",
-        "ru": "Volume history",
-        "hy": "Volume history",
+        "ru": "История тома",
+        "hy": "Ծավալի պատմություն",
         "sv": "Volume history",
         "nb": "Volume history",
         "nl": "Volume history",
@@ -5758,8 +5758,8 @@
       },
       "perm.viewWeeklyStats": {
         "en": "Weekly statistics",
-        "ru": "Weekly statistics",
-        "hy": "Weekly statistics",
+        "ru": "Еженедельная статистика",
+        "hy": "Շաբաթվա վիճակագրություն",
         "sv": "Weekly statistics",
         "nb": "Weekly statistics",
         "nl": "Weekly statistics",
@@ -5770,8 +5770,8 @@
       },
       "perm.viewWorkoutHistory": {
         "en": "View workout history",
-        "ru": "View workout history",
-        "hy": "View workout history",
+        "ru": "Просмотр истории тренировок",
+        "hy": "Դիտեք մարզումների պատմությունը",
         "sv": "View workout history",
         "nb": "View workout history",
         "nl": "View workout history",
@@ -5782,8 +5782,8 @@
       },
       "permissions.group.analytics": {
         "en": "Analytics",
-        "ru": "Analytics",
-        "hy": "Analytics",
+        "ru": "Аналитика",
+        "hy": "Վերլուծություն",
         "sv": "Analytics",
         "nb": "Analytics",
         "nl": "Analytics",
@@ -5794,8 +5794,8 @@
       },
       "permissions.group.exercises": {
         "en": "Exercises",
-        "ru": "Exercises",
-        "hy": "Exercises",
+        "ru": "Упражнения",
+        "hy": "Զորավարժություններ",
         "sv": "Exercises",
         "nb": "Exercises",
         "nl": "Exercises",
@@ -5806,8 +5806,8 @@
       },
       "permissions.group.performance": {
         "en": "Performance",
-        "ru": "Performance",
-        "hy": "Performance",
+        "ru": "Производительность",
+        "hy": "Կատարում",
         "sv": "Performance",
         "nb": "Performance",
         "nl": "Performance",
@@ -5818,8 +5818,8 @@
       },
       "permissions.group.social": {
         "en": "Social",
-        "ru": "Social",
-        "hy": "Social",
+        "ru": "Социальные",
+        "hy": "Սոցիալական",
         "sv": "Social",
         "nb": "Social",
         "nl": "Social",
@@ -5830,8 +5830,8 @@
       },
       "permissions.group.workout": {
         "en": "Workout data",
-        "ru": "Workout data",
-        "hy": "Workout data",
+        "ru": "Данные тренировки",
+        "hy": "Մարզման տվյալները",
         "sv": "Workout data",
         "nb": "Workout data",
         "nl": "Workout data",
@@ -5842,8 +5842,8 @@
       },
       "permissions.save": {
         "en": "Save",
-        "ru": "Save",
-        "hy": "Save",
+        "ru": "Сохранять",
+        "hy": "Պահպանել",
         "sv": "Save",
         "nb": "Save",
         "nl": "Save",
@@ -5854,8 +5854,8 @@
       },
       "permissions.title": {
         "en": "Permissions",
-        "ru": "Permissions",
-        "hy": "Permissions",
+        "ru": "Разрешения",
+        "hy": "Թույլտվություններ",
         "sv": "Permissions",
         "nb": "Permissions",
         "nl": "Permissions",
@@ -5866,8 +5866,8 @@
       },
       "remove": {
         "en": "Remove friend",
-        "ru": "Remove friend",
-        "hy": "Remove friend",
+        "ru": "Удалить друга",
+        "hy": "Հեռացնել ընկերոջը",
         "sv": "Remove friend",
         "nb": "Remove friend",
         "nl": "Remove friend",
@@ -5878,7 +5878,7 @@
       },
       "scanQR": {
         "en": "Scan QR",
-        "ru": "Scan QR",
+        "ru": "Сканировать QR-код",
         "hy": "Scan QR",
         "sv": "Scan QR",
         "nb": "Scan QR",
@@ -5890,8 +5890,8 @@
       },
       "section.friends": {
         "en": "Friends",
-        "ru": "Friends",
-        "hy": "Friends",
+        "ru": "Друзья",
+        "hy": "Ընկերներ",
         "sv": "Friends",
         "nb": "Friends",
         "nl": "Friends",
@@ -5902,8 +5902,8 @@
       },
       "section.incoming": {
         "en": "Incoming",
-        "ru": "Incoming",
-        "hy": "Incoming",
+        "ru": "Входящий",
+        "hy": "Մուտքային",
         "sv": "Incoming",
         "nb": "Incoming",
         "nl": "Incoming",
@@ -5914,8 +5914,8 @@
       },
       "section.sent": {
         "en": "Sent",
-        "ru": "Sent",
-        "hy": "Sent",
+        "ru": "Отправил",
+        "hy": "Ուղարկված",
         "sv": "Sent",
         "nb": "Sent",
         "nl": "Sent",
@@ -5926,8 +5926,8 @@
       },
       "session.accept": {
         "en": "Accept",
-        "ru": "Accept",
-        "hy": "Accept",
+        "ru": "Принимать",
+        "hy": "Ընդունել",
         "sv": "Accept",
         "nb": "Accept",
         "nl": "Accept",
@@ -5938,8 +5938,8 @@
       },
       "session.alertBody": {
         "en": "Accept to join their workout now, or decline to keep training on your own.",
-        "ru": "Accept to join their workout now, or decline to keep training on your own.",
-        "hy": "Accept to join their workout now, or decline to keep training on your own.",
+        "ru": "Согласитесь присоединиться к их тренировке прямо сейчас или откажитесь от продолжения тренировок самостоятельно.",
+        "hy": "Ընդունեք հիմա միանալ նրանց մարզմանը կամ հրաժարվեք ինքնուրույն մարզվելուց:",
         "sv": "Accept to join their workout now, or decline to keep training on your own.",
         "nb": "Accept to join their workout now, or decline to keep training on your own.",
         "nl": "Accept to join their workout now, or decline to keep training on your own.",
@@ -5950,8 +5950,8 @@
       },
       "session.alertTitle": {
         "en": "%@ invited you to train together",
-        "ru": "%@ invited you to train together",
-        "hy": "%@ invited you to train together",
+        "ru": "%@ пригласил вас потренироваться вместе",
+        "hy": "%@ հրավիրել է ձեզ միասին մարզվելու",
         "sv": "%@ invited you to train together",
         "nb": "%@ invited you to train together",
         "nl": "%@ invited you to train together",
@@ -5962,8 +5962,8 @@
       },
       "session.banner": {
         "en": "Training together",
-        "ru": "Training together",
-        "hy": "Training together",
+        "ru": "Тренируемся вместе",
+        "hy": "Միասին մարզումներ",
         "sv": "Training together",
         "nb": "Training together",
         "nl": "Training together",
@@ -5974,8 +5974,8 @@
       },
       "session.decline": {
         "en": "Decline",
-        "ru": "Decline",
-        "hy": "Decline",
+        "ru": "Отклонить",
+        "hy": "Անկում",
         "sv": "Decline",
         "nb": "Decline",
         "nl": "Decline",
@@ -5986,8 +5986,8 @@
       },
       "session.declinedBody": {
         "en": "Your friend declined the workout invite.",
-        "ru": "Your friend declined the workout invite.",
-        "hy": "Your friend declined the workout invite.",
+        "ru": "Ваш друг отклонил приглашение на тренировку.",
+        "hy": "Ձեր ընկերը մերժել է մարզման հրավերը:",
         "sv": "Your friend declined the workout invite.",
         "nb": "Your friend declined the workout invite.",
         "nl": "Your friend declined the workout invite.",
@@ -5998,8 +5998,8 @@
       },
       "session.declinedTitle": {
         "en": "Invite Declined",
-        "ru": "Invite Declined",
-        "hy": "Invite Declined",
+        "ru": "Приглашение отклонено",
+        "hy": "Հրավերը մերժվել է",
         "sv": "Invite Declined",
         "nb": "Invite Declined",
         "nl": "Invite Declined",
@@ -6010,8 +6010,8 @@
       },
       "session.invite": {
         "en": "Invite friend",
-        "ru": "Invite friend",
-        "hy": "Invite friend",
+        "ru": "Пригласить друга",
+        "hy": "Հրավիրեք ընկերոջը",
         "sv": "Invite friend",
         "nb": "Invite friend",
         "nl": "Invite friend",
@@ -6022,8 +6022,8 @@
       },
       "session.join": {
         "en": "Join workout",
-        "ru": "Join workout",
-        "hy": "Join workout",
+        "ru": "Присоединиться к тренировке",
+        "hy": "Միացեք մարզմանը",
         "sv": "Join workout",
         "nb": "Join workout",
         "nl": "Join workout",
@@ -6034,8 +6034,8 @@
       },
       "session.leave": {
         "en": "Leave session",
-        "ru": "Leave session",
-        "hy": "Leave session",
+        "ru": "Выйти из сеанса",
+        "hy": "Դուրս գալ նիստից",
         "sv": "Leave session",
         "nb": "Leave session",
         "nl": "Leave session",
@@ -6046,8 +6046,8 @@
       },
       "session.pickFriend": {
         "en": "Invite to this workout",
-        "ru": "Invite to this workout",
-        "hy": "Invite to this workout",
+        "ru": "Пригласить на эту тренировку",
+        "hy": "Հրավիրեք այս մարզմանը",
         "sv": "Invite to this workout",
         "nb": "Invite to this workout",
         "nl": "Invite to this workout",
@@ -6058,8 +6058,8 @@
       },
       "session.sync.removalBody": {
         "en": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
-        "ru": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
-        "hy": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "ru": "Ваш партнер удалил упражнения (%lld), к которым вы уже вошли. Удалите их и здесь или сохраните свою копию.",
+        "hy": "Ձեր գործընկերը հեռացրել է %lld վարժություն(ներ), որոնցում դուք արդեն մուտք եք գործել: Հեռացրեք դրանք նույնպես այստեղ, կամ պահեք ձեր սեփական պատճենը:",
         "sv": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "nb": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "nl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
@@ -6070,8 +6070,8 @@
       },
       "session.sync.removalTitle": {
         "en": "Remove %lld Exercise(s)?",
-        "ru": "Remove %lld Exercise(s)?",
-        "hy": "Remove %lld Exercise(s)?",
+        "ru": "Удалить %lld упражнений?",
+        "hy": "Հեռացնե՞լ %lld վարժություն(ներ):",
         "sv": "Remove %lld Exercise(s)?",
         "nb": "Remove %lld Exercise(s)?",
         "nl": "Remove %lld Exercise(s)?",
@@ -6082,8 +6082,8 @@
       },
       "share.duplicate": {
         "en": "Save a copy",
-        "ru": "Save a copy",
-        "hy": "Save a copy",
+        "ru": "Сохранить копию",
+        "hy": "Պահպանեք պատճենը",
         "sv": "Save a copy",
         "nb": "Save a copy",
         "nl": "Save a copy",
@@ -6094,8 +6094,8 @@
       },
       "share.pickFriend": {
         "en": "Choose a friend",
-        "ru": "Choose a friend",
-        "hy": "Choose a friend",
+        "ru": "Выбрать друга",
+        "hy": "Ընտրիր ընկեր",
         "sv": "Choose a friend",
         "nb": "Choose a friend",
         "nl": "Choose a friend",
@@ -6106,8 +6106,8 @@
       },
       "share.view": {
         "en": "View share",
-        "ru": "View share",
-        "hy": "View share",
+        "ru": "Посмотреть поделиться",
+        "hy": "Դիտել համօգտագործումը",
         "sv": "View share",
         "nb": "View share",
         "nl": "View share",
@@ -6118,8 +6118,8 @@
       },
       "share.withFriend": {
         "en": "Share with friend…",
-        "ru": "Share with friend…",
-        "hy": "Share with friend…",
+        "ru": "Поделитесь с другом…",
+        "hy": "Կիսվեք ընկերոջ հետ…",
         "sv": "Share with friend…",
         "nb": "Share with friend…",
         "nl": "Share with friend…",
@@ -6130,8 +6130,8 @@
       },
       "shareLink": {
         "en": "Share invite link",
-        "ru": "Share invite link",
-        "hy": "Share invite link",
+        "ru": "Поделиться ссылкой для приглашения",
+        "hy": "Կիսվեք հրավերի հղումով",
         "sv": "Share invite link",
         "nb": "Share invite link",
         "nl": "Share invite link",
@@ -6142,8 +6142,8 @@
       },
       "signInRequired": {
         "en": "Sign in with Apple or Google to add friends.",
-        "ru": "Sign in with Apple or Google to add friends.",
-        "hy": "Sign in with Apple or Google to add friends.",
+        "ru": "Войдите в систему с помощью Apple или Google, чтобы добавить друзей.",
+        "hy": "Մուտք գործեք Apple-ի կամ Google-ի միջոցով՝ ընկերներ ավելացնելու համար:",
         "sv": "Sign in with Apple or Google to add friends.",
         "nb": "Sign in with Apple or Google to add friends.",
         "nl": "Sign in with Apple or Google to add friends.",
@@ -6154,8 +6154,8 @@
       },
       "title": {
         "en": "Friends",
-        "ru": "Friends",
-        "hy": "Friends",
+        "ru": "Друзья",
+        "hy": "Ընկերներ",
         "sv": "Friends",
         "nb": "Friends",
         "nl": "Friends",
@@ -6180,8 +6180,8 @@
       },
       "forceUpdate.message": {
         "en": "A newer version of Gym Logbook is required to continue.",
-        "ru": "Чтобы продолжить, установи более новую версию Gym Logbook.",
-        "hy": "Շարունակելու համար տեղադրիր Gym Logbook-ի ավելի նոր տարբերակը։",
+        "ru": "Для продолжения необходима более новая версия журнала тренажерного зала.",
+        "hy": "Շարունակելու համար անհրաժեշտ է Gym Logbook-ի ավելի նոր տարբերակը:",
         "sv": "En nyare version av Gym Logbook krävs för att fortsätta.",
         "nb": "En nyere versjon av Gym Logbook kreves for å fortsette.",
         "nl": "Om verder te kunnen gaan, is een nieuwere versie van Gym Logbook vereist.",
@@ -6192,8 +6192,8 @@
       },
       "forceUpdate.title": {
         "en": "Update required",
-        "ru": "Нужно обновление",
-        "hy": "Անհրաժեշտ է թարմացում",
+        "ru": "Требуется обновление",
+        "hy": "Պահանջվում է թարմացում",
         "sv": "Uppdatering krävs",
         "nb": "Oppdatering kreves",
         "nl": "Update vereist",
@@ -6204,8 +6204,8 @@
       },
       "forceUpdate.upcoming": {
         "en": "Coming in this update",
-        "ru": "Что появится в этом обновлении",
-        "hy": "Այս թարմացման մեջ",
+        "ru": "В этом обновлении",
+        "hy": "Գալիս է այս թարմացմանը",
         "sv": "Kommer i denna uppdatering",
         "nb": "Kommer i denne oppdateringen",
         "nl": "Komt in deze update",
@@ -6216,8 +6216,8 @@
       },
       "maintenance.message": {
         "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
-        "ru": "Gym Logbook на обслуживании. Загляни чуть позже.",
-        "hy": "Gym Logbook-ը սպասարկման մեջ է։ Փորձիր մի փոքր ուշ։",
+        "ru": "Журнал спортзала находится на техническом обслуживании. Пожалуйста, повторите попытку в ближайшее время.",
+        "hy": "Մարզասրահի գրանցամատյանը սպասարկում է: Խնդրում ենք շուտով նորից փորձեք:",
         "sv": "Gymloggboken genomgår underhåll. Försök snart igen.",
         "nb": "Gymloggbok er under vedlikehold. Vennligst prøv igjen snart.",
         "nl": "Gymlogboek ondergaat onderhoud. Probeer het binnenkort opnieuw.",
@@ -6228,8 +6228,8 @@
       },
       "maintenance.title": {
         "en": "We'll be right back",
-        "ru": "Скоро вернёмся",
-        "hy": "Շուտով կվերադառնանք",
+        "ru": "Мы скоро вернемся",
+        "hy": "Մենք անմիջապես կվերադառնանք",
         "sv": "Vi kommer genast tillbaka",
         "nb": "Vi kommer straks tilbake",
         "nl": "We zijn zo terug",
@@ -6255,7 +6255,7 @@
       "detail.notSaved": {
         "en": "Not saved",
         "ru": "Не сохранено",
-        "hy": "Չի պահպանվել",
+        "hy": "Պահպանված չէ",
         "sv": "Inte sparad",
         "nb": "Ikke lagret",
         "nl": "Niet opgeslagen",
@@ -6470,8 +6470,8 @@
       },
       "settings.whatSyncsBody": {
         "en": "Finished workouts sync to Apple Health as workout time, plus distance when available. Calories, heart rate, and other health data are never read or written.",
-        "ru": "Завершённые тренировки синхронизируются с Apple Health как время тренировки и, при наличии, дистанция. Калории, пульс и другие данные о здоровье никогда не читаются и не записываются.",
-        "hy": "Ավարտված մարզումները համաժամեցվում են Apple Health-ի հետ որպես մարզման տևողություն, ինչպես նաև հեռավորություն, երբ հասանելի է։ Կալորիաները, զարկերակը և այլ առողջական տվյալները երբեք չեն կարդացվում կամ գրանցվում։",
+        "ru": "Завершенные тренировки синхронизируются с Apple Health как время тренировки и расстояние, если оно доступно. Калории, частота сердечных сокращений и другие данные о здоровье никогда не считываются и не записываются.",
+        "hy": "Ավարտված մարզումները համաժամացվում են Apple Health-ի հետ՝ որպես մարզման ժամանակ, գումարած հեռավորությունը, երբ հասանելի է: Կալորիաները, սրտի հաճախությունը և առողջական այլ տվյալներ երբեք չեն կարդացվում կամ գրվում:",
         "sv": "Avslutade träningspass synkroniseras till Apple Health som träningstid, plus sträcka när det är tillgängligt. Kalorier, puls och andra hälsodata läses eller skrivs aldrig.",
         "nb": "Fullførte treningsøkter synkroniseres til Apple Health som treningstid, pluss distanse når tilgjengelig. Kalorier, puls og andre helsedata blir aldri lest eller skrevet.",
         "nl": "Voltooide trainingen worden gesynchroniseerd met Apple Health als trainingstijd, plus afstand indien beschikbaar. Calorieën, hartslag en andere gezondheidsgegevens worden nooit gelezen of geschreven.",
@@ -6483,7 +6483,7 @@
       "settings.whatSyncsTitle": {
         "en": "What syncs",
         "ru": "Что синхронизируется",
-        "hy": "Ինչ է համաժամեցվում",
+        "hy": "Ինչը համաժամացվում է",
         "sv": "Vad synkroniseras",
         "nb": "Hva synkroniseres",
         "nl": "Wat wordt gesynchroniseerd",
@@ -6508,8 +6508,8 @@
       },
       "planBandReps": {
         "en": "Plan: %@ × %@ · %@ sets",
-        "ru": "Plan: %@ × %@ · %@ sets",
-        "hy": "Plan: %@ × %@ · %@ sets",
+        "ru": "План: наборы %@ × %@ · %@",
+        "hy": "Պլան՝ %@ × %@ · %@ հավաքածուներ",
         "sv": "Plan: %@ × %@ · %@ sets",
         "nb": "Plan: %@ × %@ · %@ sets",
         "nl": "Plan: %@ × %@ · %@ sets",
@@ -6592,8 +6592,8 @@
       },
       "tryBandReps": {
         "en": "Try %@ × %@ — beat last best of %@ at this band",
-        "ru": "Try %@ × %@ — beat last best of %@ at this band",
-        "hy": "Try %@ × %@ — beat last best of %@ at this band",
+        "ru": "Попробуйте %@ × %@ — побейте последний лучший результат %@ на этой полосе.",
+        "hy": "Փորձեք %@ × %@ — այս խմբին գերազանցեք %@-ի վերջին լավագույնը",
         "sv": "Try %@ × %@ — beat last best of %@ at this band",
         "nb": "Try %@ × %@ — beat last best of %@ at this band",
         "nl": "Try %@ × %@ — beat last best of %@ at this band",
@@ -6666,7 +6666,7 @@
     "History": {
       "deleteMessage": {
         "en": "This removes the workout from history. You can restore it from Recycle Bin for 30 days.",
-        "ru": "Это удалит тренировку из истории. ты можете восстановить его из корзины в течение 30 дней.",
+        "ru": "Это удалит тренировку из истории. Вы можете восстановить его из корзины в течение 30 дней.",
         "hy": "Սա հեռացնում է մարզումը պատմությունից: Դուք կարող եք այն վերականգնել աղբարկղից 30 օրով:",
         "sv": "Detta tar bort träningen från historien. Du kan återställa den från papperskorgen i 30 dagar.",
         "nb": "Dette fjerner treningen fra historien. Du kan gjenopprette den fra papirkurven i 30 dager.",
@@ -7708,8 +7708,8 @@
     "LoggingType": {
       "band_reps": {
         "en": "Band × Reps",
-        "ru": "Band × Reps",
-        "hy": "Band × Reps",
+        "ru": "Группа × повторений",
+        "hy": "Խումբ × Կրկն",
         "sv": "Band × Reps",
         "nb": "Band × Reps",
         "nl": "Band × Reps",
@@ -7768,8 +7768,8 @@
       },
       "plain.band_reps.subtitle": {
         "en": "Resistance band level and reps each set",
-        "ru": "Resistance band level and reps each set",
-        "hy": "Resistance band level and reps each set",
+        "ru": "Уровень полосы сопротивления и количество повторений в каждом подходе",
+        "hy": "Դիմադրության ժապավենի մակարդակը և կրկնում է յուրաքանչյուր հավաքածու",
         "sv": "Resistance band level and reps each set",
         "nb": "Resistance band level and reps each set",
         "nl": "Resistance band level and reps each set",
@@ -7780,8 +7780,8 @@
       },
       "plain.band_reps.title": {
         "en": "Band and reps",
-        "ru": "Band and reps",
-        "hy": "Band and reps",
+        "ru": "Группа и представители",
+        "hy": "Խումբ և ներկայացուցիչ",
         "sv": "Band and reps",
         "nb": "Band and reps",
         "nl": "Band and reps",
@@ -7805,7 +7805,7 @@
       "plain.cardio.title": {
         "en": "Cardio (multi)",
         "ru": "Кардио (мульти)",
-        "hy": "Կարդիո (մուլտի)",
+        "hy": "Կարդիո (բազմաթիվ)",
         "sv": "Konditionsträning (multi)",
         "nb": "Kardio (multi)",
         "nl": "Cardio (meerdere)",
@@ -8000,7 +8000,7 @@
     "Onboarding": {
       "apply.body": {
         "en": "When you have history, the app suggests the next load. Tap Apply to fill an empty set.",
-        "ru": "Если у тебя есть история, приложение предлагает следующую загрузку. Нажмите «Применить», чтобы заполнить пустой набор.",
+        "ru": "Если у вас есть история, приложение предлагает следующую загрузку. Нажмите «Применить», чтобы заполнить пустой набор.",
         "hy": "Երբ դուք ունեք պատմություն, հավելվածն առաջարկում է հաջորդ բեռնումը: Հպեք Դիմել՝ դատարկ հավաքածուն լրացնելու համար:",
         "sv": "När du har historik föreslår appen nästa laddning. Tryck på Använd för att fylla en tom uppsättning.",
         "nb": "Når du har historikk, foreslår appen neste lasting. Trykk på Bruk for å fylle et tomt sett.",
@@ -8120,7 +8120,7 @@
       },
       "balanced.body": {
         "en": "Balanced opens from the Workout tab. Pick a lookback, see muscle balance, choose groups, and start with suggested lifts.",
-        "ru": "Сбалансированный открывается на вкладке «Тренировка». Оглянитесь назад, посмотрите мышечный баланс, выберите группы и начните с предложенных упражнений.",
+        "ru": "Сбалансированный открывается на вкладке «Тренировка». Оглянитесь назад, посмотрите на мышечный баланс, выберите группы и начните с предложенных упражнений.",
         "hy": "Balanced-ը բացվում է «Մարզում» ներդիրից: Ընտրեք հետադարձ հայացք, տեսեք մկանների հավասարակշռությունը, ընտրեք խմբեր և սկսեք առաջարկվող վերելակներով:",
         "sv": "Balanserad öppnas från fliken Träning. Välj en tillbakablick, se muskelbalansen, välj grupper och börja med förslag på lyft.",
         "nb": "Balansert åpnes fra fanen Trening. Velg et tilbakeblikk, se muskelbalansen, velg grupper og start med foreslåtte løft.",
@@ -8204,8 +8204,8 @@
       },
       "balanced.where": {
         "en": "Workout tab → Balanced",
-        "ru": "Вкладка «Тренировка» → «Сбалансированная»",
-        "hy": "«Մարզում» ներդիր → «Հավասարակշիռ»",
+        "ru": "Вкладка «Тренировка» → «Сбалансированная».",
+        "hy": "Մարզման ներդիր → Հավասարակշռված",
         "sv": "Träningsfliken → Balanserad",
         "nb": "Trening-fanen → Balansert",
         "nl": "Tabblad Training → Evenwichtig",
@@ -8469,7 +8469,7 @@
       "chapter.supersets.title": {
         "en": "Supersets",
         "ru": "Суперсеты",
-        "hy": "Սուպերմոտեցումներ",
+        "hy": "Սուպերսեթներ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Supersets",
@@ -8492,8 +8492,8 @@
       },
       "chapter.theme.title": {
         "en": "Appearance",
-        "ru": "Оформление",
-        "hy": "Տեսք",
+        "ru": "Появление",
+        "hy": "Արտաքին տեսք",
         "sv": "Utseende",
         "nb": "Utseende",
         "nl": "Weergave",
@@ -8540,7 +8540,7 @@
       },
       "exercise.catalogNote": {
         "en": "Most lifts are already in the catalog — create custom only when you need something new.",
-        "ru": "Большинство лифтов уже есть в каталоге — создавайте кастомные только тогда, когда тебе нужно что-то новое.",
+        "ru": "Большинство лифтов уже есть в каталоге — создавайте кастомные только тогда, когда вам понадобится что-то новое.",
         "hy": "Վերելակների մեծ մասն արդեն կատալոգում է. ստեղծեք հատուկ միայն այն ժամանակ, երբ ձեզ նոր բան է անհրաժեշտ:",
         "sv": "De flesta hissar finns redan i katalogen - skapa anpassade bara när du behöver något nytt.",
         "nb": "De fleste heiser er allerede i katalogen - lag kun tilpassede når du trenger noe nytt.",
@@ -8829,7 +8829,7 @@
       "gradients.showSuperset": {
         "en": "How supersets use color",
         "ru": "Как суперсеты используют цвет",
-        "hy": "Ինչպես են սուպերմոտեցումներն օգտագործում գույնը",
+        "hy": "Ինչպես են սուպերսեթերն օգտագործում գույնը",
         "sv": "Hur superset använder färg",
         "nb": "Hvordan supersett bruker farger",
         "nl": "Hoe supersets kleur gebruiken",
@@ -8841,7 +8841,7 @@
       "gradients.supersetBody": {
         "en": "Supersets combine member muscle colors into one soft multi-stop accent.",
         "ru": "Суперсеты объединяют цвета мышц членов в один мягкий многоступенчатый акцент.",
-        "hy": "Սուպերմոտեցումները միավորում են անդամ մկանների գույները մեկ փափուկ բազմաֆունկցիոնալ շեշտադրմամբ:",
+        "hy": "Սուպերսեթները միավորում են անդամ մկանների գույները մեկ փափուկ բազմաֆունկցիոնալ շեշտադրմամբ:",
         "sv": "Superset kombinerar medlemmarnas muskelfärger till en mjuk accent med flera stopp.",
         "nb": "Supersett kombinerer medlemmers muskelfarger til en myk multi-stop aksent.",
         "nl": "Supersets combineren de spierkleuren van de leden tot één zacht multi-stop accent.",
@@ -8984,7 +8984,7 @@
       },
       "healthKitDemo.optional": {
         "en": "You choose whether to connect",
-        "ru": "ты выбираете, подключаться ли",
+        "ru": "Вы выбираете, подключаться ли",
         "hy": "Դուք ընտրում եք միանալ, թե ոչ",
         "sv": "Du väljer om du vill ansluta",
         "nb": "Du velger selv om du vil koble til",
@@ -9116,7 +9116,7 @@
       },
       "insights.body": {
         "en": "Insights, Records, and progress charts turn your log into motivation — not noise.",
-        "ru": "Аналитика, записи и диаграммы прогресса превращают твой журнал в мотивацию, а не в шум.",
+        "ru": "Аналитика, записи и диаграммы прогресса превращают ваш журнал в мотивацию, а не в шум.",
         "hy": "Խորաթափանցությունները, գրառումները և առաջընթացի գծապատկերները ձեր գրանցամատյանը վերածում են մոտիվացիայի, այլ ոչ թե աղմուկի:",
         "sv": "Insikter, rekord och framstegsdiagram förvandlar din logg till motivation – inte brus.",
         "nb": "Innsikt, registreringer og fremdriftsdiagrammer gjør loggen din til motivasjon – ikke støy.",
@@ -9260,8 +9260,8 @@
       },
       "insights.exportTip": {
         "en": "Backup anytime from Insights → Export (JSON or CSV).",
-        "ru": "Бэкап в любой момент: Insights → Export (JSON или CSV).",
-        "hy": "Պահուստավորիր ցանկացած պահի Insights → Export-ից (JSON կամ CSV)։",
+        "ru": "Резервное копирование в любое время из Insights → Экспорт (JSON или CSV).",
+        "hy": "Կրկնօրինակեք ցանկացած ժամանակ Insights-ից → Արտահանում (JSON կամ CSV):",
         "sv": "Säkerhetskopiera när som helst från Insights → Export (JSON eller CSV).",
         "nb": "Sikkerhetskopier når som helst fra Insights → Eksporter (JSON eller CSV).",
         "nl": "Maak op elk gewenst moment een back-up vanuit Inzichten → Exporteren (JSON of CSV).",
@@ -9380,7 +9380,7 @@
       },
       "language.footnote": {
         "en": "You can change your language anytime in iOS Settings.",
-        "ru": "ты можете изменить свой язык в любое время в настройках iOS.",
+        "ru": "Вы можете изменить свой язык в любое время в настройках iOS.",
         "hy": "Դուք ցանկացած ժամանակ կարող եք փոխել ձեր լեզուն iOS-ի կարգավորումներում:",
         "sv": "Du kan ändra ditt språk när som helst i iOS-inställningarna.",
         "nb": "Du kan endre språket ditt når som helst i iOS-innstillingene.",
@@ -9404,8 +9404,8 @@
       },
       "layout.body": {
         "en": "Pick List for a fast scan, or Cards for form art and muscle cues.",
-        "ru": "Список — для быстрого выбора, карточки — с картинками и мышцами.",
-        "hy": "Ցանկը՝ արագ ընտրության համար, քարտերը՝ պատկերներով և մկանների հուշումներով։",
+        "ru": "Выберите «Список» для быстрого сканирования или «Карточки» для художественного оформления и мышечных сигналов.",
+        "hy": "Ընտրեք ցուցակ արագ սկանավորման համար, կամ քարտեր՝ ձևերի և մկանների նշանների համար:",
         "sv": "Välj lista för en snabb skanning, eller kort för formkonst och muskelsignaler.",
         "nb": "Velg liste for en rask skanning, eller kort for formkunst og muskelsignaler.",
         "nl": "Keuzelijst voor een snelle scan, of kaarten voor vormkunst en spieraanwijzingen.",
@@ -9428,7 +9428,7 @@
       },
       "layout.cardsHint": {
         "en": "Cards help you recognize lifts by illustration and muscle colors.",
-        "ru": "Карты помогут тебе распознавать упражнения по иллюстрациям и цветам мышц.",
+        "ru": "Карты помогут вам распознавать упражнения по иллюстрациям и цветам мышц.",
         "hy": "Քարտերը օգնում են ձեզ ճանաչել վերելակները նկարազարդման և մկանների գույների միջոցով:",
         "sv": "Kort hjälper dig att känna igen lyft genom illustration och muskelfärger.",
         "nb": "Kort hjelper deg å gjenkjenne løft etter illustrasjon og muskelfarger.",
@@ -9452,7 +9452,7 @@
       },
       "layout.footnote": {
         "en": "You can switch layouts anytime from the exercise picker.",
-        "ru": "ты можете переключать макеты в любое время с помощью средства выбора упражнений.",
+        "ru": "Вы можете переключать макеты в любое время с помощью средства выбора упражнений.",
         "hy": "Դուք ցանկացած ժամանակ կարող եք փոխել դասավորությունները վարժությունների ընտրիչից:",
         "sv": "Du kan byta layout när som helst från träningsväljaren.",
         "nb": "Du kan bytte layout når som helst fra treningsvelgeren.",
@@ -9549,7 +9549,7 @@
       "library.playSession2": {
         "en": "Play Progress & balance",
         "ru": "Игровой прогресс и баланс",
-        "hy": "Խաղալ Առաջընթաց և հավասարակշռություն",
+        "hy": "Խաղալ Առաջընթաց և մնացորդ",
         "sv": "Spela Framsteg och balans",
         "nb": "Spill fremgang og balanse",
         "nl": "Speelvoortgang en balans",
@@ -9776,7 +9776,7 @@
       },
       "measurement.body": {
         "en": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "ru": "Выберите способ отображения весов и расстояний. ты можете изменить это позже в учетной записи и переопределить это значение для каждого упражнения при входе в систему.",
+        "ru": "Выберите способ отображения весов и расстояний. Вы можете изменить это позже в учетной записи и переопределить это значение для каждого упражнения при входе в систему.",
         "hy": "Ընտրեք, թե ինչպես են ցուցադրվում կշիռները և հեռավորությունները: Դուք կարող եք փոխել սա ավելի ուշ «Հաշիվ» բաժնում և չեղարկել այն յուրաքանչյուր վարժությունում գրանցման ընթացքում:",
         "sv": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
         "nb": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
@@ -9992,7 +9992,7 @@
       },
       "personal.measurementDetail": {
         "en": "Metric or Imperial — Account and per-exercise override",
-        "ru": "Метрическая или британская система — переопределение учетной записи и каждого упражнения.",
+        "ru": "Метрическая или имперская система — переопределение учетной записи и каждого упражнения.",
         "hy": "Մետրիկ կամ կայսերական — Հաշվի և յուրաքանչյուր վարժության անտեսում",
         "sv": "Metric or Imperial — Account and per-exercise override",
         "nb": "Metric or Imperial — Account and per-exercise override",
@@ -10005,7 +10005,7 @@
       "personal.supersets": {
         "en": "Supersets",
         "ru": "Суперсеты",
-        "hy": "Սուպերմոտեցումներ",
+        "hy": "Սուպերսեթներ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Supersets",
@@ -10016,7 +10016,7 @@
       },
       "personal.supersetsDetail": {
         "en": "Library presets and your custom groups under Templates → Exercises.",
-        "ru": "Пресеты библиотеки и твои пользовательские группы в разделе «Шаблоны» → «Упражнения».",
+        "ru": "Пресеты библиотеки и ваши пользовательские группы в разделе «Шаблоны» → «Упражнения».",
         "hy": "Գրադարանի նախադրյալները և ձեր հատուկ խմբերը Կաղապարներ → Վարժություններ բաժնում:",
         "sv": "Bibliotekets förinställningar och dina anpassade grupper under Mallar → Övningar.",
         "nb": "Bibliotekforhåndsinnstillinger og dine egendefinerte grupper under Maler → Øvelser.",
@@ -10076,8 +10076,8 @@
       },
       "ready.body": {
         "en": "Start logging your first workout — or explore the tabs at your own pace.",
-        "ru": "Запиши первую тренировку — или просто поброди по вкладкам.",
-        "hy": "Գրանցիր առաջին մարզումը — կամ հանգիստ ուսումնասիրիր ներդիրները։",
+        "ru": "Начните записывать свою первую тренировку или изучайте вкладки в удобном для вас темпе.",
+        "hy": "Սկսեք գրանցել ձեր առաջին մարզումը կամ ուսումնասիրեք ներդիրները ձեր սեփական տեմպերով:",
         "sv": "Börja logga ditt första träningspass - eller utforska flikarna i din egen takt.",
         "nb": "Begynn å logge din første treningsøkt - eller utforsk fanene i ditt eget tempo.",
         "nl": "Begin met het registreren van uw eerste training — of verken de tabbladen in uw eigen tempo.",
@@ -10112,7 +10112,7 @@
       },
       "ready.title": {
         "en": "You’re ready",
-        "ru": "ты готовы",
+        "ru": "Вы готовы",
         "hy": "դու պատրաստ ես",
         "sv": "Du är redo",
         "nb": "Du er klar",
@@ -10376,7 +10376,7 @@
       },
       "superset.body": {
         "en": "Group exercises, expand a preset, and alternate focus A → B → C while you train.",
-        "ru": "Группируйте упражнения, расширяйте набор настроек и чередуйте фокус A → B → C во время тренировки.",
+        "ru": "Группируйте упражнения, расширяйте предустановку и чередуйте фокус A → B → C во время тренировки.",
         "hy": "Խմբային վարժություններ, ընդլայնեք նախադրյալը և փոխեք կենտրոնացումը A → B → C մինչ մարզվում եք:",
         "sv": "Gruppövningar, utöka en förinställning och växla fokus A → B → C medan du tränar.",
         "nb": "Gruppeøvelser, utvid en forhåndsinnstilling og vekselvis fokus A → B → C mens du trener.",
@@ -10437,7 +10437,7 @@
       "superset.phase4": {
         "en": "Group as a superset",
         "ru": "Группа как суперсет",
-        "hy": "Խումբը որպես սուպերմոտեցում",
+        "hy": "Խումբը որպես սուպերսեթ",
         "sv": "Gruppera som en superset",
         "nb": "Grupper som et supersett",
         "nl": "Groep als een superset",
@@ -10461,7 +10461,7 @@
       "superset.title": {
         "en": "Supersets keep complex work organized",
         "ru": "Суперсеты помогают организовать сложную работу.",
-        "hy": "Սուպերմոտեցումները կազմակերպված են պահում բարդ աշխատանքը",
+        "hy": "Սուպերսեթները կազմակերպված են պահում բարդ աշխատանքը",
         "sv": "Superset håller komplext arbete organiserat",
         "nb": "Supersett holder komplekst arbeid organisert",
         "nl": "Supersets houden complex werk georganiseerd",
@@ -10473,7 +10473,7 @@
       "superset.why": {
         "en": "Supersets help organize complex workouts and keep paired lifts together.",
         "ru": "Суперсеты помогают организовать сложные тренировки и объединить парные упражнения.",
-        "hy": "Սուպերմոտեցումներն օգնում են կազմակերպել բարդ մարզումներ և միասին պահել զուգակցված վերելակները:",
+        "hy": "Սուպերսեթներն օգնում են կազմակերպել բարդ մարզումներ և միասին պահել զուգակցված վերելակները:",
         "sv": "Superset hjälper till att organisera komplexa träningspass och hålla ihop parade lyft.",
         "nb": "Supersett hjelper til med å organisere komplekse treningsøkter og holde sammenkoblede løft.",
         "nl": "Supersets helpen bij het organiseren van complexe trainingen en houden gekoppelde liften bij elkaar.",
@@ -10496,8 +10496,8 @@
       },
       "templates.body": {
         "en": "Build a template once. Starting it auto-fills planned sets so you can train faster.",
-        "ru": "Собери шаблон один раз. При старте плановые подходы заполнятся сами — и тренировка пойдёт быстрее.",
-        "hy": "Կառուցիր կաղապարը մեկ անգամ։ Սկսելիս պլանավորված մոտեցումները կլրացվեն իրենք — և մարզումն ավելի արագ կընթանա։",
+        "ru": "Создайте шаблон один раз. При запуске запланированные наборы автоматически заполняются, чтобы вы могли тренироваться быстрее.",
+        "hy": "Կառուցեք ձևանմուշ մեկ անգամ: Այն սկսելը ավտոմատ կերպով լրացնում է պլանավորված հավաքածուները, որպեսզի կարողանաք ավելի արագ մարզվել:",
         "sv": "Bygg en mall en gång. När du startar den automatiskt fylls planerade set så att du kan träna snabbare.",
         "nb": "Bygg en mal én gang. Ved å starte den fylles planlagte sett automatisk ut, slik at du kan trene raskere.",
         "nl": "Bouw een keer een sjabloon. Als u het programma start, worden geplande sets automatisch ingevuld, zodat u sneller kunt trainen.",
@@ -10568,8 +10568,8 @@
       },
       "theme.body": {
         "en": "Choose how Gym Logbook looks. You can change this later in Account.",
-        "ru": "Выберите, как будет выглядеть Gym Logbook. Позже это можно изменить в Аккаунте.",
-        "hy": "Ընտրեք, թե ինչպես տեսք ունենա Gym Logbook-ը։ Ավելի ուշ կարող եք փոխել Հաշվում։",
+        "ru": "Выберите, как будет выглядеть журнал спортзала. Вы можете изменить это позже в Аккаунте.",
+        "hy": "Ընտրեք, թե ինչպես է Gym Logbook տեսքը: Դուք կարող եք փոխել սա ավելի ուշ Հաշվում:",
         "sv": "Välj hur Gym Logbook ser ut. Du kan ändra detta senare i Konto.",
         "nb": "Velg hvordan Gym Logbook skal se ut. Du kan endre dette senere i Konto.",
         "nl": "Kies hoe Gym Logbook eruitziet. Je kunt dit later wijzigen in Account.",
@@ -10580,8 +10580,8 @@
       },
       "theme.footnote": {
         "en": "Defaults to matching your device setting.",
-        "ru": "По умолчанию соответствует настройке устройства.",
-        "hy": "Լռելյայն համապատասխանում է սարքի կարգավորմանը։",
+        "ru": "По умолчанию соответствует настройкам вашего устройства.",
+        "hy": "Կանխադրված է ձեր սարքի կարգավորումներին համապատասխանելու համար:",
         "sv": "Matchar som standard enhetens inställning.",
         "nb": "Følger enhetens innstilling som standard.",
         "nl": "Volgt standaard de instelling van je apparaat.",
@@ -10592,8 +10592,8 @@
       },
       "theme.title": {
         "en": "Appearance",
-        "ru": "Оформление",
-        "hy": "Տեսք",
+        "ru": "Появление",
+        "hy": "Արտաքին տեսք",
         "sv": "Utseende",
         "nb": "Utseende",
         "nl": "Weergave",
@@ -10676,7 +10676,7 @@
       },
       "welcome.title": {
         "en": "Your weightlifting logbook",
-        "ru": "Твой дневник тяжелой атлетики",
+        "ru": "Ваш дневник тяжелой атлетики",
         "hy": "Ձեր ծանրամարտի գրանցամատյանը",
         "sv": "Din tyngdlyftningsloggbok",
         "nb": "Din vektløftingsloggbok",
@@ -10786,7 +10786,7 @@
       },
       "noHistory": {
         "en": "No history yet — log your first set.",
-        "ru": "Истории пока нет — запишите свой первый подход.",
+        "ru": "Истории пока нет — запишите свой первый сет.",
         "hy": "Դեռևս պատմություն չկա. գրանցեք ձեր առաջին հավաքածուն:",
         "sv": "Ingen historik ännu - logga ditt första set.",
         "nb": "Ingen historikk ennå - logg ditt første sett.",
@@ -10836,8 +10836,8 @@
     "Picker": {
       "homeSuggestions": {
         "en": "Suggested for home",
-        "ru": "Для дома",
-        "hy": "Suggested for home",
+        "ru": "Рекомендуется для дома",
+        "hy": "Առաջարկվում է տան համար",
         "sv": "Suggested for home",
         "nb": "Suggested for home",
         "nl": "Suggested for home",
@@ -10848,8 +10848,8 @@
       },
       "rehabSuggestions": {
         "en": "Suggested for rehab",
-        "ru": "Для реабилитации",
-        "hy": "Suggested for rehab",
+        "ru": "Предлагается на реабилитацию",
+        "hy": "Առաջարկվում է վերականգնողական",
         "sv": "Suggested for rehab",
         "nb": "Suggested for rehab",
         "nl": "Suggested for rehab",
@@ -10925,7 +10925,7 @@
       "max_reps": {
         "en": "Max reps",
         "ru": "Макс. повторений",
-        "hy": "Առավելագույն կրկնություններ",
+        "hy": "Առավելագույն կրկնողություններ",
         "sv": "Max reps",
         "nb": "Maks reps",
         "nl": "Maximale herhalingen",
@@ -11097,7 +11097,7 @@
       "emptyRangeDescription": {
         "en": "Try a longer period to see personal bests.",
         "ru": "Попробуйте более длительный период, чтобы увидеть личные рекорды.",
-        "hy": "Փորձեք ավելի երկար ժամանակաշրջան՝ անձնական լավագույնը տեսնելու համար:",
+        "hy": "Փորձեք ավելի երկար ժամանակ՝ անձնական լավագույնը տեսնելու համար:",
         "sv": "Prova en längre period för att se personliga rekord.",
         "nb": "Prøv en lengre periode for å se personlige rekorder.",
         "nl": "Probeer een langere periode om persoonlijke records te zien.",
@@ -11520,8 +11520,8 @@
       },
       "timer.needsSets": {
         "en": "Complete a set before starting rest.",
-        "ru": "Сначала заверши подход, потом запускай отдых.",
-        "hy": "Հանգիստը սկսելուց առաջ ավարտիր մոտեցումը։",
+        "ru": "Завершите подход перед началом отдыха.",
+        "hy": "Լրացրեք հավաքածուն հանգստանալուց առաջ:",
         "sv": "Slutför ett set innan du börjar vila.",
         "nb": "Fullfør et sett før du starter hvile.",
         "nl": "Voltooi een set voordat u met rust begint.",
@@ -11581,7 +11581,7 @@
       "timer.supersetTitle": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերմոտեցում",
+        "hy": "Սուպերսեթ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -11592,8 +11592,8 @@
       },
       "timer.supersetUneven": {
         "en": "Finish the round — every exercise needs the same number of sets.",
-        "ru": "Закончи круг — у всех упражнений должно быть одинаковое число подходов.",
-        "hy": "Ավարտիր շրջափուլը — բոլոր վարժությունները պետք է ունենան նույն թվով մոտեցումներ։",
+        "ru": "Завершите раунд — каждое упражнение требует одинакового количества подходов.",
+        "hy": "Ավարտեք ռաունդը. յուրաքանչյուր վարժության համար անհրաժեշտ է նույն քանակությամբ հավաքածուներ:",
         "sv": "Avsluta rundan - varje övning behöver samma antal set.",
         "nb": "Fullfør runden - hver øvelse trenger samme antall sett.",
         "nl": "Maak de ronde af – elke oefening heeft hetzelfde aantal sets nodig.",
@@ -11630,8 +11630,8 @@
       },
       "deleteConfirmMessage": {
         "en": "This set has logged values. Are you sure you want to delete it?",
-        "ru": "В этом подходе уже есть значения. Точно удалить?",
-        "hy": "Այս մոտեցումն արդեն արժեքներ ունի։ Իսկապե՞ս ջնջել։",
+        "ru": "Этот набор имеет зарегистрированные значения. Вы уверены, что хотите удалить его?",
+        "hy": "Այս հավաքածուն ունի գրանցված արժեքներ: Իսկապե՞ս ուզում եք ջնջել այն:",
         "sv": "Denna uppsättning har loggade värden. Är du säker på att du vill ta bort den?",
         "nb": "Dette settet har loggede verdier. Er du sikker på at du vil slette den?",
         "nl": "Deze set heeft geregistreerde waarden. Weet je zeker dat je het wilt verwijderen?",
@@ -11667,7 +11667,7 @@
       "markComplete": {
         "en": "Mark set complete",
         "ru": "Отметить набор как завершенный",
-        "hy": "Նշեք հավաքածուն ավարտված է",
+        "hy": "Նշանի հավաքածուն ավարտված է",
         "sv": "Märk set färdig",
         "nb": "Merk settet fullført",
         "nl": "Markeerset compleet",
@@ -11690,8 +11690,8 @@
       },
       "needsPreviousFilled": {
         "en": "Fill in the last set before adding another.",
-        "ru": "Заполни последний подход, прежде чем добавлять новый.",
-        "hy": "Լրացրու վերջին մոտեցումը՝ նորը ավելացնելուց առաջ։",
+        "ru": "Заполните последний набор, прежде чем добавлять следующий.",
+        "hy": "Լրացրեք վերջին հավաքածուն, նախքան մյուսը ավելացնելը:",
         "sv": "Fyll i det senaste setet innan du lägger till ett nytt.",
         "nb": "Fyll ut det siste settet før du legger til et nytt.",
         "nl": "Vul de laatste set in voordat je een nieuwe toevoegt.",
@@ -11716,8 +11716,8 @@
       },
       "empty.month": {
         "en": "No workouts logged this month.",
-        "ru": "В этом месяце нет тренировок.",
-        "hy": "Այս ամիս մարզումներ չեն գրանցվել։",
+        "ru": "В этом месяце тренировок не зарегистрировано.",
+        "hy": "Այս ամիս ոչ մի մարզում չի գրանցվել:",
         "sv": "Inga träningspass loggade den här månaden.",
         "nb": "Ingen økter logget denne måneden.",
         "nl": "Deze maand zijn er geen trainingen gelogd.",
@@ -11729,7 +11729,7 @@
       "empty.title": {
         "en": "Nothing to Share Yet",
         "ru": "Пока нечем поделиться",
-        "hy": "Դեռ կիսվելու բան չկա",
+        "hy": "Դեռևս կիսվելու ոչինչ չկա",
         "sv": "Inget att dela än",
         "nb": "Ingenting å dele ennå",
         "nl": "Nog niets te delen",
@@ -11740,8 +11740,8 @@
       },
       "empty.workout": {
         "en": "This workout has no completed sets.",
-        "ru": "В этой тренировке нет выполненных подходов.",
-        "hy": "Այս մարզման մեջ կատարված մոտեցումներ չկան։",
+        "ru": "В этой тренировке нет завершенных подходов.",
+        "hy": "Այս մարզումը չունի ավարտված հավաքածուներ:",
         "sv": "Det här passet har inga slutförda set.",
         "nb": "Denne økten har ingen fullførte sett.",
         "nl": "Deze training heeft geen voltooide sets.",
@@ -11753,7 +11753,7 @@
       "error": {
         "en": "Couldn't create the image.",
         "ru": "Не удалось создать изображение.",
-        "hy": "Չհաջողվեց ստեղծել պատկերը։",
+        "hy": "Չհաջողվեց ստեղծել պատկերը:",
         "sv": "Det gick inte att skapa bilden.",
         "nb": "Kunne ikke lage bildet.",
         "nl": "Kan de afbeelding niet maken.",
@@ -11776,8 +11776,8 @@
       },
       "month.action": {
         "en": "Share Month",
-        "ru": "Поделиться месяцем",
-        "hy": "Կիսվել ամսով",
+        "ru": "Поделиться месяц",
+        "hy": "Տարածման ամիս",
         "sv": "Dela månad",
         "nb": "Del måned",
         "nl": "Maand delen",
@@ -11788,8 +11788,8 @@
       },
       "month.eyebrow": {
         "en": "MONTH RECAP",
-        "ru": "ИТОГИ МЕСЯЦА",
-        "hy": "ԱՄՍՎԱ ԱՄՓՈՓՈՒՄ",
+        "ru": "РЕЗЮМЕ МЕСЯЦА",
+        "hy": "ԱՄՍՎԱ ՀԱՄԱԿԱՐԳ",
         "sv": "MÅNADSSAMMANFATTNING",
         "nb": "MÅNEDSOPPSUMMERING",
         "nl": "MAANDOVERZICHT",
@@ -11800,7 +11800,7 @@
       },
       "month.next": {
         "en": "Next month",
-        "ru": "Следующий месяц",
+        "ru": "В следующем месяце",
         "hy": "Հաջորդ ամիս",
         "sv": "Nästa månad",
         "nb": "Neste måned",
@@ -11824,8 +11824,8 @@
       },
       "newPrs": {
         "en": "%lld new PRs",
-        "ru": "%lld новых рекордов",
-        "hy": "%lld նոր ռեկորդ",
+        "ru": "%lld новых PR",
+        "hy": "%lld նոր PR-ներ",
         "sv": "%lld nya rekord",
         "nb": "%lld nye rekorder",
         "nl": "%lld nieuwe PR's",
@@ -11837,7 +11837,7 @@
       "style.balance": {
         "en": "Balance",
         "ru": "Баланс",
-        "hy": "Հավասարակշռություն",
+        "hy": "Հաշվեկշիռ",
         "sv": "Balans",
         "nb": "Balanse",
         "nl": "Balans",
@@ -11848,8 +11848,8 @@
       },
       "style.headline": {
         "en": "Headline",
-        "ru": "Главное",
-        "hy": "Գլխավոր",
+        "ru": "Заголовок",
+        "hy": "Վերնագիր",
         "sv": "Rubrik",
         "nb": "Overskrift",
         "nl": "Kerncijfer",
@@ -11860,8 +11860,8 @@
       },
       "style.highlights": {
         "en": "Highlights",
-        "ru": "Лучшее",
-        "hy": "Կարևորները",
+        "ru": "Основные моменты",
+        "hy": "Առանձնահատկություններ",
         "sv": "Höjdpunkter",
         "nb": "Høydepunkter",
         "nl": "Hoogtepunten",
@@ -11873,7 +11873,7 @@
       "style.overview": {
         "en": "Overview",
         "ru": "Обзор",
-        "hy": "Ընդհանուր",
+        "hy": "Ընդհանուր ակնարկ",
         "sv": "Översikt",
         "nb": "Oversikt",
         "nl": "Overzicht",
@@ -11884,7 +11884,7 @@
       },
       "title": {
         "en": "Share",
-        "ru": "Поделиться",
+        "ru": "Делиться",
         "hy": "Կիսվել",
         "sv": "Dela",
         "nb": "Del",
@@ -11896,8 +11896,8 @@
       },
       "trainingDays": {
         "en": "%lld training days",
-        "ru": "%lld дней тренировок",
-        "hy": "%lld մարզման օր",
+        "ru": "%lld тренировочных дней",
+        "hy": "%lld վերապատրաստման օր",
         "sv": "%lld träningsdagar",
         "nb": "%lld treningsdager",
         "nl": "%lld trainingsdagen",
@@ -11909,7 +11909,7 @@
       "workout.action": {
         "en": "Share Workout",
         "ru": "Поделиться тренировкой",
-        "hy": "Կիսվել մարզումով",
+        "hy": "Կիսվեք մարզվելով",
         "sv": "Dela träningspass",
         "nb": "Del økt",
         "nl": "Training delen",
@@ -11921,7 +11921,7 @@
       "workout.eyebrow": {
         "en": "WORKOUT",
         "ru": "ТРЕНИРОВКА",
-        "hy": "ՄԱՐԶՈՒՄ",
+        "hy": "ՄԱՐԶՄԱՆ",
         "sv": "TRÄNINGSPASS",
         "nb": "ØKT",
         "nl": "TRAINING",
@@ -11933,7 +11933,7 @@
       "workoutCount": {
         "en": "%lld workouts",
         "ru": "%lld тренировок",
-        "hy": "%lld մարզում",
+        "hy": "%lld մարզումներ",
         "sv": "%lld träningspass",
         "nb": "%lld økter",
         "nl": "%lld trainingen",
@@ -13031,7 +13031,7 @@
       "defaultName": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերմոտեցում",
+        "hy": "Սուպերսեթ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -13115,7 +13115,7 @@
       "filter.a11y": {
         "en": "Filter supersets by muscle group",
         "ru": "Фильтровать суперсеты по группам мышц",
-        "hy": "Զտել սուպերմոտեցումները ըստ մկանների խմբի",
+        "hy": "Զտել սուպերսեթերը ըստ մկանների խմբի",
         "sv": "Filtrera superset efter muskelgrupp",
         "nb": "Filtrer supersett etter muskelgruppe",
         "nl": "Filter supersets op spiergroep",
@@ -13139,7 +13139,7 @@
       "filter.empty": {
         "en": "No supersets for these muscles",
         "ru": "Никаких суперсетов для этих мышц.",
-        "hy": "Այս մկանների համար սուպերմոտեցումներ չկան",
+        "hy": "Այս մկանների համար սուպերսեթներ չկան",
         "sv": "Inga superset för dessa muskler",
         "nb": "Ingen supersett for disse musklene",
         "nl": "Geen supersets voor deze spieren",
@@ -13187,7 +13187,7 @@
       "libraryEmpty": {
         "en": "No Supersets Yet",
         "ru": "Суперсетов пока нет",
-        "hy": "Սուպերմոտեցումներ դեռ չկան",
+        "hy": "Սուպերսեթեր դեռ չկան",
         "sv": "Inga superset ännu",
         "nb": "Ingen supersett ennå",
         "nl": "Nog geen supersets",
@@ -13247,7 +13247,7 @@
       "mineEmpty": {
         "en": "No custom supersets yet. Create one or customize a default.",
         "ru": "Специальных суперсетов пока нет. Создайте его или настройте значение по умолчанию.",
-        "hy": "Առայժմ հատուկ սուպերմոտեցումներ չկան: Ստեղծեք մեկը կամ հարմարեցրեք լռելյայն:",
+        "hy": "Առայժմ հատուկ սուպերսեթեր չկան: Ստեղծեք մեկը կամ հարմարեցրեք լռելյայն:",
         "sv": "Inga anpassade superset ännu. Skapa en eller anpassa en standard.",
         "nb": "Ingen egendefinerte supersett ennå. Opprett en eller tilpass en standard.",
         "nl": "Nog geen aangepaste supersets. Maak er een of pas een standaard aan.",
@@ -13307,7 +13307,7 @@
       "removeAllTitle": {
         "en": "Remove Entire Superset?",
         "ru": "Удалить весь суперсет?",
-        "hy": "Հեռացնե՞լ ամբողջ սուպերմոտեցումը:",
+        "hy": "Հեռացնե՞լ ամբողջ սուպերսեթը:",
         "sv": "Ta bort hela Superset?",
         "nb": "Vil du fjerne hele supersettet?",
         "nl": "Hele Superset verwijderen?",
@@ -13319,7 +13319,7 @@
       "reorderFooter": {
         "en": "Supersets move as one block.",
         "ru": "Суперсеты движутся как один блок.",
-        "hy": "Սուպերմոտեցումները շարժվում են որպես մեկ բլոկի:",
+        "hy": "Սուպերսեթները շարժվում են որպես մեկ բլոկի:",
         "sv": "Superset rör sig som ett block.",
         "nb": "Supersett beveger seg som én blokk.",
         "nl": "Supersets bewegen als één blok.",
@@ -13367,7 +13367,7 @@
       "section.mine": {
         "en": "My Supersets",
         "ru": "Мои суперсеты",
-        "hy": "Իմ սուպերմոտեցումները",
+        "hy": "Իմ սուպերսեթները",
         "sv": "Mina Superset",
         "nb": "Mine supersett",
         "nl": "Mijn supersets",
@@ -13379,7 +13379,7 @@
       "sectionLabel": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերմոտեցում",
+        "hy": "Սուպերսեթ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -13391,7 +13391,7 @@
       "selectMembersHint": {
         "en": "Select at least two exercises to link as a superset.",
         "ru": "Выберите как минимум два упражнения, чтобы объединить их в суперсет.",
-        "hy": "Ընտրեք առնվազն երկու վարժություն՝ որպես սուպերմոտեցում կապելու համար:",
+        "hy": "Ընտրեք առնվազն երկու վարժություն՝ որպես սուպերսեթ կապելու համար:",
         "sv": "Välj minst två övningar att länka som superset.",
         "nb": "Velg minst to øvelser som skal kobles til som et supersett.",
         "nl": "Selecteer minimaal twee oefeningen om als superset te koppelen.",
@@ -13573,7 +13573,7 @@
       "entity.superset": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերմոտեցում",
+        "hy": "Սուպերսեթ",
         "sv": "Superset",
         "nb": "Superset",
         "nl": "Superset",
@@ -13837,7 +13837,7 @@
       "merge.title": {
         "en": "Choose cloud fields",
         "ru": "Выбирайте облачные поля",
-        "hy": "Ընտրեք ամպային դաշտեր",
+        "hy": "Ընտրեք ամպային դաշտերը",
         "sv": "Choose cloud fields",
         "nb": "Choose cloud fields",
         "nl": "Choose cloud fields",
@@ -13911,7 +13911,7 @@
       "records": {
         "en": "Records",
         "ru": "Рекорды",
-        "hy": "Ռեկորդներ",
+        "hy": "Գրառումներ",
         "sv": "Uppgifter",
         "nb": "Rekorder",
         "nl": "Opnames",
@@ -13960,7 +13960,7 @@
       },
       "catalog.%@": {
         "en": "template.catalog.%@",
-        "ru": "шаблон.каталог.%@",
+        "ru": "template.catalog.%@",
         "hy": "template.catalog.%@"
       },
       "catalog.template-arms-day": {
@@ -14457,8 +14457,8 @@
       },
       "search": {
         "en": "Search templates",
-        "ru": "Поиск шаблонов",
-        "hy": "Որոնել կաղապարներ",
+        "ru": "Шаблоны поиска",
+        "hy": "Որոնեք ձևանմուշներ",
         "sv": "Sök mallar",
         "nb": "Søk maler",
         "nl": "Zoek sjablonen",
@@ -14483,8 +14483,8 @@
     "Theme": {
       "dark": {
         "en": "Dark",
-        "ru": "Тёмная",
-        "hy": "Մուգ",
+        "ru": "Темный",
+        "hy": "Մութ",
         "sv": "Mörkt",
         "nb": "Mørkt",
         "nl": "Donker",
@@ -14495,8 +14495,8 @@
       },
       "darkDetail": {
         "en": "Always dark",
-        "ru": "Всегда тёмная",
-        "hy": "Միշտ մուգ",
+        "ru": "Всегда темно",
+        "hy": "Միշտ մութ",
         "sv": "Alltid mörkt",
         "nb": "Alltid mørkt",
         "nl": "Altijd donker",
@@ -14507,8 +14507,8 @@
       },
       "light": {
         "en": "Light",
-        "ru": "Светлая",
-        "hy": "Բաց",
+        "ru": "Свет",
+        "hy": "Լույս",
         "sv": "Ljust",
         "nb": "Lyst",
         "nl": "Licht",
@@ -14519,8 +14519,8 @@
       },
       "lightDetail": {
         "en": "Always light",
-        "ru": "Всегда светлая",
-        "hy": "Միշտ բաց",
+        "ru": "Всегда свет",
+        "hy": "Միշտ թեթեւ",
         "sv": "Alltid ljust",
         "nb": "Alltid lyst",
         "nl": "Altijd licht",
@@ -14531,8 +14531,8 @@
       },
       "system": {
         "en": "System",
-        "ru": "Системная",
-        "hy": "Համակարգային",
+        "ru": "Система",
+        "hy": "Համակարգ",
         "sv": "System",
         "nb": "System",
         "nl": "Systeem",
@@ -14543,8 +14543,8 @@
       },
       "systemDetail": {
         "en": "Match device setting",
-        "ru": "Как на устройстве",
-        "hy": "Ինչպես սարքում",
+        "ru": "Сопоставить настройки устройства",
+        "hy": "Համապատասխան սարքի կարգավորում",
         "sv": "Matcha enhetens inställning",
         "nb": "Følg enhetens innstilling",
         "nl": "Volg apparaatinstelling",
@@ -14557,8 +14557,8 @@
     "Unit": {
       "band": {
         "en": "Band",
-        "ru": "Band",
-        "hy": "Band",
+        "ru": "Группа",
+        "hy": "Խումբ",
         "sv": "Band",
         "nb": "Band",
         "nl": "Band",
@@ -14570,7 +14570,7 @@
       "bodyWeight": {
         "en": "Body Weight",
         "ru": "Вес тела",
-        "hy": "Մարմնի քաշ",
+        "hy": "Մարմնի քաշը",
         "sv": "Kroppsvikt",
         "nb": "Kroppsvekt",
         "nl": "Lichaamsgewicht",
@@ -14896,7 +14896,7 @@
       "discardWorkout": {
         "en": "Discard Workout",
         "ru": "Отменить тренировку",
-        "hy": "Չեղարկել մարզումը",
+        "hy": "Վերացնել մարզվելը",
         "sv": "Släng träningspasset",
         "nb": "Forkast treningsøkten",
         "nl": "Training weggooien",
@@ -14991,8 +14991,8 @@
       },
       "goHome": {
         "en": "Home",
-        "ru": "На главную",
-        "hy": "Գլխավոր",
+        "ru": "Дом",
+        "hy": "Տուն",
         "sv": "Hem",
         "nb": "Hjem",
         "nl": "Home",
@@ -15039,8 +15039,8 @@
       },
       "noExercisesYet": {
         "en": "No exercises yet. Add one to start logging sets.",
-        "ru": "Пока нет упражнений. Добавь одно, чтобы писать подходы.",
-        "hy": "Դեռ վարժություններ չկան։ Ավելացրու մեկը՝ մոտեցումներ գրանցելու համար։",
+        "ru": "Упражнений пока нет. Добавьте один, чтобы начать регистрацию наборов.",
+        "hy": "Դեռ ոչ մի վարժություն: Ավելացրե՛ք մեկը՝ սկսելու մուտքագրել հավաքածուները:",
         "sv": "Inga övningar än. Lägg till en för att börja logga set.",
         "nb": "Ingen øvelser ennå. Legg til en for å starte logging av sett.",
         "nl": "Nog geen oefeningen. Voeg er één toe om te beginnen met het loggen van sets.",
@@ -15088,7 +15088,7 @@
       "plan.discardTitle": {
         "en": "Discard this plan?",
         "ru": "Отменить этот план?",
-        "hy": "Հրաժարվե՞լ այս պլանից։",
+        "hy": "Չեղարկե՞լ այս պլանը:",
         "sv": "Kassera planen?",
         "nb": "Kaste denne planen?",
         "nl": "Dit plan weggooien?",
@@ -15111,8 +15111,8 @@
       },
       "plan.exercisesEmpty": {
         "en": "No exercises yet. Add a few to plan this session.",
-        "ru": "Упражнений пока нет. Добавьте несколько, чтобы спланировать тренировку.",
-        "hy": "Դեռ վարժություններ չկան։ Ավելացրեք մի քանիսը՝ մարզումը պլանավորելու համար։",
+        "ru": "Упражнений пока нет. Добавьте несколько, чтобы спланировать это занятие.",
+        "hy": "Դեռ ոչ մի վարժություն: Այս նիստը պլանավորելու համար ավելացրեք մի քանիսը:",
         "sv": "Inga övningar än. Lägg till några för att planera passet.",
         "nb": "Ingen øvelser ennå. Legg til noen for å planlegge økten.",
         "nl": "Nog geen oefeningen. Voeg er een paar toe om deze training te plannen.",
@@ -15123,8 +15123,8 @@
       },
       "plan.namePlaceholder": {
         "en": "Session name",
-        "ru": "Название тренировки",
-        "hy": "Մարզման անվանումը",
+        "ru": "Имя сеанса",
+        "hy": "Նիստի անվանումը",
         "sv": "Passets namn",
         "nb": "Navn på økten",
         "nl": "Naam van de training",
@@ -15135,8 +15135,8 @@
       },
       "plan.namePromptMessage": {
         "en": "Give this plan a name so you can find it later.",
-        "ru": "Дайте плану название, чтобы легко найти его позже.",
-        "hy": "Տվեք այս պլանին անվանում, որպեսզի հետո հեշտ գտնեք։",
+        "ru": "Дайте этому плану название, чтобы вы могли найти его позже.",
+        "hy": "Անվանեք այս պլանին, որպեսզի կարողանաք գտնել այն ավելի ուշ:",
         "sv": "Ge planen ett namn så att du hittar den senare.",
         "nb": "Gi planen et navn så du finner den igjen senere.",
         "nl": "Geef dit plan een naam zodat je het later terugvindt.",
@@ -15147,8 +15147,8 @@
       },
       "plan.namePromptTitle": {
         "en": "Name this session",
-        "ru": "Назовите тренировку",
-        "hy": "Անվանեք այս մարզումը",
+        "ru": "Назовите этот сеанс",
+        "hy": "Անվանեք այս նիստը",
         "sv": "Namnge passet",
         "nb": "Gi økten et navn",
         "nl": "Geef deze training een naam",
@@ -15160,7 +15160,7 @@
       "plan.saveTemplateFooter": {
         "en": "Save these exercises as a template without starting a workout.",
         "ru": "Сохраните эти упражнения как шаблон, не начиная тренировку.",
-        "hy": "Պահպանեք այս վարժությունները որպես կաղապար՝ առանց մարզումը սկսելու։",
+        "hy": "Պահպանեք այս վարժությունները որպես ձևանմուշ՝ առանց մարզվելու սկսելու:",
         "sv": "Spara övningarna som en mall utan att starta ett pass.",
         "nb": "Lagre disse øvelsene som en mal uten å starte en økt.",
         "nl": "Bewaar deze oefeningen als sjabloon zonder een training te starten.",
@@ -15183,8 +15183,8 @@
       },
       "plan.startFooter": {
         "en": "The session clock starts when the workout opens — planning time doesn't count.",
-        "ru": "Отсчёт времени начнётся при открытии тренировки — планирование не учитывается.",
-        "hy": "Ժամանակի հաշվարկը սկսվում է մարզումը բացելիս — պլանավորման ժամանակը չի հաշվվում։",
+        "ru": "Отсчет сеанса запускается с началом тренировки — время планирования не учитывается.",
+        "hy": "Նիստի ժամացույցը սկսվում է, երբ մարզումը բացվում է. պլանավորման ժամանակը չի հաշվվում:",
         "sv": "Tiden börjar räknas när passet öppnas — planeringstiden räknas inte.",
         "nb": "Tiden begynner å gå når økten åpnes — planleggingstiden teller ikke.",
         "nl": "De tijd begint te lopen zodra de training opent — plannen telt niet mee.",
@@ -15195,8 +15195,8 @@
       },
       "plan.summary": {
         "en": "Session summary",
-        "ru": "Обзор тренировки",
-        "hy": "Մարզման ամփոփում",
+        "ru": "Итоги сессии",
+        "hy": "Նիստի ամփոփում",
         "sv": "Passöversikt",
         "nb": "Øktoversikt",
         "nl": "Overzicht van de training",
@@ -15207,8 +15207,8 @@
       },
       "plan.summaryEmpty": {
         "en": "Add exercises to see which muscles this session trains.",
-        "ru": "Добавьте упражнения, чтобы увидеть, какие мышцы задействует тренировка.",
-        "hy": "Ավելացրեք վարժություններ՝ տեսնելու, թե որ մկաններն է մարզում այս մարզումը։",
+        "ru": "Добавьте упражнения, чтобы увидеть, какие мышцы тренируются на этом занятии.",
+        "hy": "Ավելացրեք վարժություններ՝ տեսնելու, թե որ մկաններն են մարզվում այս դասընթացը:",
         "sv": "Lägg till övningar för att se vilka muskler passet tränar.",
         "nb": "Legg til øvelser for å se hvilke muskler økten trener.",
         "nl": "Voeg oefeningen toe om te zien welke spieren deze training traint.",
@@ -15219,8 +15219,8 @@
       },
       "plan.title": {
         "en": "Plan Session",
-        "ru": "Планирование тренировки",
-        "hy": "Պլանավորել մարզումը",
+        "ru": "Планирование сессии",
+        "hy": "Պլանի նիստ",
         "sv": "Planera passet",
         "nb": "Planlegg økten",
         "nl": "Training plannen",
@@ -15243,7 +15243,7 @@
       },
       "reorderFooter": {
         "en": "Drag to change order. Logged sets stay with each exercise.",
-        "ru": "Перетащите, чтобы изменить порядок. Записанные подходы сохраняются при каждом упражнении.",
+        "ru": "Перетащите, чтобы изменить порядок. Записанные подходы остаются с каждым упражнением.",
         "hy": "Քաշեք՝ հերթականությունը փոխելու համար: Մուտքագրված հավաքածուները մնում են յուրաքանչյուր վարժությունում:",
         "sv": "Dra för att ändra ordning. Loggade set stannar vid varje övning.",
         "nb": "Dra for å endre rekkefølge. Loggede sett blir værende med hver øvelse.",
@@ -15435,8 +15435,8 @@
       },
       "startBalanced": {
         "en": "Start Balanced",
-        "ru": "Сбалансированная",
-        "hy": "Հավասարակշիռ",
+        "ru": "Начните сбалансированно",
+        "hy": "Սկսեք հավասարակշռված",
         "sv": "Starta balanserad",
         "nb": "Start balansert",
         "nl": "Begin evenwichtig",
@@ -15447,7 +15447,7 @@
       },
       "startBalanced.footer": {
         "en": "Uses your recent training balance to suggest exercises.",
-        "ru": "Использует твой недавний баланс тренировок, чтобы предлагать упражнения.",
+        "ru": "Использует ваш недавний баланс тренировок, чтобы предлагать упражнения.",
         "hy": "Օգտագործում է ձեր վերջին վերապատրաստման հաշվեկշիռը վարժություններ առաջարկելու համար:",
         "sv": "Använder din senaste träningsbalans för att föreslå övningar.",
         "nb": "Bruker den siste treningsbalansen din til å foreslå øvelser.",
@@ -15459,8 +15459,8 @@
       },
       "startBalanced.headline": {
         "en": "Train what you've neglected",
-        "ru": "Тренируйте то, что запустили",
-        "hy": "Մարզեք այն, ինչ անտեսել եք",
+        "ru": "Тренируйте то, чем вы пренебрегали",
+        "hy": "Մարզե՛ք այն, ինչ անտեսել եք",
         "sv": "Träna det du har försummat",
         "nb": "Tren det du har forsømt",
         "nl": "Train wat je hebt verwaarloosd",
@@ -15471,8 +15471,8 @@
       },
       "startBalanced.subtitle": {
         "en": "Pick muscles · suggestions from your stats",
-        "ru": "Выбери мышцы · подсказки по твоей статистике",
-        "hy": "Ընտրիր մկաններ · առաջարկներ քո վիճակագրությունից",
+        "ru": "Выбирайте мышцы · предложения из вашей статистики",
+        "hy": "Ընտրեք մկաններ · առաջարկներ ձեր վիճակագրությունից",
         "sv": "Välj muskler · förslag från din statistik",
         "nb": "Velg muskler · forslag fra statistikken din",
         "nl": "Kies spieren · suggesties uit je statistieken",
@@ -15483,8 +15483,8 @@
       },
       "startEmpty": {
         "en": "Start Empty Workout",
-        "ru": "Начать пустую",
-        "hy": "Սկսել դատարկ",
+        "ru": "Начать пустую тренировку",
+        "hy": "Սկսեք դատարկ մարզվելը",
         "sv": "Starta ett tomt träningspass",
         "nb": "Start tom treningsøkt",
         "nl": "Start een lege training",
@@ -15495,8 +15495,8 @@
       },
       "startEmpty.footer": {
         "en": "Freestyle — pick your exercises, then start.",
-        "ru": "Свободная тренировка — выберите упражнения, затем начните.",
-        "hy": "Ազատ մարզում — ընտրեք վարժությունները, ապա սկսեք։",
+        "ru": "Фристайл — выберите упражнения и приступайте.",
+        "hy": "Ազատ ոճ — ընտրեք ձեր վարժությունները, ապա սկսեք:",
         "sv": "Fritt pass — välj dina övningar och starta sedan.",
         "nb": "Fri økt — velg øvelsene dine, og start.",
         "nl": "Vrije training — kies je oefeningen en start daarna.",
