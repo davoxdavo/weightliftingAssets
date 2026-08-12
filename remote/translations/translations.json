@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786303653,
+  "lastSyncedAt": 1786519947,
   "strings": {
     "Misc": {
       "": {
@@ -568,6 +568,42 @@
         "fr": "Friends",
         "ar": "Friends"
       },
+      "fullName.footer": {
+        "en": "Shown at the top of your account.",
+        "ru": "Shown at the top of your account.",
+        "hy": "Ցուցադրվում է ձեր հաշվի վերևում։",
+        "sv": "Visas högst upp på ditt konto.",
+        "nb": "Vises øverst på kontoen din.",
+        "nl": "Wordt bovenaan je account weergegeven.",
+        "da": "Vises øverst på din konto.",
+        "pl": "Wyświetlane u góry Twojego konta.",
+        "fr": "Affiché en haut de votre compte.",
+        "ar": "يظهر أعلى حسابك."
+      },
+      "fullName.placeholder": {
+        "en": "Your name",
+        "ru": "Your name",
+        "hy": "Ձեր անունը",
+        "sv": "Ditt namn",
+        "nb": "Ditt navn",
+        "nl": "Je naam",
+        "da": "Dit navn",
+        "pl": "Twoje imię",
+        "fr": "Votre nom",
+        "ar": "اسمك"
+      },
+      "fullName.title": {
+        "en": "Full Name",
+        "ru": "Full Name",
+        "hy": "Լրիվ անուն",
+        "sv": "Fullständigt namn",
+        "nb": "Fullt navn",
+        "nl": "Volledige naam",
+        "da": "Fulde navn",
+        "pl": "Imię i nazwisko",
+        "fr": "Nom complet",
+        "ar": "الاسم الكامل"
+      },
       "healthKit.footer": {
         "en": "Sync finished workouts to Apple Health — workout time and optional distance only, never calories.",
         "ru": "Синхронизируйте завершённые тренировки с Apple Health — только время тренировки и, по желанию, дистанция, но никогда калории.",
@@ -639,6 +675,18 @@
         "pl": "Zdrowie jabłka",
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
+      },
+      "language.title": {
+        "en": "Language",
+        "ru": "Language",
+        "hy": "Լեզու",
+        "sv": "Språk",
+        "nb": "Språk",
+        "nl": "Taal",
+        "da": "Sprog",
+        "pl": "Język",
+        "fr": "Langue",
+        "ar": "اللغة"
       },
       "legal.footer": {
         "en": "By continuing, you agree to the Terms and Conditions and Privacy Policy.",
@@ -724,6 +772,18 @@
         "fr": "Signing out or deleting your account does not erase workouts saved on this device. Remote sign-out ends that device’s session when it next syncs.",
         "ar": "Signing out or deleting your account does not erase workouts saved on this device. Remote sign-out ends that device’s session when it next syncs."
       },
+      "manage": {
+        "en": "Manage account",
+        "ru": "Manage account",
+        "hy": "Կառավարել հաշիվը",
+        "sv": "Hantera konto",
+        "nb": "Administrer konto",
+        "nl": "Account beheren",
+        "da": "Administrer konto",
+        "pl": "Zarządzaj kontem",
+        "fr": "Gérer le compte",
+        "ar": "إدارة الحساب"
+      },
       "measurement.footer": {
         "en": "Applies to exercises without their own unit override. History values stay stored in kg/meters.",
         "ru": "Применяется к упражнениям без переопределения собственного блока. Значения истории сохраняются в кг/метрах.",
@@ -771,6 +831,18 @@
         "pl": "Preferencje",
         "fr": "Préférences",
         "ar": "التفضيلات"
+      },
+      "profileDetails.section": {
+        "en": "Profile Details",
+        "ru": "Profile Details",
+        "hy": "Պրոֆիլի տվյալներ",
+        "sv": "Profiluppgifter",
+        "nb": "Profildetaljer",
+        "nl": "Profielgegevens",
+        "da": "Profiloplysninger",
+        "pl": "Dane profilu",
+        "fr": "Détails du profil",
+        "ar": "تفاصيل الملف الشخصي"
       },
       "prompt.continueInsights": {
         "en": "Continue to Insights",
@@ -3807,6 +3879,42 @@
         "pl": "Usunąć ćwiczenie niestandardowe?",
         "fr": "Supprimer l'exercice personnalisé ?",
         "ar": "هل تريد حذف التمرين المخصص؟"
+      },
+      "discardSelectionConfirm": {
+        "en": "Discard",
+        "ru": "Отменить",
+        "hy": "Չեղարկել",
+        "sv": "Förkasta",
+        "nb": "Forkast",
+        "nl": "Verwerpen",
+        "da": "Kassér",
+        "pl": "Odrzuć",
+        "fr": "Abandonner",
+        "ar": "تجاهل"
+      },
+      "discardSelectionMessage": {
+        "en": "You have unsaved exercise selections. Save them or discard?",
+        "ru": "У вас есть несохранённые выбранные упражнения. Сохранить их или отменить?",
+        "hy": "Դուք ունեք չպահպանված ընտրված վարժություններ: Պահպանե՞լ դրանք, թե՞ չեղարկել:",
+        "sv": "Du har osparade övningsval. Spara dem eller förkasta?",
+        "nb": "Du har ulagrede øvelsesvalg. Vil du lagre dem eller forkaste?",
+        "nl": "Je hebt niet-opgeslagen oefeningselecties. Opslaan of verwerpen?",
+        "da": "Du har ugemte øvelsesvalg. Gem dem, eller kassér?",
+        "pl": "Masz niezapisane wybrane ćwiczenia. Zapisać je czy odrzucić?",
+        "fr": "Vous avez des exercices sélectionnés non enregistrés. Les enregistrer ou les abandonner ?",
+        "ar": "لديك تمارين محددة غير محفوظة. هل تريد حفظها أم تجاهلها؟"
+      },
+      "discardSelectionTitle": {
+        "en": "Discard Selection?",
+        "ru": "Отменить выбор?",
+        "hy": "Չեղարկե՞լ ընտրությունը:",
+        "sv": "Förkasta urval?",
+        "nb": "Forkaste utvalg?",
+        "nl": "Selectie verwerpen?",
+        "da": "Kassér valg?",
+        "pl": "Odrzucić wybór?",
+        "fr": "Abandonner la sélection ?",
+        "ar": "هل تريد تجاهل التحديد؟"
       },
       "edit": {
         "en": "Edit Exercise",
@@ -14346,6 +14454,18 @@
         "pl": "Zestawy",
         "fr": "Ensembles",
         "ar": "مجموعات"
+      },
+      "search": {
+        "en": "Search templates",
+        "ru": "Поиск шаблонов",
+        "hy": "Որոնել կաղապարներ",
+        "sv": "Sök mallar",
+        "nb": "Søk maler",
+        "nl": "Zoek sjablonen",
+        "da": "Søg skabeloner",
+        "pl": "Szukaj szablonów",
+        "fr": "Rechercher des modèles",
+        "ar": "بحث القوالب"
       },
       "startWorkout": {
         "en": "Start Workout",
