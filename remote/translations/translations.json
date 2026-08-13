@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786572333,
+  "lastSyncedAt": 1786576261,
   "strings": {
     "Misc": {
       "": {
@@ -162,8 +162,8 @@
       },
       "appearance.title": {
         "en": "Appearance",
-        "ru": "Появление",
-        "hy": "Արտաքին տեսք",
+        "ru": "Оформление",
+        "hy": "Տեսք",
         "sv": "Utseende",
         "nb": "Utseende",
         "nl": "Weergave",
@@ -1437,7 +1437,7 @@
       "rehabThisSession": {
         "en": "Rehab / recovery",
         "ru": "Реабилитация / восстановление",
-        "hy": "Վերականգնում",
+        "hy": "Վերականգնում / վերականգնում",
         "sv": "Rehab / återhämtning",
         "nb": "Rehab / restitusjon",
         "nl": "Rehab / herstel",
@@ -1533,7 +1533,7 @@
       "suggestions.includeSupersets": {
         "en": "Include supersets",
         "ru": "Включить суперсеты",
-        "hy": "Ներառեք սուպերսեթեր",
+        "hy": "Ներառեք սուպերմոտեցումներ",
         "sv": "Inkludera supersets",
         "nb": "Inkluder supersett",
         "nl": "Supersets opnemen",
@@ -1666,7 +1666,7 @@
     "BandLevel": {
       "heavy": {
         "en": "Heavy",
-        "ru": "Тяжелый",
+        "ru": "Тяжёлая",
         "hy": "Ծանր",
         "sv": "Heavy",
         "nb": "Heavy",
@@ -1678,8 +1678,8 @@
       },
       "heavy.short": {
         "en": "Heavy",
-        "ru": "Тяжелый",
-        "hy": "Ծանր",
+        "ru": "Тяж.",
+        "hy": "Ծան.",
         "sv": "Heavy",
         "nb": "Heavy",
         "nl": "Heavy",
@@ -1690,8 +1690,8 @@
       },
       "light": {
         "en": "Light",
-        "ru": "Свет",
-        "hy": "Լույս",
+        "ru": "Лёгкая",
+        "hy": "Թեթև",
         "sv": "Light",
         "nb": "Light",
         "nl": "Light",
@@ -1702,8 +1702,8 @@
       },
       "light.short": {
         "en": "Light",
-        "ru": "Свет",
-        "hy": "Լույս",
+        "ru": "Лёг.",
+        "hy": "Թեթ.",
         "sv": "Light",
         "nb": "Light",
         "nl": "Light",
@@ -1714,7 +1714,7 @@
       },
       "medium": {
         "en": "Medium",
-        "ru": "Середина",
+        "ru": "Средняя",
         "hy": "Միջին",
         "sv": "Medium",
         "nb": "Medium",
@@ -1726,8 +1726,8 @@
       },
       "medium.short": {
         "en": "Med",
-        "ru": "Мед",
-        "hy": "Բժշկ",
+        "ru": "Ср.",
+        "hy": "Միջ.",
         "sv": "Med",
         "nb": "Med",
         "nl": "Med",
@@ -1738,8 +1738,8 @@
       },
       "power": {
         "en": "Power",
-        "ru": "Власть",
-        "hy": "Իշխանություն",
+        "ru": "Максимальная",
+        "hy": "Առավելագույն",
         "sv": "Power",
         "nb": "Power",
         "nl": "Power",
@@ -1750,8 +1750,8 @@
       },
       "power.short": {
         "en": "Power",
-        "ru": "Власть",
-        "hy": "Իշխանություն",
+        "ru": "Макс.",
+        "hy": "Առավ.",
         "sv": "Power",
         "nb": "Power",
         "nl": "Power",
@@ -1862,8 +1862,8 @@
     "Category": {
       "arms": {
         "en": "Arms",
-        "ru": "Оружие",
-        "hy": "Զենք",
+        "ru": "Руки",
+        "hy": "Ձեռքեր",
         "sv": "Vapen",
         "nb": "Våpen",
         "nl": "Armen",
@@ -1874,8 +1874,8 @@
       },
       "back": {
         "en": "Back",
-        "ru": "Назад",
-        "hy": "Ետ",
+        "ru": "Спина",
+        "hy": "Մեջք",
         "sv": "Tillbaka",
         "nb": "Tilbake",
         "nl": "Rug",
@@ -1899,7 +1899,7 @@
       "chest": {
         "en": "Chest",
         "ru": "Грудь",
-        "hy": "Կրծքավանդակը",
+        "hy": "Կրծքավանդակ",
         "sv": "Bröst",
         "nb": "Kiste",
         "nl": "Borst",
@@ -1910,8 +1910,8 @@
       },
       "core": {
         "en": "Core",
-        "ru": "Основной",
-        "hy": "Հիմնական",
+        "ru": "Кор",
+        "hy": "Հիմնային",
         "sv": "Kärna",
         "nb": "Kjerne",
         "nl": "Kern",
@@ -1946,7 +1946,7 @@
       },
       "other": {
         "en": "Other",
-        "ru": "Другой",
+        "ru": "Другое",
         "hy": "Այլ",
         "sv": "Andra",
         "nb": "Annen",
@@ -1959,7 +1959,7 @@
       "shoulders": {
         "en": "Shoulders",
         "ru": "Плечи",
-        "hy": "Ուսերը",
+        "hy": "Ուսեր",
         "sv": "Axlar",
         "nb": "Skuldre",
         "nl": "Schouders",
@@ -1984,7 +1984,7 @@
     "Common": {
       "add": {
         "en": "Add",
-        "ru": "Добавлять",
+        "ru": "Добавить",
         "hy": "Ավելացնել",
         "sv": "Tillägga",
         "nb": "Legge til",
@@ -1996,8 +1996,8 @@
       },
       "apply": {
         "en": "Apply",
-        "ru": "Применять",
-        "hy": "Դիմել",
+        "ru": "Применить",
+        "hy": "Կիրառել",
         "sv": "Tillämpas",
         "nb": "Søke",
         "nl": "Toepassen",
@@ -2020,8 +2020,8 @@
       },
       "clear": {
         "en": "Clear",
-        "ru": "Прозрачный",
-        "hy": "Պարզ",
+        "ru": "Очистить",
+        "hy": "Մաքրել",
         "sv": "Rensa",
         "nb": "Klar",
         "nl": "Duidelijk",
@@ -2032,7 +2032,7 @@
       },
       "close": {
         "en": "Close",
-        "ru": "Закрывать",
+        "ru": "Закрыть",
         "hy": "Փակել",
         "sv": "Nära",
         "nb": "Lukke",
@@ -2056,8 +2056,8 @@
       },
       "done": {
         "en": "Done",
-        "ru": "Сделанный",
-        "hy": "Կատարված է",
+        "ru": "Готово",
+        "hy": "Պատրաստ է",
         "sv": "Klar",
         "nb": "Ferdig",
         "nl": "Klaar",
@@ -2068,7 +2068,7 @@
       },
       "edit": {
         "en": "Edit",
-        "ru": "Редактировать",
+        "ru": "Изменить",
         "hy": "Խմբագրել",
         "sv": "Redigera",
         "nb": "Redigere",
@@ -2080,7 +2080,7 @@
       },
       "save": {
         "en": "Save",
-        "ru": "Сохранять",
+        "ru": "Сохранить",
         "hy": "Պահպանել",
         "sv": "Spara",
         "nb": "Lagre",
@@ -2414,7 +2414,7 @@
       },
       "cardioParams.footer": {
         "en": "Duration or distance is required to complete a set. Other fields are optional.",
-        "ru": "Для завершения сета требуется продолжительность или расстояние. Остальные поля являются необязательными.",
+        "ru": "Для завершения подхода требуется продолжительность или расстояние. Остальные поля являются необязательными.",
         "hy": "Տևողությունը կամ հեռավորությունը պահանջվում է հավաքածուն ավարտելու համար: Այլ դաշտերը պարտադիր չեն:",
         "sv": "Varaktighet eller distans krävs för att slutföra ett set. Andra fält är valfria.",
         "nb": "Varighet eller distanse kreves for å fullføre et sett. Andre felt er valgfrie.",
@@ -4230,7 +4230,7 @@
       },
       "form.fallback.cardio.cue3": {
         "en": "Breathe steadily through the set",
-        "ru": "Дышите ровно во время сета",
+        "ru": "Дышите ровно во время подхода",
         "hy": "Շնչեք անշեղորեն հավաքածուի միջով",
         "sv": "Andas stadigt genom setet",
         "nb": "Pust jevnt gjennom settet",
@@ -5290,7 +5290,7 @@
     "Friends": {
       "accept": {
         "en": "Accept",
-        "ru": "Принимать",
+        "ru": "Принять",
         "hy": "Ընդունել",
         "sv": "Accept",
         "nb": "Accept",
@@ -5327,7 +5327,7 @@
       "decline": {
         "en": "Decline",
         "ru": "Отклонить",
-        "hy": "Անկում",
+        "hy": "Մերժել",
         "sv": "Decline",
         "nb": "Decline",
         "nl": "Decline",
@@ -5518,8 +5518,8 @@
       },
       "pending": {
         "en": "Pending",
-        "ru": "В ожидании",
-        "hy": "Սպասվում է",
+        "ru": "Ожидает",
+        "hy": "Սպասման մեջ",
         "sv": "Pending",
         "nb": "Pending",
         "nl": "Pending",
@@ -5926,7 +5926,7 @@
       },
       "session.accept": {
         "en": "Accept",
-        "ru": "Принимать",
+        "ru": "Принять",
         "hy": "Ընդունել",
         "sv": "Accept",
         "nb": "Accept",
@@ -5975,7 +5975,7 @@
       "session.decline": {
         "en": "Decline",
         "ru": "Отклонить",
-        "hy": "Անկում",
+        "hy": "Մերժել",
         "sv": "Decline",
         "nb": "Decline",
         "nl": "Decline",
@@ -7599,7 +7599,7 @@
       "cadence": {
         "en": "Cadence",
         "ru": "Каденс",
-        "hy": "Cadence",
+        "hy": "Կադենս",
         "sv": "Kadens",
         "nb": "Kadens",
         "nl": "Cadans",
@@ -7611,7 +7611,7 @@
       "cadence.short": {
         "en": "RPM",
         "ru": "об/мин",
-        "hy": "RPM",
+        "hy": "պտ/րոպե",
         "sv": "RPM",
         "nb": "RPM",
         "nl": "toerental",
@@ -7622,8 +7622,8 @@
       },
       "distance": {
         "en": "Distance",
-        "ru": "Расстояние",
-        "hy": "Հեռավորությունը",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն",
         "sv": "Avstånd",
         "nb": "Avstand",
         "nl": "Afstand",
@@ -7634,8 +7634,8 @@
       },
       "duration": {
         "en": "Duration",
-        "ru": "Продолжительность",
-        "hy": "Տևողությունը",
+        "ru": "Длительность",
+        "hy": "Տևողություն",
         "sv": "Varaktighet",
         "nb": "Varighet",
         "nl": "Duur",
@@ -7646,8 +7646,8 @@
       },
       "incline": {
         "en": "Incline",
-        "ru": "наклон",
-        "hy": "Թեքվել",
+        "ru": "Наклон",
+        "hy": "Թեքություն",
         "sv": "Lutning",
         "nb": "Helling",
         "nl": "Helling",
@@ -7658,8 +7658,8 @@
       },
       "incline.short": {
         "en": "Incline",
-        "ru": "наклон",
-        "hy": "Թեքվել",
+        "ru": "Наклон",
+        "hy": "Թեքություն",
         "sv": "Lutning",
         "nb": "Helling",
         "nl": "Helling",
@@ -7708,8 +7708,8 @@
     "LoggingType": {
       "band_reps": {
         "en": "Band × Reps",
-        "ru": "Группа × повторений",
-        "hy": "Խումբ × Կրկն",
+        "ru": "Резинка × Повторения",
+        "hy": "Ռետին × Կրկնություններ",
         "sv": "Band × Reps",
         "nb": "Band × Reps",
         "nl": "Band × Reps",
@@ -7732,8 +7732,8 @@
       },
       "distance": {
         "en": "Distance",
-        "ru": "Расстояние",
-        "hy": "Հեռավորությունը",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն",
         "sv": "Avstånd",
         "nb": "Avstand",
         "nl": "Afstand",
@@ -7744,8 +7744,8 @@
       },
       "duration": {
         "en": "Duration",
-        "ru": "Продолжительность",
-        "hy": "Տևողությունը",
+        "ru": "Длительность",
+        "hy": "Տևողություն",
         "sv": "Varaktighet",
         "nb": "Varighet",
         "nl": "Duur",
@@ -7780,8 +7780,8 @@
       },
       "plain.band_reps.title": {
         "en": "Band and reps",
-        "ru": "Группа и представители",
-        "hy": "Խումբ և ներկայացուցիչ",
+        "ru": "Резинка и повторения",
+        "hy": "Ռետին և կրկնություններ",
         "sv": "Band and reps",
         "nb": "Band and reps",
         "nl": "Band and reps",
@@ -7805,7 +7805,7 @@
       "plain.cardio.title": {
         "en": "Cardio (multi)",
         "ru": "Кардио (мульти)",
-        "hy": "Կարդիո (բազմաթիվ)",
+        "hy": "Կարդիո (բազմակի)",
         "sv": "Konditionsträning (multi)",
         "nb": "Kardio (multi)",
         "nl": "Cardio (meerdere)",
@@ -7828,8 +7828,8 @@
       },
       "plain.distance.title": {
         "en": "Distance",
-        "ru": "Расстояние",
-        "hy": "Հեռավորությունը",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն",
         "sv": "Avstånd",
         "nb": "Avstand",
         "nl": "Afstand",
@@ -7853,7 +7853,7 @@
       "plain.duration.title": {
         "en": "Time",
         "ru": "Время",
-        "hy": "Ժամանակը",
+        "hy": "Ժամանակ",
         "sv": "Tid",
         "nb": "Tid",
         "nl": "Tijd",
@@ -7876,8 +7876,8 @@
       },
       "plain.reps.title": {
         "en": "Reps only",
-        "ru": "Только представители",
-        "hy": "Միայն կրկնողներ",
+        "ru": "Только повторения",
+        "hy": "Միայն կրկնություններ",
         "sv": "Endast reps",
         "nb": "Kun reps",
         "nl": "Alleen vertegenwoordigers",
@@ -7901,7 +7901,7 @@
       "plain.weight_reps.title": {
         "en": "Weight and reps",
         "ru": "Вес и повторения",
-        "hy": "Քաշը և կրկնությունները",
+        "hy": "Քաշ և կրկնություններ",
         "sv": "Vikt och reps",
         "nb": "Vekt og reps",
         "nl": "Gewicht en herhalingen",
@@ -7912,8 +7912,8 @@
       },
       "reps": {
         "en": "Reps",
-        "ru": "Представители",
-        "hy": "Reps",
+        "ru": "Повторения",
+        "hy": "Կրկնություններ",
         "sv": "Reps",
         "nb": "Reps",
         "nl": "Vertegenwoordigers",
@@ -7924,8 +7924,8 @@
       },
       "weight_reps": {
         "en": "Weight × Reps",
-        "ru": "Вес × повторений",
-        "hy": "Քաշ × Կրկն",
+        "ru": "Вес × Повторения",
+        "hy": "Քաշ × Կրկնություններ",
         "sv": "Vikt × Reps",
         "nb": "Vekt × Reps",
         "nl": "Gewicht × herhalingen",
@@ -7938,8 +7938,8 @@
     "Measurement": {
       "imperial": {
         "en": "Imperial",
-        "ru": "Империал",
-        "hy": "Կայսերական",
+        "ru": "Имперская",
+        "hy": "Իմպերիական",
         "sv": "Imperial",
         "nb": "Imperial",
         "nl": "Imperial",
@@ -7962,8 +7962,8 @@
       },
       "metric": {
         "en": "Metric",
-        "ru": "Метрика",
-        "hy": "Մետրիկա",
+        "ru": "Метрическая",
+        "hy": "Մետրական",
         "sv": "Metric",
         "nb": "Metric",
         "nl": "Metric",
@@ -8469,7 +8469,7 @@
       "chapter.supersets.title": {
         "en": "Supersets",
         "ru": "Суперсеты",
-        "hy": "Սուպերսեթներ",
+        "hy": "Սուպերմոտեցումներ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Supersets",
@@ -8829,7 +8829,7 @@
       "gradients.showSuperset": {
         "en": "How supersets use color",
         "ru": "Как суперсеты используют цвет",
-        "hy": "Ինչպես են սուպերսեթերն օգտագործում գույնը",
+        "hy": "Ինչպես են սուպերմոտեցումներն օգտագործում գույնը",
         "sv": "Hur superset använder färg",
         "nb": "Hvordan supersett bruker farger",
         "nl": "Hoe supersets kleur gebruiken",
@@ -8841,7 +8841,7 @@
       "gradients.supersetBody": {
         "en": "Supersets combine member muscle colors into one soft multi-stop accent.",
         "ru": "Суперсеты объединяют цвета мышц членов в один мягкий многоступенчатый акцент.",
-        "hy": "Սուպերսեթները միավորում են անդամ մկանների գույները մեկ փափուկ բազմաֆունկցիոնալ շեշտադրմամբ:",
+        "hy": "Սուպերմոտեցումները միավորում են անդամ մկանների գույները մեկ փափուկ բազմաֆունկցիոնալ շեշտադրմամբ:",
         "sv": "Superset kombinerar medlemmarnas muskelfärger till en mjuk accent med flera stopp.",
         "nb": "Supersett kombinerer medlemmers muskelfarger til en myk multi-stop aksent.",
         "nl": "Supersets combineren de spierkleuren van de leden tot één zacht multi-stop accent.",
@@ -10005,7 +10005,7 @@
       "personal.supersets": {
         "en": "Supersets",
         "ru": "Суперсеты",
-        "hy": "Սուպերսեթներ",
+        "hy": "Սուպերմոտեցումներ",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Supersets",
@@ -10437,7 +10437,7 @@
       "superset.phase4": {
         "en": "Group as a superset",
         "ru": "Группа как суперсет",
-        "hy": "Խումբը որպես սուպերսեթ",
+        "hy": "Խումբը որպես սուպերմոտեցում",
         "sv": "Gruppera som en superset",
         "nb": "Grupper som et supersett",
         "nl": "Groep als een superset",
@@ -10461,7 +10461,7 @@
       "superset.title": {
         "en": "Supersets keep complex work organized",
         "ru": "Суперсеты помогают организовать сложную работу.",
-        "hy": "Սուպերսեթները կազմակերպված են պահում բարդ աշխատանքը",
+        "hy": "Սուպերմոտեցումները կազմակերպված են պահում բարդ աշխատանքը",
         "sv": "Superset håller komplext arbete organiserat",
         "nb": "Supersett holder komplekst arbeid organisert",
         "nl": "Supersets houden complex werk georganiseerd",
@@ -10473,7 +10473,7 @@
       "superset.why": {
         "en": "Supersets help organize complex workouts and keep paired lifts together.",
         "ru": "Суперсеты помогают организовать сложные тренировки и объединить парные упражнения.",
-        "hy": "Սուպերսեթներն օգնում են կազմակերպել բարդ մարզումներ և միասին պահել զուգակցված վերելակները:",
+        "hy": "Սուպերմոտեցումներն օգնում են կազմակերպել բարդ մարզումներ և միասին պահել զուգակցված վերելակները:",
         "sv": "Superset hjälper till att organisera komplexa träningspass och hålla ihop parade lyft.",
         "nb": "Supersett hjelper til med å organisere komplekse treningsøkter og holde sammenkoblede løft.",
         "nl": "Supersets helpen bij het organiseren van complexe trainingen en houden gekoppelde liften bij elkaar.",
@@ -10786,7 +10786,7 @@
       },
       "noHistory": {
         "en": "No history yet — log your first set.",
-        "ru": "Истории пока нет — запишите свой первый сет.",
+        "ru": "Истории пока нет — запишите свой первый подход.",
         "hy": "Դեռևս պատմություն չկա. գրանցեք ձեր առաջին հավաքածուն:",
         "sv": "Ingen historik ännu - logga ditt första set.",
         "nb": "Ingen historikk ennå - logg ditt første sett.",
@@ -10888,8 +10888,8 @@
       },
       "farthest_distance": {
         "en": "Farthest distance",
-        "ru": "Самое дальнее расстояние",
-        "hy": "Ամենահեռավոր հեռավորությունը",
+        "ru": "Наибольшая дистанция",
+        "hy": "Ամենամեծ հեռավորություն",
         "sv": "Längsta avståndet",
         "nb": "Lengste avstand",
         "nl": "Verste afstand",
@@ -10900,8 +10900,8 @@
       },
       "heaviest_weight": {
         "en": "Heaviest weight",
-        "ru": "Самый тяжелый вес",
-        "hy": "Ամենածանր քաշը",
+        "ru": "Максимальный вес",
+        "hy": "Առավելագույն քաշ",
         "sv": "Den tyngsta vikten",
         "nb": "Den tyngste vekten",
         "nl": "Zwaarste gewicht",
@@ -10912,8 +10912,8 @@
       },
       "longest_duration": {
         "en": "Longest duration",
-        "ru": "Самая длинная продолжительность",
-        "hy": "Ամենաերկար տեւողությունը",
+        "ru": "Наибольшая длительность",
+        "hy": "Ամենաերկար տևողություն",
         "sv": "Längsta varaktighet",
         "nb": "Lengste varighet",
         "nl": "Langste duur",
@@ -10924,8 +10924,8 @@
       },
       "max_reps": {
         "en": "Max reps",
-        "ru": "Макс. повторений",
-        "hy": "Առավելագույն կրկնողություններ",
+        "ru": "Максимум повторений",
+        "hy": "Առավելագույն կրկնություններ",
         "sv": "Max reps",
         "nb": "Maks reps",
         "nl": "Maximale herhalingen",
@@ -11581,7 +11581,7 @@
       "timer.supersetTitle": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերսեթ",
+        "hy": "Սուպերմոտեցում",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -11958,8 +11958,8 @@
       },
       "allPrimary": {
         "en": "All primary",
-        "ru": "Все первичные",
-        "hy": "Բոլորը առաջնային",
+        "ru": "Все основные",
+        "hy": "Բոլոր հիմնականները",
         "sv": "Alla primära",
         "nb": "Alle primære",
         "nl": "Allemaal primair",
@@ -11971,7 +11971,7 @@
       "arms.biceps": {
         "en": "Biceps",
         "ru": "Бицепс",
-        "hy": "Biceps",
+        "hy": "Բիցեպս",
         "sv": "Biceps",
         "nb": "Biceps",
         "nl": "Biceps",
@@ -11983,7 +11983,7 @@
       "arms.biceps.workout": {
         "en": "Biceps",
         "ru": "Бицепс",
-        "hy": "Biceps",
+        "hy": "Բիցեպս",
         "sv": "Biceps",
         "nb": "Biceps",
         "nl": "Biceps",
@@ -12018,8 +12018,8 @@
       },
       "arms.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12030,8 +12030,8 @@
       },
       "arms.general.workout": {
         "en": "Arms",
-        "ru": "Оружие",
-        "hy": "Զենք",
+        "ru": "Руки",
+        "hy": "Ձեռքեր",
         "sv": "Vapen",
         "nb": "Våpen",
         "nl": "Armen",
@@ -12043,7 +12043,7 @@
       "arms.triceps": {
         "en": "Triceps",
         "ru": "Трицепс",
-        "hy": "Triceps",
+        "hy": "Տրիցեպս",
         "sv": "Triceps",
         "nb": "Triceps",
         "nl": "Triceps",
@@ -12055,7 +12055,7 @@
       "arms.triceps.workout": {
         "en": "Triceps",
         "ru": "Трицепс",
-        "hy": "Triceps",
+        "hy": "Տրիցեպս",
         "sv": "Triceps",
         "nb": "Triceps",
         "nl": "Triceps",
@@ -12066,8 +12066,8 @@
       },
       "back.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12078,8 +12078,8 @@
       },
       "back.general.workout": {
         "en": "Back",
-        "ru": "Назад",
-        "hy": "Ետ",
+        "ru": "Спина",
+        "hy": "Մեջք",
         "sv": "Tillbaka",
         "nb": "Tilbake",
         "nl": "Rug",
@@ -12090,8 +12090,8 @@
       },
       "back.lats": {
         "en": "Lats",
-        "ru": "лат",
-        "hy": "Լատս",
+        "ru": "Широчайшие",
+        "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
         "nl": "Lat",
@@ -12102,8 +12102,8 @@
       },
       "back.lats.workout": {
         "en": "Lats",
-        "ru": "лат",
-        "hy": "Լատս",
+        "ru": "Широчайшие",
+        "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
         "nl": "Lat",
@@ -12114,8 +12114,8 @@
       },
       "back.lower_back": {
         "en": "Lower back",
-        "ru": "Нижняя часть спины",
-        "hy": "Մեջքի ստորին հատվածը",
+        "ru": "Поясница",
+        "hy": "Մեջքի ստորին հատված",
         "sv": "Nedre delen av ryggen",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
@@ -12126,8 +12126,8 @@
       },
       "back.lower_back.workout": {
         "en": "Lower back",
-        "ru": "Нижняя часть спины",
-        "hy": "Մեջքի ստորին հատվածը",
+        "ru": "Поясница",
+        "hy": "Մեջքի ստորին հատված",
         "sv": "Nedre delen av ryggen",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
@@ -12138,8 +12138,8 @@
       },
       "back.traps": {
         "en": "Traps",
-        "ru": "Ловушки",
-        "hy": "Թակարդներ",
+        "ru": "Трапеции",
+        "hy": "Սեղանաձև մկաններ",
         "sv": "Fällor",
         "nb": "Feller",
         "nl": "Vallen",
@@ -12150,8 +12150,8 @@
       },
       "back.traps.workout": {
         "en": "Traps",
-        "ru": "Ловушки",
-        "hy": "Թակարդներ",
+        "ru": "Трапеции",
+        "hy": "Սեղանաձև մկաններ",
         "sv": "Fällor",
         "nb": "Feller",
         "nl": "Vallen",
@@ -12162,8 +12162,8 @@
       },
       "back.upper_back": {
         "en": "Upper back",
-        "ru": "Верхняя часть спины",
-        "hy": "Վերին մեջքի",
+        "ru": "Верх спины",
+        "hy": "Մեջքի վերին հատված",
         "sv": "Övre rygg",
         "nb": "Øvre rygg",
         "nl": "Bovenrug",
@@ -12174,8 +12174,8 @@
       },
       "back.upper_back.workout": {
         "en": "Upper back",
-        "ru": "Верхняя часть спины",
-        "hy": "Վերին մեջքի",
+        "ru": "Верх спины",
+        "hy": "Մեջքի վերին հատված",
         "sv": "Övre rygg",
         "nb": "Øvre rygg",
         "nl": "Bovenrug",
@@ -12186,8 +12186,8 @@
       },
       "chest.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12199,7 +12199,7 @@
       "chest.general.workout": {
         "en": "Chest",
         "ru": "Грудь",
-        "hy": "Կրծքավանդակը",
+        "hy": "Կրծքավանդակ",
         "sv": "Bröst",
         "nb": "Kiste",
         "nl": "Borst",
@@ -12210,7 +12210,7 @@
       },
       "chest.lower": {
         "en": "Lower",
-        "ru": "Ниже",
+        "ru": "Низ",
         "hy": "Ստորին",
         "sv": "Lägre",
         "nb": "Senke",
@@ -12222,8 +12222,8 @@
       },
       "chest.lower.workout": {
         "en": "Lower chest",
-        "ru": "Нижняя часть груди",
-        "hy": "Կրծքավանդակի ստորին հատվածը",
+        "ru": "Низ груди",
+        "hy": "Կրծքի ստորին հատված",
         "sv": "Nedre bröstet",
         "nb": "Nedre bryst",
         "nl": "Lagere borst",
@@ -12234,8 +12234,8 @@
       },
       "chest.mid": {
         "en": "Mid",
-        "ru": "Средний",
-        "hy": "միջն",
+        "ru": "Середина",
+        "hy": "Միջին",
         "sv": "Mitt",
         "nb": "Midt",
         "nl": "Midden",
@@ -12247,7 +12247,7 @@
       "chest.mid.workout": {
         "en": "Mid chest",
         "ru": "Середина груди",
-        "hy": "Կրծքավանդակի կեսը",
+        "hy": "Կրծքի միջին հատված",
         "sv": "Mitt på bröstet",
         "nb": "Midt på brystet",
         "nl": "Midden borst",
@@ -12258,8 +12258,8 @@
       },
       "chest.serratus": {
         "en": "Serratus",
-        "ru": "Серратус",
-        "hy": "Serratus",
+        "ru": "Зубчатые",
+        "hy": "Ատամնաձև մկաններ",
         "sv": "Serratus",
         "nb": "Serratus",
         "nl": "Serratus",
@@ -12270,8 +12270,8 @@
       },
       "chest.serratus.workout": {
         "en": "Serratus",
-        "ru": "Серратус",
-        "hy": "Serratus",
+        "ru": "Зубчатые",
+        "hy": "Ատամնաձև մկաններ",
         "sv": "Serratus",
         "nb": "Serratus",
         "nl": "Serratus",
@@ -12282,7 +12282,7 @@
       },
       "chest.upper": {
         "en": "Upper",
-        "ru": "Верхний",
+        "ru": "Верх",
         "hy": "Վերին",
         "sv": "Övre",
         "nb": "Øverste",
@@ -12294,8 +12294,8 @@
       },
       "chest.upper.workout": {
         "en": "Upper chest",
-        "ru": "Верхняя часть груди",
-        "hy": "Կրծքավանդակի վերին մասը",
+        "ru": "Верх груди",
+        "hy": "Կրծքի վերին հատված",
         "sv": "Övre bröstet",
         "nb": "Øvre bryst",
         "nl": "Bovenste borst",
@@ -12306,8 +12306,8 @@
       },
       "core.abs": {
         "en": "Abs",
-        "ru": "пресс",
-        "hy": "Աբս",
+        "ru": "Пресс",
+        "hy": "Որովայնի մկաններ",
         "sv": "Abs",
         "nb": "Abs",
         "nl": "Abs",
@@ -12318,8 +12318,8 @@
       },
       "core.abs.workout": {
         "en": "Abs",
-        "ru": "пресс",
-        "hy": "Աբս",
+        "ru": "Пресс",
+        "hy": "Որովայնի մկաններ",
         "sv": "Abs",
         "nb": "Abs",
         "nl": "Abs",
@@ -12330,8 +12330,8 @@
       },
       "core.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12342,8 +12342,8 @@
       },
       "core.general.workout": {
         "en": "Core",
-        "ru": "Основной",
-        "hy": "Հիմնական",
+        "ru": "Кор",
+        "hy": "Հիմնային",
         "sv": "Kärna",
         "nb": "Kjerne",
         "nl": "Kern",
@@ -12355,7 +12355,7 @@
       "core.obliques": {
         "en": "Obliques",
         "ru": "Косые",
-        "hy": "Շեղիկներ",
+        "hy": "Շեղ մկաններ",
         "sv": "Obliques",
         "nb": "Skrå",
         "nl": "Obliques",
@@ -12367,7 +12367,7 @@
       "core.obliques.workout": {
         "en": "Obliques",
         "ru": "Косые",
-        "hy": "Շեղիկներ",
+        "hy": "Շեղ մկաններ",
         "sv": "Obliques",
         "nb": "Skrå",
         "nl": "Obliques",
@@ -12390,8 +12390,8 @@
       },
       "core.stability.workout": {
         "en": "Core stability",
-        "ru": "Основная стабильность",
-        "hy": "Հիմնական կայունություն",
+        "ru": "Стабильность кора",
+        "hy": "Հիմնային կայունություն",
         "sv": "Kärnstabilitet",
         "nb": "Kjernestabilitet",
         "nl": "Kernstabiliteit",
@@ -12402,8 +12402,8 @@
       },
       "diagram": {
         "en": "Target region",
-        "ru": "Целевой регион",
-        "hy": "Թիրախային շրջան",
+        "ru": "Целевая область",
+        "hy": "Թիրախային հատված",
         "sv": "Målregion",
         "nb": "Målregion",
         "nl": "Doelregio",
@@ -12462,8 +12462,8 @@
       },
       "legs.calves": {
         "en": "Calves",
-        "ru": "Телята",
-        "hy": "Հորթեր",
+        "ru": "Икры",
+        "hy": "Սրունքի մկաններ",
         "sv": "Kalvar",
         "nb": "Kalver",
         "nl": "Kalveren",
@@ -12474,8 +12474,8 @@
       },
       "legs.calves.workout": {
         "en": "Calves",
-        "ru": "Телята",
-        "hy": "Հորթեր",
+        "ru": "Икры",
+        "hy": "Սրունքի մկաններ",
         "sv": "Kalvar",
         "nb": "Kalver",
         "nl": "Kalveren",
@@ -12486,8 +12486,8 @@
       },
       "legs.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12511,7 +12511,7 @@
       "legs.glutes": {
         "en": "Glutes",
         "ru": "Ягодицы",
-        "hy": "Սնձաններ",
+        "hy": "Հետույքի մկաններ",
         "sv": "Glutes",
         "nb": "Glutes",
         "nl": "Bilspieren",
@@ -12523,7 +12523,7 @@
       "legs.glutes.workout": {
         "en": "Glutes",
         "ru": "Ягодицы",
-        "hy": "Սնձաններ",
+        "hy": "Հետույքի մկաններ",
         "sv": "Glutes",
         "nb": "Glutes",
         "nl": "Bilspieren",
@@ -12534,8 +12534,8 @@
       },
       "legs.hamstrings": {
         "en": "Hamstrings",
-        "ru": "Подколенные сухожилия",
-        "hy": "Համստրինգ",
+        "ru": "Бицепс бедра",
+        "hy": "Ազդրի հետևի մկաններ",
         "sv": "Hamstrings",
         "nb": "Hamstrings",
         "nl": "Hamstrings",
@@ -12546,8 +12546,8 @@
       },
       "legs.hamstrings.workout": {
         "en": "Hamstrings",
-        "ru": "Подколенные сухожилия",
-        "hy": "Համստրինգ",
+        "ru": "Бицепс бедра",
+        "hy": "Ազդրի հետևի մկաններ",
         "sv": "Hamstrings",
         "nb": "Hamstrings",
         "nl": "Hamstrings",
@@ -12558,8 +12558,8 @@
       },
       "legs.hips": {
         "en": "Hips",
-        "ru": "Бедра",
-        "hy": "Հիպեր",
+        "ru": "Бёдра",
+        "hy": "Կոնքեր",
         "sv": "Höfter",
         "nb": "Hofter",
         "nl": "Heupen",
@@ -12570,8 +12570,8 @@
       },
       "legs.hips.workout": {
         "en": "Hips",
-        "ru": "Бедра",
-        "hy": "Հիպեր",
+        "ru": "Бёдра",
+        "hy": "Կոնքեր",
         "sv": "Höfter",
         "nb": "Hofter",
         "nl": "Heupen",
@@ -12582,8 +12582,8 @@
       },
       "legs.quads": {
         "en": "Quads",
-        "ru": "Четверные квадрицепсы",
-        "hy": "Քառյակներ",
+        "ru": "Квадрицепсы",
+        "hy": "Քառագլուխ մկաններ",
         "sv": "Fyrhjulingar",
         "nb": "Quads",
         "nl": "Vierlingen",
@@ -12594,8 +12594,8 @@
       },
       "legs.quads.workout": {
         "en": "Quads",
-        "ru": "Четверные квадрицепсы",
-        "hy": "Քառյակներ",
+        "ru": "Квадрицепсы",
+        "hy": "Քառագլուխ մկաններ",
         "sv": "Fyrhjulingar",
         "nb": "Quads",
         "nl": "Vierlingen",
@@ -12607,7 +12607,7 @@
       "picker": {
         "en": "Target muscle",
         "ru": "Целевая мышца",
-        "hy": "Թիրախային մկանները",
+        "hy": "Թիրախային մկան",
         "sv": "Målmuskel",
         "nb": "Mål muskel",
         "nl": "Doel spier",
@@ -12619,7 +12619,7 @@
       "picker.primary": {
         "en": "Primary target",
         "ru": "Основная цель",
-        "hy": "Առաջնային թիրախ",
+        "hy": "Հիմնական թիրախ",
         "sv": "Primärt mål",
         "nb": "Primært mål",
         "nl": "Primair doelwit",
@@ -12631,7 +12631,7 @@
       "picker.secondary": {
         "en": "Secondary target",
         "ru": "Вторичная цель",
-        "hy": "Երկրորդական թիրախ",
+        "hy": "Երկրորդային թիրախ",
         "sv": "Sekundärt mål",
         "nb": "Sekundært mål",
         "nl": "Secundair doel",
@@ -12679,7 +12679,7 @@
       "shoulders.front": {
         "en": "Front delts",
         "ru": "Передние дельты",
-        "hy": "Առջևի դելտեր",
+        "hy": "Առջևի դելտաներ",
         "sv": "Främre delts",
         "nb": "Deler foran",
         "nl": "Voorste delta's",
@@ -12691,7 +12691,7 @@
       "shoulders.front.workout": {
         "en": "Front deltoids",
         "ru": "Передние дельты",
-        "hy": "Առջևի դելտոիդներ",
+        "hy": "Առջևի դելտաներ",
         "sv": "Främre deltoider",
         "nb": "Deltoider foran",
         "nl": "Voorste deltaspieren",
@@ -12702,8 +12702,8 @@
       },
       "shoulders.general": {
         "en": "General",
-        "ru": "Общий",
-        "hy": "Գեներալ",
+        "ru": "Общее",
+        "hy": "Ընդհանուր",
         "sv": "Allmän",
         "nb": "General",
         "nl": "Algemeen",
@@ -12715,7 +12715,7 @@
       "shoulders.general.workout": {
         "en": "Shoulders",
         "ru": "Плечи",
-        "hy": "Ուսերը",
+        "hy": "Ուսեր",
         "sv": "Axlar",
         "nb": "Skuldre",
         "nl": "Schouders",
@@ -12726,7 +12726,7 @@
       },
       "shoulders.rear": {
         "en": "Rear",
-        "ru": "Задний",
+        "ru": "Задние",
         "hy": "Հետևի",
         "sv": "Bak",
         "nb": "Bak",
@@ -12738,8 +12738,8 @@
       },
       "shoulders.rear.workout": {
         "en": "Rear deltoids",
-        "ru": "Задние дельтоиды",
-        "hy": "Հետևի դելտոիդներ",
+        "ru": "Задние дельты",
+        "hy": "Հետևի դելտաներ",
         "sv": "Bakre deltoider",
         "nb": "Bakre deltoider",
         "nl": "Achterste deltaspieren",
@@ -12750,8 +12750,8 @@
       },
       "shoulders.side": {
         "en": "Side",
-        "ru": "Сторона",
-        "hy": "Կողք",
+        "ru": "Средние",
+        "hy": "Կողային",
         "sv": "Sida",
         "nb": "Side",
         "nl": "Kant",
@@ -12762,8 +12762,8 @@
       },
       "shoulders.side.workout": {
         "en": "Side deltoids",
-        "ru": "Боковые дельтоиды",
-        "hy": "Կողմնակի դելտոիդներ",
+        "ru": "Средние дельты",
+        "hy": "Կողային դելտաներ",
         "sv": "Sida deltoider",
         "nb": "Sidedeltoider",
         "nl": "Zijdeltoïden",
@@ -13031,7 +13031,7 @@
       "defaultName": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերսեթ",
+        "hy": "Սուպերմոտեցում",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -13115,7 +13115,7 @@
       "filter.a11y": {
         "en": "Filter supersets by muscle group",
         "ru": "Фильтровать суперсеты по группам мышц",
-        "hy": "Զտել սուպերսեթերը ըստ մկանների խմբի",
+        "hy": "Զտել սուպերմոտեցումները ըստ մկանների խմբի",
         "sv": "Filtrera superset efter muskelgrupp",
         "nb": "Filtrer supersett etter muskelgruppe",
         "nl": "Filter supersets op spiergroep",
@@ -13139,7 +13139,7 @@
       "filter.empty": {
         "en": "No supersets for these muscles",
         "ru": "Никаких суперсетов для этих мышц.",
-        "hy": "Այս մկանների համար սուպերսեթներ չկան",
+        "hy": "Այս մկանների համար սուպերմոտեցումներ չկան",
         "sv": "Inga superset för dessa muskler",
         "nb": "Ingen supersett for disse musklene",
         "nl": "Geen supersets voor deze spieren",
@@ -13187,7 +13187,7 @@
       "libraryEmpty": {
         "en": "No Supersets Yet",
         "ru": "Суперсетов пока нет",
-        "hy": "Սուպերսեթեր դեռ չկան",
+        "hy": "Սուպերմոտեցումներ դեռ չկան",
         "sv": "Inga superset ännu",
         "nb": "Ingen supersett ennå",
         "nl": "Nog geen supersets",
@@ -13247,7 +13247,7 @@
       "mineEmpty": {
         "en": "No custom supersets yet. Create one or customize a default.",
         "ru": "Специальных суперсетов пока нет. Создайте его или настройте значение по умолчанию.",
-        "hy": "Առայժմ հատուկ սուպերսեթեր չկան: Ստեղծեք մեկը կամ հարմարեցրեք լռելյայն:",
+        "hy": "Առայժմ հատուկ սուպերմոտեցումներ չկան: Ստեղծեք մեկը կամ հարմարեցրեք լռելյայն:",
         "sv": "Inga anpassade superset ännu. Skapa en eller anpassa en standard.",
         "nb": "Ingen egendefinerte supersett ennå. Opprett en eller tilpass en standard.",
         "nl": "Nog geen aangepaste supersets. Maak er een of pas een standaard aan.",
@@ -13307,7 +13307,7 @@
       "removeAllTitle": {
         "en": "Remove Entire Superset?",
         "ru": "Удалить весь суперсет?",
-        "hy": "Հեռացնե՞լ ամբողջ սուպերսեթը:",
+        "hy": "Հեռացնե՞լ ամբողջ սուպերմոտեցումը:",
         "sv": "Ta bort hela Superset?",
         "nb": "Vil du fjerne hele supersettet?",
         "nl": "Hele Superset verwijderen?",
@@ -13319,7 +13319,7 @@
       "reorderFooter": {
         "en": "Supersets move as one block.",
         "ru": "Суперсеты движутся как один блок.",
-        "hy": "Սուպերսեթները շարժվում են որպես մեկ բլոկի:",
+        "hy": "Սուպերմոտեցումները շարժվում են որպես մեկ բլոկի:",
         "sv": "Superset rör sig som ett block.",
         "nb": "Supersett beveger seg som én blokk.",
         "nl": "Supersets bewegen als één blok.",
@@ -13367,7 +13367,7 @@
       "section.mine": {
         "en": "My Supersets",
         "ru": "Мои суперсеты",
-        "hy": "Իմ սուպերսեթները",
+        "hy": "Իմ սուպերմոտեցումները",
         "sv": "Mina Superset",
         "nb": "Mine supersett",
         "nl": "Mijn supersets",
@@ -13379,7 +13379,7 @@
       "sectionLabel": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերսեթ",
+        "hy": "Սուպերմոտեցում",
         "sv": "Superset",
         "nb": "Supersett",
         "nl": "Superset",
@@ -13391,7 +13391,7 @@
       "selectMembersHint": {
         "en": "Select at least two exercises to link as a superset.",
         "ru": "Выберите как минимум два упражнения, чтобы объединить их в суперсет.",
-        "hy": "Ընտրեք առնվազն երկու վարժություն՝ որպես սուպերսեթ կապելու համար:",
+        "hy": "Ընտրեք առնվազն երկու վարժություն՝ որպես սուպերմոտեցում կապելու համար:",
         "sv": "Välj minst två övningar att länka som superset.",
         "nb": "Velg minst to øvelser som skal kobles til som et supersett.",
         "nl": "Selecteer minimaal twee oefeningen om als superset te koppelen.",
@@ -13573,7 +13573,7 @@
       "entity.superset": {
         "en": "Superset",
         "ru": "Суперсет",
-        "hy": "Սուպերսեթ",
+        "hy": "Սուպերմոտեցում",
         "sv": "Superset",
         "nb": "Superset",
         "nl": "Superset",
@@ -14483,8 +14483,8 @@
     "Theme": {
       "dark": {
         "en": "Dark",
-        "ru": "Темный",
-        "hy": "Մութ",
+        "ru": "Тёмная",
+        "hy": "Մուգ",
         "sv": "Mörkt",
         "nb": "Mørkt",
         "nl": "Donker",
@@ -14495,8 +14495,8 @@
       },
       "darkDetail": {
         "en": "Always dark",
-        "ru": "Всегда темно",
-        "hy": "Միշտ մութ",
+        "ru": "Всегда тёмная",
+        "hy": "Միշտ մուգ",
         "sv": "Alltid mörkt",
         "nb": "Alltid mørkt",
         "nl": "Altijd donker",
@@ -14507,8 +14507,8 @@
       },
       "light": {
         "en": "Light",
-        "ru": "Свет",
-        "hy": "Լույս",
+        "ru": "Светлая",
+        "hy": "Բաց",
         "sv": "Ljust",
         "nb": "Lyst",
         "nl": "Licht",
@@ -14519,8 +14519,8 @@
       },
       "lightDetail": {
         "en": "Always light",
-        "ru": "Всегда свет",
-        "hy": "Միշտ թեթեւ",
+        "ru": "Всегда светлая",
+        "hy": "Միշտ բաց",
         "sv": "Alltid ljust",
         "nb": "Alltid lyst",
         "nl": "Altijd licht",
@@ -14531,8 +14531,8 @@
       },
       "system": {
         "en": "System",
-        "ru": "Система",
-        "hy": "Համակարգ",
+        "ru": "Как в системе",
+        "hy": "Համակարգային",
         "sv": "System",
         "nb": "System",
         "nl": "Systeem",
@@ -14543,8 +14543,8 @@
       },
       "systemDetail": {
         "en": "Match device setting",
-        "ru": "Сопоставить настройки устройства",
-        "hy": "Համապատասխան սարքի կարգավորում",
+        "ru": "Как в настройках устройства",
+        "hy": "Ըստ սարքի կարգավորման",
         "sv": "Matcha enhetens inställning",
         "nb": "Følg enhetens innstilling",
         "nl": "Volg apparaatinstelling",
@@ -14557,8 +14557,8 @@
     "Unit": {
       "band": {
         "en": "Band",
-        "ru": "Группа",
-        "hy": "Խումբ",
+        "ru": "Резинка",
+        "hy": "Ռետին",
         "sv": "Band",
         "nb": "Band",
         "nl": "Band",
@@ -14569,8 +14569,8 @@
       },
       "bodyWeight": {
         "en": "Body Weight",
-        "ru": "Вес тела",
-        "hy": "Մարմնի քաշը",
+        "ru": "Свой вес",
+        "hy": "Սեփական քաշ",
         "sv": "Kroppsvikt",
         "nb": "Kroppsvekt",
         "nl": "Lichaamsgewicht",
@@ -14581,8 +14581,8 @@
       },
       "distance": {
         "en": "Distance",
-        "ru": "Расстояние",
-        "hy": "Հեռավորությունը",
+        "ru": "Дистанция",
+        "hy": "Հեռավորություն",
         "sv": "Avstånd",
         "nb": "Avstand",
         "nl": "Afstand",
@@ -14593,7 +14593,7 @@
       },
       "hr": {
         "en": "hr",
-        "ru": "час",
+        "ru": "ч",
         "hy": "ժ",
         "sv": "hr",
         "nb": "hr",
@@ -14642,7 +14642,7 @@
       "lb": {
         "en": "lb",
         "ru": "фунт",
-        "hy": "լբ",
+        "hy": "ֆունտ",
         "sv": "lb",
         "nb": "lb",
         "nl": "pond",
@@ -14665,8 +14665,8 @@
       },
       "mi": {
         "en": "mi",
-        "ru": "ми",
-        "hy": "մի",
+        "ru": "миля",
+        "hy": "մղոն",
         "sv": "mi",
         "nb": "mi",
         "nl": "mi",
@@ -14678,7 +14678,7 @@
       "min": {
         "en": "min",
         "ru": "мин",
-        "hy": "ր",
+        "hy": "րոպե",
         "sv": "min",
         "nb": "min",
         "nl": "min",
@@ -14689,7 +14689,7 @@
       },
       "mph": {
         "en": "mph",
-        "ru": "миль в час",
+        "ru": "миль/ч",
         "hy": "մղոն/ժ",
         "sv": "mph",
         "nb": "mph",
@@ -14701,8 +14701,8 @@
       },
       "reps": {
         "en": "reps",
-        "ru": "представители",
-        "hy": "կրկնողներ",
+        "ru": "повт.",
+        "hy": "կրկն.",
         "sv": "reps",
         "nb": "reps",
         "nl": "herhalingen",
@@ -14726,7 +14726,7 @@
       "time": {
         "en": "Time",
         "ru": "Время",
-        "hy": "Ժամանակը",
+        "hy": "Ժամանակ",
         "sv": "Tid",
         "nb": "Tid",
         "nl": "Tijd",

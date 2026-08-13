@@ -41,8 +41,31 @@ ROOT = Path(__file__).resolve().parents[1]
 LOCALES_DIR = ROOT / "remote/translations/locales"
 CACHE_PATH = ROOT / "scripts/.translate_cache.json"
 FAILURES_PATH = ROOT / "scripts/.translate_failures.json"
+GLOSSARY_PATH = ROOT / "scripts/glossary.json"
 
 TARGET_LOCALES = ("ru", "hy")
+
+# Sport-domain term fixes applied to machine output only (never to glossary values).
+# Google renders gym vocabulary literally inside longer sentences; these are the
+# recurring offenders. Keep the patterns narrow — they run over whole sentences.
+TERM_FIXUPS: dict[str, list[tuple[str, str]]] = {
+    "ru": [
+        (r"\bсеты\b", "подходы"),
+        (r"\bсетов\b", "подходов"),
+        (r"\bсета\b", "подхода"),
+        (r"\bсет\b", "подход"),
+        (r"\bрепы\b", "повторения"),
+        (r"\bрепов\b", "повторений"),
+    ],
+    "hy": [
+        (r"սեթեր", "մոտեցումներ"),
+        (r"սեթ(?!եր|ի|ում)", "մոտեցում"),
+        (r"ռեփեր", "կրկնություններ"),
+        (r"ռեփ(?!եր|ի)", "կրկնություն"),
+        (r"վորքաութ", "մարզում"),
+        (r"եքսերսայզ", "վարժություն"),
+    ],
+}
 
 # Wide net used to hide placeholders from the translator before the call.
 PLACEHOLDER_RE = re.compile(r"%(?:\d+\$)?[@difsca]|%\d+\$@|\{[^}]+\}|<[^>]+>")
@@ -78,6 +101,37 @@ def dump_json(path: Path, data) -> None:
 def group_of(key: str) -> str:
     """First dotted segment — mirrors section_for_key() in compile_translations.py."""
     return key.split(".", 1)[0] if "." in key else "Misc"
+
+
+def load_glossary(keys: list[str]) -> dict[str, dict[str, str]]:
+    """Pinned sport-domain terms, keyed by dotted translation key.
+
+    Keyed by key rather than by English string because the same word differs by
+    context — 'Light' is a resistance-band level in bandLevel.light and a colour
+    theme in theme.light.
+    """
+    if not GLOSSARY_PATH.is_file():
+        return {}
+    raw = load_json(GLOSSARY_PATH)
+    entries = {k: v for k, v in raw.items() if not k.startswith("_")}
+    known = set(keys)
+    unknown = sorted(k for k in entries if k not in known)
+    if unknown:
+        raise SystemExit(
+            f"glossary.json references {len(unknown)} key(s) not in keys.json: {unknown[:5]}"
+        )
+    for key, value in entries.items():
+        missing = [loc for loc in TARGET_LOCALES if not value.get(loc)]
+        if missing:
+            raise SystemExit(f"glossary.json entry {key!r} missing {missing}")
+    return entries
+
+
+def apply_term_fixups(text: str, locale: str) -> str:
+    out = text
+    for pattern, replacement in TERM_FIXUPS.get(locale, []):
+        out = re.sub(pattern, replacement, out, flags=re.IGNORECASE)
+    return out
 
 
 def protect_placeholders(text: str) -> tuple[str, list[str]]:
@@ -226,21 +280,27 @@ def build_worklist(
     locales: tuple[str, ...],
     group: str | None,
     only_missing: bool,
-) -> tuple[dict[str, list[str]], list[str]]:
-    """Return {group: [keys to translate]} plus the keys that stay English."""
+    glossary: dict[str, dict[str, str]],
+) -> tuple[dict[str, list[str]], list[str], list[str]]:
+    """Return {group: [keys to translate]}, keys that stay English, and pinned keys."""
     todo: dict[str, list[str]] = {}
     literal: list[str] = []
+    pinned: list[str] = []
     for key in keys:
         if group and group_of(key) != group:
             continue
         source = en[key]
+        if key in glossary:
+            # Pinned sport-domain term — authoritative, never sent to the API.
+            pinned.append(key)
+            continue
         if keeps_english(key, source):
             literal.append(key)
             continue
         if only_missing and all(current[loc].get(key) != source for loc in locales):
             continue
         todo.setdefault(group_of(key), []).append(key)
-    return todo, literal
+    return todo, literal, pinned
 
 
 def main() -> int:
@@ -267,10 +327,12 @@ def main() -> int:
     if missing_en:
         raise SystemExit(f"en.json missing {len(missing_en)} keys, e.g. {missing_en[:5]}")
 
-    todo, literal = build_worklist(
-        keys, en, current, locales, args.group, args.only_missing
+    glossary = load_glossary(keys)
+
+    todo, literal, pinned = build_worklist(
+        keys, en, current, locales, args.group, args.only_missing, glossary
     )
-    if args.group and not todo and not literal:
+    if args.group and not todo and not literal and not pinned:
         groups = sorted({group_of(k) for k in keys})
         raise SystemExit(f"No keys in group {args.group!r}. Known groups: {', '.join(groups)}")
 
@@ -278,6 +340,7 @@ def main() -> int:
     chars = sum(len(en[k]) for v in todo.values() for k in v) * len(locales)
     print(f"locales      : {', '.join(locales)}")
     print(f"groups       : {len(todo)}")
+    print(f"glossary     : {len(pinned)} keys pinned (sport-domain terms, no API call)")
     print(f"translatable : {total_keys} keys ({chars:,} chars across {len(locales)} locale(s))")
     print(f"kept English : {len(literal)} keys (self-referential / trivial / brand literal)")
 
@@ -298,6 +361,15 @@ def main() -> int:
         for loc in locales:
             out[loc][key] = en[key]
 
+    # Pinned sport-domain terms win over anything the API would return.
+    for key in pinned:
+        for loc in locales:
+            out[loc][key] = glossary[key][loc]
+    if pinned:
+        for loc in locales:
+            write_locale(loc, keys, out[loc])
+        print(f"pinned {len(pinned)} glossary term(s) into {', '.join(locales)}")
+
     for index, name in enumerate(sorted(todo), start=1):
         group_keys = todo[name]
         print(f"\n[{index}/{len(todo)}] {name} — {len(group_keys)} keys", flush=True)
@@ -311,7 +383,7 @@ def main() -> int:
                     # Leave whatever is already on disk; never write English.
                     failures[loc].append(key)
                     continue
-                out[loc][key] = value
+                out[loc][key] = apply_term_fixups(value, loc)
                 translated[loc] += 1
 
         # Flush after every group so a crash never leaves a half-written file.
@@ -325,7 +397,7 @@ def main() -> int:
         n_failed = len(failures[loc])
         failed_total += n_failed
         print(
-            f"{loc}: {translated[loc]} translated · "
+            f"{loc}: {translated[loc]} translated · {len(pinned)} pinned · "
             f"{len(literal)} kept English · {n_failed} failed"
         )
 
