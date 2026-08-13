@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786576261,
+  "lastSyncedAt": 1786647204,
   "strings": {
     "Misc": {
       "": {
@@ -1231,7 +1231,7 @@
       "training.home.footer": {
         "en": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "ru": "Увеличьте рекомендации по использованию эспандеров и веса тела при выборе упражнений.",
-        "hy": "Զորավարժություններ ընտրելիս ուժեղացրեք դիմադրության գոտին և մարմնի քաշի առաջարկները:",
+        "hy": "Վարժություններ ընտրելիս ուժեղացրեք դիմադրության գոտին և մարմնի քաշի առաջարկները:",
         "sv": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "nb": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "nl": "Boost resistance-band and bodyweight suggestions when picking exercises.",
@@ -1979,6 +1979,140 @@
         "pl": "Nadzbiór",
         "fr": "Surensemble",
         "ar": "مجموعة شاملة"
+      }
+    },
+    "Coach": {
+      "balanced.exercises.body": {
+        "en": "Every suggestion is selected by default. Tap one to leave it out, or use the swap icon to get a different exercise for the same muscle.",
+        "ru": "Все предложения выбраны по умолчанию. Нажмите на упражнение, чтобы исключить его, или используйте значок замены, чтобы получить другое упражнение на ту же мышцу.",
+        "hy": "Բոլոր առաջարկները լռելյայն ընտրված են։ Հպեք մեկին՝ այն բաց թողնելու համար, կամ օգտագործեք փոխարինման պատկերակը՝ նույն մկանի համար այլ վարժություն ստանալու համար։",
+        "sv": "Alla förslag är valda från början. Tryck på ett för att utesluta det, eller använd bytesikonen för att få en annan övning för samma muskel.",
+        "nb": "Alle forslag er valgt fra start. Trykk på ett for å utelate det, eller bruk bytteikonet for å få en annen øvelse for samme muskel.",
+        "nl": "Elke suggestie is standaard geselecteerd. Tik erop om die weg te laten, of gebruik het wissel-icoon voor een andere oefening voor dezelfde spier.",
+        "da": "Alle forslag er valgt som standard. Tryk på et for at udelade det, eller brug byt-ikonet for at få en anden øvelse til samme muskel.",
+        "pl": "Wszystkie propozycje są domyślnie zaznaczone. Dotknij którejś, aby ją pominąć, lub użyj ikony zamiany, aby dostać inne ćwiczenie na ten sam mięsień.",
+        "fr": "Chaque suggestion est sélectionnée par défaut. Touchez-en une pour l’exclure, ou utilisez l’icône d’échange pour obtenir un autre exercice pour le même muscle.",
+        "ar": "كل اقتراح محدد افتراضيًا. المس واحدًا لاستبعاده، أو استخدم رمز التبديل للحصول على تمرين آخر للعضلة نفسها."
+      },
+      "balanced.exercises.title": {
+        "en": "Your suggested exercises",
+        "ru": "Предложенные упражнения",
+        "hy": "Առաջարկվող վարժությունները",
+        "sv": "Dina föreslagna övningar",
+        "nb": "Dine foreslåtte øvelser",
+        "nl": "Je voorgestelde oefeningen",
+        "da": "Dine foreslåede øvelser",
+        "pl": "Proponowane ćwiczenia",
+        "fr": "Vos exercices suggérés",
+        "ar": "التمارين المقترحة لك"
+      },
+      "balanced.muscles.body": {
+        "en": "The groups you have trained least are preselected. Tap any chip to add or remove it — the suggestions below update right away.",
+        "ru": "Заранее выбраны группы, которые вы тренировали меньше всего. Нажмите на любую, чтобы добавить или убрать её, — предложения ниже обновятся сразу.",
+        "hy": "Նախապես ընտրված են այն խմբերը, որոնք ամենաքիչն եք մարզել։ Հպեք ցանկացածին՝ ավելացնելու կամ հեռացնելու համար. ստորև առաջարկները անմիջապես կթարմացվեն։",
+        "sv": "Grupperna du tränat minst är förvalda. Tryck på en bricka för att lägga till eller ta bort den — förslagen nedan uppdateras direkt.",
+        "nb": "Gruppene du har trent minst, er forhåndsvalgt. Trykk på en brikke for å legge til eller fjerne den — forslagene under oppdateres med én gang.",
+        "nl": "De groepen die je het minst traint zijn voorgeselecteerd. Tik op een label om het toe te voegen of te verwijderen — de suggesties eronder werken meteen bij.",
+        "da": "De grupper, du har trænet mindst, er valgt på forhånd. Tryk på en brik for at tilføje eller fjerne den — forslagene nedenfor opdateres straks.",
+        "pl": "Grupy trenowane najrzadziej są wybrane z góry. Dotknij dowolnej, aby ją dodać lub usunąć — propozycje poniżej od razu się zaktualizują.",
+        "fr": "Les groupes les moins travaillés sont présélectionnés. Touchez une puce pour l’ajouter ou la retirer — les suggestions se mettent à jour aussitôt.",
+        "ar": "المجموعات التي دربتها أقل مُحدَّدة مسبقًا. المس أي عنصر لإضافته أو إزالته — وتتحدث الاقتراحات أدناه فورًا."
+      },
+      "balanced.muscles.title": {
+        "en": "Today’s muscle groups",
+        "ru": "Группы мышц на сегодня",
+        "hy": "Այսօրվա մկանային խմբերը",
+        "sv": "Dagens muskelgrupper",
+        "nb": "Dagens muskelgrupper",
+        "nl": "Spiergroepen van vandaag",
+        "da": "Dagens muskelgrupper",
+        "pl": "Dzisiejsze grupy mięśni",
+        "fr": "Groupes musculaires du jour",
+        "ar": "مجموعات اليوم العضلية"
+      },
+      "balanced.spider.body": {
+        "en": "Each spoke is a muscle group. The further it reaches, the more you trained it in the selected period — the short ones are what you have been skipping.",
+        "ru": "Каждый луч — группа мышц. Чем он длиннее, тем больше вы её тренировали за выбранный период. Короткие лучи — то, что вы пропускаете.",
+        "hy": "Յուրաքանչյուր ճառագայթ մկանային խումբ է։ Որքան հեռու է հասնում, այնքան շատ եք մարզել այն ընտրված ժամանակահատվածում. կարճերը այն են, ինչ բաց եք թողնում։",
+        "sv": "Varje spets är en muskelgrupp. Ju längre ut den når, desto mer har du tränat den under perioden — de korta är det du hoppat över.",
+        "nb": "Hver spiss er en muskelgruppe. Jo lenger ut den når, desto mer har du trent den i perioden — de korte er det du har hoppet over.",
+        "nl": "Elke punt is een spiergroep. Hoe verder die reikt, hoe meer je die in de periode traint — de korte zijn wat je overslaat.",
+        "da": "Hver spids er en muskelgruppe. Jo længere ud den når, jo mere har du trænet den i perioden — de korte er det, du springer over.",
+        "pl": "Każde ramię to grupa mięśni. Im dalej sięga, tym więcej ją trenowałeś w wybranym okresie — krótkie to te pomijane.",
+        "fr": "Chaque branche est un groupe musculaire. Plus elle est longue, plus vous l’avez travaillé sur la période — les courtes sont celles que vous négligez.",
+        "ar": "كل ضلع يمثل مجموعة عضلية. كلما امتد أكثر، زاد تدريبك لها في الفترة المحددة — والأضلاع القصيرة هي ما تتجاهله."
+      },
+      "balanced.spider.title": {
+        "en": "Your training balance",
+        "ru": "Ваш баланс тренировок",
+        "hy": "Ձեր մարզումների հավասարակշռությունը",
+        "sv": "Din träningsbalans",
+        "nb": "Treningsbalansen din",
+        "nl": "Je trainingsbalans",
+        "da": "Din træningsbalance",
+        "pl": "Twój bilans treningów",
+        "fr": "Votre équilibre d’entraînement",
+        "ar": "توازن تدريبك"
+      },
+      "balanced.supersets.body": {
+        "en": "A superset goes into your workout as one group of exercises you alternate between. Turn them off here if you would rather train one exercise at a time.",
+        "ru": "Суперсет добавляется в тренировку как одна группа упражнений, которые вы чередуете. Отключите их здесь, если хотите выполнять по одному упражнению.",
+        "hy": "Սուպերսեթը մարզմանն ավելացվում է որպես վարժությունների մեկ խումբ, որոնք դուք հերթափոխում եք։ Անջատեք դրանք այստեղ, եթե նախընտրում եք մեկ վարժություն կատարել միաժամանակ։",
+        "sv": "Ett superset läggs till i passet som en grupp övningar du växlar mellan. Stäng av dem här om du hellre kör en övning i taget.",
+        "nb": "Et supersett legges til i økten som én gruppe øvelser du veksler mellom. Slå dem av her hvis du heller vil ta én øvelse om gangen.",
+        "nl": "Een superset komt als één groep oefeningen in je training, waartussen je afwisselt. Zet ze hier uit als je liever één oefening tegelijk doet.",
+        "da": "Et supersæt tilføjes til træningen som én gruppe øvelser, du skifter mellem. Slå dem fra her, hvis du hellere vil tage én øvelse ad gangen.",
+        "pl": "Superset trafia do treningu jako jedna grupa ćwiczeń, między którymi się przeplatasz. Wyłącz je tutaj, jeśli wolisz ćwiczyć pojedynczo.",
+        "fr": "Un superset s’ajoute à la séance comme un groupe d’exercices que vous alternez. Désactivez-les ici si vous préférez enchaîner un exercice à la fois.",
+        "ar": "تُضاف المجموعة المركبة إلى تمرينك كمجموعة واحدة من التمارين تتناوب بينها. أوقفها من هنا إن كنت تفضل تمرينًا واحدًا في كل مرة."
+      },
+      "balanced.supersets.title": {
+        "en": "Supersets",
+        "ru": "Суперсеты",
+        "hy": "Սուպերսեթեր",
+        "sv": "Supersets",
+        "nb": "Supersett",
+        "nl": "Supersets",
+        "da": "Supersæt",
+        "pl": "Supersety",
+        "fr": "Supersets",
+        "ar": "المجموعات المركبة"
+      },
+      "done": {
+        "en": "Got It",
+        "ru": "Понятно",
+        "hy": "Հասկացա",
+        "sv": "Uppfattat",
+        "nb": "Skjønner",
+        "nl": "Begrepen",
+        "da": "Forstået",
+        "pl": "Rozumiem",
+        "fr": "J’ai compris",
+        "ar": "فهمت"
+      },
+      "next": {
+        "en": "Next",
+        "ru": "Далее",
+        "hy": "Հաջորդը",
+        "sv": "Nästa",
+        "nb": "Neste",
+        "nl": "Volgende",
+        "da": "Næste",
+        "pl": "Dalej",
+        "fr": "Suivant",
+        "ar": "التالي"
+      },
+      "skip": {
+        "en": "Skip",
+        "ru": "Пропустить",
+        "hy": "Բաց թողնել",
+        "sv": "Hoppa över",
+        "nb": "Hopp over",
+        "nl": "Overslaan",
+        "da": "Spring over",
+        "pl": "Pomiń",
+        "fr": "Passer",
+        "ar": "تخطٍ"
       }
     },
     "Common": {
@@ -4699,7 +4833,7 @@
       "library.title": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Övningar",
         "nb": "Øvelser",
         "nl": "Oefeningen",
@@ -5639,7 +5773,7 @@
       "perm.viewExerciseNotes": {
         "en": "Exercise notes",
         "ru": "Примечания к упражнениям",
-        "hy": "Զորավարժությունների նշումներ",
+        "hy": "Վարժությունների նշումներ",
         "sv": "Exercise notes",
         "nb": "Exercise notes",
         "nl": "Exercise notes",
@@ -5651,7 +5785,7 @@
       "perm.viewExerciseRatings": {
         "en": "Exercise ratings",
         "ru": "Рейтинги упражнений",
-        "hy": "Զորավարժությունների վարկանիշներ",
+        "hy": "Վարժությունների վարկանիշներ",
         "sv": "Exercise ratings",
         "nb": "Exercise ratings",
         "nl": "Exercise ratings",
@@ -5795,7 +5929,7 @@
       "permissions.group.exercises": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Exercises",
         "nb": "Exercises",
         "nl": "Exercises",
@@ -7065,7 +7199,7 @@
       "result.message": {
         "en": "Workouts added: %lld, updated: %lld, skipped: %lld.\nExercises: %lld · Templates: %lld · PRs: %lld · Supersets: %lld",
         "ru": "Добавлено тренировок: %lld, обновлено: %lld, пропущено: %lld.\nУпражнения: %lld · Шаблоны: %lld · ПР: %lld · Суперсеты: %lld",
-        "hy": "Ավելացված մարզումներ՝ %lld, թարմացված՝ %lld, բաց թողնված՝ %lld:\nԶորավարժություններ՝ %lld · Կաղապարներ՝ %lld · PRs՝ %lld · Supersets՝ %lld",
+        "hy": "Ավելացված մարզումներ՝ %lld, թարմացված՝ %lld, բաց թողնված՝ %lld:\nՎարժություններ՝ %lld · Կաղապարներ՝ %lld · PRs՝ %lld · Supersets՝ %lld",
         "sv": "Träningspass tillagda: %lld, uppdaterade: %lld, överhoppade: %lld.\nÖvningar: %lld · Mallar: %lld · PRs: %lld · Superset: %lld",
         "nb": "Treningsøkter lagt til: %lld, oppdatert: %lld, hoppet over: %lld.\nØvelser: %lld · Maler: %lld · PRs: %lld · Supersett: %lld",
         "nl": "Trainingen toegevoegd: %lld, bijgewerkt: %lld, overgeslagen: %lld.\nOefeningen: %lld · Sjablonen: %lld · PR's: %lld · Supersets: %lld",
@@ -8757,7 +8891,7 @@
       "gradients.body": {
         "en": "Exercise cards blend primary, secondary, and tertiary muscle colors.",
         "ru": "На карточках с упражнениями сочетаются первичные, вторичные и третичные цвета мышц.",
-        "hy": "Զորավարժությունների քարտերը միախառնում են մկանների առաջնային, երկրորդական և երրորդային գույները:",
+        "hy": "Վարժությունների քարտերը միախառնում են մկանների առաջնային, երկրորդական և երրորդային գույները:",
         "sv": "Träningskort blandar primära, sekundära och tertiära muskelfärger.",
         "nb": "Treningskort blander primære, sekundære og tertiære muskelfarger.",
         "nl": "Oefenkaarten combineren primaire, secundaire en tertiaire spierkleuren.",
@@ -9501,7 +9635,7 @@
       "layout.picker": {
         "en": "Exercise layout",
         "ru": "План упражнения",
-        "hy": "Զորավարժությունների դասավորությունը",
+        "hy": "Վարժությունների դասավորությունը",
         "sv": "Övningsupplägg",
         "nb": "Oppsett av øvelsen",
         "nl": "Oefening indeling",
@@ -9909,7 +10043,7 @@
       "personal.exercisesDetail": {
         "en": "Templates → Exercises to add, edit, and favorite.",
         "ru": "Шаблоны → Упражнения, которые можно добавлять, редактировать и добавлять в избранное.",
-        "hy": "Կաղապարներ → Զորավարժություններ ավելացնելու, խմբագրելու և ընտրելու համար:",
+        "hy": "Կաղապարներ → Վարժություններ ավելացնելու, խմբագրելու և ընտրելու համար:",
         "sv": "Mallar → Övningar att lägga till, redigera och favoriter.",
         "nb": "Maler → Øvelser for å legge til, redigere og favoritt.",
         "nl": "Sjablonen → Oefeningen om toe te voegen, te bewerken en favoriet te maken.",
@@ -10075,16 +10209,16 @@
         "ar": "الخطوة %lld من %lld"
       },
       "ready.body": {
-        "en": "Start logging your first workout — or explore the tabs at your own pace.",
-        "ru": "Начните записывать свою первую тренировку или изучайте вкладки в удобном для вас темпе.",
-        "hy": "Սկսեք գրանցել ձեր առաջին մարզումը կամ ուսումնասիրեք ներդիրները ձեր սեփական տեմպերով:",
-        "sv": "Börja logga ditt första träningspass - eller utforska flikarna i din egen takt.",
-        "nb": "Begynn å logge din første treningsøkt - eller utforsk fanene i ditt eget tempo.",
-        "nl": "Begin met het registreren van uw eerste training — of verken de tabbladen in uw eigen tempo.",
-        "da": "Begynd at logge din første træning – eller udforsk fanerne i dit eget tempo.",
-        "pl": "Zacznij rejestrować swój pierwszy trening — lub przeglądaj karty we własnym tempie.",
-        "fr": "Commencez à enregistrer votre premier entraînement ou explorez les onglets à votre rythme.",
-        "ar": "ابدأ في تسجيل تمرينك الأول — أو استكشف علامات التبويب بالسرعة التي تناسبك."
+        "en": "We will suggest a balanced session from what you have trained. You can change anything before you start.",
+        "ru": "Мы предложим сбалансированную тренировку на основе ваших занятий. Вы сможете всё изменить перед началом.",
+        "hy": "Մենք կառաջարկենք հավասարակշռված մարզում՝ ելնելով ձեր մարզումներից։ Դուք կարող եք ամեն ինչ փոխել մինչև սկսելը։",
+        "sv": "Vi föreslår ett balanserat pass utifrån vad du tränat. Du kan ändra allt innan du börjar.",
+        "nb": "Vi foreslår en balansert økt ut fra det du har trent. Du kan endre alt før du starter.",
+        "nl": "We stellen een gebalanceerde training voor op basis van je training tot nu toe. Je kunt alles nog aanpassen voor je begint.",
+        "da": "Vi foreslår en balanceret træning ud fra det, du har trænet. Du kan ændre alt, inden du starter.",
+        "pl": "Zaproponujemy zrównoważony trening na podstawie tego, co już trenowałeś. Przed startem możesz wszystko zmienić.",
+        "fr": "Nous proposons une séance équilibrée à partir de ce que vous avez travaillé. Vous pouvez tout modifier avant de commencer.",
+        "ar": "سنقترح جلسة متوازنة بناءً على ما دربته. يمكنك تغيير كل شيء قبل البدء."
       },
       "ready.create": {
         "en": "Create My First Workout",
@@ -10109,6 +10243,18 @@
         "pl": "Poznaj aplikację",
         "fr": "Explorez l'application",
         "ar": "اكتشف التطبيق"
+      },
+      "ready.startBalanced": {
+        "en": "Start Balanced Workout",
+        "ru": "Начать сбалансированную тренировку",
+        "hy": "Սկսել հավասարակշռված մարզում",
+        "sv": "Starta balanserat pass",
+        "nb": "Start balansert økt",
+        "nl": "Start gebalanceerde training",
+        "da": "Start balanceret træning",
+        "pl": "Rozpocznij zrównoważony trening",
+        "fr": "Démarrer une séance équilibrée",
+        "ar": "ابدأ تمرينًا متوازنًا"
       },
       "ready.title": {
         "en": "You’re ready",
@@ -10939,7 +11085,7 @@
       "chart.accessibility": {
         "en": "Exercise weight progress chart",
         "ru": "График прогресса при упражнении",
-        "hy": "Զորավարժությունների քաշի առաջընթացի աղյուսակ",
+        "hy": "Վարժությունների քաշի առաջընթացի աղյուսակ",
         "sv": "Framstegsdiagram för träningsvikt",
         "nb": "Fremdriftsdiagram for treningsvekt",
         "nl": "Voortgangsgrafiek voor trainingsgewicht",
@@ -11121,7 +11267,7 @@
       "exerciseHistory": {
         "en": "Exercise history",
         "ru": "История упражнений",
-        "hy": "Զորավարժությունների պատմություն",
+        "hy": "Վարժությունների պատմություն",
         "sv": "Träningshistorik",
         "nb": "Treningshistorie",
         "nl": "Oefeningsgeschiedenis",
@@ -13223,7 +13369,7 @@
       "members": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Övningar",
         "nb": "Øvelser",
         "nl": "Oefeningen",
@@ -13549,7 +13695,7 @@
       "entity.exercise": {
         "en": "Exercise",
         "ru": "Упражнение",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Exercise",
         "nb": "Exercise",
         "nl": "Exercise",
@@ -13729,7 +13875,7 @@
       "field.sessionBody": {
         "en": "Exercises and sets",
         "ru": "Упражнения и комплексы",
-        "hy": "Զորավարժություններ և հավաքածուներ",
+        "hy": "Վարժություններ և հավաքածուներ",
         "sv": "Exercises and sets",
         "nb": "Exercises and sets",
         "nl": "Exercises and sets",
@@ -14302,7 +14448,7 @@
       "exercises": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Övningar",
         "nb": "Øvelser",
         "nl": "Oefeningen",
@@ -14917,6 +15063,18 @@
         "fr": "%lld min %lld sec",
         "ar": "%lld دقيقة %lld ثانية"
       },
+      "endWorkout": {
+        "en": "End Workout",
+        "ru": "Завершить тренировку",
+        "hy": "Ավարտել մարզումը",
+        "sv": "Avsluta passet",
+        "nb": "Avslutt økten",
+        "nl": "Training beëindigen",
+        "da": "Afslut træningen",
+        "pl": "Zakończ trening",
+        "fr": "Terminer la séance",
+        "ar": "إنهاء التمرين"
+      },
       "finish": {
         "en": "Finish",
         "ru": "Заканчивать",
@@ -14980,7 +15138,7 @@
       "focus.duplicate.parameter": {
         "en": "Exercise",
         "ru": "Упражнение",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Utöva",
         "nb": "Øvelse",
         "nl": "Oefening",
@@ -15024,6 +15182,18 @@
         "pl": "Metric",
         "fr": "Metric",
         "ar": "Metric"
+      },
+      "moreWaysToStart": {
+        "en": "More Ways to Start",
+        "ru": "Другие способы начать",
+        "hy": "Սկսելու այլ եղանակներ",
+        "sv": "Fler sätt att börja",
+        "nb": "Flere måter å starte på",
+        "nl": "Meer manieren om te starten",
+        "da": "Flere måder at starte på",
+        "pl": "Inne sposoby rozpoczęcia",
+        "fr": "Autres façons de commencer",
+        "ar": "طرق أخرى للبدء"
       },
       "name": {
         "en": "Name",
@@ -15100,7 +15270,7 @@
       "plan.exercises": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Övningar",
         "nb": "Øvelser",
         "nl": "Oefeningen",
@@ -15256,7 +15426,7 @@
       "reorderHint": {
         "en": "Exercises",
         "ru": "Упражнения",
-        "hy": "Զորավարժություններ",
+        "hy": "Վարժություններ",
         "sv": "Övningar",
         "nb": "Øvelser",
         "nl": "Oefeningen",
