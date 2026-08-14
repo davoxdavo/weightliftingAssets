@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786647204,
+  "lastSyncedAt": 1786658295,
   "strings": {
     "Misc": {
       "": {
@@ -1982,6 +1982,18 @@
       }
     },
     "Coach": {
+      "balanced.exercises.action": {
+        "en": "Tap an exercise to leave it out",
+        "ru": "Нажмите на упражнение, чтобы исключить его",
+        "hy": "Հպեք վարժությանը՝ այն բաց թողնելու համար",
+        "sv": "Tryck på en övning för att utesluta den",
+        "nb": "Trykk på en øvelse for å utelate den",
+        "nl": "Tik op een oefening om die weg te laten",
+        "da": "Tryk på en øvelse for at udelade den",
+        "pl": "Dotknij ćwiczenia, aby je pominąć",
+        "fr": "Touchez un exercice pour l’exclure",
+        "ar": "المس تمرينًا لاستبعاده"
+      },
       "balanced.exercises.body": {
         "en": "Every suggestion is selected by default. Tap one to leave it out, or use the swap icon to get a different exercise for the same muscle.",
         "ru": "Все предложения выбраны по умолчанию. Нажмите на упражнение, чтобы исключить его, или используйте значок замены, чтобы получить другое упражнение на ту же мышцу.",
@@ -2005,6 +2017,18 @@
         "pl": "Proponowane ćwiczenia",
         "fr": "Vos exercices suggérés",
         "ar": "التمارين المقترحة لك"
+      },
+      "balanced.muscles.action": {
+        "en": "Tap a muscle group to add or remove it",
+        "ru": "Нажмите на группу мышц, чтобы добавить или убрать её",
+        "hy": "Հպեք մկանային խմբին՝ այն ավելացնելու կամ հեռացնելու համար",
+        "sv": "Tryck på en muskelgrupp för att lägga till eller ta bort den",
+        "nb": "Trykk på en muskelgruppe for å legge til eller fjerne den",
+        "nl": "Tik op een spiergroep om die toe te voegen of te verwijderen",
+        "da": "Tryk på en muskelgruppe for at tilføje eller fjerne den",
+        "pl": "Dotknij grupy mięśni, aby ją dodać lub usunąć",
+        "fr": "Touchez un groupe musculaire pour l’ajouter ou le retirer",
+        "ar": "المس مجموعة عضلية لإضافتها أو إزالتها"
       },
       "balanced.muscles.body": {
         "en": "The groups you have trained least are preselected. Tap any chip to add or remove it — the suggestions below update right away.",
@@ -2030,6 +2054,18 @@
         "fr": "Groupes musculaires du jour",
         "ar": "مجموعات اليوم العضلية"
       },
+      "balanced.spider.action": {
+        "en": "Tap a spoke to add that muscle group",
+        "ru": "Нажмите на луч, чтобы добавить эту группу мышц",
+        "hy": "Հպեք ճառագայթին՝ այդ մկանային խումբը ավելացնելու համար",
+        "sv": "Tryck på en spets för att lägga till den muskelgruppen",
+        "nb": "Trykk på en spiss for å legge til den muskelgruppen",
+        "nl": "Tik op een punt om die spiergroep toe te voegen",
+        "da": "Tryk på en spids for at tilføje den muskelgruppe",
+        "pl": "Dotknij ramienia, aby dodać tę grupę mięśni",
+        "fr": "Touchez une branche pour ajouter ce groupe musculaire",
+        "ar": "المس ضلعًا لإضافة تلك المجموعة العضلية"
+      },
       "balanced.spider.body": {
         "en": "Each spoke is a muscle group. The further it reaches, the more you trained it in the selected period — the short ones are what you have been skipping.",
         "ru": "Каждый луч — группа мышц. Чем он длиннее, тем больше вы её тренировали за выбранный период. Короткие лучи — то, что вы пропускаете.",
@@ -2053,6 +2089,30 @@
         "pl": "Twój bilans treningów",
         "fr": "Votre équilibre d’entraînement",
         "ar": "توازن تدريبك"
+      },
+      "balanced.supersets.action": {
+        "en": "Tap the superset to include or skip it",
+        "ru": "Нажмите на суперсет, чтобы включить или пропустить его",
+        "hy": "Հպեք սուպերսեթին՝ այն ներառելու կամ բաց թողնելու համար",
+        "sv": "Tryck på supersetet för att ta med eller hoppa över det",
+        "nb": "Trykk på supersettet for å ta det med eller hoppe over det",
+        "nl": "Tik op de superset om die op te nemen of over te slaan",
+        "da": "Tryk på supersættet for at tage det med eller springe det over",
+        "pl": "Dotknij supersetu, aby go dodać lub pominąć",
+        "fr": "Touchez le superset pour l’inclure ou l’ignorer",
+        "ar": "المس المجموعة المركبة لتضمينها أو تخطيها"
+      },
+      "balanced.supersets.actionToggle": {
+        "en": "Try the switch to see the difference",
+        "ru": "Попробуйте переключатель, чтобы увидеть разницу",
+        "hy": "Փորձեք անջատիչը՝ տարբերությունը տեսնելու համար",
+        "sv": "Testa reglaget för att se skillnaden",
+        "nb": "Prøv bryteren for å se forskjellen",
+        "nl": "Probeer de schakelaar om het verschil te zien",
+        "da": "Prøv kontakten for at se forskellen",
+        "pl": "Użyj przełącznika, aby zobaczyć różnicę",
+        "fr": "Essayez l’interrupteur pour voir la différence",
+        "ar": "جرّب المفتاح لترى الفرق"
       },
       "balanced.supersets.body": {
         "en": "A superset goes into your workout as one group of exercises you alternate between. Turn them off here if you would rather train one exercise at a time.",
