@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786694269,
+  "lastSyncedAt": 1786706043,
   "strings": {
     "Misc": {
       "": {
@@ -7776,15 +7776,15 @@
       },
       "streak": {
         "en": "Streak",
-        "ru": "Полоса",
-        "hy": "Շերտ",
-        "sv": "Strimma",
-        "nb": "Streke",
-        "nl": "Streep",
+        "ru": "Серия",
+        "hy": "Շարք",
+        "sv": "Svit",
+        "nb": "Rekke",
+        "nl": "Reeks",
         "da": "Streak",
-        "pl": "Pasemko",
-        "fr": "Traînée",
-        "ar": "أثَر"
+        "pl": "Seria",
+        "fr": "Série",
+        "ar": "سلسلة"
       },
       "streakWeeks": {
         "en": "%lld weeks",
@@ -12279,6 +12279,212 @@
         "pl": "%lld treningów",
         "fr": "%lld séances",
         "ar": "%lld تمرين"
+      }
+    },
+    "Streak": {
+      "badge.gem": {
+        "en": "Diamond",
+        "ru": "Алмаз",
+        "hy": "Ադամանդ",
+        "sv": "Diamant",
+        "nb": "Diamant",
+        "nl": "Diamant",
+        "da": "Diamant",
+        "pl": "Diament",
+        "fr": "Diamant",
+        "ar": "ألماسة"
+      },
+      "badge.legend": {
+        "en": "Legend",
+        "ru": "Легенда",
+        "hy": "Լեգենդ",
+        "sv": "Legend",
+        "nb": "Legende",
+        "nl": "Legende",
+        "da": "Legende",
+        "pl": "Legenda",
+        "fr": "Légende",
+        "ar": "أسطورة"
+      },
+      "badge.spark": {
+        "en": "Spark",
+        "ru": "Искра",
+        "hy": "Կայծ",
+        "sv": "Gnista",
+        "nb": "Gnist",
+        "nl": "Vonk",
+        "da": "Gnist",
+        "pl": "Iskra",
+        "fr": "Étincelle",
+        "ar": "شرارة"
+      },
+      "badge.strong": {
+        "en": "Strong",
+        "ru": "Сила",
+        "hy": "Ուժ",
+        "sv": "Stark",
+        "nb": "Sterk",
+        "nl": "Sterk",
+        "da": "Stærk",
+        "pl": "Siła",
+        "fr": "Force",
+        "ar": "قوة"
+      },
+      "keepPrompt": {
+        "en": "%lld more days to keep your streak",
+        "ru": "Ещё %lld дн., чтобы сохранить серию",
+        "hy": "Եւս %lld օր՝ շարքը պահպանելու համար",
+        "sv": "%lld dagar till för att behålla din svit",
+        "nb": "%lld dager til for å beholde rekken",
+        "nl": "Nog %lld dagen om je reeks te behouden",
+        "da": "%lld dage mere for at beholde din streak",
+        "pl": "Jeszcze %lld dni, aby utrzymać serię",
+        "fr": "Encore %lld jours pour conserver votre série",
+        "ar": "%lld أيام إضافية للحفاظ على سلسلتك"
+      },
+      "keepPromptOne": {
+        "en": "1 more day to keep your streak",
+        "ru": "Ещё 1 день, чтобы сохранить серию",
+        "hy": "Եւս 1 օր՝ շարքը պահպանելու համար",
+        "sv": "1 dag till för att behålla din svit",
+        "nb": "1 dag til for å beholde rekken",
+        "nl": "Nog 1 dag om je reeks te behouden",
+        "da": "1 dag mere for at beholde din streak",
+        "pl": "Jeszcze 1 dzień, aby utrzymać serię",
+        "fr": "Encore 1 jour pour conserver votre série",
+        "ar": "يوم واحد إضافي للحفاظ على سلسلتك"
+      },
+      "none": {
+        "en": "No streak yet",
+        "ru": "Серии пока нет",
+        "hy": "Դեռ շարք չկա",
+        "sv": "Ingen svit än",
+        "nb": "Ingen rekke ennå",
+        "nl": "Nog geen reeks",
+        "da": "Ingen streak endnu",
+        "pl": "Brak serii",
+        "fr": "Pas encore de série",
+        "ar": "لا توجد سلسلة بعد"
+      },
+      "restartPrompt": {
+        "en": "Last week fell short — this week starts a new one",
+        "ru": "Прошлая неделя не засчитана — эта начинает новую серию",
+        "hy": "Անցած շաբաթը չլրացվեց — այս շաբաթը սկսում է նորը",
+        "sv": "Förra veckan räckte inte — den här veckan startar en ny",
+        "nb": "Forrige uke holdt ikke — denne uken starter en ny",
+        "nl": "Vorige week was niet genoeg — deze week begint een nieuwe",
+        "da": "Sidste uge rakte ikke — denne uge starter en ny",
+        "pl": "Zeszły tydzień się nie liczy — ten zaczyna nową serię",
+        "fr": "La semaine dernière n'a pas suffi — celle-ci en commence une nouvelle",
+        "ar": "الأسبوع الماضي لم يكتمل — هذا الأسبوع يبدأ سلسلة جديدة"
+      },
+      "startPrompt": {
+        "en": "Train %lld days this week to start a streak",
+        "ru": "Тренируйтесь %lld дн. на этой неделе, чтобы начать серию",
+        "hy": "Մարզվեք %lld օր այս շաբաթ՝ շարք սկսելու համար",
+        "sv": "Träna %lld dagar den här veckan för att starta en svit",
+        "nb": "Tren %lld dager denne uken for å starte en rekke",
+        "nl": "Train %lld dagen deze week om een reeks te starten",
+        "da": "Træn %lld dage i denne uge for at starte en streak",
+        "pl": "Trenuj %lld dni w tym tygodniu, aby rozpocząć serię",
+        "fr": "Entraînez-vous %lld jours cette semaine pour lancer une série",
+        "ar": "تمرَّن %lld أيام هذا الأسبوع لبدء سلسلة"
+      },
+      "startPromptRemaining": {
+        "en": "%lld more days this week to start a streak",
+        "ru": "Ещё %lld дн. на этой неделе, чтобы начать серию",
+        "hy": "Եւս %lld օր այս շաբաթ՝ շարք սկսելու համար",
+        "sv": "%lld dagar till den här veckan för att starta en svit",
+        "nb": "%lld dager til denne uken for å starte en rekke",
+        "nl": "Nog %lld dagen deze week om een reeks te starten",
+        "da": "%lld dage mere i denne uge for at starte en streak",
+        "pl": "Jeszcze %lld dni w tym tygodniu, aby rozpocząć serię",
+        "fr": "Encore %lld jours cette semaine pour lancer une série",
+        "ar": "%lld أيام إضافية هذا الأسبوع لبدء سلسلة"
+      },
+      "startPromptRemainingOne": {
+        "en": "1 more day this week to start a streak",
+        "ru": "Ещё 1 день на этой неделе, чтобы начать серию",
+        "hy": "Եւս 1 օր այս շաբաթ՝ շարք սկսելու համար",
+        "sv": "1 dag till den här veckan för att starta en svit",
+        "nb": "1 dag til denne uken for å starte en rekke",
+        "nl": "Nog 1 dag deze week om een reeks te starten",
+        "da": "1 dag mere i denne uge for at starte en streak",
+        "pl": "Jeszcze 1 dzień w tym tygodniu, aby rozpocząć serię",
+        "fr": "Encore 1 jour cette semaine pour lancer une série",
+        "ar": "يوم واحد إضافي هذا الأسبوع لبدء سلسلة"
+      },
+      "title": {
+        "en": "Streak",
+        "ru": "Серия",
+        "hy": "Շարք",
+        "sv": "Svit",
+        "nb": "Rekke",
+        "nl": "Reeks",
+        "da": "Streak",
+        "pl": "Seria",
+        "fr": "Série",
+        "ar": "سلسلة"
+      },
+      "weekComplete": {
+        "en": "This week is complete",
+        "ru": "Неделя завершена",
+        "hy": "Շաբաթը լրացված է",
+        "sv": "Veckan är klar",
+        "nb": "Uken er fullført",
+        "nl": "Deze week is compleet",
+        "da": "Ugen er fuldført",
+        "pl": "Tydzień ukończony",
+        "fr": "Semaine terminée",
+        "ar": "اكتمل الأسبوع"
+      },
+      "weekMissed": {
+        "en": "Not enough days left this week",
+        "ru": "На этой неделе осталось слишком мало дней",
+        "hy": "Այս շաբաթ բավարար օր չի մնացել",
+        "sv": "För få dagar kvar den här veckan",
+        "nb": "For få dager igjen denne uken",
+        "nl": "Te weinig dagen over deze week",
+        "da": "For få dage tilbage i denne uge",
+        "pl": "Zbyt mało dni w tym tygodniu",
+        "fr": "Pas assez de jours restants cette semaine",
+        "ar": "لم تتبقَّ أيام كافية هذا الأسبوع"
+      },
+      "weekProgress": {
+        "en": "This week: %1$lld of %2$lld days",
+        "ru": "На этой неделе: %1$lld из %2$lld дн.",
+        "hy": "Այս շաբաթ՝ %1$lld / %2$lld օր",
+        "sv": "Den här veckan: %1$lld av %2$lld dagar",
+        "nb": "Denne uken: %1$lld av %2$lld dager",
+        "nl": "Deze week: %1$lld van %2$lld dagen",
+        "da": "Denne uge: %1$lld af %2$lld dage",
+        "pl": "W tym tygodniu: %1$lld z %2$lld dni",
+        "fr": "Cette semaine : %1$lld jours sur %2$lld",
+        "ar": "هذا الأسبوع: %1$lld من %2$lld أيام"
+      },
+      "weeks": {
+        "en": "%lld weeks",
+        "ru": "%lld нед.",
+        "hy": "%lld շաբաթ",
+        "sv": "%lld veckor",
+        "nb": "%lld uker",
+        "nl": "%lld weken",
+        "da": "%lld uger",
+        "pl": "%lld tygodni",
+        "fr": "%lld semaines",
+        "ar": "%lld أسابيع"
+      },
+      "weeksOne": {
+        "en": "1 week",
+        "ru": "1 неделя",
+        "hy": "1 շաբաթ",
+        "sv": "1 vecka",
+        "nb": "1 uke",
+        "nl": "1 week",
+        "da": "1 uge",
+        "pl": "1 tydzień",
+        "fr": "1 semaine",
+        "ar": "أسبوع واحد"
       }
     },
     "Subgroup": {
