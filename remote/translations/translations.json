@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786658295,
+  "lastSyncedAt": 1786694269,
   "strings": {
     "Misc": {
       "": {
@@ -2090,6 +2090,42 @@
         "fr": "Votre équilibre d’entraînement",
         "ar": "توازن تدريبك"
       },
+      "balanced.start.action": {
+        "en": "Tap Start Balanced Workout",
+        "ru": "Нажмите «Начать сбалансированную тренировку»",
+        "hy": "Հպեք «Սկսել հավասարակշռված մարզում»",
+        "sv": "Tryck på Starta balanserat pass",
+        "nb": "Trykk på Start balansert økt",
+        "nl": "Tik op Gebalanceerde workout starten",
+        "da": "Tryk på Start balanceret træning",
+        "pl": "Dotknij Rozpocznij zrównoważony trening",
+        "fr": "Touchez Démarrer la séance équilibrée",
+        "ar": "المس بدء تمرين متوازن"
+      },
+      "balanced.start.body": {
+        "en": "That is your session. Nothing here is locked in — you can add, remove or change anything once the workout is open.",
+        "ru": "Это ваша тренировка. Ничего не зафиксировано — вы можете добавить, убрать или изменить всё, когда тренировка откроется.",
+        "hy": "Սա ձեր մարզումն է։ Ոչինչ ֆիքսված չէ — մարզումը բացվելուց հետո կարող եք ավելացնել, հեռացնել կամ փոխել ամեն ինչ։",
+        "sv": "Det är ditt pass. Inget är låst — du kan lägga till, ta bort eller ändra allt när passet är öppet.",
+        "nb": "Det er økten din. Ingenting er låst — du kan legge til, fjerne eller endre alt når økten er åpen.",
+        "nl": "Dat is je sessie. Niets ligt vast — je kunt alles toevoegen, weghalen of wijzigen zodra de workout open is.",
+        "da": "Det er din træning. Intet er låst — du kan tilføje, fjerne eller ændre alt, når træningen er åben.",
+        "pl": "To Twój trening. Nic nie jest przesądzone — możesz wszystko dodać, usunąć lub zmienić po otwarciu treningu.",
+        "fr": "Voilà votre séance. Rien n’est figé : vous pouvez tout ajouter, retirer ou modifier une fois l’entraînement ouvert.",
+        "ar": "هذه جلستك. لا شيء ثابت — يمكنك إضافة أي شيء أو إزالته أو تغييره بمجرد فتح التمرين."
+      },
+      "balanced.start.title": {
+        "en": "Start when you're ready",
+        "ru": "Начните, когда будете готовы",
+        "hy": "Սկսեք, երբ պատրաստ լինեք",
+        "sv": "Starta när du är redo",
+        "nb": "Start når du er klar",
+        "nl": "Start wanneer je er klaar voor bent",
+        "da": "Start når du er klar",
+        "pl": "Zacznij, gdy będziesz gotowy",
+        "fr": "Commencez quand vous êtes prêt",
+        "ar": "ابدأ عندما تكون جاهزًا"
+      },
       "balanced.supersets.action": {
         "en": "Tap the superset to include or skip it",
         "ru": "Нажмите на суперсет, чтобы включить или пропустить его",
@@ -2173,6 +2209,102 @@
         "pl": "Pomiń",
         "fr": "Passer",
         "ar": "تخطٍ"
+      },
+      "workout.addSet.action": {
+        "en": "Tap Add Set",
+        "ru": "Нажмите «Добавить подход»",
+        "hy": "Հպեք «Ավելացնել մոտեցում»",
+        "sv": "Tryck på Lägg till set",
+        "nb": "Trykk på Legg til sett",
+        "nl": "Tik op Set toevoegen",
+        "da": "Tryk på Tilføj sæt",
+        "pl": "Dotknij Dodaj serię",
+        "fr": "Touchez Ajouter une série",
+        "ar": "المس إضافة مجموعة"
+      },
+      "workout.addSet.body": {
+        "en": "Add each set as you finish it, so a row always means a set you really did. The copy icon repeats the set before it.",
+        "ru": "Добавляйте каждый подход по мере выполнения, чтобы строка всегда означала действительно сделанный подход. Значок копирования повторяет предыдущий подход.",
+        "hy": "Ավելացրեք յուրաքանչյուր մոտեցում այն ավարտելուց հետո, որպեսզի տողը միշտ նշանակի իրականում կատարված մոտեցում։ Պատճենման պատկերակը կրկնում է նախորդ մոտեցումը։",
+        "sv": "Lägg till varje set när du är klar med det, så betyder en rad alltid ett set du faktiskt gjorde. Kopieringsikonen upprepar setet före.",
+        "nb": "Legg til hvert sett når du er ferdig med det, så betyr en rad alltid et sett du faktisk tok. Kopiikonet gjentar settet før.",
+        "nl": "Voeg elke set toe zodra je hem af hebt, zodat een rij altijd een set is die je echt deed. Het kopieer-icoon herhaalt de vorige set.",
+        "da": "Tilføj hvert sæt, når du er færdig med det, så en række altid er et sæt, du faktisk tog. Kopiikonet gentager sættet før.",
+        "pl": "Dodawaj każdą serię po jej wykonaniu, żeby wiersz zawsze oznaczał serię, którą naprawdę zrobiłeś. Ikona kopiowania powtarza poprzednią serię.",
+        "fr": "Ajoutez chaque série une fois terminée, pour qu’une ligne corresponde toujours à une série réellement faite. L’icône de copie répète la série précédente.",
+        "ar": "أضِف كل مجموعة بعد إنهائها، ليعني كل صف مجموعة أدّيتها فعلًا. رمز النسخ يكرّر المجموعة السابقة."
+      },
+      "workout.addSet.title": {
+        "en": "One set at a time",
+        "ru": "По одному подходу за раз",
+        "hy": "Մեկ մոտեցում միանգամից",
+        "sv": "Ett set i taget",
+        "nb": "Ett sett om gangen",
+        "nl": "Eén set tegelijk",
+        "da": "Ét sæt ad gangen",
+        "pl": "Jedna seria naraz",
+        "fr": "Une série à la fois",
+        "ar": "مجموعة واحدة في كل مرة"
+      },
+      "workout.finish.body": {
+        "en": "Tap the checkmark at the top of the screen to save and finish. Your workout is saved as you go, so you can leave and come back to it.",
+        "ru": "Нажмите галочку вверху экрана, чтобы сохранить и завершить. Тренировка сохраняется по ходу, поэтому вы можете выйти и вернуться к ней.",
+        "hy": "Հպեք էկրանի վերևի նշիկին՝ պահպանելու և ավարտելու համար։ Մարզումը պահպանվում է ընթացքում, այնպես որ կարող եք դուրս գալ և վերադառնալ դրան։",
+        "sv": "Tryck på bocken högst upp på skärmen för att spara och avsluta. Passet sparas medan du kör, så du kan lämna det och komma tillbaka.",
+        "nb": "Trykk på haken øverst på skjermen for å lagre og avslutte. Økten lagres underveis, så du kan gå fra den og komme tilbake.",
+        "nl": "Tik op het vinkje bovenaan het scherm om op te slaan en af te ronden. Je workout wordt onderweg bewaard, dus je kunt weg en later terugkomen.",
+        "da": "Tryk på fluebenet øverst på skærmen for at gemme og afslutte. Træningen gemmes undervejs, så du kan gå fra den og vende tilbage.",
+        "pl": "Dotknij znacznika u góry ekranu, aby zapisać i zakończyć. Trening zapisuje się na bieżąco, więc możesz wyjść i do niego wrócić.",
+        "fr": "Touchez la coche en haut de l’écran pour enregistrer et terminer. Votre séance est enregistrée au fur et à mesure : vous pouvez la quitter et y revenir.",
+        "ar": "المس علامة الصح أعلى الشاشة للحفظ والإنهاء. يُحفظ تمرينك أولًا بأول، فيمكنك مغادرته والعودة إليه."
+      },
+      "workout.finish.title": {
+        "en": "Finish when you're done",
+        "ru": "Завершите, когда закончите",
+        "hy": "Ավարտեք, երբ ավարտած լինեք",
+        "sv": "Avsluta när du är klar",
+        "nb": "Avslutt når du er ferdig",
+        "nl": "Rond af als je klaar bent",
+        "da": "Afslut, når du er færdig",
+        "pl": "Zakończ, gdy skończysz",
+        "fr": "Terminez quand vous avez fini",
+        "ar": "أنهِ التمرين عندما تنتهي"
+      },
+      "workout.firstSet.action": {
+        "en": "Tap a value to fill it in",
+        "ru": "Нажмите на значение, чтобы заполнить его",
+        "hy": "Հպեք արժեքին՝ այն լրացնելու համար",
+        "sv": "Tryck på ett värde för att fylla i det",
+        "nb": "Trykk på en verdi for å fylle den ut",
+        "nl": "Tik op een waarde om die in te vullen",
+        "da": "Tryk på en værdi for at udfylde den",
+        "pl": "Dotknij wartości, aby ją uzupełnić",
+        "fr": "Touchez une valeur pour la renseigner",
+        "ar": "المس قيمة لتعبئتها"
+      },
+      "workout.firstSet.body": {
+        "en": "Tap a value to enter what you actually lifted. The set marks itself done once it has everything it needs.",
+        "ru": "Нажмите на значение, чтобы ввести то, что вы действительно подняли. Подход отмечается выполненным, как только в нём есть всё необходимое.",
+        "hy": "Հպեք արժեքին՝ մուտքագրելու այն, ինչ իրականում բարձրացրել եք։ Մոտեցումն ինքն իրեն նշվում է կատարված, հենց ունենա անհրաժեշտ ամեն ինչ։",
+        "sv": "Tryck på ett värde för att ange vad du faktiskt lyfte. Setet markeras som klart så snart det har allt det behöver.",
+        "nb": "Trykk på en verdi for å skrive inn hva du faktisk løftet. Settet markeres som fullført så snart det har alt det trenger.",
+        "nl": "Tik op een waarde om in te vullen wat je echt hebt getild. De set vinkt zichzelf af zodra alles is ingevuld.",
+        "da": "Tryk på en værdi for at indtaste, hvad du faktisk løftede. Sættet markeres som færdigt, så snart det har alt, hvad det skal bruge.",
+        "pl": "Dotknij wartości, aby wpisać, ile naprawdę podniosłeś. Seria sama oznacza się jako wykonana, gdy ma już wszystko, czego potrzebuje.",
+        "fr": "Touchez une valeur pour saisir ce que vous avez réellement soulevé. La série se marque comme faite dès qu’elle a tout ce qu’il lui faut.",
+        "ar": "المس قيمة لإدخال ما رفعته فعليًا. تُوضع علامة الإتمام على المجموعة تلقائيًا بمجرد اكتمال بياناتها."
+      },
+      "workout.firstSet.title": {
+        "en": "Log your first set",
+        "ru": "Запишите первый подход",
+        "hy": "Գրանցեք ձեր առաջին մոտեցումը",
+        "sv": "Logga ditt första set",
+        "nb": "Logg ditt første sett",
+        "nl": "Log je eerste set",
+        "da": "Log dit første sæt",
+        "pl": "Zapisz swoją pierwszą serię",
+        "fr": "Enregistrez votre première série",
+        "ar": "سجّل مجموعتك الأولى"
       }
     },
     "Common": {
