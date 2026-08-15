@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786706043,
+  "lastSyncedAt": 1786736848,
   "strings": {
     "Misc": {
       "": {
@@ -2271,16 +2271,16 @@
         "ar": "أنهِ التمرين عندما تنتهي"
       },
       "workout.firstSet.action": {
-        "en": "Tap a value to fill it in",
-        "ru": "Нажмите на значение, чтобы заполнить его",
-        "hy": "Հպեք արժեքին՝ այն լրացնելու համար",
-        "sv": "Tryck på ett värde för att fylla i det",
-        "nb": "Trykk på en verdi for å fylle den ut",
-        "nl": "Tik op een waarde om die in te vullen",
-        "da": "Tryk på en værdi for at udfylde den",
-        "pl": "Dotknij wartości, aby ją uzupełnić",
-        "fr": "Touchez une valeur pour la renseigner",
-        "ar": "المس قيمة لتعبئتها"
+        "en": "Fill in every value to complete the set",
+        "ru": "Заполните все значения, чтобы завершить подход",
+        "hy": "Լրացրեք բոլոր արժեքները՝ մոտեցումն ավարտելու համար",
+        "sv": "Fyll i alla värden för att slutföra setet",
+        "nb": "Fyll ut alle verdiene for å fullføre settet",
+        "nl": "Vul alle waarden in om de set af te ronden",
+        "da": "Udfyld alle værdier for at fuldføre sættet",
+        "pl": "Uzupełnij wszystkie wartości, aby ukończyć serię",
+        "fr": "Renseignez toutes les valeurs pour terminer la série",
+        "ar": "أدخل جميع القيم لإكمال المجموعة"
       },
       "workout.firstSet.body": {
         "en": "Tap a value to enter what you actually lifted. The set marks itself done once it has everything it needs.",
@@ -5611,6 +5611,188 @@
         "pl": "%lld treningów w tej kopii zapasowej",
         "fr": "%lld séances dans cette sauvegarde",
         "ar": "%lld تمارين في هذه النسخة الاحتياطية"
+      }
+    },
+    "Failure": {
+      "capped": {
+        "en": "Held at your best working weight",
+        "ru": "Ограничено вашим лучшим рабочим весом",
+        "hy": "Սահմանափակված է ձեր լավագույն աշխատանքային կշռով",
+        "sv": "Begränsad till din bästa arbetsvikt",
+        "nb": "Begrenset til din beste arbeidsvekt",
+        "nl": "Beperkt tot je beste werkgewicht",
+        "da": "Begrænset til din bedste arbejdsvægt",
+        "pl": "Ograniczone do najlepszego ciężaru roboczego",
+        "fr": "Limité à votre meilleure charge de travail",
+        "ar": "محدود بأفضل وزن عمل لديك"
+      },
+      "goByFeel": {
+        "en": "Go by feel — beat your last set",
+        "ru": "По ощущениям — превзойдите прошлый подход",
+        "hy": "Ըստ զգացողության՝ գերազանցեք նախորդ մոտեցումը",
+        "sv": "Gå på känsla — slå ditt förra set",
+        "nb": "Gå på følelsen — slå forrige sett",
+        "nl": "Op gevoel — verbeter je vorige set",
+        "da": "Gå efter fornemmelsen — slå dit sidste sæt",
+        "pl": "Na czucie — pobij poprzednią serię",
+        "fr": "Au ressenti — dépassez votre dernière série",
+        "ar": "حسب إحساسك — تجاوز مجموعتك الأخيرة"
+      },
+      "rest.footer": {
+        "en": "Rest about 3 minutes between the two sets.",
+        "ru": "Отдыхайте около 3 минут между подходами.",
+        "hy": "Հանգստացեք մոտ 3 րոպե երկու մոտեցումների միջև։",
+        "sv": "Vila cirka 3 minuter mellan de två seten.",
+        "nb": "Hvil omtrent 3 minutter mellom de to settene.",
+        "nl": "Rust ongeveer 3 minuten tussen de twee sets.",
+        "da": "Hvil cirka 3 minutter mellem de to sæt.",
+        "pl": "Odpoczywaj około 3 minut między seriami.",
+        "fr": "Reposez-vous environ 3 minutes entre les deux séries.",
+        "ar": "استرح حوالي 3 دقائق بين المجموعتين."
+      },
+      "start": {
+        "en": "Start 2S2F Workout",
+        "ru": "Начать тренировку 2S2F",
+        "hy": "Սկսել 2S2F մարզումը",
+        "sv": "Starta 2S2F-passet",
+        "nb": "Start 2S2F-økten",
+        "nl": "Start 2S2F-training",
+        "da": "Start 2S2F-træning",
+        "pl": "Rozpocznij trening 2S2F",
+        "fr": "Démarrer la séance 2S2F",
+        "ar": "ابدأ تمرين 2S2F"
+      },
+      "subtitle": {
+        "en": "Two working sets per exercise, each taken to failure.",
+        "ru": "Два рабочих подхода на упражнение, каждый — до отказа.",
+        "hy": "Երկու աշխատանքային մոտեցում յուրաքանչյուր վարժության համար՝ մինչև ձախողում։",
+        "sv": "Två arbetsset per övning, vart och ett till utmattning.",
+        "nb": "To arbeidssett per øvelse, hvert til utmattelse.",
+        "nl": "Twee werksets per oefening, elk tot falen.",
+        "da": "To arbejdssæt per øvelse, hvert til udmattelse.",
+        "pl": "Dwie serie robocze na ćwiczenie, każda do upadku.",
+        "fr": "Deux séries de travail par exercice, chacune jusqu'à l'échec.",
+        "ar": "مجموعتان فعليتان لكل تمرين، كل منهما حتى الفشل."
+      },
+      "suggestions": {
+        "en": "Your plan",
+        "ru": "Ваш план",
+        "hy": "Ձեր պլանը",
+        "sv": "Din plan",
+        "nb": "Planen din",
+        "nl": "Je plan",
+        "da": "Din plan",
+        "pl": "Twój plan",
+        "fr": "Votre plan",
+        "ar": "خطتك"
+      },
+      "suggestions.empty": {
+        "en": "Not enough history on these muscles yet. Log a few more sessions and your plan can prescribe loads.",
+        "ru": "Пока мало истории по этим мышцам. Проведите ещё несколько тренировок, и план сможет предложить веса.",
+        "hy": "Այս մկանների պատմությունը դեռ քիչ է։ Գրանցեք ևս մի քանի մարզում, և պլանը կկարողանա առաջարկել կշիռներ։",
+        "sv": "För lite historik för dessa muskler än. Logga några pass till så kan planen föreslå vikter.",
+        "nb": "For lite historikk for disse musklene ennå. Logg noen flere økter, så kan planen foreslå vekter.",
+        "nl": "Nog te weinig historie voor deze spieren. Log nog een paar sessies, dan kan het plan gewichten voorstellen.",
+        "da": "For lidt historik for disse muskler endnu. Log et par træninger mere, så kan planen foreslå vægte.",
+        "pl": "Za mało historii dla tych mięśni. Zapisz jeszcze kilka treningów, a plan zaproponuje ciężary.",
+        "fr": "Pas encore assez d'historique pour ces muscles. Enregistrez quelques séances de plus et le plan pourra proposer des charges.",
+        "ar": "لا يوجد سجل كافٍ لهذه العضلات بعد. سجّل بضع جلسات أخرى ليتمكن التطبيق من اقتراح الأوزان."
+      },
+      "suggestions.pickGroups": {
+        "en": "Select at least one muscle group to see your plan.",
+        "ru": "Выберите хотя бы одну группу мышц, чтобы увидеть план.",
+        "hy": "Ընտրեք առնվազն մեկ մկանային խումբ՝ պլանը տեսնելու համար։",
+        "sv": "Välj minst en muskelgrupp för att se planen.",
+        "nb": "Velg minst én muskelgruppe for å se planen.",
+        "nl": "Selecteer minstens één spiergroep om je plan te zien.",
+        "da": "Vælg mindst én muskelgruppe for at se planen.",
+        "pl": "Wybierz co najmniej jedną grupę mięśniową, aby zobaczyć plan.",
+        "fr": "Sélectionnez au moins un groupe musculaire pour voir votre plan.",
+        "ar": "اختر مجموعة عضلية واحدة على الأقل لعرض خطتك."
+      },
+      "targetReps": {
+        "en": "Fail at %lld–%lld reps",
+        "ru": "Отказ на %lld–%lld повт.",
+        "hy": "Ձախողում՝ %lld–%lld կրկն.",
+        "sv": "Utmattning vid %lld–%lld reps",
+        "nb": "Utmattelse ved %lld–%lld reps",
+        "nl": "Falen bij %lld–%lld herh.",
+        "da": "Udmattelse ved %lld–%lld reps",
+        "pl": "Upadek przy %lld–%lld powt.",
+        "fr": "Échec à %lld–%lld répétitions",
+        "ar": "الفشل عند %lld–%lld تكرار"
+      },
+      "title": {
+        "en": "Two Sets to Failure",
+        "ru": "Два подхода до отказа",
+        "hy": "Երկու մոտեցում մինչև ձախողում",
+        "sv": "Två set till utmattning",
+        "nb": "To sett til utmattelse",
+        "nl": "Twee sets tot falen",
+        "da": "To sæt til udmattelse",
+        "pl": "Dwie serie do upadku",
+        "fr": "Deux séries jusqu'à l'échec",
+        "ar": "مجموعتان حتى الفشل"
+      },
+      "unlock.action": {
+        "en": "Try it",
+        "ru": "Попробовать",
+        "hy": "Փորձել",
+        "sv": "Prova",
+        "nb": "Prøv",
+        "nl": "Probeer",
+        "da": "Prøv",
+        "pl": "Wypróbuj",
+        "fr": "Essayer",
+        "ar": "جرّبه"
+      },
+      "unlock.body": {
+        "en": "Three weeks in a row. Time for a harder session: two sets per exercise, each taken to failure.",
+        "ru": "Три недели подряд. Пора для более тяжёлой тренировки: два подхода на упражнение, каждый — до отказа.",
+        "hy": "Երեք շաբաթ անընդմեջ։ Ժամանակն է ավելի ծանր մարզման՝ երկու մոտեցում յուրաքանչյուր վարժության համար, յուրաքանչյուրը՝ մինչև ձախողում։",
+        "sv": "Tre veckor i rad. Dags för ett tuffare pass: två set per övning, vart och ett till utmattning.",
+        "nb": "Tre uker på rad. På tide med en tøffere økt: to sett per øvelse, hvert til utmattelse.",
+        "nl": "Drie weken op rij. Tijd voor een zwaardere sessie: twee sets per oefening, elk tot falen.",
+        "da": "Tre uger i træk. Tid til en hårdere træning: to sæt per øvelse, hvert til udmattelse.",
+        "pl": "Trzy tygodnie z rzędu. Czas na cięższy trening: dwie serie na ćwiczenie, każda do upadku.",
+        "fr": "Trois semaines d'affilée. Il est temps de passer à une séance plus dure : deux séries par exercice, chacune jusqu'à l'échec.",
+        "ar": "ثلاثة أسابيع متتالية. حان وقت جلسة أصعب: مجموعتان لكل تمرين، كل منهما حتى الفشل."
+      },
+      "unlock.later": {
+        "en": "Later",
+        "ru": "Позже",
+        "hy": "Ավելի ուշ",
+        "sv": "Senare",
+        "nb": "Senere",
+        "nl": "Later",
+        "da": "Senere",
+        "pl": "Później",
+        "fr": "Plus tard",
+        "ar": "لاحقاً"
+      },
+      "unlock.title": {
+        "en": "2S2F unlocked",
+        "ru": "2S2F открыт",
+        "hy": "2S2F-ը բացված է",
+        "sv": "2S2F upplåst",
+        "nb": "2S2F låst opp",
+        "nl": "2S2F ontgrendeld",
+        "da": "2S2F låst op",
+        "pl": "Odblokowano 2S2F",
+        "fr": "2S2F débloqué",
+        "ar": "تم فتح 2S2F"
+      },
+      "workingSets.footer": {
+        "en": "These are working sets. Warm up first — warm-up sets are not logged.",
+        "ru": "Это рабочие подходы. Сначала разомнитесь — разминочные подходы не записываются.",
+        "hy": "Սրանք աշխատանքային մոտեցումներ են։ Նախ տաքացեք՝ տաքացման մոտեցումները չեն գրանցվում։",
+        "sv": "Det här är arbetsset. Värm upp först — uppvärmningsset loggas inte.",
+        "nb": "Dette er arbeidssett. Varm opp først — oppvarmingssett logges ikke.",
+        "nl": "Dit zijn werksets. Warm eerst op — warming-upsets worden niet gelogd.",
+        "da": "Dette er arbejdssæt. Varm op først — opvarmningssæt logges ikke.",
+        "pl": "To serie robocze. Najpierw rozgrzewka — serie rozgrzewkowe nie są zapisywane.",
+        "fr": "Ce sont des séries de travail. Échauffez-vous d'abord — les séries d'échauffement ne sont pas enregistrées.",
+        "ar": "هذه مجموعات عمل. أحمِ عضلاتك أولاً — مجموعات الإحماء لا تُسجَّل."
       }
     },
     "Friends": {
@@ -12171,6 +12353,90 @@
         "pl": "%lld nowych rekordów",
         "fr": "%lld nouveaux records",
         "ar": "%lld رقم قياسي جديد"
+      },
+      "streak.daysLabel": {
+        "en": "Days this week",
+        "ru": "Дней на неделе",
+        "hy": "Օրեր այս շաբաթ",
+        "sv": "Dagar denna vecka",
+        "nb": "Dager denne uken",
+        "nl": "Dagen deze week",
+        "da": "Dage i denne uge",
+        "pl": "Dni w tym tygodniu",
+        "fr": "Jours cette semaine",
+        "ar": "أيام هذا الأسبوع"
+      },
+      "streak.eyebrow": {
+        "en": "STREAK",
+        "ru": "СЕРИЯ",
+        "hy": "ՇԱՐՔ",
+        "sv": "SVIT",
+        "nb": "REKKE",
+        "nl": "REEKS",
+        "da": "STREAK",
+        "pl": "SERIA",
+        "fr": "SÉRIE",
+        "ar": "سلسلة"
+      },
+      "streak.goal": {
+        "en": "%lld days a week",
+        "ru": "%lld дн. в неделю",
+        "hy": "Շաբաթը %lld օր",
+        "sv": "%lld dagar i veckan",
+        "nb": "%lld dager i uken",
+        "nl": "%lld dagen per week",
+        "da": "%lld dage om ugen",
+        "pl": "%lld dni w tygodniu",
+        "fr": "%lld jours par semaine",
+        "ar": "%lld أيام في الأسبوع"
+      },
+      "streak.goalOne": {
+        "en": "1 day a week",
+        "ru": "1 день в неделю",
+        "hy": "Շաբաթը 1 օր",
+        "sv": "1 dag i veckan",
+        "nb": "1 dag i uken",
+        "nl": "1 dag per week",
+        "da": "1 dag om ugen",
+        "pl": "1 dzień w tygodniu",
+        "fr": "1 jour par semaine",
+        "ar": "يوم واحد في الأسبوع"
+      },
+      "streak.title": {
+        "en": "%lld week streak",
+        "ru": "Серия %lld нед.",
+        "hy": "%lld շաբաթվա շարք",
+        "sv": "%lld veckors svit",
+        "nb": "%lld ukers rekke",
+        "nl": "Reeks van %lld weken",
+        "da": "%lld ugers streak",
+        "pl": "Seria %lld tygodni",
+        "fr": "Série de %lld semaines",
+        "ar": "سلسلة %lld أسابيع"
+      },
+      "streak.titleOne": {
+        "en": "1 week streak",
+        "ru": "Серия 1 неделя",
+        "hy": "1 շաբաթվա շարք",
+        "sv": "1 veckas svit",
+        "nb": "1 ukes rekke",
+        "nl": "Reeks van 1 week",
+        "da": "1 uges streak",
+        "pl": "Seria 1 tygodnia",
+        "fr": "Série de 1 semaine",
+        "ar": "سلسلة أسبوع واحد"
+      },
+      "streak.weeksLabel": {
+        "en": "Weeks",
+        "ru": "Недели",
+        "hy": "Շաբաթներ",
+        "sv": "Veckor",
+        "nb": "Uker",
+        "nl": "Weken",
+        "da": "Uger",
+        "pl": "Tygodnie",
+        "fr": "Semaines",
+        "ar": "الأسابيع"
       },
       "style.balance": {
         "en": "Balance",
