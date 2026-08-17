@@ -1,4 +1,4 @@
-# Lull Fan — remote noise catalog
+# Lull — remote noise catalog
 
 Same pattern as `remote/catalog/` for Gym Logbook (see `../CONTENT_PIPELINE.md`),
 scaled down to what this app actually needs: no locales, no maintenance/force
