@@ -1,0 +1,8 @@
+# app-ads.txt — authorized digital sellers for davoxdavo's apps (IAB Tech Lab spec v1.0)
+#
+# NOTE: served here at davoxdavo.github.io/weightliftingAssets/app-ads.txt, which is
+# NOT a path any ad network crawls — the spec only ever fetches <domain>/app-ads.txt.
+# The crawled copy lives in the davoxdavo.github.io user-site repo. This copy exists
+# so the record travels with the assets, and becomes the live one if a custom domain
+# is ever pointed at this repo. Keep the two in sync.
+google.com, pub-7641237276204929, DIRECT, f08c47fec0942fa0
