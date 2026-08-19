@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gym Logbook — Workout Tracker</title>
+  <meta name="description" content="A fast, offline-first weightlifting logbook. Log a set in two taps, track PRs and estimated 1RM, plan with templates and supersets, and see exactly which muscles are lagging." />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Gym Logbook — Workout Tracker" />
+  <meta property="og:description" content="A fast, offline-first weightlifting logbook. Log a set in two taps, track PRs and estimated 1RM, and see which muscles are lagging." />
+  <meta property="og:url" content="https://davoxdavo.github.io/weightliftingAssets/remote/legal/marketing.html" />
+  <meta property="og:image" content="https://davoxdavo.github.io/weightliftingAssets/remote/legal/marketing-assets/gym-logbook-workout-tab.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <style>
+    :root {
+      color-scheme: light dark;
+      --fg: #1c1c1e;
+      --muted: #6c6c70;
+      --bg: #ffffff;
+      --surface: #f2f2f7;
+      --rule: rgba(60, 60, 67, 0.18);
+      --link: #007aff;
+      --accent: #007aff;
+      --on-accent: #ffffff;
+
+      --c-chest: #ff3b30;
+      --c-back: #007aff;
+      --c-legs: #34c759;
+      --c-shoulders: #ff9500;
+      --c-arms: #af52de;
+      --c-core: #ffcc00;
+      --c-cardio: #32ade6;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --fg: #f2f2f7;
+        --muted: #98989f;
+        --bg: #000000;
+        --surface: #1c1c1e;
+        --rule: rgba(84, 84, 88, 0.45);
+        --link: #0a84ff;
+        --accent: #0a84ff;
+
+        --c-chest: #ff6b61;
+        --c-back: #5ac8fa;
+        --c-legs: #30d158;
+        --c-shoulders: #ffb340;
+        --c-arms: #da8fff;
+        --c-core: #ffd60a;
+        --c-cardio: #64d2ff;
+      }
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 0 20px 56px;
+      /* NOTE: do not collapse this into the `font:` shorthand with -apple-system-body.
+         That shorthand only parses in Safari; every other engine drops the whole
+         declaration and falls back to serif. */
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      font-size: 17px;
+      line-height: 1.55;
+      color: var(--fg);
+      background: var(--bg);
+      max-width: 46rem;
+      margin-inline: auto;
+      overflow-x: hidden;
+    }
+
+    /* Category accent strip — mirrors the exercise-card accent in the app */
+    .accent-strip {
+      height: 4px;
+      margin: 0 -20px 28px;
+      background: linear-gradient(
+        90deg,
+        var(--c-chest) 0%, var(--c-back) 17%, var(--c-legs) 34%,
+        var(--c-shoulders) 50%, var(--c-arms) 66%, var(--c-core) 83%, var(--c-cardio) 100%
+      );
+    }
+
+    header { padding-top: 4px; }
+
+    .wordmark {
+      font-size: 0.82rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0 0 1.6rem;
+    }
+
+    h1 {
+      font-size: 2.05rem;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      margin: 0 0 0.6rem;
+    }
+
+    .lede {
+      font-size: 1.12rem;
+      color: var(--muted);
+      margin: 0 0 1.6rem;
+      max-width: 34rem;
+    }
+
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem 1rem;
+      margin-bottom: 0.6rem;
+    }
+
+    /* Replace .cta-pending with:
+       <a class="cta" href="https://apps.apple.com/app/idXXXXXXXXX">Download on the App Store</a>
+       once App Store Connect assigns the Apple ID. */
+    .cta {
+      display: inline-block;
+      padding: 0.7rem 1.35rem;
+      border-radius: 12px;
+      background: var(--accent);
+      color: var(--on-accent);
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+    }
+    .cta-pending {
+      display: inline-block;
+      padding: 0.7rem 1.35rem;
+      border-radius: 12px;
+      border: 1px solid var(--rule);
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 1rem;
+    }
+    .cta-note { font-size: 0.9rem; color: var(--muted); }
+
+    .requires {
+      font-size: 0.88rem;
+      color: var(--muted);
+      margin: 0 0 2.4rem;
+    }
+
+    h2 {
+      font-size: 1.32rem;
+      letter-spacing: -0.01em;
+      margin: 2.6rem 0 0.5rem;
+    }
+    h3 {
+      font-size: 1rem;
+      margin: 0 0 0.3rem;
+    }
+    p { margin: 0 0 0.9rem; font-size: 1rem; }
+
+    .section-lede { color: var(--muted); margin-bottom: 1.3rem; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+      gap: 1rem;
+      margin-bottom: 0.6rem;
+    }
+    .card {
+      padding: 1.05rem 1.15rem;
+      border: 1px solid var(--rule);
+      border-radius: 14px;
+      background: var(--surface);
+    }
+    .card p { margin: 0; font-size: 0.95rem; color: var(--muted); }
+
+    /* Screenshot gallery — frames carry their own headlines, so no captions here */
+    .shots {
+      display: flex;
+      gap: 14px;
+      overflow-x: auto;
+      padding: 0.25rem 20px 1.1rem;
+      margin: 0 -20px 0.4rem;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+    }
+    .shots img {
+      flex: 0 0 auto;
+      width: 232px;
+      max-width: 62vw;
+      height: auto;
+      border-radius: 16px;
+      border: 1px solid var(--rule);
+      scroll-snap-align: start;
+    }
+    .shots-hint {
+      font-size: 0.86rem;
+      color: var(--muted);
+      margin: 0 0 0.4rem;
+    }
+
+    ul { margin: 0 0 0.9rem; padding-left: 1.2rem; }
+    li { margin-bottom: 0.35rem; font-size: 1rem; }
+
+    .langs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin: 0 0 0.9rem;
+      padding: 0;
+      list-style: none;
+    }
+    .langs li {
+      margin: 0;
+      font-size: 0.9rem;
+      color: var(--muted);
+      border: 1px solid var(--rule);
+      border-radius: 999px;
+      padding: 0.2rem 0.7rem;
+    }
+
+    a { color: var(--link); }
+
+    hr {
+      border: 0;
+      border-top: 1px solid var(--rule);
+      margin: 2.6rem 0 1.4rem;
+    }
+
+    footer { font-size: 0.9rem; color: var(--muted); }
+    footer nav { margin-bottom: 0.7rem; }
+    footer nav a { margin-right: 1rem; }
+
+    @media (max-width: 30rem) {
+      h1 { font-size: 1.7rem; }
+      .lede { font-size: 1.02rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="accent-strip" role="presentation"></div>
+
+  <header>
+    <p class="wordmark">Gym Logbook</p>
+    <h1>A workout log that keeps up with you.</h1>
+    <p class="lede">
+      Log a set in two taps. Track personal records and estimated 1RM automatically.
+      See exactly which muscles are lagging — and train them next. Works with no signal.
+    </p>
+
+    <div class="cta-row">
+      <span class="cta-pending">Coming to the App Store</span>
+      <span class="cta-note">iPhone &amp; iPad</span>
+    </div>
+    <p class="requires">Requires iOS 17 or later. No account needed to start.</p>
+  </header>
+
+  <h2>Built for the gym floor, not the desk</h2>
+  <p class="section-lede">
+    Every screen is shaped by one question: how many taps does this cost between sets?
+  </p>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Two taps per set</h3>
+      <p>Wheel pickers sized for a phone held in one hand. Duplicate your last set in a single tap, or apply what you did last time and adjust from there.</p>
+    </div>
+    <div class="card">
+      <h3>Never loses your session</h3>
+      <p>Local-first with auto-save. An in-progress workout survives a phone call, a dead battery, or a basement with no bars of signal.</p>
+    </div>
+    <div class="card">
+      <h3>Previous performance, in place</h3>
+      <p>Last time's weight and reps sit right under the set you're about to log, with a one-tap Apply — no digging through history mid-set.</p>
+    </div>
+    <div class="card">
+      <h3>Rest timer that stays visible</h3>
+      <p>Countdown or stopwatch on the Lock Screen and Dynamic Island, with +15s and Stop where your thumb already is. Rest is logged with the set.</p>
+    </div>
+  </div>
+
+  <h2>See it</h2>
+  <p class="shots-hint">Swipe to browse.</p>
+  <div class="shots">
+    <img src="marketing-assets/gym-logbook-workout-tab.png" alt="Workout tab: start an empty workout, pick a template, or start a Balanced session." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-chest-subgroups.png" alt="Exercise library filtered to chest by region — upper, mid and lower." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-active-superset.png" alt="Logging a superset with alternating focus and previous performance." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-form-guide.png" alt="Exercise form guide showing primary, secondary and tertiary target muscles on a body map." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-calendar.png" alt="Calendar workout history with muscle rings on the days you trained." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-insights-spider.png" alt="Insights spider chart showing muscle balance across trained groups." loading="lazy" />
+    <img src="marketing-assets/gym-logbook-balanced.png" alt="Balanced session: choose a lookback window, review the spider chart, start a suggested session." loading="lazy" />
+  </div>
+
+  <h2>Know what to train next</h2>
+  <p>
+    Most logs tell you what you did. This one tells you what you've been avoiding.
+    Pick a lookback window — a week, a month, whatever you like — and the spider chart shows how
+    your training actually distributed across muscle groups. Tap into a group to see its subgroups.
+  </p>
+  <p>
+    <strong>Balanced sessions</strong> turn that into a workout: choose an under-trained muscle and get
+    ranked suggestions, including supersets, built from what you've actually been lifting.
+  </p>
+
+  <h2>Plan it, or don't</h2>
+  <ul>
+    <li><strong>Templates</strong> carry planned targets. Starting one shows the plan — it doesn't log a session's worth of sets you haven't done yet.</li>
+    <li><strong>Supersets</strong> from a preset library or thrown together on the spot, with alternating focus.</li>
+    <li><strong>Every logging type</strong> — weight × reps, reps only, duration, distance, multi-parameter cardio, and resistance bands by level.</li>
+    <li><strong>Personal records</strong> grouped by category, and estimated 1RM (Epley) calculated for you.</li>
+  </ul>
+
+  <h2>Your data stays yours</h2>
+  <ul>
+    <li><strong>Guest mode is the default.</strong> No account, no email, no sign-up wall. Sign in with Apple or Google later if you want your history on more than one device.</li>
+    <li><strong>Full export</strong> to JSON or a CSV archive, any time. Import it back.</li>
+    <li><strong>Apple Health is write-only and optional.</strong> Finished workouts and, if you choose, distance. Your Health history is never read, and calories are never guessed at.</li>
+    <li><strong>Recycle Bin</strong> holds deleted workouts for 30 days, so a mis-tap isn't permanent.</li>
+  </ul>
+
+  <h2>In your language</h2>
+  <p class="section-lede">Interface and exercise catalog, not machine-translated at runtime.</p>
+  <ul class="langs">
+    <li>English</li><li>Русский</li><li>Հայերեն</li><li>Svenska</li><li>Norsk</li>
+    <li>Nederlands</li><li>Dansk</li><li>Polski</li><li>Français</li><li>العربية</li>
+  </ul>
+
+  <hr />
+
+  <footer>
+    <nav>
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms</a>
+    </nav>
+    <p>
+      Questions? Email
+      <a href="mailto:davit.ghushchyan@gmail.com">davit.ghushchyan@gmail.com</a>.
+    </p>
+    <p>© 2026 Davit Ghushchyan. Gym Logbook is not affiliated with Apple Inc.</p>
+  </footer>
+</body>
+</html>

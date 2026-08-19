@@ -22,6 +22,9 @@ remote/
   legal/
     terms.html                     # Terms and Conditions (generic English)
     privacy.html                   # Privacy Policy (generic English)
+    support.html                   # Support page — App Store Connect "Support URL"
+    marketing.html                 # Product landing page — App Store Connect "Marketing URL"
+    marketing-assets/              # 7 web-sized App Store frames used by marketing.html only
   catalog/                                  # live paths 2026-07-31 — manifest.json is the truth
     exercises/v13/gym_exercises.json
     supersets/v3/gym_supersets.json
