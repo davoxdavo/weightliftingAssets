@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1786736848,
+  "lastSyncedAt": 1787126459,
   "strings": {
     "Misc": {
       "": {
@@ -1072,6 +1072,30 @@
         "fr": "Confirmez que c’est bien vous",
         "ar": "أكد أنك أنت"
       },
+      "setFeel.footer": {
+        "en": "Mark how each set felt, from Easy to Extreme, and see past marks when picking a weight. Turning this off hides the marks — it never deletes them.",
+        "ru": "Отмечайте, как ощущался подход, от «Легко» до «Предельно», и видьте прошлые отметки при выборе веса. Выключение скрывает отметки, но не удаляет их.",
+        "hy": "Նշեք, թե ինչպես է զգացվել յուրաքանչյուր մոտեցումը՝ «Հեշտ»-ից «Ծայրահեղ», և տեսեք նախորդ նշումները քաշն ընտրելիս: Անջատելը թաքցնում է նշումները, բայց չի ջնջում դրանք:",
+        "sv": "Markera hur varje set kändes, från Lätt till Extremt, och se tidigare markeringar när du väljer vikt. Att stänga av döljer markeringarna — de raderas aldrig.",
+        "nb": "Merk hvordan hvert sett føltes, fra Lett til Ekstremt, og se tidligere merker når du velger vekt. Å slå av skjuler merkene — de slettes aldri.",
+        "nl": "Markeer hoe elke set voelde, van Makkelijk tot Extreem, en zie eerdere markeringen bij het kiezen van een gewicht. Uitschakelen verbergt de markeringen — ze worden nooit verwijderd.",
+        "da": "Markér hvordan hvert sæt føltes, fra Let til Ekstremt, og se tidligere mærker når du vælger vægt. Slå fra skjuler mærkerne — de slettes aldrig.",
+        "pl": "Oznacz, jak wypadła każda seria, od Łatwo do Ekstremalnie, i zobacz wcześniejsze oznaczenia przy wyborze ciężaru. Wyłączenie ukrywa oznaczenia — nigdy ich nie usuwa.",
+        "fr": "Notez le ressenti de chaque série, de Facile à Extrême, et retrouvez les notes passées au moment de choisir la charge. Désactiver masque les notes — elles ne sont jamais supprimées.",
+        "ar": "حدّد إحساسك بكل مجموعة، من سهل إلى أقصى، وشاهد التحديدات السابقة عند اختيار الوزن. الإيقاف يخفي التحديدات ولا يحذفها أبدًا."
+      },
+      "setFeel.title": {
+        "en": "Set feel marks",
+        "ru": "Отметки ощущений",
+        "hy": "Զգացողության նշումներ",
+        "sv": "Känslomarkeringar",
+        "nb": "Følelsesmerker",
+        "nl": "Gevoelsmarkeringen",
+        "da": "Fornemmelsesmærker",
+        "pl": "Oznaczenia odczucia",
+        "fr": "Marques de ressenti",
+        "ar": "علامات الإحساس"
+      },
       "signIn.apple": {
         "en": "Continue with Apple",
         "ru": "Продолжить с Apple",
@@ -1215,6 +1239,150 @@
         "pl": "Konto połączone na tym urządzeniu",
         "fr": "Compte associé sur cet appareil",
         "ar": "تم ربط الحساب على هذا الجهاز"
+      },
+      "streak.days.footer": {
+        "en": "Training days needed for the week to count.",
+        "ru": "Сколько тренировочных дней нужно, чтобы неделя засчиталась.",
+        "hy": "Քանի մարզման օր է պետք, որ շաբաթը հաշվվի։",
+        "sv": "Träningsdagar som krävs för att veckan ska räknas.",
+        "nb": "Treningsdager som kreves for at uken skal telle.",
+        "nl": "Trainingsdagen die nodig zijn om de week te laten tellen.",
+        "da": "Træningsdage der kræves, for at ugen tæller.",
+        "pl": "Ile dni treningowych potrzeba, aby tydzień się liczył.",
+        "fr": "Jours d'entraînement nécessaires pour que la semaine compte.",
+        "ar": "أيام التمرين اللازمة لاحتساب الأسبوع."
+      },
+      "streak.days.title": {
+        "en": "Days a week",
+        "ru": "Дней в неделю",
+        "hy": "Օր շաբաթում",
+        "sv": "Dagar i veckan",
+        "nb": "Dager i uken",
+        "nl": "Dagen per week",
+        "da": "Dage om ugen",
+        "pl": "Dni w tygodniu",
+        "fr": "Jours par semaine",
+        "ar": "الأيام في الأسبوع"
+      },
+      "streak.deviceFooter": {
+        "en": "Saved on this device. Changing it recalculates your streak — no workouts are affected.",
+        "ru": "Сохраняется на этом устройстве. Изменение пересчитывает серию — тренировки не затрагиваются.",
+        "hy": "Պահվում է այս սարքում։ Փոփոխությունը վերահաշվարկում է սերիան — մարզումները չեն փոխվում։",
+        "sv": "Sparas på den här enheten. Ändringen räknar om din serie — inga pass påverkas.",
+        "nb": "Lagres på denne enheten. Endringen regner om rekken din — ingen økter påvirkes.",
+        "nl": "Opgeslagen op dit apparaat. Wijzigen herberekent je reeks — trainingen blijven ongemoeid.",
+        "da": "Gemmes på denne enhed. Ændringen genberegner din række — ingen træninger påvirkes.",
+        "pl": "Zapisywane na tym urządzeniu. Zmiana przelicza serię — treningi pozostają bez zmian.",
+        "fr": "Enregistré sur cet appareil. La modification recalcule votre série — aucune séance n'est affectée.",
+        "ar": "محفوظ على هذا الجهاز. التغيير يعيد حساب سلسلتك — ولا يؤثر على أي تمرين."
+      },
+      "streak.exercises.footer": {
+        "en": "Exercises a workout needs before that day counts.",
+        "ru": "Сколько упражнений нужно в тренировке, чтобы день засчитался.",
+        "hy": "Քանի վարժություն է պետք մարզման մեջ, որ օրը հաշվվի։",
+        "sv": "Övningar ett pass behöver för att dagen ska räknas.",
+        "nb": "Øvelser en økt trenger for at dagen skal telle.",
+        "nl": "Oefeningen die een training nodig heeft om die dag te laten tellen.",
+        "da": "Øvelser en træning skal have, for at dagen tæller.",
+        "pl": "Ile ćwiczeń musi mieć trening, aby dzień się liczył.",
+        "fr": "Exercices qu'une séance doit compter pour que le jour compte.",
+        "ar": "عدد التمارين التي يحتاجها التمرين لاحتساب اليوم."
+      },
+      "streak.exercises.title": {
+        "en": "Exercises a day",
+        "ru": "Упражнений в день",
+        "hy": "Վարժություն օրում",
+        "sv": "Övningar per dag",
+        "nb": "Øvelser per dag",
+        "nl": "Oefeningen per dag",
+        "da": "Øvelser pr. dag",
+        "pl": "Ćwiczeń dziennie",
+        "fr": "Exercices par jour",
+        "ar": "التمارين في اليوم"
+      },
+      "streak.footer": {
+        "en": "A week counts when you train enough days, and each of those days has a workout with enough exercises and enough sets.",
+        "ru": "Неделя засчитывается, если вы тренировались достаточно дней, и в каждый из этих дней было достаточно упражнений и подходов.",
+        "hy": "Շաբաթը հաշվվում է, երբ մարզվել եք բավարար օր, և այդ օրերից յուրաքանչյուրում եղել է բավարար վարժություն ու մոտեցում։",
+        "sv": "En vecka räknas när du tränat tillräckligt många dagar, och varje sådan dag har ett pass med tillräckligt många övningar och set.",
+        "nb": "En uke teller når du har trent nok dager, og hver av dem har en økt med nok øvelser og sett.",
+        "nl": "Een week telt als je genoeg dagen hebt getraind, en elk van die dagen een training heeft met genoeg oefeningen en sets.",
+        "da": "En uge tæller, når du har trænet nok dage, og hver af dem har en træning med nok øvelser og sæt.",
+        "pl": "Tydzień liczy się, gdy trenujesz wystarczająco dużo dni, a każdy z nich ma trening z wystarczającą liczbą ćwiczeń i serii.",
+        "fr": "Une semaine compte lorsque vous vous êtes entraîné assez de jours, et que chacun de ces jours comporte une séance avec assez d'exercices et de séries.",
+        "ar": "يُحتسب الأسبوع عندما تتمرن عددًا كافيًا من الأيام، ويتضمن كل يوم منها تمرينًا بعدد كافٍ من التمارين والمجموعات."
+      },
+      "streak.reset": {
+        "en": "Reset to default",
+        "ru": "Сбросить по умолчанию",
+        "hy": "Վերականգնել լռելյայնը",
+        "sv": "Återställ till standard",
+        "nb": "Tilbakestill til standard",
+        "nl": "Terugzetten naar standaard",
+        "da": "Nulstil til standard",
+        "pl": "Przywróć domyślne",
+        "fr": "Rétablir les valeurs par défaut",
+        "ar": "إعادة التعيين إلى الافتراضي"
+      },
+      "streak.sets.footer": {
+        "en": "Sets an exercise needs before it counts. Two Sets to Failure sessions always count at two.",
+        "ru": "Сколько подходов нужно в упражнении, чтобы оно засчиталось. Сессии «Два подхода до отказа» всегда считаются за два.",
+        "hy": "Քանի մոտեցում է պետք վարժությանը, որ այն հաշվվի։ «Երկու մոտեցում մինչև ձախողում» սեսիաները միշտ հաշվվում են երկուսով։",
+        "sv": "Set en övning behöver för att räknas. Pass med Två set till utmattning räknas alltid som två.",
+        "nb": "Sett en øvelse trenger for å telle. Økter med To sett til utmattelse teller alltid som to.",
+        "nl": "Sets die een oefening nodig heeft om te tellen. Sessies met Twee sets tot falen tellen altijd als twee.",
+        "da": "Sæt en øvelse skal have for at tælle. Sessioner med To sæt til udmattelse tæller altid som to.",
+        "pl": "Ile serii musi mieć ćwiczenie, aby się liczyło. Sesje Dwie serie do upadku zawsze liczą się jako dwie.",
+        "fr": "Séries qu'un exercice doit compter pour être pris en compte. Les séances Deux séries jusqu'à l'échec comptent toujours pour deux.",
+        "ar": "عدد المجموعات التي يحتاجها التمرين ليُحتسب. جلسات «مجموعتان حتى الفشل» تُحتسب دائمًا بمجموعتين."
+      },
+      "streak.sets.title": {
+        "en": "Sets an exercise",
+        "ru": "Подходов в упражнении",
+        "hy": "Մոտեցում վարժությունում",
+        "sv": "Set per övning",
+        "nb": "Sett per øvelse",
+        "nl": "Sets per oefening",
+        "da": "Sæt pr. øvelse",
+        "pl": "Serii na ćwiczenie",
+        "fr": "Séries par exercice",
+        "ar": "المجموعات لكل تمرين"
+      },
+      "streak.summary": {
+        "en": "%lld days a week",
+        "ru": "%lld дн. в неделю",
+        "hy": "%lld օր շաբաթում",
+        "sv": "%lld dagar i veckan",
+        "nb": "%lld dager i uken",
+        "nl": "%lld dagen per week",
+        "da": "%lld dage om ugen",
+        "pl": "%lld dni w tygodniu",
+        "fr": "%lld jours par semaine",
+        "ar": "%lld أيام في الأسبوع"
+      },
+      "streak.summaryOne": {
+        "en": "1 day a week",
+        "ru": "1 день в неделю",
+        "hy": "1 օր շաբաթում",
+        "sv": "1 dag i veckan",
+        "nb": "1 dag i uken",
+        "nl": "1 dag per week",
+        "da": "1 dag om ugen",
+        "pl": "1 dzień w tygodniu",
+        "fr": "1 jour par semaine",
+        "ar": "يوم واحد في الأسبوع"
+      },
+      "streak.title": {
+        "en": "Weekly streak goal",
+        "ru": "Цель недельной серии",
+        "hy": "Շաբաթական սերիայի նպատակ",
+        "sv": "Mål för veckoserie",
+        "nb": "Mål for ukesrekke",
+        "nl": "Doel voor weekreeks",
+        "da": "Mål for ugerække",
+        "pl": "Cel tygodniowej serii",
+        "fr": "Objectif de série hebdomadaire",
+        "ar": "هدف السلسلة الأسبوعية"
       },
       "title": {
         "en": "Account",
@@ -11990,6 +12158,18 @@
         "fr": "Durée de repos",
         "ar": "مدة الراحة"
       },
+      "timer.extend": {
+        "en": "+%llds",
+        "ru": "+%lld с",
+        "hy": "+%lld վրկ",
+        "sv": "+%lld s",
+        "nb": "+%lld s",
+        "nl": "+%lld s",
+        "da": "+%lld s",
+        "pl": "+%lld s",
+        "fr": "+%lld s",
+        "ar": "+%lld ث"
+      },
       "timer.label": {
         "en": "Rest",
         "ru": "Отдых",
@@ -12183,6 +12363,114 @@
         "pl": "Duplikat",
         "fr": "Dupé",
         "ar": "دوب"
+      },
+      "feel": {
+        "en": "Feel",
+        "ru": "Ощущение",
+        "hy": "Զգացողություն",
+        "sv": "Känsla",
+        "nb": "Følelse",
+        "nl": "Gevoel",
+        "da": "Fornemmelse",
+        "pl": "Odczucie",
+        "fr": "Ressenti",
+        "ar": "الإحساس"
+      },
+      "feel.easy": {
+        "en": "Easy",
+        "ru": "Легко",
+        "hy": "Հեշտ",
+        "sv": "Lätt",
+        "nb": "Lett",
+        "nl": "Makkelijk",
+        "da": "Let",
+        "pl": "Łatwo",
+        "fr": "Facile",
+        "ar": "سهل"
+      },
+      "feel.extreme": {
+        "en": "Extreme",
+        "ru": "Предельно",
+        "hy": "Ծայրահեղ",
+        "sv": "Extremt",
+        "nb": "Ekstremt",
+        "nl": "Extreem",
+        "da": "Ekstremt",
+        "pl": "Ekstremalnie",
+        "fr": "Extrême",
+        "ar": "أقصى"
+      },
+      "feel.hard": {
+        "en": "Hard",
+        "ru": "Тяжело",
+        "hy": "Ծանր",
+        "sv": "Tungt",
+        "nb": "Tungt",
+        "nl": "Zwaar",
+        "da": "Hårdt",
+        "pl": "Ciężko",
+        "fr": "Difficile",
+        "ar": "صعب"
+      },
+      "feel.lighterReference": {
+        "en": "Last marked at %@ × %lld",
+        "ru": "Последняя отметка: %@ × %lld",
+        "hy": "Վերջին նշումը՝ %@ × %lld",
+        "sv": "Senast markerat vid %@ × %lld",
+        "nb": "Sist merket ved %@ × %lld",
+        "nl": "Laatst gemarkeerd bij %@ × %lld",
+        "da": "Sidst markeret ved %@ × %lld",
+        "pl": "Ostatnio oznaczone przy %@ × %lld",
+        "fr": "Dernier ressenti à %@ × %lld",
+        "ar": "آخر تحديد عند %@ × %lld"
+      },
+      "feel.medium": {
+        "en": "Medium",
+        "ru": "Средне",
+        "hy": "Միջին",
+        "sv": "Medel",
+        "nb": "Middels",
+        "nl": "Gemiddeld",
+        "da": "Middel",
+        "pl": "Średnio",
+        "fr": "Moyen",
+        "ar": "متوسط"
+      },
+      "feel.pastReps": {
+        "en": "%lld reps",
+        "ru": "%lld повт.",
+        "hy": "%lld կրկն.",
+        "sv": "%lld reps",
+        "nb": "%lld reps",
+        "nl": "%lld herh.",
+        "da": "%lld gent.",
+        "pl": "%lld powt.",
+        "fr": "%lld rép.",
+        "ar": "%lld تكرار"
+      },
+      "feel.steady": {
+        "en": "Steady",
+        "ru": "Уверенно",
+        "hy": "Կայուն",
+        "sv": "Stabilt",
+        "nb": "Jevnt",
+        "nl": "Gestaag",
+        "da": "Stabilt",
+        "pl": "Spokojnie",
+        "fr": "Régulier",
+        "ar": "ثابت"
+      },
+      "feel.unmarked": {
+        "en": "Not marked",
+        "ru": "Не отмечено",
+        "hy": "Նշված չէ",
+        "sv": "Ej markerad",
+        "nb": "Ikke merket",
+        "nl": "Niet gemarkeerd",
+        "da": "Ikke markeret",
+        "pl": "Nieoznaczone",
+        "fr": "Non noté",
+        "ar": "غير محدد"
       },
       "markComplete": {
         "en": "Mark set complete",

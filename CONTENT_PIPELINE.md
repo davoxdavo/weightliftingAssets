@@ -36,7 +36,7 @@ Authoring source is one flat file per language:
 ```text
 remote/translations/locales/
   en.json … ar.json    # flat dotted key → string
-  keys.json            # canonical key set / order (1420 keys)
+  keys.json            # canonical key set / order (1580 keys)
   meta.json            # schemaVersion, lastSyncedAt, locale list, catalogKeyPrefixes
 ```
 
