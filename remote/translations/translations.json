@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787299378,
+  "lastSyncedAt": 1787300359,
   "strings": {
     "Misc": {
       "": {
@@ -12858,6 +12858,42 @@
         "fr": "%lld nouveaux records",
         "ar": "%lld رقم قياسي جديد"
       },
+      "photosDenied": {
+        "en": "Allow photo access in Settings to save the image.",
+        "ru": "Разрешите доступ к Фото в Настройках, чтобы сохранить изображение.",
+        "hy": "Թույլատրեք լուսանկարների հասանելիությունը Կարգավորումներում՝ պատկերը պահելու համար։",
+        "sv": "Tillåt åtkomst till Bilder i Inställningar för att spara bilden.",
+        "nb": "Gi tilgang til Bilder i Innstillinger for å lagre bildet.",
+        "nl": "Geef toegang tot Foto's in Instellingen om de afbeelding te bewaren.",
+        "da": "Giv adgang til Billeder i Indstillinger for at gemme billedet.",
+        "pl": "Zezwól na dostęp do Zdjęć w Ustawieniach, aby zapisać obraz.",
+        "fr": "Autorisez l'accès à Photos dans Réglages pour enregistrer l'image.",
+        "ar": "اسمح بالوصول إلى الصور في الإعدادات لحفظ الصورة."
+      },
+      "saveToPhotos": {
+        "en": "Save to Photos",
+        "ru": "Сохранить в Фото",
+        "hy": "Պահել Լուսանկարներում",
+        "sv": "Spara i Bilder",
+        "nb": "Lagre i Bilder",
+        "nl": "Bewaar in Foto's",
+        "da": "Gem i Billeder",
+        "pl": "Zapisz w Zdjęciach",
+        "fr": "Enregistrer dans Photos",
+        "ar": "حفظ في الصور"
+      },
+      "savedToPhotos": {
+        "en": "Saved to Photos",
+        "ru": "Сохранено в Фото",
+        "hy": "Պահվեց Լուսանկարներում",
+        "sv": "Sparad i Bilder",
+        "nb": "Lagret i Bilder",
+        "nl": "Bewaard in Foto's",
+        "da": "Gemt i Billeder",
+        "pl": "Zapisano w Zdjęciach",
+        "fr": "Enregistré dans Photos",
+        "ar": "تم الحفظ في الصور"
+      },
       "streak.daysLabel": {
         "en": "Days this week",
         "ru": "Дней на неделе",
@@ -12954,6 +12990,30 @@
         "fr": "Équilibre",
         "ar": "التوازن"
       },
+      "style.detail": {
+        "en": "All lifts",
+        "ru": "Все упражнения",
+        "hy": "Բոլոր վարժությունները",
+        "sv": "Alla övningar",
+        "nb": "Alle øvelser",
+        "nl": "Alle oefeningen",
+        "da": "Alle øvelser",
+        "pl": "Wszystkie ćwiczenia",
+        "fr": "Tous les exercices",
+        "ar": "كل التمارين"
+      },
+      "style.grid": {
+        "en": "Scoreboard",
+        "ru": "Табло",
+        "hy": "Վահանակ",
+        "sv": "Resultattavla",
+        "nb": "Resultattavle",
+        "nl": "Scorebord",
+        "da": "Resultattavle",
+        "pl": "Tablica wyników",
+        "fr": "Tableau",
+        "ar": "لوحة النتائج"
+      },
       "style.headline": {
         "en": "Headline",
         "ru": "Заголовок",
@@ -12989,6 +13049,18 @@
         "pl": "Przegląd",
         "fr": "Aperçu",
         "ar": "نظرة عامة"
+      },
+      "style.story": {
+        "en": "Story",
+        "ru": "Стори",
+        "hy": "Սթորի",
+        "sv": "Story",
+        "nb": "Story",
+        "nl": "Story",
+        "da": "Story",
+        "pl": "Relacja",
+        "fr": "Story",
+        "ar": "قصة"
       },
       "title": {
         "en": "Share",
