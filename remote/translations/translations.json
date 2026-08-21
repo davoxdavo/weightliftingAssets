@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787300359,
+  "lastSyncedAt": 1787328833,
   "strings": {
     "Misc": {
       "": {
@@ -1071,6 +1071,138 @@
         "pl": "Potwierdź, że to ty",
         "fr": "Confirmez que c’est bien vous",
         "ar": "أكد أنك أنت"
+      },
+      "reminders.denied": {
+        "en": "Notifications are turned off for Gym Logbook in your device settings, so nothing can be delivered.",
+        "ru": "Уведомления для Gym Logbook отключены в настройках устройства — напоминания не придут.",
+        "hy": "Gym Logbook-ի ծանուցումներն անջատված են սարքի կարգավորումներում, ուստի հիշեցում չի հասնի։",
+        "sv": "Aviseringar är avstängda för Gym Logbook i enhetens inställningar, så inget kan levereras.",
+        "nb": "Varsler er slått av for Gym Logbook i enhetsinnstillingene, så ingenting kan leveres.",
+        "nl": "Meldingen staan uit voor Gym Logbook in je apparaatinstellingen, dus er kan niets bezorgd worden.",
+        "da": "Notifikationer er slået fra for Gym Logbook i enhedens indstillinger, så der kan ikke leveres noget.",
+        "pl": "Powiadomienia dla Gym Logbook są wyłączone w ustawieniach urządzenia, więc nic nie zostanie dostarczone.",
+        "fr": "Les notifications sont désactivées pour Gym Logbook dans les réglages de l'appareil : rien ne peut être envoyé.",
+        "ar": "الإشعارات معطّلة لتطبيق Gym Logbook في إعدادات جهازك، لذا لن يصل أي تذكير."
+      },
+      "reminders.deviceFooter": {
+        "en": "Saved on this device.",
+        "ru": "Сохраняется на этом устройстве.",
+        "hy": "Պահվում է այս սարքում։",
+        "sv": "Sparas på den här enheten.",
+        "nb": "Lagres på denne enheten.",
+        "nl": "Opgeslagen op dit apparaat.",
+        "da": "Gemmes på denne enhed.",
+        "pl": "Zapisywane na tym urządzeniu.",
+        "fr": "Enregistré sur cet appareil.",
+        "ar": "محفوظ على هذا الجهاز."
+      },
+      "reminders.footer": {
+        "en": "A few times a week, only while the week still needs training days — never once it is complete.",
+        "ru": "Несколько раз в неделю и только пока неделе не хватает тренировочных дней — после её закрытия напоминаний нет.",
+        "hy": "Շաբաթը մի քանի անգամ և միայն այնքան ժամանակ, քանի դեռ շաբաթին մարզական օրեր են պակասում — փակվելուց հետո հիշեցում չկա։",
+        "sv": "Några gånger i veckan, bara så länge veckan saknar träningsdagar – aldrig när den är klar.",
+        "nb": "Noen ganger i uka, bare så lenge uka mangler treningsdager – aldri når den er fullført.",
+        "nl": "Een paar keer per week, alleen zolang de week nog trainingsdagen mist – nooit als hij compleet is.",
+        "da": "Et par gange om ugen og kun så længe ugen mangler træningsdage – aldrig når den er fuldført.",
+        "pl": "Kilka razy w tygodniu i tylko dopóki tygodniowi brakuje dni treningowych — nigdy po jego zaliczeniu.",
+        "fr": "Quelques fois par semaine, uniquement tant qu'il manque des jours d'entraînement — jamais une fois la semaine validée.",
+        "ar": "بضع مرات في الأسبوع، وفقط ما دام الأسبوع ينقصه أيام تدريب — ولا شيء بعد اكتماله."
+      },
+      "reminders.next": {
+        "en": "Next reminders",
+        "ru": "Ближайшие напоминания",
+        "hy": "Մոտակա հիշեցումները",
+        "sv": "Nästa påminnelser",
+        "nb": "Neste påminnelser",
+        "nl": "Volgende herinneringen",
+        "da": "Næste påmindelser",
+        "pl": "Najbliższe przypomnienia",
+        "fr": "Prochains rappels",
+        "ar": "التذكيرات القادمة"
+      },
+      "reminders.nextNone": {
+        "en": "Nothing scheduled.",
+        "ru": "Ничего не запланировано.",
+        "hy": "Ոչինչ նախատեսված չէ։",
+        "sv": "Inget är schemalagt.",
+        "nb": "Ingenting er planlagt.",
+        "nl": "Niets ingepland.",
+        "da": "Intet er planlagt.",
+        "pl": "Nic nie zaplanowano.",
+        "fr": "Rien de programmé.",
+        "ar": "لا شيء مجدول."
+      },
+      "reminders.openSettings": {
+        "en": "Open Settings",
+        "ru": "Открыть настройки",
+        "hy": "Բացել կարգավորումները",
+        "sv": "Öppna Inställningar",
+        "nb": "Åpne Innstillinger",
+        "nl": "Instellingen openen",
+        "da": "Åbn Indstillinger",
+        "pl": "Otwórz Ustawienia",
+        "fr": "Ouvrir les Réglages",
+        "ar": "فتح الإعدادات"
+      },
+      "reminders.summaryOff": {
+        "en": "Off",
+        "ru": "Выкл.",
+        "hy": "Անջատված",
+        "sv": "Av",
+        "nb": "Av",
+        "nl": "Uit",
+        "da": "Fra",
+        "pl": "Wył.",
+        "fr": "Désactivé",
+        "ar": "معطّل"
+      },
+      "reminders.summaryOn": {
+        "en": "At %@",
+        "ru": "В %@",
+        "hy": "Ժամը %@",
+        "sv": "Kl. %@",
+        "nb": "Kl. %@",
+        "nl": "Om %@",
+        "da": "Kl. %@",
+        "pl": "O %@",
+        "fr": "À %@",
+        "ar": "عند %@"
+      },
+      "reminders.time": {
+        "en": "Time of day",
+        "ru": "Время дня",
+        "hy": "Օրվա ժամը",
+        "sv": "Tid på dagen",
+        "nb": "Tid på dagen",
+        "nl": "Tijdstip",
+        "da": "Tidspunkt",
+        "pl": "Pora dnia",
+        "fr": "Heure de la journée",
+        "ar": "وقت اليوم"
+      },
+      "reminders.title": {
+        "en": "Training reminders",
+        "ru": "Напоминания о тренировках",
+        "hy": "Մարզումների հիշեցումներ",
+        "sv": "Träningspåminnelser",
+        "nb": "Treningspåminnelser",
+        "nl": "Trainingsherinneringen",
+        "da": "Træningspåmindelser",
+        "pl": "Przypomnienia o treningu",
+        "fr": "Rappels d'entraînement",
+        "ar": "تذكيرات التمرين"
+      },
+      "reminders.toggle": {
+        "en": "Remind me about my weekly goal",
+        "ru": "Напоминать о недельной цели",
+        "hy": "Հիշեցնել շաբաթական նպատակի մասին",
+        "sv": "Påminn mig om mitt veckomål",
+        "nb": "Minn meg på ukemålet mitt",
+        "nl": "Herinner me aan mijn weekdoel",
+        "da": "Mind mig om mit ugemål",
+        "pl": "Przypominaj o celu tygodniowym",
+        "fr": "Me rappeler mon objectif hebdomadaire",
+        "ar": "ذكّرني بهدفي الأسبوعي"
       },
       "setFeel.footer": {
         "en": "Mark how each set felt, from Easy to Extreme, and see past marks when picking a weight. Turning this off hides the marks — it never deletes them.",
@@ -12347,6 +12479,164 @@
         "pl": "Kosz",
         "fr": "Corbeille",
         "ar": "سلة المحذوفات"
+      }
+    },
+    "Reminder": {
+      "atRisk.body": {
+        "en": "Train each of the %lld days left to complete the week.",
+        "ru": "Тренируйтесь все оставшиеся дни (%lld), чтобы закрыть неделю.",
+        "hy": "Մարզվի՛ր մնացած %lld օրերին՝ շաբաթը փակելու համար։",
+        "sv": "Träna alla %lld dagar som är kvar för att klara veckan.",
+        "nb": "Tren alle de %lld dagene som er igjen for å fullføre uka.",
+        "nl": "Train alle %lld resterende dagen om de week compleet te maken.",
+        "da": "Træn alle de %lld dage, der er tilbage, for at fuldføre ugen.",
+        "pl": "Trenuj przez wszystkie pozostałe dni (%lld), aby zaliczyć tydzień.",
+        "fr": "Entraînez-vous chacun des %lld jours restants pour valider la semaine.",
+        "ar": "تمرَّن في كل الأيام %lld المتبقية لإكمال الأسبوع."
+      },
+      "atRisk.bodyOne": {
+        "en": "Train today and the week is complete.",
+        "ru": "Потренируйтесь сегодня — и неделя закрыта.",
+        "hy": "Մարզվի՛ր այսօր, և շաբաթը փակված է։",
+        "sv": "Träna i dag så är veckan klar.",
+        "nb": "Tren i dag, så er uka fullført.",
+        "nl": "Train vandaag en de week is compleet.",
+        "da": "Træn i dag, så er ugen fuldført.",
+        "pl": "Potrenuj dziś i tydzień będzie zaliczony.",
+        "fr": "Entraînez-vous aujourd'hui et la semaine est validée.",
+        "ar": "تمرَّن اليوم ويكتمل الأسبوع."
+      },
+      "atRisk.streakTitle": {
+        "en": "%lld-week streak on the line",
+        "ru": "Под угрозой серия из %lld недель",
+        "hy": "%lld շաբաթվա շարքը վտանգված է",
+        "sv": "Svit på %lld veckor står på spel",
+        "nb": "Rekke på %lld uker står på spill",
+        "nl": "Reeks van %lld weken staat op het spel",
+        "da": "Række på %lld uger står på spil",
+        "pl": "Na szali seria %lld tygodni",
+        "fr": "Série de %lld semaines en jeu",
+        "ar": "سلسلة %lld أسابيع على المحك"
+      },
+      "atRisk.streakTitleOne": {
+        "en": "1-week streak on the line",
+        "ru": "Под угрозой серия из 1 недели",
+        "hy": "1 շաբաթվա շարքը վտանգված է",
+        "sv": "Svit på 1 vecka står på spel",
+        "nb": "Rekke på 1 uke står på spill",
+        "nl": "Reeks van 1 week staat op het spel",
+        "da": "Række på 1 uge står på spil",
+        "pl": "Na szali seria 1 tygodnia",
+        "fr": "Série de 1 semaine en jeu",
+        "ar": "سلسلة أسبوع واحد على المحك"
+      },
+      "atRisk.title": {
+        "en": "Last chance this week",
+        "ru": "Последний шанс на этой неделе",
+        "hy": "Այս շաբաթվա վերջին հնարավորությունը",
+        "sv": "Sista chansen den här veckan",
+        "nb": "Siste sjanse denne uka",
+        "nl": "Laatste kans deze week",
+        "da": "Sidste chance i denne uge",
+        "pl": "Ostatnia szansa w tym tygodniu",
+        "fr": "Dernière chance cette semaine",
+        "ar": "آخر فرصة هذا الأسبوع"
+      },
+      "behind.body": {
+        "en": "%lld days left in the week.",
+        "ru": "Дней до конца недели: %lld.",
+        "hy": "Շաբաթվա ավարտին մնացել է %lld օր։",
+        "sv": "%lld dagar kvar av veckan.",
+        "nb": "%lld dager igjen av uka.",
+        "nl": "Nog %lld dagen in deze week.",
+        "da": "%lld dage tilbage af ugen.",
+        "pl": "Dni do końca tygodnia: %lld.",
+        "fr": "Il reste %lld jours dans la semaine.",
+        "ar": "بقيت %lld أيام في الأسبوع."
+      },
+      "behind.title": {
+        "en": "%lld more training days this week",
+        "ru": "На этой неделе не хватает тренировочных дней: %lld",
+        "hy": "Այս շաբաթ պակասում է ևս %lld մարզական օր",
+        "sv": "%lld träningsdagar kvar den här veckan",
+        "nb": "%lld treningsdager igjen denne uka",
+        "nl": "Nog %lld trainingsdagen deze week",
+        "da": "%lld træningsdage tilbage i denne uge",
+        "pl": "W tym tygodniu brakuje jeszcze dni treningowych: %lld",
+        "fr": "Encore %lld jours d'entraînement cette semaine",
+        "ar": "ينقص هذا الأسبوع %lld أيام تدريب"
+      },
+      "behind.titleOne": {
+        "en": "1 more training day this week",
+        "ru": "На этой неделе не хватает 1 тренировочного дня",
+        "hy": "Այս շաբաթ պակասում է ևս 1 մարզական օր",
+        "sv": "1 träningsdag kvar den här veckan",
+        "nb": "1 treningsdag igjen denne uka",
+        "nl": "Nog 1 trainingsdag deze week",
+        "da": "1 træningsdag tilbage i denne uge",
+        "pl": "W tym tygodniu brakuje jeszcze 1 dnia treningowego",
+        "fr": "Encore 1 jour d'entraînement cette semaine",
+        "ar": "ينقص هذا الأسبوع يوم تدريب واحد"
+      },
+      "newWeek.body": {
+        "en": "%lld training days complete it.",
+        "ru": "Нужно тренировочных дней: %lld.",
+        "hy": "Անհրաժեշտ մարզական օրեր՝ %lld։",
+        "sv": "%lld träningsdagar gör veckan klar.",
+        "nb": "%lld treningsdager gjør uka ferdig.",
+        "nl": "%lld trainingsdagen maken de week compleet.",
+        "da": "%lld træningsdage gør ugen færdig.",
+        "pl": "Dni treningowych do zaliczenia tygodnia: %lld.",
+        "fr": "%lld jours d'entraînement suffisent à la valider.",
+        "ar": "%lld أيام تدريب تُكمل الأسبوع."
+      },
+      "newWeek.bodyOne": {
+        "en": "One training day completes it.",
+        "ru": "Нужен один тренировочный день.",
+        "hy": "Անհրաժեշտ է մեկ մարզական օր։",
+        "sv": "En träningsdag gör veckan klar.",
+        "nb": "Én treningsdag gjør uka ferdig.",
+        "nl": "Eén trainingsdag maakt de week compleet.",
+        "da": "Én træningsdag gør ugen færdig.",
+        "pl": "Do zaliczenia tygodnia wystarczy jeden dzień treningowy.",
+        "fr": "Un jour d'entraînement suffit à la valider.",
+        "ar": "يوم تدريب واحد يُكمل الأسبوع."
+      },
+      "newWeek.streakBody": {
+        "en": "Your %lld-week streak carries over — keep it going.",
+        "ru": "Серия из %lld недель продолжается — не прерывайте её.",
+        "hy": "%lld շաբաթվա շարքը շարունակվում է — մի՛ ընդհատիր։",
+        "sv": "Din svit på %lld veckor lever vidare – håll den vid liv.",
+        "nb": "Rekken din på %lld uker lever videre – hold den i gang.",
+        "nl": "Je reeks van %lld weken loopt door – houd hem vast.",
+        "da": "Din række på %lld uger lever videre – hold den i gang.",
+        "pl": "Twoja seria %lld tygodni trwa — nie przerywaj jej.",
+        "fr": "Votre série de %lld semaines continue — ne la cassez pas.",
+        "ar": "سلسلتك المكوّنة من %lld أسابيع مستمرة — حافظ عليها."
+      },
+      "newWeek.streakBodyOne": {
+        "en": "Your 1-week streak carries over — keep it going.",
+        "ru": "Серия из 1 недели продолжается — не прерывайте её.",
+        "hy": "1 շաբաթվա շարքը շարունակվում է — մի՛ ընդհատիր։",
+        "sv": "Din svit på 1 vecka lever vidare – håll den vid liv.",
+        "nb": "Rekken din på 1 uke lever videre – hold den i gang.",
+        "nl": "Je reeks van 1 week loopt door – houd hem vast.",
+        "da": "Din række på 1 uge lever videre – hold den i gang.",
+        "pl": "Twoja seria 1 tygodnia trwa — nie przerywaj jej.",
+        "fr": "Votre série de 1 semaine continue — ne la cassez pas.",
+        "ar": "سلسلتك المكوّنة من أسبوع واحد مستمرة — حافظ عليها."
+      },
+      "newWeek.title": {
+        "en": "A new training week",
+        "ru": "Новая тренировочная неделя",
+        "hy": "Նոր մարզական շաբաթ",
+        "sv": "En ny träningsvecka",
+        "nb": "En ny treningsuke",
+        "nl": "Een nieuwe trainingsweek",
+        "da": "En ny træningsuge",
+        "pl": "Nowy tydzień treningowy",
+        "fr": "Une nouvelle semaine d'entraînement",
+        "ar": "أسبوع تدريب جديد"
       }
     },
     "Rest": {
