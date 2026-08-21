@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787282742,
+  "lastSyncedAt": 1787299378,
   "strings": {
     "Misc": {
       "": {
@@ -2235,16 +2235,16 @@
         "ar": "المس ضلعًا لإضافة تلك المجموعة العضلية"
       },
       "balanced.spider.body": {
-        "en": "Each spoke is a muscle group. The further it reaches, the more you trained it in the selected period — the short ones are what you have been skipping.",
-        "ru": "Каждый луч — группа мышц. Чем он длиннее, тем больше вы её тренировали за выбранный период. Короткие лучи — то, что вы пропускаете.",
-        "hy": "Յուրաքանչյուր ճառագայթ մկանային խումբ է։ Որքան հեռու է հասնում, այնքան շատ եք մարզել այն ընտրված ժամանակահատվածում. կարճերը այն են, ինչ բաց եք թողնում։",
-        "sv": "Varje spets är en muskelgrupp. Ju längre ut den når, desto mer har du tränat den under perioden — de korta är det du hoppat över.",
-        "nb": "Hver spiss er en muskelgruppe. Jo lenger ut den når, desto mer har du trent den i perioden — de korte er det du har hoppet over.",
-        "nl": "Elke punt is een spiergroep. Hoe verder die reikt, hoe meer je die in de periode traint — de korte zijn wat je overslaat.",
-        "da": "Hver spids er en muskelgruppe. Jo længere ud den når, jo mere har du trænet den i perioden — de korte er det, du springer over.",
-        "pl": "Każde ramię to grupa mięśni. Im dalej sięga, tym więcej ją trenowałeś w wybranym okresie — krótkie to te pomijane.",
-        "fr": "Chaque branche est un groupe musculaire. Plus elle est longue, plus vous l’avez travaillé sur la période — les courtes sont celles que vous négligez.",
-        "ar": "كل ضلع يمثل مجموعة عضلية. كلما امتد أكثر، زاد تدريبك لها في الفترة المحددة — والأضلاع القصيرة هي ما تتجاهله."
+        "en": "Each spoke is a muscle group, measured against what that muscle needs in a week. The further it reaches, the closer you are to its target — the short ones are what you have been skipping.",
+        "ru": "Каждый луч — группа мышц, измеренная относительно её недельной нормы. Чем дальше он тянется, тем ближе вы к цели — короткие лучи это то, что вы пропускаете.",
+        "hy": "Յուրաքանչյուր ճառագայթ մկանային խումբ է՝ չափված իր շաբաթական նորմի նկատմամբ։ Որքան հեռու է հասնում, այնքան մոտ եք նպատակին — կարճերը այն են, ինչ բաց եք թողնում։",
+        "sv": "Varje eker är en muskelgrupp, mätt mot vad muskeln behöver på en vecka. Ju längre den når, desto närmare målet är du — de korta är det du har hoppat över.",
+        "nb": "Hver eiker er en muskelgruppe, målt mot det muskelen trenger på en uke. Jo lenger den når, jo nærmere målet er du — de korte er det du har hoppet over.",
+        "nl": "Elke spaak is een spiergroep, afgezet tegen wat die spier per week nodig heeft. Hoe verder hij reikt, hoe dichter je bij het doel bent — de korte zijn wat je overslaat.",
+        "da": "Hver eger er en muskelgruppe, målt mod hvad musklen har brug for på en uge. Jo længere den når, jo tættere er du på målet — de korte er det, du har sprunget over.",
+        "pl": "Każde ramię to grupa mięśniowa, mierzona względem jej tygodniowego zapotrzebowania. Im dalej sięga, tym bliżej celu jesteś — krótkie to te, które pomijasz.",
+        "fr": "Chaque branche est un groupe musculaire, mesuré par rapport à ce dont il a besoin sur une semaine. Plus elle s'étend, plus vous êtes proche de l'objectif — les courtes sont ce que vous négligez.",
+        "ar": "كل شعاع يمثل مجموعة عضلية، مقيسة مقابل ما تحتاجه تلك العضلة أسبوعياً. كلما امتد أكثر، اقتربت من الهدف — والقصيرة هي ما تتجاهله."
       },
       "balanced.spider.title": {
         "en": "Your training balance",

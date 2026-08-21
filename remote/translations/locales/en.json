@@ -182,7 +182,7 @@
   "coach.balanced.muscles.body": "The groups you have trained least are preselected. Tap any chip to add or remove it — the suggestions below update right away.",
   "coach.balanced.muscles.title": "Today’s muscle groups",
   "coach.balanced.spider.action": "Tap a spoke to add that muscle group",
-  "coach.balanced.spider.body": "Each spoke is a muscle group. The further it reaches, the more you trained it in the selected period — the short ones are what you have been skipping.",
+  "coach.balanced.spider.body": "Each spoke is a muscle group, measured against what that muscle needs in a week. The further it reaches, the closer you are to its target — the short ones are what you have been skipping.",
   "coach.balanced.spider.title": "Your training balance",
   "coach.balanced.start.action": "Tap Start Balanced Workout",
   "coach.balanced.start.body": "That is your session. Nothing here is locked in — you can add, remove or change anything once the workout is open.",
