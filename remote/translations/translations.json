@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787263374,
+  "lastSyncedAt": 1787282742,
   "strings": {
     "Misc": {
       "": {
@@ -7872,6 +7872,102 @@
         "fr": "Exporter et importer",
         "ar": "التصدير والاستيراد"
       },
+      "dose.group.back": {
+        "en": "Lats & upper back",
+        "ru": "Широчайшие и верх спины",
+        "hy": "Լայնալիր և վերին մեջք",
+        "sv": "Latissimus & övre rygg",
+        "nb": "Lats og øvre rygg",
+        "nl": "Lats & bovenrug",
+        "da": "Lats & øvre ryg",
+        "pl": "Najszersze i górne plecy",
+        "fr": "Dorsaux & haut du dos",
+        "ar": "العضلة الظهرية العريضة وأعلى الظهر"
+      },
+      "dose.group.sideRearDelts": {
+        "en": "Side & rear delts",
+        "ru": "Средние и задние дельты",
+        "hy": "Կողային և հետին դելտա",
+        "sv": "Sido- & bakre deltoid",
+        "nb": "Side- og bakre deltoid",
+        "nl": "Zij- & achterdeltoid",
+        "da": "Side- & bagerste deltoid",
+        "pl": "Boczne i tylne naramienne",
+        "fr": "Deltoïdes latéral & postérieur",
+        "ar": "الدالية الجانبية والخلفية"
+      },
+      "dose.period": {
+        "en": "Per",
+        "ru": "За период",
+        "hy": "Ժամանակահատված",
+        "sv": "Per",
+        "nb": "Per",
+        "nl": "Per",
+        "da": "Per",
+        "pl": "Na",
+        "fr": "Par",
+        "ar": "لكل"
+      },
+      "dose.period.month": {
+        "en": "Per month",
+        "ru": "За месяц",
+        "hy": "Ամսական",
+        "sv": "Per månad",
+        "nb": "Per måned",
+        "nl": "Per maand",
+        "da": "Per måned",
+        "pl": "Miesięcznie",
+        "fr": "Par mois",
+        "ar": "شهرياً"
+      },
+      "dose.period.total": {
+        "en": "Whole range",
+        "ru": "Весь период",
+        "hy": "Ամբողջ միջակայքը",
+        "sv": "Hela perioden",
+        "nb": "Hele perioden",
+        "nl": "Hele periode",
+        "da": "Hele perioden",
+        "pl": "Cały zakres",
+        "fr": "Toute la période",
+        "ar": "كامل الفترة"
+      },
+      "dose.period.week": {
+        "en": "Per week",
+        "ru": "За неделю",
+        "hy": "Շաբաթական",
+        "sv": "Per vecka",
+        "nb": "Per uke",
+        "nl": "Per week",
+        "da": "Per uge",
+        "pl": "Tygodniowo",
+        "fr": "Par semaine",
+        "ar": "أسبوعياً"
+      },
+      "dose.period.year": {
+        "en": "Per year",
+        "ru": "За год",
+        "hy": "Տարեկան",
+        "sv": "Per år",
+        "nb": "Per år",
+        "nl": "Per jaar",
+        "da": "Per år",
+        "pl": "Rocznie",
+        "fr": "Par an",
+        "ar": "سنوياً"
+      },
+      "dose.sessionTitle": {
+        "en": "Muscles worked",
+        "ru": "Проработанные мышцы",
+        "hy": "Մարզված մկանները",
+        "sv": "Tränade muskler",
+        "nb": "Trente muskler",
+        "nl": "Getrainde spieren",
+        "da": "Trænede muskler",
+        "pl": "Przepracowane mięśnie",
+        "fr": "Muscles travaillés",
+        "ar": "العضلات المستهدفة"
+      },
       "dose.zone.growing": {
         "en": "Growing",
         "ru": "Рост",
@@ -8196,6 +8292,30 @@
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
       },
+      "setsInRange": {
+        "en": "%@ sets",
+        "ru": "%@ подходов",
+        "hy": "%@ մոտեցում",
+        "sv": "%@ set",
+        "nb": "%@ sett",
+        "nl": "%@ sets",
+        "da": "%@ sæt",
+        "pl": "%@ serii",
+        "fr": "%@ séries",
+        "ar": "%@ مجموعة"
+      },
+      "setsPerMonth": {
+        "en": "%@ sets/month",
+        "ru": "%@ подх./мес.",
+        "hy": "%@ մոտեցում/ամիս",
+        "sv": "%@ set/månad",
+        "nb": "%@ sett/måned",
+        "nl": "%@ sets/maand",
+        "da": "%@ sæt/måned",
+        "pl": "%@ serii/mies.",
+        "fr": "%@ séries/mois",
+        "ar": "%@ مجموعة/شهر"
+      },
       "setsPerWeek": {
         "en": "%@ sets/week",
         "ru": "%@ подх./нед.",
@@ -8207,6 +8327,18 @@
         "pl": "%@ serii/tydz.",
         "fr": "%@ séries/sem.",
         "ar": "%@ مجموعة/أسبوع"
+      },
+      "setsPerYear": {
+        "en": "%@ sets/year",
+        "ru": "%@ подх./год",
+        "hy": "%@ մոտեցում/տարի",
+        "sv": "%@ set/år",
+        "nb": "%@ sett/år",
+        "nl": "%@ sets/jaar",
+        "da": "%@ sæt/år",
+        "pl": "%@ serii/rok",
+        "fr": "%@ séries/an",
+        "ar": "%@ مجموعة/سنة"
       },
       "streak": {
         "en": "Streak",
