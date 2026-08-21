@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787328833,
+  "lastSyncedAt": 1787347563,
   "strings": {
     "Misc": {
       "": {
@@ -8922,6 +8922,18 @@
         "fr": "Entrez %@ et représentez chaque série",
         "ar": "أدخل %@ وكرر كل مجموعة"
       },
+      "plain.weight_duration.subtitle": {
+        "en": "Loaded hold — %@ and seconds each set; weight optional",
+        "ru": "Удержание с весом — %@ и секунды в каждом подходе; вес необязателен",
+        "hy": "Պահում ծանրությամբ — %@ և վայրկյաններ յուրաքանչյուր մոտեցման համար. քաշը պարտադիր չէ",
+        "sv": "Belastat håll — %@ och sekunder varje set; vikt valfri",
+        "nb": "Belastet hold — %@ og sekunder per sett; vekt valgfritt",
+        "nl": "Belaste hold — %@ en seconden per set; gewicht optioneel",
+        "da": "Belastet hold — %@ og sekunder pr. sæt; vægt valgfri",
+        "pl": "Izometria z obciążeniem — %@ i sekundy w każdej serii; ciężar opcjonalny",
+        "fr": "Maintien lesté — %@ et secondes à chaque série ; poids facultatif",
+        "ar": "ثبات بحمل — %@ وثوانٍ في كل مجموعة؛ الوزن اختياري"
+      },
       "plain.weight_reps.title": {
         "en": "Weight and reps",
         "ru": "Вес и повторения",
@@ -8933,6 +8945,18 @@
         "pl": "Waga i powtórzenia",
         "fr": "Poids et répétitions",
         "ar": "الوزن والممثلين"
+      },
+      "plain.weight_duration.title": {
+        "en": "Weight and time",
+        "ru": "Вес и время",
+        "hy": "Քաշ և ժամանակ",
+        "sv": "Vikt och tid",
+        "nb": "Vekt og tid",
+        "nl": "Gewicht en tijd",
+        "da": "Vægt og tid",
+        "pl": "Ciężar i czas",
+        "fr": "Poids et temps",
+        "ar": "الوزن والوقت"
       },
       "reps": {
         "en": "Reps",
@@ -8957,6 +8981,18 @@
         "pl": "Waga × powtórzeń",
         "fr": "Poids × répétitions",
         "ar": "الوزن × التكرارات"
+      },
+      "weight_duration": {
+        "en": "Weight × Time",
+        "ru": "Вес × Время",
+        "hy": "Քաշ × Ժամանակ",
+        "sv": "Vikt × Tid",
+        "nb": "Vekt × Tid",
+        "nl": "Gewicht × Tijd",
+        "da": "Vægt × Tid",
+        "pl": "Ciężar × Czas",
+        "fr": "Poids × Temps",
+        "ar": "الوزن × الوقت"
       }
     },
     "Measurement": {
