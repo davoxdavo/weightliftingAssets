@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787126459,
+  "lastSyncedAt": 1787263374,
   "strings": {
     "Misc": {
       "": {
@@ -7872,6 +7872,66 @@
         "fr": "Exporter et importer",
         "ar": "التصدير والاستيراد"
       },
+      "dose.zone.growing": {
+        "en": "Growing",
+        "ru": "Рост",
+        "hy": "Աճ",
+        "sv": "Växer",
+        "nb": "Vokser",
+        "nl": "Groeit",
+        "da": "Vokser",
+        "pl": "Wzrost",
+        "fr": "Progression",
+        "ar": "نمو"
+      },
+      "dose.zone.high": {
+        "en": "High",
+        "ru": "Высокий объём",
+        "hy": "Բարձր",
+        "sv": "Hög",
+        "nb": "Høy",
+        "nl": "Hoog",
+        "da": "Høj",
+        "pl": "Wysoki",
+        "fr": "Élevé",
+        "ar": "مرتفع"
+      },
+      "dose.zone.losingGround": {
+        "en": "Losing ground",
+        "ru": "Теряется форма",
+        "hy": "Հետընթաց",
+        "sv": "Tappar mark",
+        "nb": "Mister fremgang",
+        "nl": "Verliest terrein",
+        "da": "Mister terræn",
+        "pl": "Traci formę",
+        "fr": "En recul",
+        "ar": "تراجع"
+      },
+      "dose.zone.maintaining": {
+        "en": "Maintaining",
+        "ru": "Поддержание",
+        "hy": "Պահպանում",
+        "sv": "Bibehåller",
+        "nb": "Vedlikeholder",
+        "nl": "Behoudt",
+        "da": "Vedligeholder",
+        "pl": "Utrzymanie",
+        "fr": "Maintien",
+        "ar": "محافظة"
+      },
+      "dose.zone.overCeiling": {
+        "en": "Over the ceiling",
+        "ru": "Выше предела",
+        "hy": "Սահմանից վեր",
+        "sv": "Över taket",
+        "nb": "Over taket",
+        "nl": "Boven het plafond",
+        "da": "Over loftet",
+        "pl": "Powyżej limitu",
+        "fr": "Au-dessus du plafond",
+        "ar": "فوق الحد"
+      },
       "emptyDescription": {
         "en": "Finish a workout to see volume, frequency, and trends.",
         "ru": "Завершите тренировку, чтобы увидеть объем, частоту и тенденции.",
@@ -7931,6 +7991,18 @@
         "pl": "Metryczny",
         "fr": "Métrique",
         "ar": "متري"
+      },
+      "metric.dose": {
+        "en": "Weekly dose",
+        "ru": "Недельная доза",
+        "hy": "Շաբաթական չափաբաժին",
+        "sv": "Veckodos",
+        "nb": "Ukentlig dose",
+        "nl": "Wekelijkse dosis",
+        "da": "Ugentlig dosis",
+        "pl": "Dawka tygodniowa",
+        "fr": "Dose hebdomadaire",
+        "ar": "الجرعة الأسبوعية"
       },
       "metric.sessions": {
         "en": "Sessions",
@@ -8123,6 +8195,18 @@
         "pl": "%lld zestawów",
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
+      },
+      "setsPerWeek": {
+        "en": "%@ sets/week",
+        "ru": "%@ подх./нед.",
+        "hy": "%@ մոտեցում/շաբ.",
+        "sv": "%@ set/vecka",
+        "nb": "%@ sett/uke",
+        "nl": "%@ sets/week",
+        "da": "%@ sæt/uge",
+        "pl": "%@ serii/tydz.",
+        "fr": "%@ séries/sem.",
+        "ar": "%@ مجموعة/أسبوع"
       },
       "streak": {
         "en": "Streak",
