@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "description": "Default workout templates (v7). Adds five remote-only 10-exercise sessions. Exercises reference stable catalog IDs; supersets expand without duplicate members in a template.",
+  "description": "Default workout templates (v8). Template exercise refs updated for catalog v18 merge (merged-away catalog IDs → keepers).",
   "templates": [
     {
       "id": "template-monday-full-body-a",
