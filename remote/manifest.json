@@ -95,8 +95,8 @@
   },
   "catalog": {
     "exercises": {
-      "version": 14,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v14/gym_exercises.json"
+      "version": 17,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v17/gym_exercises.json"
     },
     "supersets": {
       "version": 3,
@@ -215,7 +215,7 @@
   },
   "exerciseImages": {
     "baseURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/images/exercises/",
-    "revision": 2
+    "revision": 3
   },
   "legal": {
     "termsURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/terms.html",
