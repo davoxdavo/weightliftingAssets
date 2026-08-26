@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787347563,
+  "lastSyncedAt": 1787782369,
   "strings": {
     "Misc": {
       "": {
@@ -1528,6 +1528,54 @@
         "fr": "Compte",
         "ar": "حساب"
       },
+      "training.agility.footer": {
+        "en": "Boost jumps, footwork and other fast-feet drills when picking exercises.",
+        "ru": "Поднимать прыжки, работу ног и другие скоростные дриллы при выборе упражнений.",
+        "hy": "Վարժություններ ընտրելիս առաջ բերել ցատկերը, ոտքերի աշխատանքը և արագաշարժ վարժանքները։",
+        "sv": "Lyfter fram hopp, fotarbete och andra snabbhetsövningar när du väljer övningar.",
+        "nb": "Løfter fram hopp, fotarbeid og andre hurtighetsøvelser når du velger øvelser.",
+        "nl": "Zet sprongen, voetenwerk en andere snelheidsoefeningen vooraan bij het kiezen van oefeningen.",
+        "da": "Fremhæver hop, fodarbejde og andre hurtighedsøvelser, når du vælger øvelser.",
+        "pl": "Wyróżnia skoki, pracę nóg i inne ćwiczenia szybkościowe przy wyborze ćwiczeń.",
+        "fr": "Met en avant les sauts, le jeu de jambes et les autres exercices de vitesse lors du choix des exercices.",
+        "ar": "يبرز القفزات وحركة القدمين وتمارين السرعة الأخرى عند اختيار التمارين."
+      },
+      "training.agility.title": {
+        "en": "Agility",
+        "ru": "Ловкость",
+        "hy": "Ճարպկություն",
+        "sv": "Snabbhet",
+        "nb": "Bevegelighet",
+        "nl": "Behendigheid",
+        "da": "Agility",
+        "pl": "Zwinność",
+        "fr": "Agilité",
+        "ar": "الرشاقة"
+      },
+      "training.calisthenics.footer": {
+        "en": "Boost pull-ups, dips and other bodyweight-skill work when picking exercises.",
+        "ru": "Поднимать подтягивания, отжимания на брусьях и другую работу с весом тела при выборе упражнений.",
+        "hy": "Վարժություններ ընտրելիս առաջ բերել ձգումները, զուգահեռների հրումները և մարմնի քաշով այլ վարժությունները։",
+        "sv": "Lyfter fram pull-ups, dips och annan kroppsviktsträning när du väljer övningar.",
+        "nb": "Løfter fram pull-ups, dips og annen kroppsvektstrening når du velger øvelser.",
+        "nl": "Zet pull-ups, dips en ander lichaamsgewichtwerk vooraan bij het kiezen van oefeningen.",
+        "da": "Fremhæver pull-ups, dips og andet kropsvægtarbejde, når du vælger øvelser.",
+        "pl": "Wyróżnia podciągnięcia, dipy i inne ćwiczenia z masą ciała przy wyborze ćwiczeń.",
+        "fr": "Met en avant les tractions, les dips et les autres mouvements au poids du corps lors du choix des exercices.",
+        "ar": "يبرز تمارين العقلة والمتوازي وغيرها من تمارين وزن الجسم عند اختيار التمارين."
+      },
+      "training.calisthenics.title": {
+        "en": "Calisthenics",
+        "ru": "Калистеника",
+        "hy": "Կալիսթենիկա",
+        "sv": "Calisthenics",
+        "nb": "Kroppsvektstrening",
+        "nl": "Calisthenics",
+        "da": "Calisthenics",
+        "pl": "Kalistenika",
+        "fr": "Callisthénie",
+        "ar": "تمارين وزن الجسم"
+      },
       "training.home.footer": {
         "en": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "ru": "Увеличьте рекомендации по использованию эспандеров и веса тела при выборе упражнений.",
@@ -1590,6 +1638,54 @@
       }
     },
     "Balanced": {
+      "agilityThisSession": {
+        "en": "Agility",
+        "ru": "Ловкость",
+        "hy": "Ճարպկություն",
+        "sv": "Snabbhet",
+        "nb": "Bevegelighet",
+        "nl": "Behendigheid",
+        "da": "Agility",
+        "pl": "Zwinność",
+        "fr": "Agilité",
+        "ar": "الرشاقة"
+      },
+      "agilityThisSession.footer": {
+        "en": "Boosts fast-feet drills for these suggestions only. Does not change Account settings.",
+        "ru": "Улучшает скоростные дриллы только для этих предложений. Не меняет настройки учетной записи.",
+        "hy": "Բարձրացնում է արագաշարժ վարժանքները միայն այս առաջարկների համար: Չի փոխում Հաշվի կարգավորումները:",
+        "sv": "Lyfter snabbhetsövningar endast för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Booster hurtighetsøvelser kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Verhoogt snelheidsoefeningen alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Booster hurtighedsøvelser kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija ćwiczenia szybkościowe tylko dla tych sugestii. Nie zmienia ustawień konta.",
+        "fr": "Favorise les exercices de vitesse pour ces suggestions seulement. Ne modifie pas le compte.",
+        "ar": "يعزز تمارين السرعة لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
+      },
+      "calisthenicsThisSession": {
+        "en": "Calisthenics",
+        "ru": "Калистеника",
+        "hy": "Կալիսթենիկա",
+        "sv": "Calisthenics",
+        "nb": "Kroppsvektstrening",
+        "nl": "Calisthenics",
+        "da": "Calisthenics",
+        "pl": "Kalistenika",
+        "fr": "Callisthénie",
+        "ar": "تمارين وزن الجسم"
+      },
+      "calisthenicsThisSession.footer": {
+        "en": "Boosts bodyweight-skill work for these suggestions only. Does not change Account settings.",
+        "ru": "Улучшает работу с весом тела только для этих предложений. Не меняет настройки учетной записи.",
+        "hy": "Բարձրացնում է մարմնի քաշով աշխատանքը միայն այս առաջարկների համար: Չի փոխում Հաշվի կարգավորումները:",
+        "sv": "Lyfter kroppsviktsarbete endast för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Booster kroppsvektarbeid kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Verhoogt lichaamsgewichtwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Booster kropsvægtsarbejde kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija pracę z ciężarem ciała tylko dla tych sugestii. Nie zmienia ustawień konta.",
+        "fr": "Favorise le travail au poids du corps pour ces suggestions seulement. Ne modifie pas le compte.",
+        "ar": "يعزز تمارين وزن الجسم لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
+      },
       "homeThisSession": {
         "en": "Home / minimal equipment",
         "ru": "Главная / минимальное оборудование",
@@ -2717,6 +2813,188 @@
         "ar": "حفظ"
       }
     },
+    "Discipline": {
+      "agility": {
+        "en": "Agility",
+        "ru": "Ловкость",
+        "hy": "Ճարպկություն",
+        "sv": "Snabbhet",
+        "nb": "Bevegelighet",
+        "nl": "Behendigheid",
+        "da": "Agility",
+        "pl": "Zwinność",
+        "fr": "Agilité",
+        "ar": "الرشاقة"
+      },
+      "basketball": {
+        "en": "Basketball",
+        "ru": "Баскетбол",
+        "hy": "Բասկետբոլ",
+        "sv": "Basket",
+        "nb": "Basketball",
+        "nl": "Basketbal",
+        "da": "Basketball",
+        "pl": "Koszykówka",
+        "fr": "Basketball",
+        "ar": "كرة السلة"
+      },
+      "boxing_mma": {
+        "en": "Boxing & MMA",
+        "ru": "Бокс и ММА",
+        "hy": "Բռնցքամարտ և MMA",
+        "sv": "Boxning och MMA",
+        "nb": "Boksing og MMA",
+        "nl": "Boksen en MMA",
+        "da": "Boksning og MMA",
+        "pl": "Boks i MMA",
+        "fr": "Boxe et MMA",
+        "ar": "الملاكمة وفنون القتال المختلطة"
+      },
+      "calisthenics": {
+        "en": "Calisthenics",
+        "ru": "Калистеника",
+        "hy": "Կալիսթենիկա",
+        "sv": "Calisthenics",
+        "nb": "Kroppsvektstrening",
+        "nl": "Calisthenics",
+        "da": "Calisthenics",
+        "pl": "Kalistenika",
+        "fr": "Callisthénie",
+        "ar": "تمارين وزن الجسم"
+      },
+      "climbing": {
+        "en": "Climbing",
+        "ru": "Скалолазание",
+        "hy": "Ժայռամագլցում",
+        "sv": "Klättring",
+        "nb": "Klatring",
+        "nl": "Klimmen",
+        "da": "Klatring",
+        "pl": "Wspinaczka",
+        "fr": "Escalade",
+        "ar": "التسلق"
+      },
+      "cycling": {
+        "en": "Cycling",
+        "ru": "Велоспорт",
+        "hy": "Հեծանվասպորտ",
+        "sv": "Cykling",
+        "nb": "Sykling",
+        "nl": "Wielrennen",
+        "da": "Cykling",
+        "pl": "Kolarstwo",
+        "fr": "Cyclisme",
+        "ar": "ركوب الدراجات"
+      },
+      "football": {
+        "en": "Football",
+        "ru": "Футбол",
+        "hy": "Ֆուտբոլ",
+        "sv": "Fotboll",
+        "nb": "Fotball",
+        "nl": "Voetbal",
+        "da": "Fodbold",
+        "pl": "Piłka nożna",
+        "fr": "Football",
+        "ar": "كرة القدم"
+      },
+      "gym": {
+        "en": "Gym",
+        "ru": "Тренажёрный зал",
+        "hy": "Մարզասրահ",
+        "sv": "Gym",
+        "nb": "Gym",
+        "nl": "Sportschool",
+        "da": "Fitnesscenter",
+        "pl": "Siłownia",
+        "fr": "Salle de sport",
+        "ar": "صالة الألعاب الرياضية"
+      },
+      "gymnastics": {
+        "en": "Gymnastics",
+        "ru": "Гимнастика",
+        "hy": "Մարմնամարզություն",
+        "sv": "Gymnastik",
+        "nb": "Gymnastikk",
+        "nl": "Turnen",
+        "da": "Gymnastik",
+        "pl": "Gimnastyka",
+        "fr": "Gymnastique",
+        "ar": "الجمباز"
+      },
+      "powerlifting": {
+        "en": "Powerlifting",
+        "ru": "Пауэрлифтинг",
+        "hy": "Փաուերլիֆթինգ",
+        "sv": "Styrkelyft",
+        "nb": "Styrkeløft",
+        "nl": "Powerliften",
+        "da": "Styrkeløft",
+        "pl": "Trójbój siłowy",
+        "fr": "Powerlifting",
+        "ar": "رفع الأثقال القوة"
+      },
+      "swimming": {
+        "en": "Swimming",
+        "ru": "Плавание",
+        "hy": "Լող",
+        "sv": "Simning",
+        "nb": "Svømming",
+        "nl": "Zwemmen",
+        "da": "Svømning",
+        "pl": "Pływanie",
+        "fr": "Natation",
+        "ar": "السباحة"
+      },
+      "tennis": {
+        "en": "Tennis",
+        "ru": "Теннис",
+        "hy": "Թենիս",
+        "sv": "Tennis",
+        "nb": "Tennis",
+        "nl": "Tennis",
+        "da": "Tennis",
+        "pl": "Tenis",
+        "fr": "Tennis",
+        "ar": "التنس"
+      },
+      "track_field": {
+        "en": "Track & Field",
+        "ru": "Лёгкая атлетика",
+        "hy": "Թեթև աթլետիկա",
+        "sv": "Friidrott",
+        "nb": "Friidrett",
+        "nl": "Atletiek",
+        "da": "Atletik",
+        "pl": "Lekkoatletyka",
+        "fr": "Athlétisme",
+        "ar": "ألعاب القوى"
+      },
+      "weightlifting": {
+        "en": "Olympic Weightlifting",
+        "ru": "Тяжёлая атлетика",
+        "hy": "Ծանրամարտ",
+        "sv": "Tyngdlyftning",
+        "nb": "Vektløfting",
+        "nl": "Gewichtheffen",
+        "da": "Vægtløftning",
+        "pl": "Podnoszenie ciężarów",
+        "fr": "Haltérophilie",
+        "ar": "رفع الأثقال الأولمبي"
+      },
+      "wrestling": {
+        "en": "Wrestling",
+        "ru": "Борьба",
+        "hy": "Ըմբշամարտ",
+        "sv": "Brottning",
+        "nb": "Bryting",
+        "nl": "Worstelen",
+        "da": "Brydning",
+        "pl": "Zapasy",
+        "fr": "Lutte",
+        "ar": "المصارعة"
+      }
+    },
     "Distance": {
       "mode": {
         "en": "Distance format",
@@ -3025,6 +3303,18 @@
         "pl": "Dodaj (%lld)",
         "fr": "Ajouter (%lld)",
         "ar": "إضافة (%lld)"
+      },
+      "bySport": {
+        "en": "By sport",
+        "ru": "По видам спорта",
+        "hy": "Ըստ սպորտաձևի",
+        "sv": "Efter sport",
+        "nb": "Etter idrett",
+        "nl": "Per sport",
+        "da": "Efter sport",
+        "pl": "Według sportu",
+        "fr": "Par sport",
+        "ar": "حسب الرياضة"
       },
       "cardioParams": {
         "en": "Cardio fields",
@@ -4541,6 +4831,42 @@
         "pl": "Odrzucić wybór?",
         "fr": "Abandonner la sélection ?",
         "ar": "هل تريد تجاهل التحديد؟"
+      },
+      "discipline.empty": {
+        "en": "No exercises match this filter yet.",
+        "ru": "Пока нет упражнений по этому фильтру.",
+        "hy": "Այս զտիչին համապատասխանող վարժություններ դեռ չկան։",
+        "sv": "Inga övningar matchar det här filtret än.",
+        "nb": "Ingen øvelser matcher dette filteret ennå.",
+        "nl": "Nog geen oefeningen die aan dit filter voldoen.",
+        "da": "Ingen øvelser matcher dette filter endnu.",
+        "pl": "Żadne ćwiczenia nie pasują jeszcze do tego filtra.",
+        "fr": "Aucun exercice ne correspond encore à ce filtre.",
+        "ar": "لا توجد تمارين تطابق هذا الفلتر بعد."
+      },
+      "discipline.filterA11y": {
+        "en": "Filter by discipline",
+        "ru": "Фильтр по дисциплине",
+        "hy": "Զտել ըստ ուղղության",
+        "sv": "Filtrera efter disciplin",
+        "nb": "Filtrer etter disiplin",
+        "nl": "Filter op discipline",
+        "da": "Filtrer efter disciplin",
+        "pl": "Filtruj według dyscypliny",
+        "fr": "Filtrer par discipline",
+        "ar": "تصفية حسب التخصص"
+      },
+      "disciplines": {
+        "en": "Disciplines",
+        "ru": "Дисциплины",
+        "hy": "Ուղղություններ",
+        "sv": "Discipliner",
+        "nb": "Disipliner",
+        "nl": "Disciplines",
+        "da": "Discipliner",
+        "pl": "Dyscypliny",
+        "fr": "Disciplines",
+        "ar": "التخصصات"
       },
       "edit": {
         "en": "Edit Exercise",
