@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787819956,
+  "lastSyncedAt": 1787831061,
   "strings": {
     "Misc": {
       "": {
@@ -1949,6 +1949,18 @@
         "pl": "Sport",
         "fr": "Sport",
         "ar": "رياضة"
+      },
+      "sport.add": {
+        "en": "Add sport",
+        "ru": "Добавить спорт",
+        "hy": "Ավելացնել սպորտաձև",
+        "sv": "Lägg till sport",
+        "nb": "Legg til sport",
+        "nl": "Sport toevoegen",
+        "da": "Tilføj sport",
+        "pl": "Dodaj sport",
+        "fr": "Ajouter un sport",
+        "ar": "إضافة رياضة"
       },
       "sport.footer": {
         "en": "Optional. Suggestions stick to moves tagged for the sports you pick.",
@@ -6471,6 +6483,174 @@
         "pl": "To właśnie będziesz wypełniać podczas treningu.",
         "fr": "C’est ce que vous remplirez pendant l’entraînement.",
         "ar": "هذا هو ما سوف تملأه أثناء التمرين."
+      },
+      "sport.clearAll": {
+        "en": "Clear all",
+        "ru": "Очистить все",
+        "hy": "Մաքրել բոլորը",
+        "sv": "Rensa alla",
+        "nb": "Fjern alle",
+        "nl": "Alles wissen",
+        "da": "Ryd alle",
+        "pl": "Wyczyść wszystko",
+        "fr": "Tout effacer",
+        "ar": "مسح الكل"
+      },
+      "sport.count": {
+        "en": "%lld sports",
+        "ru": "%lld видов спорта",
+        "hy": "%lld սպորտաձև",
+        "sv": "%lld sporter",
+        "nb": "%lld sporter",
+        "nl": "%lld sporten",
+        "da": "%lld sportsgrene",
+        "pl": "%lld sportów",
+        "fr": "%lld sports",
+        "ar": "%lld رياضات"
+      },
+      "sport.group.combat": {
+        "en": "Combat",
+        "ru": "Единоборства",
+        "hy": "Մարտարվեստ",
+        "sv": "Kampsport",
+        "nb": "Kampsport",
+        "nl": "Vechtsporten",
+        "da": "Kampsport",
+        "pl": "Walki",
+        "fr": "Sports de combat",
+        "ar": "قتالية"
+      },
+      "sport.group.endurance": {
+        "en": "Endurance",
+        "ru": "На выносливость",
+        "hy": "Դիմացկունություն",
+        "sv": "Uthållighet",
+        "nb": "Utholdenhet",
+        "nl": "Uithoudingsvermogen",
+        "da": "Udholdenhed",
+        "pl": "Wytrzymałościowe",
+        "fr": "Endurance",
+        "ar": "التحمل"
+      },
+      "sport.group.more": {
+        "en": "More",
+        "ru": "Другое",
+        "hy": "Այլ",
+        "sv": "Mer",
+        "nb": "Mer",
+        "nl": "Meer",
+        "da": "Mere",
+        "pl": "Więcej",
+        "fr": "Autres",
+        "ar": "المزيد"
+      },
+      "sport.group.outdoor": {
+        "en": "Outdoor",
+        "ru": "На открытом воздухе",
+        "hy": "Բացօթյա",
+        "sv": "Utomhus",
+        "nb": "Utendørs",
+        "nl": "Buiten",
+        "da": "Udendørs",
+        "pl": "Na świeżym powietrzu",
+        "fr": "Plein air",
+        "ar": "في الهواء الطلق"
+      },
+      "sport.group.racquet": {
+        "en": "Racquet & Club",
+        "ru": "Ракетка и клюшка",
+        "hy": "Ռակետ և մահակ",
+        "sv": "Racket och klubba",
+        "nb": "Racket og kølle",
+        "nl": "Racket en club",
+        "da": "Ketsjer og kølle",
+        "pl": "Rakieta i kij",
+        "fr": "Raquette et club",
+        "ar": "المضرب والعصا"
+      },
+      "sport.group.strength": {
+        "en": "Strength & Power",
+        "ru": "Сила и мощность",
+        "hy": "Ուժ և հզորություն",
+        "sv": "Styrka och kraft",
+        "nb": "Styrke og kraft",
+        "nl": "Kracht en power",
+        "da": "Styrke og kraft",
+        "pl": "Siła i moc",
+        "fr": "Force et puissance",
+        "ar": "القوة والقدرة"
+      },
+      "sport.group.team": {
+        "en": "Team",
+        "ru": "Командные",
+        "hy": "Թիմային",
+        "sv": "Lagsporter",
+        "nb": "Lagidrett",
+        "nl": "Teamsporten",
+        "da": "Holdsport",
+        "pl": "Zespołowe",
+        "fr": "Sports collectifs",
+        "ar": "جماعية"
+      },
+      "sport.lensA11y": {
+        "en": "Active sport filters",
+        "ru": "Активные фильтры по спорту",
+        "hy": "Ակտիվ սպորտային զտիչներ",
+        "sv": "Aktiva sportfilter",
+        "nb": "Aktive sportfiltre",
+        "nl": "Actieve sportfilters",
+        "da": "Aktive sportsfiltre",
+        "pl": "Aktywne filtry sportów",
+        "fr": "Filtres de sport actifs",
+        "ar": "مرشحات الرياضة النشطة"
+      },
+      "sport.none": {
+        "en": "No sports match.",
+        "ru": "Нет подходящих видов спорта.",
+        "hy": "Համընկնող սպորտաձևեր չկան։",
+        "sv": "Inga sporter matchar.",
+        "nb": "Ingen sporter samsvarer.",
+        "nl": "Geen sporten gevonden.",
+        "da": "Ingen sportsgrene matcher.",
+        "pl": "Brak pasujących sportów.",
+        "fr": "Aucun sport ne correspond.",
+        "ar": "لا توجد رياضات مطابقة."
+      },
+      "sport.remove": {
+        "en": "Remove",
+        "ru": "Убрать",
+        "hy": "Հեռացնել",
+        "sv": "Ta bort",
+        "nb": "Fjern",
+        "nl": "Verwijderen",
+        "da": "Fjern",
+        "pl": "Usuń",
+        "fr": "Retirer",
+        "ar": "إزالة"
+      },
+      "sport.search": {
+        "en": "Search sports",
+        "ru": "Поиск видов спорта",
+        "hy": "Փնտրել սպորտաձևեր",
+        "sv": "Sök sporter",
+        "nb": "Søk etter sport",
+        "nl": "Zoek sporten",
+        "da": "Søg sportsgrene",
+        "pl": "Szukaj sportów",
+        "fr": "Rechercher un sport",
+        "ar": "البحث عن الرياضات"
+      },
+      "sport.title": {
+        "en": "Sport",
+        "ru": "Спорт",
+        "hy": "Սպորտ",
+        "sv": "Sport",
+        "nb": "Sport",
+        "nl": "Sport",
+        "da": "Sport",
+        "pl": "Sport",
+        "fr": "Sport",
+        "ar": "رياضة"
       },
       "suggestedBalanceReason": {
         "en": "Least recently trained",
