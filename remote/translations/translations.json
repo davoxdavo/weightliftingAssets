@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787814849,
+  "lastSyncedAt": 1787819956,
   "strings": {
     "Misc": {
       "": {
@@ -1698,6 +1698,18 @@
         "fr": "Favorise le travail au poids du corps pour ces suggestions seulement. Ne modifie pas le compte.",
         "ar": "يعزز تمارين وزن الجسم لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
       },
+      "category": {
+        "en": "Category",
+        "ru": "Категория",
+        "hy": "Կատեգորիա",
+        "sv": "Kategori",
+        "nb": "Kategori",
+        "nl": "Categorie",
+        "da": "Kategori",
+        "pl": "Kategoria",
+        "fr": "Catégorie",
+        "ar": "فئة"
+      },
       "homeThisSession": {
         "en": "Home / minimal equipment",
         "ru": "Главная / минимальное оборудование",
@@ -1721,6 +1733,30 @@
         "pl": "Podbija pracę z gumami i ciężarem ciała tylko dla tych sugestii. Nie zmienia ustawień konta.",
         "fr": "Favorise le travail avec élastiques et au poids du corps pour ces suggestions seulement. Ne modifie pas le compte.",
         "ar": "يعزز تمارين الأربطة ووزن الجسم لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
+      },
+      "preferences": {
+        "en": "Preferences",
+        "ru": "Настройки",
+        "hy": "Նախընտրություններ",
+        "sv": "Inställningar",
+        "nb": "Innstillinger",
+        "nl": "Voorkeuren",
+        "da": "Indstillinger",
+        "pl": "Preferencje",
+        "fr": "Préférences",
+        "ar": "التفضيلات"
+      },
+      "preferences.footer": {
+        "en": "Session-only boosts for these suggestions. Does not change Account settings.",
+        "ru": "Усиление только для этих подсказок. Не меняет настройки аккаунта.",
+        "hy": "Միայն այս առաջարկների համար։ Հաշվի կարգավորումները չեն փոխվում։",
+        "sv": "Endast för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Kun for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Alleen voor deze suggesties. Wijzigt geen accountinstellingen.",
+        "da": "Kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Tylko dla tych sugestii. Nie zmienia ustawień konta.",
+        "fr": "Uniquement pour ces suggestions. Ne modifie pas les réglages du compte.",
+        "ar": "لتعزيز هذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
       },
       "range": {
         "en": "Lookback",
@@ -1901,6 +1937,30 @@
         "pl": "Stuknij szprychę, aby dodać lub usunąć tę grupę mięśni na dzisiaj.",
         "fr": "Appuyez sur un rayon pour ajouter ou supprimer ce groupe musculaire pour aujourd'hui.",
         "ar": "اضغط على أحد المتحدثين لإضافة أو إزالة تلك المجموعة العضلية لهذا اليوم."
+      },
+      "sport": {
+        "en": "Sport",
+        "ru": "Спорт",
+        "hy": "Սպորտ",
+        "sv": "Sport",
+        "nb": "Sport",
+        "nl": "Sport",
+        "da": "Sport",
+        "pl": "Sport",
+        "fr": "Sport",
+        "ar": "رياضة"
+      },
+      "sport.footer": {
+        "en": "Optional. Suggestions stick to moves tagged for the sports you pick.",
+        "ru": "Необязательно. Подсказки ограничиваются упражнениями выбранных видов спорта.",
+        "hy": "Պարտադիր չէ։ Առաջարկները սահմանափակվում են ընտրված սպորտերի վարժություններով։",
+        "sv": "Valfritt. Förslag begränsas till övningar för sporterna du väljer.",
+        "nb": "Valgfritt. Forslag begrenses til øvelser for sportene du velger.",
+        "nl": "Optioneel. Suggesties beperken zich tot oefeningen voor de gekozen sporten.",
+        "da": "Valgfrit. Forslag begrænses til øvelser for de sportsgrene, du vælger.",
+        "pl": "Opcjonalnie. Sugestie ograniczają się do ćwiczeń wybranych sportów.",
+        "fr": "Facultatif. Les suggestions se limitent aux mouvements des sports choisis.",
+        "ar": "اختياري. تقتصر الاقتراحات على تمارين الرياضات التي تختارها."
       },
       "start": {
         "en": "Start Balanced Workout",
@@ -14201,6 +14261,66 @@
         "pl": "Zezwól na dostęp do Zdjęć w Ustawieniach, aby zapisać obraz.",
         "fr": "Autorisez l'accès à Photos dans Réglages pour enregistrer l'image.",
         "ar": "اسمح بالوصول إلى الصور في الإعدادات لحفظ الصورة."
+      },
+      "progress.action": {
+        "en": "Share Progress",
+        "ru": "Поделиться прогрессом",
+        "hy": "Կիսվել առաջընթացով",
+        "sv": "Dela framsteg",
+        "nb": "Del fremgang",
+        "nl": "Voortgang delen",
+        "da": "Del fremskridt",
+        "pl": "Udostępnij postęp",
+        "fr": "Partager la progression",
+        "ar": "مشاركة التقدم"
+      },
+      "progress.best": {
+        "en": "Best",
+        "ru": "Лучшее",
+        "hy": "Լավագույն",
+        "sv": "Bästa",
+        "nb": "Beste",
+        "nl": "Beste",
+        "da": "Bedste",
+        "pl": "Najlepszy",
+        "fr": "Meilleur",
+        "ar": "الأفضل"
+      },
+      "progress.change": {
+        "en": "Change",
+        "ru": "Изменение",
+        "hy": "Փոփոխություն",
+        "sv": "Förändring",
+        "nb": "Endring",
+        "nl": "Verandering",
+        "da": "Ændring",
+        "pl": "Zmiana",
+        "fr": "Évolution",
+        "ar": "التغيير"
+      },
+      "progress.eyebrow": {
+        "en": "PROGRESS",
+        "ru": "ПРОГРЕСС",
+        "hy": "ԱՌԱՋԸՆԹԱՑ",
+        "sv": "FRAMSTEG",
+        "nb": "FREMGANG",
+        "nl": "VOORTGANG",
+        "da": "FREMSKRIDT",
+        "pl": "POSTĘP",
+        "fr": "PROGRESSION",
+        "ar": "التقدم"
+      },
+      "progress.latest": {
+        "en": "Latest",
+        "ru": "Последнее",
+        "hy": "Վերջին",
+        "sv": "Senaste",
+        "nb": "Siste",
+        "nl": "Laatste",
+        "da": "Seneste",
+        "pl": "Ostatni",
+        "fr": "Dernier",
+        "ar": "الأحدث"
       },
       "saveToPhotos": {
         "en": "Save to Photos",

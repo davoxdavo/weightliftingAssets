@@ -3,30 +3,41 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Support — Gym Logbook Pro</title>
+  <title>Support — Gym Logbook</title>
   <style>
     :root {
       color-scheme: light dark;
       --fg: #1c1c1e;
       --muted: #6c6c70;
       --bg: #ffffff;
+      --surface: #f2f2f7;
       --rule: rgba(60, 60, 67, 0.18);
       --link: #007aff;
+      --accent: #007aff;
+      --on-accent: #ffffff;
+      --danger: #ff3b30;
+      --ok: #34c759;
     }
     @media (prefers-color-scheme: dark) {
       :root {
         --fg: #f2f2f7;
         --muted: #98989f;
         --bg: #000000;
+        --surface: #1c1c1e;
         --rule: rgba(84, 84, 88, 0.45);
         --link: #0a84ff;
+        --accent: #0a84ff;
+        --danger: #ff6b61;
+        --ok: #30d158;
       }
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       padding: 24px 20px 48px;
-      font: -apple-system-body, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                   "Helvetica Neue", Arial, sans-serif;
+      font-size: 17px;
       line-height: 1.55;
       color: var(--fg);
       background: var(--bg);
@@ -57,6 +68,7 @@
       border: 1px solid var(--rule);
       border-radius: 12px;
       margin: 1rem 0 1.4rem;
+      background: var(--surface);
     }
     .contact strong { display: block; margin-bottom: 0.35rem; }
     hr {
@@ -64,13 +76,152 @@
       border-top: 1px solid var(--rule);
       margin: 1.4rem 0;
     }
+
+    /* —— Contact form —— */
+    #contact-form {
+      margin: 1.2rem 0 0;
+      padding: 1.15rem 1.1rem 1.25rem;
+      border: 1px solid var(--rule);
+      border-radius: 12px;
+      background: var(--surface);
+    }
+    #contact-form h2 {
+      margin: 0 0 0.35rem;
+      font-size: 1.15rem;
+    }
+    #contact-form .lede {
+      color: var(--muted);
+      font-size: 0.92rem;
+      margin: 0 0 1rem;
+    }
+    .field {
+      margin: 0 0 0.85rem;
+    }
+    .field label {
+      display: block;
+      font-size: 0.88rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+    .field .hint {
+      display: block;
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: var(--muted);
+      margin-top: 0.2rem;
+    }
+    .field input,
+    .field select,
+    .field textarea {
+      width: 100%;
+      padding: 0.65rem 0.75rem;
+      font: inherit;
+      font-size: 1rem;
+      color: var(--fg);
+      background: var(--bg);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      outline: none;
+    }
+    .field input:focus,
+    .field select:focus,
+    .field textarea:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent);
+    }
+    .field textarea {
+      min-height: 7.5rem;
+      resize: vertical;
+    }
+    .row-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+    @media (max-width: 30rem) {
+      .row-2 { grid-template-columns: 1fr; }
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-top: 0.35rem;
+    }
+    button {
+      font: inherit;
+      font-size: 0.98rem;
+      font-weight: 600;
+      padding: 0.7rem 1.1rem;
+      border-radius: 10px;
+      border: 1px solid transparent;
+      cursor: pointer;
+    }
+    .btn-primary {
+      background: var(--accent);
+      color: var(--on-accent);
+    }
+    .btn-primary:hover { filter: brightness(1.06); }
+    .btn-secondary {
+      background: transparent;
+      color: var(--fg);
+      border-color: var(--rule);
+    }
+    .btn-secondary:hover {
+      background: color-mix(in srgb, var(--fg) 6%, transparent);
+    }
+    .error {
+      color: var(--danger);
+      font-size: 0.88rem;
+      margin: 0 0 0.75rem;
+      display: none;
+    }
+    .error.show { display: block; }
+
+    /* Fallback: copy message when mail app isn't set up */
+    #mail-fallback {
+      display: none;
+      margin-top: 1.1rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--rule);
+    }
+    #mail-fallback.show { display: block; }
+    #mail-fallback h3 {
+      font-size: 1rem;
+      margin: 0 0 0.4rem;
+    }
+    #mail-fallback .fallback-lede {
+      color: var(--muted);
+      font-size: 0.9rem;
+      margin: 0 0 0.75rem;
+    }
+    #mail-preview {
+      width: 100%;
+      min-height: 11rem;
+      padding: 0.75rem;
+      font: inherit;
+      font-size: 0.9rem;
+      line-height: 1.45;
+      color: var(--fg);
+      background: var(--bg);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      resize: vertical;
+      white-space: pre-wrap;
+    }
+    #copy-status {
+      font-size: 0.88rem;
+      color: var(--ok);
+      min-height: 1.2em;
+      margin: 0.55rem 0 0;
+    }
   </style>
 </head>
 <body>
   <h1>Support</h1>
-  <p class="meta">Gym Logbook Pro · Last updated: 23 July 2026</p>
+  <p class="meta">Gym Logbook · Last updated: 27 August 2026</p>
   <p>
-    Need help with Gym Logbook Pro? Use this page for common questions, or email us directly.
+    Need help with Gym Logbook? Browse the common questions below, or send a message with the form
+    at the bottom of this page.
   </p>
 
   <div class="contact">
@@ -80,7 +231,7 @@
       <a href="mailto:davit.ghushchyan@gmail.com">davit.ghushchyan@gmail.com</a>
     </p>
     <p class="meta" style="margin:0.55rem 0 0;">
-      Please include your device model, iOS version, and a short description of the issue.
+      Please include your device model, OS version, and a short description of the issue.
     </p>
   </div>
 
@@ -89,21 +240,21 @@
   <h2 style="font-size:1rem;margin-top:1rem;">Does the app work offline?</h2>
   <p>
     Yes. Core workout logging is local-first and works without a network connection. Optional
-    features such as sign-in, cloud sync, catalog updates, and Apple Health export need
-    connectivity when you use them.
+    features such as sign-in, cloud sync, catalog updates, and Apple Health / Health Connect export
+    need connectivity when you use them.
   </p>
 
-  <h2 style="font-size:1rem;">How do I export workouts to Apple Health?</h2>
+  <h2 style="font-size:1rem;">How do I export workouts to Apple Health / Health Connect?</h2>
   <p>
-    Open Insights → Apple Health, enable sync, and allow write access when iOS asks. Finished
-    sessions can appear in the Health / Fitness apps. Gym Logbook Pro does not estimate or write
-    calories.
+    On iOS: Insights → Apple Health, enable sync, and allow write access when iOS asks. On Android:
+    Account → Health Connect (when available). Finished sessions can appear in Health / Fitness.
+    Gym Logbook does not estimate or write calories.
   </p>
 
   <h2 style="font-size:1rem;">How do I sign in or link Apple / Google?</h2>
   <p>
     You can use the app as a guest. To link an account, open Account from the Workout tab and
-    choose Sign in with Apple or Google. Both providers can link to the same account.
+    choose Sign in with Apple (iOS) or Google. Both providers can link to the same account on iOS.
   </p>
 
   <h2 style="font-size:1rem;">How do I back up or move my data?</h2>
@@ -125,12 +276,269 @@
     and
     <a href="terms.html">Terms and Conditions</a>.
     For privacy requests, email
-    <a href="mailto:davit.ghushchyan@gmail.com">davit.ghushchyan@gmail.com</a>.
+    <a href="mailto:davit.ghushchyan@gmail.com">davit.ghushchyan@gmail.com</a>
+    or use the form below.
   </p>
 
   <hr />
+
+  <form id="contact-form" novalidate>
+    <h2>Contact us</h2>
+    <p class="lede">
+      Opens your email app with the details below already filled in. If no mail app is set up,
+      you can copy the message instead.
+    </p>
+
+    <p id="form-error" class="error" role="alert"></p>
+
+    <div class="field">
+      <label for="name">Your name</label>
+      <input id="name" name="name" type="text" autocomplete="name" required maxlength="120"
+             placeholder="Alex" />
+    </div>
+
+    <div class="field">
+      <label for="email">Your email</label>
+      <input id="email" name="email" type="email" autocomplete="email" required maxlength="200"
+             placeholder="you@example.com" />
+      <span class="hint">So we can reply. Not stored on this page.</span>
+    </div>
+
+    <div class="row-2">
+      <div class="field">
+        <label for="platform">Platform</label>
+        <select id="platform" name="platform" required>
+          <option value="">Select…</option>
+          <option value="iOS">iOS (iPhone / iPad)</option>
+          <option value="Android">Android</option>
+          <option value="Other">Other / web</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="topic">Topic</label>
+        <select id="topic" name="topic" required>
+          <option value="">Select…</option>
+          <option value="Bug report">Bug report</option>
+          <option value="Feature request">Feature request</option>
+          <option value="Account / sign-in">Account / sign-in</option>
+          <option value="Data export / import">Data export / import</option>
+          <option value="Privacy request">Privacy request</option>
+          <option value="App Review">App Review</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="row-2">
+      <div class="field">
+        <label for="device">Device <span style="font-weight:400;color:var(--muted)">(optional)</span></label>
+        <input id="device" name="device" type="text" maxlength="120"
+               placeholder="iPhone 15, Pixel 8…" />
+      </div>
+      <div class="field">
+        <label for="appVersion">App / OS version <span style="font-weight:400;color:var(--muted)">(optional)</span></label>
+        <input id="appVersion" name="appVersion" type="text" maxlength="80"
+               placeholder="1.0 · iOS 18.5" />
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required maxlength="4000"
+                placeholder="What happened, and what did you expect?"></textarea>
+    </div>
+
+    <div class="actions">
+      <button type="submit" class="btn-primary" id="send-mail">Open in Mail</button>
+      <button type="button" class="btn-secondary" id="prepare-copy">Copy message instead</button>
+    </div>
+
+    <div id="mail-fallback" aria-live="polite">
+      <h3>No mail app opened?</h3>
+      <p class="fallback-lede">
+        If nothing happened, your device may not have a default email app.
+        Copy the message below and paste it into any mail client addressed to
+        <strong>davit.ghushchyan@gmail.com</strong>.
+      </p>
+      <label for="mail-preview" class="hint" style="display:block;margin-bottom:0.35rem;font-size:0.88rem;font-weight:600;color:var(--fg);">
+        Prefilled message
+      </label>
+      <textarea id="mail-preview" readonly></textarea>
+      <div class="actions" style="margin-top:0.65rem;">
+        <button type="button" class="btn-primary" id="copy-body">Copy message</button>
+        <button type="button" class="btn-secondary" id="copy-address">Copy email address</button>
+      </div>
+      <p id="copy-status"></p>
+    </div>
+  </form>
+
+  <hr />
   <p class="meta">
-    Gym Logbook Pro · Support for App Store customers and App Review.
+    Gym Logbook · Support for App Store / Play customers and App Review.
   </p>
+
+  <script>
+(function () {
+  var SUPPORT_EMAIL = "davit.ghushchyan@gmail.com";
+  var form = document.getElementById("contact-form");
+  var errorEl = document.getElementById("form-error");
+  var fallback = document.getElementById("mail-fallback");
+  var preview = document.getElementById("mail-preview");
+  var copyStatus = document.getElementById("copy-status");
+  var mailProbeTimer = null;
+
+  function val(id) {
+    return (document.getElementById(id).value || "").trim();
+  }
+
+  function showError(msg) {
+    errorEl.textContent = msg;
+    errorEl.classList.add("show");
+  }
+
+  function clearError() {
+    errorEl.textContent = "";
+    errorEl.classList.remove("show");
+  }
+
+  function isValidEmail(s) {
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s);
+  }
+
+  function collect() {
+    return {
+      name: val("name"),
+      email: val("email"),
+      platform: val("platform"),
+      topic: val("topic"),
+      device: val("device"),
+      appVersion: val("appVersion"),
+      message: val("message")
+    };
+  }
+
+  function validate(data) {
+    if (!data.name) return "Please enter your name.";
+    if (!data.email || !isValidEmail(data.email)) return "Please enter a valid email so we can reply.";
+    if (!data.platform) return "Please choose a platform.";
+    if (!data.topic) return "Please choose a topic.";
+    if (!data.message || data.message.length < 10) return "Please write a short message (at least a sentence).";
+    return null;
+  }
+
+  function subjectFor(data) {
+    return "[Gym Logbook] " + data.topic + " — " + data.platform;
+  }
+
+  function bodyFor(data) {
+    var lines = [
+      "Name: " + data.name,
+      "Reply-to: " + data.email,
+      "Platform: " + data.platform,
+      "Topic: " + data.topic
+    ];
+    if (data.device) lines.push("Device: " + data.device);
+    if (data.appVersion) lines.push("App / OS: " + data.appVersion);
+    lines.push("", "Message:", data.message, "", "—", "Sent from the Gym Logbook support page.");
+    return lines.join("\n");
+  }
+
+  function mailtoUrl(data) {
+    return "mailto:" + encodeURIComponent(SUPPORT_EMAIL)
+      + "?subject=" + encodeURIComponent(subjectFor(data))
+      + "&body=" + encodeURIComponent(bodyFor(data));
+  }
+
+  function showFallback(data) {
+    var composed =
+      "To: " + SUPPORT_EMAIL + "\n"
+      + "Subject: " + subjectFor(data) + "\n\n"
+      + bodyFor(data);
+    preview.value = composed;
+    fallback.classList.add("show");
+    copyStatus.textContent = "";
+    fallback.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  function copyText(text, okMsg) {
+    function done() {
+      copyStatus.textContent = okMsg;
+    }
+    function fail() {
+      copyStatus.textContent = "Couldn’t copy automatically — select the text above and copy it manually.";
+      preview.focus();
+      preview.select();
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done).catch(fail);
+    } else {
+      try {
+        preview.focus();
+        preview.select();
+        var ok = document.execCommand("copy");
+        if (ok) done();
+        else fail();
+      } catch (e) {
+        fail();
+      }
+    }
+  }
+
+  function openMailto(data) {
+    var url = mailtoUrl(data);
+    // Prefer a temporary <a> click — more reliable than location.href on some mobile browsers.
+    var a = document.createElement("a");
+    a.href = url;
+    a.style.display = "none";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+
+    // If the page is still focused shortly after, assume no mail client handled it.
+    if (mailProbeTimer) clearTimeout(mailProbeTimer);
+    mailProbeTimer = setTimeout(function () {
+      if (!document.hidden) {
+        showFallback(data);
+      }
+    }, 900);
+
+    // Always reveal the fallback so the user can copy if Mail did nothing obvious.
+    showFallback(data);
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    clearError();
+    var data = collect();
+    var err = validate(data);
+    if (err) {
+      showError(err);
+      return;
+    }
+    openMailto(data);
+  });
+
+  document.getElementById("prepare-copy").addEventListener("click", function () {
+    clearError();
+    var data = collect();
+    var err = validate(data);
+    if (err) {
+      showError(err);
+      return;
+    }
+    showFallback(data);
+  });
+
+  document.getElementById("copy-body").addEventListener("click", function () {
+    var text = preview.value;
+    if (!text) return;
+    copyText(text, "Message copied. Paste it into any email to " + SUPPORT_EMAIL + ".");
+  });
+
+  document.getElementById("copy-address").addEventListener("click", function () {
+    copyText(SUPPORT_EMAIL, "Email address copied.");
+  });
+})();
+  </script>
 </body>
 </html>

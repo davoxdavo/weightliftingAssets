@@ -223,7 +223,7 @@
   },
   "sportImages": {
     "baseURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/images/sports/",
-    "revision": 1
+    "revision": 2
   },
   "legal": {
     "termsURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/terms.html",
