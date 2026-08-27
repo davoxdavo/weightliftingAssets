@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787782369,
+  "lastSyncedAt": 1787814849,
   "strings": {
     "Misc": {
       "": {
@@ -147,6 +147,18 @@
         "pl": "Użyć istniejącego konta?",
         "fr": "Utiliser un compte existant ?",
         "ar": "هل تستخدم حسابًا موجودًا؟"
+      },
+      "aiArtNotice": {
+        "en": "About exercise images",
+        "ru": "Об изображениях упражнений",
+        "hy": "Վարժությունների նկարների մասին",
+        "sv": "Om övningsbilderna",
+        "nb": "Om øvelsesbildene",
+        "nl": "Over de oefenafbeeldingen",
+        "da": "Om øvelsesbillederne",
+        "pl": "O ilustracjach ćwiczeń",
+        "fr": "À propos des images d’exercices",
+        "ar": "حول صور التمارين"
       },
       "appearance.footer": {
         "en": "Choose Light, Dark, or match your device setting.",
@@ -2826,6 +2838,18 @@
         "fr": "Agilité",
         "ar": "الرشاقة"
       },
+      "baseball": {
+        "en": "Baseball",
+        "ru": "Бейсбол",
+        "hy": "Բեյսբոլ",
+        "sv": "Baseboll",
+        "nb": "Baseball",
+        "nl": "Honkbal",
+        "da": "Baseball",
+        "pl": "Baseball",
+        "fr": "Baseball",
+        "ar": "البيسبول"
+      },
       "basketball": {
         "en": "Basketball",
         "ru": "Баскетбол",
@@ -2898,6 +2922,18 @@
         "fr": "Football",
         "ar": "كرة القدم"
       },
+      "golf": {
+        "en": "Golf",
+        "ru": "Гольф",
+        "hy": "Գոլֆ",
+        "sv": "Golf",
+        "nb": "Golf",
+        "nl": "Golf",
+        "da": "Golf",
+        "pl": "Golf",
+        "fr": "Golf",
+        "ar": "الغولف"
+      },
       "gym": {
         "en": "Gym",
         "ru": "Тренажёрный зал",
@@ -2922,6 +2958,18 @@
         "fr": "Gymnastique",
         "ar": "الجمباز"
       },
+      "hyrox": {
+        "en": "Hyrox",
+        "ru": "Hyrox",
+        "hy": "Hyrox",
+        "sv": "Hyrox",
+        "nb": "Hyrox",
+        "nl": "Hyrox",
+        "da": "Hyrox",
+        "pl": "Hyrox",
+        "fr": "Hyrox",
+        "ar": "Hyrox"
+      },
       "powerlifting": {
         "en": "Powerlifting",
         "ru": "Пауэрлифтинг",
@@ -2933,6 +2981,66 @@
         "pl": "Trójbój siłowy",
         "fr": "Powerlifting",
         "ar": "رفع الأثقال القوة"
+      },
+      "rowing": {
+        "en": "Rowing",
+        "ru": "Гребля",
+        "hy": "Թիավարություն",
+        "sv": "Rodd",
+        "nb": "Roing",
+        "nl": "Roeien",
+        "da": "Roning",
+        "pl": "Wioślarstwo",
+        "fr": "Aviron",
+        "ar": "التجديف"
+      },
+      "rugby": {
+        "en": "Rugby",
+        "ru": "Регби",
+        "hy": "Ռագբի",
+        "sv": "Rugby",
+        "nb": "Rugby",
+        "nl": "Rugby",
+        "da": "Rugby",
+        "pl": "Rugby",
+        "fr": "Rugby",
+        "ar": "الرجبي"
+      },
+      "skiing": {
+        "en": "Skiing",
+        "ru": "Лыжный спорт",
+        "hy": "Դահուկային սպորտ",
+        "sv": "Skidåkning",
+        "nb": "Ski",
+        "nl": "Skiën",
+        "da": "Ski",
+        "pl": "Narciarstwo",
+        "fr": "Ski",
+        "ar": "التزلج"
+      },
+      "soccer": {
+        "en": "Soccer",
+        "ru": "Футбол",
+        "hy": "Ֆուտբոլ",
+        "sv": "Fotboll",
+        "nb": "Fotball",
+        "nl": "Voetbal",
+        "da": "Fodbold",
+        "pl": "Piłka nożna",
+        "fr": "Football",
+        "ar": "كرة القدم"
+      },
+      "strongman": {
+        "en": "Strongman",
+        "ru": "Стронгмен",
+        "hy": "Սթրոնգմեն",
+        "sv": "Strongman",
+        "nb": "Strongman",
+        "nl": "Strongman",
+        "da": "Strongman",
+        "pl": "Strongman",
+        "fr": "Homme fort",
+        "ar": "سترونغمان"
       },
       "swimming": {
         "en": "Swimming",
@@ -2969,6 +3077,18 @@
         "pl": "Lekkoatletyka",
         "fr": "Athlétisme",
         "ar": "ألعاب القوى"
+      },
+      "volleyball": {
+        "en": "Volleyball",
+        "ru": "Волейбол",
+        "hy": "Վոլեյբոլ",
+        "sv": "Volleyboll",
+        "nb": "Volleyball",
+        "nl": "Volleybal",
+        "da": "Volleyball",
+        "pl": "Siatkówka",
+        "fr": "Volley-ball",
+        "ar": "الكرة الطائرة"
       },
       "weightlifting": {
         "en": "Olympic Weightlifting",
@@ -3345,6 +3465,16 @@
         "ru": "exercise.catalog.%@",
         "hy": "exercise.catalog.%@"
       },
+      "catalog.arms-band-wrist-pronation": {
+        "en": "Band Wrist Pronation",
+        "ru": "Пронация запястья с лентой",
+        "hy": "Ժապավենով դաստակի պրոնացիա"
+      },
+      "catalog.arms-band-wrist-supination": {
+        "en": "Band Wrist Supination",
+        "ru": "Супинация запястья с лентой",
+        "hy": "Ժապավենով դաստակի սուպինացիա"
+      },
       "catalog.arms-barbell-curl": {
         "en": "Barbell Curl",
         "ru": "Сгибание рук со штангой",
@@ -3364,6 +3494,11 @@
         "en": "Cable Curl",
         "ru": "Скручивание кабеля",
         "hy": "Cable Curl"
+      },
+      "catalog.arms-cable-kickback": {
+        "en": "Cable Triceps Kickback",
+        "ru": "Разгибание трицепса на блоке назад",
+        "hy": "Տրիցեպսի ետ մղում բլոկով"
       },
       "catalog.arms-cable-overhead-tricep-extension": {
         "en": "Cable Overhead Tricep Extension",
@@ -3440,10 +3575,20 @@
         "ru": "Разгибание трицепса в тренажере",
         "hy": "Մեքենա Tricep Extension"
       },
+      "catalog.arms-overhead-cable-curl": {
+        "en": "Overhead Cable Curl",
+        "ru": "Сгибание на блоке из-за головы",
+        "hy": "Վերին բլոկով ոլորում"
+      },
       "catalog.arms-overhead-tricep-extension": {
         "en": "Overhead Tricep Extension",
         "ru": "Разгибание трицепса над головой",
         "hy": "Վերևում գտնվող Tricep Extension"
+      },
+      "catalog.arms-plate-pinch": {
+        "en": "Plate Pinch",
+        "ru": "Тарелка Пинч",
+        "hy": "Ափսե պտղունց"
       },
       "catalog.arms-preacher-curl": {
         "en": "Preacher Curl",
@@ -3459,6 +3604,11 @@
         "en": "Reverse Wrist Curl",
         "ru": "Обратное сгибание запястий",
         "hy": "Դաստակի հակառակ ոլորում"
+      },
+      "catalog.arms-rope-hammer-curl": {
+        "en": "Rope Hammer Curl",
+        "ru": "Молотковые сгибания с канатом",
+        "hy": "Մուրճային ոլորում պարանով"
       },
       "catalog.arms-rope-pushdown": {
         "en": "Rope Pushdown",
@@ -3479,6 +3629,11 @@
         "en": "Spider Curl",
         "ru": "Паучий завиток",
         "hy": "Spider Curl"
+      },
+      "catalog.arms-suitcase-carry": {
+        "en": "Suitcase Carry",
+        "ru": "Чемодан",
+        "hy": "Ճամպրուկի կրում"
       },
       "catalog.arms-tate-press": {
         "en": "Tate Press",
@@ -3515,6 +3670,31 @@
         "ru": "Подтягивания с помощью",
         "hy": "Աջակցված ձգում"
       },
+      "catalog.back-band-drag-row": {
+        "en": "Band Drag Row",
+        "ru": "Тяга-драг с лентой",
+        "hy": "Ժապավենով drag քաշում"
+      },
+      "catalog.back-band-face-pull-to-press": {
+        "en": "Band Face Pull to Press",
+        "ru": "Face pull + жим с лентой",
+        "hy": "Face pull + մամուլ ժապավենով"
+      },
+      "catalog.back-band-high-elbow-row": {
+        "en": "Band High-Elbow Row",
+        "ru": "Тяга с лентой высокими локтями",
+        "hy": "Ժապավենով բարձր արմունկներով քաշում"
+      },
+      "catalog.back-band-seated-drag": {
+        "en": "Band Seated Rope Drag",
+        "ru": "Сидячий драг с лентой",
+        "hy": "Նստած drag ժապավենով"
+      },
+      "catalog.back-band-sprawl-row": {
+        "en": "Band Sprawl to Row",
+        "ru": "Спрэл + тяга с лентой",
+        "hy": "Sprawl + քաշում ժապավենով"
+      },
       "catalog.back-barbell-row": {
         "en": "Barbell Row",
         "ru": "Штанга Роу",
@@ -3539,6 +3719,11 @@
         "en": "Close-Grip Lat Pulldown",
         "ru": "Тяга широчайших мышц узким хватом",
         "hy": "Close-Grip Lat Pulldown"
+      },
+      "catalog.back-dead-hang": {
+        "en": "Dead Hang",
+        "ru": "Мертвый ханг",
+        "hy": "Dead Hang"
       },
       "catalog.back-deadlift": {
         "en": "Deadlift",
@@ -3604,6 +3789,11 @@
         "en": "Meadows Row",
         "ru": "Медоуз Роу",
         "hy": "Meadows Row"
+      },
+      "catalog.back-muscle-up": {
+        "en": "Muscle-Up",
+        "ru": "Наращивание мышц",
+        "hy": "Muscle-Up"
       },
       "catalog.back-neutral-grip-pull-up": {
         "en": "Neutral-Grip Pull-Up",
@@ -3695,6 +3885,21 @@
         "ru": "Штурмовой мотоцикл",
         "hy": "Հարձակման հեծանիվ"
       },
+      "catalog.cardio-band-high-knee-march": {
+        "en": "Band High-Knee March",
+        "ru": "Марш с высоким коленом и лентой",
+        "hy": "Ժապավենով բարձր ծնկներով քայլք"
+      },
+      "catalog.cardio-band-lateral-shuffle": {
+        "en": "Band Lateral Shuffle",
+        "ru": "Боковые шаги с лентой",
+        "hy": "Ժապավենով կողային քայլեր"
+      },
+      "catalog.cardio-battle-ropes": {
+        "en": "Battle Ropes",
+        "ru": "Боевые веревки",
+        "hy": "Մարտական ​​պարաններ"
+      },
       "catalog.cardio-burpee": {
         "en": "Burpee",
         "ru": "Берпи",
@@ -3711,6 +3916,11 @@
         "hy": "Էլիպսաձեւ"
       },
       "catalog.cardio-farmer-carry": {
+        "en": "Farmer Carry",
+        "ru": "Фермер Керри",
+        "hy": "Farmer Carry"
+      },
+      "catalog.cardio-farmer-walk": {
         "en": "Farmer Carry",
         "ru": "Фермер Керри",
         "hy": "Farmer Carry"
@@ -3735,6 +3945,11 @@
         "ru": "Прыгающий Джек",
         "hy": "Jumping Jack"
       },
+      "catalog.cardio-prowler-push": {
+        "en": "Prowler Push",
+        "ru": "Бродячий толчок",
+        "hy": "Prowler Push"
+      },
       "catalog.cardio-rowing": {
         "en": "Rowing",
         "ru": "Гребля",
@@ -3755,7 +3970,17 @@
         "ru": "СкиЭрг",
         "hy": "SkiErg"
       },
+      "catalog.cardio-sled-pull": {
+        "en": "Sled Pull",
+        "ru": "Сани тянуть",
+        "hy": "Sled Sled"
+      },
       "catalog.cardio-sled-push": {
+        "en": "Sled Push",
+        "ru": "Санный толчок",
+        "hy": "Sled Push"
+      },
+      "catalog.cardio-sled-push-distance": {
         "en": "Sled Push",
         "ru": "Санный толчок",
         "hy": "Sled Push"
@@ -3900,6 +4125,11 @@
         "ru": "Пек Дек",
         "hy": "Pec Deck"
       },
+      "catalog.chest-pec-deck-hold": {
+        "en": "Pec Deck Squeeze Hold",
+        "ru": "Удержание сведений в пек-деке",
+        "hy": "Pec deck սեղմման պահում"
+      },
       "catalog.chest-plate-press-out": {
         "en": "Plate Press-Out",
         "ru": "Пресс-аут пластины",
@@ -3939,6 +4169,16 @@
         "en": "Ab Wheel",
         "ru": "Колесо для пресса",
         "hy": "Աբ անիվ"
+      },
+      "catalog.core-band-low-to-high-chop": {
+        "en": "Band Low-to-High Chop",
+        "ru": "Рубка с лентой снизу вверх",
+        "hy": "Ժապավենով ցածրից բարձր կտրում"
+      },
+      "catalog.core-band-pallof-press-walk": {
+        "en": "Band Pallof Press-Out Walk",
+        "ru": "Паллоф с шагами",
+        "hy": "Pallof քայլերով"
       },
       "catalog.core-bicycle-crunch": {
         "en": "Bicycle Crunch",
@@ -4010,6 +4250,11 @@
         "ru": "Полая скала",
         "hy": "Hollow Rock"
       },
+      "catalog.core-landmine-rotation": {
+        "en": "Landmine Rotation",
+        "ru": "Ротация мин",
+        "hy": "Ականների ռոտացիա"
+      },
       "catalog.core-leg-raise": {
         "en": "Lying Leg Raise",
         "ru": "Подъем ног лежа",
@@ -4019,6 +4264,11 @@
         "en": "Machine Crunch",
         "ru": "Машинный хруст",
         "hy": "Մեքենայի ճռճռոց"
+      },
+      "catalog.core-medicine-ball-slam": {
+        "en": "Medicine Ball Slam",
+        "ru": "Удар медицинским мячом",
+        "hy": "Medicine Ball Slam"
       },
       "catalog.core-mountain-climber": {
         "en": "Mountain Climber",
@@ -4055,6 +4305,11 @@
         "ru": "Пальцы к перекладине",
         "hy": "Ոտքի մատները դեպի բար"
       },
+      "catalog.core-turkish-get-up": {
+        "en": "Turkish Get-Up",
+        "ru": "Турецкий прикид",
+        "hy": "Թուրքական Վերելք"
+      },
       "catalog.core-v-up": {
         "en": "V-Up",
         "ru": "V-Up",
@@ -4075,6 +4330,36 @@
         "ru": "Приседания на спине",
         "hy": "Մեջքի պառկած նստատեղ"
       },
+      "catalog.legs-band-adductor-squeeze": {
+        "en": "Band Adductor Squeeze",
+        "ru": "Сведение бёдер с лентой",
+        "hy": "Ժապավենով ադդուկտոր սեղմում"
+      },
+      "catalog.legs-band-glute-bridge-march": {
+        "en": "Band Glute Bridge March",
+        "ru": "Марш в ягодичном мосте с лентой",
+        "hy": "Ժապավենով կամրջի քայլք"
+      },
+      "catalog.legs-band-hip-external-rotation": {
+        "en": "Band Hip External Rotation",
+        "ru": "Внешняя ротация бедра с лентой",
+        "hy": "Ժապավենով արտաքին պտույտ"
+      },
+      "catalog.legs-band-hip-internal-rotation": {
+        "en": "Band Hip Internal Rotation",
+        "ru": "Внутренняя ротация бедра с лентой",
+        "hy": "Ժապավենով ներքին պտույտ"
+      },
+      "catalog.legs-band-pull-through": {
+        "en": "Band Pull-Through",
+        "ru": "Пулл-тру с лентой",
+        "hy": "Ժապավենով pull-through"
+      },
+      "catalog.legs-band-sprawl-hinge": {
+        "en": "Band Sprawl Hinge",
+        "ru": "Наклон-спрэл с лентой",
+        "hy": "Sprawl թեքում ժապավենով"
+      },
       "catalog.legs-belt-squat": {
         "en": "Belt Squat",
         "ru": "Приседания на поясе",
@@ -4085,6 +4370,11 @@
         "ru": "Приседания с собственным весом",
         "hy": "Մարմնի քաշային սքվատ"
       },
+      "catalog.legs-box-jump": {
+        "en": "Box Jump",
+        "ru": "Коробочный прыжок",
+        "hy": "Box Jump"
+      },
       "catalog.legs-bulgarian-split-squat": {
         "en": "Bulgarian Split Squat",
         "ru": "Болгарский сплит-присед",
@@ -4094,6 +4384,11 @@
         "en": "Cable Pull-Through",
         "ru": "Протяжка кабеля",
         "hy": "Cable Pull-Through"
+      },
+      "catalog.legs-clean-and-jerk": {
+        "en": "Clean and Jerk",
+        "ru": "Чистота и рывок",
+        "hy": "Մաքուր և ցնցող"
       },
       "catalog.legs-donkey-calf-raise": {
         "en": "Donkey Calf Raise",
@@ -4109,6 +4404,11 @@
         "en": "Dumbbell Romanian Deadlift",
         "ru": "Румынская становая тяга с гантелями",
         "hy": "Dumbbell ռումինական Deadlift"
+      },
+      "catalog.legs-fire-hydrant": {
+        "en": "Fire Hydrant",
+        "ru": "«Пожарный гидрант»",
+        "hy": "Fire hydrant"
       },
       "catalog.legs-front-squat": {
         "en": "Front Squat",
@@ -4140,6 +4440,11 @@
         "ru": "Гакк-приседания",
         "hy": "Hack Squat"
       },
+      "catalog.legs-hang-clean": {
+        "en": "Hang Clean",
+        "ru": "Повесьте чистоту",
+        "hy": "Hang Clean"
+      },
       "catalog.legs-hip-abduction": {
         "en": "Hip Abduction",
         "ru": "Отведение бедра",
@@ -4154,6 +4459,21 @@
         "en": "Hip Thrust",
         "ru": "Выдвижение бедра",
         "hy": "Hip Thrust"
+      },
+      "catalog.legs-kettlebell-clean": {
+        "en": "Kettlebell Clean",
+        "ru": "Гиря чистая",
+        "hy": "Kettlebell մաքուր"
+      },
+      "catalog.legs-kettlebell-snatch": {
+        "en": "Kettlebell Snatch",
+        "ru": "Рывок гири",
+        "hy": "Kettlebell Snatch"
+      },
+      "catalog.legs-kettlebell-swing": {
+        "en": "Kettlebell Swing",
+        "ru": "Качели с гирями",
+        "hy": "Kettlebell Swing"
       },
       "catalog.legs-lateral-lunge": {
         "en": "Lateral Lunge",
@@ -4200,6 +4520,16 @@
         "ru": "Приседания на пистолете",
         "hy": "Ատրճանակի պզուկ"
       },
+      "catalog.legs-power-clean": {
+        "en": "Power Clean",
+        "ru": "Силовая очистка",
+        "hy": "Power Clean"
+      },
+      "catalog.legs-power-snatch": {
+        "en": "Power Snatch",
+        "ru": "Мощный рывок",
+        "hy": "Power Snatch"
+      },
       "catalog.legs-reverse-lunge": {
         "en": "Reverse Lunge",
         "ru": "Обратный выпад",
@@ -4224,6 +4554,11 @@
         "en": "Seated Leg Curl",
         "ru": "Сгибание ног сидя",
         "hy": "Նստած ոտքի գանգրացում"
+      },
+      "catalog.legs-single-leg-extension": {
+        "en": "Single-Leg Extension",
+        "ru": "Разгибание ног по одной",
+        "hy": "Մեկ ոտքի տարածում"
       },
       "catalog.legs-single-leg-press": {
         "en": "Single-Leg Press",
@@ -4250,6 +4585,11 @@
         "ru": "Румынская становая тяга в машине Смита",
         "hy": "Smith Machine ռումինական Deadlift"
       },
+      "catalog.legs-snatch": {
+        "en": "Snatch",
+        "ru": "урвать",
+        "hy": "Պոկել"
+      },
       "catalog.legs-spanish-squat": {
         "en": "Spanish Squat",
         "ru": "Испанский присед",
@@ -4259,6 +4599,16 @@
         "en": "Split Squat",
         "ru": "Сплит-приседания",
         "hy": "Split Squat"
+      },
+      "catalog.legs-standing-cable-hip-extension": {
+        "en": "Standing Cable Hip Extension",
+        "ru": "Разгибание бедра на блоке стоя",
+        "hy": "Բլոկով ազդրի տարածում"
+      },
+      "catalog.legs-standing-cable-hip-flexion": {
+        "en": "Standing Cable Hip Flexion",
+        "ru": "Сгибание бедра на блоке стоя",
+        "hy": "Բլոկով ազդրի ծալում"
       },
       "catalog.legs-standing-calf-raise": {
         "en": "Standing Calf Raise",
@@ -4285,10 +4635,25 @@
         "ru": "Сумо приседания",
         "hy": "Sumo Squat"
       },
+      "catalog.legs-thruster": {
+        "en": "Thruster",
+        "ru": "подруливающее устройство",
+        "hy": "Շարժիչ"
+      },
+      "catalog.legs-tire-flip": {
+        "en": "Tire Flip",
+        "ru": "Переворот шины",
+        "hy": "Անվադողերի շրջում"
+      },
       "catalog.legs-walking-lunge": {
         "en": "Walking Lunge",
         "ru": "Ходьба с выпадом",
         "hy": "Քայլող Լանջ"
+      },
+      "catalog.legs-wall-ball": {
+        "en": "Wall Ball",
+        "ru": "Настенный шар",
+        "hy": "Պատի գնդակ"
       },
       "catalog.legs-wall-sit": {
         "en": "Wall Sit",
@@ -4320,10 +4685,40 @@
         "ru": "Диван Стретч",
         "hy": "Ձգվող բազմոց"
       },
+      "catalog.mobility-frog-rock": {
+        "en": "Frog Rock",
+        "ru": "Покачивания «лягушка»",
+        "hy": "Գորտի օրորում"
+      },
+      "catalog.mobility-frog-stretch": {
+        "en": "Frog Stretch",
+        "ru": "Растяжка «лягушка»",
+        "hy": "Գորտի ձգում"
+      },
       "catalog.mobility-hip-90-90": {
         "en": "90/90 Hip Stretch",
         "ru": "Растяжка бедер 90/90",
         "hy": "90/90 Hip Stretch"
+      },
+      "catalog.mobility-hip-airplane": {
+        "en": "Hip Airplane",
+        "ru": "Hip Airplane",
+        "hy": "Hip airplane"
+      },
+      "catalog.mobility-hip-cars": {
+        "en": "Hip CARs",
+        "ru": "КАРы тазобедренного сустава",
+        "hy": "Ազդրի CAR"
+      },
+      "catalog.mobility-hip-external-rotation": {
+        "en": "Hip External Rotation",
+        "ru": "Внешняя ротация бедра",
+        "hy": "Ազդրի արտաքին պտույտ"
+      },
+      "catalog.mobility-hip-internal-rotation": {
+        "en": "Hip Internal Rotation",
+        "ru": "Внутренняя ротация бедра",
+        "hy": "Ազդրի ներքին պտույտ"
       },
       "catalog.mobility-neck-rolls": {
         "en": "Neck Rolls",
@@ -4335,6 +4730,11 @@
         "ru": "Голубь Стретч",
         "hy": "Pigeon Stretch"
       },
+      "catalog.mobility-seated-hip-opener": {
+        "en": "Seated Straddle Hip Opener",
+        "ru": "Раскрытие бёдер сидя",
+        "hy": "Ազդրերի բացում նստած"
+      },
       "catalog.mobility-shoulder-dislocate": {
         "en": "Shoulder Dislocates",
         "ru": "Вывих плеча",
@@ -4344,6 +4744,16 @@
         "en": "Standing Forward Fold",
         "ru": "Сгибание вперед стоя",
         "hy": "Կանգնած առաջ ծալել"
+      },
+      "catalog.mobility-standing-hip-circles": {
+        "en": "Standing Hip Circles",
+        "ru": "Круги бедром стоя",
+        "hy": "Ազդրի շրջաններ կանգնած"
+      },
+      "catalog.mobility-supine-hip-circles": {
+        "en": "Supine Hip Circles",
+        "ru": "Круги бедром лёжа",
+        "hy": "Ազդրի շրջաններ պառկած"
       },
       "catalog.mobility-thoracic-open-book": {
         "en": "Thoracic Open Book",
@@ -4370,140 +4780,90 @@
         "ru": "Круги на запястьях",
         "hy": "Դաստակի շրջանակներ"
       },
-      "catalog.other-battle-ropes": {
-        "en": "Battle Ropes",
-        "ru": "Боевые веревки",
-        "hy": "Մարտական ​​պարաններ"
-      },
-      "catalog.other-box-jump": {
-        "en": "Box Jump",
-        "ru": "Коробочный прыжок",
-        "hy": "Box Jump"
-      },
-      "catalog.other-clean-and-jerk": {
-        "en": "Clean and Jerk",
-        "ru": "Чистота и рывок",
-        "hy": "Մաքուր և ցնցող"
-      },
-      "catalog.other-dead-hang": {
-        "en": "Dead Hang",
-        "ru": "Мертвый ханг",
-        "hy": "Dead Hang"
-      },
-      "catalog.other-farmer-carry": {
-        "en": "Farmer Carry",
-        "ru": "Фермер Керри",
-        "hy": "Farmer Carry"
-      },
-      "catalog.other-hang-clean": {
-        "en": "Hang Clean",
-        "ru": "Повесьте чистоту",
-        "hy": "Hang Clean"
-      },
-      "catalog.other-kettlebell-clean": {
-        "en": "Kettlebell Clean",
-        "ru": "Гиря чистая",
-        "hy": "Kettlebell մաքուր"
-      },
       "catalog.other-kettlebell-goblet-squat": {
         "en": "Kettlebell Goblet Squat",
         "ru": "Приседания с кубком гири",
         "hy": "Kettlebell Goblet Squat"
       },
-      "catalog.other-kettlebell-snatch": {
-        "en": "Kettlebell Snatch",
-        "ru": "Рывок гири",
-        "hy": "Kettlebell Snatch"
+      "catalog.other-neck-extension": {
+        "en": "Neck Extension",
+        "ru": "Разгибание шеи",
+        "hy": "Պարանոցի տարածում"
       },
-      "catalog.other-kettlebell-swing": {
-        "en": "Kettlebell Swing",
-        "ru": "Качели с гирями",
-        "hy": "Kettlebell Swing"
+      "catalog.other-neck-extension-band": {
+        "en": "Band Neck Extension",
+        "ru": "Разгибание шеи с лентой",
+        "hy": "Պարանոցի տարածում ժապավենով"
       },
-      "catalog.other-landmine-rotation": {
-        "en": "Landmine Rotation",
-        "ru": "Ротация мин",
-        "hy": "Ականների ռոտացիա"
+      "catalog.other-neck-flexion-band": {
+        "en": "Band Neck Flexion",
+        "ru": "Сгибание шеи с лентой",
+        "hy": "Պարանոցի ծալում ժապավենով"
       },
-      "catalog.other-medicine-ball-slam": {
-        "en": "Medicine Ball Slam",
-        "ru": "Удар медицинским мячом",
-        "hy": "Medicine Ball Slam"
+      "catalog.other-neck-harness-flexion": {
+        "en": "Neck Harness Flexion",
+        "ru": "Сгибание шеи в упряжи",
+        "hy": "Պարանոցի ծալում ամրակով"
       },
-      "catalog.other-muscle-up": {
-        "en": "Muscle-Up",
-        "ru": "Наращивание мышц",
-        "hy": "Muscle-Up"
+      "catalog.other-neck-isometric-back": {
+        "en": "Neck Isometric Extension",
+        "ru": "Изометрия разгибания шеи",
+        "hy": "Պարանոցի իզոմետրիկ տարածում"
       },
-      "catalog.other-overhead-carry": {
-        "en": "Overhead Carry",
-        "ru": "Перенос над головой",
-        "hy": "Overhead Carry"
+      "catalog.other-neck-isometric-front": {
+        "en": "Neck Isometric Flexion",
+        "ru": "Изометрия сгибания шеи",
+        "hy": "Պարանոցի իզոմետրիկ ծալում"
       },
-      "catalog.other-plate-pinch": {
-        "en": "Plate Pinch",
-        "ru": "Тарелка Пинч",
-        "hy": "Ափսե պտղունց"
+      "catalog.other-neck-isometric-side": {
+        "en": "Neck Isometric Lateral",
+        "ru": "Боковая изометрия шеи",
+        "hy": "Պարանոցի կողային իզոմետրիա"
       },
-      "catalog.other-power-clean": {
-        "en": "Power Clean",
-        "ru": "Силовая очистка",
-        "hy": "Power Clean"
+      "catalog.other-neck-lateral-band": {
+        "en": "Band Neck Lateral Flexion",
+        "ru": "Боковое сгибание шеи с лентой",
+        "hy": "Պարանոցի կողային ծալում ժապավենով"
       },
-      "catalog.other-power-snatch": {
-        "en": "Power Snatch",
-        "ru": "Мощный рывок",
-        "hy": "Power Snatch"
+      "catalog.other-neck-machine-extension": {
+        "en": "Neck Machine Extension",
+        "ru": "Разгибание шеи в тренажёре",
+        "hy": "Պարանոցի տարածում սարքով"
       },
-      "catalog.other-prowler-push": {
-        "en": "Prowler Push",
-        "ru": "Бродячий толчок",
-        "hy": "Prowler Push"
+      "catalog.other-neck-machine-flexion": {
+        "en": "Neck Machine Flexion",
+        "ru": "Сгибание шеи в тренажёре",
+        "hy": "Պարանոցի ծալում սարքով"
       },
-      "catalog.other-sled-pull": {
-        "en": "Sled Pull",
-        "ru": "Сани тянуть",
-        "hy": "Sled Sled"
+      "catalog.other-neck-machine-lateral": {
+        "en": "Neck Machine Lateral Flexion",
+        "ru": "Боковое сгибание шеи в тренажёре",
+        "hy": "Պարանոցի կողային ծալում սարքով"
       },
-      "catalog.other-sled-push": {
-        "en": "Sled Push",
-        "ru": "Санный толчок",
-        "hy": "Sled Push"
+      "catalog.other-towel-neck-flexion": {
+        "en": "Towel Neck Flexion",
+        "ru": "Сгибание шеи с полотенцем",
+        "hy": "Պարանոցի ծալում սրբիչով"
       },
-      "catalog.other-snatch": {
-        "en": "Snatch",
-        "ru": "урвать",
-        "hy": "Պոկել"
-      },
-      "catalog.other-suitcase-carry": {
-        "en": "Suitcase Carry",
-        "ru": "Чемодан",
-        "hy": "Ճամպրուկի կրում"
-      },
-      "catalog.other-thruster": {
-        "en": "Thruster",
-        "ru": "подруливающее устройство",
-        "hy": "Շարժիչ"
-      },
-      "catalog.other-tire-flip": {
-        "en": "Tire Flip",
-        "ru": "Переворот шины",
-        "hy": "Անվադողերի շրջում"
-      },
-      "catalog.other-turkish-get-up": {
-        "en": "Turkish Get-Up",
-        "ru": "Турецкий прикид",
-        "hy": "Թուրքական Վերելք"
-      },
-      "catalog.other-wall-ball": {
-        "en": "Wall Ball",
-        "ru": "Настенный шар",
-        "hy": "Պատի գնդակ"
+      "catalog.other-wrestler-bridge": {
+        "en": "Wrestler Bridge",
+        "ru": "Борцовский мост",
+        "hy": "Ըմբշամարտի կամուրջ"
       },
       "catalog.shoulders-arnold-press": {
         "en": "Arnold Press",
         "ru": "Арнольд Пресс",
         "hy": "Առնոլդ Պրես"
+      },
+      "catalog.shoulders-band-90-90-external-rotation": {
+        "en": "Band 90/90 External Rotation",
+        "ru": "Внешняя ротация с лентой 90/90",
+        "hy": "Ժապավենով 90/90 արտաքին պտույտ"
+      },
+      "catalog.shoulders-band-scaption": {
+        "en": "Band Scaption",
+        "ru": "Подъёмы в плоскости лопатки с лентой",
+        "hy": "Scaption ժապավենով"
       },
       "catalog.shoulders-bradford-press": {
         "en": "Bradford Press",
@@ -4540,6 +4900,11 @@
         "ru": "Кабельный вертикальный ряд",
         "hy": "Մալուխ Ուղղահայաց շարք"
       },
+      "catalog.shoulders-cable-y-raise": {
+        "en": "Cable Y-Raise",
+        "ru": "Подъёмы Y на блоке",
+        "hy": "Y բարձրացում բլոկով"
+      },
       "catalog.shoulders-cuban-press": {
         "en": "Cuban Press",
         "ru": "Кубинская пресса",
@@ -4570,6 +4935,11 @@
         "ru": "Боковой подъем",
         "hy": "Կողային բարձրացում"
       },
+      "catalog.shoulders-leaning-lateral-raise": {
+        "en": "Leaning Lateral Raise",
+        "ru": "Разведение в наклоне к опоре",
+        "hy": "Թեքված կողային բարձրացում"
+      },
       "catalog.shoulders-lu-raise": {
         "en": "Lu Raise",
         "ru": "Лу Рэйз",
@@ -4585,10 +4955,20 @@
         "ru": "Жим от плеч на тренажере",
         "hy": "Machine Shoulder Press"
       },
+      "catalog.shoulders-overhead-carry": {
+        "en": "Overhead Carry",
+        "ru": "Перенос над головой",
+        "hy": "Overhead Carry"
+      },
       "catalog.shoulders-overhead-press": {
         "en": "Overhead Press",
         "ru": "Пресс над головой",
         "hy": "Օդային մամուլ"
+      },
+      "catalog.shoulders-partial-lateral-raise": {
+        "en": "Partial Lateral Raise",
+        "ru": "Частичные разведения в стороны",
+        "hy": "Մասնակի կողային բարձրացում"
       },
       "catalog.shoulders-pike-push-up": {
         "en": "Pike Push-Up",
@@ -5467,6 +5847,18 @@
         "pl": "Pokazuje przewodnik po formularzu dla tego ćwiczenia",
         "fr": "Affiche un guide de formulaire pour cet exercice",
         "ar": "يعرض دليل النموذج لهذا التمرين"
+      },
+      "formGuide.aiCaption": {
+        "en": "AI-generated illustration — for recognising the movement. Follow the instructions below.",
+        "ru": "Иллюстрация создана ИИ — чтобы узнать движение. Следуйте инструкциям ниже.",
+        "hy": "Նկարազարդումը ստեղծված է ԱԲ-ով — շարժումը ճանաչելու համար։ Հետևեք ստորև հրահանգներին։",
+        "sv": "AI-genererad bild – för att känna igen rörelsen. Följ instruktionerna nedan.",
+        "nb": "AI-generert illustrasjon – for å kjenne igjen bevegelsen. Følg instruksjonene under.",
+        "nl": "Met AI gemaakte illustratie — om de beweging te herkennen. Volg de instructies hieronder.",
+        "da": "AI-genereret illustration – til at genkende bevægelsen. Følg instruktionerne nedenfor.",
+        "pl": "Ilustracja wygenerowana przez AI — do rozpoznania ruchu. Kieruj się instrukcjami poniżej.",
+        "fr": "Illustration générée par IA — pour reconnaître le mouvement. Suivez les instructions ci-dessous.",
+        "ar": "رسم مولَّد بالذكاء الاصطناعي — للتعرّف على الحركة. اتبع التعليمات أدناه."
       },
       "formGuide.cuesTitle": {
         "en": "Form cues",
@@ -9236,18 +9628,6 @@
         "fr": "Représentants uniquement",
         "ar": "ممثلين فقط"
       },
-      "plain.weight_reps.subtitle": {
-        "en": "Enter %@ and reps each set",
-        "ru": "Введите %@ и повторите каждый подход.",
-        "hy": "Մուտքագրեք %@ և կրկնեք յուրաքանչյուր հավաքածու",
-        "sv": "Ange %@ och reps varje set",
-        "nb": "Skriv inn %@ og repeter hvert sett",
-        "nl": "Voer %@ in en herhaal elke set",
-        "da": "Indtast %@ og gentag hvert sæt",
-        "pl": "Wpisz %@ i powtórz każdą serię",
-        "fr": "Entrez %@ et représentez chaque série",
-        "ar": "أدخل %@ وكرر كل مجموعة"
-      },
       "plain.weight_duration.subtitle": {
         "en": "Loaded hold — %@ and seconds each set; weight optional",
         "ru": "Удержание с весом — %@ и секунды в каждом подходе; вес необязателен",
@@ -9259,18 +9639,6 @@
         "pl": "Izometria z obciążeniem — %@ i sekundy w każdej serii; ciężar opcjonalny",
         "fr": "Maintien lesté — %@ et secondes à chaque série ; poids facultatif",
         "ar": "ثبات بحمل — %@ وثوانٍ في كل مجموعة؛ الوزن اختياري"
-      },
-      "plain.weight_reps.title": {
-        "en": "Weight and reps",
-        "ru": "Вес и повторения",
-        "hy": "Քաշ և կրկնություններ",
-        "sv": "Vikt och reps",
-        "nb": "Vekt og reps",
-        "nl": "Gewicht en herhalingen",
-        "da": "Vægt og gentagelser",
-        "pl": "Waga i powtórzenia",
-        "fr": "Poids et répétitions",
-        "ar": "الوزن والممثلين"
       },
       "plain.weight_duration.title": {
         "en": "Weight and time",
@@ -9284,6 +9652,30 @@
         "fr": "Poids et temps",
         "ar": "الوزن والوقت"
       },
+      "plain.weight_reps.subtitle": {
+        "en": "Enter %@ and reps each set",
+        "ru": "Введите %@ и повторите каждый подход.",
+        "hy": "Մուտքագրեք %@ և կրկնեք յուրաքանչյուր հավաքածու",
+        "sv": "Ange %@ och reps varje set",
+        "nb": "Skriv inn %@ og repeter hvert sett",
+        "nl": "Voer %@ in en herhaal elke set",
+        "da": "Indtast %@ og gentag hvert sæt",
+        "pl": "Wpisz %@ i powtórz każdą serię",
+        "fr": "Entrez %@ et représentez chaque série",
+        "ar": "أدخل %@ وكرر كل مجموعة"
+      },
+      "plain.weight_reps.title": {
+        "en": "Weight and reps",
+        "ru": "Вес и повторения",
+        "hy": "Քաշ և կրկնություններ",
+        "sv": "Vikt och reps",
+        "nb": "Vekt og reps",
+        "nl": "Gewicht en herhalingen",
+        "da": "Vægt og gentagelser",
+        "pl": "Waga i powtórzenia",
+        "fr": "Poids et répétitions",
+        "ar": "الوزن والممثلين"
+      },
       "reps": {
         "en": "Reps",
         "ru": "Повторения",
@@ -9296,18 +9688,6 @@
         "fr": "Représentants",
         "ar": "ممثلين"
       },
-      "weight_reps": {
-        "en": "Weight × Reps",
-        "ru": "Вес × Повторения",
-        "hy": "Քաշ × Կրկնություններ",
-        "sv": "Vikt × Reps",
-        "nb": "Vekt × Reps",
-        "nl": "Gewicht × herhalingen",
-        "da": "Vægt × Reps",
-        "pl": "Waga × powtórzeń",
-        "fr": "Poids × répétitions",
-        "ar": "الوزن × التكرارات"
-      },
       "weight_duration": {
         "en": "Weight × Time",
         "ru": "Вес × Время",
@@ -9319,6 +9699,18 @@
         "pl": "Ciężar × Czas",
         "fr": "Poids × Temps",
         "ar": "الوزن × الوقت"
+      },
+      "weight_reps": {
+        "en": "Weight × Reps",
+        "ru": "Вес × Повторения",
+        "hy": "Քաշ × Կրկնություններ",
+        "sv": "Vikt × Reps",
+        "nb": "Vekt × Reps",
+        "nl": "Gewicht × herhalingen",
+        "da": "Vægt × Reps",
+        "pl": "Waga × powtórzeń",
+        "fr": "Poids × répétitions",
+        "ar": "الوزن × التكرارات"
       }
     },
     "Measurement": {
@@ -9384,6 +9776,78 @@
       }
     },
     "Onboarding": {
+      "aiArt.acknowledge": {
+        "en": "I understand",
+        "ru": "Я понимаю",
+        "hy": "Հասկանում եմ",
+        "sv": "Jag förstår",
+        "nb": "Jeg forstår",
+        "nl": "Ik begrijp het",
+        "da": "Jeg forstår",
+        "pl": "Rozumiem",
+        "fr": "J’ai compris",
+        "ar": "فهمت"
+      },
+      "aiArt.lead": {
+        "en": "The illustrations in this app are AI-generated, and some of them get details wrong.",
+        "ru": "Иллюстрации в приложении созданы ИИ, и в некоторых деталях они могут быть неточными.",
+        "hy": "Հավելվածի նկարազարդումները ստեղծված են արհեստական բանականությամբ, և դրանցից մի քանիսը կարող են սխալ մանրամասներ պարունակել։",
+        "sv": "Illustrationerna i appen är AI-genererade, och vissa detaljer kan bli fel.",
+        "nb": "Illustrasjonene i appen er AI-generert, og noen av dem har feil detaljer.",
+        "nl": "De illustraties in deze app zijn met AI gemaakt en sommige details kloppen niet.",
+        "da": "Illustrationerne i appen er AI-genererede, og nogle detaljer kan være forkerte.",
+        "pl": "Ilustracje w tej aplikacji są generowane przez AI i niektóre szczegóły mogą być błędne.",
+        "fr": "Les illustrations de cette app sont générées par IA et certains détails peuvent être faux.",
+        "ar": "الرسوم التوضيحية في هذا التطبيق مولَّدة بالذكاء الاصطناعي، وبعض تفاصيلها قد تكون خاطئة."
+      },
+      "aiArt.point.coach": {
+        "en": "If an image looks wrong or you are unsure, ask a coach before trying the movement.",
+        "ru": "Если изображение выглядит неверным или вы не уверены, спросите тренера, прежде чем пробовать движение.",
+        "hy": "Եթե նկարը սխալ է թվում կամ վստահ չեք, շարժումը փորձելուց առաջ հարցրեք մարզչին։",
+        "sv": "Om en bild ser fel ut eller du är osäker – fråga en tränare innan du testar rörelsen.",
+        "nb": "Ser et bilde feil ut, eller er du usikker – spør en trener før du prøver bevegelsen.",
+        "nl": "Lijkt een afbeelding onjuist of twijfel je? Vraag een coach voordat je de beweging probeert.",
+        "da": "Ser et billede forkert ud, eller er du i tvivl – spørg en træner, før du prøver bevægelsen.",
+        "pl": "Jeśli ilustracja wygląda źle albo masz wątpliwości, zapytaj trenera, zanim spróbujesz ruchu.",
+        "fr": "Si une image semble fausse ou en cas de doute, demandez à un coach avant d’essayer le mouvement.",
+        "ar": "إذا بدت الصورة خاطئة أو لم تكن متأكدًا، اسأل مدربًا قبل تجربة الحركة."
+      },
+      "aiArt.point.instructions": {
+        "en": "The written instructions and safety notes are the reference — reading them is strongly recommended.",
+        "ru": "Ориентир — письменные инструкции и правила безопасности; читать их настоятельно рекомендуется.",
+        "hy": "Հղումը գրավոր հրահանգներն ու անվտանգության նշումներն են — խստորեն խորհուրդ է տրվում կարդալ դրանք։",
+        "sv": "De skrivna instruktionerna och säkerhetsnoteringarna är facit – läs dem.",
+        "nb": "De skriftlige instruksjonene og sikkerhetsnotatene er fasiten – les dem.",
+        "nl": "De geschreven instructies en veiligheidsnotities zijn de leidraad — lees ze.",
+        "da": "De skrevne instruktioner og sikkerhedsnoter er referencen – læs dem.",
+        "pl": "Punktem odniesienia są pisemne instrukcje i uwagi o bezpieczeństwie — przeczytaj je.",
+        "fr": "Les instructions écrites et les consignes de sécurité font référence — lisez-les.",
+        "ar": "التعليمات المكتوبة وملاحظات السلامة هي المرجع — يُنصح بشدة بقراءتها."
+      },
+      "aiArt.point.recognize": {
+        "en": "They are there so you can recognise a movement at a glance.",
+        "ru": "Они нужны, чтобы вы могли узнать движение с одного взгляда.",
+        "hy": "Դրանք կան, որպեսզի կարողանաք մի հայացքով ճանաչել շարժումը։",
+        "sv": "De finns för att du snabbt ska känna igen en rörelse.",
+        "nb": "De er der for at du raskt skal kjenne igjen en bevegelse.",
+        "nl": "Ze zijn er zodat je een beweging in één oogopslag herkent.",
+        "da": "De er der, så du kan genkende en bevægelse med et blik.",
+        "pl": "Są po to, byś rozpoznał ruch na pierwszy rzut oka.",
+        "fr": "Elles servent à reconnaître un mouvement d’un coup d’œil.",
+        "ar": "وُجدت لتتعرّف على الحركة بنظرة سريعة."
+      },
+      "aiArt.title": {
+        "en": "About the exercise images",
+        "ru": "Об изображениях упражнений",
+        "hy": "Վարժությունների նկարների մասին",
+        "sv": "Om övningsbilderna",
+        "nb": "Om øvelsesbildene",
+        "nl": "Over de oefenafbeeldingen",
+        "da": "Om øvelsesbillederne",
+        "pl": "O ilustracjach ćwiczeń",
+        "fr": "À propos des images d’exercices",
+        "ar": "حول صور التمارين"
+      },
       "apply.body": {
         "en": "When you have history, the app suggests the next load. Tap Apply to fill an empty set.",
         "ru": "Если у вас есть история, приложение предлагает следующую загрузку. Нажмите «Применить», чтобы заполнить пустой набор.",
@@ -13375,6 +13839,222 @@
         "pl": "Uzupełnij ostatnią serię przed dodaniem kolejnej.",
         "fr": "Complétez la dernière série avant d'en ajouter une autre.",
         "ar": "أكمل المجموعة الأخيرة قبل إضافة مجموعة جديدة."
+      },
+      "rank": {
+        "en": "Rank",
+        "ru": "Оценка",
+        "hy": "Գնահատական",
+        "sv": "Betyg",
+        "nb": "Karakter",
+        "nl": "Score",
+        "da": "Karakter",
+        "pl": "Ocena",
+        "fr": "Note",
+        "ar": "التقييم"
+      },
+      "rank.excellent": {
+        "en": "Excellent",
+        "ru": "Отлично",
+        "hy": "Գերազանց",
+        "sv": "Utmärkt",
+        "nb": "Utmerket",
+        "nl": "Uitstekend",
+        "da": "Fremragende",
+        "pl": "Doskonale",
+        "fr": "Excellent",
+        "ar": "ممتاز"
+      },
+      "rank.excellent.short": {
+        "en": "Exc",
+        "ru": "Отл",
+        "hy": "Գեր",
+        "sv": "Utm",
+        "nb": "Utm",
+        "nl": "Uitst",
+        "da": "Frem",
+        "pl": "Dosk",
+        "fr": "Exc",
+        "ar": "ممتاز"
+      },
+      "rank.fair": {
+        "en": "Fair",
+        "ru": "Средне",
+        "hy": "Միջին",
+        "sv": "Godkänt",
+        "nb": "Middels",
+        "nl": "Redelijk",
+        "da": "Middel",
+        "pl": "Przeciętnie",
+        "fr": "Moyen",
+        "ar": "مقبول"
+      },
+      "rank.fair.short": {
+        "en": "Fair",
+        "ru": "Сред",
+        "hy": "Միջ",
+        "sv": "Godk",
+        "nb": "Mid",
+        "nl": "Red",
+        "da": "Mid",
+        "pl": "Przec",
+        "fr": "Moy",
+        "ar": "مقبول"
+      },
+      "rank.good": {
+        "en": "Good",
+        "ru": "Хорошо",
+        "hy": "Լավ",
+        "sv": "Bra",
+        "nb": "Bra",
+        "nl": "Goed",
+        "da": "God",
+        "pl": "Dobrze",
+        "fr": "Bon",
+        "ar": "جيد"
+      },
+      "rank.good.short": {
+        "en": "Good",
+        "ru": "Хор",
+        "hy": "Լավ",
+        "sv": "Bra",
+        "nb": "Bra",
+        "nl": "Goed",
+        "da": "God",
+        "pl": "Dobr",
+        "fr": "Bon",
+        "ar": "جيد"
+      },
+      "rank.hide": {
+        "en": "Don’t rate execution",
+        "ru": "Не оценивать исполнение",
+        "hy": "Չգնահատել կատարումը",
+        "sv": "Betygsätt inte utförandet",
+        "nb": "Ikke vurder utførelsen",
+        "nl": "Uitvoering niet beoordelen",
+        "da": "Vurder ikke udførelsen",
+        "pl": "Nie oceniaj wykonania",
+        "fr": "Ne pas noter l’exécution",
+        "ar": "عدم تقييم الأداء"
+      },
+      "rank.leadMetric": {
+        "en": "Show reps or time first",
+        "ru": "Повторы или время первыми",
+        "hy": "Ցույց տալ կրկնությունները կամ ժամանակը առաջինը",
+        "sv": "Visa reps eller tid först",
+        "nb": "Vis reps eller tid først",
+        "nl": "Reps of tijd eerst tonen",
+        "da": "Vis reps eller tid først",
+        "pl": "Najpierw powtórzenia lub czas",
+        "fr": "Afficher les reps ou le temps en premier",
+        "ar": "إظهار التكرارات أو الوقت أولاً"
+      },
+      "rank.leadRank": {
+        "en": "Show rank first",
+        "ru": "Оценка первой",
+        "hy": "Ցույց տալ գնահատականը առաջինը",
+        "sv": "Visa betyget först",
+        "nb": "Vis karakteren først",
+        "nl": "Score eerst tonen",
+        "da": "Vis karakteren først",
+        "pl": "Najpierw ocena",
+        "fr": "Afficher la note en premier",
+        "ar": "إظهار التقييم أولاً"
+      },
+      "rank.missed": {
+        "en": "Missed",
+        "ru": "Неудача",
+        "hy": "Ձախողված",
+        "sv": "Missad",
+        "nb": "Mislykket",
+        "nl": "Mislukt",
+        "da": "Mislykket",
+        "pl": "Nieudany",
+        "fr": "Manqué",
+        "ar": "فاشل"
+      },
+      "rank.missed.short": {
+        "en": "Miss",
+        "ru": "Неуд",
+        "hy": "Ձախ",
+        "sv": "Miss",
+        "nb": "Mis",
+        "nl": "Mis",
+        "da": "Mis",
+        "pl": "Nieud",
+        "fr": "Manq",
+        "ar": "فاشل"
+      },
+      "rank.options": {
+        "en": "Execution rank",
+        "ru": "Оценка исполнения",
+        "hy": "Կատարման գնահատական",
+        "sv": "Utförandebetyg",
+        "nb": "Utførelseskarakter",
+        "nl": "Uitvoeringsscore",
+        "da": "Udførelseskarakter",
+        "pl": "Ocena wykonania",
+        "fr": "Note d’exécution",
+        "ar": "تقييم الأداء"
+      },
+      "rank.poor": {
+        "en": "Poor",
+        "ru": "Слабо",
+        "hy": "Թույլ",
+        "sv": "Svagt",
+        "nb": "Svakt",
+        "nl": "Zwak",
+        "da": "Svag",
+        "pl": "Słabo",
+        "fr": "Faible",
+        "ar": "ضعيف"
+      },
+      "rank.poor.short": {
+        "en": "Poor",
+        "ru": "Слаб",
+        "hy": "Թույլ",
+        "sv": "Svag",
+        "nb": "Svak",
+        "nl": "Zwak",
+        "da": "Svag",
+        "pl": "Słab",
+        "fr": "Faib",
+        "ar": "ضعيف"
+      },
+      "rank.scaleFooter": {
+        "en": "Grades follow the FIG execution bands used to judge acrobatics. Nothing else in the app uses them.",
+        "ru": "Градации соответствуют шкале исполнения FIG, по которой судят акробатику. Больше нигде в приложении они не используются.",
+        "hy": "Աստիճանները հետևում են FIG-ի կատարման սանդղակին, որով դատում են ակրոբատիկան։ Հավելվածում ուրիշ ոչինչ դրանք չի օգտագործում։",
+        "sv": "Betygen följer FIG:s utförandeskala som används för att döma akrobatik. Inget annat i appen använder dem.",
+        "nb": "Karakterene følger FIGs utførelsesskala som brukes til å dømme akrobatikk. Ingenting annet i appen bruker dem.",
+        "nl": "De scores volgen de FIG-uitvoeringsschaal waarmee acrobatiek wordt beoordeeld. Verder gebruikt niets in de app ze.",
+        "da": "Karaktererne følger FIG's udførelsesskala, som bruges til at bedømme akrobatik. Intet andet i appen bruger dem.",
+        "pl": "Oceny odpowiadają skali wykonania FIG stosowanej w sędziowaniu akrobatyki. Nic innego w aplikacji z nich nie korzysta.",
+        "fr": "Les notes suivent les paliers d’exécution FIG utilisés pour juger l’acrobatie. Rien d’autre dans l’app ne s’en sert.",
+        "ar": "تتبع الدرجات نطاقات الأداء الخاصة بالاتحاد الدولي للجمباز المستخدمة في تحكيم الأكروبات. ولا يستخدمها أي شيء آخر في التطبيق."
+      },
+      "rank.show": {
+        "en": "Rate execution",
+        "ru": "Оценивать исполнение",
+        "hy": "Գնահատել կատարումը",
+        "sv": "Betygsätt utförandet",
+        "nb": "Vurder utførelsen",
+        "nl": "Uitvoering beoordelen",
+        "da": "Vurder udførelsen",
+        "pl": "Oceniaj wykonanie",
+        "fr": "Noter l’exécution",
+        "ar": "تقييم الأداء"
+      },
+      "rank.unmarked": {
+        "en": "Not rated",
+        "ru": "Без оценки",
+        "hy": "Չգնահատված",
+        "sv": "Ej betygsatt",
+        "nb": "Ikke vurdert",
+        "nl": "Niet beoordeeld",
+        "da": "Ikke vurderet",
+        "pl": "Bez oceny",
+        "fr": "Non noté",
+        "ar": "غير مقيَّم"
       }
     },
     "Share": {
@@ -14834,6 +15514,66 @@
         "ru": "Колесо для пресса + боковая планка",
         "hy": "Ab Wheel + Side Plank"
       },
+      "catalog.superset-activation-adductor-bridge-march": {
+        "en": "Band Adductor Squeeze + Band Glute Bridge March",
+        "ru": "Сведение бёдер + марш в мосте",
+        "hy": "Ադդուկտոր + կամրջի քայլք"
+      },
+      "catalog.superset-activation-dead-bug-pallof": {
+        "en": "Dead Bug + Band Pallof Press",
+        "ru": "Dead bug + Паллоф",
+        "hy": "Dead bug + Pallof"
+      },
+      "catalog.superset-activation-face-pull-pallof": {
+        "en": "Band Face Pull + Band Pallof Press",
+        "ru": "Face pull + Паллоф",
+        "hy": "Face pull + Pallof"
+      },
+      "catalog.superset-activation-field-chop-walk": {
+        "en": "Band Low-to-High Chop + Band Lateral Shuffle",
+        "ru": "Рубка снизу вверх + боковые шаги",
+        "hy": "Chop + կողային քայլեր"
+      },
+      "catalog.superset-activation-good-morning-pull-through": {
+        "en": "Band Good Morning + Band Pull-Through",
+        "ru": "Гудморнинг + пулл-тру с лентой",
+        "hy": "Good morning + pull-through"
+      },
+      "catalog.superset-activation-high-elbow-row-face-pull": {
+        "en": "Band High-Elbow Row + Band Face Pull",
+        "ru": "Тяга высокими локтями + face pull",
+        "hy": "Բարձր արմունկներ + face pull"
+      },
+      "catalog.superset-activation-lateral-walk-glute-bridge": {
+        "en": "Band Lateral Walk + Band Glute Bridge",
+        "ru": "Боковая ходьба + мост с лентой",
+        "hy": "Կողային քայլ + կամուրջ"
+      },
+      "catalog.superset-activation-monster-walk-tke": {
+        "en": "Band Monster Walk + Band TKE",
+        "ru": "Monster walk + TKE с лентой",
+        "hy": "Monster walk + TKE"
+      },
+      "catalog.superset-activation-pull-apart-external-rotation": {
+        "en": "Band Pull-Apart + Band External Rotation",
+        "ru": "Разведения ленты + внешняя ротация",
+        "hy": "Pull-apart + արտաքին պտույտ"
+      },
+      "catalog.superset-activation-scaption-90-90": {
+        "en": "Band Scaption + Band 90/90 External Rotation",
+        "ru": "Scaption + 90/90 ротация",
+        "hy": "Scaption + 90/90"
+      },
+      "catalog.superset-activation-tennis-cuff": {
+        "en": "Band 90/90 ER + Band Wrist Pronation",
+        "ru": "90/90 ротация + пронация запястья",
+        "hy": "90/90 + պրոնացիա"
+      },
+      "catalog.superset-activation-wrestling-drag": {
+        "en": "Band Drag Row + Band Sprawl Hinge",
+        "ru": "Драг-тяга + спрэл-наклон",
+        "hy": "Drag + sprawl"
+      },
       "catalog.superset-arms-biceps-triceps-forearms-triplet": {
         "en": "Barbell Curl + Tricep Pushdown + Wrist Curl",
         "ru": "Сгибание рук со штангой + отжимание на трицепс + сгибание запястий",
@@ -15355,16 +16095,16 @@
         "ar": "هل ترغب في إزالة المجموعة الفائقة بأكملها؟"
       },
       "reorderFooter": {
-        "en": "Supersets move as one block.",
-        "ru": "Суперсеты движутся как один блок.",
-        "hy": "Սուպերմոտեցումները շարժվում են որպես մեկ բլոկի:",
-        "sv": "Superset rör sig som ett block.",
-        "nb": "Supersett beveger seg som én blokk.",
-        "nl": "Supersets bewegen als één blok.",
-        "da": "Supersæt bevæger sig som én blok.",
-        "pl": "Superserie poruszają się jak jeden blok.",
-        "fr": "Les supersets se déplacent comme un seul bloc.",
-        "ar": "تتحرك المجموعات الفائقة ككتلة واحدة."
+        "en": "Drag A/B/C to change order inside a group. Dragging a member past other exercises moves the whole superset.",
+        "ru": "Перетащите A/B/C, чтобы изменить порядок внутри группы. Перетаскивание участника мимо других упражнений перемещает весь суперсет.",
+        "hy": "Քաշեք A/B/C՝ խմբի ներսում հերթականությունը փոխելու համար։ Անդամը այլ վարժություններից անցկացնելը տեղափոխում է ամբողջ սուպերսեթը։",
+        "sv": "Dra A/B/C för att ändra ordning i gruppen. Att dra en medlem förbi andra övningar flyttar hela supersettet.",
+        "nb": "Dra A/B/C for å endre rekkefølge i gruppen. Å dra et medlem forbi andre øvelser flytter hele supersettet.",
+        "nl": "Sleep A/B/C om de volgorde in de groep te wijzigen. Een lid voorbij andere oefeningen slepen verplaatst de hele superset.",
+        "da": "Træk A/B/C for at ændre rækkefølgen i gruppen. At trække et medlem forbi andre øvelser flytter hele supersættet.",
+        "pl": "Przeciągnij A/B/C, aby zmienić kolejność w grupie. Przeciągnięcie członka poza inne ćwiczenia przenosi cały superset.",
+        "fr": "Faites glisser A/B/C pour changer l’ordre dans le groupe. Faire glisser un membre au-delà d’autres exercices déplace tout le superset.",
+        "ar": "اسحب أ/ب/ج لتغيير الترتيب داخل المجموعة. سحب عضوًا بعد تمارين أخرى ينقل المجموعة الفائقة بالكامل."
       },
       "resetMessage": {
         "en": "Your name, exercise, and order changes will be removed. The original preset will return to Defaults.",
@@ -16001,6 +16741,11 @@
         "ru": "template.catalog.%@",
         "hy": "template.catalog.%@"
       },
+      "catalog.template-arm-pump": {
+        "en": "Arm Pump",
+        "ru": "Памп рук",
+        "hy": "Ձեռքերի պոմպ"
+      },
       "catalog.template-arms-day": {
         "en": "Arms Day",
         "ru": "День оружия",
@@ -16035,6 +16780,11 @@
         "en": "Chest Day",
         "ru": "День груди",
         "hy": "Կրծքավանդակի օր"
+      },
+      "catalog.template-chest-pump": {
+        "en": "Chest Pump",
+        "ru": "Памп груди",
+        "hy": "Կրծքավանդակի պոմպ"
       },
       "catalog.template-chest-triceps": {
         "en": "Chest & Triceps",
@@ -16081,6 +16831,11 @@
         "ru": "Акцент на ягодицы",
         "hy": "Սնձան շեշտադրում"
       },
+      "catalog.template-leg-pump": {
+        "en": "Leg Pump",
+        "ru": "Памп ног",
+        "hy": "Ոտքերի պոմպ"
+      },
       "catalog.template-legs-day": {
         "en": "Legs Day",
         "ru": "День ног",
@@ -16105,6 +16860,16 @@
         "en": "Monday — Full Body A",
         "ru": "Понедельник — Полное тело А",
         "hy": "Երկուշաբթի — Ամբողջական Ա"
+      },
+      "catalog.template-neck-band-flow": {
+        "en": "Neck Band Flow",
+        "ru": "Шея с лентой",
+        "hy": "Պարանոց ժապավենով"
+      },
+      "catalog.template-neck-strength": {
+        "en": "Neck Strength",
+        "ru": "Сила шеи",
+        "hy": "Պարանոցի ուժ"
       },
       "catalog.template-old-school-pump": {
         "en": "Old-School Pump",
@@ -16195,6 +16960,11 @@
         "en": "Shoulder Pump",
         "ru": "Плечо Насос",
         "hy": "Ուսի պոմպ"
+      },
+      "catalog.template-shoulder-pump-plus": {
+        "en": "Shoulder Pump Plus",
+        "ru": "Памп плеч плюс",
+        "hy": "Ուսերի պոմպ պլյուս"
       },
       "catalog.template-shoulders-day": {
         "en": "Shoulders Day",

@@ -196,6 +196,127 @@ def check_catalog(world: dict, report: Report) -> None:
                     )
 
 
+def check_disciplines(world: dict, report: Report) -> None:
+    """Discipline axis (catalog v17+; authorship inverted in v21+).
+
+    Membership lives on each exercise as `disciplines` / `sports` tags. Top-level
+    `disciplines[]` / `sports[]` are metadata only — no `exerciseIds`. A typo'd tag is
+    the failure mode that matters: clients drop undeclared tags, so the exercise silently
+    disappears from that filter with no error anywhere.
+    """
+    catalog = world["catalog"]
+    declared = catalog.get("disciplines")
+    if not declared:
+        return  # pre-v17 catalog — the axis is optional
+
+    known = {d["id"] for d in declared if d.get("id")}
+    for row in declared:
+        if row.get("kind") not in ("modality", "sport"):
+            report.add(
+                "disciplines", "D2", "warn",
+                f"discipline kind={row.get('kind')!r} is not 'modality' or 'sport'",
+                row.get("id"),
+            )
+        if row.get("exerciseIds"):
+            report.add(
+                "disciplines", "D3", "error",
+                "disciplines[].exerciseIds is retired — tag exercises with disciplines instead",
+                row.get("id"),
+            )
+
+    known_sports = {
+        s["id"] for s in (catalog.get("sports") or []) if s.get("id")
+    }
+    sport_targets: dict[str, list[str]] = {}
+    for sport in catalog.get("sports") or []:
+        sport_id = sport.get("id") or "<missing id>"
+        if sport.get("exerciseIds"):
+            report.add(
+                "disciplines", "D3", "error",
+                "sports[].exerciseIds is retired — tag exercises with sports instead",
+                sport_id,
+            )
+        targets = []
+        for tag in sport.get("disciplines") or []:
+            if tag not in known:
+                report.add(
+                    "disciplines", "D1", "error",
+                    f"sport disciplines={tag!r} is not in disciplines[]", sport_id,
+                )
+            else:
+                targets.append(tag)
+        if sport.get("id"):
+            sport_targets[sport["id"]] = targets
+
+    members: dict[str, set[str]] = defaultdict(set)
+
+    for exercise_id, row in world["exercises"].items():
+        tags: list[str] = []
+        for tag in row.get("disciplines") or []:
+            if tag not in known:
+                report.add(
+                    "disciplines", "D1", "error",
+                    f"disciplines={tag!r} is not in disciplines[]", exercise_id,
+                )
+            else:
+                tags.append(tag)
+        for sport_id in row.get("sports") or []:
+            if sport_id not in known_sports:
+                report.add(
+                    "disciplines", "D1", "error",
+                    f"sports={sport_id!r} is not in sports[]", exercise_id,
+                )
+                continue
+            for tag in sport_targets.get(sport_id, []):
+                if tag not in tags:
+                    tags.append(tag)
+        for tag in tags:
+            members[tag].add(exercise_id)
+
+    for discipline in sorted(known):
+        if not members[discipline]:
+            report.add(
+                "disciplines", "D4", "error",
+                "declared discipline has no exercises — it would render as an empty filter",
+                discipline,
+            )
+
+
+def check_execution_rank(world: dict, report: Report) -> None:
+    """Execution rank (catalog v19+): the flag only belongs on reps / duration rows.
+
+    `ExecutionRankPreference.isOffered` refuses every other logging type, so a flag anywhere
+    else is a catalog row proposing something no client will ever render — silent and
+    unfindable without this check.
+    """
+    allowed = {"reps", "duration"}
+    for exercise_id, row in world["exercises"].items():
+        flag = row.get("tracksExecutionRank")
+        if flag is None:
+            continue
+        if not isinstance(flag, bool):
+            report.add(
+                "rank", "K1", "error",
+                f"tracksExecutionRank={flag!r} is not a boolean", exercise_id,
+            )
+            continue
+        if not flag:
+            report.add(
+                "rank", "K2", "warn",
+                "tracksExecutionRank=false is the default — drop the key instead",
+                exercise_id,
+            )
+            continue
+        logging_type = row.get("loggingType")
+        if logging_type not in allowed:
+            report.add(
+                "rank", "K3", "error",
+                f"tracksExecutionRank on loggingType={logging_type!r} — "
+                "only 'reps' and 'duration' rows can show a rank",
+                exercise_id,
+            )
+
+
 def check_images(world: dict, report: Report) -> None:
     if not IMAGES_DIR.is_dir():
         report.add("images", "M0", "error", f"images directory missing: {IMAGES_DIR}")
@@ -586,6 +707,8 @@ def main() -> None:
 
     if "catalog" in areas:
         check_catalog(world, report)
+        check_disciplines(world, report)
+        check_execution_rank(world, report)
     if "images" in areas:
         check_images(world, report)
     if "localizations" in areas:

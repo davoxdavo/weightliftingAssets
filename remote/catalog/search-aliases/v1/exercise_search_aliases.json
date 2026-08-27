@@ -1,0 +1,3788 @@
+{
+  "schemaVersion": 1,
+  "version": 1,
+  "catalogVersion": 18,
+  "description": "Multilingual search aliases for catalog exercises — all locale display names, translations pack titles, merged-away names, and manual synonyms.",
+  "exercises": {
+    "arms-barbell-curl": {
+      "aliases": [
+        "Сгибание рук со штангой",
+        "Ծանրաձողով բարձրացում բիցեպսի համար",
+        "Skivstång Curl",
+        "Barbell-krul",
+        "Uginanie sztangi",
+        "Boucle d'haltères",
+        "حليقة الحديد"
+      ]
+    },
+    "arms-bayesian-curl": {
+      "aliases": [
+        "Сгибание рук на тренажёре «Бэйезиан»",
+        "Բայեսյան բարձրացում բիցեպսի համար",
+        "Bayesiansk krølle",
+        "Bayesiaanse krul",
+        "Zakręt Bayesa",
+        "Boucle bayésienne",
+        "بايزي الضفيرة"
+      ]
+    },
+    "arms-bench-dip": {
+      "aliases": [
+        "Отжимания на скамье",
+        "Հենում նստարանից տրիցեպսի համար",
+        "Bänkdopp",
+        "Benk Dip",
+        "Bank dip",
+        "Bænkdip",
+        "Opad na ławkę",
+        "Trempette sur banc",
+        "تراجع مقاعد البدلاء"
+      ]
+    },
+    "arms-cable-curl": {
+      "aliases": [
+        "Сгибание рук с тросом",
+        "Բլոկային բարձրացում բիցեպսի համար",
+        "Kabelkrøll",
+        "Kabel Krul",
+        "Kabelkrølle",
+        "Zwinięcie kabla",
+        "Boucle de câble",
+        "تجعيد الكابل"
+      ]
+    },
+    "arms-cable-overhead-tricep-extension": {
+      "aliases": [
+        "Расширение трицепса с тросом над головой",
+        "Տրիցեպսի ձգում գլխավերևում բլոկի վրա",
+        "Kabel överliggande Tricepsförlängning",
+        "Kabel overhead Tricep-forlengelse",
+        "Kabel Overhead Tricep-verlenging",
+        "Kabel overhead Triceps forlængelse",
+        "Przedłużenie tricepsa na kablu",
+        "Extension de triceps aérien par câble",
+        "تمديد الكابلات العلوية للعضلة ثلاثية الرؤوس"
+      ]
+    },
+    "arms-close-grip-bench-press": {
+      "aliases": [
+        "Жим лежа с узким хватом",
+        "Սեղմում նստարանից նեղ բռնվածքով",
+        "Bänkpress med nära grepp",
+        "Benkpress med nært grep",
+        "Bankdrukken met gesloten grip",
+        "Tæt-greb bænkpres",
+        "Wyciskanie na ławce z zamkniętym uchwytem",
+        "Développé couché à prise rapprochée",
+        "اضغط على المقعد بقبضة قريبة"
+      ]
+    },
+    "arms-close-grip-push-up": {
+      "aliases": [
+        "Отжимания с узким хватом",
+        "Հրումներ հատակից նեղ բռնվածքով",
+        "Nära grepp Push-Up",
+        "Push-up med nært grep",
+        "Pompki z zamkniętym uchwytem",
+        "Pompes à prise rapprochée",
+        "تمرين الضغط بقبضة قريبة"
+      ]
+    },
+    "arms-concentration-curl": {
+      "aliases": [
+        "Сгибание рук с гантелью на концентрацию",
+        "Կենտրոնացված բարձրացում բիցեպսի համար",
+        "Koncentration Curl",
+        "Konsentrasjonskrøll",
+        "Concentratie Krul",
+        "Skurcz koncentracji",
+        "Boucle de concentration",
+        "حليقة التركيز"
+      ]
+    },
+    "arms-cross-body-hammer-curl": {
+      "aliases": [
+        "Сгибание рук с гантелями поперек тела",
+        "«Մուրճ» բարձրացում կրծքավանդակի վրայով",
+        "Cross-body hamerkrul",
+        "Uginanie młotkiem krzyżowym",
+        "Curl marteau à bandoulière",
+        "تجعيد المطرقة عبر الجسم"
+      ]
+    },
+    "arms-dip": {
+      "aliases": [
+        "Опускание",
+        "Հրումներ զուգափայտերից",
+        "Doppa",
+        "Dyppe",
+        "Duik",
+        "Dukkert",
+        "Zanurzać",
+        "Tremper",
+        "تراجع"
+      ]
+    },
+    "arms-drag-curl": {
+      "aliases": [
+        "Сгибание рук с тягой",
+        "Քաշող բարձրացում բիցեպսի համար (Drag Curl)",
+        "Dra Curl",
+        "Sleep Krul",
+        "Træk Curl",
+        "Przeciągnij zwinięcie",
+        "Faites glisser la boucle",
+        "اسحب الضفيرة"
+      ]
+    },
+    "arms-dumbbell-curl": {
+      "aliases": [
+        "Сгибание рук с гантелями",
+        "գանթելներով բարձրացում բիցեպսի համար",
+        "Hantelcurl",
+        "Halter Krul",
+        "Uginanie hantli",
+        "Curl avec haltères",
+        "الدمبل الضفيرة"
+      ]
+    },
+    "arms-ez-bar-curl": {
+      "aliases": [
+        "Сгибание рук с EZ-штангой",
+        "EZ-ծանրաձողով բարձրացում բիցեպսի համար",
+        "Curl EZ-Bar",
+        "EZ-بار الضفيرة"
+      ]
+    },
+    "arms-hammer-curl": {
+      "aliases": [
+        "Сгибание рук с гантелями «молотком»",
+        "«Մուրճ» բարձրացում գանթելներով",
+        "Hamer Krul",
+        "Zwijanie młotka",
+        "Boucle de marteau",
+        "هامر كيرل"
+      ]
+    },
+    "arms-incline-dumbbell-curl": {
+      "aliases": [
+        "Сгибание рук с гантелями на наклонной скамье",
+        "գանթելներով բարձրացում բիցեպսի համար թեք նստարանին",
+        "Helling halter curl",
+        "Uginanie hantli w pozycji pochylonej",
+        "Curl d’haltères incliné",
+        "انحدر الدمبل الضفيرة"
+      ]
+    },
+    "arms-jm-press": {
+      "aliases": [
+        "Жим JM",
+        "JM սեղմում",
+        "JM Pers",
+        "JM Tryk",
+        "Presse JM",
+        "الصحافة JM"
+      ]
+    },
+    "arms-kickback": {
+      "aliases": [
+        "Отведение гантели назад на трицепс",
+        "Տրիցեպսի հետձգում գանթելով (Kickback)",
+        "Triceps Kickback",
+        "Triceps tilbakeslag",
+        "Triceps-terugslag",
+        "Triceps tilbageslag",
+        "Odrzut Tricepsa",
+        "Rebond des triceps",
+        "ركلة ثلاثية الرؤوس"
+      ]
+    },
+    "arms-machine-bicep-curl": {
+      "aliases": [
+        "Сгибание рук на тренажере",
+        "Բիցեպսի բարձրացում տրենաժորի վրա",
+        "Machine Biceps Curl",
+        "Uginanie bicepsa maszynowo",
+        "Curl des biceps à la machine",
+        "آلة ثني العضلة ذات الرأسين"
+      ]
+    },
+    "arms-machine-tricep-extension": {
+      "aliases": [
+        "Расширение трицепса на тренажере",
+        "Տրիցեպսի ձգում տրենաժորի վրա",
+        "Machine Triceps Extension",
+        "Maskin Tricep Extension",
+        "Machine-triceps-extensie",
+        "Maszynowe rozciąganie tricepsa",
+        "Extension des triceps à la machine",
+        "آلة تمديد ثلاثية الرؤوس"
+      ]
+    },
+    "arms-overhead-tricep-extension": {
+      "aliases": [
+        "Расширение трицепса над головой",
+        "Տրիցեպսի ձգում գլխավերևում",
+        "Overhead Triceps Extension",
+        "Triceps-extensie boven het hoofd",
+        "Prostowanie tricepsów nad głową",
+        "Extension des triceps au-dessus de la tête",
+        "تمديد ثلاثية الرؤوس العلوية"
+      ]
+    },
+    "arms-preacher-curl": {
+      "aliases": [
+        "Сгибание рук на скамье «Пречер»",
+        "Բիցեպսի բարձրացում Սկոտի նստարանին",
+        "Predikant Curl",
+        "Prediker Krul",
+        "Prædikant Curl",
+        "Kaznodzieja Curl",
+        "Boucle de prédicateur",
+        "الواعظ حليقة"
+      ]
+    },
+    "arms-reverse-curl": {
+      "aliases": [
+        "Обратный сгиб рук",
+        "Բարձրացում բիցեպսի համար հակառակ բռնվածքով",
+        "Omvendt krøll",
+        "Omgekeerde krul",
+        "Omvendt krølle",
+        "Odwrotne zwijanie",
+        "Boucle inversée",
+        "عكس الضفيرة"
+      ]
+    },
+    "arms-reverse-wrist-curl": {
+      "aliases": [
+        "Обратный сгиб запястий",
+        "Դաստակի ձգում հակառակ բռնվածքով",
+        "Omvendt håndleddskurl",
+        "Omgekeerde polskrul",
+        "Odwrotne ugięcie nadgarstka",
+        "Curl du poignet inversé",
+        "عكس حليقة المعصم"
+      ]
+    },
+    "arms-rope-pushdown": {
+      "aliases": [
+        "Опускание троса",
+        "Տրիցեպսի հրում ճոպանով",
+        "Rep Pushdown",
+        "Tau Pushdown",
+        "Touw naar beneden duwen",
+        "Opuszczenie liny",
+        "Poussée de corde",
+        "حبل الضغط للأسفل"
+      ]
+    },
+    "arms-single-arm-cable-pushdown": {
+      "aliases": [
+        "Одноручный спуск по тросу",
+        "Տրիցեպսի հրում բլոկի վրա մեկ ձեռքով",
+        "Enarmad kabelnedtryckning",
+        "Enarms kabel nedskyvning",
+        "Kabeldruk met één arm",
+        "Enkeltarmskabel Pushdown",
+        "Przycisk dociskowy z jednym ramieniem",
+        "Poussée de câble à un seul bras",
+        "دفع كابل بذراع واحدة للأسفل"
+      ]
+    },
+    "arms-skull-crusher": {
+      "aliases": [
+        "Разгибание рук лёжа («Черепомол»)",
+        "Տրիցեպսի ձգում պառկած (Skull Crusher)",
+        "Schedelbreker",
+        "Kranieknuser",
+        "Kruszarka Czaszek",
+        "Broyeur de crâne",
+        "كسارة الجمجمة"
+      ]
+    },
+    "arms-spider-curl": {
+      "aliases": [
+        "Сгибание рук «Паук»",
+        "«Սարդ» բարձրացում բիցեպսի համար (Spider Curl)",
+        "Spin Krul",
+        "Pająk",
+        "Boucle d'araignée",
+        "حليقة العنكبوت"
+      ]
+    },
+    "arms-tate-press": {
+      "aliases": [
+        "Жим Тейта",
+        "Տեյտի սեղմում (Tate Press)",
+        "Tate Pers",
+        "Presse Tate",
+        "تيت برس"
+      ]
+    },
+    "arms-tricep-pushdown": {
+      "aliases": [
+        "Разгибание рук на трицепс с тросом (Pushdown)",
+        "Տրիցեպսի հրում բլոկի վրա",
+        "Triceps Pushdown",
+        "Triceps-pushdown",
+        "Wyciskanie tricepsów",
+        "Poussée des triceps",
+        "ثلاثية الرؤوس الضغط لأسفل"
+      ]
+    },
+    "arms-weighted-dip": {
+      "aliases": [
+        "Отжимания с дополнительным весом",
+        "Հրումներ զուգափայտերից ծանրոցով",
+        "Viktad Dip",
+        "Vektet Dip",
+        "Gewogen dip",
+        "Vægtet Dip",
+        "Ważony dip",
+        "Trempette pondérée",
+        "تراجع مرجح"
+      ]
+    },
+    "arms-wrist-curl": {
+      "aliases": [
+        "Сгибание запястий",
+        "Դաստակի ծալում",
+        "Handledscurl",
+        "Krøll på håndleddet",
+        "Pols Krul",
+        "Krølle i håndled",
+        "Zwinięcie nadgarstka",
+        "Boucle du poignet",
+        "تجعيد المعصم"
+      ]
+    },
+    "arms-zottman-curl": {
+      "aliases": [
+        "Сгибание рук по методу Зоттмана",
+        "Զոտմանի բարձրացում բիցեպսի համար",
+        "Zottman Krul",
+        "Zottmana Curla",
+        "Boucle Zottman",
+        "زوتمان كيرل"
+      ]
+    },
+    "back-assisted-pull-up": {
+      "aliases": [
+        "Подтягивания с поддержкой",
+        "Կզակաբարձումներ օժանդակող տրենաժորով (Գրավիտրոն)",
+        "Assisterad Pull-Up",
+        "Assistert Pull-Up",
+        "Geassisteerde pull-up",
+        "Assisteret Pull-Up",
+        "Podciąganie wspomagane",
+        "Traction assistée",
+        "السحب المساعد"
+      ]
+    },
+    "back-barbell-row": {
+      "aliases": [
+        "Тяга штанги",
+        "Ծանրաձողի քաշում թեքված վիճակում",
+        "Skivstångsraden",
+        "Barbell-rij",
+        "Rząd sztangi",
+        "Rowing à la barre",
+        "صف الحديد"
+      ]
+    },
+    "back-barbell-shrug": {
+      "aliases": [
+        "Подъём плеч со штангой",
+        "Ուսերի բարձրացում (շրագ) ծանրաձողով",
+        "Skivstång på axlarna",
+        "Vektstang trekker på skuldrene",
+        "Schouderophalen met halterstang",
+        "Barbell skuldertræk",
+        "Wzruszenie ramionami ze sztangą",
+        "Haussement d'épaules à la barre",
+        "يتغاضى باربل"
+      ]
+    },
+    "back-chest-supported-row": {
+      "aliases": [
+        "Тяга с опорой на грудь",
+        "Քաշում կրծքավանդակի հենարանով",
+        "Bröststödd rad",
+        "Bryststøttet rad",
+        "Borstondersteunde rij",
+        "Bryststøttet række",
+        "Wiersz podparty klatką piersiową",
+        "Rangée soutenue par la poitrine",
+        "صف مدعوم بالصدر"
+      ]
+    },
+    "back-chin-up": {
+      "aliases": [
+        "Подтягивание нижним хватом",
+        "Կզակաբարձումներ ներքևից բռնվածքով",
+        "Optrekken onderhands",
+        "Podciąganie podchwytem",
+        "Traction à la barre",
+        "الذقن المتابعة"
+      ]
+    },
+    "back-close-grip-lat-pulldown": {
+      "aliases": [
+        "Тяга к груди с узким хватом",
+        "Վերին բլոկի քաշում նեղ բռնվածքով",
+        "Close-Grip Lat-pulldown",
+        "Ściąganie najszerszego uchwytu przy ścisłym chwycie",
+        "Pulldown latéral à prise rapprochée",
+        "قبضة قريبة من المنسدلة"
+      ]
+    },
+    "back-deadlift": {
+      "aliases": [
+        "Становая тяга",
+        "Ձգում (Deadlift)",
+        "Marklyft",
+        "Markløft",
+        "Dødløft",
+        "Martwy ciąg",
+        "Soulevé de terre",
+        "الرفعة المميتة"
+      ]
+    },
+    "back-dumbbell-row": {
+      "aliases": [
+        "Тяга гантели",
+        "գանթելի քաշում մեկ ձեռքով",
+        "Hantelrad",
+        "Halter rij",
+        "Håndvægtsrækken",
+        "Rząd hantli",
+        "Rowing avec haltère",
+        "صف الدمبل"
+      ]
+    },
+    "back-dumbbell-shrug": {
+      "aliases": [
+        "Пожимание плечами с гантелями",
+        "Ուսերի բարձրացում (շրագ) գանթելներով",
+        "Hantel axelryckning",
+        "Hantel skuldertrekk",
+        "Schouderophalen met dumbbells",
+        "Håndvægt skuldertræk",
+        "Wzruszenie ramionami z hantlami",
+        "Haussement d'épaules avec haltères",
+        "الدمبل يقشعر"
+      ]
+    },
+    "back-face-pull": {
+      "aliases": [
+        "Тяга к лицу",
+        "Բլոկի քաշում դեպի դեմք (Face Pull)",
+        "Gezicht trekken",
+        "Przyciąganie twarzy",
+        "Tirer le visage",
+        "سحب الوجه"
+      ]
+    },
+    "back-good-morning": {
+      "aliases": [
+        "«Доброе утро»",
+        "«Բարի լույս» (Good Morning) վարժություն",
+        "God morgon",
+        "God morgen",
+        "Goedemorgen",
+        "Godmorgen",
+        "Dzień dobry",
+        "Bonjour",
+        "صباح الخير"
+      ]
+    },
+    "back-hyperextension": {
+      "aliases": [
+        "Разгибание спины",
+        "Մեջքի ձգում (Հիպերէքստենզիա)",
+        "Ryggförlängning",
+        "Ryggforlengelse",
+        "Achteruitbreiding",
+        "Ryg forlængelse",
+        "Przedłużenie pleców",
+        "Extension du dos",
+        "تمديد الظهر"
+      ]
+    },
+    "back-inverted-row": {
+      "aliases": [
+        "Перевёрнутая тяга",
+        "Հակադարձ քաշում (Inverted Row)",
+        "Inverterad rad",
+        "Omvendt rad",
+        "Omgekeerde rij",
+        "Omvendt række",
+        "Odwrócony rząd",
+        "Rangée inversée",
+        "صف معكوس"
+      ]
+    },
+    "back-kroc-row": {
+      "aliases": [
+        "Гребля по методу Крока",
+        "Քրոկի քաշում (Kroc Row)",
+        "Kroc-rij",
+        "Rząd Kroca",
+        "Rangée de Kroc",
+        "صف كروك"
+      ]
+    },
+    "back-lat-pulldown": {
+      "aliases": [
+        "Тяга к груди",
+        "Վերին բլոկի քաշում լայն բռնվածքով",
+        "Tirage latéral",
+        "المنسدلة اللاتية"
+      ]
+    },
+    "back-machine-pullover": {
+      "aliases": [
+        "Пуловер на тренажере",
+        "Պուլովեր տրենաժորի վրա",
+        "Maskintröja",
+        "Maskin Pullover",
+        "Machine-trui",
+        "Maskine Pullover",
+        "Pulower maszynowy",
+        "Pull machine",
+        "بلوفر الآلة"
+      ]
+    },
+    "back-machine-row": {
+      "aliases": [
+        "Гребля на тренажере",
+        "Քաշում տրենաժորի վրա",
+        "Maskinrad",
+        "Machinerij",
+        "Maskinrække",
+        "Rząd maszyn",
+        "Rangée de machines",
+        "صف الآلة"
+      ]
+    },
+    "back-meadows-row": {
+      "aliases": [
+        "Тяга Мидоуз",
+        "Մեդոուզի քաշում (Meadows Row)",
+        "Weiden rij",
+        "Meadows Rækken",
+        "Rząd łąk",
+        "Rangée des prés",
+        "صف المروج"
+      ]
+    },
+    "back-neutral-grip-pull-up": {
+      "aliases": [
+        "Подтягивания с нейтральным хватом",
+        "Ձգումներ չեզոք բռնվածքով",
+        "Pull-Up med nøytralt grep",
+        "Pull-up met neutrale grip",
+        "Pull-Up med neutralt greb",
+        "Podciąganie z neutralnym chwytem",
+        "Pull-Up à prise neutre",
+        "سحب ما يصل قبضة محايدة"
+      ]
+    },
+    "back-pendlay-row": {
+      "aliases": [
+        "Гребля Пендлея",
+        "Փենդլեյի քաշում (Pendlay Row)",
+        "Pendlay rad",
+        "Pendlay-rij",
+        "Pendlay række",
+        "Rząd Pendlay'a",
+        "Rangée Pendlay",
+        "صف بندلاي"
+      ]
+    },
+    "back-pull-up": {
+      "aliases": [
+        "Подтягивание",
+        "Ձգումներ պտտաձողի վրա",
+        "Optrekken bovenhands",
+        "Podciąganie nachwytem",
+        "Tirer vers le haut",
+        "سحب ما يصل"
+      ]
+    },
+    "back-rack-pull": {
+      "aliases": [
+        "Тяга со стоек",
+        "Ձգում կանգնակներից (Rack Pull)",
+        "Rek trekken",
+        "Ciągnięcie stojaka",
+        "Tirette à crémaillère",
+        "سحب الرف"
+      ]
+    },
+    "back-reverse-grip-lat-pulldown": {
+      "aliases": [
+        "Тяга верхнего блока обратным хватом",
+        "Վերին բլոկի քաշում հակառակ բռնվածքով",
+        "Lat Pulldown met omgekeerde grip",
+        "Opuszczanie najszerszego uchwytu z odwróconym uchwytem",
+        "Pulldown latéral à prise inversée",
+        "عكس قبضة اللات المنسدلة"
+      ]
+    },
+    "back-seal-row": {
+      "aliases": [
+        "Гребля лёжа \"Seal Row\"",
+        "Սիլ քաշում (Seal Row)",
+        "Seal rad",
+        "Zeehond rij",
+        "Seal Række",
+        "Rząd Fok",
+        "Rangée de phoques",
+        "صف الختم"
+      ]
+    },
+    "back-seated-cable-row": {
+      "aliases": [
+        "Сидячая тяга с тросом",
+        "Նստած բլոկի քաշում դեպի փորը",
+        "Sittande kabelrad",
+        "Sittende kabelrekke",
+        "Zittende kabelrij",
+        "Siddende kabelrække",
+        "Siedzący rząd kabli",
+        "Rangée de câbles assis",
+        "صف الكابل الجالس"
+      ]
+    },
+    "back-single-arm-cable-row": {
+      "aliases": [
+        "Тяга одной рукой на тренажере с тросом",
+        "Բլոկի քաշում մեկ ձեռքով",
+        "Enarmad kabelrad",
+        "Enarms kabelrekke",
+        "Eenarmige kabelrij",
+        "Enkeltarms kabelrække",
+        "Jednoramienny rząd kabli",
+        "Rangée de câbles à un seul bras",
+        "صف كابل ذو ذراع واحدة"
+      ]
+    },
+    "back-single-arm-lat-pulldown": {
+      "aliases": [
+        "Одноручное спускание на лат",
+        "Վերին բլոկի քաշում մեկ ձեռքով",
+        "Enkelarmad Lat Pulldown",
+        "Enarms Lat-uttrekk",
+        "Lat-pulldown met één arm",
+        "Opuszczanie najszerszego ramienia jednym ramieniem",
+        "Pulldown latéral à un bras",
+        "المنسدلة ذات الذراع الواحدة"
+      ]
+    },
+    "back-straight-arm-pulldown": {
+      "aliases": [
+        "Спускание на лат прямыми руками",
+        "Բլոկի քաշում ուղիղ ձեռքերով",
+        "Pulldown med rak arm",
+        "Nedtrekk med rett arm",
+        "Pulldown met rechte arm",
+        "Pulldown med lige arm",
+        "Podciąganie prostych ramion",
+        "Pulldown à bras droit",
+        "المنسدلة للذراع المستقيمة"
+      ]
+    },
+    "back-sumo-deadlift": {
+      "aliases": [
+        "Становая тяга сумо",
+        "Սումո ձգում (Sumo Deadlift)",
+        "Sumo marklyft",
+        "Sumo Markløft",
+        "Sumo-deadlift",
+        "Sumo Dødløft",
+        "Martwy ciąg sumo",
+        "Soulevé de terre sumo",
+        "السومو الرفعة المميتة"
+      ]
+    },
+    "back-t-bar-row": {
+      "aliases": [
+        "Тяга Т-образной штанги",
+        "T-ձև ծանրաձողի քաշում",
+        "T-bar rad",
+        "T-balk rij",
+        "T-bar række",
+        "Rząd T-Barów",
+        "Rangée de barres en T",
+        "صف T-Bar"
+      ]
+    },
+    "back-trap-bar-deadlift": {
+      "aliases": [
+        "Становая тяга с трап-баром",
+        "Ձգում Տրապ-ծանրաձողով",
+        "Trap Bar Marklyft",
+        "Trap Bar Markløft",
+        "Deadlift met trapbar",
+        "Trap Bar Dødløft",
+        "Martwy ciąg z drążkiem pułapkowym",
+        "Soulevé de terre à barre de piège",
+        "تراب بار الرفعة المميتة"
+      ]
+    },
+    "back-weighted-chin-up": {
+      "aliases": [
+        "Подтягивание с отягощением нижним хватом",
+        "Կզակաբարձումներ ծանրոցով (ներքևից բռնվածքով)",
+        "Viktad Chin-Up",
+        "Vektet Chin-Up",
+        "Verzwaarde optrek",
+        "Vægtet Chin-Up",
+        "Podciąganie podchwytem z obciążeniem",
+        "Traction supination lestée",
+        "ذقن مرجح"
+      ]
+    },
+    "back-weighted-pull-up": {
+      "aliases": [
+        "Подтягивания с отягощением",
+        "Ձգումներ պտտաձողի վրա ծանրոցով",
+        "Viktad Pull-Up",
+        "Vektet Pull-Up",
+        "Gewogen pull-up",
+        "Vægtet Pull-Up",
+        "Podciąganie nachwytem z obciążeniem",
+        "Traction pronation lestée",
+        "سحب ما يصل المرجح"
+      ]
+    },
+    "back-wide-grip-pull-up": {
+      "aliases": [
+        "Подтягивания с широким хватом",
+        "Ձգումներ պտտաձողի վրա լայն բռնվածքով",
+        "Pull-Up med brett grepp",
+        "Pull-Up med bredt grep",
+        "Pull-up met brede grip",
+        "Pull-Up med bredt greb",
+        "Podciąganie na szerokim chwycie",
+        "Traction à prise large",
+        "سحب بقبضة واسعة"
+      ]
+    },
+    "back-yates-row": {
+      "aliases": [
+        "Гребля по методу Йейтса",
+        "Յեյթսի քաշում (Yates Row)",
+        "Yates Rij",
+        "Rząd Yatesa",
+        "Rangée de Yates",
+        "صف ييتس"
+      ]
+    },
+    "cardio-assault-bike": {
+      "aliases": [
+        "Велотренажер Assault Bike",
+        "Assault Bike (օդային հեծանիվ)",
+        "Aanvalsfiets",
+        "Rower szturmowy",
+        "Vélo d'assaut",
+        "دراجة الاعتداء"
+      ]
+    },
+    "cardio-burpee": {
+      "aliases": [
+        "Берпи",
+        "Բերփի (Burpee)",
+        "بيربي"
+      ]
+    },
+    "cardio-cycling": {
+      "aliases": [
+        "Outdoor Cycling",
+        "Road Cycling",
+        "Велоспорт",
+        "Հեծանվասպորտ",
+        "Cykling",
+        "Sykling",
+        "Fietsen",
+        "Kolarstwo",
+        "Vélo",
+        "ركوب الدراجات"
+      ]
+    },
+    "cardio-elliptical": {
+      "aliases": [
+        "Эллиптический тренажер",
+        "Էլիպսոիդ տրենաժոր",
+        "Elliptisk",
+        "Elliptisch",
+        "Eliptyczny",
+        "Elliptique",
+        "بيضاوي الشكل"
+      ]
+    },
+    "cardio-high-knees": {
+      "aliases": [
+        "Подъём колен",
+        "Վազք ծնկների բարձր բարձրացումով",
+        "Höga knän",
+        "Høye knær",
+        "Hoge knieën",
+        "Høje knæ",
+        "Wysokie kolana",
+        "Genoux hauts",
+        "الركبتين العالية"
+      ]
+    },
+    "cardio-jump-rope": {
+      "aliases": [
+        "Прыжки со скакалкой",
+        "Ցատկապարան",
+        "Hopprep",
+        "Hoppetau",
+        "Touwtjespringen",
+        "Springreb",
+        "Skakanka",
+        "Corde à sauter",
+        "القفز على الحبل"
+      ]
+    },
+    "cardio-jumping-jack": {
+      "aliases": [
+        "Прыжки с разведением рук и ног",
+        "Ջամփինգ ջեք (Ցատկեր ձեռքերի և ոտքերի բացումով)",
+        "Hoppande Jack",
+        "Springende Jac",
+        "Skaczący Jack",
+        "القفز جاك"
+      ]
+    },
+    "cardio-rowing": {
+      "aliases": [
+        "On-Water Rowing",
+        "Rowing Shell",
+        "Гребля",
+        "Թիավարություն",
+        "Rodd",
+        "Roing",
+        "Roeien",
+        "Roning",
+        "Wioślarstwo",
+        "Aviron",
+        "تجديف"
+      ]
+    },
+    "cardio-rowing-machine": {
+      "aliases": [
+        "Erg",
+        "Concept2",
+        "Indoor Rowing",
+        "Гребной тренажер",
+        "Թիավարման տրենաժոր",
+        "Roddmaskin",
+        "Romaskin",
+        "Roeimachine",
+        "Romaskine",
+        "Maszyna do wiosłowania",
+        "Rameur",
+        "آلة التجديف"
+      ]
+    },
+    "cardio-running": {
+      "aliases": [
+        "Outdoor Running",
+        "Jogging",
+        "Бег",
+        "Վազք",
+        "Spring",
+        "Løper",
+        "Rennen",
+        "Løb",
+        "Działanie",
+        "En cours d'exécution",
+        "جري"
+      ]
+    },
+    "cardio-ski-erg": {
+      "aliases": [
+        "SkiErg (դահուկային տրենաժոր)",
+        "سكيرج"
+      ]
+    },
+    "cardio-stair-climber": {
+      "aliases": [
+        "StairMaster",
+        "Stair Master",
+        "Степпер",
+        "Ստեպպեր / Աստիճանաձև տրենաժոր",
+        "Trappklättrare",
+        "Trappeklatrer",
+        "Trap klimmer",
+        "Trappebestiger",
+        "Wspinacz po schodach",
+        "Grimpeur d'escalier",
+        "متسلق الدرج",
+        "StairMaster տրենաժոր",
+        "TrapMaster",
+        "Mistrz schodów",
+        "Maître d'escalier",
+        "ستايرماستر"
+      ]
+    },
+    "cardio-stationary-bike": {
+      "aliases": [
+        "Spin Bike",
+        "Велотренажер",
+        "Հեծանվասարք",
+        "Stationär cykel",
+        "Stasjonær sykkel",
+        "Stationaire fiets",
+        "Stationær cykel",
+        "Rower stacjonarny",
+        "Vélo stationnaire",
+        "دراجة ثابتة",
+        "Спин-байк",
+        "Սպին-բայք",
+        "Spinfiets",
+        "Spin cykel",
+        "Rower spinowy",
+        "Vélo de rotation",
+        "تدور الدراجة"
+      ]
+    },
+    "cardio-swimming": {
+      "aliases": [
+        "Плавание",
+        "Լող",
+        "Simning",
+        "Svømming",
+        "Zwemmen",
+        "Svømning",
+        "Pływacki",
+        "Natation",
+        "سباحة"
+      ]
+    },
+    "cardio-treadmill": {
+      "aliases": [
+        "Беговая дорожка",
+        "Վազքուղի",
+        "Löpband",
+        "Tredemølle",
+        "Loopband",
+        "Løbebånd",
+        "Kierat",
+        "Tapis roulant",
+        "جهاز المشي"
+      ]
+    },
+    "cardio-walking": {
+      "aliases": [
+        "Incline Walk",
+        "Treadmill Walk",
+        "Ходьба",
+        "Քայլք",
+        "Gående",
+        "Går",
+        "Lopen",
+        "Gåture",
+        "Pieszy",
+        "Marche",
+        "المشي",
+        "Ходьба под наклоном",
+        "Քայլք թեքությամբ վազքուղու վրա",
+        "Helling wandeling",
+        "Spacer po skosie",
+        "Marche inclinée",
+        "المشي المنحدر"
+      ]
+    },
+    "chest-bench-press": {
+      "aliases": [
+        "Жим лежа",
+        "Սեղմում հորիզոնական նստարանից",
+        "Bänkpress",
+        "Benkpress",
+        "Bankdrukken",
+        "Bænkpres",
+        "Wyciskanie na ławce",
+        "Développé couché",
+        "الصحافة مقاعد البدلاء"
+      ]
+    },
+    "chest-cable-crossover": {
+      "aliases": [
+        "Кроссовер на тренажере",
+        "Կրծքի կրճատում բլոկերի վրա (Կրոսովեր)",
+        "Kabel Crossover",
+        "Kabelkryss",
+        "Kabel-crossover",
+        "Kabelkryds",
+        "Krzyżowanie kabli",
+        "Câble croisé",
+        "كروس الكابل"
+      ]
+    },
+    "chest-cable-fly": {
+      "aliases": [
+        "Сведение рук с тросом",
+        "Ձեռքերի տարածում բլոկերի վրա",
+        "Kabelfluga",
+        "Kabelflue",
+        "Kabel vlieg",
+        "Mucha kablowa",
+        "Mouche à câble",
+        "ذبابة الكابل"
+      ]
+    },
+    "chest-chest-dip": {
+      "aliases": [
+        "Отжимания на брусьях на грудь",
+        "Հրումներ զուգափայտերից կրծքի համար",
+        "Bröstdopp",
+        "Brystdip",
+        "Borst dip",
+        "Spadek klatki piersiowej",
+        "Trempette de poitrine",
+        "تراجع الصدر"
+      ]
+    },
+    "chest-decline-bench-press": {
+      "aliases": [
+        "Жим лежа на скамье с отрицательным наклоном",
+        "Սեղմում հակառակ թեքությամբ նստարանից",
+        "Avvisa bänkpress",
+        "Avslå benkpress",
+        "Weiger bankdrukken",
+        "Afvis bænkpres",
+        "Odrzuć wyciskanie na ławce",
+        "Refuser le développé couché",
+        "رفض الضغط على مقاعد البدلاء"
+      ]
+    },
+    "chest-decline-dumbbell-press": {
+      "aliases": [
+        "Жим гантелей на скамье с отрицательным наклоном",
+        "Սեղմում գանթելներով հակառակ թեքությամբ նստարանից",
+        "Avvisa Hantelpress",
+        "Avslå dumbbell Press",
+        "Halterpers weigeren",
+        "Afvis Dumbbell Press",
+        "Opuść wyciskanie hantli",
+        "Refuser la presse avec haltères",
+        "رفض الصحافة الدمبل"
+      ]
+    },
+    "chest-decline-push-up": {
+      "aliases": [
+        "Отжимания на скамье с отрицательным наклоном",
+        "Հրումներ հատակից ոտքերը բարձրացրած",
+        "Avböja push-up",
+        "Avslå push-up",
+        "Push-up weigeren",
+        "Afvis push-up",
+        "Odrzuć pompkę",
+        "Refuser les pompes",
+        "رفض تمرين الضغط"
+      ]
+    },
+    "chest-diamond-push-up": {
+      "aliases": [
+        "Отжимания с ромбовидным упором",
+        "«Ալմաստե» հրումներ հատակից",
+        "Diamant push-up",
+        "Diamentowe pompki",
+        "Pompes en diamant",
+        "تمرين الضغط الماسي"
+      ]
+    },
+    "chest-dumbbell-bench-press": {
+      "aliases": [
+        "Жим гантелей лёжа",
+        "Սեղմում գանթելներով հորիզոնական նստարանից",
+        "Hantel Bänkpress",
+        "Dumbbell Benkpress",
+        "Halterbankdrukken",
+        "Håndvægt bænkpres",
+        "Wyciskanie sztangi na ławce",
+        "Développé couché avec haltères",
+        "اضغط على مقاعد البدلاء الدمبل"
+      ]
+    },
+    "chest-dumbbell-fly": {
+      "aliases": [
+        "Разведение рук с гантелями",
+        "Ձեռքերի տարածում գանթելներով",
+        "Hantelfluga",
+        "Halter vliegen",
+        "Latanie hantlami",
+        "Mouche haltère",
+        "الدمبل يطير"
+      ]
+    },
+    "chest-dumbbell-pullover": {
+      "aliases": [
+        "Пуллловер с гантелями",
+        "Պուլովեր գանթելով",
+        "Hanteltröja",
+        "Halter trui",
+        "Pulower z hantlami",
+        "Pull haltère",
+        "السترة الدمبل"
+      ]
+    },
+    "chest-floor-press": {
+      "aliases": [
+        "Жим лёжа на полу",
+        "Սեղմում հատակից",
+        "Golvpress",
+        "Gulvpresse",
+        "Vloerpers",
+        "Prasa podłogowa",
+        "Presse au sol",
+        "الصحافة الكلمة"
+      ]
+    },
+    "chest-incline-bench-press": {
+      "aliases": [
+        "Жим лёжа на наклонной скамье",
+        "Սեղմում թեք նստարանից",
+        "Lutande bänkpress",
+        "Skråbenkpress",
+        "Helling bankdrukken",
+        "Incline bænkpres",
+        "Wyciskanie na ławce skośnej",
+        "Développé couché incliné",
+        "انحدر اضغط على مقاعد البدلاء"
+      ]
+    },
+    "chest-incline-dumbbell-fly": {
+      "aliases": [
+        "Разведение гантелей на наклонной скамье",
+        "Ձեռքերի տարածում գանթելներով թեք նստարանին",
+        "Lutande hantelfluga",
+        "Helling haltervlieg",
+        "Unoszenie hantli w pozycji pochylonej",
+        "Mouche d'haltère inclinée",
+        "انحدر الدمبل يطير"
+      ]
+    },
+    "chest-incline-dumbbell-press": {
+      "aliases": [
+        "Жим гантелей на наклонной скамье",
+        "Սեղմում գանթելներով թեք նստարանից",
+        "Incline Hantel Press",
+        "Helling halterpers",
+        "Wyciskanie hantli w pozycji pochylonej",
+        "Presse à haltères inclinée",
+        "انحدر الصحافة الدمبل"
+      ]
+    },
+    "chest-incline-machine-press": {
+      "aliases": [
+        "Жим на наклонной скамье в тренажере",
+        "Սեղմում տրենաժորի վրա թեքությամբ",
+        "Hellingmachinepers",
+        "Wyciskanie na maszynie skośnej",
+        "Presse à machine inclinée",
+        "انحدر آلة الصحافة"
+      ]
+    },
+    "chest-incline-push-up": {
+      "aliases": [
+        "Отжимания на наклонной поверхности",
+        "Հրումներ հենարանից (ձեռքերը բարձր)",
+        "Lutande push-up",
+        "Helling push-up",
+        "Pompki w pozycji pochylonej",
+        "Pompes inclinées",
+        "انحدر دفع ما يصل"
+      ]
+    },
+    "chest-landmine-press": {
+      "aliases": [
+        "Жим в «лендмайне»",
+        "Սեղմում Լենդմայնով",
+        "Landmijn pers",
+        "Landminepresse",
+        "Prasa do min lądowych",
+        "Presse sur les mines terrestres",
+        "مطبعة الألغام الأرضية"
+      ]
+    },
+    "chest-low-to-high-cable-fly": {
+      "aliases": [
+        "Разведение на тросе снизу вверх",
+        "Ձեռքերի տարածում ներքևի բլոկից դեպի վեր",
+        "Låg-till-hög kabelfluga",
+        "Lav-til-høy kabelflue",
+        "Kabelvlieg van laag naar hoog",
+        "Lav-til-høj kabelflue",
+        "Przelotka kablowa od niskiej do wysokiej",
+        "Mouche à câble de bas à haut",
+        "ذبابة الكابل من منخفض إلى مرتفع"
+      ]
+    },
+    "chest-machine-chest-press": {
+      "aliases": [
+        "Жим от груди на тренажере",
+        "Սեղմում կրծքի տրենաժորի վրա",
+        "Maskinbröstpress",
+        "Machinekistpers",
+        "Wyciskanie klatki piersiowej na maszynie",
+        "Presse pectorale machine",
+        "آلة ضغط الصدر"
+      ]
+    },
+    "chest-pec-deck": {
+      "aliases": [
+        "Тренажер для грудных мышц",
+        "Pec Deck (Բաթերֆլայ / Կրծքի տրենաժոր)",
+        "Pec däck",
+        "Pec-dek",
+        "Pokład Peca",
+        "Pont Pec",
+        "سطح السفينة بيك"
+      ]
+    },
+    "chest-push-up": {
+      "aliases": [
+        "Отжимания",
+        "Հրումներ հատակից",
+        "Pompki",
+        "Pompes",
+        "تمرين الضغط"
+      ]
+    },
+    "chest-smith-incline-press": {
+      "aliases": [
+        "Жим на наклонной скамье в тренажере Смита",
+        "Սեղմում Սմիթի տրենաժորի վրա թեք նստարանին",
+        "Smith Machine Hellingpers",
+        "Wyciskanie skośne na maszynie Smitha",
+        "Presse inclinée Smith Machine",
+        "آلة سميث انحدر الصحافة"
+      ]
+    },
+    "chest-smith-machine-bench-press": {
+      "aliases": [
+        "Жим лежа на тренажере Смита",
+        "Սեղմում Սմիթի տրենաժորի վրա",
+        "Smith Machine Bänkpress",
+        "Smith maskinbenkpress",
+        "Smith Machinebankdrukken",
+        "Smith maskinbænkpresse",
+        "Wyciskanie na ławce maszynowej Smitha",
+        "Presse d'établi Smith Machine",
+        "آلة سميث للضغط على مقاعد البدلاء"
+      ]
+    },
+    "chest-squeeze-press": {
+      "aliases": [
+        "Жим со сжатием",
+        "Squeeze Press (սեղմված գանթելներով սեղմում)",
+        "Klem Trykk",
+        "Knijp Druk",
+        "Klem Tryk",
+        "Ściśnij Naciśnij",
+        "Presser la presse",
+        "ضغط الصدر بالضم"
+      ]
+    },
+    "chest-svend-press": {
+      "aliases": [
+        "Plate Press-Out",
+        "Plate Squeeze Press",
+        "Жим Свенда",
+        "Սվենդի սեղմում (Svend Press)",
+        "Svend-pers",
+        "Presse Svend",
+        "الصحافة سفيند",
+        "Выжим диска",
+        "Plattpress ut",
+        "Wyciskanie talerza w przód",
+        "Développé disque devant",
+        "ضغط الصفيحة للأمام"
+      ]
+    },
+    "chest-weighted-chest-dip": {
+      "aliases": [
+        "Отжимания на брусьях с отягощением",
+        "Հրումներ զուգափայտերից ծանրոցով կրծքի համար",
+        "Viktad bröstdopp",
+        "Vektet brystdip",
+        "Gewogen borstdip",
+        "Vægtet brystdip",
+        "Obciążone zanurzenie klatki piersiowej",
+        "Trempette thoracique pondérée",
+        "تراجع الصدر المرجح"
+      ]
+    },
+    "core-ab-wheel": {
+      "aliases": [
+        "Колесо для пресса",
+        "Մամլակի անիվ (Ab Wheel)",
+        "Ab hjul",
+        "Ab-wiel",
+        "Koło Ab",
+        "Roue abdominale",
+        "عجلة أب"
+      ]
+    },
+    "core-bicycle-crunch": {
+      "aliases": [
+        "Скручивания «велосипед»",
+        "«Հեծանիվ» վարժություն մամլակի համար",
+        "Cykel Crunch",
+        "Sykkel Crunch",
+        "Fietscrunch",
+        "Załamanie roweru",
+        "Crunch à vélo",
+        "أزمة الدراجة"
+      ]
+    },
+    "core-bird-dog": {
+      "aliases": [
+        "«Птица-собака»",
+        "«Թռչուն-շուն» (Bird Dog) վարժություն",
+        "Fågelhund",
+        "Fuglehund",
+        "Jachthond",
+        "Ptak Pies",
+        "Chien oiseau",
+        "كلب الطيور"
+      ]
+    },
+    "core-cable-crunch": {
+      "aliases": [
+        "Скручивания с тросом",
+        "Կրանչ բլոկի վրա (Cable Crunch)",
+        "Kabelcrunch",
+        "Kabel Crunch",
+        "Załamanie kabla",
+        "Craquement du câble",
+        "أزمة الكابل"
+      ]
+    },
+    "core-captains-chair-knee-raise": {
+      "aliases": [
+        "Подъём колен на «капитанском кресле»",
+        "Ծնկների բարձրացում «Կապիտանական աթոռի» վրա",
+        "Kaptensstol Knähöjning",
+        "Kapteinsstol Kneheving",
+        "Kapiteinsstoel Knieverhoging",
+        "Kaptajnens stol Knæløft",
+        "Unoszenie kolan na krześle kapitańskim",
+        "Élévation du genou de la chaise du capitaine",
+        "رفع الركبة على كرسي الكابتن"
+      ]
+    },
+    "core-crunch": {
+      "aliases": [
+        "Скручивания",
+        "Կրանչ (Որովայնի մկանների կրճատում)",
+        "Knastrande",
+        "Kraken",
+        "Schrupać",
+        "Croquer",
+        "أزمة"
+      ]
+    },
+    "core-dead-bug": {
+      "aliases": [
+        "«Мёртвый жук»",
+        "«Սատկած բզեզ» (Dead Bug) վարժություն",
+        "Död bugg",
+        "Dode bug",
+        "Martwy Bug",
+        "Insecte mort",
+        "علة ميتة"
+      ]
+    },
+    "core-decline-sit-up": {
+      "aliases": [
+        "Скручивания на наклонной скамье",
+        "Իրանի բարձրացում թեք նստարանին",
+        "Avböja Sit-Up",
+        "Avslå Sit-Up",
+        "Sit-up weigeren",
+        "Afvis sit-up",
+        "Odrzuć przysiady",
+        "Refuser les redressements assis",
+        "رفض الجلوس"
+      ]
+    },
+    "core-dragon-flag": {
+      "aliases": [
+        "«Драконий флаг»",
+        "«Վիշապի դրոշ» (Dragon Flag)",
+        "Dragon Flagga",
+        "Drage flagg",
+        "Drakenvlag",
+        "Flaga Smoka",
+        "Drapeau Dragon",
+        "علم التنين"
+      ]
+    },
+    "core-hanging-knee-raise": {
+      "aliases": [
+        "Подъём колен в висе",
+        "Ծնկների բարձրացում կախված վիճակում",
+        "Hängande knähöjning",
+        "Hengende kneløft",
+        "Hangende knieverhoging",
+        "Hængende knæløft",
+        "Unoszenie kolan w zwisie",
+        "Élévation du genou suspendu",
+        "رفع الركبة المعلقة"
+      ]
+    },
+    "core-hanging-leg-raise": {
+      "aliases": [
+        "Подъём ног в висе",
+        "Ոտքերի բարձրացում կախված վիճակում",
+        "Hängande benhöjning",
+        "Hengende benløft",
+        "Hangende beenverhoging",
+        "Hængende benløft",
+        "Unoszenie nóg w zwisie",
+        "Élévation de la jambe suspendue",
+        "رفع الساق المعلقة"
+      ]
+    },
+    "core-hanging-windshield-wiper": {
+      "aliases": [
+        "«Дворники» в висе",
+        "«Ապակեմաքրիչ» վարժություն կախված վիճակում",
+        "Hängande vindrutetorkare",
+        "Hengende vindusvisker",
+        "Hangende ruitenwisser",
+        "Hængende vinduesvisker",
+        "Wisząca wycieraczka",
+        "Essuie-glace suspendu",
+        "معلقة ممسحة الزجاج الأمامي"
+      ]
+    },
+    "core-hollow-hold": {
+      "aliases": [
+        "Удержание «лодочки»",
+        "Holle greep",
+        "Hult Hold",
+        "Pusty chwyt",
+        "Prise creuse",
+        "عقد جوفاء"
+      ]
+    },
+    "core-leg-raise": {
+      "aliases": [
+        "Подъём ног в положении лежа",
+        "Պառկած ոտքի բարձրացում",
+        "Liggande benhöjning",
+        "Liggende benløft",
+        "Liggende been omhoog",
+        "Unoszenie nóg w leżeniu",
+        "Lever de jambe couché",
+        "رفع الساق الكذب"
+      ]
+    },
+    "core-machine-crunch": {
+      "aliases": [
+        "Скручивания на тренажере",
+        "Մեքենայի ճռճռոց",
+        "Machinecrunch",
+        "Chrzęst maszynowy",
+        "Le craquement des machines",
+        "أزمة الآلة"
+      ]
+    },
+    "core-mountain-climber": {
+      "aliases": [
+        "Альпинист",
+        "Լեռնագնաց",
+        "Bergsklättrare",
+        "Fjellklatrer",
+        "Bergbeklimmer",
+        "Bjergbestiger",
+        "Alpinista",
+        "Alpiniste",
+        "متسلق الجبال"
+      ]
+    },
+    "core-pallof-press": {
+      "aliases": [
+        "Паллоф-пресс",
+        "Pallof-pers",
+        "Prasa Pallofa",
+        "Presse Pallof",
+        "الصحافة بالوف"
+      ]
+    },
+    "core-plank": {
+      "aliases": [
+        "Планка",
+        "Պլանկ",
+        "Planka",
+        "Planke",
+        "Deska",
+        "Planche",
+        "لوح"
+      ]
+    },
+    "core-russian-twist": {
+      "aliases": [
+        "Русский твист",
+        "Ռուսական շրջադարձ",
+        "Rysk twist",
+        "Russisk vri",
+        "Russische twist",
+        "Russisk twist",
+        "Rosyjski zwrot",
+        "Torsion russe",
+        "تطور روسي"
+      ]
+    },
+    "core-side-plank": {
+      "aliases": [
+        "Боковая планка",
+        "Կողքի տախտակ",
+        "Sidoplanka",
+        "Sideplank",
+        "Zijplank",
+        "Side planke",
+        "Deska boczna",
+        "Planche latérale",
+        "لوح جانبي"
+      ]
+    },
+    "core-sit-up": {
+      "aliases": [
+        "Подъём корпуса",
+        "Նստել-Վերջ",
+        "Zit-op",
+        "Przysiady",
+        "Assis",
+        "الجلوس"
+      ]
+    },
+    "core-toes-to-bar": {
+      "aliases": [
+        "Подтягивание носками к перекладине",
+        "Ոտքի մատները դեպի բար",
+        "Van tenen tot staaf",
+        "Des orteils à la barre",
+        "أصابع القدم إلى بار"
+      ]
+    },
+    "core-v-up": {
+      "aliases": [
+        "V-omhoog",
+        "V-أعلى"
+      ]
+    },
+    "core-weighted-russian-twist": {
+      "aliases": [
+        "Русский твист с отягощением",
+        "կշռված ռուսական շրջադարձ",
+        "Vektet russisk vri",
+        "Gewogen Russische twist",
+        "Vægtet russisk twist",
+        "Ważony rosyjski akcent",
+        "Twist russe pondéré",
+        "تطور روسي مرجح"
+      ]
+    },
+    "core-woodchop": {
+      "aliases": [
+        "«Дровосек» на тренажере с тросом",
+        "Մալուխ փայտահատ",
+        "Kabelvedhugg",
+        "Kabelhouthak",
+        "Kabel træhakke",
+        "Kabel Woodchop",
+        "Bois de câble",
+        "كابل وودشوب"
+      ]
+    },
+    "legs-back-squat": {
+      "aliases": [
+        "Присед со штангой на спине",
+        "Մեջքին շթանգով կքանում",
+        "Rygg knebøy",
+        "Rughurken",
+        "Przysiad z tyłu",
+        "Squat arrière",
+        "القرفصاء الخلفي"
+      ]
+    },
+    "legs-belt-squat": {
+      "aliases": [
+        "Присед с поясом",
+        "Գոտի Squat",
+        "Bälte Squat",
+        "Belte knebøy",
+        "Riem squat",
+        "Bælte Squat",
+        "Przysiad z pasem",
+        "Squat de ceinture",
+        "القرفصاء الحزام"
+      ]
+    },
+    "legs-bodyweight-squat": {
+      "aliases": [
+        "Присед с собственным весом",
+        "Մարմնի քաշի Squat",
+        "Kroppsvikt knäböj",
+        "Kroppsvekt knebøy",
+        "Lichaamsgewicht squat",
+        "Kropsvægt squat",
+        "Przysiad z ciężarem ciała",
+        "Squat au poids du corps",
+        "القرفصاء وزن الجسم"
+      ]
+    },
+    "legs-bulgarian-split-squat": {
+      "aliases": [
+        "Болгарский выпад",
+        "Բուլղարական սպլիտ կքանում",
+        "Bulgarsk Split Squat",
+        "Bulgaarse Split Squat",
+        "Przysiad bułgarski Split",
+        "Split Squat Bulgare",
+        "القرفصاء البلغارية"
+      ]
+    },
+    "legs-cable-pull-through": {
+      "aliases": [
+        "Тяга через трос",
+        "Kabelgenomdragning",
+        "Kabelgjennomføring",
+        "Kabeldoorvoer",
+        "Kabelgennemføring",
+        "Przeciąganie kabla",
+        "Passage de câble",
+        "سحب الكابل"
+      ]
+    },
+    "legs-donkey-calf-raise": {
+      "aliases": [
+        "Подъём на носки в наклоне («ослик»)",
+        "Էշի հորթի բարձրացում",
+        "Åsnakalvhöjning",
+        "Eselkalvheving",
+        "Ezelkalf verhogen",
+        "Æselkalvløft",
+        "Podnoszenie łydek na ośle",
+        "Élevage d'âne",
+        "رفع عجل الحمار"
+      ]
+    },
+    "legs-dumbbell-lunge": {
+      "aliases": [
+        "Выпад с гантелями",
+        "Hantel Lunge",
+        "Halter uitvallen",
+        "Wykroki ze sztangą",
+        "Fente avec haltères",
+        "اندفاع الدمبل"
+      ]
+    },
+    "legs-dumbbell-romanian-deadlift": {
+      "aliases": [
+        "Румынская становая тяга с гантелями",
+        "Dumbbell ռումինական Deadlift",
+        "Rumänsk marklyft med hantel",
+        "Dumbbell rumensk markløft",
+        "Halter Roemeense Deadlift",
+        "Dumbbell rumænsk dødløft",
+        "Rumuński martwy ciąg ze sztangą",
+        "Soulevé de terre roumain avec haltères",
+        "الرفعة المميتة الرومانية بالدمبل"
+      ]
+    },
+    "legs-front-squat": {
+      "aliases": [
+        "Передний присед",
+        "Առջևի կքանում",
+        "Knebøy foran",
+        "Voorste squat",
+        "Przysiad przedni",
+        "Squat avant",
+        "القرفصاء الأمامي"
+      ]
+    },
+    "legs-glute-bridge": {
+      "aliases": [
+        "Ягодичный мост",
+        "Glute brug",
+        "Most pośladkowy",
+        "Pont fessier",
+        "جسر غلوت"
+      ]
+    },
+    "legs-glute-ham-raise": {
+      "aliases": [
+        "Ягодичный подъём и сгибание бедра на тренажере GHD",
+        "Uniesienie szynki pośladkowej",
+        "Augmentation des fessiers et du jambon",
+        "رفع غلوت هام"
+      ]
+    },
+    "legs-glute-kickback": {
+      "aliases": [
+        "Отведение ноги назад (ягодичное)",
+        "Սոսնձի ատկատ",
+        "Glute tilbakeslag",
+        "Glute terugslag",
+        "Odrzut pośladkowy",
+        "Recul des fessiers",
+        "غلوت كيكباك"
+      ]
+    },
+    "legs-goblet-squat": {
+      "aliases": [
+        "Kettlebell Goblet Squat",
+        "KB Goblet Squat",
+        "Присед с гантелью (кубковый)",
+        "Գավաթի սքվատ",
+        "Beker Squat",
+        "Przysiad Czary",
+        "Squat de gobelet",
+        "كأس القرفصاء",
+        "Приседание с гирей в положении «бокал»",
+        "Kettlebell beker squat",
+        "Przysiad z Kettlebellem Goblet",
+        "Squat avec gobelet Kettlebell",
+        "القرفصاء كأس كيتلبيل"
+      ]
+    },
+    "legs-hack-squat": {
+      "aliases": [
+        "Присед на тренажере «Хак»",
+        "Hack-squat",
+        "Hack-przysiad",
+        "هاك القرفصاء"
+      ]
+    },
+    "legs-hip-abduction": {
+      "aliases": [
+        "Отведение бедер",
+        "Հիպի առևանգում",
+        "Höftbortförande",
+        "Hoftebortføring",
+        "Heupabductie",
+        "Hoftebortførelse",
+        "Uprowadzenie biodra",
+        "Abduction de la hanche",
+        "اختطاف الورك"
+      ]
+    },
+    "legs-hip-adduction": {
+      "aliases": [
+        "Приведение бедер",
+        "Հիպ ազդակ",
+        "Höftadduktion",
+        "Hofteadduksjon",
+        "Heup-adductie",
+        "Hofteadduktion",
+        "Przywodzenie biodra",
+        "Adduction de la hanche",
+        "تقريب الورك"
+      ]
+    },
+    "legs-hip-thrust": {
+      "aliases": [
+        "Ягодичный мостик со штангой",
+        "Հիպ տրասթ",
+        "Heupstoot",
+        "Pchnięcie biodra",
+        "Poussée de la hanche",
+        "التوجه الورك"
+      ]
+    },
+    "legs-lateral-lunge": {
+      "aliases": [
+        "Боковой выпад",
+        "Կողային թռիչք",
+        "Laterale uitval",
+        "Wypad boczny",
+        "Fente latérale",
+        "الاندفاع الجانبي"
+      ]
+    },
+    "legs-leg-extension": {
+      "aliases": [
+        "Разгибание ног на тренажере",
+        "Ոտքերի ձգում",
+        "Benförlängning",
+        "Benforlengelse",
+        "Beenverlenging",
+        "Benforlængelse",
+        "Przedłużenie nogi",
+        "Extension de jambe",
+        "تمديد الساق"
+      ]
+    },
+    "legs-leg-press": {
+      "aliases": [
+        "Жим ногами",
+        "Ոտքերի ճնշում",
+        "Benpress",
+        "Beendrukken",
+        "Benpres",
+        "Prasa do nóg",
+        "Presse à jambes",
+        "اضغط على الساق"
+      ]
+    },
+    "legs-leg-press-calf-raise": {
+      "aliases": [
+        "Подъём на носки на тренажере для жима ногами",
+        "Leg Press Հորթի բարձրացում",
+        "Benpress vadhöjning",
+        "Beinpress leggheving",
+        "Beenpress kuitverhoging",
+        "Leg Pres Calf Raise",
+        "Prasa do nóg, unoszenie łydek",
+        "Élévation des mollets avec presse-jambes",
+        "رفع الساق بالضغط على الساق"
+      ]
+    },
+    "legs-lying-leg-curl": {
+      "aliases": [
+        "Сгибание ног в положении лёжа",
+        "Պառկած ոտքի գանգրացում",
+        "Liggande Ben Curl",
+        "Liggende beinkrøll",
+        "Liggende beenkrul",
+        "Liggende benkrølle",
+        "Uginanie nóg w pozycji leżącej",
+        "Curl des jambes allongées",
+        "الكذب تجعيد الساق"
+      ]
+    },
+    "legs-machine-hip-thrust": {
+      "aliases": [
+        "Ягодичный мостик на тренажере",
+        "Մեքենա Հիպ Խրոց",
+        "Maskin Hip Thrust",
+        "Machineheupstoot",
+        "Maszynowy pchnięcie bioder",
+        "Poussée de hanche de la machine",
+        "آلة دفع الورك"
+      ]
+    },
+    "legs-nordic-curl": {
+      "aliases": [
+        "Нордическое сгибание",
+        "Noordse Krul",
+        "Nordyckie loki",
+        "Boucle Nordique",
+        "الشمال الضفيرة"
+      ]
+    },
+    "legs-pendulum-squat": {
+      "aliases": [
+        "Присед на маятниковой платформе",
+        "Ճոճանակ Squat",
+        "Pendel knäböj",
+        "Pendel knebøy",
+        "Slinger squat",
+        "Przysiad wahadłowy",
+        "Squat pendulaire",
+        "القرفصاء البندول"
+      ]
+    },
+    "legs-pistol-squat": {
+      "aliases": [
+        "Приседание «Пистолет»",
+        "Ատրճանակի պզուկ",
+        "Pistol knebøy",
+        "Pistool hurken",
+        "Przysiad pistoletowy",
+        "Squat au pistolet",
+        "القرفصاء مسدس"
+      ]
+    },
+    "legs-reverse-lunge": {
+      "aliases": [
+        "Обратный выпад",
+        "Omvänd utfall",
+        "Omvendt Lunge",
+        "Omgekeerde uitval",
+        "Wykrok wsteczny",
+        "Fente inversée",
+        "الاندفاع العكسي"
+      ]
+    },
+    "legs-romanian-deadlift": {
+      "aliases": [
+        "Румынская становая тяга",
+        "Ռումինական ձգում",
+        "Rumänsk marklyft",
+        "Rumensk markløft",
+        "Roemeense deadlift",
+        "Rumænsk dødløft",
+        "Rumuński martwy ciąg",
+        "Soulevé de terre roumain",
+        "الرفعة المميتة الرومانية"
+      ]
+    },
+    "legs-seated-calf-raise": {
+      "aliases": [
+        "Подъём на носки сидя",
+        "Նստած հորթի բարձրացում",
+        "Sittande kalvhöjning",
+        "Sittende kalveløft",
+        "Zittende kuitverhoging",
+        "Siddende kalveløft",
+        "Unoszenie łydek w pozycji siedzącej",
+        "Élévation des mollets assis",
+        "رفع العجل جالسا"
+      ]
+    },
+    "legs-seated-leg-curl": {
+      "aliases": [
+        "Сгибание ног сидя",
+        "Նստած ոտքի գանգրացում",
+        "Sittande Ben Curl",
+        "Sittende Leg Curl",
+        "Zittende beenkrul",
+        "Siddende Ben Curl",
+        "Uginanie nóg w pozycji siedzącej",
+        "Curl des jambes assises",
+        "تجعيد الساق أثناء الجلوس"
+      ]
+    },
+    "legs-single-leg-press": {
+      "aliases": [
+        "Жим одной ногой",
+        "Մեկ ոտքի մամուլ",
+        "Enbenspress",
+        "Ettbenspress",
+        "Eénbeenpers",
+        "Enkelt-bens pres",
+        "Wyciskanie na jednej nodze",
+        "Presse à une jambe",
+        "اضغط بساق واحدة"
+      ]
+    },
+    "legs-single-leg-romanian-deadlift": {
+      "aliases": [
+        "Румынская становая тяга на одной ноге",
+        "Մեկ ոտքով ռումինական մեռելաձիգ",
+        "Enbens rumänsk marklyft",
+        "Rumensk markløft med ett ben",
+        "Roemeense deadlift met één been",
+        "Enkeltbens rumænsk dødløft",
+        "Rumuński martwy ciąg na jednej nodze",
+        "Soulevé de terre roumain sur une jambe",
+        "الرفعة المميتة الرومانية بساق واحدة"
+      ]
+    },
+    "legs-sissy-squat": {
+      "aliases": [
+        "Приседание «Сисси»",
+        "Sissy Przysiad",
+        "سيسي القرفصاء"
+      ]
+    },
+    "legs-smith-machine-squat": {
+      "aliases": [
+        "Присед в тренажере Смита",
+        "Smith machine-squat",
+        "Przysiad na maszynie Smitha",
+        "Squat à la machine Smith",
+        "آلة سميث القرفصاء"
+      ]
+    },
+    "legs-smith-romanian-deadlift": {
+      "aliases": [
+        "Румынская становая тяга на тренажере Смита",
+        "Smith Machine ռումինական Deadlift",
+        "Smith Machine rumänska marklyft",
+        "Smith Machine rumensk markløft",
+        "Smith Machine Roemeense Deadlift",
+        "Smith Machine rumænsk dødløft",
+        "Rumuński martwy ciąg na maszynie Smitha",
+        "Smith Machine Soulevé de terre roumain",
+        "آلة سميث الرفعة المميتة الرومانية"
+      ]
+    },
+    "legs-split-squat": {
+      "aliases": [
+        "Приседание в разножке",
+        "Gesplitste squat",
+        "Split przysiad",
+        "Squat divisé",
+        "انقسام القرفصاء"
+      ]
+    },
+    "legs-standing-calf-raise": {
+      "aliases": [
+        "Подъём на носки стоя",
+        "Կանգնած հորթի բարձրացում",
+        "Stående kalvhöjning",
+        "Stående kalvheving",
+        "Staande kuitverhoging",
+        "Stående kalveløft",
+        "Unoszenie łydek na stojąco",
+        "Élévation des mollets debout",
+        "رفع العجل واقفاً"
+      ]
+    },
+    "legs-standing-leg-curl": {
+      "aliases": [
+        "Сгибание ног в положении стоя",
+        "Կանգնած ոտքի գանգրացում",
+        "Stående Ben Curl",
+        "Stående Leg Curl",
+        "Staande beenkrul",
+        "Uginanie nóg na stojąco",
+        "Curl des jambes debout",
+        "تجعيد الساق واقفاً"
+      ]
+    },
+    "legs-step-up": {
+      "aliases": [
+        "Шаг вверх",
+        "Steg upp",
+        "Opvoeren",
+        "Tworzyć coś",
+        "Intensification",
+        "تصعيد"
+      ]
+    },
+    "legs-stiff-leg-deadlift": {
+      "aliases": [
+        "Становая тяга на прямых ногах",
+        "Կոշտ ոտքի մեռյալ բարձրացում",
+        "Stiff-Leg Marklyft",
+        "Stiff-leg markløft",
+        "Deadlift met stijve benen",
+        "Stiff-Leg Dødløft",
+        "Martwy ciąg na sztywnych nogach",
+        "Soulevé de terre avec jambes raides",
+        "الرفعة المميتة للساقين"
+      ]
+    },
+    "legs-sumo-squat": {
+      "aliases": [
+        "Приседание сумо",
+        "Sumo-squat",
+        "Przysiad sumo",
+        "Squat de sumo",
+        "السومو القرفصاء"
+      ]
+    },
+    "legs-walking-lunge": {
+      "aliases": [
+        "Выпады в ходьбе",
+        "Քայլող Լանջ",
+        "Lopende longe",
+        "Chodzący wypad",
+        "Fente de marche",
+        "اندفاع المشي"
+      ]
+    },
+    "legs-wall-sit": {
+      "aliases": [
+        "Приседание у стены",
+        "Պատի նստել",
+        "Vägg sitta",
+        "Vegg Sitte",
+        "Muur zitten",
+        "Væg sidde",
+        "Ściana siedzieć",
+        "Assise au mur",
+        "الجلوس على الحائط"
+      ]
+    },
+    "legs-zercher-squat": {
+      "aliases": [
+        "Приседание Зерчера",
+        "Zercher knebøy",
+        "Zercher-squat",
+        "Przysiad Zerchera",
+        "زيرشر القرفصاء"
+      ]
+    },
+    "mobility-ankle-dorsiflexion": {
+      "aliases": [
+        "Растяжка голеностопа (тыльное сгибание)",
+        "Կոճ Dorsiflexion Ձգում",
+        "Ankel Dorsiflexion Stretch",
+        "Enkeldorsiflexie stretch",
+        "Rozciągnięcie zgięcia grzbietowego kostki",
+        "Étirement de la flexion dorsale de la cheville",
+        "تمدد عطف ظهري الكاحل"
+      ]
+    },
+    "mobility-cat-cow": {
+      "aliases": [
+        "«Кошка-корова»",
+        "Կատու-Կով",
+        "Katt-ko",
+        "Katt-ku",
+        "Kat-koe",
+        "Kat-ko",
+        "Kot-Krowa",
+        "Chat-Vache",
+        "بقرة القط"
+      ]
+    },
+    "mobility-couch-stretch": {
+      "aliases": [
+        "Растяжка «Кушетка»",
+        "Ձգվող բազմոց",
+        "Stretch på soffan",
+        "Stretch på sofaen",
+        "Bank stretch",
+        "Sofa stretch",
+        "Rozciąganie kanapy",
+        "Étirement du canapé",
+        "تمتد الأريكة"
+      ]
+    },
+    "mobility-hip-90-90": {
+      "aliases": [
+        "Растяжка бедра «90/90»",
+        "90/90 Höftstretch",
+        "90/90 Hoftestrekk",
+        "90/90 heupstretch",
+        "90/90 Hoftestræk",
+        "Rozciągnięcie bioder 90/90",
+        "Étirement des hanches 90/90",
+        "90/90 تمدد الورك"
+      ]
+    },
+    "mobility-neck-rolls": {
+      "aliases": [
+        "Вращения шеей",
+        "Պարանոցի գլանափաթեթներ",
+        "Halsrullar",
+        "Halsruller",
+        "Nekrollen",
+        "Roladki na szyję",
+        "Rouleaux de cou",
+        "لفات الرقبة"
+      ]
+    },
+    "mobility-pigeon-stretch": {
+      "aliases": [
+        "Растяжка «Голубь»",
+        "Duestrekk",
+        "Duif stretch",
+        "Duestræk",
+        "Rozciągnięcie gołębi",
+        "Étirement des pigeons",
+        "تمتد الحمامة"
+      ]
+    },
+    "mobility-shoulder-dislocate": {
+      "aliases": [
+        "Вращения плечами с палкой (Shoulder Dislocates)",
+        "Ուսի տեղահանում",
+        "Axeln går ur led",
+        "Skulder løsner",
+        "Schouder ontwricht",
+        "Skulder rykker",
+        "Ramię zwichnięte",
+        "Luxation de l'épaule",
+        "خلع الكتف"
+      ]
+    },
+    "mobility-standing-forward-fold": {
+      "aliases": [
+        "Наклон стоя вперёд",
+        "Կանգնած առաջ ծալել",
+        "Stå framåt Vik",
+        "Stående fremfold",
+        "Staande voorwaartse vouw",
+        "Złożenie do przodu w pozycji stojącej",
+        "Pliage debout vers l'avant",
+        "الوقوف إلى الأمام أضعاف"
+      ]
+    },
+    "mobility-thoracic-open-book": {
+      "aliases": [
+        "Грудное раскрытие («Открытая книга»)",
+        "Կրծքավանդակի բաց գիրք",
+        "Thorax öppen bok",
+        "Thoracaal open boek",
+        "Thorax åben bog",
+        "Otwarta książka klatki piersiowej",
+        "Livre ouvert thoracique",
+        "كتاب صدري مفتوح"
+      ]
+    },
+    "mobility-thread-the-needle": {
+      "aliases": [
+        "«Продень нитку в иголку»",
+        "Թել ասեղը",
+        "Trä nålen",
+        "Tre nålen",
+        "Rijg de naald in",
+        "Tråd nålen",
+        "Nawlecz igłę",
+        "Enfiler l'aiguille",
+        "خيط الإبرة"
+      ]
+    },
+    "mobility-worlds-greatest-stretch": {
+      "aliases": [
+        "Лучшая растяжка в мире",
+        "Աշխարհի ամենամեծ ձգումը",
+        "Världens största stretch",
+        "Verdens største strekk",
+        "'s Werelds grootste stretch",
+        "Verdens største stræk",
+        "Najlepsze rozciąganie świata",
+        "Le plus grand étirement du monde",
+        "أعظم تمدد في العالم"
+      ]
+    },
+    "mobility-wrist-circles": {
+      "aliases": [
+        "Круговые движения запястьями",
+        "Դաստակի շրջանակներ",
+        "Handledscirklar",
+        "Håndleddssirkler",
+        "Pols cirkels",
+        "Håndledscirkler",
+        "Kręgi nadgarstków",
+        "Cercles de poignet",
+        "دوائر المعصم"
+      ]
+    },
+    "other-battle-ropes": {
+      "aliases": [
+        "Боевые веревки",
+        "Մարտական ​​պարաններ",
+        "Kamptau",
+        "Gevechtstouwen",
+        "Kampreb",
+        "Liny bojowe",
+        "Cordes de combat",
+        "حبال المعركة"
+      ]
+    },
+    "other-box-jump": {
+      "aliases": [
+        "Прыжки на ящик",
+        "Box-sprong",
+        "Skok do pudełka",
+        "Saut de boîte",
+        "قفزة الصندوق"
+      ]
+    },
+    "other-clean-and-jerk": {
+      "aliases": [
+        "Толчок",
+        "Մաքուր և ցնցող",
+        "Rent og rykk",
+        "Schoon en ruk",
+        "Ren og ryk",
+        "Czysty i szarpnięty",
+        "Épaissé-jeté",
+        "نظيفة ورعشة"
+      ]
+    },
+    "other-dead-hang": {
+      "aliases": [
+        "Вис в полном расслаблении",
+        "Dood hangen",
+        "Martwy Hang",
+        "Coup mort",
+        "شنق الميت"
+      ]
+    },
+    "other-farmer-carry": {
+      "aliases": [
+        "Farmers Walk",
+        "Перенос фермера",
+        "Ֆերմերի քայլք",
+        "Spacer farmera",
+        "Marche du fermier",
+        "مشي المزارع"
+      ]
+    },
+    "other-hang-clean": {
+      "aliases": [
+        "Ханг-клин",
+        "Häng rent",
+        "Heng Clean",
+        "Hang schoon",
+        "Hæng rent",
+        "Powieś czysto",
+        "Suspendre propre",
+        "شنق نظيفة"
+      ]
+    },
+    "other-kettlebell-clean": {
+      "aliases": [
+        "Чист с гирей",
+        "Kettlebell մաքուր",
+        "Kettlebell schoon",
+        "Kettlebell czysty",
+        "Kettlebell propre",
+        "كيتلبيل نظيفة"
+      ]
+    },
+    "other-kettlebell-snatch": {
+      "aliases": [
+        "Рывок гири",
+        "Kettlebell-ruk",
+        "Rwanie Kettlebellem",
+        "Arraché avec kettlebell",
+        "خطف كيتلبيل"
+      ]
+    },
+    "other-kettlebell-swing": {
+      "aliases": [
+        "Размах гири",
+        "Kettlebell-swing",
+        "Huśtawka z Kettlebellem",
+        "Balançoire kettlebell",
+        "أرجوحة كيتلبيل"
+      ]
+    },
+    "other-landmine-rotation": {
+      "aliases": [
+        "Вращение с «ландмайном»",
+        "Ականների ռոտացիա",
+        "Landminrotation",
+        "Landmine rotasjon",
+        "Rotatie van landmijnen",
+        "Rotacja min lądowych",
+        "Rotation des mines terrestres",
+        "دوران الألغام الأرضية"
+      ]
+    },
+    "other-medicine-ball-slam": {
+      "aliases": [
+        "Удар медицинским мячом",
+        "Medicin Ball Slam",
+        "Medisin Ball Slam",
+        "Medicijnbal Slam",
+        "Medicin Bold Slam",
+        "Uderzenie piłką lekarską",
+        "Chelem de médecine-ball",
+        "ضربة الكرة الطبية"
+      ]
+    },
+    "other-muscle-up": {
+      "aliases": [
+        "Масл-ап",
+        "Muskel-opp",
+        "Spier omhoog",
+        "Muskel-op",
+        "Zwiększenie mięśni",
+        "رفع العضلات"
+      ]
+    },
+    "other-overhead-carry": {
+      "aliases": [
+        "Перенос над головой",
+        "Boven het hoofd dragen",
+        "Przenoszenie nad głową",
+        "Transport aérien",
+        "حمل النفقات العامة"
+      ]
+    },
+    "other-plate-pinch": {
+      "aliases": [
+        "Зажим дисков",
+        "Ափսե պտղունց",
+        "Tallrik Nyp",
+        "Plate klype",
+        "Plaat knijp",
+        "Plade Knib",
+        "Uszczypnięcie talerza",
+        "Pincement de plaque",
+        "قرصة لوحة"
+      ]
+    },
+    "other-power-clean": {
+      "aliases": [
+        "Пауэр-кли",
+        "Krachtig schoon",
+        "Moc czyszczenia",
+        "Nettoyage puissant",
+        "تنظيف الطاقة"
+      ]
+    },
+    "other-power-snatch": {
+      "aliases": [
+        "Пауэр-рывок",
+        "Machtsgreep",
+        "Wyrwanie mocy",
+        "Arrachage de puissance",
+        "خطف السلطة"
+      ]
+    },
+    "other-prowler-push": {
+      "aliases": [
+        "Толчок проулера",
+        "Prowler-duw",
+        "Pchnięcie Prowlera",
+        "Poussée du rôdeur",
+        "دفع برولر"
+      ]
+    },
+    "other-sled-pull": {
+      "aliases": [
+        "Тяга саней",
+        "Sled Sled",
+        "Slädedrag",
+        "Sledetrekk",
+        "Slee trekken",
+        "Slædetræk",
+        "Ciągnięcie sań",
+        "Traction de traîneau",
+        "سحب مزلقة"
+      ]
+    },
+    "other-sled-push": {
+      "aliases": [
+        "Sled Push for Time",
+        "Timed Sled Push",
+        "Толкание саней",
+        "Սահնակի հրում",
+        "Slädpush",
+        "Sledepush",
+        "Slee duwen",
+        "Slædepush",
+        "Pchanie sań",
+        "Poussée de traîneau",
+        "دفع الزلاجة"
+      ]
+    },
+    "other-snatch": {
+      "aliases": [
+        "Рывок",
+        "Պոկել",
+        "Ryck",
+        "Snap",
+        "Rukken",
+        "Urywek",
+        "Arracher",
+        "خطف"
+      ]
+    },
+    "other-suitcase-carry": {
+      "aliases": [
+        "Перенос «чемодан»",
+        "Ճամպրուկի տեղափոխում",
+        "Bär resväska",
+        "Koffert bære",
+        "Koffer dragen",
+        "Kuffert bære",
+        "Noszenie walizki",
+        "Transport de valise",
+        "حمل الحقيبة"
+      ]
+    },
+    "other-thruster": {
+      "aliases": [
+        "Трастер",
+        "Շարժիչ",
+        "Boegschroef",
+        "Ster strumieniowy",
+        "Propulseur",
+        "الدافع"
+      ]
+    },
+    "other-tire-flip": {
+      "aliases": [
+        "Переворот шины",
+        "Անվադողերի շրջում",
+        "Dekk Flip",
+        "Banden omdraaien",
+        "Dæk Flip",
+        "Przerzucenie opony",
+        "Retournement de pneu",
+        "قلب الإطارات"
+      ]
+    },
+    "other-turkish-get-up": {
+      "aliases": [
+        "Турецкий подъём",
+        "Թուրքական Վերելք",
+        "Turkisk Get-Up",
+        "Tyrkisk Get-Up",
+        "Turkse opkomst",
+        "Tureckie wstawanie",
+        "Préparation turque",
+        "النهوض التركي"
+      ]
+    },
+    "other-wall-ball": {
+      "aliases": [
+        "Бросок мяча в стену",
+        "Պատի գնդակ",
+        "Väggboll",
+        "Veggball",
+        "Muurbal",
+        "Vægbold",
+        "Piłka ścienna",
+        "Boule murale",
+        "كرة الحائط"
+      ]
+    },
+    "shoulders-arnold-press": {
+      "aliases": [
+        "Жим Арнольда",
+        "Առնոլդ Պրես",
+        "Arnold Pers",
+        "Arnolda Prasowego",
+        "Presse Arnold",
+        "مطبعة أرنولد"
+      ]
+    },
+    "shoulders-bradford-press": {
+      "aliases": [
+        "Жим Брэдфорда",
+        "Bradford-pers",
+        "Prasa Bradforda",
+        "Presse Bradford",
+        "مطبعة برادفورد"
+      ]
+    },
+    "shoulders-cable-front-raise": {
+      "aliases": [
+        "Подъём вперед с тросом",
+        "Մալուխի առջևի բարձրացում",
+        "Kabel fronthöjning",
+        "Kabel foran heving",
+        "Kabel voorverhoging",
+        "Kabel foran hæve",
+        "Podnoszenie przodu z linką",
+        "Élévation avant par câble",
+        "رفع الكابل الأمامي"
+      ]
+    },
+    "shoulders-cable-lateral-raise": {
+      "aliases": [
+        "Боковое поднятие на тросе",
+        "Մալուխի կողային բարձրացում",
+        "Kabel lateral höjning",
+        "Kabel sideveis heving",
+        "Kabel laterale verhoging",
+        "Kabel lateral hævning",
+        "Uniesienie boczne kabla",
+        "Élévation latérale du câble",
+        "رفع الكابل الجانبي"
+      ]
+    },
+    "shoulders-cable-rear-delt-fly": {
+      "aliases": [
+        "Расправление на кабеле для задних дельтовидных мышц",
+        "Մալուխ Rear Delt Fly",
+        "Kabel Bakre Delt Fly",
+        "Kabel achterste deltavlieg",
+        "Kabel Bag Delt Fly",
+        "Linka tylna Delt Fly",
+        "Câble Delt Fly Arrière",
+        "الكابل الخلفي Delt Fly"
+      ]
+    },
+    "shoulders-cable-upright-row": {
+      "aliases": [
+        "Вертикальная тяга на тренажере",
+        "Մալուխ Ուղղահայաց շարք",
+        "Kabel upprätt rad",
+        "Kabel oppreist rad",
+        "Kabel rechtopstaande rij",
+        "Kabel opretstående række",
+        "Rząd pionowy kabli",
+        "Rangée verticale de câble",
+        "صف الكابل في وضع مستقيم"
+      ]
+    },
+    "shoulders-cuban-press": {
+      "aliases": [
+        "Кубинский жим",
+        "Կուբայական մամուլ",
+        "Kubansk press",
+        "Kubansk presse",
+        "Cubaanse pers",
+        "cubansk presse",
+        "Prasa kubańska",
+        "Presse cubaine",
+        "الصحافة الكوبية"
+      ]
+    },
+    "shoulders-dumbbell-upright-row": {
+      "aliases": [
+        "Подъем гантелей в вертикальном положении",
+        "Dumbbell Ուղղահայաց շարք",
+        "Hantel Upprätt rad",
+        "Hantel oppreist rad",
+        "Halter rechtopstaande rij",
+        "Håndvægt opretstående række",
+        "Wiersz wyprostowany ze sztangą",
+        "Rangée verticale d'haltères",
+        "الدمبل تستقيم الصف"
+      ]
+    },
+    "shoulders-front-raise": {
+      "aliases": [
+        "Подъем рук вперед",
+        "Առջևի բարձրացումներ",
+        "Fronthöjning",
+        "Forhøyning foran",
+        "Voorste verhoging",
+        "Forhøjning",
+        "Podniesienie przodu",
+        "Élévation avant",
+        "رفع الجبهة"
+      ]
+    },
+    "shoulders-handstand-push-up": {
+      "aliases": [
+        "Отжимания в стойке на руках",
+        "Handstående push-up",
+        "Håndstående push-up",
+        "Pompki w staniu na rękach",
+        "Pompes en poirier",
+        "تمرين الضغط على اليدين"
+      ]
+    },
+    "shoulders-landmine-lateral-raise": {
+      "aliases": [
+        "Боковое поднятие с «ландмайном»",
+        "Ականների կողային բարձրացում",
+        "Landmina lateral höjning",
+        "Landmine lateral heving",
+        "Landmijn laterale verhoging",
+        "Landmine lateral hævning",
+        "Podniesienie boczne miny lądowej",
+        "Élévation latérale des mines terrestres",
+        "رفع الألغام الأرضية بشكل جانبي"
+      ]
+    },
+    "shoulders-lateral-raise": {
+      "aliases": [
+        "Боковое поднятие",
+        "Կողային բարձրացումներ",
+        "Lateral höjning",
+        "Lateral heving",
+        "Laterale verhoging",
+        "Lateral hævning",
+        "Podniesienie boczne",
+        "Élévation latérale",
+        "رفع جانبي"
+      ]
+    },
+    "shoulders-lu-raise": {
+      "aliases": [
+        "Подъем Лу",
+        "Լու Ռեյզ",
+        "Lu augmenter",
+        "لو رفع"
+      ]
+    },
+    "shoulders-machine-lateral-raise": {
+      "aliases": [
+        "Боковой подъём на тренажере",
+        "Մեքենայի կողային բարձրացում",
+        "Maskin lateral höjning",
+        "Maskin lateral heving",
+        "Zijwaartse verhoging van de machine",
+        "Maskine lateral hævning",
+        "Uniesienie boczne maszyny",
+        "Élévation latérale de la machine",
+        "الرفع الجانبي للآلة"
+      ]
+    },
+    "shoulders-machine-shoulder-press": {
+      "aliases": [
+        "Жим от плеч на тренажере",
+        "Maskinaxelpress",
+        "Maskin skulderpress",
+        "Machine-schouderpers",
+        "Maskine skulderpres",
+        "Wyciskanie ramion na maszynie",
+        "Presse à épaule machine",
+        "آلة ضغط الكتف"
+      ]
+    },
+    "shoulders-overhead-press": {
+      "aliases": [
+        "Жим над головой",
+        "Կանգնած ճնշում",
+        "Overheadpress",
+        "Overheadpers",
+        "Overheadpresse",
+        "Prasa górna",
+        "Presse aérienne",
+        "الصحافة العلوية"
+      ]
+    },
+    "shoulders-pike-push-up": {
+      "aliases": [
+        "Отжимания в позе «пике»",
+        "Gädda Push-Up",
+        "Snoek push-up",
+        "Pompki szczupakowe",
+        "Pompes au brochet",
+        "تمرين الضغط بايك"
+      ]
+    },
+    "shoulders-push-press": {
+      "aliases": [
+        "Отжимание с жимом",
+        "Tryck Tryck",
+        "Trykk Trykk",
+        "Druk op",
+        "Tryk Tryk",
+        "Naciśnij Naciśnij",
+        "Pousser Presse",
+        "الضغط الدفعي للكتف"
+      ]
+    },
+    "shoulders-rear-delt-fly": {
+      "aliases": [
+        "Разведение рук в наклоне на задние дельты",
+        "Հետին դելտայի տարածումներ",
+        "Bakre Delt Fly",
+        "Achterste deltavlieg",
+        "Bagerste Delt Fly",
+        "Tylny Delt Fly",
+        "Volet Delt Arrière",
+        "ذبابة الدلتا الخلفية"
+      ]
+    },
+    "shoulders-reverse-pec-deck": {
+      "aliases": [
+        "Обратный пек-дек",
+        "Omvänd Pec-däck",
+        "Omvendt Pec-dekk",
+        "Omgekeerd Pec-dek",
+        "Omvendt Pec Deck",
+        "Odwrócony pokład Peca",
+        "Deck Pec inversé",
+        "عكس سطح السفينة بيك"
+      ]
+    },
+    "shoulders-seated-barbell-press": {
+      "aliases": [
+        "Жим штанги сидя",
+        "Նստած Barbell Press",
+        "Sittande skivstångspress",
+        "Sittende vektstangpresse",
+        "Zittend drukken met halterstang",
+        "Siddende vægtstangspresse",
+        "Wyciskanie sztangi w pozycji siedzącej",
+        "Presse à haltères assis",
+        "يجلس الحديد الصحافة"
+      ]
+    },
+    "shoulders-seated-dumbbell-press": {
+      "aliases": [
+        "Жим гантелей сидя",
+        "Նստած համրիչ",
+        "Sittande hantelpress",
+        "Sittende manualpress",
+        "Zittend drukken met dumbbells",
+        "Siddende håndvægtpresse",
+        "Wyciskanie hantli w pozycji siedzącej",
+        "Presse d'haltères assis",
+        "تمرين الضغط بالدمبل أثناء الجلوس"
+      ]
+    },
+    "shoulders-single-arm-dumbbell-press": {
+      "aliases": [
+        "Жим гантели одной рукой",
+        "Enarmad hantelpress",
+        "Enarms manualpress",
+        "Eenarmige halterpers",
+        "Enkeltarms håndvægttryk",
+        "Wyciskanie hantli jednoramiennych",
+        "Presse à haltères à un bras",
+        "تمرين الضغط بالدمبل بذراع واحدة"
+      ]
+    },
+    "shoulders-standing-dumbbell-press": {
+      "aliases": [
+        "Жим гантелей стоя",
+        "Կանգնած Dumbbell Press",
+        "Stående hantelpress",
+        "Stående manualpress",
+        "Staande halterpers",
+        "Stående håndvægtpress",
+        "Wyciskanie hantli na stojąco",
+        "Presse à haltères debout",
+        "اضغط على الدمبل واقفاً"
+      ]
+    },
+    "shoulders-upright-row": {
+      "aliases": [
+        "Вертикальная тяга",
+        "Ուղղաձիգ Շարք",
+        "Upprätt rad",
+        "Oppreist rad",
+        "Rechtopstaande rij",
+        "Opretstående række",
+        "Rząd pionowy",
+        "Rangée verticale",
+        "صف مستقيم"
+      ]
+    },
+    "shoulders-y-raise": {
+      "aliases": [
+        "Подъем рук в форме буквы Y",
+        "Y-höjning",
+        "Y-løft",
+        "Y-verhoging",
+        "Podnieś Y",
+        "Augmentation en Y",
+        "رفع على شكل حرف Y"
+      ]
+    },
+    "back-helms-row": {
+      "aliases": [
+        "Гребля Хелмса",
+        "Helms-rodd",
+        "Helms-roing",
+        "Helms-roeien",
+        "Helms-roning",
+        "Wiosłowanie Helmsa",
+        "Rowing Helms",
+        "تجديف هيلمز"
+      ]
+    },
+    "legs-reverse-nordic": {
+      "aliases": [
+        "Обратный нордический наклон",
+        "Հակադարձ սկանդինավյան",
+        "Omvänd nordic",
+        "Omvendt nordic",
+        "Omgekeerde Nordic",
+        "Odwrócony Nordic",
+        "Nordic inversé",
+        "نورديك عكسي"
+      ]
+    },
+    "shoulders-bus-driver": {
+      "aliases": [
+        "«Водитель автобуса»",
+        "Ավտոբուսի վարորդ",
+        "Busschaufför",
+        "Bussjåfør",
+        "Buschauffeur",
+        "Buschauffør",
+        "Kierowca autobusu",
+        "Conducteur de bus",
+        "سائق الحافلة"
+      ]
+    },
+    "arms-waiter-curl": {
+      "aliases": [
+        "Сгибание рук «Официант»",
+        "Մատուցող Կուրլ",
+        "Waiter-curl",
+        "Uginanie kelnera",
+        "Curl serveur",
+        "ثني النادل"
+      ]
+    },
+    "core-copenhagen-plank": {
+      "aliases": [
+        "Копенгагенская планка",
+        "Կոպենհագենի պլանկ",
+        "Köpenhamnsplankan",
+        "København-planke",
+        "Kopenhagen-plank",
+        "Københavner-planke",
+        "Deska kopenhaska",
+        "Planche de Copenhague",
+        "لوح كوبنهاغن"
+      ]
+    },
+    "cardio-farmer-carry": {
+      "aliases": [
+        "Timed Farmer Carry",
+        "«Фермерский кэрри» на время",
+        "Ֆերմերի քայլք ժամանակի դեմ",
+        "Farmers walk på tid",
+        "Farmers walk op tijd",
+        "Spacer farmera na czas",
+        "Marche du fermier chronométrée",
+        "مشي المزارع لوقت محدد"
+      ]
+    },
+    "mobility-world-greatest-stretch": {
+      "aliases": [
+        "Упражнение «World's Greatest Stretch Hold»",
+        "Աշխարհի ամենամեծ ձգումը, պահում",
+        "Världens största stretch, håll",
+        "Verdens største strekk, hold",
+        "'s Werelds grootste stretch, vasthouden",
+        "Verdens største stræk, hold",
+        "Najlepsze rozciąganie świata, przytrzymanie",
+        "Le plus grand étirement du monde, tenue",
+        "أعظم تمدد في العالم، ثبات"
+      ]
+    },
+    "legs-spanish-squat": {
+      "aliases": [
+        "Испанская приседания"
+      ]
+    },
+    "shoulders-bradford-raise": {
+      "aliases": [
+        "Подъем по Брэдфорду",
+        "Բրեդֆորդ Ռեյզ",
+        "Bradford-lyft",
+        "Bradford-løft",
+        "Élévation Bradford",
+        "رفعة برادفورد"
+      ]
+    },
+    "core-hollow-rock": {
+      "aliases": [
+        "Качание в положении «лодка»"
+      ]
+    },
+    "cardio-sled-push": {
+      "aliases": [
+        "Sled Push",
+        "Толкание саней на время",
+        "Սահնակի հրում ժամանակի դեմ",
+        "Slädpush på tid",
+        "Sledepush på tid",
+        "Slee duwen op tijd",
+        "Slædepush på tid",
+        "Pchanie sań na czas",
+        "Poussée de traîneau chronométrée",
+        "دفع الزلاجة لوقت محدد"
+      ]
+    },
+    "mobility-90-90-hip-switch": {
+      "aliases": [
+        "Поворот бедер 90/90",
+        "90/90 հիփ անջատիչ",
+        "90/90 höftbyte",
+        "90/90 hoftebytte",
+        "90/90 heupwisseling",
+        "Zmiana 90/90",
+        "Switch hanche 90/90",
+        "تبديل الورك 90/90"
+      ]
+    },
+    "chest-band-chest-press": {
+      "aliases": [
+        "Жим от груди с резинкой"
+      ]
+    },
+    "chest-band-chest-fly": {
+      "aliases": [
+        "Расправление рук с резинкой на грудь"
+      ]
+    },
+    "chest-band-push-up": {
+      "aliases": [
+        "Разведение рук с резинкой на грудь"
+      ]
+    },
+    "chest-band-pullover": {
+      "aliases": [
+        "Тяга резинки над головой"
+      ]
+    },
+    "chest-tube-chest-press": {
+      "aliases": [
+        "Жим от груди с трубчатой лентой"
+      ]
+    },
+    "back-band-seated-row": {
+      "aliases": [
+        "Гребля с резинкой в сидячем положении"
+      ]
+    },
+    "back-band-face-pull": {
+      "aliases": [
+        "Тяга ленты к лицу"
+      ]
+    },
+    "back-band-lat-pulldown": {
+      "aliases": [
+        "Тяга верхнего блока с лентой"
+      ]
+    },
+    "back-band-pull-apart": {
+      "aliases": [
+        "Разведение рук с лентой"
+      ]
+    },
+    "back-assisted-pull-up-band": {
+      "aliases": [
+        "Резинка для подтягиваний с поддержкой"
+      ]
+    },
+    "back-band-straight-arm-pulldown": {
+      "aliases": [
+        "Тяга ленты с прямыми руками"
+      ]
+    },
+    "shoulders-band-overhead-press": {
+      "aliases": [
+        "Жим резинки над головой"
+      ]
+    },
+    "shoulders-band-lateral-raise": {
+      "aliases": [
+        "Боковое поднятие с резинкой"
+      ]
+    },
+    "shoulders-band-front-raise": {
+      "aliases": [
+        "Подъём рук вперёд с резинкой"
+      ]
+    },
+    "shoulders-band-reverse-fly": {
+      "aliases": [
+        "Обратный флай с лентой"
+      ]
+    },
+    "shoulders-band-external-rotation": {
+      "aliases": [
+        "Внешнее вращение предплечья с использованием ленты"
+      ]
+    },
+    "shoulders-band-internal-rotation": {
+      "aliases": [
+        "Внутреннее вращение с лентой"
+      ]
+    },
+    "arms-band-curl": {
+      "aliases": [
+        "Сгибание рук с лентой"
+      ]
+    },
+    "arms-band-hammer-curl": {
+      "aliases": [
+        "Сгибание рук с резинкой в положении «молот»"
+      ]
+    },
+    "arms-band-triceps-pushdown": {
+      "aliases": [
+        "Опускание на трицепс с резинкой"
+      ]
+    },
+    "arms-band-overhead-triceps-extension": {
+      "aliases": [
+        "Разгибание трицепса с резинкой над головой"
+      ]
+    },
+    "arms-band-triceps-kickback": {
+      "aliases": [
+        "Отведение трицепса с резинкой"
+      ]
+    },
+    "arms-band-wrist-extension": {
+      "aliases": [
+        "Растяжение запястья с резинкой"
+      ]
+    },
+    "core-band-pallof-press": {
+      "aliases": [
+        "Жим с резинкой по методу Паллофа"
+      ]
+    },
+    "core-band-woodchop": {
+      "aliases": [
+        "«Дровосек» с резинкой"
+      ]
+    },
+    "core-band-dead-bug": {
+      "aliases": [
+        "Упражнение «Мертвый жук» с резинкой"
+      ]
+    },
+    "core-band-anti-rotation-hold": {
+      "aliases": [
+        "Удержание ленты без поворота"
+      ]
+    },
+    "core-band-crunch": {
+      "aliases": [
+        "Скручивания с резинкой"
+      ]
+    },
+    "legs-mini-loop-lateral-walk": {
+      "aliases": [
+        "Боковые шаги с мини-петлевой резинкой"
+      ]
+    },
+    "legs-mini-loop-clamshell": {
+      "aliases": [
+        "«Ракушка» с мини-петлей"
+      ]
+    },
+    "legs-band-hip-thrust": {
+      "aliases": [
+        "Толчок бедрами с лентой"
+      ]
+    },
+    "legs-band-glute-kickback": {
+      "aliases": [
+        "Отведение ягодиц с резинкой"
+      ]
+    },
+    "legs-band-monster-walk": {
+      "aliases": [
+        "«Ходьба монстра» с резинкой"
+      ]
+    },
+    "legs-band-squat": {
+      "aliases": [
+        "Приседания с резинкой"
+      ]
+    },
+    "legs-band-romanian-deadlift": {
+      "aliases": [
+        "Румынская становая тяга с резинкой"
+      ]
+    },
+    "legs-band-leg-curl": {
+      "aliases": [
+        "Сгибание ног в положении лёжа с лентой"
+      ]
+    },
+    "legs-band-good-morning": {
+      "aliases": [
+        "«Доброе утро» с резинкой"
+      ]
+    },
+    "legs-band-calf-raise": {
+      "aliases": [
+        "Подъем на носки с лентой"
+      ]
+    },
+    "legs-band-hip-flexion": {
+      "aliases": [
+        "Сгибание бедра в положении стоя с лентой"
+      ]
+    },
+    "legs-figure-8-abduction": {
+      "aliases": [
+        "Отведение ног с лентой «восьмерка»"
+      ]
+    },
+    "legs-fabric-hip-band-squat": {
+      "aliases": [
+        "Приседания с тканевой лентой на бедрах"
+      ]
+    },
+    "mobility-band-shoulder-distraction": {
+      "aliases": [
+        "Растяжение плеча с помощью ленты"
+      ]
+    },
+    "mobility-band-hip-distraction": {
+      "aliases": [
+        "Растяжение бедра с помощью ленты"
+      ]
+    },
+    "mobility-band-hamstring-stretch": {
+      "aliases": [
+        "Растяжка задней поверхности бедра с резинкой"
+      ]
+    },
+    "mobility-band-pec-stretch": {
+      "aliases": [
+        "Растяжка грудных мышц с резинкой"
+      ]
+    },
+    "other-band-squat-to-press": {
+      "aliases": [
+        "Приседание с резинкой с последующим жимом"
+      ]
+    },
+    "other-band-resisted-march": {
+      "aliases": [
+        "Маршировка с сопротивлением ленты"
+      ]
+    },
+    "other-suspension-band-row": {
+      "aliases": [
+        "Подвесная тренировка + гребля с резинкой"
+      ]
+    },
+    "other-anchor-mounted-band-press": {
+      "aliases": [
+        "Жим с резинкой, закрепленной на креплении"
+      ]
+    },
+    "mobility-band-ankle-dorsiflexion": {
+      "aliases": [
+        "Сгибание голеностопа в тыльную сторону с резинкой"
+      ]
+    },
+    "chest-high-to-low-cable-fly": {
+      "aliases": [
+        "Сведение рук в кроссовере сверху вниз"
+      ]
+    },
+    "chest-incline-cable-fly": {
+      "aliases": [
+        "Сведение рук в кроссовере на наклонной скамье"
+      ]
+    },
+    "chest-single-arm-cable-fly": {
+      "aliases": [
+        "Сведение руки в кроссовере одной рукой"
+      ]
+    },
+    "chest-standing-cable-press": {
+      "aliases": [
+        "Жим от груди в кроссовере стоя"
+      ]
+    },
+    "chest-weighted-push-up": {
+      "aliases": [
+        "Отжимания с отягощением"
+      ]
+    },
+    "chest-assisted-dip": {
+      "aliases": [
+        "Отжимания на брусьях в гравитроне"
+      ]
+    },
+    "chest-decline-machine-press": {
+      "aliases": [
+        "Жим в тренажёре с наклоном вниз"
+      ]
+    },
+    "chest-scapular-push-up": {
+      "aliases": [
+        "Отжимания на лопатках"
+      ]
+    },
+    "chest-serratus-wall-slide": {
+      "aliases": [
+        "Скольжение предплечьями по стене"
+      ]
+    },
+    "chest-reverse-grip-bench-press": {
+      "aliases": [
+        "Жим лёжа обратным хватом"
+      ]
+    },
+    "legs-machine-glute-kickback": {
+      "aliases": [
+        "Отведение ноги назад в тренажёре"
+      ]
+    },
+    "legs-smith-hip-thrust": {
+      "aliases": [
+        "Ягодичный мостик в машине Смита"
+      ]
+    },
+    "legs-single-leg-hip-thrust": {
+      "aliases": [
+        "Ягодичный мостик на одной ноге"
+      ]
+    },
+    "legs-b-stance-hip-thrust": {
+      "aliases": [
+        "Ягодичный мостик в B-стойке"
+      ]
+    },
+    "legs-frog-pump": {
+      "aliases": [
+        "Ягодичный мостик «лягушка»"
+      ]
+    },
+    "legs-curtsy-lunge": {
+      "aliases": [
+        "Выпад реверанс"
+      ]
+    },
+    "legs-reverse-hyperextension": {
+      "aliases": [
+        "Обратная гиперэкстензия"
+      ]
+    },
+    "legs-cable-hip-abduction": {
+      "aliases": [
+        "Отведение ноги в сторону в кроссовере"
+      ]
+    },
+    "legs-standing-hip-adduction": {
+      "aliases": [
+        "Приведение ноги в кроссовере стоя"
+      ]
+    },
+    "legs-step-down": {
+      "aliases": [
+        "Опускание со степа"
+      ]
+    },
+    "back-cable-shrug": {
+      "aliases": [
+        "Шраги в кроссовере"
+      ]
+    },
+    "back-machine-shrug": {
+      "aliases": [
+        "Шраги в тренажёре"
+      ]
+    },
+    "back-trap-bar-shrug": {
+      "aliases": [
+        "Шраги с трэп-грифом"
+      ]
+    },
+    "back-superman": {
+      "aliases": [
+        "Супермен"
+      ]
+    },
+    "back-machine-back-extension": {
+      "aliases": [
+        "Разгибание спины в тренажёре"
+      ]
+    },
+    "back-landmine-row": {
+      "aliases": [
+        "Тяга рычажного грифа в наклоне"
+      ]
+    },
+    "shoulders-reverse-cable-crossover": {
+      "aliases": [
+        "Обратное сведение в кроссовере"
+      ]
+    },
+    "shoulders-chest-supported-rear-delt-row": {
+      "aliases": [
+        "Тяга на задние дельты лёжа на скамье"
+      ]
+    },
+    "shoulders-single-arm-cable-rear-delt-fly": {
+      "aliases": [
+        "Отведение на задние дельты в кроссовере одной рукой"
+      ]
+    },
+    "shoulders-viking-press": {
+      "aliases": [
+        "Викинг-жим"
+      ]
+    },
+    "arms-wrist-roller": {
+      "aliases": [
+        "Ролик для запястий"
+      ]
+    },
+    "arms-cable-wrist-curl": {
+      "aliases": [
+        "Сгибание запястий в кроссовере"
+      ]
+    },
+    "arms-behind-back-wrist-curl": {
+      "aliases": [
+        "Сгибание запястий за спиной"
+      ]
+    },
+    "arms-cable-hammer-curl": {
+      "aliases": [
+        "«Молот» в кроссовере"
+      ]
+    },
+    "arms-reverse-grip-pushdown": {
+      "aliases": [
+        "Разгибание на блоке обратным хватом"
+      ]
+    },
+    "legs-smith-calf-raise": {
+      "aliases": [
+        "Подъём на носки в машине Смита"
+      ]
+    },
+    "legs-single-leg-calf-raise": {
+      "aliases": [
+        "Подъём на носок на одной ноге"
+      ]
+    },
+    "legs-tibialis-raise": {
+      "aliases": [
+        "Подъём носков стоя у стены"
+      ]
+    },
+    "legs-hack-squat-calf-raise": {
+      "aliases": [
+        "Подъём на носки в гакк-машине"
+      ]
+    },
+    "legs-landmine-squat": {
+      "aliases": [
+        "Присед с рычажным грифом"
+      ]
+    },
+    "legs-heel-elevated-goblet-squat": {
+      "aliases": [
+        "Гоблет-присед с подставкой под пятки"
+      ]
+    },
+    "legs-deficit-reverse-lunge": {
+      "aliases": [
+        "Обратный выпад в дефиците"
+      ]
+    },
+    "core-bear-crawl": {
+      "aliases": [
+        "Медвежья походка"
+      ]
+    },
+    "core-stir-the-pot": {
+      "aliases": [
+        "«Помешивание» на фитболе"
+      ]
+    },
+    "core-cable-side-bend": {
+      "aliases": [
+        "Наклоны вбок в кроссовере"
+      ]
+    },
+    "back-jefferson-deadlift": {
+      "aliases": []
+    },
+    "back-reeves-deadlift": {
+      "aliases": []
+    },
+    "back-snatch-grip-deadlift": {
+      "aliases": []
+    },
+    "back-deficit-deadlift": {
+      "aliases": []
+    },
+    "back-seated-good-morning": {
+      "aliases": []
+    },
+    "legs-anderson-squat": {
+      "aliases": []
+    },
+    "legs-hatfield-squat": {
+      "aliases": []
+    },
+    "chest-spoto-press": {
+      "aliases": []
+    },
+    "chest-larsen-press": {
+      "aliases": []
+    },
+    "legs-atg-split-squat": {
+      "aliases": []
+    },
+    "legs-poliquin-step-up": {
+      "aliases": []
+    },
+    "legs-patrick-step": {
+      "aliases": []
+    },
+    "legs-reverse-sled-drag": {
+      "aliases": []
+    },
+    "legs-cossack-squat": {
+      "aliases": []
+    },
+    "core-l-sit": {
+      "aliases": []
+    },
+    "back-tuck-front-lever": {
+      "aliases": []
+    },
+    "back-tuck-back-lever": {
+      "aliases": []
+    },
+    "shoulders-planche-lean": {
+      "aliases": []
+    },
+    "back-archer-pull-up": {
+      "aliases": []
+    },
+    "back-typewriter-pull-up": {
+      "aliases": []
+    },
+    "back-scapular-pull-up": {
+      "aliases": []
+    },
+    "chest-ring-dip": {
+      "aliases": []
+    },
+    "chest-pseudo-planche-push-up": {
+      "aliases": []
+    },
+    "other-log-press": {
+      "aliases": []
+    },
+    "other-atlas-stone-lift": {
+      "aliases": []
+    },
+    "other-yoke-walk": {
+      "aliases": []
+    },
+    "other-sandbag-over-shoulder": {
+      "aliases": []
+    },
+    "other-sledgehammer-swing": {
+      "aliases": []
+    },
+    "other-axle-clean-and-press": {
+      "aliases": []
+    },
+    "arms-thick-bar-hold": {
+      "aliases": []
+    },
+    "arms-finger-extension": {
+      "aliases": []
+    },
+    "arms-barbell-levering": {
+      "aliases": []
+    },
+    "arms-pinch-block-hold": {
+      "aliases": []
+    },
+    "arms-hand-gripper": {
+      "aliases": []
+    },
+    "other-neck-harness-extension": {
+      "aliases": []
+    },
+    "other-neck-flexion": {
+      "aliases": []
+    },
+    "other-neck-lateral-flexion": {
+      "aliases": []
+    },
+    "core-kettlebell-windmill": {
+      "aliases": []
+    },
+    "shoulders-bottoms-up-press": {
+      "aliases": []
+    },
+    "other-bent-press": {
+      "aliases": []
+    },
+    "other-steel-mace-360": {
+      "aliases": []
+    },
+    "other-kettlebell-halo": {
+      "aliases": []
+    },
+    "shoulders-powell-raise": {
+      "aliases": []
+    },
+    "back-prone-trap-raise": {
+      "aliases": []
+    },
+    "back-kelso-shrug": {
+      "aliases": []
+    },
+    "back-weighted-inverted-row": {
+      "aliases": []
+    },
+    "back-weighted-neutral-grip-pull-up": {
+      "aliases": []
+    },
+    "back-weighted-wide-grip-pull-up": {
+      "aliases": []
+    },
+    "chest-weighted-ring-dip": {
+      "aliases": []
+    },
+    "arms-weighted-bench-dip": {
+      "aliases": []
+    },
+    "core-weighted-crunch": {
+      "aliases": []
+    },
+    "core-weighted-sit-up": {
+      "aliases": []
+    },
+    "core-weighted-decline-sit-up": {
+      "aliases": []
+    },
+    "core-weighted-hanging-leg-raise": {
+      "aliases": []
+    },
+    "core-weighted-hanging-knee-raise": {
+      "aliases": []
+    },
+    "core-weighted-captains-chair-knee-raise": {
+      "aliases": []
+    },
+    "legs-weighted-pistol-squat": {
+      "aliases": []
+    },
+    "legs-weighted-glute-ham-raise": {
+      "aliases": []
+    },
+    "legs-weighted-nordic-curl": {
+      "aliases": []
+    },
+    "legs-weighted-reverse-nordic": {
+      "aliases": []
+    },
+    "other-weighted-muscle-up": {
+      "aliases": []
+    },
+    "chest-weighted-decline-push-up": {
+      "aliases": []
+    },
+    "shoulders-weighted-pike-push-up": {
+      "aliases": []
+    },
+    "core-weighted-plank": {
+      "aliases": []
+    },
+    "core-weighted-side-plank": {
+      "aliases": []
+    },
+    "core-weighted-l-sit": {
+      "aliases": []
+    },
+    "other-weighted-dead-hang": {
+      "aliases": []
+    },
+    "legs-weighted-wall-sit": {
+      "aliases": []
+    },
+    "back-band-bent-over-row": {
+      "aliases": []
+    },
+    "shoulders-band-upright-row": {
+      "aliases": []
+    },
+    "legs-band-glute-bridge": {
+      "aliases": []
+    },
+    "legs-band-leg-extension": {
+      "aliases": []
+    },
+    "legs-band-bulgarian-split-squat": {
+      "aliases": []
+    },
+    "back-band-shrug": {
+      "aliases": []
+    },
+    "arms-band-skull-crusher": {
+      "aliases": []
+    },
+    "back-front-lever": {
+      "aliases": []
+    },
+    "back-back-lever": {
+      "aliases": []
+    },
+    "shoulders-tuck-planche": {
+      "aliases": []
+    },
+    "shoulders-straddle-planche": {
+      "aliases": []
+    },
+    "shoulders-planche": {
+      "aliases": []
+    },
+    "chest-maltese": {
+      "aliases": []
+    },
+    "core-human-flag": {
+      "aliases": []
+    },
+    "core-elbow-lever": {
+      "aliases": []
+    },
+    "core-v-sit": {
+      "aliases": []
+    },
+    "core-crow-pose": {
+      "aliases": []
+    },
+    "back-skin-the-cat": {
+      "aliases": []
+    },
+    "shoulders-wall-handstand": {
+      "aliases": []
+    },
+    "shoulders-handstand": {
+      "aliases": []
+    },
+    "shoulders-one-arm-handstand": {
+      "aliases": []
+    },
+    "other-ring-muscle-up": {
+      "aliases": []
+    },
+    "back-clap-pull-up": {
+      "aliases": []
+    },
+    "other-kip-up": {
+      "aliases": []
+    },
+    "other-bar-360": {
+      "aliases": []
+    },
+    "other-bar-540": {
+      "aliases": []
+    },
+    "other-bar-sun": {
+      "aliases": []
+    },
+    "other-bar-moon": {
+      "aliases": []
+    },
+    "other-bar-over-bar": {
+      "aliases": []
+    },
+    "other-bar-x-flyaway": {
+      "aliases": []
+    },
+    "other-bar-spin": {
+      "aliases": []
+    },
+    "other-gainer": {
+      "aliases": []
+    },
+    "cardio-agility-ladder": {
+      "aliases": []
+    },
+    "cardio-icky-shuffle": {
+      "aliases": []
+    },
+    "cardio-lateral-shuffle": {
+      "aliases": []
+    },
+    "cardio-carioca": {
+      "aliases": []
+    },
+    "cardio-dot-drill": {
+      "aliases": []
+    },
+    "cardio-pro-agility-shuttle": {
+      "aliases": []
+    },
+    "cardio-t-drill": {
+      "aliases": []
+    },
+    "cardio-three-cone-drill": {
+      "aliases": []
+    },
+    "cardio-box-drill": {
+      "aliases": []
+    },
+    "cardio-skater-bound": {
+      "aliases": []
+    },
+    "cardio-hurdle-hop": {
+      "aliases": []
+    },
+    "cardio-reaction-sprint-start": {
+      "aliases": []
+    }
+  }
+}
