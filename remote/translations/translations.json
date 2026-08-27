@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787848390,
+  "lastSyncedAt": 1787851687,
   "strings": {
     "Misc": {
       "": {
@@ -9779,6 +9779,248 @@
         "pl": "Język zmieniony",
         "fr": "Langue modifiée",
         "ar": "تغيرت اللغة"
+      }
+    },
+    "Leaderboard": {
+      "empty": {
+        "en": "No streaks here yet. Complete a week to be the first.",
+        "ru": "Здесь пока нет серий. Заверши неделю и стань первым.",
+        "hy": "Այստեղ դեռ սերիաներ չկան։ Ավարտիր շաբաթը և դարձիր առաջինը։",
+        "sv": "Inga sviter här än. Klara en vecka och bli först.",
+        "nb": "Ingen rekker her ennå. Fullfør en uke og bli den første.",
+        "nl": "Nog geen reeksen hier. Voltooi een week en wees de eerste.",
+        "da": "Ingen rækker her endnu. Fuldfør en uge og bliv den første.",
+        "pl": "Nie ma tu jeszcze serii. Ukończ tydzień i bądź pierwszy.",
+        "fr": "Aucune série ici pour l'instant. Termine une semaine pour être le premier.",
+        "ar": "لا توجد سلاسل هنا بعد. أكمل أسبوعًا لتكون الأول."
+      },
+      "footer": {
+        "en": "Ranked by the longest streak you have ever put together.",
+        "ru": "Ранжирование по самой длинной серии за всё время.",
+        "hy": "Դասավորված է երբևէ ունեցած ամենաերկար սերիայով։",
+        "sv": "Rankas efter den längsta svit du någonsin haft.",
+        "nb": "Rangert etter den lengste rekken du noen gang har hatt.",
+        "nl": "Gerangschikt op de langste reeks die je ooit hebt gehaald.",
+        "da": "Rangeret efter den længste række, du nogensinde har haft.",
+        "pl": "Ranking według najdłuższej serii w historii.",
+        "fr": "Classement selon la plus longue série que tu aies réalisée.",
+        "ar": "الترتيب حسب أطول سلسلة حققتها على الإطلاق."
+      },
+      "guestRemaining": {
+        "en": "%lld free looks left",
+        "ru": "Осталось бесплатных просмотров: %lld",
+        "hy": "Մնացել է %lld անվճար դիտում",
+        "sv": "%lld gratis visningar kvar",
+        "nb": "%lld gratis visninger igjen",
+        "nl": "Nog %lld gratis weergaven",
+        "da": "%lld gratis visninger tilbage",
+        "pl": "Pozostało %lld darmowych podglądów",
+        "fr": "%lld consultations gratuites restantes",
+        "ar": "بقي %lld عرض مجاني"
+      },
+      "guestRemainingOne": {
+        "en": "1 free look left",
+        "ru": "Остался 1 бесплатный просмотр",
+        "hy": "Մնացել է 1 անվճար դիտում",
+        "sv": "1 gratis visning kvar",
+        "nb": "1 gratis visning igjen",
+        "nl": "Nog 1 gratis weergave",
+        "da": "1 gratis visning tilbage",
+        "pl": "Pozostał 1 darmowy podgląd",
+        "fr": "1 consultation gratuite restante",
+        "ar": "بقي عرض مجاني واحد"
+      },
+      "loadFailed": {
+        "en": "Couldn't load the leaderboard.",
+        "ru": "Не удалось загрузить таблицу лидеров.",
+        "hy": "Չհաջողվեց բեռնել աղյուսակը։",
+        "sv": "Det gick inte att läsa in topplistan.",
+        "nb": "Kunne ikke laste ledertavlen.",
+        "nl": "Kan de ranglijst niet laden.",
+        "da": "Ranglisten kunne ikke indlæses.",
+        "pl": "Nie udało się wczytać rankingu.",
+        "fr": "Impossible de charger le classement.",
+        "ar": "تعذر تحميل لوحة المتصدرين."
+      },
+      "openGameCenter": {
+        "en": "Open in Game Center",
+        "ru": "Открыть в Game Center",
+        "hy": "Բացել Game Center-ում",
+        "sv": "Öppna i Game Center",
+        "nb": "Åpne i Game Center",
+        "nl": "Openen in Game Center",
+        "da": "Åbn i Game Center",
+        "pl": "Otwórz w Game Center",
+        "fr": "Ouvrir dans Game Center",
+        "ar": "افتح في Game Center"
+      },
+      "retry": {
+        "en": "Try again",
+        "ru": "Повторить",
+        "hy": "Կրկնել",
+        "sv": "Försök igen",
+        "nb": "Prøv igjen",
+        "nl": "Opnieuw proberen",
+        "da": "Prøv igen",
+        "pl": "Spróbuj ponownie",
+        "fr": "Réessayer",
+        "ar": "أعد المحاولة"
+      },
+      "scope.combined": {
+        "en": "Everyone",
+        "ru": "Все",
+        "hy": "Բոլորը",
+        "sv": "Alla",
+        "nb": "Alle",
+        "nl": "Iedereen",
+        "da": "Alle",
+        "pl": "Wszyscy",
+        "fr": "Tout le monde",
+        "ar": "الجميع"
+      },
+      "scope.segment": {
+        "en": "My group",
+        "ru": "Моя группа",
+        "hy": "Իմ խումբը",
+        "sv": "Min grupp",
+        "nb": "Min gruppe",
+        "nl": "Mijn groep",
+        "da": "Min gruppe",
+        "pl": "Moja grupa",
+        "fr": "Mon groupe",
+        "ar": "مجموعتي"
+      },
+      "segmentBadge": {
+        "en": "%lld/wk",
+        "ru": "%lld/нед",
+        "hy": "%lld/շաբ",
+        "sv": "%lld/v",
+        "nb": "%lld/u",
+        "nl": "%lld/wk",
+        "da": "%lld/u",
+        "pl": "%lld/tydz",
+        "fr": "%lld/sem",
+        "ar": "%lld/أسبوع"
+      },
+      "segmentTitle": {
+        "en": "%lld days a week",
+        "ru": "%lld дней в неделю",
+        "hy": "Շաբաթական %lld օր",
+        "sv": "%lld dagar i veckan",
+        "nb": "%lld dager i uken",
+        "nl": "%lld dagen per week",
+        "da": "%lld dage om ugen",
+        "pl": "%lld dni w tygodniu",
+        "fr": "%lld jours par semaine",
+        "ar": "%lld أيام في الأسبوع"
+      },
+      "signIn.action": {
+        "en": "Sign in",
+        "ru": "Войти",
+        "hy": "Մուտք գործել",
+        "sv": "Logga in",
+        "nb": "Logg inn",
+        "nl": "Inloggen",
+        "da": "Log ind",
+        "pl": "Zaloguj się",
+        "fr": "Se connecter",
+        "ar": "تسجيل الدخول"
+      },
+      "signIn.body": {
+        "en": "The leaderboard ranks your streak against everyone training toward the same weekly goal. Sign in to take part and keep your place across devices.",
+        "ru": "Таблица лидеров сравнивает твою серию с теми, у кого такая же недельная цель. Войди, чтобы участвовать и сохранить своё место на всех устройствах.",
+        "hy": "Աղյուսակը համեմատում է քո սերիան նույն շաբաթական նպատակն ունեցողների հետ։ Մուտք գործիր՝ մասնակցելու և բոլոր սարքերում քո տեղը պահելու համար։",
+        "sv": "Topplistan jämför din svit med alla som tränar mot samma veckomål. Logga in för att delta och behålla din plats på alla enheter.",
+        "nb": "Ledertavlen sammenligner rekken din med alle som trener mot det samme ukemålet. Logg inn for å delta og beholde plassen din på alle enheter.",
+        "nl": "De ranglijst vergelijkt je reeks met iedereen die naar hetzelfde weekdoel toewerkt. Log in om mee te doen en je plek op al je apparaten te behouden.",
+        "da": "Ranglisten sammenligner din række med alle, der træner mod det samme ugemål. Log ind for at deltage og beholde din plads på alle enheder.",
+        "pl": "Ranking porównuje twoją serię ze wszystkimi, którzy trenują do tego samego celu tygodniowego. Zaloguj się, aby wziąć udział i zachować swoje miejsce na wszystkich urządzeniach.",
+        "fr": "Le classement compare ta série à celle de tous ceux qui visent le même objectif hebdomadaire. Connecte-toi pour participer et garder ta place sur tous tes appareils.",
+        "ar": "تقارن لوحة المتصدرين سلسلتك بكل من يتدرب نحو الهدف الأسبوعي نفسه. سجّل الدخول للمشاركة والاحتفاظ بمركزك على جميع أجهزتك."
+      },
+      "signIn.notNow": {
+        "en": "Not now",
+        "ru": "Не сейчас",
+        "hy": "Ոչ հիմա",
+        "sv": "Inte nu",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "da": "Ikke nu",
+        "pl": "Nie teraz",
+        "fr": "Pas maintenant",
+        "ar": "ليس الآن"
+      },
+      "signIn.title": {
+        "en": "Sign in to compete",
+        "ru": "Войди, чтобы соревноваться",
+        "hy": "Մուտք գործիր՝ մրցելու համար",
+        "sv": "Logga in för att tävla",
+        "nb": "Logg inn for å konkurrere",
+        "nl": "Log in om mee te doen",
+        "da": "Log ind for at deltage",
+        "pl": "Zaloguj się, aby rywalizować",
+        "fr": "Connecte-toi pour participer",
+        "ar": "سجّل الدخول للمنافسة"
+      },
+      "title": {
+        "en": "Leaderboard",
+        "ru": "Таблица лидеров",
+        "hy": "Առաջատարների աղյուսակ",
+        "sv": "Topplista",
+        "nb": "Ledertavle",
+        "nl": "Ranglijst",
+        "da": "Rangliste",
+        "pl": "Ranking",
+        "fr": "Classement",
+        "ar": "لوحة المتصدرين"
+      },
+      "unavailable": {
+        "en": "Game Center isn't available on this device.",
+        "ru": "Game Center недоступен на этом устройстве.",
+        "hy": "Game Center-ը հասանելի չէ այս սարքում։",
+        "sv": "Game Center är inte tillgängligt på den här enheten.",
+        "nb": "Game Center er ikke tilgjengelig på denne enheten.",
+        "nl": "Game Center is niet beschikbaar op dit apparaat.",
+        "da": "Game Center er ikke tilgængeligt på denne enhed.",
+        "pl": "Game Center jest niedostępne na tym urządzeniu.",
+        "fr": "Game Center n'est pas disponible sur cet appareil.",
+        "ar": "Game Center غير متوفر على هذا الجهاز."
+      },
+      "weeks": {
+        "en": "%lld weeks",
+        "ru": "%lld недель",
+        "hy": "%lld շաբաթ",
+        "sv": "%lld veckor",
+        "nb": "%lld uker",
+        "nl": "%lld weken",
+        "da": "%lld uger",
+        "pl": "%lld tygodni",
+        "fr": "%lld semaines",
+        "ar": "%lld أسابيع"
+      },
+      "weeksOne": {
+        "en": "1 week",
+        "ru": "1 неделя",
+        "hy": "1 շաբաթ",
+        "sv": "1 vecka",
+        "nb": "1 uke",
+        "nl": "1 week",
+        "da": "1 uge",
+        "pl": "1 tydzień",
+        "fr": "1 semaine",
+        "ar": "أسبوع واحد"
+      },
+      "you": {
+        "en": "You",
+        "ru": "Ты",
+        "hy": "Դու",
+        "sv": "Du",
+        "nb": "Du",
+        "nl": "Jij",
+        "da": "Dig",
+        "pl": "Ty",
+        "fr": "Toi",
+        "ar": "أنت"
       }
     },
     "LogParam": {

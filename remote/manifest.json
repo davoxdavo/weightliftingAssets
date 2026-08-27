@@ -214,7 +214,7 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1787848390,
+    "lastSyncedAt": 1787851687,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {
@@ -242,5 +242,9 @@
   "twoSetsToFailureUnlock": {
     "isEnabled": true,
     "requiredStreakWeeks": 3
+  },
+  "leaderboard": {
+    "isEnabled": true,
+    "guestViewAllowance": 3
   }
 }
