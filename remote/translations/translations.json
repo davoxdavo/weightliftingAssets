@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787831061,
+  "lastSyncedAt": 1787848390,
   "strings": {
     "Misc": {
       "": {
@@ -1385,16 +1385,28 @@
         "ar": "تم ربط الحساب على هذا الجهاز"
       },
       "streak.days.footer": {
-        "en": "Training days needed for the week to count.",
-        "ru": "Сколько тренировочных дней нужно, чтобы неделя засчиталась.",
-        "hy": "Քանի մարզման օր է պետք, որ շաբաթը հաշվվի։",
-        "sv": "Träningsdagar som krävs för att veckan ska räknas.",
-        "nb": "Treningsdager som kreves for at uken skal telle.",
-        "nl": "Trainingsdagen die nodig zijn om de week te laten tellen.",
-        "da": "Træningsdage der kræves, for at ugen tæller.",
-        "pl": "Ile dni treningowych potrzeba, aby tydzień się liczył.",
-        "fr": "Jours d'entraînement nécessaires pour que la semaine compte.",
-        "ar": "أيام التمرين اللازمة لاحتساب الأسبوع."
+        "en": "Training days needed for the week to count (2–7).",
+        "ru": "Сколько тренировочных дней нужно, чтобы неделя засчиталась (2–7).",
+        "hy": "Մարզման օրերի քանակը, որ շաբաթը հաշվվի (2–7)։",
+        "sv": "Training days needed for the week to count (2–7).",
+        "nb": "Training days needed for the week to count (2–7).",
+        "nl": "Training days needed for the week to count (2–7).",
+        "da": "Training days needed for the week to count (2–7).",
+        "pl": "Training days needed for the week to count (2–7).",
+        "fr": "Training days needed for the week to count (2–7).",
+        "ar": "Training days needed for the week to count (2–7)."
+      },
+      "streak.days.lockedFooter": {
+        "en": "Complete one week to change your days goal.",
+        "ru": "Заверши одну неделю, чтобы менять цель по дням.",
+        "hy": "Ավարտիր մեկ շաբաթ՝ օրերի նպատակը փոխելու համար։",
+        "sv": "Slutför en vecka för att ändra ditt dagsmål.",
+        "nb": "Fullfør én uke for å endre dagsmålet.",
+        "nl": "Rond één week af om je dagendoel te wijzigen.",
+        "da": "Fuldfør én uge for at ændre dit dagsmål.",
+        "pl": "Ukończ jeden tydzień, aby zmienić cel dni.",
+        "fr": "Terminez une semaine pour modifier votre objectif de jours.",
+        "ar": "أكمل أسبوعًا واحدًا لتغيير هدف الأيام."
       },
       "streak.days.title": {
         "en": "Days a week",
@@ -1409,16 +1421,28 @@
         "ar": "الأيام في الأسبوع"
       },
       "streak.deviceFooter": {
-        "en": "Saved on this device. Changing it recalculates your streak — no workouts are affected.",
-        "ru": "Сохраняется на этом устройстве. Изменение пересчитывает серию — тренировки не затрагиваются.",
-        "hy": "Պահվում է այս սարքում։ Փոփոխությունը վերահաշվարկում է սերիան — մարզումները չեն փոխվում։",
-        "sv": "Sparas på den här enheten. Ändringen räknar om din serie — inga pass påverkas.",
-        "nb": "Lagres på denne enheten. Endringen regner om rekken din — ingen økter påvirkes.",
-        "nl": "Opgeslagen op dit apparaat. Wijzigen herberekent je reeks — trainingen blijven ongemoeid.",
-        "da": "Gemmes på denne enhed. Ændringen genberegner din række — ingen træninger påvirkes.",
-        "pl": "Zapisywane na tym urządzeniu. Zmiana przelicza serię — treningi pozostają bez zmian.",
-        "fr": "Enregistré sur cet appareil. La modification recalcule votre série — aucune séance n'est affectée.",
-        "ar": "محفوظ على هذا الجهاز. التغيير يعيد حساب سلسلتك — ولا يؤثر على أي تمرين."
+        "en": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "ru": "Дни сохраняются на этом устройстве. Изменение пересчитывает серию — тренировки не затрагиваются.",
+        "hy": "Օրերը պահվում են այս սարքում։ Փոփոխությունը վերահաշվարկում է շարքը — մարզումները չեն ազդվում։",
+        "sv": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "nb": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "nl": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "da": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "pl": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "fr": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected.",
+        "ar": "Days are saved on this device. Changing them recalculates your streak — no workouts are affected."
+      },
+      "streak.exercises.fixedFooter": {
+        "en": "Fixed by the app — exercises a workout needs before that day counts.",
+        "ru": "Задаёт приложение — сколько упражнений нужно в тренировке, чтобы день засчитался.",
+        "hy": "Սահմանում է հավելվածը — քանի վարժություն է պետք մարզմանը, որ օրը հաշվվի։",
+        "sv": "Fastställs av appen — övningar ett pass behöver innan dagen räknas.",
+        "nb": "Bestemmes av appen — øvelser en økt trenger før dagen teller.",
+        "nl": "Vastgelegd door de app — oefeningen die een workout nodig heeft voordat die dag telt.",
+        "da": "Fastsat af appen — øvelser en træning skal have, før dagen tæller.",
+        "pl": "Ustawia aplikacja — ile ćwiczeń musi mieć trening, by dzień się liczył.",
+        "fr": "Fixé par l’app — exercices nécessaires dans une séance pour que le jour compte.",
+        "ar": "يحدده التطبيق — عدد التمارين اللازمة في التمرين ليُحسب اليوم."
       },
       "streak.exercises.footer": {
         "en": "Exercises a workout needs before that day counts.",
@@ -1445,16 +1469,16 @@
         "ar": "التمارين في اليوم"
       },
       "streak.footer": {
-        "en": "A week counts when you train enough days, and each of those days has a workout with enough exercises and enough sets.",
-        "ru": "Неделя засчитывается, если вы тренировались достаточно дней, и в каждый из этих дней было достаточно упражнений и подходов.",
-        "hy": "Շաբաթը հաշվվում է, երբ մարզվել եք բավարար օր, և այդ օրերից յուրաքանչյուրում եղել է բավարար վարժություն ու մոտեցում։",
-        "sv": "En vecka räknas när du tränat tillräckligt många dagar, och varje sådan dag har ett pass med tillräckligt många övningar och set.",
-        "nb": "En uke teller når du har trent nok dager, og hver av dem har en økt med nok øvelser og sett.",
-        "nl": "Een week telt als je genoeg dagen hebt getraind, en elk van die dagen een training heeft met genoeg oefeningen en sets.",
-        "da": "En uge tæller, når du har trænet nok dage, og hver af dem har en træning med nok øvelser og sæt.",
-        "pl": "Tydzień liczy się, gdy trenujesz wystarczająco dużo dni, a każdy z nich ma trening z wystarczającą liczbą ćwiczeń i serii.",
-        "fr": "Une semaine compte lorsque vous vous êtes entraîné assez de jours, et que chacun de ces jours comporte une séance avec assez d'exercices et de séries.",
-        "ar": "يُحتسب الأسبوع عندما تتمرن عددًا كافيًا من الأيام، ويتضمن كل يوم منها تمرينًا بعدد كافٍ من التمارين والمجموعات."
+        "en": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "ru": "Неделя засчитывается, когда ты тренируешься достаточно дней. Упражнения и подходы в день задаёт приложение.",
+        "hy": "Շաբաթը հաշվվում է, երբ բավարար օրեր ես մարզվում։ Օրական վարժություններն ու մոտեցումները սահմանում է հավելվածը։",
+        "sv": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "nb": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "nl": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "da": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "pl": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "fr": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
+        "ar": "A week counts when you train enough days. Exercises and sets per day are set by the app."
       },
       "streak.reset": {
         "en": "Reset to default",
@@ -1467,6 +1491,18 @@
         "pl": "Przywróć domyślne",
         "fr": "Rétablir les valeurs par défaut",
         "ar": "إعادة التعيين إلى الافتراضي"
+      },
+      "streak.sets.fixedFooter": {
+        "en": "Fixed by the app — sets an exercise needs before it counts. Two Sets to Failure sessions always count at two.",
+        "ru": "Задаёт приложение — сколько подходов нужно в упражнении. Сессии Two Sets to Failure всегда считаются за два.",
+        "hy": "Սահմանում է հավելվածը — քանի մոտեցում է պետք վարժությանը։ Two Sets to Failure մարզումները միշտ հաշվում են երկուսով։",
+        "sv": "Fastställs av appen — set en övning behöver innan den räknas. Two Sets to Failure räknas alltid som två.",
+        "nb": "Bestemmes av appen — sett en øvelse trenger før den teller. Two Sets to Failure teller alltid som to.",
+        "nl": "Vastgelegd door de app — sets die een oefening nodig heeft. Two Sets to Failure telt altijd als twee.",
+        "da": "Fastsat af appen — sæt en øvelse skal have. Two Sets to Failure tæller altid som to.",
+        "pl": "Ustawia aplikacja — ile serii musi mieć ćwiczenie. Sesje Two Sets to Failure zawsze liczą się jako dwie.",
+        "fr": "Fixé par l’app — séries nécessaires pour qu’un exercice compte. Les séances Two Sets to Failure comptent toujours pour deux.",
+        "ar": "يحدده التطبيق — عدد المجموعات اللازمة للتمرين. جلسات Two Sets to Failure تُحسب دائمًا باثنتين."
       },
       "streak.sets.footer": {
         "en": "Sets an exercise needs before it counts. Two Sets to Failure sessions always count at two.",
@@ -1588,6 +1624,42 @@
         "fr": "Callisthénie",
         "ar": "تمارين وزن الجسم"
       },
+      "training.crossfit.footer": {
+        "en": "Boost thrusters, gymnastics skills and mixed-modal work when picking exercises.",
+        "ru": "Повышает приоритет трастеров, гимнастики и смешанных движений при выборе упражнений.",
+        "hy": "Ընտրելիս առաջնահերթություն է տալիս թրաստերներին, մարմնամարզական հմտություններին և խառը աշխատանքին։",
+        "sv": "Prioriterar thrusters, gymnastikfärdigheter och blandad träning när du väljer övningar.",
+        "nb": "Prioriterer thrusters, gymnastikkferdigheter og blandet trening når du velger øvelser.",
+        "nl": "Geeft voorrang aan thrusters, gymnastiekskills en mixed-modal werk bij het kiezen van oefeningen.",
+        "da": "Prioriterer thrusters, gymnastikskills og mixed-modal træning, når du vælger øvelser.",
+        "pl": "Podbija thrusters, umiejętności gimnastyczne i pracę mixed-modal przy wyborze ćwiczeń.",
+        "fr": "Met en avant thrusters, compétences gymniques et travail mixed-modal lors du choix des exercices.",
+        "ar": "يعطي أولوية للثراسترز ومهارات الجمباز والعمل المختلط عند اختيار التمارين."
+      },
+      "training.crossfit.title": {
+        "en": "CrossFit",
+        "ru": "CrossFit",
+        "hy": "CrossFit",
+        "sv": "CrossFit",
+        "nb": "CrossFit",
+        "nl": "CrossFit",
+        "da": "CrossFit",
+        "pl": "CrossFit",
+        "fr": "CrossFit",
+        "ar": "كروس فت"
+      },
+      "training.footer": {
+        "en": "Nudges matching exercises higher in lists and suggestions. Never hides anything.",
+        "ru": "Поднимает подходящие упражнения выше в списках и подсказках. Ничего не скрывает.",
+        "hy": "Համապատասխան վարժությունները բարձրացնում է ցանկերում և առաջարկներում։ Ոչինչ չի թաքցնում։",
+        "sv": "Lyfter matchande övningar högre i listor och förslag. Döljer aldrig något.",
+        "nb": "Løfter matchende øvelser høyere i lister og forslag. Skjuler aldri noe.",
+        "nl": "Zet passende oefeningen hoger in lijsten en suggesties. Verbergt nooit iets.",
+        "da": "Løfter matchende øvelser højere i lister og forslag. Skjuler aldrig noget.",
+        "pl": "Podnosi pasujące ćwiczenia wyżej na listach i w sugestiach. Niczego nie ukrywa.",
+        "fr": "Remonte les exercices correspondants dans les listes et les suggestions. Ne masque jamais rien.",
+        "ar": "يرفع التمارين المطابقة أعلى في القوائم والاقتراحات. لا يخفي أي شيء أبدًا."
+      },
       "training.home.footer": {
         "en": "Boost resistance-band and bodyweight suggestions when picking exercises.",
         "ru": "Увеличьте рекомендации по использованию эспандеров и веса тела при выборе упражнений.",
@@ -1647,6 +1719,30 @@
         "pl": "Training preferences",
         "fr": "Training preferences",
         "ar": "Training preferences"
+      },
+      "training.yoga.footer": {
+        "en": "Boost stretches, holds and mobility work when picking exercises.",
+        "ru": "Повышает приоритет растяжки, удержаний и мобилити при выборе упражнений.",
+        "hy": "Ընտրելիս առաջնահերթություն է տալիս ձգումներին, պահումներին և շարժունությանը։",
+        "sv": "Prioriterar stretch, hållningar och rörlighet när du väljer övningar.",
+        "nb": "Prioriterer tøying, holdninger og mobilitet når du velger øvelser.",
+        "nl": "Geeft voorrang aan stretches, holds en mobiliteit bij het kiezen van oefeningen.",
+        "da": "Prioriterer stræk, holds og mobilitet, når du vælger øvelser.",
+        "pl": "Podbija rozciąganie, utrzymania i mobilność przy wyborze ćwiczeń.",
+        "fr": "Met en avant étirements, tenues et mobilité lors du choix des exercices.",
+        "ar": "يعطي أولوية للتمدد والثبات وتمارين المرونة عند اختيار التمارين."
+      },
+      "training.yoga.title": {
+        "en": "Yoga",
+        "ru": "Йога",
+        "hy": "Յոգա",
+        "sv": "Yoga",
+        "nb": "Yoga",
+        "nl": "Yoga",
+        "da": "Yoga",
+        "pl": "Joga",
+        "fr": "Yoga",
+        "ar": "يوجا"
       }
     },
     "Balanced": {
@@ -1709,6 +1805,30 @@
         "pl": "Kategoria",
         "fr": "Catégorie",
         "ar": "فئة"
+      },
+      "crossfitThisSession": {
+        "en": "CrossFit",
+        "ru": "CrossFit",
+        "hy": "CrossFit",
+        "sv": "CrossFit",
+        "nb": "CrossFit",
+        "nl": "CrossFit",
+        "da": "CrossFit",
+        "pl": "CrossFit",
+        "fr": "CrossFit",
+        "ar": "كروس فت"
+      },
+      "crossfitThisSession.footer": {
+        "en": "Boosts thrusters, gymnastics skills and mixed-modal work for these suggestions only. Does not change Account settings.",
+        "ru": "Усиливает трастеры, гимнастику и смешанные движения только для этих предложений. Не меняет настройки Аккаунта.",
+        "hy": "Բարձրացնում է թրաստերները, մարմնամարզական հմտությունները և խառը աշխատանքը միայն այս առաջարկների համար։ Չի փոխում Հաշվի կարգավորումները։",
+        "sv": "Prioriterar thrusters, gymnastikfärdigheter och blandad träning bara för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Prioriterer thrusters, gymnastikkferdigheter og blandet trening bare for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Geeft voorrang aan thrusters, gymnastiekskills en mixed-modal werk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Prioriterer thrusters, gymnastikskills og mixed-modal træning kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija thrusters, umiejętności gimnastyczne i pracę mixed-modal tylko dla tych sugestii. Nie zmienia ustawień Konta.",
+        "fr": "Met en avant thrusters, compétences gymniques et travail mixed-modal pour ces suggestions uniquement. Ne modifie pas les réglages du compte.",
+        "ar": "يعزز الثراسترز ومهارات الجمباز والعمل المختلط لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
       },
       "homeThisSession": {
         "en": "Home / minimal equipment",
@@ -2141,6 +2261,30 @@
         "pl": "Grupy niedostatecznie przeszkolone są wstępnie wybierane na podstawie Twojej aktywności. Zmieniaj swobodnie.",
         "fr": "Les groupes sous-formés sont présélectionnés parmi votre activité. Changez librement.",
         "ar": "يتم اختيار المجموعات غير المدربة مسبقًا من نشاطك. التغيير بحرية."
+      },
+      "yogaThisSession": {
+        "en": "Yoga",
+        "ru": "Йога",
+        "hy": "Յոգա",
+        "sv": "Yoga",
+        "nb": "Yoga",
+        "nl": "Yoga",
+        "da": "Yoga",
+        "pl": "Joga",
+        "fr": "Yoga",
+        "ar": "يوجا"
+      },
+      "yogaThisSession.footer": {
+        "en": "Boosts stretches and mobility for these suggestions only. Does not change Account settings.",
+        "ru": "Усиливает растяжку и мобилити только для этих предложений. Не меняет настройки Аккаунта.",
+        "hy": "Բարձրացնում է ձգումներն ու շարժունությունը միայն այս առաջարկների համար։ Չի փոխում Հաշվի կարգավորումները։",
+        "sv": "Prioriterar stretch och rörlighet bara för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Prioriterer tøying og mobilitet bare for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Geeft voorrang aan stretches en mobiliteit alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Prioriterer stræk og mobilitet kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija rozciąganie i mobilność tylko dla tych sugestii. Nie zmienia ustawień Konta.",
+        "fr": "Met en avant étirements et mobilité pour ces suggestions uniquement. Ne modifie pas les réglages du compte.",
+        "ar": "يعزز التمدد والمرونة لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
       }
     },
     "BandLevel": {
@@ -2970,6 +3114,18 @@
         "fr": "Escalade",
         "ar": "التسلق"
       },
+      "crossfit": {
+        "en": "CrossFit",
+        "ru": "CrossFit",
+        "hy": "CrossFit",
+        "sv": "CrossFit",
+        "nb": "CrossFit",
+        "nl": "CrossFit",
+        "da": "CrossFit",
+        "pl": "CrossFit",
+        "fr": "CrossFit",
+        "ar": "كروس فت"
+      },
       "cycling": {
         "en": "Cycling",
         "ru": "Велоспорт",
@@ -3185,6 +3341,18 @@
         "pl": "Zapasy",
         "fr": "Lutte",
         "ar": "المصارعة"
+      },
+      "yoga": {
+        "en": "Yoga",
+        "ru": "Йога",
+        "hy": "Յոգա",
+        "sv": "Yoga",
+        "nb": "Yoga",
+        "nl": "Yoga",
+        "da": "Yoga",
+        "pl": "Joga",
+        "fr": "Yoga",
+        "ar": "يوجا"
       }
     },
     "Distance": {
@@ -5392,6 +5560,30 @@
         "fr": "Développer les favoris",
         "ar": "قم بتوسيع المفضلة"
       },
+      "filter.all": {
+        "en": "All",
+        "ru": "Все",
+        "hy": "Բոլորը",
+        "sv": "Alla",
+        "nb": "Alle",
+        "nl": "Alle",
+        "da": "Alle",
+        "pl": "Wszystkie",
+        "fr": "Tous",
+        "ar": "الكل"
+      },
+      "filter.title": {
+        "en": "Filter",
+        "ru": "Фильтр",
+        "hy": "Զտիչ",
+        "sv": "Filter",
+        "nb": "Filter",
+        "nl": "Filter",
+        "da": "Filter",
+        "pl": "Filtr",
+        "fr": "Filtre",
+        "ar": "تصفية"
+      },
       "form.arms-skull-crusher.cue1": {
         "en": "Keep elbows fixed",
         "ru": "Держите локти неподвижными",
@@ -7005,16 +7197,16 @@
         "ar": "جرّبه"
       },
       "unlock.body": {
-        "en": "Three weeks in a row. Time for a harder session: two sets per exercise, each taken to failure.",
-        "ru": "Три недели подряд. Пора для более тяжёлой тренировки: два подхода на упражнение, каждый — до отказа.",
-        "hy": "Երեք շաբաթ անընդմեջ։ Ժամանակն է ավելի ծանր մարզման՝ երկու մոտեցում յուրաքանչյուր վարժության համար, յուրաքանչյուրը՝ մինչև ձախողում։",
-        "sv": "Tre veckor i rad. Dags för ett tuffare pass: två set per övning, vart och ett till utmattning.",
-        "nb": "Tre uker på rad. På tide med en tøffere økt: to sett per øvelse, hvert til utmattelse.",
-        "nl": "Drie weken op rij. Tijd voor een zwaardere sessie: twee sets per oefening, elk tot falen.",
-        "da": "Tre uger i træk. Tid til en hårdere træning: to sæt per øvelse, hvert til udmattelse.",
-        "pl": "Trzy tygodnie z rzędu. Czas na cięższy trening: dwie serie na ćwiczenie, każda do upadku.",
-        "fr": "Trois semaines d'affilée. Il est temps de passer à une séance plus dure : deux séries par exercice, chacune jusqu'à l'échec.",
-        "ar": "ثلاثة أسابيع متتالية. حان وقت جلسة أصعب: مجموعتان لكل تمرين، كل منهما حتى الفشل."
+        "en": "%d weeks in a row. Time for a harder session: two sets per exercise, each taken to failure.",
+        "ru": "%d недель подряд. Время для более жёсткой сессии: по два подхода на упражнение, каждый до отказа.",
+        "hy": "%d շաբաթ անընդմեջ։ Ժամանակն է ավելի դժվար մարզման՝ երկու մոտեցում յուրաքանչյուր վարժության համար՝ մինչև ձախողում։",
+        "sv": "%d veckor i rad. Dags för ett tuffare pass: två set per övning, varje till failure.",
+        "nb": "%d uker på rad. Tid for en hardere økt: to sett per øvelse, hvert til failure.",
+        "nl": "%d weken op rij. Tijd voor een zwaardere sessie: twee sets per oefening, elk tot failure.",
+        "da": "%d uger i træk. Tid til en hårdere session: to sæt pr. øvelse, hvert til failure.",
+        "pl": "%d tygodni z rzędu. Czas na trudniejszą sesję: dwa serie na ćwiczenie, każda do upadku.",
+        "fr": "%d semaines d’affilée. Place à une séance plus dure : deux séries par exercice, chacune jusqu’à l’échec.",
+        "ar": "%d أسابيع متتالية. حان وقت جلسة أصعب: مجموعتان لكل تمرين، كل منها حتى الفشل."
       },
       "unlock.later": {
         "en": "Later",
@@ -9429,6 +9621,18 @@
         "pl": "%@ serii/rok",
         "fr": "%@ séries/an",
         "ar": "%@ مجموعة/سنة"
+      },
+      "sportBalance": {
+        "en": "Sport balance",
+        "ru": "Баланс по видам спорта",
+        "hy": "Մարզաձևերի հաշվեկշիռ",
+        "sv": "Sportbalans",
+        "nb": "Sportbalanse",
+        "nl": "Sportbalans",
+        "da": "Sportbalance",
+        "pl": "Balans sportów",
+        "fr": "Équilibre sportif",
+        "ar": "توازن الرياضات"
       },
       "streak": {
         "en": "Streak",
@@ -14755,6 +14959,92 @@
         "ar": "%lld تمرين"
       }
     },
+    "Sport": {
+      "unlock.action": {
+        "en": "Got it",
+        "ru": "Понятно",
+        "hy": "Հասկացա",
+        "sv": "Jag förstår",
+        "nb": "Skjønner",
+        "nl": "Begrepen",
+        "da": "Forstået",
+        "pl": "Rozumiem",
+        "fr": "Compris",
+        "ar": "حسنًا"
+      },
+      "unlock.body": {
+        "en": "%d weeks in a row. Sport filters are unlocked — narrow by the sports you train for.",
+        "ru": "%d недель подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
+        "hy": "%d շաբաթ անընդմեջ։ Սպորտային ֆիլտրերը բաց են — նեղացրեք ըստ ձեր սպորտաձևերի։",
+        "sv": "%d veckor i rad. Sportfilter är upplåsta — begränsa efter sporterna du tränar för.",
+        "nb": "%d uker på rad. Sportfiltre er låst opp — snevre inn etter sportene du trener for.",
+        "nl": "%d weken op rij. Sportfilters zijn ontgrendeld — filter op de sporten waarvoor je traint.",
+        "da": "%d uger i træk. Sportfiltre er låst op — begræns efter sportene, du træner til.",
+        "pl": "%d tygodni z rzędu. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
+        "fr": "%d semaines d’affilée. Les filtres sport sont débloqués — affinez selon les sports pour lesquels vous vous entraînez.",
+        "ar": "%d أسابيع متتالية. فلاتر الرياضة مفتوحة — ضيّق حسب الرياضات التي تتدرب من أجلها."
+      },
+      "unlock.bodyOne": {
+        "en": "One week in a row. Sport filters are unlocked — narrow by the sports you train for.",
+        "ru": "Одна неделя подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
+        "hy": "Մեկ շաբաթ անընդմեջ։ Սպորտային ֆիլտրերը բաց են — նեղացրեք ըստ ձեր սպորտաձևերի։",
+        "sv": "En vecka i rad. Sportfilter är upplåsta — begränsa efter sporterna du tränar för.",
+        "nb": "Én uke på rad. Sportfiltre er låst opp — snevre inn etter sportene du trener for.",
+        "nl": "Eén week op rij. Sportfilters zijn ontgrendeld — filter op de sporten waarvoor je traint.",
+        "da": "Én uge i træk. Sportfiltre er låst op — begræns efter sportene, du træner til.",
+        "pl": "Jeden tydzień z rzędu. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
+        "fr": "Une semaine d’affilée. Les filtres sport sont débloqués — affinez selon les sports pour lesquels vous vous entraînez.",
+        "ar": "أسبوع واحد متتالٍ. فلاتر الرياضة مفتوحة — ضيّق حسب الرياضات التي تتدرب من أجلها."
+      },
+      "unlock.later": {
+        "en": "Later",
+        "ru": "Позже",
+        "hy": "Ավելի ուշ",
+        "sv": "Senare",
+        "nb": "Senere",
+        "nl": "Later",
+        "da": "Senere",
+        "pl": "Później",
+        "fr": "Plus tard",
+        "ar": "لاحقًا"
+      },
+      "unlock.lockedFooter": {
+        "en": "Available after completing %d weeks of your streak.",
+        "ru": "Доступно после %d недель вашей серии.",
+        "hy": "Հասանելի է ձեր շարքի %d շաբաթից հետո։",
+        "sv": "Tillgängligt efter %d veckor av din streak.",
+        "nb": "Tilgjengelig etter %d uker av streaken din.",
+        "nl": "Beschikbaar na %d weken van je reeks.",
+        "da": "Tilgængelig efter %d uger af din streak.",
+        "pl": "Dostępne po %d tygodniach Twojej serii.",
+        "fr": "Disponible après %d semaines de votre série.",
+        "ar": "متاح بعد %d أسابيع من سلسلتك."
+      },
+      "unlock.lockedFooterOne": {
+        "en": "Available after completing 1 week of your streak.",
+        "ru": "Доступно после 1 недели вашей серии.",
+        "hy": "Հասանելի է ձեր շարքի 1 շաբաթից հետո։",
+        "sv": "Tillgängligt efter 1 vecka av din streak.",
+        "nb": "Tilgjengelig etter 1 uke av streaken din.",
+        "nl": "Beschikbaar na 1 week van je reeks.",
+        "da": "Tilgængelig efter 1 uge af din streak.",
+        "pl": "Dostępne po 1 tygodniu Twojej serii.",
+        "fr": "Disponible après 1 semaine de votre série.",
+        "ar": "متاح بعد أسبوع واحد من سلسلتك."
+      },
+      "unlock.title": {
+        "en": "Sports unlocked",
+        "ru": "Виды спорта открыты",
+        "hy": "Սպորտը բացված է",
+        "sv": "Sporter upplåsta",
+        "nb": "Sporter låst opp",
+        "nl": "Sporten ontgrendeld",
+        "da": "Sports låst op",
+        "pl": "Sporty odblokowane",
+        "fr": "Sports débloqués",
+        "ar": "تم فتح الرياضات"
+      }
+    },
     "Streak": {
       "badge.gem": {
         "en": "Diamond",
@@ -16225,6 +16515,18 @@
         "pl": "Żadnych superserii dla tych mięśni",
         "fr": "Pas de surensembles pour ces muscles",
         "ar": "لا توجد مجموعات فرعية لهذه العضلات"
+      },
+      "filter.noMatch": {
+        "en": "No supersets match these filters",
+        "ru": "Нет суперсетов по этим фильтрам",
+        "hy": "Այս զտիչներին համապատասխան սուպերմոտեցումներ չկան",
+        "sv": "Inga superset matchar dessa filter",
+        "nb": "Ingen supersett samsvarer med disse filtrene",
+        "nl": "Geen supersets voldoen aan deze filters",
+        "da": "Ingen supersæt matcher disse filtre",
+        "pl": "Żadne superserie nie pasują do tych filtrów",
+        "fr": "Aucun surensemble ne correspond à ces filtres",
+        "ar": "لا توجد مجموعات فرعية تطابق عوامل التصفية هذه"
       },
       "filter.section.primary": {
         "en": "Primary targets",

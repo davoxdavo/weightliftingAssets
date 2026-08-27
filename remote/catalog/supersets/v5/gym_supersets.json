@@ -1,0 +1,1556 @@
+{
+  "version": 5,
+  "description": "Default superset presets for Gym Logbook (v5 authors the sport axis and adds dedicated 2–3 exercise sport supersets — every preset carries a reviewed `sports` list, empty where the pairing serves no one sport).",
+  "guidance": {
+    "restBetweenExercisesSeconds": [
+      0,
+      30
+    ],
+    "restAfterSupersetSeconds": [
+      60,
+      90
+    ],
+    "recommendedSets": [
+      3,
+      4
+    ],
+    "repRanges": {
+      "strength": [
+        4,
+        6
+      ],
+      "hypertrophy": [
+        8,
+        12
+      ],
+      "endurance": [
+        12,
+        20
+      ]
+    }
+  },
+  "supersets": [
+    {
+      "id": "superset-chest-back-machine",
+      "name": "Machine Chest Press + Seated Cable Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "rowing",
+        "swimming"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-machine-chest-press",
+        "back-seated-cable-row"
+      ]
+    },
+    {
+      "id": "superset-chest-back-dumbbell",
+      "name": "Dumbbell Bench Press + Chest-Supported Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "rowing",
+        "swimming",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-dumbbell-bench-press",
+        "back-chest-supported-row"
+      ]
+    },
+    {
+      "id": "superset-biceps-triceps",
+      "name": "Dumbbell Curl + Tricep Pushdown",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [],
+      "memberExerciseCatalogIds": [
+        "arms-dumbbell-curl",
+        "arms-tricep-pushdown"
+      ]
+    },
+    {
+      "id": "superset-quads-hamstrings",
+      "name": "Leg Extension + Seated Leg Curl",
+      "kind": "antagonist",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "cycling",
+        "skiing"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-extension",
+        "legs-seated-leg-curl"
+      ]
+    },
+    {
+      "id": "superset-bench-press-barbell-row",
+      "name": "Bench Press + Barbell Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "powerlifting",
+        "rowing",
+        "rugby",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-bench-press",
+        "back-barbell-row"
+      ]
+    },
+    {
+      "id": "superset-incline-dumbbell-press-pull-up",
+      "name": "Incline Dumbbell Press + Pull-Up",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "climbing",
+        "gymnastics",
+        "rowing",
+        "swimming",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-dumbbell-press",
+        "back-pull-up"
+      ]
+    },
+    {
+      "id": "superset-overhead-press-lat-pulldown",
+      "name": "Overhead Press + Lat Pulldown",
+      "kind": "push_pull",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "sports": [
+        "climbing",
+        "swimming",
+        "volleyball",
+        "weightlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-overhead-press",
+        "back-lat-pulldown"
+      ]
+    },
+    {
+      "id": "superset-push-up-seated-cable-row",
+      "name": "Push-Up + Seated Cable Row",
+      "kind": "push_pull",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "rowing",
+        "swimming",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-push-up",
+        "back-seated-cable-row"
+      ]
+    },
+    {
+      "id": "superset-back-squat-pull-up",
+      "name": "Back Squat + Pull-Up",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "back"
+      ],
+      "sports": [
+        "climbing",
+        "rowing",
+        "rugby",
+        "track_field",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "back-pull-up"
+      ]
+    },
+    {
+      "id": "superset-romanian-deadlift-dumbbell-bench-press",
+      "name": "Romanian Deadlift + Dumbbell Bench Press",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "chest"
+      ],
+      "sports": [
+        "powerlifting",
+        "rowing",
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-romanian-deadlift",
+        "chest-dumbbell-bench-press"
+      ]
+    },
+    {
+      "id": "superset-walking-lunge-seated-dumbbell-press",
+      "name": "Walking Lunge + Seated Dumbbell Press",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "shoulders"
+      ],
+      "sports": [
+        "basketball",
+        "hyrox",
+        "tennis",
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-walking-lunge",
+        "shoulders-seated-dumbbell-press"
+      ]
+    },
+    {
+      "id": "superset-leg-press-barbell-row",
+      "name": "Leg Press + Barbell Row",
+      "kind": "upper_lower",
+      "muscles": [
+        "legs",
+        "back"
+      ],
+      "sports": [
+        "cycling",
+        "powerlifting",
+        "rowing"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-press",
+        "back-barbell-row"
+      ]
+    },
+    {
+      "id": "superset-incline-bench-dumbbell-bench-press",
+      "name": "Incline Bench Press + Dumbbell Bench Press",
+      "kind": "agonist",
+      "muscles": [
+        "chest"
+      ],
+      "sports": [
+        "powerlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-bench-press",
+        "chest-dumbbell-bench-press"
+      ]
+    },
+    {
+      "id": "superset-pull-up-straight-arm-pulldown",
+      "name": "Pull-Up + Straight-Arm Pulldown",
+      "kind": "agonist",
+      "muscles": [
+        "back"
+      ],
+      "sports": [
+        "climbing",
+        "gymnastics",
+        "rowing",
+        "swimming"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-pull-up",
+        "back-straight-arm-pulldown"
+      ]
+    },
+    {
+      "id": "superset-back-squat-leg-extension",
+      "name": "Back Squat + Leg Extension",
+      "kind": "agonist",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "cycling",
+        "powerlifting",
+        "skiing",
+        "weightlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-leg-extension"
+      ]
+    },
+    {
+      "id": "superset-romanian-deadlift-seated-leg-curl",
+      "name": "Romanian Deadlift + Seated Leg Curl",
+      "kind": "agonist",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "football",
+        "rugby",
+        "soccer",
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-romanian-deadlift",
+        "legs-seated-leg-curl"
+      ]
+    },
+    {
+      "id": "superset-barbell-curl-tricep-pushdown",
+      "name": "Barbell Curl + Tricep Pushdown",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [],
+      "memberExerciseCatalogIds": [
+        "arms-barbell-curl",
+        "arms-tricep-pushdown"
+      ]
+    },
+    {
+      "id": "superset-dumbbell-fly-rear-delt-fly",
+      "name": "Dumbbell Fly + Rear Delt Fly",
+      "kind": "antagonist",
+      "muscles": [
+        "chest",
+        "shoulders"
+      ],
+      "sports": [
+        "baseball",
+        "swimming",
+        "tennis",
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-dumbbell-fly",
+        "shoulders-rear-delt-fly"
+      ]
+    },
+    {
+      "id": "superset-wrist-curl-reverse-wrist-curl",
+      "name": "Wrist Curl + Reverse Wrist Curl",
+      "kind": "antagonist",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [
+        "baseball",
+        "climbing",
+        "golf",
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-wrist-curl",
+        "arms-reverse-wrist-curl"
+      ]
+    },
+    {
+      "id": "superset-lateral-raise-face-pull",
+      "name": "Lateral Raise + Face Pull",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "sports": [
+        "baseball",
+        "boxing_mma",
+        "swimming",
+        "tennis",
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-lateral-raise",
+        "back-face-pull"
+      ]
+    },
+    {
+      "id": "superset-front-raise-reverse-pec-deck",
+      "name": "Front Raise + Reverse Pec Deck",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders"
+      ],
+      "sports": [
+        "swimming",
+        "tennis",
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-front-raise",
+        "shoulders-reverse-pec-deck"
+      ]
+    },
+    {
+      "id": "superset-arnold-press-upright-row",
+      "name": "Arnold Press + Upright Row",
+      "kind": "shoulder_focus",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "sports": [
+        "weightlifting",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-arnold-press",
+        "shoulders-upright-row"
+      ]
+    },
+    {
+      "id": "superset-ez-bar-curl-skull-crusher",
+      "name": "EZ-Bar Curl + Skull Crusher",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [
+        "powerlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-ez-bar-curl",
+        "arms-skull-crusher"
+      ]
+    },
+    {
+      "id": "superset-hammer-curl-overhead-tricep-extension",
+      "name": "Hammer Curl + Overhead Tricep Extension",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [
+        "climbing"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-hammer-curl",
+        "arms-overhead-tricep-extension"
+      ]
+    },
+    {
+      "id": "superset-cable-curl-rope-pushdown",
+      "name": "Cable Curl + Rope Pushdown",
+      "kind": "arms",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [],
+      "memberExerciseCatalogIds": [
+        "arms-cable-curl",
+        "arms-rope-pushdown"
+      ]
+    },
+    {
+      "id": "superset-hanging-leg-raise-plank",
+      "name": "Hanging Leg Raise + Plank",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "sports": [
+        "boxing_mma",
+        "climbing",
+        "gymnastics",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-hanging-leg-raise",
+        "core-plank"
+      ]
+    },
+    {
+      "id": "superset-cable-crunch-russian-twist",
+      "name": "Cable Crunch + Russian Twist",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "sports": [
+        "baseball",
+        "boxing_mma",
+        "golf",
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-cable-crunch",
+        "core-russian-twist"
+      ]
+    },
+    {
+      "id": "superset-ab-wheel-side-plank",
+      "name": "Ab Wheel + Side Plank",
+      "kind": "core_finisher",
+      "muscles": [
+        "core"
+      ],
+      "sports": [
+        "boxing_mma",
+        "climbing",
+        "golf",
+        "skiing",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-ab-wheel",
+        "core-side-plank"
+      ]
+    },
+    {
+      "id": "superset-chest-upper-mid-lower-triplet",
+      "name": "Incline Dumbbell Press + Dumbbell Bench Press + Decline Bench Press",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "chest"
+      ],
+      "sports": [],
+      "subgroups": [
+        "upper",
+        "mid",
+        "lower"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-dumbbell-press",
+        "chest-dumbbell-bench-press",
+        "chest-decline-bench-press"
+      ]
+    },
+    {
+      "id": "superset-back-lats-upper-traps-triplet",
+      "name": "Lat Pulldown + Seated Cable Row + Barbell Shrug",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "back"
+      ],
+      "sports": [
+        "rowing",
+        "swimming"
+      ],
+      "subgroups": [
+        "lats",
+        "upper_back",
+        "traps"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-lat-pulldown",
+        "back-seated-cable-row",
+        "back-barbell-shrug"
+      ]
+    },
+    {
+      "id": "superset-legs-quads-hamstrings-glutes-triplet",
+      "name": "Leg Extension + Seated Leg Curl + Hip Thrust",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "cycling",
+        "track_field"
+      ],
+      "subgroups": [
+        "quads",
+        "hamstrings",
+        "glutes"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-extension",
+        "legs-seated-leg-curl",
+        "legs-hip-thrust"
+      ]
+    },
+    {
+      "id": "superset-shoulders-front-side-rear-triplet",
+      "name": "Front Raise + Lateral Raise + Rear Delt Fly",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "shoulders"
+      ],
+      "sports": [
+        "swimming",
+        "tennis",
+        "volleyball"
+      ],
+      "subgroups": [
+        "front",
+        "side",
+        "rear"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-front-raise",
+        "shoulders-lateral-raise",
+        "shoulders-rear-delt-fly"
+      ]
+    },
+    {
+      "id": "superset-arms-biceps-triceps-forearms-triplet",
+      "name": "Barbell Curl + Tricep Pushdown + Wrist Curl",
+      "kind": "subgroup_triplet",
+      "muscles": [
+        "arms"
+      ],
+      "sports": [
+        "climbing",
+        "tennis"
+      ],
+      "subgroups": [
+        "biceps",
+        "triceps",
+        "forearms"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-barbell-curl",
+        "arms-tricep-pushdown",
+        "arms-wrist-curl"
+      ]
+    },
+    {
+      "id": "superset-activation-pull-apart-external-rotation",
+      "name": "Band Pull-Apart + Band External Rotation",
+      "kind": "activation",
+      "muscles": [
+        "shoulders",
+        "back"
+      ],
+      "sports": [
+        "baseball",
+        "swimming",
+        "tennis",
+        "volleyball",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-band-pull-apart",
+        "shoulders-band-external-rotation"
+      ]
+    },
+    {
+      "id": "superset-activation-face-pull-pallof",
+      "name": "Band Face Pull + Band Pallof Press",
+      "kind": "activation",
+      "muscles": [
+        "back",
+        "core",
+        "shoulders"
+      ],
+      "sports": [
+        "rugby",
+        "soccer",
+        "tennis",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-band-face-pull",
+        "core-band-pallof-press"
+      ]
+    },
+    {
+      "id": "superset-activation-lateral-walk-glute-bridge",
+      "name": "Band Lateral Walk + Band Glute Bridge",
+      "kind": "activation",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "basketball",
+        "football",
+        "rugby",
+        "soccer",
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-band-lateral-walk",
+        "legs-band-glute-bridge"
+      ]
+    },
+    {
+      "id": "superset-activation-good-morning-pull-through",
+      "name": "Band Good Morning + Band Pull-Through",
+      "kind": "activation",
+      "muscles": [
+        "legs",
+        "back"
+      ],
+      "sports": [
+        "football",
+        "rugby",
+        "track_field",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-band-good-morning",
+        "legs-band-pull-through"
+      ]
+    },
+    {
+      "id": "superset-activation-monster-walk-tke",
+      "name": "Band Monster Walk + Band TKE",
+      "kind": "activation",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "basketball",
+        "football",
+        "rugby",
+        "skiing",
+        "soccer"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-band-monster-walk",
+        "mobility-terminal-knee-extension"
+      ]
+    },
+    {
+      "id": "superset-activation-dead-bug-pallof",
+      "name": "Dead Bug + Band Pallof Press",
+      "kind": "activation",
+      "muscles": [
+        "core"
+      ],
+      "sports": [
+        "boxing_mma",
+        "golf",
+        "rowing",
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-dead-bug",
+        "core-band-pallof-press"
+      ]
+    },
+    {
+      "id": "superset-activation-scaption-90-90",
+      "name": "Band Scaption + Band 90/90 External Rotation",
+      "kind": "activation",
+      "muscles": [
+        "shoulders"
+      ],
+      "sports": [
+        "baseball",
+        "swimming",
+        "tennis",
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-band-scaption",
+        "shoulders-band-90-90-external-rotation"
+      ]
+    },
+    {
+      "id": "superset-activation-tennis-cuff",
+      "name": "Band 90/90 ER + Band Wrist Pronation",
+      "kind": "activation",
+      "muscles": [
+        "shoulders",
+        "arms"
+      ],
+      "sports": [
+        "baseball",
+        "golf",
+        "tennis",
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-band-90-90-external-rotation",
+        "arms-band-wrist-pronation"
+      ]
+    },
+    {
+      "id": "superset-activation-wrestling-drag",
+      "name": "Band Drag Row + Band Sprawl Hinge",
+      "kind": "activation",
+      "muscles": [
+        "back",
+        "legs"
+      ],
+      "sports": [
+        "rugby",
+        "strongman",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-band-drag-row",
+        "legs-band-sprawl-hinge"
+      ]
+    },
+    {
+      "id": "superset-activation-field-chop-walk",
+      "name": "Band Low-to-High Chop + Band Lateral Shuffle",
+      "kind": "activation",
+      "muscles": [
+        "core",
+        "legs"
+      ],
+      "sports": [
+        "baseball",
+        "football",
+        "rugby",
+        "soccer",
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-band-low-to-high-chop",
+        "cardio-band-lateral-shuffle"
+      ]
+    },
+    {
+      "id": "superset-activation-adductor-bridge-march",
+      "name": "Band Adductor Squeeze + Band Glute Bridge March",
+      "kind": "activation",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "football",
+        "rugby",
+        "skiing",
+        "soccer",
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-band-adductor-squeeze",
+        "legs-band-glute-bridge-march"
+      ]
+    },
+    {
+      "id": "superset-activation-high-elbow-row-face-pull",
+      "name": "Band High-Elbow Row + Band Face Pull",
+      "kind": "activation",
+      "muscles": [
+        "back",
+        "shoulders"
+      ],
+      "sports": [
+        "climbing",
+        "swimming",
+        "tennis",
+        "volleyball",
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-band-high-elbow-row",
+        "back-band-face-pull"
+      ]
+    },
+    {
+      "id": "superset-sport-baseball-rotation-wrist",
+      "name": "Landmine Rotation + Wrist Curl",
+      "kind": "sport",
+      "muscles": [
+        "core",
+        "arms"
+      ],
+      "sports": [
+        "baseball"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-landmine-rotation",
+        "arms-wrist-curl"
+      ]
+    },
+    {
+      "id": "superset-sport-baseball-cuff-chop-split",
+      "name": "Band 90/90 External Rotation + Band Low-to-High Chop + Bulgarian Split Squat",
+      "kind": "sport",
+      "muscles": [
+        "shoulders",
+        "core",
+        "legs"
+      ],
+      "sports": [
+        "baseball"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-band-90-90-external-rotation",
+        "core-band-low-to-high-chop",
+        "legs-bulgarian-split-squat"
+      ]
+    },
+    {
+      "id": "superset-sport-basketball-box-jump-slam",
+      "name": "Box Jump + Medicine Ball Slam",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "basketball"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-box-jump",
+        "core-medicine-ball-slam"
+      ]
+    },
+    {
+      "id": "superset-sport-basketball-squat-lunge-press",
+      "name": "Back Squat + Walking Lunge + Overhead Press",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "shoulders"
+      ],
+      "sports": [
+        "basketball"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-walking-lunge",
+        "shoulders-overhead-press"
+      ]
+    },
+    {
+      "id": "superset-sport-boxing-ropes-slam",
+      "name": "Battle Ropes + Medicine Ball Slam",
+      "kind": "sport",
+      "muscles": [
+        "cardio",
+        "core"
+      ],
+      "sports": [
+        "boxing_mma"
+      ],
+      "memberExerciseCatalogIds": [
+        "cardio-battle-ropes",
+        "core-medicine-ball-slam"
+      ]
+    },
+    {
+      "id": "superset-sport-boxing-neck-plank-shuffle",
+      "name": "Neck Harness Extension + Plank + Lateral Shuffle",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "core",
+        "cardio"
+      ],
+      "sports": [
+        "boxing_mma"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-neck-harness-extension",
+        "core-plank",
+        "cardio-lateral-shuffle"
+      ]
+    },
+    {
+      "id": "superset-sport-climbing-hang-pull",
+      "name": "Dead Hang + Pull-Up",
+      "kind": "sport",
+      "muscles": [
+        "back"
+      ],
+      "sports": [
+        "climbing"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-dead-hang",
+        "back-pull-up"
+      ]
+    },
+    {
+      "id": "superset-sport-climbing-pinch-row-lsit",
+      "name": "Plate Pinch + Inverted Row + L-Sit",
+      "kind": "sport",
+      "muscles": [
+        "arms",
+        "back",
+        "core"
+      ],
+      "sports": [
+        "climbing"
+      ],
+      "memberExerciseCatalogIds": [
+        "arms-plate-pinch",
+        "back-inverted-row",
+        "core-l-sit"
+      ]
+    },
+    {
+      "id": "superset-sport-cycling-squat-rdl",
+      "name": "Back Squat + Romanian Deadlift",
+      "kind": "sport",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "cycling"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-romanian-deadlift"
+      ]
+    },
+    {
+      "id": "superset-sport-cycling-extension-calf-pallof",
+      "name": "Leg Extension + Standing Calf Raise + Pallof Press",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "cycling"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-leg-extension",
+        "legs-standing-calf-raise",
+        "core-pallof-press"
+      ]
+    },
+    {
+      "id": "superset-sport-football-clean-prowler",
+      "name": "Power Clean + Prowler Push",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "cardio"
+      ],
+      "sports": [
+        "football"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-power-clean",
+        "cardio-prowler-push"
+      ]
+    },
+    {
+      "id": "superset-sport-football-squat-nordic-shuttle",
+      "name": "Back Squat + Nordic Curl + 5-10-5 Pro Agility Shuttle",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "cardio"
+      ],
+      "sports": [
+        "football"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-nordic-curl",
+        "cardio-pro-agility-shuttle"
+      ]
+    },
+    {
+      "id": "superset-sport-golf-woodchop-wrist",
+      "name": "Cable Woodchop + Wrist Curl",
+      "kind": "sport",
+      "muscles": [
+        "core",
+        "arms"
+      ],
+      "sports": [
+        "golf"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-woodchop",
+        "arms-wrist-curl"
+      ]
+    },
+    {
+      "id": "superset-sport-golf-pallof-rdl-er",
+      "name": "Band Pallof Press + Romanian Deadlift + Band External Rotation",
+      "kind": "sport",
+      "muscles": [
+        "core",
+        "legs",
+        "shoulders"
+      ],
+      "sports": [
+        "golf"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-band-pallof-press",
+        "legs-romanian-deadlift",
+        "shoulders-band-external-rotation"
+      ]
+    },
+    {
+      "id": "superset-sport-gymnastics-muscle-up-hollow",
+      "name": "Muscle-Up + Hollow Hold",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "core"
+      ],
+      "sports": [
+        "gymnastics"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-muscle-up",
+        "core-hollow-hold"
+      ]
+    },
+    {
+      "id": "superset-sport-gymnastics-handstand-lsit-lever",
+      "name": "Handstand + L-Sit + Tuck Front Lever",
+      "kind": "sport",
+      "muscles": [
+        "shoulders",
+        "core",
+        "back"
+      ],
+      "sports": [
+        "gymnastics"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-handstand",
+        "core-l-sit",
+        "back-tuck-front-lever"
+      ]
+    },
+    {
+      "id": "superset-sport-hyrox-sled-farmer",
+      "name": "Sled Push + Farmer Carry",
+      "kind": "sport",
+      "muscles": [
+        "cardio"
+      ],
+      "sports": [
+        "hyrox"
+      ],
+      "memberExerciseCatalogIds": [
+        "cardio-sled-push-distance",
+        "cardio-farmer-walk"
+      ]
+    },
+    {
+      "id": "superset-sport-hyrox-wallball-burpee-ski",
+      "name": "Wall Ball + Burpee + SkiErg",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "cardio"
+      ],
+      "sports": [
+        "hyrox"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-wall-ball",
+        "cardio-burpee",
+        "cardio-ski-erg"
+      ]
+    },
+    {
+      "id": "superset-sport-powerlifting-incline-pendlay",
+      "name": "Incline Bench Press + Pendlay Row",
+      "kind": "sport",
+      "muscles": [
+        "chest",
+        "back"
+      ],
+      "sports": [
+        "powerlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "chest-incline-bench-press",
+        "back-pendlay-row"
+      ]
+    },
+    {
+      "id": "superset-sport-powerlifting-squat-rdl-plank",
+      "name": "Back Squat + Romanian Deadlift + Weighted Plank",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "powerlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-romanian-deadlift",
+        "core-weighted-plank"
+      ]
+    },
+    {
+      "id": "superset-sport-rowing-deadlift-cable-row",
+      "name": "Deadlift + Seated Cable Row",
+      "kind": "sport",
+      "muscles": [
+        "back"
+      ],
+      "sports": [
+        "rowing"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-deadlift",
+        "back-seated-cable-row"
+      ]
+    },
+    {
+      "id": "superset-sport-rowing-pullup-rdl-pallof",
+      "name": "Pull-Up + Romanian Deadlift + Pallof Press",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "rowing"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-pull-up",
+        "legs-romanian-deadlift",
+        "core-pallof-press"
+      ]
+    },
+    {
+      "id": "superset-sport-rugby-trapbar-prowler",
+      "name": "Trap Bar Deadlift + Prowler Push",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "cardio"
+      ],
+      "sports": [
+        "rugby"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-trap-bar-deadlift",
+        "cardio-prowler-push"
+      ]
+    },
+    {
+      "id": "superset-sport-rugby-frontsquat-nordic-slam",
+      "name": "Front Squat + Nordic Curl + Medicine Ball Slam",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "rugby"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-front-squat",
+        "legs-nordic-curl",
+        "core-medicine-ball-slam"
+      ]
+    },
+    {
+      "id": "superset-sport-skiing-skater-cossack",
+      "name": "Skater Bound + Cossack Squat",
+      "kind": "sport",
+      "muscles": [
+        "cardio",
+        "legs"
+      ],
+      "sports": [
+        "skiing"
+      ],
+      "memberExerciseCatalogIds": [
+        "cardio-skater-bound",
+        "legs-cossack-squat"
+      ]
+    },
+    {
+      "id": "superset-sport-skiing-squat-nordic-sideplank",
+      "name": "Back Squat + Nordic Curl + Side Plank",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "skiing"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "legs-nordic-curl",
+        "core-side-plank"
+      ]
+    },
+    {
+      "id": "superset-sport-soccer-copenhagen-nordic",
+      "name": "Copenhagen Plank + Nordic Curl",
+      "kind": "sport",
+      "muscles": [
+        "core",
+        "legs"
+      ],
+      "sports": [
+        "soccer"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-copenhagen-plank",
+        "legs-nordic-curl"
+      ]
+    },
+    {
+      "id": "superset-sport-soccer-lateral-chop-shuttle",
+      "name": "Band Lateral Walk + Band Low-to-High Chop + 5-10-5 Pro Agility Shuttle",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core",
+        "cardio"
+      ],
+      "sports": [
+        "soccer"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-band-lateral-walk",
+        "core-band-low-to-high-chop",
+        "cardio-pro-agility-shuttle"
+      ]
+    },
+    {
+      "id": "superset-sport-strongman-atlas-yoke",
+      "name": "Atlas Stone Lift + Yoke Walk",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "legs"
+      ],
+      "sports": [
+        "strongman"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-atlas-stone-lift",
+        "legs-yoke-walk"
+      ]
+    },
+    {
+      "id": "superset-sport-strongman-log-farmer-tire",
+      "name": "Log Press + Farmer Carry + Tire Flip",
+      "kind": "sport",
+      "muscles": [
+        "shoulders",
+        "cardio",
+        "legs"
+      ],
+      "sports": [
+        "strongman"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-log-press",
+        "cardio-farmer-walk",
+        "legs-tire-flip"
+      ]
+    },
+    {
+      "id": "superset-sport-swimming-pulldown-fly",
+      "name": "Lat Pulldown + Cable Fly",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "chest"
+      ],
+      "sports": [
+        "swimming"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-lat-pulldown",
+        "chest-cable-fly"
+      ]
+    },
+    {
+      "id": "superset-sport-swimming-pullup-er-hollow",
+      "name": "Pull-Up + Band External Rotation + Hollow Hold",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "shoulders",
+        "core"
+      ],
+      "sports": [
+        "swimming"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-pull-up",
+        "shoulders-band-external-rotation",
+        "core-hollow-hold"
+      ]
+    },
+    {
+      "id": "superset-sport-tennis-chop-wrist",
+      "name": "Band Low-to-High Chop + Band Wrist Pronation",
+      "kind": "sport",
+      "muscles": [
+        "core",
+        "arms"
+      ],
+      "sports": [
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "core-band-low-to-high-chop",
+        "arms-band-wrist-pronation"
+      ]
+    },
+    {
+      "id": "superset-sport-tennis-cuff-lunge-shuffle",
+      "name": "Band 90/90 External Rotation + Lateral Lunge + Band Lateral Shuffle",
+      "kind": "sport",
+      "muscles": [
+        "shoulders",
+        "legs",
+        "cardio"
+      ],
+      "sports": [
+        "tennis"
+      ],
+      "memberExerciseCatalogIds": [
+        "shoulders-band-90-90-external-rotation",
+        "legs-lateral-lunge",
+        "cardio-band-lateral-shuffle"
+      ]
+    },
+    {
+      "id": "superset-sport-track-power-clean-hurdle",
+      "name": "Power Clean + Hurdle Hop",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "cardio"
+      ],
+      "sports": [
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-power-clean",
+        "cardio-hurdle-hop"
+      ]
+    },
+    {
+      "id": "superset-sport-track-frontsquat-boxjump-pallof",
+      "name": "Front Squat + Box Jump + Pallof Press",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "core"
+      ],
+      "sports": [
+        "track_field"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-front-squat",
+        "legs-box-jump",
+        "core-pallof-press"
+      ]
+    },
+    {
+      "id": "superset-sport-volleyball-boxjump-press",
+      "name": "Box Jump + Overhead Press",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "shoulders"
+      ],
+      "sports": [
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-box-jump",
+        "shoulders-overhead-press"
+      ]
+    },
+    {
+      "id": "superset-sport-volleyball-squat-hop-facepull",
+      "name": "Back Squat + Hurdle Hop + Face Pull",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "cardio",
+        "back"
+      ],
+      "sports": [
+        "volleyball"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-back-squat",
+        "cardio-hurdle-hop",
+        "back-face-pull"
+      ]
+    },
+    {
+      "id": "superset-sport-weightlifting-clean-frontsquat",
+      "name": "Power Clean + Front Squat",
+      "kind": "sport",
+      "muscles": [
+        "legs"
+      ],
+      "sports": [
+        "weightlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-power-clean",
+        "legs-front-squat"
+      ]
+    },
+    {
+      "id": "superset-sport-weightlifting-snatch-ohp-hollow",
+      "name": "Power Snatch + Overhead Press + Hollow Hold",
+      "kind": "sport",
+      "muscles": [
+        "legs",
+        "shoulders",
+        "core"
+      ],
+      "sports": [
+        "weightlifting"
+      ],
+      "memberExerciseCatalogIds": [
+        "legs-power-snatch",
+        "shoulders-overhead-press",
+        "core-hollow-hold"
+      ]
+    },
+    {
+      "id": "superset-sport-wrestling-sprawl-row-bridge",
+      "name": "Band Sprawl to Row + Wrestler Bridge",
+      "kind": "sport",
+      "muscles": [
+        "back"
+      ],
+      "sports": [
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-band-sprawl-row",
+        "back-wrestler-bridge"
+      ]
+    },
+    {
+      "id": "superset-sport-wrestling-pullup-neck-carry",
+      "name": "Pull-Up + Neck Harness Extension + Farmer Carry",
+      "kind": "sport",
+      "muscles": [
+        "back",
+        "cardio"
+      ],
+      "sports": [
+        "wrestling"
+      ],
+      "memberExerciseCatalogIds": [
+        "back-pull-up",
+        "back-neck-harness-extension",
+        "cardio-farmer-walk"
+      ]
+    }
+  ]
+}

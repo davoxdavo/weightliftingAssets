@@ -99,8 +99,8 @@
       "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v26/gym_exercises.json"
     },
     "supersets": {
-      "version": 4,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/supersets/v4/gym_supersets.json"
+      "version": 5,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/supersets/v5/gym_supersets.json"
     },
     "localizations": {
       "en": {
@@ -205,8 +205,8 @@
       }
     },
     "templates": {
-      "version": 11,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v11/gym_templates.json"
+      "version": 12,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v12/gym_templates.json"
     },
     "exerciseSearchAliases": {
       "version": 6,
@@ -214,7 +214,7 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1787835380,
+    "lastSyncedAt": 1787848390,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json"
   },
   "exerciseImages": {
@@ -229,5 +229,18 @@
     "termsURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/terms.html",
     "privacyURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/privacy.html",
     "supportURL": "https://davoxdavo.github.io/weightliftingAssets/remote/legal/support.html"
+  },
+  "streakGoal": {
+    "minDays": 3,
+    "minExercises": 3,
+    "minSets": 3
+  },
+  "sportsUnlock": {
+    "isEnabled": true,
+    "requiredStreakWeeks": 1
+  },
+  "twoSetsToFailureUnlock": {
+    "isEnabled": true,
+    "requiredStreakWeeks": 3
   }
 }
