@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787851687,
+  "lastSyncedAt": 1787858847,
   "strings": {
     "Misc": {
       "": {
@@ -1384,6 +1384,18 @@
         "fr": "Compte associé sur cet appareil",
         "ar": "تم ربط الحساب على هذا الجهاز"
       },
+      "streak.boardNote": {
+        "en": "You'll also move to the %lld-day leaderboard. Your best on each board is kept.",
+        "ru": "Вы также перейдёте в таблицу лидеров на %lld дней. Ваш лучший результат в каждой таблице сохраняется.",
+        "hy": "Դուք նաև կտեղափոխվեք %lld-օրյա առաջատարների աղյուսակ։ Ձեր լավագույն արդյունքը յուրաքանչյուր աղյուսակում պահպանվում է։",
+        "sv": "Du flyttas också till topplistan för %lld dagar. Ditt bästa på varje lista sparas.",
+        "nb": "Du flyttes også til ledertavlen for %lld dager. Ditt beste på hver tavle beholdes.",
+        "nl": "Je gaat ook naar het klassement van %lld dagen. Je beste resultaat op elk klassement blijft bewaard.",
+        "da": "Du flyttes også til ranglisten for %lld dage. Dit bedste på hver rangliste bevares.",
+        "pl": "Przejdziesz też do rankingu %lld dni. Twój najlepszy wynik w każdym rankingu zostaje zachowany.",
+        "fr": "Vous passerez aussi au classement %lld jours. Votre meilleur score sur chaque classement est conservé.",
+        "ar": "ستنتقل أيضًا إلى لوحة صدارة %lld أيام. يُحتفظ بأفضل نتيجة لك في كل لوحة."
+      },
       "streak.days.footer": {
         "en": "Training days needed for the week to count (2–7).",
         "ru": "Сколько тренировочных дней нужно, чтобы неделя засчиталась (2–7).",
@@ -1479,6 +1491,78 @@
         "pl": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
         "fr": "A week counts when you train enough days. Exercises and sets per day are set by the app.",
         "ar": "A week counts when you train enough days. Exercises and sets per day are set by the app."
+      },
+      "streak.lower.confirm": {
+        "en": "Lower goal",
+        "ru": "Понизить цель",
+        "hy": "Իջեցնել նպատակը",
+        "sv": "Sänk målet",
+        "nb": "Senk målet",
+        "nl": "Doel verlagen",
+        "da": "Sænk målet",
+        "pl": "Zmniejsz cel",
+        "fr": "Réduire l'objectif",
+        "ar": "خفض الهدف"
+      },
+      "streak.lower.message": {
+        "en": "Your streak is recalculated against the new goal, so weeks that fell short before can count now and your streak may grow. Raise the goal again later and it drops back.",
+        "ru": "Серия пересчитывается по новой цели, поэтому недели, которые раньше не засчитывались, теперь могут пойти в зачёт, и серия может вырасти. Если позже снова повысите цель, серия опять снизится.",
+        "hy": "Շարքը վերահաշվարկվում է նոր նպատակի հիման վրա, ուստի նախկինում չհաշվված շաբաթներն այժմ կարող են հաշվվել, և շարքը կարող է աճել։ Եթե ավելի ուշ նորից բարձրացնեք նպատակը, շարքը կրկին կնվազի։",
+        "sv": "Din svit räknas om mot det nya målet, så veckor som tidigare inte räckte till kan räknas nu och sviten kan växa. Höjer du målet igen senare faller den tillbaka.",
+        "nb": "Rekken beregnes på nytt mot det nye målet, så uker som tidligere kom til kort kan telle nå, og rekken kan vokse. Øker du målet igjen senere, faller den tilbake.",
+        "nl": "Je reeks wordt opnieuw berekend met het nieuwe doel, dus weken die eerder tekortschoten kunnen nu meetellen en je reeks kan groeien. Verhoog je het doel later weer, dan daalt hij terug.",
+        "da": "Din stime beregnes om efter det nye mål, så uger der tidligere ikke slog til kan tælle nu, og stimen kan vokse. Hæver du målet igen senere, falder den tilbage.",
+        "pl": "Twoja seria zostanie przeliczona według nowego celu, więc tygodnie, które wcześniej nie wystarczały, mogą się teraz liczyć i seria może urosnąć. Jeśli później znów zwiększysz cel, seria ponownie spadnie.",
+        "fr": "Votre série est recalculée avec le nouvel objectif : des semaines qui ne suffisaient pas peuvent compter maintenant et votre série peut augmenter. Si vous remontez l'objectif plus tard, elle rebaisse.",
+        "ar": "تُحتسب سلسلتك من جديد وفق الهدف الجديد، لذا قد تُحتسب الآن أسابيع لم تكن كافية من قبل وقد تزداد سلسلتك. وإذا رفعت الهدف لاحقًا فستنخفض من جديد."
+      },
+      "streak.lower.title": {
+        "en": "Lower to %lld days a week?",
+        "ru": "Понизить до %lld дней в неделю?",
+        "hy": "Իջեցնե՞լ մինչև շաբաթական %lld օր",
+        "sv": "Sänk till %lld dagar i veckan?",
+        "nb": "Senke til %lld dager i uken?",
+        "nl": "Verlagen naar %lld dagen per week?",
+        "da": "Sænk til %lld dage om ugen?",
+        "pl": "Zmniejszyć do %lld dni w tygodniu?",
+        "fr": "Réduire à %lld jours par semaine ?",
+        "ar": "الخفض إلى %lld أيام في الأسبوع؟"
+      },
+      "streak.raise.confirm": {
+        "en": "Raise goal",
+        "ru": "Повысить цель",
+        "hy": "Բարձրացնել նպատակը",
+        "sv": "Höj målet",
+        "nb": "Øk målet",
+        "nl": "Doel verhogen",
+        "da": "Hæv målet",
+        "pl": "Zwiększ cel",
+        "fr": "Augmenter l'objectif",
+        "ar": "رفع الهدف"
+      },
+      "streak.raise.message": {
+        "en": "Your streak is recalculated against the new goal. Weeks with fewer than %lld training days stop counting, so your streak drops — usually to zero. Nothing is deleted: set the goal back and it returns.",
+        "ru": "Серия пересчитывается по новой цели. Недели, где было меньше %lld тренировочных дней, перестают засчитываться, поэтому серия снизится — обычно до нуля. Ничего не удаляется: верните цель обратно, и серия восстановится.",
+        "hy": "Շարքը վերահաշվարկվում է նոր նպատակի հիման վրա։ %lld մարզման օրից քիչ ունեցող շաբաթներն այլևս չեն հաշվվում, ուստի շարքը կնվազի՝ սովորաբար մինչև զրո։ Ոչինչ չի ջնջվում. վերադարձրեք նպատակը, և շարքը կվերականգնվի։",
+        "sv": "Din svit räknas om mot det nya målet. Veckor med färre än %lld träningsdagar räknas inte längre, så sviten sjunker – oftast till noll. Inget raderas: ställ tillbaka målet så kommer den igen.",
+        "nb": "Rekken beregnes på nytt mot det nye målet. Uker med færre enn %lld treningsdager teller ikke lenger, så rekken faller – som regel til null. Ingenting slettes: sett målet tilbake, så kommer den igjen.",
+        "nl": "Je reeks wordt opnieuw berekend met het nieuwe doel. Weken met minder dan %lld trainingsdagen tellen niet meer mee, dus je reeks daalt — meestal naar nul. Er wordt niets verwijderd: zet het doel terug en de reeks komt weer.",
+        "da": "Din stime beregnes om efter det nye mål. Uger med færre end %lld træningsdage tæller ikke længere, så stimen falder – som regel til nul. Intet slettes: sæt målet tilbage, så kommer den igen.",
+        "pl": "Twoja seria zostanie przeliczona według nowego celu. Tygodnie z mniej niż %lld dniami treningu przestaną się liczyć, więc seria spadnie — zwykle do zera. Nic nie zostanie usunięte: przywróć cel, a seria wróci.",
+        "fr": "Votre série est recalculée avec le nouvel objectif. Les semaines avec moins de %lld jours d'entraînement ne comptent plus, donc votre série baisse — souvent jusqu'à zéro. Rien n'est supprimé : remettez l'objectif et elle revient.",
+        "ar": "تُحتسب سلسلتك من جديد وفق الهدف الجديد. الأسابيع التي تقل عن %lld أيام تدريب لم تعد تُحتسب، لذا ستنخفض سلسلتك — عادةً إلى الصفر. لا يُحذف أي شيء: أعد الهدف كما كان وتعود السلسلة."
+      },
+      "streak.raise.title": {
+        "en": "Raise to %lld days a week?",
+        "ru": "Повысить до %lld дней в неделю?",
+        "hy": "Բարձրացնե՞լ մինչև շաբաթական %lld օր",
+        "sv": "Höj till %lld dagar i veckan?",
+        "nb": "Øke til %lld dager i uken?",
+        "nl": "Verhogen naar %lld dagen per week?",
+        "da": "Hæv til %lld dage om ugen?",
+        "pl": "Zwiększyć do %lld dni w tygodniu?",
+        "fr": "Augmenter à %lld jours par semaine ?",
+        "ar": "الرفع إلى %lld أيام في الأسبوع؟"
       },
       "streak.reset": {
         "en": "Reset to default",
@@ -1719,6 +1803,30 @@
         "pl": "Training preferences",
         "fr": "Training preferences",
         "ar": "Training preferences"
+      },
+      "training.stability.footer": {
+        "en": "Boost anti-rotation, single-leg and balance work when picking exercises.",
+        "ru": "Повышает приоритет антиротации, одноногих и балансовых движений при выборе упражнений.",
+        "hy": "Ընտրելիս առաջնահերթություն է տալիս հակապտույտին, միոտնային և հավասարակշռության աշխատանքին։",
+        "sv": "Prioriterar antirotation, enbens- och balansträning när du väljer övningar.",
+        "nb": "Prioriterer antirotasjon, ettbens- og balansetrening når du velger øvelser.",
+        "nl": "Geeft voorrang aan anti-rotatie, éénbeen- en balanstraining bij het kiezen van oefeningen.",
+        "da": "Prioriterer antirotation, etbens- og balancetræning, når du vælger øvelser.",
+        "pl": "Podbija antyrotację, pracę jednonóżną i równowagę przy wyborze ćwiczeń.",
+        "fr": "Met en avant anti-rotation, travail unilatéral et équilibre lors du choix des exercices.",
+        "ar": "يعطي أولوية لمقاومة الدوران والعمل على ساق واحدة والتوازن عند اختيار التمارين."
+      },
+      "training.stability.title": {
+        "en": "Stability",
+        "ru": "Стабильность",
+        "hy": "Կայունություն",
+        "sv": "Stabilitet",
+        "nb": "Stabilitet",
+        "nl": "Stabiliteit",
+        "da": "Stabilitet",
+        "pl": "Stabilność",
+        "fr": "Stabilité",
+        "ar": "ثبات"
       },
       "training.yoga.footer": {
         "en": "Boost stretches, holds and mobility work when picking exercises.",
@@ -2093,6 +2201,30 @@
         "pl": "Opcjonalnie. Sugestie ograniczają się do ćwiczeń wybranych sportów.",
         "fr": "Facultatif. Les suggestions se limitent aux mouvements des sports choisis.",
         "ar": "اختياري. تقتصر الاقتراحات على تمارين الرياضات التي تختارها."
+      },
+      "stabilityThisSession": {
+        "en": "Stability",
+        "ru": "Стабильность",
+        "hy": "Կայունություն",
+        "sv": "Stabilitet",
+        "nb": "Stabilitet",
+        "nl": "Stabiliteit",
+        "da": "Stabilitet",
+        "pl": "Stabilność",
+        "fr": "Stabilité",
+        "ar": "ثبات"
+      },
+      "stabilityThisSession.footer": {
+        "en": "Boosts anti-rotation and single-leg work for these suggestions only. Does not change Account settings.",
+        "ru": "Усиливает антиротацию и одноногие движения только для этих предложений. Не меняет настройки Аккаунта.",
+        "hy": "Բարձրացնում է հակապտույտն ու միոտնային աշխատանքը միայն այս առաջարկների համար։ Չի փոխում Հաշվի կարգավորումները։",
+        "sv": "Prioriterar antirotation och enbensarbete bara för dessa förslag. Ändrar inte kontoinställningar.",
+        "nb": "Prioriterer antirotasjon og ettbensarbeid bare for disse forslagene. Endrer ikke kontoinnstillinger.",
+        "nl": "Geeft voorrang aan anti-rotatie en éénbeenwerk alleen voor deze suggesties. Wijzigt Account-instellingen niet.",
+        "da": "Prioriterer antirotation og etbensarbejde kun for disse forslag. Ændrer ikke kontoindstillinger.",
+        "pl": "Podbija antyrotację i pracę jednonóżną tylko dla tych sugestii. Nie zmienia ustawień Konta.",
+        "fr": "Met en avant anti-rotation et travail unilatéral pour ces suggestions uniquement. Ne modifie pas les réglages du compte.",
+        "ar": "يعزز مقاومة الدوران والعمل على ساق واحدة لهذه الاقتراحات فقط. لا يغيّر إعدادات الحساب."
       },
       "start": {
         "en": "Start Balanced Workout",
@@ -3257,6 +3389,18 @@
         "pl": "Piłka nożna",
         "fr": "Football",
         "ar": "كرة القدم"
+      },
+      "stability": {
+        "en": "Stability",
+        "ru": "Стабильность",
+        "hy": "Կայունություն",
+        "sv": "Stabilitet",
+        "nb": "Stabilitet",
+        "nl": "Stabiliteit",
+        "da": "Stabilitet",
+        "pl": "Stabilność",
+        "fr": "Stabilité",
+        "ar": "ثبات"
       },
       "strongman": {
         "en": "Strongman",
