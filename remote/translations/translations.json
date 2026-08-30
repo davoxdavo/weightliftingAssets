@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1787858847,
+  "lastSyncedAt": 1788092820,
   "strings": {
     "Misc": {
       "": {
@@ -2357,6 +2357,18 @@
         "pl": "Żadnych więcej sugestii",
         "fr": "Plus aucune suggestion",
         "ar": "لا مزيد من الاقتراحات"
+      },
+      "suggestions.shuffle": {
+        "en": "Shuffle",
+        "ru": "Shuffle",
+        "hy": "Shuffle",
+        "sv": "Shuffle",
+        "nb": "Shuffle",
+        "nl": "Shuffle",
+        "da": "Shuffle",
+        "pl": "Shuffle",
+        "fr": "Shuffle",
+        "ar": "Shuffle"
       },
       "title": {
         "en": "Balanced",
@@ -14900,6 +14912,18 @@
         "fr": "%1$@ — %2$@",
         "ar": "%1$@ — %2$@"
       },
+      "empty.exercise": {
+        "en": "This exercise has no completed sets.",
+        "ru": "This exercise has no completed sets.",
+        "hy": "This exercise has no completed sets.",
+        "sv": "This exercise has no completed sets.",
+        "nb": "This exercise has no completed sets.",
+        "nl": "This exercise has no completed sets.",
+        "da": "This exercise has no completed sets.",
+        "pl": "This exercise has no completed sets.",
+        "fr": "This exercise has no completed sets.",
+        "ar": "This exercise has no completed sets."
+      },
       "empty.month": {
         "en": "No workouts logged this month.",
         "ru": "В этом месяце тренировок не зарегистрировано.",
@@ -14947,6 +14971,78 @@
         "pl": "Nie udało się utworzyć obrazu.",
         "fr": "Impossible de créer l'image.",
         "ar": "تعذّر إنشاء الصورة."
+      },
+      "exercise.action": {
+        "en": "Share Exercise",
+        "ru": "Share Exercise",
+        "hy": "Share Exercise",
+        "sv": "Share Exercise",
+        "nb": "Share Exercise",
+        "nl": "Share Exercise",
+        "da": "Share Exercise",
+        "pl": "Share Exercise",
+        "fr": "Share Exercise",
+        "ar": "Share Exercise"
+      },
+      "exercise.avgRest": {
+        "en": "Avg rest",
+        "ru": "Avg rest",
+        "hy": "Avg rest",
+        "sv": "Avg rest",
+        "nb": "Avg rest",
+        "nl": "Avg rest",
+        "da": "Avg rest",
+        "pl": "Avg rest",
+        "fr": "Avg rest",
+        "ar": "Avg rest"
+      },
+      "exercise.bestSet": {
+        "en": "Best set",
+        "ru": "Best set",
+        "hy": "Best set",
+        "sv": "Best set",
+        "nb": "Best set",
+        "nl": "Best set",
+        "da": "Best set",
+        "pl": "Best set",
+        "fr": "Best set",
+        "ar": "Best set"
+      },
+      "exercise.eyebrow": {
+        "en": "EXERCISE",
+        "ru": "EXERCISE",
+        "hy": "EXERCISE",
+        "sv": "EXERCISE",
+        "nb": "EXERCISE",
+        "nl": "EXERCISE",
+        "da": "EXERCISE",
+        "pl": "EXERCISE",
+        "fr": "EXERCISE",
+        "ar": "EXERCISE"
+      },
+      "exercise.setNumber": {
+        "en": "Set %lld",
+        "ru": "Set %lld",
+        "hy": "Set %lld",
+        "sv": "Set %lld",
+        "nb": "Set %lld",
+        "nl": "Set %lld",
+        "da": "Set %lld",
+        "pl": "Set %lld",
+        "fr": "Set %lld",
+        "ar": "Set %lld"
+      },
+      "exercise.totalRest": {
+        "en": "Total rest",
+        "ru": "Total rest",
+        "hy": "Total rest",
+        "sv": "Total rest",
+        "nb": "Total rest",
+        "nl": "Total rest",
+        "da": "Total rest",
+        "pl": "Total rest",
+        "fr": "Total rest",
+        "ar": "Total rest"
       },
       "footer": {
         "en": "Gym Logbook",
@@ -15271,6 +15367,18 @@
         "pl": "Przegląd",
         "fr": "Aperçu",
         "ar": "نظرة عامة"
+      },
+      "style.sets": {
+        "en": "Set log",
+        "ru": "Set log",
+        "hy": "Set log",
+        "sv": "Set log",
+        "nb": "Set log",
+        "nl": "Set log",
+        "da": "Set log",
+        "pl": "Set log",
+        "fr": "Set log",
+        "ar": "Set log"
       },
       "style.story": {
         "en": "Story",
@@ -19062,16 +19170,16 @@
         "ar": "إعادة ترتيب التمارين"
       },
       "reorderFooter": {
-        "en": "Drag to change order. Logged sets stay with each exercise.",
-        "ru": "Перетащите, чтобы изменить порядок. Записанные подходы остаются с каждым упражнением.",
-        "hy": "Քաշեք՝ հերթականությունը փոխելու համար: Մուտքագրված հավաքածուները մնում են յուրաքանչյուր վարժությունում:",
-        "sv": "Dra för att ändra ordning. Loggade set stannar vid varje övning.",
-        "nb": "Dra for å endre rekkefølge. Loggede sett blir værende med hver øvelse.",
-        "nl": "Sleep om de volgorde te wijzigen. Gelogde sets blijven bij elke oefening.",
-        "da": "Træk for at ændre rækkefølge. Loggede sæt bliver ved hver øvelse.",
-        "pl": "Przeciągnij, aby zmienić kolejność. Zapisane serie pozostają przy każdym ćwiczeniu.",
-        "fr": "Faites glisser pour modifier l'ordre. Les séries enregistrées restent avec chaque exercice.",
-        "ar": "اسحب لتغيير الترتيب. تبقى المجموعات المسجلة مع كل تمرين."
+        "en": "Drag to change order. Swipe left to remove an exercise. Logged sets stay with each exercise.",
+        "ru": "Перетащите, чтобы изменить порядок. Смахните влево, чтобы удалить упражнение. Записанные подходы остаются с каждым упражнением.",
+        "hy": "Քաշեք՝ հերթականությունը փոխելու համար: Սահեցրեք ձախ՝ վարժությունը հեռացնելու համար: Մուտքագրված հավաքածուները մնում են յուրաքանչյուր վարժությունում:",
+        "sv": "Dra för att ändra ordning. Svep åt vänster för att ta bort en övning. Loggade set stannar vid varje övning.",
+        "nb": "Dra for å endre rekkefølge. Sveip til venstre for å fjerne en øvelse. Loggede sett blir værende med hver øvelse.",
+        "nl": "Sleep om de volgorde te wijzigen. Veeg naar links om een oefening te verwijderen. Gelogde sets blijven bij elke oefening.",
+        "da": "Træk for at ændre rækkefølge. Swipe til venstre for at fjerne en øvelse. Loggede sæt bliver ved hver øvelse.",
+        "pl": "Przeciągnij, aby zmienić kolejność. Przesuń w lewo, aby usunąć ćwiczenie. Zapisane serie pozostają przy każdym ćwiczeniu.",
+        "fr": "Faites glisser pour modifier l'ordre. Balayez vers la gauche pour supprimer un exercice. Les séries enregistrées restent avec chaque exercice.",
+        "ar": "اسحب لتغيير الترتيب. اسحب لليسار لإزالة تمرين. تبقى المجموعات المسجلة مع كل تمرين."
       },
       "reorderHint": {
         "en": "Exercises",
