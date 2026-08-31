@@ -1,6 +1,10 @@
 {
-  "schemaVersion": 1,
-  "lastSyncedAt": 1788092820,
+  "catalogKeyPrefixes": [
+    "exercise.catalog.",
+    "superset.catalog.",
+    "template.catalog."
+  ],
+  "lastSyncedAt": 1788126340,
   "locales": [
     "en",
     "ru",
@@ -13,10 +17,6 @@
     "fr",
     "ar"
   ],
-  "catalogKeyPrefixes": [
-    "exercise.catalog.",
-    "superset.catalog.",
-    "template.catalog."
-  ],
-  "notes": ""
+  "notes": "",
+  "schemaVersion": 1
 }
