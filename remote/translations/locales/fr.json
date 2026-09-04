@@ -545,6 +545,8 @@
   "friends.session.join": "Join workout",
   "friends.session.leave": "Leave session",
   "friends.session.pickFriend": "Invite to this workout",
+  "friends.session.sync.layoutBody": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+  "friends.session.sync.layoutTitle": "Apply Partner's Layout?",
   "friends.session.sync.removalBody": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
   "friends.session.sync.removalTitle": "Remove %lld Exercise(s)?",
   "friends.share.duplicate": "Save a copy",

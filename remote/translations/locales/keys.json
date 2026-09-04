@@ -857,6 +857,8 @@
   "friends.session.join",
   "friends.session.leave",
   "friends.session.pickFriend",
+  "friends.session.sync.layoutBody",
+  "friends.session.sync.layoutTitle",
   "friends.session.sync.removalBody",
   "friends.session.sync.removalTitle",
   "friends.share.duplicate",

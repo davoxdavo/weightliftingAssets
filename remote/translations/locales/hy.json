@@ -857,6 +857,8 @@
   "friends.session.join": "Միացեք մարզմանը",
   "friends.session.leave": "Դուրս գալ նիստից",
   "friends.session.pickFriend": "Հրավիրեք այս մարզմանը",
+  "friends.session.sync.layoutBody": "Ձեր գործընկերը վերադասավորել կամ խմբավորել է ձեր ընդհանուր վարժությունները։ Կիրառե՞լ նրա դասավորությունը, թե՞ պահել ձերը։",
+  "friends.session.sync.layoutTitle": "Կիրառե՞լ գործընկերոջ դասավորությունը։",
   "friends.session.sync.removalBody": "Ձեր գործընկերը հեռացրել է %lld վարժություն(ներ), որոնցում դուք արդեն մուտք եք գործել: Հեռացրեք դրանք նույնպես այստեղ, կամ պահեք ձեր սեփական պատճենը:",
   "friends.session.sync.removalTitle": "Հեռացնե՞լ %lld վարժություն(ներ):",
   "friends.share.duplicate": "Պահպանեք պատճենը",

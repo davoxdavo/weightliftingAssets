@@ -857,6 +857,8 @@
   "friends.session.join": "Присоединиться к тренировке",
   "friends.session.leave": "Выйти из сеанса",
   "friends.session.pickFriend": "Пригласить на эту тренировку",
+  "friends.session.sync.layoutBody": "Ваш партнёр изменил порядок или сгруппировал общие упражнения. Применить его расположение или оставить своё?",
+  "friends.session.sync.layoutTitle": "Применить расположение партнёра?",
   "friends.session.sync.removalBody": "Ваш партнер удалил упражнения (%lld), к которым вы уже вошли. Удалите их и здесь или сохраните свою копию.",
   "friends.session.sync.removalTitle": "Удалить %lld упражнений?",
   "friends.share.duplicate": "Сохранить копию",

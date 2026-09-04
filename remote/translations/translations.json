@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1788126340,
+  "lastSyncedAt": 1788537706,
   "strings": {
     "Misc": {
       "": {
@@ -8169,6 +8169,30 @@
         "pl": "Invite to this workout",
         "fr": "Invite to this workout",
         "ar": "Invite to this workout"
+      },
+      "session.sync.layoutBody": {
+        "en": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "ru": "Ваш партнёр изменил порядок или сгруппировал общие упражнения. Применить его расположение или оставить своё?",
+        "hy": "Ձեր գործընկերը վերադասավորել կամ խմբավորել է ձեր ընդհանուր վարժությունները։ Կիրառե՞լ նրա դասավորությունը, թե՞ պահել ձերը։",
+        "sv": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "nb": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "nl": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "da": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "pl": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "fr": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own.",
+        "ar": "Your partner reordered or grouped exercises you share. Apply their arrangement, or keep your own."
+      },
+      "session.sync.layoutTitle": {
+        "en": "Apply Partner's Layout?",
+        "ru": "Применить расположение партнёра?",
+        "hy": "Կիրառե՞լ գործընկերոջ դասավորությունը։",
+        "sv": "Apply Partner's Layout?",
+        "nb": "Apply Partner's Layout?",
+        "nl": "Apply Partner's Layout?",
+        "da": "Apply Partner's Layout?",
+        "pl": "Apply Partner's Layout?",
+        "fr": "Apply Partner's Layout?",
+        "ar": "Apply Partner's Layout?"
       },
       "session.sync.removalBody": {
         "en": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
