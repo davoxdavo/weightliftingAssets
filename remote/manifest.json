@@ -95,8 +95,8 @@
   },
   "catalog": {
     "exercises": {
-      "version": 26,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v26/gym_exercises.json"
+      "version": 27,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v27/gym_exercises.json"
     },
     "supersets": {
       "version": 5,
