@@ -641,6 +641,8 @@
   "insights.chart.week": "Tydzień",
   "insights.chart.workouts": "Treningi",
   "insights.dataMenu": "Eksportuj i importuj",
+  "insights.dose.calibrating": "Trwa kalibracja — cele korzystają z typowych zakresów, dopóki nie uzbierasz czterech tygodni treningu.",
+  "insights.dose.extrapolated": "Przeskalowane z krótszej historii — traktuj to jako szacunek.",
   "insights.dose.group.back": "Najszersze i górne plecy",
   "insights.dose.group.sideRearDelts": "Boczne i tylne naramienne",
   "insights.dose.period": "Na",

@@ -641,6 +641,8 @@
   "insights.chart.week": "Uge",
   "insights.chart.workouts": "Træning",
   "insights.dataMenu": "Eksport & Import",
+  "insights.dose.calibrating": "Kalibrerer stadig — målene bruger typiske intervaller, indtil du har fire trænede uger.",
+  "insights.dose.extrapolated": "Skaleret op fra en kortere historik — læs det som et estimat.",
   "insights.dose.group.back": "Lats & øvre ryg",
   "insights.dose.group.sideRearDelts": "Side- & bagerste deltoid",
   "insights.dose.period": "Per",

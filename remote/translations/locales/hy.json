@@ -953,6 +953,8 @@
   "insights.chart.week": "Շաբաթ",
   "insights.chart.workouts": "Մարզումներ",
   "insights.dataMenu": "Արտահանում և ներմուծում",
+  "insights.dose.calibrating": "Դեռ ճշգրտվում է — մինչև չորս մարզական շաբաթ լրանալը նպատակները վերցվում են բնորոշ միջակայքերից.",
+  "insights.dose.extrapolated": "Հաշվարկված է ավելի կարճ պատմությունից — ընդունեք որպես մոտավոր գնահատական.",
   "insights.dose.group.back": "Լայնալիր և վերին մեջք",
   "insights.dose.group.sideRearDelts": "Կողային և հետին դելտա",
   "insights.dose.period": "Ժամանակահատված",

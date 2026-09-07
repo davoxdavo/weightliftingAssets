@@ -953,6 +953,8 @@
   "insights.chart.week",
   "insights.chart.workouts",
   "insights.dataMenu",
+  "insights.dose.calibrating",
+  "insights.dose.extrapolated",
   "insights.dose.group.back",
   "insights.dose.group.sideRearDelts",
   "insights.dose.period",

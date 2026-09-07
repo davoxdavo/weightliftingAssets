@@ -9334,6 +9334,30 @@
         "fr": "Exporter et importer",
         "ar": "التصدير والاستيراد"
       },
+      "dose.calibrating": {
+        "en": "Still calibrating — targets use typical ranges until you have four trained weeks.",
+        "ru": "Идёт калибровка — пока не наберётся четыре недели тренировок, цели берутся из типичных диапазонов.",
+        "hy": "Դեռ ճշգրտվում է — մինչև չորս մարզական շաբաթ լրանալը նպատակները վերցվում են բնորոշ միջակայքերից.",
+        "sv": "Kalibrerar fortfarande — målen använder typiska intervall tills du har fyra tränade veckor.",
+        "nb": "Kalibrerer fortsatt — målene bruker typiske intervaller til du har fire trente uker.",
+        "nl": "Nog aan het kalibreren — doelen gebruiken typische bereiken tot je vier getrainde weken hebt.",
+        "da": "Kalibrerer stadig — målene bruger typiske intervaller, indtil du har fire trænede uger.",
+        "pl": "Trwa kalibracja — cele korzystają z typowych zakresów, dopóki nie uzbierasz czterech tygodni treningu.",
+        "fr": "Calibrage en cours — les objectifs utilisent des plages typiques jusqu'à quatre semaines d'entraînement.",
+        "ar": "لا تزال المعايرة جارية — تستخدم الأهداف نطاقات نموذجية حتى تجمع أربعة أسابيع من التدريب."
+      },
+      "dose.extrapolated": {
+        "en": "Scaled up from a shorter history — read this as an estimate.",
+        "ru": "Пересчитано с более короткой истории — это оценка.",
+        "hy": "Հաշվարկված է ավելի կարճ պատմությունից — ընդունեք որպես մոտավոր գնահատական.",
+        "sv": "Uppskalat från en kortare historik — läs det som en uppskattning.",
+        "nb": "Skalert opp fra en kortere historikk — les det som et estimat.",
+        "nl": "Opgeschaald vanuit een kortere geschiedenis — lees dit als een schatting.",
+        "da": "Skaleret op fra en kortere historik — læs det som et estimat.",
+        "pl": "Przeskalowane z krótszej historii — traktuj to jako szacunek.",
+        "fr": "Extrapolé à partir d'un historique plus court — à lire comme une estimation.",
+        "ar": "محسوب من سجل أقصر — اعتبره تقديرًا."
+      },
       "dose.group.back": {
         "en": "Lats & upper back",
         "ru": "Широчайшие и верх спины",

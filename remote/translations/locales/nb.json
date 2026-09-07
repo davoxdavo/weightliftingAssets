@@ -641,6 +641,8 @@
   "insights.chart.week": "Uke",
   "insights.chart.workouts": "Treninger",
   "insights.dataMenu": "Eksport og import",
+  "insights.dose.calibrating": "Kalibrerer fortsatt — målene bruker typiske intervaller til du har fire trente uker.",
+  "insights.dose.extrapolated": "Skalert opp fra en kortere historikk — les det som et estimat.",
   "insights.dose.group.back": "Lats og øvre rygg",
   "insights.dose.group.sideRearDelts": "Side- og bakre deltoid",
   "insights.dose.period": "Per",

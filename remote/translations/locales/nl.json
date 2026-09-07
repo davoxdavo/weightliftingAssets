@@ -641,6 +641,8 @@
   "insights.chart.week": "Week",
   "insights.chart.workouts": "Trainingen",
   "insights.dataMenu": "Exporteren en importeren",
+  "insights.dose.calibrating": "Nog aan het kalibreren — doelen gebruiken typische bereiken tot je vier getrainde weken hebt.",
+  "insights.dose.extrapolated": "Opgeschaald vanuit een kortere geschiedenis — lees dit als een schatting.",
   "insights.dose.group.back": "Lats & bovenrug",
   "insights.dose.group.sideRearDelts": "Zij- & achterdeltoid",
   "insights.dose.period": "Per",

@@ -641,6 +641,8 @@
   "insights.chart.week": "أسبوع",
   "insights.chart.workouts": "التدريبات",
   "insights.dataMenu": "التصدير والاستيراد",
+  "insights.dose.calibrating": "لا تزال المعايرة جارية — تستخدم الأهداف نطاقات نموذجية حتى تجمع أربعة أسابيع من التدريب.",
+  "insights.dose.extrapolated": "محسوب من سجل أقصر — اعتبره تقديرًا.",
   "insights.dose.group.back": "العضلة الظهرية العريضة وأعلى الظهر",
   "insights.dose.group.sideRearDelts": "الدالية الجانبية والخلفية",
   "insights.dose.period": "لكل",

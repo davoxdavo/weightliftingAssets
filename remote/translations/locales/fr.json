@@ -641,6 +641,8 @@
   "insights.chart.week": "Semaine",
   "insights.chart.workouts": "Entraînements",
   "insights.dataMenu": "Exporter et importer",
+  "insights.dose.calibrating": "Calibrage en cours — les objectifs utilisent des plages typiques jusqu'à quatre semaines d'entraînement.",
+  "insights.dose.extrapolated": "Extrapolé à partir d'un historique plus court — à lire comme une estimation.",
   "insights.dose.group.back": "Dorsaux & haut du dos",
   "insights.dose.group.sideRearDelts": "Deltoïdes latéral & postérieur",
   "insights.dose.period": "Par",

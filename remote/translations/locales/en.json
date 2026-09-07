@@ -953,6 +953,8 @@
   "insights.chart.week": "Week",
   "insights.chart.workouts": "Workouts",
   "insights.dataMenu": "Export & Import",
+  "insights.dose.calibrating": "Still calibrating — targets use typical ranges until you have four trained weeks.",
+  "insights.dose.extrapolated": "Scaled up from a shorter history — read this as an estimate.",
   "insights.dose.group.back": "Lats & upper back",
   "insights.dose.group.sideRearDelts": "Side & rear delts",
   "insights.dose.period": "Per",
