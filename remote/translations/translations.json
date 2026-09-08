@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1788537706,
+  "lastSyncedAt": 1788854693,
   "strings": {
     "Misc": {
       "": {
@@ -6630,15 +6630,99 @@
       },
       "popular": {
         "en": "Popular",
-        "ru": "Популярный",
+        "ru": "Популярные",
         "hy": "Հանրաճանաչ",
-        "sv": "Populär",
-        "nb": "Populær",
+        "sv": "Populära",
+        "nb": "Populære",
         "nl": "Populair",
-        "da": "Populær",
-        "pl": "Popularny",
-        "fr": "Populaire",
-        "ar": "شائع"
+        "da": "Populære",
+        "pl": "Popularne",
+        "fr": "Populaires",
+        "ar": "الأكثر شيوعًا"
+      },
+      "popular.catalog": {
+        "en": "Default",
+        "ru": "По умолчанию",
+        "hy": "Կանխադրված",
+        "sv": "Standard",
+        "nb": "Standard",
+        "nl": "Standaard",
+        "da": "Standard",
+        "pl": "Domyślnie",
+        "fr": "Par défaut",
+        "ar": "افتراضي"
+      },
+      "popular.collapseA11y": {
+        "en": "Collapse popular exercises",
+        "ru": "Свернуть популярные упражнения",
+        "hy": "Ծալել հանրաճանաչ վարժությունները",
+        "sv": "Komprimera populära övningar",
+        "nb": "Skjul populære øvelser",
+        "nl": "Populaire oefeningen samenvouwen",
+        "da": "Skjul populære øvelser",
+        "pl": "Zwiń popularne ćwiczenia",
+        "fr": "Réduire les exercices populaires",
+        "ar": "طيّ التمارين الشائعة"
+      },
+      "popular.everyone": {
+        "en": "Everyone",
+        "ru": "У всех",
+        "hy": "Բոլորի",
+        "sv": "Alla",
+        "nb": "Alle",
+        "nl": "Iedereen",
+        "da": "Alle",
+        "pl": "Wszyscy",
+        "fr": "Tous",
+        "ar": "الجميع"
+      },
+      "popular.expandA11y": {
+        "en": "Expand popular exercises",
+        "ru": "Развернуть популярные упражнения",
+        "hy": "Ընդլայնել հանրաճանաչ վարժությունները",
+        "sv": "Utöka populära övningar",
+        "nb": "Utvid populære øvelser",
+        "nl": "Populaire oefeningen uitvouwen",
+        "da": "Udvid populære øvelser",
+        "pl": "Rozwiń popularne ćwiczenia",
+        "fr": "Développer les exercices populaires",
+        "ar": "توسيع التمارين الشائعة"
+      },
+      "popular.mine": {
+        "en": "Mine",
+        "ru": "Мои",
+        "hy": "Իմ",
+        "sv": "Mina",
+        "nb": "Mine",
+        "nl": "Mijn",
+        "da": "Mine",
+        "pl": "Moje",
+        "fr": "Les miens",
+        "ar": "خاصتي"
+      },
+      "popular.orderA11y": {
+        "en": "Exercise order",
+        "ru": "Порядок упражнений",
+        "hy": "Վարժությունների կարգը",
+        "sv": "Ordning på övningar",
+        "nb": "Rekkefølge på øvelser",
+        "nl": "Volgorde van oefeningen",
+        "da": "Rækkefølge af øvelser",
+        "pl": "Kolejność ćwiczeń",
+        "fr": "Ordre des exercices",
+        "ar": "ترتيب التمارين"
+      },
+      "popular.showMore": {
+        "en": "Show more",
+        "ru": "Показать ещё",
+        "hy": "Ցույց տալ ավելին",
+        "sv": "Visa fler",
+        "nb": "Vis flere",
+        "nl": "Meer tonen",
+        "da": "Vis flere",
+        "pl": "Pokaż więcej",
+        "fr": "Afficher plus",
+        "ar": "عرض المزيد"
       },
       "preview.distance": {
         "en": "Preview: SET · KM · ✓",
