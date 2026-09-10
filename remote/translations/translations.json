@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789019022,
+  "lastSyncedAt": 1789049406,
   "strings": {
     "Misc": {
       "": {
@@ -3905,16 +3905,16 @@
         "ar": "الوزن"
       },
       "setup.method": {
-        "en": "Your resting rate comes from the Mifflin–St Jeor equation (1990). The session is scored against the 2024 Adult Compendium of Physical Activities, using what kind of training each exercise is and how long you trained. How much you lifted and how a set felt are not used. Published measurements span a wide range, so read the number as a rough guide.",
-        "ru": "Обмен в покое рассчитывается по формуле Миффлина–Сан Жеора (1990). Тренировка оценивается по справочнику 2024 Adult Compendium of Physical Activities — по типу упражнений и длительности. Вес на штанге и отметки ощущений не учитываются. Измерения в исследованиях сильно разнятся, поэтому считай число ориентиром.",
-        "hy": "Հանգստի նյութափոխանակությունը հաշվարկվում է Mifflin–St Jeor բանաձևով (1990)։ Մարզումը գնահատվում է 2024 Adult Compendium of Physical Activities-ի հիման վրա՝ ըստ վարժությունների տեսակի և տևողության։ Բարձրացրած քաշը և զգացողության նշումները հաշվի չեն առնվում։ Հրապարակված չափումները մեծ տիրույթում են, ուստի ընդունիր թիվը որպես մոտավոր ուղենիշ։",
-        "sv": "Din vilonivå kommer från Mifflin–St Jeor-ekvationen (1990). Passet poängsätts mot 2024 Adult Compendium of Physical Activities utifrån vilken sorts träning varje övning är och hur länge du tränade. Hur mycket du lyfte och hur ett set kändes används inte. Publicerade mätningar spänner brett, så läs siffran som en grov vägledning.",
-        "nb": "Hvilenivået ditt kommer fra Mifflin–St Jeor-ligningen (1990). Økta vurderes mot 2024 Adult Compendium of Physical Activities, ut fra hva slags trening hver øvelse er og hvor lenge du trente. Hvor mye du løftet og hvordan et sett føltes brukes ikke. Publiserte målinger spenner vidt, så les tallet som en grov pekepinn.",
-        "nl": "Je ruststofwisseling komt uit de Mifflin–St Jeor-vergelijking (1990). De sessie wordt gescoord met de 2024 Adult Compendium of Physical Activities, op basis van het soort training per oefening en hoe lang je trainde. Hoeveel je tilde en hoe een set voelde tellen niet mee. Gepubliceerde metingen lopen ver uiteen, dus lees het getal als een ruwe indicatie.",
-        "da": "Dit hvilestofskifte kommer fra Mifflin–St Jeor-ligningen (1990). Passet vurderes mod 2024 Adult Compendium of Physical Activities ud fra, hvilken slags træning hver øvelse er, og hvor længe du trænede. Hvor meget du løftede, og hvordan et sæt føltes, indgår ikke. Publicerede målinger spænder bredt, så læs tallet som en grov rettesnor.",
-        "pl": "Twoja przemiana spoczynkowa pochodzi z równania Mifflina–St Jeora (1990). Trening jest oceniany według 2024 Adult Compendium of Physical Activities — na podstawie rodzaju ćwiczeń i czasu treningu. Ciężar i oznaczenia odczuć nie są brane pod uwagę. Opublikowane pomiary mocno się różnią, więc traktuj liczbę orientacyjnie.",
-        "fr": "Votre métabolisme de repos vient de l’équation de Mifflin–St Jeor (1990). La séance est évaluée d’après le 2024 Adult Compendium of Physical Activities, selon le type de travail de chaque exercice et la durée. La charge soulevée et le ressenti d’une série ne sont pas utilisés. Les mesures publiées varient beaucoup : lisez le chiffre comme un ordre de grandeur.",
-        "ar": "يُحتسب معدل الأيض أثناء الراحة بمعادلة ميفلين–سانت جور (1990). وتُقيَّم الجلسة وفق 2024 Adult Compendium of Physical Activities، حسب نوع التدريب في كل تمرين ومدة تمرينك. لا يُستخدم مقدار الوزن المرفوع ولا علامة الإحساس بالمجموعة. تتباين القياسات المنشورة تباينًا واسعًا، فاعتبر الرقم دليلاً تقريبيًا."
+        "en": "Your resting rate comes from the Mifflin–St Jeor equation (1990). The session is scored against the 2024 Adult Compendium of Physical Activities, using what kind of training each exercise is, how long you trained, and how much work you fit into that time — the load you lifted and the number of sets. How a set felt is not used. Published measurements span a wide range, so read the number as a rough guide.",
+        "ru": "Обмен в покое рассчитывается по формуле Миффлина–Сан Жеора (1990). Тренировка оценивается по справочнику 2024 Adult Compendium of Physical Activities — по типу упражнений, длительности и объёму работы за это время: весу на штанге и количеству подходов. Отметки ощущений не учитываются. Измерения в исследованиях сильно разнятся, поэтому считай число ориентиром.",
+        "hy": "Հանգստի նյութափոխանակությունը հաշվարկվում է Mifflin–St Jeor բանաձևով (1990)։ Մարզումը գնահատվում է 2024 Adult Compendium of Physical Activities-ի հիման վրա՝ ըստ վարժությունների տեսակի, տևողության և այդ ընթացքում կատարած ծավալի՝ բարձրացրած քաշի և մոտեցումների քանակի։ Զգացողության նշումները հաշվի չեն առնվում։ Հրապարակված չափումները մեծ տիրույթում են, ուստի ընդունիր թիվը որպես մոտավոր ուղենիշ։",
+        "sv": "Din vilonivå kommer från Mifflin–St Jeor-ekvationen (1990). Passet poängsätts mot 2024 Adult Compendium of Physical Activities utifrån vilken sorts träning varje övning är, hur länge du tränade och hur mycket arbete du hann med på den tiden – vikten du lyfte och antalet set. Hur ett set kändes används inte. Publicerade mätningar spänner brett, så läs siffran som en grov vägledning.",
+        "nb": "Hvilenivået ditt kommer fra Mifflin–St Jeor-ligningen (1990). Økta vurderes mot 2024 Adult Compendium of Physical Activities, ut fra hva slags trening hver øvelse er, hvor lenge du trente og hvor mye arbeid du rakk på den tiden – vekten du løftet og antall sett. Hvordan et sett føltes brukes ikke. Publiserte målinger spenner vidt, så les tallet som en grov pekepinn.",
+        "nl": "Je ruststofwisseling komt uit de Mifflin–St Jeor-vergelijking (1990). De sessie wordt gescoord met de 2024 Adult Compendium of Physical Activities, op basis van het soort training per oefening, hoe lang je trainde en hoeveel werk je in die tijd deed — het gewicht dat je tilde en het aantal sets. Hoe een set voelde telt niet mee. Gepubliceerde metingen lopen ver uiteen, dus lees het getal als een ruwe indicatie.",
+        "da": "Dit hvilestofskifte kommer fra Mifflin–St Jeor-ligningen (1990). Passet vurderes mod 2024 Adult Compendium of Physical Activities ud fra, hvilken slags træning hver øvelse er, hvor længe du trænede, og hvor meget arbejde du nåede på den tid – vægten du løftede og antallet af sæt. Hvordan et sæt føltes indgår ikke. Publicerede målinger spænder bredt, så læs tallet som en grov rettesnor.",
+        "pl": "Twoja przemiana spoczynkowa pochodzi z równania Mifflina–St Jeora (1990). Trening jest oceniany według 2024 Adult Compendium of Physical Activities — na podstawie rodzaju ćwiczeń, czasu treningu i tego, ile pracy zmieściłeś w tym czasie: podniesionego ciężaru i liczby serii. Oznaczenia odczuć nie są brane pod uwagę. Opublikowane pomiary mocno się różnią, więc traktuj liczbę orientacyjnie.",
+        "fr": "Votre métabolisme de repos vient de l’équation de Mifflin–St Jeor (1990). La séance est évaluée d’après le 2024 Adult Compendium of Physical Activities, selon le type de travail de chaque exercice, la durée et le volume réalisé pendant ce temps : la charge soulevée et le nombre de séries. Le ressenti d’une série n’est pas utilisé. Les mesures publiées varient beaucoup : lisez le chiffre comme un ordre de grandeur.",
+        "ar": "يُحتسب معدل الأيض أثناء الراحة بمعادلة ميفلين–سانت جور (1990). وتُقيَّم الجلسة وفق 2024 Adult Compendium of Physical Activities، حسب نوع التدريب في كل تمرين ومدة تمرينك ومقدار العمل الذي أنجزته في ذلك الوقت: الوزن المرفوع وعدد المجموعات. أما علامة الإحساس بالمجموعة فلا تُستخدم. تتباين القياسات المنشورة تباينًا واسعًا، فاعتبر الرقم دليلاً تقريبيًا."
       },
       "setup.methodHeader": {
         "en": "How it is worked out",
@@ -4169,6 +4169,54 @@
         "pl": "Tętno",
         "fr": "Fréquence cardiaque",
         "ar": "معدل ضربات القلب"
+      },
+      "backfill.running": {
+        "en": "Checking Apple Health for your past sessions…",
+        "ru": "Проверяем Apple Health по прошлым тренировкам…",
+        "hy": "Ստուգում ենք Apple Health-ը նախորդ մարզումների համար…",
+        "sv": "Kollar Hälsa efter dina tidigare pass…",
+        "nb": "Sjekker Helse for de tidligere øktene dine …",
+        "nl": "Health wordt gecontroleerd op je eerdere sessies…",
+        "da": "Tjekker Health for dine tidligere pas…",
+        "pl": "Sprawdzamy Apple Health pod kątem wcześniejszych treningów…",
+        "fr": "Vérification de Santé pour vos séances passées…",
+        "ar": "نتحقق من Apple Health بحثًا عن جلساتك السابقة…"
+      },
+      "backfill.doneTitle": {
+        "en": "Finished checking Apple Health",
+        "ru": "Проверка Apple Health завершена",
+        "hy": "Apple Health-ի ստուգումն ավարտվեց",
+        "sv": "Klar med att kolla Hälsa",
+        "nb": "Ferdig med å sjekke Helse",
+        "nl": "Klaar met controleren van Health",
+        "da": "Færdig med at tjekke Health",
+        "pl": "Zakończono sprawdzanie Apple Health",
+        "fr": "Vérification de Santé terminée",
+        "ar": "انتهى التحقق من Apple Health"
+      },
+      "backfill.doneBody": {
+        "en": "%1$d of %2$d past sessions now have a heart-rate trace.",
+        "ru": "У %1$d из %2$d прошлых тренировок теперь есть график пульса.",
+        "hy": "Այժմ %1$d մարզում %2$d-ից ունի պուլսի գրաֆիկ։",
+        "sv": "%1$d av %2$d tidigare pass har nu en pulskurva.",
+        "nb": "%1$d av %2$d tidligere økter har nå en pulskurve.",
+        "nl": "%1$d van de %2$d eerdere sessies heeft nu een hartslagcurve.",
+        "da": "%1$d ud af %2$d tidligere pas har nu en pulskurve.",
+        "pl": "%1$d z %2$d wcześniejszych treningów ma teraz wykres tętna.",
+        "fr": "%1$d séance(s) passée(s) sur %2$d ont désormais une courbe de fréquence cardiaque.",
+        "ar": "‏%1$d من %2$d جلسة سابقة صار لديها الآن رسم لضربات القلب."
+      },
+      "backfill.noneBody": {
+        "en": "Apple Health had no heart-rate readings for your past sessions. New sessions will still be checked as you finish them.",
+        "ru": "В Apple Health не нашлось пульса для прошлых тренировок. Новые тренировки по-прежнему будут проверяться после завершения.",
+        "hy": "Apple Health-ում նախորդ մարզումների պուլս չգտնվեց։ Նոր մարզումները դեռ կստուգվեն ավարտից հետո։",
+        "sv": "Hälsa hade ingen puls för dina tidigare pass. Nya pass kontrolleras fortfarande när du avslutar dem.",
+        "nb": "Helse hadde ingen puls for de tidligere øktene dine. Nye økter sjekkes fortsatt når du fullfører dem.",
+        "nl": "Health had geen hartslag voor je eerdere sessies. Nieuwe sessies worden nog steeds gecontroleerd zodra je ze afrondt.",
+        "da": "Health havde ingen puls for dine tidligere pas. Nye pas bliver stadig tjekket, når du afslutter dem.",
+        "pl": "Apple Health nie miał tętna dla twoich wcześniejszych treningów. Nowe treningi nadal będą sprawdzane po zakończeniu.",
+        "fr": "Santé n’avait aucune fréquence cardiaque pour vos séances passées. Les nouvelles séances seront quand même vérifiées à la fin.",
+        "ar": "لم يجد Apple Health أي قراءات لضربات القلب لجلساتك السابقة. وسيستمر التحقق من الجلسات الجديدة عند إنهائها."
       },
       "average": {
         "en": "Average",
@@ -9425,6 +9473,128 @@
         "pl": "Co jest synchronizowane",
         "fr": "Ce qui est synchronisé",
         "ar": "ما الذي تتم مزامنته"
+      }
+    },
+    "HealthNotice": {
+      "title": {
+        "en": "Two new things",
+        "ru": "Два новых пункта",
+        "hy": "Երկու նոր բան",
+        "sv": "Två nyheter",
+        "nb": "To nye ting",
+        "nl": "Twee nieuwe dingen",
+        "da": "To nye ting",
+        "pl": "Dwie nowe rzeczy",
+        "fr": "Deux nouveautés",
+        "ar": "شيئان جديدان"
+      },
+      "lead": {
+        "en": "Gym Logbook can now tell you a little more about a finished session. Both of these are off until you turn them on, and neither changes anything you have already logged.",
+        "ru": "Gym Logbook теперь может рассказать о завершённой тренировке чуть больше. Оба пункта выключены, пока ты их не включишь, и ни один не меняет уже записанное.",
+        "hy": "Gym Logbook-ն այժմ կարող է մի փոքր ավելին պատմել ավարտված մարզման մասին։ Երկուսն էլ անջատված են, քանի դեռ չես միացրել, և ոչ մեկը չի փոխում արդեն գրանցվածը։",
+        "sv": "Gym Logbook kan nu berätta lite mer om ett avslutat pass. Båda är avstängda tills du slår på dem, och ingen av dem ändrar något du redan loggat.",
+        "nb": "Gym Logbook kan nå fortelle deg litt mer om en fullført økt. Begge er av til du slår dem på, og ingen av dem endrer noe du allerede har logget.",
+        "nl": "Gym Logbook kan nu iets meer vertellen over een afgeronde sessie. Beide staan uit tot je ze aanzet, en geen van beide verandert iets wat je al hebt gelogd.",
+        "da": "Gym Logbook kan nu fortælle dig lidt mere om et afsluttet pas. Begge er slået fra, indtil du slår dem til, og ingen af dem ændrer noget, du allerede har logget.",
+        "pl": "Gym Logbook może teraz powiedzieć trochę więcej o zakończonym treningu. Obie rzeczy są wyłączone, dopóki ich nie włączysz, i żadna nie zmienia tego, co już zapisałeś.",
+        "fr": "Gym Logbook peut désormais vous en dire un peu plus sur une séance terminée. Les deux sont désactivées tant que vous ne les activez pas, et aucune ne modifie ce que vous avez déjà enregistré.",
+        "ar": "صار بإمكان Gym Logbook أن يخبرك بالمزيد عن الجلسة المنتهية. كلاهما معطَّل حتى تُفعِّله، ولا يغيّر أيٌّ منهما ما سجّلته من قبل."
+      },
+      "energy.title": {
+        "en": "Energy estimate",
+        "ru": "Оценка энергии",
+        "hy": "Էներգիայի գնահատում",
+        "sv": "Energiuppskattning",
+        "nb": "Energianslag",
+        "nl": "Energieschatting",
+        "da": "Energiestimat",
+        "pl": "Szacunek energii",
+        "fr": "Estimation d’énergie",
+        "ar": "تقدير الطاقة"
+      },
+      "energy.body": {
+        "en": "An estimated calorie cost for a session, worked out from your height, weight, age and how you trained. It is an estimate, not a measurement — we will explain how it works before you turn it on.",
+        "ru": "Примерная калорийность тренировки — по росту, весу, возрасту и тому, как ты тренировался. Это оценка, а не измерение: перед включением мы объясним, как она считается.",
+        "hy": "Մարզման մոտավոր կալորիականությունը՝ ըստ հասակի, քաշի, տարիքի և մարզման ձևի։ Սա գնահատում է, ոչ թե չափում — միացնելուց առաջ կբացատրենք, թե ինչպես է հաշվարկվում։",
+        "sv": "En uppskattad kaloriåtgång för ett pass, uträknad från din längd, vikt, ålder och hur du tränade. Det är en uppskattning, inte en mätning – vi förklarar hur den fungerar innan du slår på den.",
+        "nb": "Et anslag over hva en økt kostet i kalorier, regnet ut fra høyde, vekt, alder og hvordan du trente. Det er et anslag, ikke en måling – vi forklarer hvordan det virker før du slår det på.",
+        "nl": "Een geschat caloriegebruik voor een sessie, berekend uit je lengte, gewicht, leeftijd en hoe je traint. Het is een schatting, geen meting — we leggen uit hoe het werkt voordat je het aanzet.",
+        "da": "Et estimat over, hvad et pas kostede i kalorier, regnet ud fra din højde, vægt, alder og måden du trænede på. Det er et estimat, ikke en måling – vi forklarer, hvordan det virker, før du slår det til.",
+        "pl": "Szacunkowy koszt treningu w kaloriach, wyliczony z twojego wzrostu, wagi, wieku i sposobu treningu. To szacunek, nie pomiar — wyjaśnimy, jak działa, zanim go włączysz.",
+        "fr": "Une estimation du coût calorique d’une séance, calculée à partir de votre taille, votre poids, votre âge et votre façon de vous entraîner. C’est une estimation, pas une mesure — nous expliquerons comment elle fonctionne avant que vous l’activiez.",
+        "ar": "تقدير لكلفة الجلسة بالسعرات، محسوب من طولك ووزنك وعمرك وطريقة تدريبك. إنه تقدير لا قياس — وسنشرح كيف يعمل قبل أن تُفعِّله."
+      },
+      "energy.action": {
+        "en": "Set it up",
+        "ru": "Настроить",
+        "hy": "Կարգավորել",
+        "sv": "Ställ in",
+        "nb": "Sett det opp",
+        "nl": "Instellen",
+        "da": "Sæt det op",
+        "pl": "Skonfiguruj",
+        "fr": "Configurer",
+        "ar": "إعداده"
+      },
+      "heartRate.title": {
+        "en": "Heart rate",
+        "ru": "Пульс",
+        "hy": "Սրտի հաճախություն",
+        "sv": "Puls",
+        "nb": "Puls",
+        "nl": "Hartslag",
+        "da": "Puls",
+        "pl": "Tętno",
+        "fr": "Fréquence cardiaque",
+        "ar": "معدل ضربات القلب"
+      },
+      "heartRate.body": {
+        "en": "Read the heart-rate trace Apple Health recorded for a finished session and draw it on the workout. While this is off, Gym Logbook reads nothing from Health at all.",
+        "ru": "Читать из Apple Health пульс, записанный во время завершённой тренировки, и рисовать его график. Пока выключено, Gym Logbook не читает из Health ничего.",
+        "hy": "Կարդալ Apple Health-ից ավարտված մարզման ընթացքում գրանցված պուլսը և գծել այն։ Քանի դեռ անջատված է, Gym Logbook-ը Health-ից ոչինչ չի կարդում։",
+        "sv": "Läs pulskurvan som Apple Health spelade in för ett avslutat pass och rita den på passet. Medan detta är av läser Gym Logbook ingenting alls från Hälsa.",
+        "nb": "Les pulskurven Apple Health tok opp for en fullført økt, og tegn den på økta. Mens dette er av, leser Gym Logbook ingenting fra Helse.",
+        "nl": "Lees de hartslagcurve die Apple Health voor een afgeronde sessie opnam en teken die bij de training. Zolang dit uit staat, leest Gym Logbook helemaal niets uit Health.",
+        "da": "Læs den pulskurve, Apple Health optog for et afsluttet pas, og tegn den på passet. Mens dette er slået fra, læser Gym Logbook intet som helst fra Health.",
+        "pl": "Odczytaj z Apple Health zapis tętna z zakończonego treningu i narysuj go przy treningu. Dopóki to jest wyłączone, Gym Logbook nie czyta z Health niczego.",
+        "fr": "Lire la courbe de fréquence cardiaque enregistrée par Apple Santé pour une séance terminée et la tracer sur la séance. Tant que c’est désactivé, Gym Logbook ne lit rien du tout dans Santé.",
+        "ar": "قراءة تسجيل ضربات القلب الذي حفظه Apple Health لجلسة منتهية ورسمه على التمرين. وما دام هذا معطَّلاً، لا يقرأ Gym Logbook أي شيء من Health."
+      },
+      "alreadyOn": {
+        "en": "Already on",
+        "ru": "Уже включено",
+        "hy": "Արդեն միացված է",
+        "sv": "Redan på",
+        "nb": "Allerede på",
+        "nl": "Staat al aan",
+        "da": "Allerede slået til",
+        "pl": "Już włączone",
+        "fr": "Déjà activé",
+        "ar": "مُفعَّل بالفعل"
+      },
+      "footer": {
+        "en": "You can turn either one on or off later in Account → Preferences. This notice will not appear again.",
+        "ru": "Включить или выключить любой из пунктов можно позже в «Аккаунт → Настройки». Это сообщение больше не появится.",
+        "hy": "Երկուսն էլ կարող ես միացնել կամ անջատել ավելի ուշ՝ «Հաշիվ → Նախապատվություններ»։ Այս ծանուցումը այլևս չի հայտնվի։",
+        "sv": "Du kan slå på eller av båda senare under Konto → Inställningar. Det här meddelandet visas inte igen.",
+        "nb": "Du kan slå begge av eller på senere under Konto → Innstillinger. Denne meldingen kommer ikke igjen.",
+        "nl": "Je kunt beide later aan- of uitzetten bij Account → Voorkeuren. Deze melding komt niet terug.",
+        "da": "Du kan slå begge til eller fra senere under Konto → Indstillinger. Denne besked kommer ikke igen.",
+        "pl": "Obie rzeczy możesz włączyć lub wyłączyć później w Konto → Ustawienia. To powiadomienie już się nie pojawi.",
+        "fr": "Vous pouvez activer ou désactiver les deux plus tard dans Compte → Préférences. Cet avis ne réapparaîtra pas.",
+        "ar": "يمكنك تفعيل أيٍّ منهما أو تعطيله لاحقًا من «الحساب ← التفضيلات». لن يظهر هذا الإشعار مرة أخرى."
+      },
+      "done": {
+        "en": "Done",
+        "ru": "Готово",
+        "hy": "Պատրաստ է",
+        "sv": "Klar",
+        "nb": "Ferdig",
+        "nl": "Klaar",
+        "da": "Færdig",
+        "pl": "Gotowe",
+        "fr": "Terminé",
+        "ar": "تم"
       }
     },
     "Hint": {
@@ -16728,6 +16898,18 @@
         "fr": "Tableau",
         "ar": "لوحة النتائج"
       },
+      "style.heartRate": {
+        "en": "Heart rate",
+        "ru": "Пульс",
+        "hy": "Զարկերակ",
+        "sv": "Puls",
+        "nb": "Puls",
+        "nl": "Hartslag",
+        "da": "Puls",
+        "pl": "Tętno",
+        "fr": "Fréquence cardiaque",
+        "ar": "معدل ضربات القلب"
+      },
       "style.headline": {
         "en": "Headline",
         "ru": "Заголовок",
@@ -19276,6 +19458,42 @@
       }
     },
     "Template": {
+      "energy.title": {
+        "en": "Estimated cost",
+        "ru": "Примерная стоимость",
+        "hy": "Մոտավոր արժեքը",
+        "sv": "Uppskattad kostnad",
+        "nb": "Anslått kostnad",
+        "nl": "Geschatte kosten",
+        "da": "Anslået omkostning",
+        "pl": "Szacowany koszt",
+        "fr": "Coût estimé",
+        "ar": "الكلفة التقديرية"
+      },
+      "energy.value": {
+        "en": "≈ %1$@ · %2$@",
+        "ru": "≈ %1$@ · %2$@",
+        "hy": "≈ %1$@ · %2$@",
+        "sv": "≈ %1$@ · %2$@",
+        "nb": "≈ %1$@ · %2$@",
+        "nl": "≈ %1$@ · %2$@",
+        "da": "≈ %1$@ · %2$@",
+        "pl": "≈ %1$@ · %2$@",
+        "fr": "≈ %1$@ · %2$@",
+        "ar": "≈ %1$@ · %2$@"
+      },
+      "energy.footer": {
+        "en": "A rough figure for the plan, not a target. It assumes about three minutes per set, so it moves mostly with how many sets you planned — what a session actually costs depends on how you train it.",
+        "ru": "Грубая оценка плана, а не цель. Считается примерно по три минуты на подход, поэтому зависит в основном от их числа — сколько тренировка стоит на самом деле, решает то, как ты её проведёшь.",
+        "hy": "Պլանի կոպիտ գնահատական է, ոչ թե նպատակ։ Հաշվարկվում է մոտ երեք րոպե մեկ մոտեցման համար, ուստի կախված է հիմնականում մոտեցումների քանակից — իրական արժեքը որոշում է այն, թե ինչպես ես մարզվում։",
+        "sv": "En grov siffra för planen, inte ett mål. Den räknar med ungefär tre minuter per set, så den följer mest hur många set du planerat – vad ett pass faktiskt kostar beror på hur du kör det.",
+        "nb": "Et grovt tall for planen, ikke et mål. Det regner med rundt tre minutter per sett, så det følger mest hvor mange sett du har planlagt – hva en økt faktisk koster, avhenger av hvordan du kjører den.",
+        "nl": "Een ruw getal voor het schema, geen doel. Het rekent met ongeveer drie minuten per set, dus het volgt vooral hoeveel sets je plande — wat een sessie echt kost, hangt af van hoe je hem uitvoert.",
+        "da": "Et groft tal for planen, ikke et mål. Det regner med cirka tre minutter pr. sæt, så det følger mest, hvor mange sæt du har planlagt – hvad et pas faktisk koster, afhænger af, hvordan du kører det.",
+        "pl": "Zgrubna liczba dla planu, nie cel. Zakłada około trzech minut na serię, więc zależy głównie od tego, ile serii zaplanowałeś — ile trening kosztuje naprawdę, zależy od tego, jak go wykonasz.",
+        "fr": "Un ordre de grandeur pour le plan, pas un objectif. Il suppose environ trois minutes par série, donc il suit surtout le nombre de séries prévues — ce qu’une séance coûte réellement dépend de la façon dont vous la menez.",
+        "ar": "رقم تقريبي للخطة، وليس هدفًا. يفترض نحو ثلاث دقائق لكل مجموعة، فيتغيّر أساسًا بعدد المجموعات التي خططت لها — أما كلفة الجلسة فعليًا فتعتمد على طريقة أدائك لها."
+      },
       "allTemplates": {
         "en": "All Templates",
         "ru": "Все шаблоны",
