@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Terms and Conditions — Gym Logbook Pro</title>
+  <title>Terms and Conditions — Gym Logbook</title>
   <style>
     :root {
       color-scheme: light dark;
@@ -58,18 +58,18 @@
 </head>
 <body>
   <h1>Terms and Conditions</h1>
-  <p class="meta">Gym Logbook Pro · Last updated: 23 July 2026</p>
+  <p class="meta">Gym Logbook · Last updated: 10 September 2026</p>
   <p>
-    These Terms and Conditions (“Terms”) govern your use of the Gym Logbook Pro mobile application
+    These Terms and Conditions (“Terms”) govern your use of the Gym Logbook mobile application
     (“App”). By downloading, accessing, or using the App, you agree to these Terms. If you do
     not agree, do not use the App.
   </p>
 
   <h2>1. Who we are</h2>
   <p>
-    Gym Logbook Pro is a personal weightlifting logbook for recording workouts, history, templates,
+    Gym Logbook is a personal weightlifting logbook for recording workouts, history, templates,
     and related fitness data on your device. References to “we”, “us”, or “our” mean the
-    developer of Gym Logbook Pro as identified on the Apple App Store listing.
+    developer of Gym Logbook as identified on the Apple App Store listing.
   </p>
 
   <h2>2. Eligibility</h2>
@@ -83,8 +83,10 @@
   <ul>
     <li>Log workouts, sets, and exercise history on your device</li>
     <li>Optionally sign in with Apple or Google to protect account identity and enable cloud features</li>
-    <li>Optionally sync finished workouts with Apple Health / Fitness (write-only, when you enable it)</li>
+    <li>Optionally export finished workouts to your health store — Apple Health / Fitness, or Health Connect on Android (write-only; the App never reads health data)</li>
     <li>Optionally sync signed-in workout and library data with our cloud backend</li>
+    <li>Optionally see an estimated energy cost for a finished session (see section 7)</li>
+    <li>Optionally connect with friends, share selected information with them, and train a session together</li>
   </ul>
   <p>
     Features may change over time. Some capabilities require a network connection, a signed-in
@@ -106,6 +108,13 @@
     Content solely as needed to operate the App’s features you use (including cloud sync when
     signed in). You are responsible for Your Content and for keeping any backups you need.
   </p>
+  <p>
+    If you share information with another user — by granting a friend permission to view part
+    of your training, sending them a workout or template, or training a shared session — you
+    are choosing to disclose it to that person. You can withdraw a permission or remove a
+    connection at any time, but doing so stops future access; it cannot undo what someone has
+    already seen. Do not share anything you would not want that person to keep.
+  </p>
 
   <h2>6. Acceptable use</h2>
   <p>You agree not to:</p>
@@ -114,14 +123,47 @@
     <li>Upload unlawful, harmful, or infringing content</li>
     <li>Abuse authentication, sync, or export/import features</li>
     <li>Use the App to provide medical or professional advice to others</li>
+    <li>Deliberately inflate, distort, or automate writes to the shared exercise statistics, or otherwise submit training data you did not perform</li>
   </ul>
 
   <h2>7. Health and fitness disclaimer</h2>
   <p>
-    Gym Logbook Pro is a logging tool, not a medical device and not medical, training, or nutritional
+    Gym Logbook is a logging tool, not a medical device and not medical, training, or nutritional
     advice. Estimated one-rep max and similar calculations are approximations only. Consult a
     qualified professional before starting or changing an exercise program. You use the App at
     your own risk.
+  </p>
+  <p>
+    <strong>The energy estimate is an estimate, not a measurement.</strong> Where you enable it,
+    the App calculates an approximate energy cost for a finished session on your device. It does
+    so by estimating your resting metabolic rate from the height, weight, year of birth, and sex
+    you enter, using the Mifflin–St Jeor equation (1990), and multiplying it by a published
+    activity value for the kind of training each exercise represents, taken from the 2024 Adult
+    Compendium of Physical Activities, over the recorded duration of the session. Neither the
+    load you lifted nor any effort mark affects the result.
+  </p>
+  <p>
+    <strong>If you enable the optional heart-rate chart</strong>, the App also reads heart-rate
+    readings recorded by Apple Health for the minutes of a finished session, and uses their
+    average to estimate the energy cost of the <em>cardio</em> part of that session with a
+    published equation (Keytel and colleagues, 2005). It does <strong>not</strong> use heart rate
+    to estimate the cost of resistance training: heart rate rises during heavy or static effort
+    for reasons that do not track energy expenditure, so applying that equation to lifting would
+    report energy you did not spend. The chart itself is a display of readings recorded by your
+    device or watch. It is not a medical measurement, is not a diagnostic tool, and must not be
+    used to detect, monitor or make decisions about any heart condition. If you have concerns
+    about your heart rate, consult a physician.
+  </p>
+  <p>
+    Published measurements of the energy cost of resistance training vary widely between
+    individuals and between studies, so the figure is deliberately rounded and shown as an
+    approximation. It is not a medical or nutritional measurement, must not be used to make
+    medical decisions or to plan clinical nutrition, and should not be relied on where accuracy
+    matters. Where the App writes this estimate to your health store, it is written as an
+    <em>estimated</em> active energy value; if another device or app also records the same
+    session, your totals may count it more than once. Consult a qualified professional —
+    for example a physician or registered dietitian — before relying on energy figures to
+    change how you eat or train.
   </p>
   <p>
     The exercise illustrations in the App are generated by AI and may depict a movement
@@ -194,8 +236,10 @@
 
   <hr />
   <p class="meta">
-    This document is a general template for Gym Logbook Pro and is not personalized legal advice.
-    Have counsel review it before relying on it for App Store or commercial compliance.
+    This document describes the App as of the date above and is not personalized legal advice.
+    Have counsel review it before relying on it for App Store or commercial compliance — in
+    particular section 7, which describes an estimated health figure, and section 5, which
+    describes information you may disclose to other users.
   </p>
 </body>
 </html>

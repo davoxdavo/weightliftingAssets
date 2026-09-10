@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Privacy Policy — Gym Logbook Pro</title>
+  <title>Privacy Policy — Gym Logbook</title>
   <style>
     :root {
       color-scheme: light dark;
@@ -58,18 +58,23 @@
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p class="meta">Gym Logbook Pro · Last updated: 23 July 2026</p>
+  <p class="meta">Gym Logbook · Last updated: 10 September 2026</p>
   <p>
-    This Privacy Policy explains how Gym Logbook Pro (“App”, “we”, “us”) handles information when
+    This Privacy Policy explains how Gym Logbook (“App”, “we”, “us”) handles information when
     you use the App. By using the App, you acknowledge this Policy. If you do not agree, do
     not use the App.
   </p>
 
   <h2>1. Overview</h2>
   <p>
-    Gym Logbook Pro is designed to be local-first: workout logs primarily live on your device.
-    Optional features—sign-in, cloud sync, Apple Health export, analytics, and crash
-    reporting—process additional data as described below.
+    Gym Logbook is designed to be local-first: workout logs primarily live on your device.
+    Optional features—sign-in, cloud sync, health export, friends and sharing, community
+    exercise statistics, analytics, and crash reporting—process additional data as described
+    below. Two things are worth stating up front: <strong>the App never reads your health
+    data except heart rate, and only if you turn that on</strong> (section 2.3), and the height,
+    weight, year of birth, and sex used by the optional energy estimate <strong>stay on your
+    device unless you sign in</strong>, in which case they are also stored with your account so
+    that your devices agree (section 2.2) — and nowhere else.
   </p>
 
   <h2>2. Information we process</h2>
@@ -79,6 +84,15 @@
     <li>Workout sessions, sets, notes, templates, custom exercises, supersets, and personal records</li>
     <li>App preferences (language, rest-timer defaults, Health export toggle, and similar settings)</li>
     <li>Cached catalogs, translations, and form-guide images downloaded from our content CDN</li>
+    <li>
+      If you turn on the optional <strong>energy estimate</strong>: the height, weight, year of
+      birth, and sex you enter for it. While you are signed out — including as a guest — these
+      four values stay <strong>only on this device</strong>. If you are signed in, they are also
+      saved to your account so your other devices show the same figures instead of asking you to
+      enter them again; see section 2.2. They are never included in analytics. They are also
+      included if you choose to create a backup file yourself (section 2.8), because a backup
+      that dropped them would silently turn the feature off when you restored it.
+    </li>
   </ul>
 
   <h2 style="font-size:1rem;margin-top:1rem;">2.2 Account and cloud sync (optional)</h2>
@@ -93,16 +107,125 @@
     Device session information (for example device model, OS version, app version, locale, and
     last-active time) may be stored to show your signed-in devices and support remote sign-out.
   </p>
-
-  <h2 style="font-size:1rem;margin-top:1rem;">2.3 Apple Health / Fitness (optional)</h2>
   <p>
-    If you enable Apple Health export, the App may write finished workouts to Apple Health as
-    workout samples (and optional distance when authorized). The App does not write calories and
-    does not import Health data for training history. Apple’s privacy terms apply to data stored
-    in Health.
+    <strong>Body values for the energy estimate.</strong> If you have turned the optional energy
+    estimate on, the four values it needs — height, weight, year of birth, and sex — are stored
+    with your signed-in account as well, so that a second device you sign in on shows the same
+    figures instead of asking you to enter them again. They are stored as all four together or
+    not at all, and never for a signed-out or guest session. They are never used for advertising
+    or profiling, never included in analytics, and not shared with other users or with any third
+    party. Deleting your account deletes them.
   </p>
 
-  <h2 style="font-size:1rem;margin-top:1rem;">2.4 Analytics and crash reporting</h2>
+  <h2 style="font-size:1rem;margin-top:1rem;">2.3 Health export — Apple Health / Health Connect (optional)</h2>
+  <p>
+    If you enable Health export, the App may write finished workouts to Apple Health (or Health
+    Connect on Android) as workout samples, plus distance when you authorize it.
+  </p>
+  <p>
+    <strong>Heart rate is the only thing the App reads, and only if you turn it on.</strong>
+    Health export is otherwise write-only. If you enable the optional heart-rate chart, the App
+    reads heart-rate readings from Apple Health for the minutes of a workout you finished, copies
+    them onto that workout so the chart still works later, and uses the average to estimate the
+    energy cost of the cardio part of that session. It reads no other kind of health data at any
+    time, it reads nothing for periods you were not training, and it does not monitor your heart
+    rate in the background. With the setting off, the App requests no read access at all and
+    imports nothing.
+  </p>
+  <p>
+    Heart-rate readings copied this way are stored on your device with the workout, are included
+    if you create a backup file yourself (section 2.8), are never used for advertising or
+    profiling, are never included in analytics, and are not shared with other users or with any
+    third party. Turning the setting off stops all further reading; readings already copied stay
+    with their workouts until you delete those workouts.
+  </p>
+  <p>
+    <strong>Energy is written only if you ask for it twice.</strong> If — and only if — you have
+    enabled Health export <em>and</em> turned on the optional energy estimate <em>and</em>
+    granted the energy permission, the App also writes an estimated <em>active energy</em> value
+    for each finished workout. If any of those is off, no energy value is written at all. The
+    figure is an estimate calculated on your device from the height, weight, year of birth, and
+    sex you entered — it is not a measurement, and it is not taken from any sensor. If you also
+    wear a watch that records the same session, both may write energy and your daily totals can
+    count it twice; the App tells you this when you turn the estimate on.
+  </p>
+  <p>
+    Turning the estimate off stops future writes. It does not remove energy values already
+    written to your health store — you can delete those in the Health app, which is the only
+    place they live.
+  </p>
+  <p>Apple’s (or Google’s) privacy terms apply to data stored in your health store.</p>
+
+  <h2 style="font-size:1rem;margin-top:1rem;">2.4 Community exercise statistics</h2>
+  <p>
+    So the App can show which exercises and supersets are commonly trained, a signed-in device
+    adds to shared counters when you finish a workout. Two kinds of counter exist:
+  </p>
+  <ul>
+    <li>
+      <strong>Your own totals</strong>, stored on your account so your devices agree about which
+      exercises you use most. This is visible only to you.
+    </li>
+    <li>
+      <strong>Shared totals</strong>, one record per exercise (and per built-in superset) in our
+      catalog, counting how many workouts and sets it has appeared in across all users, together
+      with aggregate amounts such as total reps or seconds. <strong>These records contain no
+      user identifier, no name, no date, and no individual workout.</strong> They are counters
+      only, and they cannot be traced back to a person from their contents.
+    </li>
+  </ul>
+  <p>
+    <strong>Exercises you created yourself are never included</strong> in the shared totals —
+    only exercises from our built-in catalog are counted, so a custom exercise name never leaves
+    your device this way. The shared totals record only <em>that</em> a catalog exercise was
+    trained and how much; they do not record when, by whom, or in what workout.
+  </p>
+
+  <h2 style="font-size:1rem;margin-top:1rem;">2.5 Friends, sharing, and shared sessions (optional)</h2>
+  <p>
+    If you use the friends features, additional information is processed so other people can see
+    what you choose to share with them:
+  </p>
+  <ul>
+    <li>
+      <strong>A basic profile</strong> (display name, nickname, and photo if you set one) that
+      other signed-in users can see when you invite them or they invite you.
+    </li>
+    <li>
+      <strong>Invitations</strong> you send or accept, including the link or code and who
+      redeemed it.
+    </li>
+    <li>
+      <strong>Friend connections and the permissions attached to them.</strong> You choose,
+      per friend, what they may see — for example workout history, personal records, planned
+      sessions, streaks, or whether you are currently training. Nothing is shared by default;
+      each permission is off until you turn it on, and you can withdraw any of them or remove
+      the connection at any time.
+    </li>
+    <li>
+      <strong>Items you deliberately share</strong>, such as a workout or template sent to a
+      friend.
+    </li>
+    <li>
+      <strong>Shared training sessions.</strong> If you train together with a friend, the
+      session's exercise plan and each participant's presence and last-seen time are processed
+      while the session is live so both of you see the same plan. You each log your own sets.
+    </li>
+  </ul>
+  <p>
+    Information you share with a friend is visible to that friend. We cannot un-share something
+    another person has already seen, and removing a friend stops future access rather than
+    erasing what they saw.
+  </p>
+
+  <h2 style="font-size:1rem;margin-top:1rem;">2.6 Game Center (optional)</h2>
+  <p>
+    If you take part in the streak leaderboards, your score is submitted to Apple Game Center
+    under your Game Center identity, which is managed by Apple and governed by Apple's privacy
+    terms. You control Game Center in iOS Settings, and the App works fully without it.
+  </p>
+
+  <h2 style="font-size:1rem;margin-top:1rem;">2.7 Analytics and crash reporting</h2>
   <p>
     We may collect anonymized or pseudonymous product analytics (feature usage events) and crash
     diagnostics to improve reliability. These services may include device and app technical
@@ -110,7 +233,7 @@
     personal information.
   </p>
 
-  <h2 style="font-size:1rem;margin-top:1rem;">2.5 Export / import</h2>
+  <h2 style="font-size:1rem;margin-top:1rem;">2.8 Export / import</h2>
   <p>
     If you export or import a backup, the file you choose to share or restore is under your
     control. We do not receive exported files unless you send them to us yourself.
@@ -121,6 +244,12 @@
     <li>Provide logging, history, templates, sync, and related App features</li>
     <li>Authenticate accounts and manage device sessions</li>
     <li>Operate maintenance, force-update, catalog, and translation updates</li>
+    <li>Show which exercises are commonly trained, using aggregate counters (section 2.4)</li>
+    <li>Let you connect with friends and share only what you choose to share (section 2.5)</li>
+    <li>Calculate the optional energy estimate on your device, and keep the values it needs
+      consistent across the devices you are signed in on (sections 2.1 and 2.2)</li>
+    <li>Draw a heart-rate chart for a finished workout, and cost its cardio part from your
+      measured rate, if you turn that on (section 2.3)</li>
     <li>Diagnose crashes and understand product usage at an aggregate level</li>
     <li>Comply with law and protect the security of the service</li>
   </ul>
@@ -137,6 +266,7 @@
   <p>We share information only as needed to run the App:</p>
   <ul>
     <li><strong>Service providers</strong> such as Apple, Google, and Firebase for auth, hosting, analytics, and crash reporting</li>
+    <li><strong>Other users you choose to share with</strong> — only the specific information you grant a friend access to, and only for as long as you leave that permission on (section 2.5)</li>
     <li><strong>Legal requirements</strong> when we believe disclosure is required by law or to protect rights and safety</li>
   </ul>
   <p>We do not sell personal information and do not share it for cross-context behavioral advertising.</p>
@@ -176,6 +306,9 @@
   <ul>
     <li>Use the App as a guest without linking Apple or Google</li>
     <li>Disable Health export in Insights settings</li>
+    <li>Turn the energy estimate off in Account → Preferences, which stops any further energy from being written to your health store; delete energy already written using the Health app</li>
+    <li>Withdraw any friend permission, or remove a friend connection, at any time</li>
+    <li>Delete energy, workout, or distance samples the App wrote using your health store's own controls</li>
     <li>Sign out, revoke other devices, or delete your account where offered</li>
     <li>Export or delete local data using in-app tools</li>
     <li>Control system permissions (Health, notifications, and similar) in iOS Settings</li>
@@ -205,8 +338,12 @@
 
   <hr />
   <p class="meta">
-    This document is a general template for Gym Logbook Pro and is not personalized legal advice.
-    Have counsel review it before relying on it for App Store or commercial compliance.
+    This document describes how the App behaves as of the date above and is not personalized
+    legal advice. Have counsel review it before relying on it for App Store or commercial
+    compliance — in particular sections 2.4 (shared counters), 2.5 (sharing between users),
+    2.3 (writing energy to a health store, and reading heart rate from one), and 2.2 (body values
+    stored with a signed-in account), which are the parts that describe health information moving
+    into or out of the App.
   </p>
 </body>
 </html>

@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1788856286,
+  "lastSyncedAt": 1789019022,
   "strings": {
     "Misc": {
       "": {
@@ -507,6 +507,42 @@
         "pl": "Display Name",
         "fr": "Display Name",
         "ar": "Display Name"
+      },
+      "energy.about": {
+        "en": "About the energy estimate",
+        "ru": "Об оценке энергии",
+        "hy": "Էներգիայի գնահատման մասին",
+        "sv": "Om energiuppskattningen",
+        "nb": "Om energianslaget",
+        "nl": "Over de energieschatting",
+        "da": "Om energiestimatet",
+        "pl": "O szacowanej energii",
+        "fr": "À propos de l’estimation d’énergie",
+        "ar": "حول تقدير الطاقة"
+      },
+      "energy.footer": {
+        "en": "Show an estimated energy cost on finished workouts. An average based on your height and weight — not a measurement.",
+        "ru": "Показывать примерный расход энергии на завершённых тренировках. Это среднее по росту и весу, а не измерение.",
+        "hy": "Ցույց տալ էներգիայի մոտավոր ծախսը ավարտված մարզումների վրա։ Միջին արժեք ըստ հասակի և քաշի, ոչ թե չափում։",
+        "sv": "Visa en uppskattad energiåtgång på avslutade pass. Ett genomsnitt utifrån längd och vikt – inte en mätning.",
+        "nb": "Vis et anslått energiforbruk på fullførte økter. Et gjennomsnitt ut fra høyde og vekt – ikke en måling.",
+        "nl": "Toon een geschat energieverbruik bij afgeronde workouts. Een gemiddelde op basis van lengte en gewicht — geen meting.",
+        "da": "Vis et estimeret energiforbrug på afsluttede pas. Et gennemsnit ud fra højde og vægt – ikke en måling.",
+        "pl": "Pokazuj szacowany wydatek energii przy ukończonych treningach. Średnia z wzrostu i wagi — nie pomiar.",
+        "fr": "Afficher une dépense d’énergie estimée sur les séances terminées. Une moyenne basée sur la taille et le poids, pas une mesure.",
+        "ar": "إظهار تقدير لاستهلاك الطاقة في التمارين المكتملة. متوسط بحسب الطول والوزن، وليس قياسًا."
+      },
+      "energy.title": {
+        "en": "Energy estimate",
+        "ru": "Оценка энергии",
+        "hy": "Էներգիայի գնահատում",
+        "sv": "Energiuppskattning",
+        "nb": "Energiestimat",
+        "nl": "Energieschatting",
+        "da": "Energiestimat",
+        "pl": "Szacowana energia",
+        "fr": "Estimation d’énergie",
+        "ar": "تقدير الطاقة"
       },
       "error.accountExists": {
         "en": "This sign-in is already linked to another account. Stay as guest, or continue to that account.",
@@ -3805,6 +3841,442 @@
         "pl": "Gotowy do treningu",
         "fr": "Prêt à s'entraîner",
         "ar": "جاهز للتدريب"
+      }
+    },
+    "Energy": {
+      "setup.acknowledge": {
+        "en": "I understand this is an estimate",
+        "ru": "Понимаю, что это оценка",
+        "hy": "Հասկանում եմ, որ սա գնահատում է",
+        "sv": "Jag förstår att det är en uppskattning",
+        "nb": "Jeg forstår at dette er et anslag",
+        "nl": "Ik begrijp dat dit een schatting is",
+        "da": "Jeg forstår, at dette er et estimat",
+        "pl": "Rozumiem, że to szacunek",
+        "fr": "Je comprends qu’il s’agit d’une estimation",
+        "ar": "أفهم أن هذا تقدير"
+      },
+      "setup.birthYear": {
+        "en": "Year of birth",
+        "ru": "Год рождения",
+        "hy": "Ծննդյան տարի",
+        "sv": "Födelseår",
+        "nb": "Fødselsår",
+        "nl": "Geboortejaar",
+        "da": "Fødselsår",
+        "pl": "Rok urodzenia",
+        "fr": "Année de naissance",
+        "ar": "سنة الميلاد"
+      },
+      "setup.height": {
+        "en": "Height",
+        "ru": "Рост",
+        "hy": "Հասակ",
+        "sv": "Längd",
+        "nb": "Høyde",
+        "nl": "Lengte",
+        "da": "Højde",
+        "pl": "Wzrost",
+        "fr": "Taille",
+        "ar": "الطول"
+      },
+      "setup.lead": {
+        "en": "Gym Logbook can estimate what a session cost you. It is worked out from your height, weight, age and how long you trained — an average for a body like yours, not a measurement of yours.",
+        "ru": "Gym Logbook может оценить, во что обошлась тренировка. Расчёт идёт по росту, весу, возрасту и длительности — это среднее для такого тела, как у тебя, а не измерение.",
+        "hy": "Gym Logbook-ը կարող է գնահատել, թե ինչ արժեցավ մարզումը։ Հաշվարկը հիմնված է հասակի, քաշի, տարիքի և տևողության վրա — միջին արժեք քո նման մարմնի համար, ոչ թե չափում։",
+        "sv": "Gymloggbok kan uppskatta vad ett pass kostade dig. Det räknas ut från din längd, vikt, ålder och hur länge du tränade – ett genomsnitt för en kropp som din, inte en mätning av din.",
+        "nb": "Gymloggbok kan anslå hva en økt kostet deg. Det regnes ut fra høyde, vekt, alder og hvor lenge du trente – et gjennomsnitt for en kropp som din, ikke en måling av din.",
+        "nl": "Gymlogboek kan schatten wat een sessie je kostte. Het wordt berekend uit je lengte, gewicht, leeftijd en hoe lang je trainde — een gemiddelde voor een lichaam als het jouwe, geen meting.",
+        "da": "Gymlogbog kan estimere, hvad et træningspas kostede dig. Det beregnes ud fra din højde, vægt, alder og hvor længe du trænede – et gennemsnit for en krop som din, ikke en måling af din.",
+        "pl": "Dziennik siłowni może oszacować, ile kosztował cię trening. Wyliczenie opiera się na wzroście, wadze, wieku i czasie treningu — to średnia dla takiego ciała jak twoje, a nie pomiar.",
+        "fr": "Gym Logbook peut estimer ce qu’une séance vous a coûté. Le calcul se base sur votre taille, votre poids, votre âge et la durée — une moyenne pour un corps comme le vôtre, pas une mesure.",
+        "ar": "يمكن لـ Gym Logbook تقدير ما كلّفتك الجلسة. يُحتسب ذلك من طولك ووزنك وعمرك ومدة تمرينك — وهو متوسط لجسم مثل جسمك، لا قياس له."
+      },
+      "setup.mass": {
+        "en": "Weight",
+        "ru": "Вес",
+        "hy": "Քաշ",
+        "sv": "Vikt",
+        "nb": "Vekt",
+        "nl": "Gewicht",
+        "da": "Vægt",
+        "pl": "Waga",
+        "fr": "Poids",
+        "ar": "الوزن"
+      },
+      "setup.method": {
+        "en": "Your resting rate comes from the Mifflin–St Jeor equation (1990). The session is scored against the 2024 Adult Compendium of Physical Activities, using what kind of training each exercise is and how long you trained. How much you lifted and how a set felt are not used. Published measurements span a wide range, so read the number as a rough guide.",
+        "ru": "Обмен в покое рассчитывается по формуле Миффлина–Сан Жеора (1990). Тренировка оценивается по справочнику 2024 Adult Compendium of Physical Activities — по типу упражнений и длительности. Вес на штанге и отметки ощущений не учитываются. Измерения в исследованиях сильно разнятся, поэтому считай число ориентиром.",
+        "hy": "Հանգստի նյութափոխանակությունը հաշվարկվում է Mifflin–St Jeor բանաձևով (1990)։ Մարզումը գնահատվում է 2024 Adult Compendium of Physical Activities-ի հիման վրա՝ ըստ վարժությունների տեսակի և տևողության։ Բարձրացրած քաշը և զգացողության նշումները հաշվի չեն առնվում։ Հրապարակված չափումները մեծ տիրույթում են, ուստի ընդունիր թիվը որպես մոտավոր ուղենիշ։",
+        "sv": "Din vilonivå kommer från Mifflin–St Jeor-ekvationen (1990). Passet poängsätts mot 2024 Adult Compendium of Physical Activities utifrån vilken sorts träning varje övning är och hur länge du tränade. Hur mycket du lyfte och hur ett set kändes används inte. Publicerade mätningar spänner brett, så läs siffran som en grov vägledning.",
+        "nb": "Hvilenivået ditt kommer fra Mifflin–St Jeor-ligningen (1990). Økta vurderes mot 2024 Adult Compendium of Physical Activities, ut fra hva slags trening hver øvelse er og hvor lenge du trente. Hvor mye du løftet og hvordan et sett føltes brukes ikke. Publiserte målinger spenner vidt, så les tallet som en grov pekepinn.",
+        "nl": "Je ruststofwisseling komt uit de Mifflin–St Jeor-vergelijking (1990). De sessie wordt gescoord met de 2024 Adult Compendium of Physical Activities, op basis van het soort training per oefening en hoe lang je trainde. Hoeveel je tilde en hoe een set voelde tellen niet mee. Gepubliceerde metingen lopen ver uiteen, dus lees het getal als een ruwe indicatie.",
+        "da": "Dit hvilestofskifte kommer fra Mifflin–St Jeor-ligningen (1990). Passet vurderes mod 2024 Adult Compendium of Physical Activities ud fra, hvilken slags træning hver øvelse er, og hvor længe du trænede. Hvor meget du løftede, og hvordan et sæt føltes, indgår ikke. Publicerede målinger spænder bredt, så læs tallet som en grov rettesnor.",
+        "pl": "Twoja przemiana spoczynkowa pochodzi z równania Mifflina–St Jeora (1990). Trening jest oceniany według 2024 Adult Compendium of Physical Activities — na podstawie rodzaju ćwiczeń i czasu treningu. Ciężar i oznaczenia odczuć nie są brane pod uwagę. Opublikowane pomiary mocno się różnią, więc traktuj liczbę orientacyjnie.",
+        "fr": "Votre métabolisme de repos vient de l’équation de Mifflin–St Jeor (1990). La séance est évaluée d’après le 2024 Adult Compendium of Physical Activities, selon le type de travail de chaque exercice et la durée. La charge soulevée et le ressenti d’une série ne sont pas utilisés. Les mesures publiées varient beaucoup : lisez le chiffre comme un ordre de grandeur.",
+        "ar": "يُحتسب معدل الأيض أثناء الراحة بمعادلة ميفلين–سانت جور (1990). وتُقيَّم الجلسة وفق 2024 Adult Compendium of Physical Activities، حسب نوع التدريب في كل تمرين ومدة تمرينك. لا يُستخدم مقدار الوزن المرفوع ولا علامة الإحساس بالمجموعة. تتباين القياسات المنشورة تباينًا واسعًا، فاعتبر الرقم دليلاً تقريبيًا."
+      },
+      "setup.methodHeader": {
+        "en": "How it is worked out",
+        "ru": "Как это считается",
+        "hy": "Ինչպես է հաշվարկվում",
+        "sv": "Så räknas det ut",
+        "nb": "Slik regnes det ut",
+        "nl": "Hoe het wordt berekend",
+        "da": "Sådan beregnes det",
+        "pl": "Jak to jest liczone",
+        "fr": "Comment c’est calculé",
+        "ar": "كيف يُحتسب"
+      },
+      "setup.point.different": {
+        "en": "Two people doing the same session get different numbers, and neither is exact.",
+        "ru": "У двух людей после одной и той же тренировки числа будут разными, и ни одно не точное.",
+        "hy": "Երկու մարդ նույն մարզումից տարբեր թվեր կստանան, և ոչ մեկը ճշգրիտ չէ։",
+        "sv": "Två personer som kör samma pass får olika siffror, och ingen av dem är exakt.",
+        "nb": "To personer som kjører samme økt får ulike tall, og ingen av dem er eksakte.",
+        "nl": "Twee mensen die dezelfde sessie doen krijgen verschillende getallen, en geen van beide klopt precies.",
+        "da": "To personer, der laver samme pas, får forskellige tal, og ingen af dem er præcise.",
+        "pl": "Dwie osoby po tym samym treningu zobaczą różne liczby i żadna nie jest dokładna.",
+        "fr": "Deux personnes faisant la même séance obtiennent des chiffres différents, et aucun n’est exact.",
+        "ar": "شخصان يؤديان الجلسة نفسها يحصلان على رقمين مختلفين، وليس أيٌّ منهما دقيقًا."
+      },
+      "setup.point.estimate": {
+        "en": "It is an estimate, not a measurement. No sensor is involved.",
+        "ru": "Это оценка, а не измерение. Никаких датчиков.",
+        "hy": "Սա գնահատում է, ոչ թե չափում։ Ոչ մի սենսոր չի օգտագործվում։",
+        "sv": "Det är en uppskattning, inte en mätning. Ingen sensor är inblandad.",
+        "nb": "Det er et anslag, ikke en måling. Ingen sensor er involvert.",
+        "nl": "Het is een schatting, geen meting. Er komt geen sensor aan te pas.",
+        "da": "Det er et estimat, ikke en måling. Ingen sensor er involveret.",
+        "pl": "To szacunek, nie pomiar. Żaden czujnik nie bierze w tym udziału.",
+        "fr": "C’est une estimation, pas une mesure. Aucun capteur n’intervient.",
+        "ar": "هذا تقدير وليس قياسًا. لا يُستخدم أي مستشعر."
+      },
+      "setup.point.health": {
+        "en": "When Apple Health sync is on, the estimate is saved there as active energy.",
+        "ru": "Если включена синхронизация с Apple Health, оценка сохраняется туда как активная энергия.",
+        "hy": "Եթե Apple Health-ի համաժամացումը միացված է, գնահատումը պահվում է այնտեղ որպես ակտիվ էներգիա։",
+        "sv": "När synk med Apple Hälsa är på sparas uppskattningen dit som aktiv energi.",
+        "nb": "Når synkronisering med Apple Helse er på, lagres anslaget der som aktiv energi.",
+        "nl": "Als synchronisatie met Apple Health aanstaat, wordt de schatting daar opgeslagen als actieve energie.",
+        "da": "Når synkronisering med Apple Health er slået til, gemmes estimatet der som aktiv energi.",
+        "pl": "Gdy synchronizacja z Apple Health jest włączona, szacunek zapisuje się tam jako energia aktywna.",
+        "fr": "Si la synchronisation avec Apple Santé est activée, l’estimation y est enregistrée comme énergie active.",
+        "ar": "عند تفعيل المزامنة مع Apple Health، يُحفظ التقدير هناك كطاقة نشطة."
+      },
+      "setup.point.off": {
+        "en": "You can turn it off any time. Nothing is deleted when you do.",
+        "ru": "Можно выключить в любой момент. При этом ничего не удаляется.",
+        "hy": "Կարող ես ցանկացած պահի անջատել։ Ոչինչ չի ջնջվում։",
+        "sv": "Du kan stänga av det när som helst. Ingenting raderas när du gör det.",
+        "nb": "Du kan slå det av når som helst. Ingenting slettes.",
+        "nl": "Je kunt het altijd uitzetten. Er wordt niets verwijderd.",
+        "da": "Du kan slå det fra når som helst. Intet bliver slettet.",
+        "pl": "Możesz to wyłączyć w każdej chwili. Nic nie zostanie usunięte.",
+        "fr": "Vous pouvez le désactiver à tout moment. Rien n’est supprimé.",
+        "ar": "يمكنك إيقافه في أي وقت، ولا يُحذف شيء عند ذلك."
+      },
+      "setup.point.sync": {
+        "en": "When you are signed in, these four values are saved to your account, so another device shows the same numbers.",
+        "ru": "Когда вы вошли в аккаунт, эти четыре значения сохраняются в нём, чтобы на другом устройстве числа совпадали.",
+        "hy": "Երբ մուտք եք գործած, այս չորս արժեքները պահվում են ձեր հաշվում, որպեսզի մյուս սարքում թվերը նույնը լինեն։",
+        "sv": "När du är inloggad sparas de fyra värdena på ditt konto, så att en annan enhet visar samma siffror.",
+        "nb": "Når du er logget inn, lagres disse fire verdiene på kontoen din, slik at en annen enhet viser de samme tallene.",
+        "nl": "Als je bent ingelogd, worden deze vier waarden bij je account bewaard, zodat een ander apparaat dezelfde getallen toont.",
+        "da": "Når du er logget ind, gemmes de fire værdier på din konto, så en anden enhed viser de samme tal.",
+        "pl": "Po zalogowaniu te cztery wartości są zapisywane na Twoim koncie, więc inne urządzenie pokaże te same liczby.",
+        "fr": "Lorsque vous êtes connecté, ces quatre valeurs sont enregistrées sur votre compte, afin qu'un autre appareil affiche les mêmes chiffres.",
+        "ar": "عند تسجيل الدخول، تُحفظ هذه القيم الأربع في حسابك، حتى يعرض جهاز آخر الأرقام نفسها."
+      },
+      "setup.point.watch": {
+        "en": "If a watch records the same session, let the watch be the source — two sources double-count.",
+        "ru": "Если те же тренировки записывают часы, оставь источником часы — два источника задвоят расход.",
+        "hy": "Եթե նույն մարզումը գրանցում է նաև ժամացույցը, թող ժամացույցը լինի աղբյուրը — երկու աղբյուրը կկրկնապատկի հաշիվը։",
+        "sv": "Om en klocka spelar in samma pass, låt klockan vara källan – två källor dubbelräknar.",
+        "nb": "Hvis en klokke registrerer samme økt, la klokken være kilden – to kilder dobbeltteller.",
+        "nl": "Als een horloge dezelfde sessie opneemt, laat het horloge de bron zijn — twee bronnen tellen dubbel.",
+        "da": "Hvis et ur registrerer samme pas, så lad uret være kilden – to kilder tæller dobbelt.",
+        "pl": "Jeśli ten sam trening zapisuje zegarek, niech to on będzie źródłem — dwa źródła liczą podwójnie.",
+        "fr": "Si une montre enregistre la même séance, laissez la montre être la source — deux sources comptent double.",
+        "ar": "إذا كانت ساعة تسجّل الجلسة نفسها، فاجعل الساعة هي المصدر — مصدران يحسبان الطاقة مرتين."
+      },
+      "setup.profileHeader": {
+        "en": "Your body",
+        "ru": "Твоё тело",
+        "hy": "Քո մարմինը",
+        "sv": "Din kropp",
+        "nb": "Kroppen din",
+        "nl": "Jouw lichaam",
+        "da": "Din krop",
+        "pl": "Twoje ciało",
+        "fr": "Votre corps",
+        "ar": "جسمك"
+      },
+      "setup.sex": {
+        "en": "Sex",
+        "ru": "Пол",
+        "hy": "Սեռ",
+        "sv": "Kön",
+        "nb": "Kjønn",
+        "nl": "Geslacht",
+        "da": "Køn",
+        "pl": "Płeć",
+        "fr": "Sexe",
+        "ar": "الجنس"
+      },
+      "setup.sexFooter": {
+        "en": "Used for one constant in the equation and nothing else. Choosing not to say uses the midpoint, which makes the estimate a little less precise.",
+        "ru": "Используется только для одной константы в формуле. Если не указывать, берётся среднее — оценка станет чуть менее точной.",
+        "hy": "Օգտագործվում է միայն բանաձևի մեկ հաստատունի համար։ Չնշելու դեպքում վերցվում է միջինը, և գնահատումը փոքր-ինչ պակաս ճշգրիտ կլինի։",
+        "sv": "Används bara för en konstant i formeln. Väljer du att inte svara används mittvärdet, vilket gör uppskattningen något mindre exakt.",
+        "nb": "Brukes bare til én konstant i formelen. Velger du å ikke svare, brukes midtverdien, og anslaget blir litt mindre presist.",
+        "nl": "Wordt alleen gebruikt voor één constante in de formule. Niets zeggen gebruikt het middelpunt, waardoor de schatting iets minder precies wordt.",
+        "da": "Bruges kun til én konstant i formlen. Vælger du ikke at svare, bruges midtværdien, og estimatet bliver lidt mindre præcist.",
+        "pl": "Służy tylko do jednej stałej we wzorze. Brak odpowiedzi oznacza wartość środkową, przez co szacunek jest nieco mniej dokładny.",
+        "fr": "Sert uniquement à une constante de l’équation. Ne pas répondre utilise la valeur médiane, ce qui rend l’estimation un peu moins précise.",
+        "ar": "يُستخدم فقط لثابت واحد في المعادلة. عدم الإفصاح يستخدم القيمة الوسطى، ما يجعل التقدير أقل دقة قليلاً."
+      },
+      "setup.title": {
+        "en": "Energy estimate",
+        "ru": "Оценка энергии",
+        "hy": "Էներգիայի գնահատում",
+        "sv": "Energiuppskattning",
+        "nb": "Energiestimat",
+        "nl": "Energieschatting",
+        "da": "Energiestimat",
+        "pl": "Szacowana energia",
+        "fr": "Estimation d’énergie",
+        "ar": "تقدير الطاقة"
+      },
+      "sex.female": {
+        "en": "Female",
+        "ru": "Женский",
+        "hy": "Իգական",
+        "sv": "Kvinna",
+        "nb": "Kvinne",
+        "nl": "Vrouw",
+        "da": "Kvinde",
+        "pl": "Kobieta",
+        "fr": "Femme",
+        "ar": "أنثى"
+      },
+      "sex.male": {
+        "en": "Male",
+        "ru": "Мужской",
+        "hy": "Արական",
+        "sv": "Man",
+        "nb": "Mann",
+        "nl": "Man",
+        "da": "Mand",
+        "pl": "Mężczyzna",
+        "fr": "Homme",
+        "ar": "ذكر"
+      },
+      "sex.unspecified": {
+        "en": "Prefer not to say",
+        "ru": "Не указывать",
+        "hy": "Չնշել",
+        "sv": "Vill inte ange",
+        "nb": "Vil ikke oppgi",
+        "nl": "Zeg ik liever niet",
+        "da": "Vil ikke oplyse",
+        "pl": "Wolę nie podawać",
+        "fr": "Je préfère ne pas dire",
+        "ar": "أفضّل عدم الإفصاح"
+      },
+      "title": {
+        "en": "Energy",
+        "ru": "Энергия",
+        "hy": "Էներգիա",
+        "sv": "Energi",
+        "nb": "Energi",
+        "nl": "Energie",
+        "da": "Energi",
+        "pl": "Energia",
+        "fr": "Énergie",
+        "ar": "الطاقة"
+      },
+      "unit.cm": {
+        "en": "cm",
+        "ru": "см",
+        "hy": "սմ",
+        "sv": "cm",
+        "nb": "cm",
+        "nl": "cm",
+        "da": "cm",
+        "pl": "cm",
+        "fr": "cm",
+        "ar": "سم"
+      },
+      "unit.header": {
+        "en": "Show energy in",
+        "ru": "Показывать энергию в",
+        "hy": "Ցույց տալ էներգիան",
+        "sv": "Visa energi i",
+        "nb": "Vis energi i",
+        "nl": "Toon energie in",
+        "da": "Vis energi i",
+        "pl": "Pokazuj energię w",
+        "fr": "Afficher l’énergie en",
+        "ar": "إظهار الطاقة بـ"
+      },
+      "unit.inch": {
+        "en": "in",
+        "ru": "дюйм",
+        "hy": "դյույմ",
+        "sv": "in",
+        "nb": "in",
+        "nl": "in",
+        "da": "in",
+        "pl": "in",
+        "fr": "in",
+        "ar": "بوصة"
+      },
+      "unit.kJ": {
+        "en": "kJ",
+        "ru": "кДж",
+        "hy": "կՋ",
+        "sv": "kJ",
+        "nb": "kJ",
+        "nl": "kJ",
+        "da": "kJ",
+        "pl": "kJ",
+        "fr": "kJ",
+        "ar": "كيلوجول"
+      },
+      "unit.kcal": {
+        "en": "kcal",
+        "ru": "ккал",
+        "hy": "կկալ",
+        "sv": "kcal",
+        "nb": "kcal",
+        "nl": "kcal",
+        "da": "kcal",
+        "pl": "kcal",
+        "fr": "kcal",
+        "ar": "سعرة"
+      }
+    },
+    "HeartRate": {
+      "title": {
+        "en": "Heart rate",
+        "ru": "Пульс",
+        "hy": "Զարկերակ",
+        "sv": "Puls",
+        "nb": "Puls",
+        "nl": "Hartslag",
+        "da": "Puls",
+        "pl": "Tętno",
+        "fr": "Fréquence cardiaque",
+        "ar": "معدل ضربات القلب"
+      },
+      "average": {
+        "en": "Average",
+        "ru": "Средний",
+        "hy": "Միջին",
+        "sv": "Snitt",
+        "nb": "Snitt",
+        "nl": "Gemiddeld",
+        "da": "Gennemsnit",
+        "pl": "Średnie",
+        "fr": "Moyenne",
+        "ar": "المتوسط"
+      },
+      "min": {
+        "en": "Low",
+        "ru": "Минимум",
+        "hy": "Նվազագույն",
+        "sv": "Lägsta",
+        "nb": "Laveste",
+        "nl": "Laagste",
+        "da": "Laveste",
+        "pl": "Najniższe",
+        "fr": "Minimum",
+        "ar": "الأدنى"
+      },
+      "max": {
+        "en": "Peak",
+        "ru": "Максимум",
+        "hy": "Առավելագույն",
+        "sv": "Högsta",
+        "nb": "Høyeste",
+        "nl": "Hoogste",
+        "da": "Højeste",
+        "pl": "Najwyższe",
+        "fr": "Maximum",
+        "ar": "الأعلى"
+      },
+      "bpmValue": {
+        "en": "%d bpm",
+        "ru": "%d уд/мин",
+        "hy": "%d զ/րոպե",
+        "sv": "%d slag/min",
+        "nb": "%d slag/min",
+        "nl": "%d slagen/min",
+        "da": "%d slag/min",
+        "pl": "%d ud./min",
+        "fr": "%d bpm",
+        "ar": "%d نبضة/دقيقة"
+      },
+      "summary": {
+        "en": "Average %1$d, low %2$d, peak %3$d beats per minute",
+        "ru": "Средний %1$d, минимум %2$d, максимум %3$d ударов в минуту",
+        "hy": "Միջին %1$d, նվազագույն %2$d, առավելագույն %3$d զարկ րոպեում",
+        "sv": "Snitt %1$d, lägsta %2$d, högsta %3$d slag per minut",
+        "nb": "Snitt %1$d, laveste %2$d, høyeste %3$d slag i minuttet",
+        "nl": "Gemiddeld %1$d, laagste %2$d, hoogste %3$d slagen per minuut",
+        "da": "Gennemsnit %1$d, laveste %2$d, højeste %3$d slag i minuttet",
+        "pl": "Średnie %1$d, najniższe %2$d, najwyższe %3$d uderzeń na minutę",
+        "fr": "Moyenne %1$d, minimum %2$d, maximum %3$d battements par minute",
+        "ar": "المتوسط %1$d، الأدنى %2$d، الأعلى %3$d نبضة في الدقيقة"
+      },
+      "empty": {
+        "en": "No heart-rate data for this session.",
+        "ru": "Для этой тренировки нет данных о пульсе.",
+        "hy": "Այս մարզման համար զարկերակի տվյալներ չկան։",
+        "sv": "Inga pulsdata för det här passet.",
+        "nb": "Ingen pulsdata for denne økten.",
+        "nl": "Geen hartslaggegevens voor deze sessie.",
+        "da": "Ingen pulsdata for denne træning.",
+        "pl": "Brak danych o tętnie dla tego treningu.",
+        "fr": "Aucune donnée de fréquence cardiaque pour cette séance.",
+        "ar": "لا توجد بيانات لمعدل ضربات القلب لهذه الجلسة."
+      },
+      "settings.toggle": {
+        "en": "Read heart rate from Apple Health",
+        "ru": "Читать пульс из Apple Health",
+        "hy": "Կարդալ զարկերակը Apple Health-ից",
+        "sv": "Läs puls från Apple Hälsa",
+        "nb": "Les puls fra Apple Helse",
+        "nl": "Hartslag lezen uit Apple Health",
+        "da": "Læs puls fra Apple Health",
+        "pl": "Odczytuj tętno z Apple Health",
+        "fr": "Lire la fréquence cardiaque depuis Apple Santé",
+        "ar": "قراءة معدل ضربات القلب من Apple Health"
+      },
+      "settings.footer": {
+        "en": "The only thing Gym Logbook ever reads from Apple Health. When this is on, each finished session's heart-rate readings are copied into the app to draw a chart, and cardio time is costed from your measured rate instead of an average. Lifting still uses the average — heart rate is a poor guide to the energy cost of a heavy set. Turning this off stops all reading; traces already copied stay with their workouts until you delete them.",
+        "ru": "Единственное, что Gym Logbook читает из Apple Health. Когда включено, показания пульса за каждую завершённую тренировку копируются в приложение для графика, а кардио оценивается по измеренному пульсу, а не по среднему значению. Силовая работа по-прежнему считается по среднему: пульс плохо отражает затраты энергии в тяжёлом подходе. Выключение полностью прекращает чтение; уже скопированные данные остаются с тренировками, пока вы их не удалите.",
+        "hy": "Միակ բանը, որ Gym Logbook-ը կարդում է Apple Health-ից։ Երբ միացված է, յուրաքանչյուր ավարտված մարզման զարկերակի ցուցմունքները պատճենվում են հավելված՝ գծապատկեր կառուցելու համար, իսկ կարդիոն հաշվարկվում է չափված զարկերակով, ոչ թե միջինով։ Ուժային աշխատանքը մնում է միջինի վրա. զարկերակը վատ ցուցիչ է ծանր մոտեցման էներգածախսի համար։ Անջատելը դադարեցնում է ամբողջ ընթերցումը. արդեն պատճենվածը մնում է մարզումների հետ, մինչև չջնջեք։",
+        "sv": "Det enda Gym Logbook någonsin läser från Apple Hälsa. När det är på kopieras varje avslutat pass pulsvärden in i appen för att rita ett diagram, och konditionstiden beräknas från din uppmätta puls i stället för ett medelvärde. Styrketräning använder fortfarande medelvärdet – puls är en dålig vägledning till energikostnaden för ett tungt set. Att stänga av stoppar all läsning; redan kopierade kurvor stannar hos sina pass tills du raderar dem.",
+        "nb": "Det eneste Gym Logbook noen gang leser fra Apple Helse. Når dette er på, kopieres pulsmålingene fra hver fullførte økt inn i appen for å tegne en graf, og kondisjonstid beregnes fra den målte pulsen din i stedet for et gjennomsnitt. Styrke bruker fortsatt gjennomsnittet – puls er en dårlig pekepinn på energikostnaden i et tungt sett. Å slå det av stopper all lesing; kurver som allerede er kopiert blir hos øktene sine til du sletter dem.",
+        "nl": "Het enige dat Gym Logbook ooit uit Apple Health leest. Als dit aanstaat, worden de hartslagmetingen van elke voltooide sessie in de app gekopieerd om een grafiek te tekenen, en wordt cardiotijd berekend met je gemeten hartslag in plaats van een gemiddelde. Krachttraining gebruikt nog steeds het gemiddelde — hartslag zegt weinig over de energiekosten van een zware set. Uitzetten stopt al het lezen; al gekopieerde grafieken blijven bij hun workouts tot je ze verwijdert.",
+        "da": "Det eneste Gym Logbook nogensinde læser fra Apple Health. Når dette er slået til, kopieres pulsmålingerne fra hver afsluttet træning ind i appen for at tegne en graf, og konditionstid beregnes ud fra din målte puls i stedet for et gennemsnit. Styrketræning bruger stadig gennemsnittet – puls siger ikke meget om energiforbruget i et tungt sæt. Slår du det fra, stopper al læsning; allerede kopierede kurver bliver hos deres træninger, indtil du sletter dem.",
+        "pl": "Jedyna rzecz, jaką Gym Logbook kiedykolwiek odczytuje z Apple Health. Gdy ta opcja jest włączona, odczyty tętna z każdego zakończonego treningu są kopiowane do aplikacji, aby narysować wykres, a czas cardio jest wyceniany na podstawie zmierzonego tętna zamiast wartości średniej. Trening siłowy nadal korzysta ze średniej — tętno słabo opisuje koszt energetyczny ciężkiej serii. Wyłączenie zatrzymuje cały odczyt; już skopiowane przebiegi zostają przy swoich treningach, dopóki ich nie usuniesz.",
+        "fr": "La seule chose que Gym Logbook lit dans Apple Santé. Lorsque cette option est activée, les mesures de fréquence cardiaque de chaque séance terminée sont copiées dans l’app pour tracer un graphique, et le temps de cardio est évalué à partir de votre fréquence mesurée plutôt que d’une moyenne. La musculation continue d’utiliser la moyenne : la fréquence cardiaque renseigne mal sur le coût énergétique d’une série lourde. La désactiver arrête toute lecture ; les tracés déjà copiés restent avec leurs séances jusqu’à ce que vous les supprimiez.",
+        "ar": "الشيء الوحيد الذي يقرأه Gym Logbook من Apple Health. عند تفعيل هذا الخيار تُنسخ قراءات معدل ضربات القلب لكل جلسة منتهية إلى التطبيق لرسم مخطط، ويُحتسب وقت الكارديو من معدلك المقاس بدلاً من متوسط عام. أما تمارين الأثقال فتبقى على المتوسط، لأن معدل ضربات القلب دليل ضعيف على تكلفة الطاقة في المجموعة الثقيلة. إيقاف الخيار يوقف القراءة تماماً، وتبقى المخططات المنسوخة مع تمارينها حتى تحذفها."
+      },
+      "settings.pending": {
+        "en": "Waiting for Apple Health — a watch can take a few minutes to hand over a session. Open the workout again later.",
+        "ru": "Ожидание Apple Health — часам нужно несколько минут, чтобы передать тренировку. Откройте её позже.",
+        "hy": "Սպասում է Apple Health-ին — ժամացույցին կարող է մի քանի րոպե պետք գալ։ Բացեք մարզումը ավելի ուշ։",
+        "sv": "Väntar på Apple Hälsa – en klocka kan behöva några minuter. Öppna passet igen senare.",
+        "nb": "Venter på Apple Helse – en klokke kan bruke noen minutter. Åpne økten igjen senere.",
+        "nl": "Wachten op Apple Health — een horloge heeft soms een paar minuten nodig. Open de workout later opnieuw.",
+        "da": "Venter på Apple Health – et ur kan være et par minutter om det. Åbn træningen igen senere.",
+        "pl": "Czekam na Apple Health — zegarek może potrzebować kilku minut. Otwórz trening później.",
+        "fr": "En attente d’Apple Santé — une montre peut mettre quelques minutes. Rouvrez la séance plus tard.",
+        "ar": "في انتظار Apple Health — قد تحتاج الساعة بضع دقائق. افتح التمرين لاحقاً."
       }
     },
     "Exercise": {
@@ -8799,16 +9271,16 @@
         "ar": "فشل مزامنة %lld من التدريبات. استخدم مزامنة الأخيرة أو إعادة المحاولة على تمرين."
       },
       "settings.footer": {
-        "en": "Finished workouts are saved to Apple Health as workout time only. Calories are never estimated or written.",
-        "ru": "Завершенные тренировки сохраняются в Apple Health только как время тренировки. Калории никогда не оцениваются и не записываются.",
-        "hy": "Ավարտված մարզումները պահվում են Apple Health-ում՝ որպես միայն մարզումների ժամանակ: Կալորիաները երբեք չեն գնահատվում կամ գրվում:",
-        "sv": "Färdiga träningspass sparas till Apple Health endast som träningstid. Kalorier uppskattas eller skrivs aldrig.",
-        "nb": "Ferdige treningsøkter lagres kun til Apple Health som treningstid. Kalorier blir aldri estimert eller skrevet.",
-        "nl": "Voltooide trainingen worden alleen als trainingstijd in Apple Health opgeslagen. Calorieën worden nooit geschat of geschreven.",
-        "da": "Færdige træninger gemmes kun som træningstid i Apple Health. Kalorier estimeres eller skrives aldrig.",
-        "pl": "Zakończone treningi są zapisywane w Apple Health wyłącznie jako czas treningu. Kalorie nigdy nie są szacowane ani zapisywane.",
-        "fr": "Les entraînements terminés sont enregistrés dans Apple Health uniquement en tant que durée d’entraînement. Les calories ne sont jamais estimées ni écrites.",
-        "ar": "يتم حفظ التدريبات المنتهية في Apple Health كوقت تمرين فقط. لا يتم تقدير السعرات الحرارية أو كتابتها أبدًا."
+        "en": "Finished workouts are saved to Apple Health as workout time. Energy is written only when you turn on the energy estimate.",
+        "ru": "Завершённые тренировки сохраняются в Apple Health как время тренировки. Энергия записывается, только если включена оценка энергии.",
+        "hy": "Ավարտված մարզումները պահվում են Apple Health-ում որպես մարզման ժամանակ։ Էներգիան գրվում է միայն այն դեպքում, երբ միացված է էներգիայի գնահատումը։",
+        "sv": "Avslutade pass sparas i Apple Hälsa som träningstid. Energi skrivs bara när du slår på energiuppskattningen.",
+        "nb": "Fullførte økter lagres i Apple Helse som treningstid. Energi skrives bare når du slår på energianslaget.",
+        "nl": "Afgeronde workouts worden in Apple Health opgeslagen als trainingstijd. Energie wordt alleen weggeschreven als je de energieschatting aanzet.",
+        "da": "Afsluttede pas gemmes i Apple Health som træningstid. Energi skrives kun, når du slår energiestimatet til.",
+        "pl": "Ukończone treningi zapisują się w Apple Health jako czas treningu. Energia zapisuje się tylko wtedy, gdy włączysz szacowaną energię.",
+        "fr": "Les séances terminées sont enregistrées dans Apple Santé comme durée d’entraînement. L’énergie n’est écrite que si vous activez l’estimation d’énergie.",
+        "ar": "تُحفظ التمارين المكتملة في Apple Health كوقت تمرين. ولا تُكتب الطاقة إلا عند تفعيل تقدير الطاقة."
       },
       "settings.openHealth": {
         "en": "Open Health",
@@ -8931,16 +9403,16 @@
         "ar": "التدريبات محدّثة في Apple Health."
       },
       "settings.whatSyncsBody": {
-        "en": "Finished workouts sync to Apple Health as workout time, plus distance when available. Calories, heart rate, and other health data are never read or written.",
-        "ru": "Завершенные тренировки синхронизируются с Apple Health как время тренировки и расстояние, если оно доступно. Калории, частота сердечных сокращений и другие данные о здоровье никогда не считываются и не записываются.",
-        "hy": "Ավարտված մարզումները համաժամացվում են Apple Health-ի հետ՝ որպես մարզման ժամանակ, գումարած հեռավորությունը, երբ հասանելի է: Կալորիաները, սրտի հաճախությունը և առողջական այլ տվյալներ երբեք չեն կարդացվում կամ գրվում:",
-        "sv": "Avslutade träningspass synkroniseras till Apple Health som träningstid, plus sträcka när det är tillgängligt. Kalorier, puls och andra hälsodata läses eller skrivs aldrig.",
-        "nb": "Fullførte treningsøkter synkroniseres til Apple Health som treningstid, pluss distanse når tilgjengelig. Kalorier, puls og andre helsedata blir aldri lest eller skrevet.",
-        "nl": "Voltooide trainingen worden gesynchroniseerd met Apple Health als trainingstijd, plus afstand indien beschikbaar. Calorieën, hartslag en andere gezondheidsgegevens worden nooit gelezen of geschreven.",
-        "da": "Afsluttede træningspas synkroniseres til Apple Health som træningstid, plus distance når tilgængelig. Kalorier, puls og andre sundhedsdata læses eller skrives aldrig.",
-        "pl": "Ukończone treningi są synchronizowane z Apple Health jako czas treningu oraz dystans, jeśli jest dostępny. Kalorie, tętno i inne dane zdrowotne nigdy nie są odczytywane ani zapisywane.",
-        "fr": "Les entraînements terminés sont synchronisés avec Apple Health en tant que durée d'entraînement, ainsi que la distance lorsqu'elle est disponible. Les calories, la fréquence cardiaque et les autres données de santé ne sont jamais lues ni écrites.",
-        "ar": "تتم مزامنة التمارين المكتملة مع Apple Health كوقت تمرين، بالإضافة إلى المسافة عند توفرها. لا تتم قراءة أو كتابة السعرات الحرارية أو معدل ضربات القلب أو أي بيانات صحية أخرى أبدًا."
+        "en": "Finished workouts sync to Apple Health as workout time, plus distance when available. Energy is included only when you turn on the energy estimate — and it is an estimate, not a measurement. Heart rate and other health data are never written, and the app never reads your Health data.",
+        "ru": "Завершённые тренировки синхронизируются с Apple Health как время тренировки и, если есть, дистанция. Энергия добавляется, только если включена оценка энергии, — и это оценка, а не измерение. Пульс и другие данные здоровья не записываются, а данные из Health приложение не читает.",
+        "hy": "Ավարտված մարզումները համաժամացվում են Apple Health-ի հետ որպես մարզման ժամանակ և, առկայության դեպքում, հեռավորություն։ Էներգիան ավելացվում է միայն էներգիայի գնահատումը միացնելիս — և դա գնահատում է, ոչ թե չափում։ Զարկերակը և առողջության այլ տվյալները չեն գրվում, և հավելվածը երբեք չի կարդում Health-ի տվյալները։",
+        "sv": "Avslutade pass synkas till Apple Hälsa som träningstid, plus distans när den finns. Energi ingår bara när du slår på energiuppskattningen – och det är en uppskattning, inte en mätning. Puls och andra hälsodata skrivs aldrig, och appen läser aldrig dina Hälsodata.",
+        "nb": "Fullførte økter synkroniseres til Apple Helse som treningstid, pluss distanse når den finnes. Energi følger bare med når du slår på energianslaget – og det er et anslag, ikke en måling. Puls og andre helsedata skrives aldri, og appen leser aldri Helse-dataene dine.",
+        "nl": "Afgeronde workouts synchroniseren naar Apple Health als trainingstijd, plus afstand indien beschikbaar. Energie gaat alleen mee als je de energieschatting aanzet — en het is een schatting, geen meting. Hartslag en andere gezondheidsgegevens worden nooit weggeschreven, en de app leest je Health-gegevens nooit.",
+        "da": "Afsluttede pas synkroniseres til Apple Health som træningstid plus distance, når den findes. Energi er kun med, når du slår energiestimatet til – og det er et estimat, ikke en måling. Puls og andre sundhedsdata skrives aldrig, og appen læser aldrig dine Health-data.",
+        "pl": "Ukończone treningi synchronizują się z Apple Health jako czas treningu oraz dystans, jeśli jest. Energia trafia tam tylko po włączeniu szacowanej energii — i jest to szacunek, nie pomiar. Tętno i inne dane zdrowotne nigdy nie są zapisywane, a aplikacja nigdy nie czyta danych z Health.",
+        "fr": "Les séances terminées sont synchronisées avec Apple Santé comme durée d’entraînement, plus la distance si elle existe. L’énergie n’est incluse que si vous activez l’estimation d’énergie — et c’est une estimation, pas une mesure. La fréquence cardiaque et les autres données de santé ne sont jamais écrites, et l’app ne lit jamais vos données Santé.",
+        "ar": "تُزامَن التمارين المكتملة مع Apple Health كوقت تمرين، مع المسافة إن وُجدت. ولا تُضاف الطاقة إلا عند تفعيل تقدير الطاقة — وهو تقدير لا قياس. ولا تُكتب نبضات القلب ولا بيانات الصحة الأخرى أبدًا، ولا يقرأ التطبيق بيانات Health إطلاقًا."
       },
       "settings.whatSyncsTitle": {
         "en": "What syncs",
@@ -11746,6 +12218,18 @@
         "fr": "Exercices personnalisés",
         "ar": "تمارين مخصصة"
       },
+      "chapter.energy.title": {
+        "en": "Energy estimate",
+        "ru": "Оценка энергии",
+        "hy": "Էներգիայի գնահատում",
+        "sv": "Energiuppskattning",
+        "nb": "Energiestimat",
+        "nl": "Energieschatting",
+        "da": "Energiestimat",
+        "pl": "Szacowana energia",
+        "fr": "Estimation d’énergie",
+        "ar": "تقدير الطاقة"
+      },
       "chapter.favoritesTip.title": {
         "en": "Favorites & form guides",
         "ru": "Избранное и руководства по формам",
@@ -11961,6 +12445,66 @@
         "pl": "Kontynuuj",
         "fr": "Continuer",
         "ar": "متابعة"
+      },
+      "energyDemo.body": {
+        "en": "Gym Logbook can show roughly what a session cost you. It is off until you turn it on.",
+        "ru": "Gym Logbook может показывать примерный расход за тренировку. По умолчанию выключено.",
+        "hy": "Gym Logbook-ը կարող է ցույց տալ մարզման մոտավոր ծախսը։ Լռելյայն անջատված է։",
+        "sv": "Gymloggbok kan visa ungefär vad ett pass kostade dig. Det är avstängt tills du slår på det.",
+        "nb": "Gymloggbok kan vise omtrent hva en økt kostet deg. Det er av til du slår det på.",
+        "nl": "Gymlogboek kan ruwweg tonen wat een sessie je kostte. Het staat uit tot je het aanzet.",
+        "da": "Gymlogbog kan vise cirka, hvad et pas kostede dig. Det er slået fra, indtil du slår det til.",
+        "pl": "Dziennik siłowni może pokazać z grubsza, ile kosztował cię trening. Domyślnie jest wyłączone.",
+        "fr": "Gym Logbook peut montrer approximativement ce qu’une séance vous a coûté. C’est désactivé par défaut.",
+        "ar": "يمكن لـ Gym Logbook أن يعرض تقريبًا ما كلّفتك الجلسة. وهو مُعطَّل حتى تُفعّله."
+      },
+      "energyDemo.estimate": {
+        "en": "An average from your height, weight and age — not a measurement",
+        "ru": "Среднее по росту, весу и возрасту — не измерение",
+        "hy": "Միջին արժեք ըստ հասակի, քաշի և տարիքի — ոչ թե չափում",
+        "sv": "Ett genomsnitt utifrån längd, vikt och ålder – inte en mätning",
+        "nb": "Et gjennomsnitt ut fra høyde, vekt og alder – ikke en måling",
+        "nl": "Een gemiddelde op basis van lengte, gewicht en leeftijd — geen meting",
+        "da": "Et gennemsnit ud fra højde, vægt og alder – ikke en måling",
+        "pl": "Średnia z wzrostu, wagi i wieku — nie pomiar",
+        "fr": "Une moyenne basée sur la taille, le poids et l’âge — pas une mesure",
+        "ar": "متوسط بحسب الطول والوزن والعمر — وليس قياسًا"
+      },
+      "energyDemo.off": {
+        "en": "Off by default — nothing is estimated until you ask",
+        "ru": "По умолчанию выключено — ничего не считается, пока ты не включишь",
+        "hy": "Լռելյայն անջատված է — ոչինչ չի հաշվարկվում, մինչև չմիացնես",
+        "sv": "Avstängt som standard – inget uppskattas förrän du ber om det",
+        "nb": "Av som standard – ingenting anslås før du ber om det",
+        "nl": "Standaard uit — er wordt niets geschat tot je erom vraagt",
+        "da": "Slået fra som standard – intet estimeres, før du beder om det",
+        "pl": "Domyślnie wyłączone — nic nie jest szacowane, dopóki nie poprosisz",
+        "fr": "Désactivé par défaut — rien n’est estimé tant que vous ne le demandez pas",
+        "ar": "مُعطَّل افتراضيًا — لا يُقدَّر شيء حتى تطلب ذلك"
+      },
+      "energyDemo.title": {
+        "en": "Energy estimate",
+        "ru": "Оценка энергии",
+        "hy": "Էներգիայի գնահատում",
+        "sv": "Energiuppskattning",
+        "nb": "Energiestimat",
+        "nl": "Energieschatting",
+        "da": "Energiestimat",
+        "pl": "Szacowana energia",
+        "fr": "Estimation d’énergie",
+        "ar": "تقدير الطاقة"
+      },
+      "energyDemo.where": {
+        "en": "Turn it on in Account → Preferences",
+        "ru": "Включить: Аккаунт → Настройки",
+        "hy": "Միացրու՝ Հաշիվ → Նախապատվություններ",
+        "sv": "Slå på det i Konto → Inställningar",
+        "nb": "Slå det på i Konto → Innstillinger",
+        "nl": "Zet het aan bij Account → Voorkeuren",
+        "da": "Slå det til i Konto → Indstillinger",
+        "pl": "Włącz w Konto → Preferencje",
+        "fr": "Activez-le dans Compte → Préférences",
+        "ar": "فعّله من الحساب ← التفضيلات"
       },
       "exercise.body": {
         "en": "Tap through the steps. Muscle roles power Insights and balance suggestions.",
@@ -12394,6 +12938,18 @@
         "fr": "Connecté à Apple Santé",
         "ar": "متصل بـ Apple Health"
       },
+      "healthKitDemo.energy": {
+        "en": "Energy only if you turn on the estimate — never otherwise",
+        "ru": "Энергия — только если включить оценку, иначе никогда",
+        "hy": "Էներգիան՝ միայն գնահատումը միացնելու դեպքում, այլապես՝ երբեք",
+        "sv": "Energi bara om du slår på uppskattningen – annars aldrig",
+        "nb": "Energi bare hvis du slår på anslaget – ellers aldri",
+        "nl": "Energie alleen als je de schatting aanzet — anders nooit",
+        "da": "Energi kun hvis du slår estimatet til – ellers aldrig",
+        "pl": "Energia tylko po włączeniu szacunku — inaczej nigdy",
+        "fr": "L’énergie seulement si vous activez l’estimation — jamais autrement",
+        "ar": "الطاقة فقط عند تفعيل التقدير — وإلا فلا"
+      },
       "healthKitDemo.healthAppName": {
         "en": "Apple Health",
         "ru": "Apple Health",
@@ -12405,18 +12961,6 @@
         "pl": "Zdrowie jabłka",
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
-      },
-      "healthKitDemo.noCalories": {
-        "en": "Never estimates or writes calories",
-        "ru": "Никогда не оценивает и не записывает калории",
-        "hy": "Երբեք մի գնահատեք կամ գրեք կալորիաներ",
-        "sv": "Beräknar eller skriver aldrig kalorier",
-        "nb": "Aldri estimerer eller skriver kalorier",
-        "nl": "Schat of schrijft nooit calorieën",
-        "da": "Anslå eller skriver aldrig kalorier",
-        "pl": "Nigdy nie szacuje ani nie zapisuje kalorii",
-        "fr": "N'estime ni n'écrit jamais les calories",
-        "ar": "لا تقدر أو تكتب السعرات الحرارية أبدًا"
       },
       "healthKitDemo.optional": {
         "en": "You choose whether to connect",
@@ -17909,6 +18453,66 @@
         "pl": "Wykonuj je jeden po drugim, bez przerw między ćwiczeniami.",
         "fr": "Faites-les dos à dos sans vous reposer entre les exercices.",
         "ar": "قم بذلك بشكل متتالي دون الراحة بين التمارين."
+      },
+      "insight.history": {
+        "en": "Last time",
+        "ru": "Прошлый раз",
+        "hy": "Անցյալ անգամ",
+        "sv": "Förra gången",
+        "nb": "Forrige gang",
+        "nl": "Vorige keer",
+        "da": "Sidste gang",
+        "pl": "Poprzednio",
+        "fr": "La dernière fois",
+        "ar": "المرة الماضية"
+      },
+      "insight.lastDone": {
+        "en": "Last done %@",
+        "ru": "Последний раз %@",
+        "hy": "Վերջին անգամ՝ %@",
+        "sv": "Senast %@",
+        "nb": "Sist %@",
+        "nl": "Laatst %@",
+        "da": "Sidst %@",
+        "pl": "Ostatnio %@",
+        "fr": "Dernière fois %@",
+        "ar": "آخر مرة %@"
+      },
+      "insight.never": {
+        "en": "Not trained yet",
+        "ru": "Ещё не выполнялось",
+        "hy": "Դեռ չի կատարվել",
+        "sv": "Inte tränad än",
+        "nb": "Ikke trent ennå",
+        "nl": "Nog niet gedaan",
+        "da": "Ikke trænet endnu",
+        "pl": "Jeszcze nietrenowane",
+        "fr": "Pas encore fait",
+        "ar": "لم يُدرَّب بعد"
+      },
+      "insight.popular": {
+        "en": "Popular",
+        "ru": "Популярно",
+        "hy": "Հանրաճանաչ",
+        "sv": "Populär",
+        "nb": "Populær",
+        "nl": "Populair",
+        "da": "Populær",
+        "pl": "Popularne",
+        "fr": "Populaire",
+        "ar": "شائع"
+      },
+      "insight.yourRegular": {
+        "en": "Your regular",
+        "ru": "Ваш выбор",
+        "hy": "Ձեր սովորականը",
+        "sv": "Din favorit",
+        "nb": "Din faste",
+        "nl": "Jouw vaste",
+        "da": "Din faste",
+        "pl": "Twój stały",
+        "fr": "Votre habituel",
+        "ar": "المعتاد لديك"
       },
       "libraryEmpty": {
         "en": "No Supersets Yet",
