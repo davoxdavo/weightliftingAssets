@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789193882,
+  "lastSyncedAt": 1789250030,
   "strings": {
     "Misc": {
       "": {
@@ -3219,6 +3219,18 @@
         "pl": "Zapisz",
         "fr": "Enregistrer",
         "ar": "حفظ"
+      },
+      "next": {
+        "en": "Next",
+        "ru": "Далее",
+        "hy": "Հաջորդը",
+        "sv": "Nästa",
+        "nb": "Neste",
+        "nl": "Volgende",
+        "da": "Næste",
+        "pl": "Dalej",
+        "fr": "Suivant",
+        "ar": "التالي"
       }
     },
     "Discipline": {
@@ -3743,6 +3755,54 @@
         "pl": "Jak działa e1RM",
         "fr": "Comment fonctionne e1RM",
         "ar": "كيف يعمل e1RM"
+      },
+      "reference.change": {
+        "en": "Since your first session",
+        "ru": "С первой тренировки",
+        "hy": "Առաջին մարզումից ի վեր",
+        "sv": "Sedan ditt första pass",
+        "nb": "Siden din første økt",
+        "nl": "Sinds je eerste sessie",
+        "da": "Siden din første session",
+        "pl": "Od pierwszego treningu",
+        "fr": "Depuis votre première séance",
+        "ar": "منذ جلستك الأولى"
+      },
+      "reference.footnote": {
+        "en": "An estimate from your best set — not a record, and not tracked as a goal.",
+        "ru": "Оценка по вашему лучшему подходу — не рекорд и не цель, которую отслеживают.",
+        "hy": "Գնահատական ձեր լավագույն մոտեցման հիման վրա՝ ոչ ռեկորդ և ոչ էլ հետագծվող նպատակ։",
+        "sv": "En uppskattning från ditt bästa set – inget rekord och inget mål som följs upp.",
+        "nb": "Et anslag fra ditt beste sett – ikke en rekord, og ikke et mål som følges opp.",
+        "nl": "Een schatting op basis van je beste set — geen record en geen doel dat wordt bijgehouden.",
+        "da": "Et estimat ud fra dit bedste sæt – ikke en rekord og ikke et mål, der følges.",
+        "pl": "Szacunek na podstawie najlepszej serii — to nie rekord ani śledzony cel.",
+        "fr": "Une estimation d'après votre meilleure série — ni un record, ni un objectif suivi.",
+        "ar": "تقدير من أفضل مجموعة لديك — ليس رقمًا قياسيًا ولا هدفًا يتم تتبعه."
+      },
+      "reference.label": {
+        "en": "Estimated 1RM",
+        "ru": "Расчетный 1ПМ",
+        "hy": "Մոտավոր 1RM",
+        "sv": "Beräknad 1RM",
+        "nb": "Anslått 1RM",
+        "nl": "Geschatte 1RM",
+        "da": "Anslået 1RM",
+        "pl": "Szacowany 1 RM",
+        "fr": "1RM estimé",
+        "ar": "يقدر بـ 1RM"
+      },
+      "reference.title": {
+        "en": "For reference",
+        "ru": "Для справки",
+        "hy": "Տեղեկության համար",
+        "sv": "Som referens",
+        "nb": "Til orientering",
+        "nl": "Ter referentie",
+        "da": "Til orientering",
+        "pl": "Dla orientacji",
+        "fr": "Pour information",
+        "ar": "للمعلومية"
       }
     },
     "Empty": {
@@ -13769,16 +13829,16 @@
         "ar": "تم"
       },
       "library.hub.basicsHint": {
-        "en": "Language, units, logging, and balanced sessions",
-        "ru": "Language, units, logging, and balanced sessions",
-        "hy": "Language, units, logging, and balanced sessions",
-        "sv": "Language, units, logging, and balanced sessions",
-        "nb": "Language, units, logging, and balanced sessions",
-        "nl": "Language, units, logging, and balanced sessions",
-        "da": "Language, units, logging, and balanced sessions",
-        "pl": "Language, units, logging, and balanced sessions",
-        "fr": "Language, units, logging, and balanced sessions",
-        "ar": "Language, units, logging, and balanced sessions"
+        "en": "Logging and balanced sessions",
+        "ru": "Запись подходов и сбалансированные тренировки",
+        "hy": "Գրանցում և հավասարակշռված մարզումներ",
+        "sv": "Loggning och balanserade pass",
+        "nb": "Logging og balanserte økter",
+        "nl": "Loggen en gebalanceerde sessies",
+        "da": "Logning og balancerede pas",
+        "pl": "Zapisywanie i zbalansowane sesje",
+        "fr": "Journal et séances équilibrées",
+        "ar": "التسجيل والجلسات المتوازنة"
       },
       "library.hub.explore": {
         "en": "Explore",
@@ -15039,6 +15099,42 @@
         "pl": "Twój dziennik podnoszenia ciężarów",
         "fr": "Votre carnet d'haltérophilie",
         "ar": "سجل رفع الأثقال الخاص بك"
+      },
+      "personal.trainingStyleDetail": {
+        "en": "Account → Training preferences. Balanced sessions and the picker lead with it.",
+        "ru": "Счет → Настройки обучения. С этого начинаются сбалансированные тренировки и выбор упражнений.",
+        "hy": "Հաշիվ → Վերապատրաստման նախասիրություններ։ Դրանով են սկսվում հավասարակշռված մարզումները և ընտրիչը։",
+        "sv": "Konto → Training preferences. Balanserade pass och väljaren utgår från det.",
+        "nb": "Konto → Training preferences. Balanserte økter og velgeren tar utgangspunkt i det.",
+        "nl": "Rekening → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
+        "da": "Konto → Training preferences. Balancerede pas og vælgeren tager udgangspunkt i det.",
+        "pl": "Konto → Training preferences. Od tego zaczynają się zbalansowane sesje i wybór ćwiczeń.",
+        "fr": "Compte → Training preferences. Les séances équilibrées et le sélecteur en partent.",
+        "ar": "حساب ← Training preferences. الجلسات المتوازنة والمنتقي يبدآن به."
+      },
+      "trainingStyle.body": {
+        "en": "Balanced sessions and the exercise picker lead with what you pick. Gym is always on — change this anytime in Account → Training preferences.",
+        "ru": "Сбалансированные тренировки и выбор упражнений начинаются с того, что вы отметите. Зал включён всегда — изменить можно в любой момент: Счет → Настройки обучения.",
+        "hy": "Հավասարակշռված մարզումները և վարժությունների ընտրիչը սկսվում են ձեր նշածից։ Մարզասրահը միշտ միացված է — փոխեք ցանկացած պահի՝ Հաշիվ → Վերապատրաստման նախասիրություններ։",
+        "sv": "Balanserade pass och övningsväljaren utgår från det du väljer. Gym är alltid på – ändra när som helst under Konto → Training preferences.",
+        "nb": "Balanserte økter og øvelsesvelgeren tar utgangspunkt i det du velger. Gym er alltid på – endre når som helst under Konto → Training preferences.",
+        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Rekening → Training preferences.",
+        "da": "Balancerede pas og øvelsesvælgeren tager udgangspunkt i det, du vælger. Gym er altid slået til – skift når som helst under Konto → Training preferences.",
+        "pl": "Zbalansowane sesje i wybór ćwiczeń zaczynają się od tego, co zaznaczysz. Siłownia jest zawsze włączona — zmień to w dowolnej chwili w Konto → Training preferences.",
+        "fr": "Les séances équilibrées et le sélecteur d'exercices partent de vos choix. La salle est toujours activée — modifiable à tout moment dans Compte → Training preferences.",
+        "ar": "الجلسات المتوازنة ومنتقي التمارين يبدآن بما تختاره. الجيم مفعّل دائمًا — غيّر ذلك في أي وقت من حساب ← Training preferences."
+      },
+      "trainingStyle.title": {
+        "en": "What do you train?",
+        "ru": "Что вы тренируете?",
+        "hy": "Ի՞նչ եք մարզում",
+        "sv": "Vad tränar du?",
+        "nb": "Hva trener du?",
+        "nl": "Wat train je?",
+        "da": "Hvad træner du?",
+        "pl": "Co trenujesz?",
+        "fr": "Que pratiquez-vous ?",
+        "ar": "ماذا تتدرب؟"
       }
     },
     "Performance": {
@@ -15445,6 +15541,66 @@
         "pl": "Najcięższy zestaw",
         "fr": "Ensemble le plus lourd",
         "ar": "أثقل مجموعة"
+      },
+      "series.averageReps": {
+        "en": "Average reps per set",
+        "ru": "Среднее число повторений за подход",
+        "hy": "Միջին կրկնություններ մեկ սեթում",
+        "sv": "Snittrepetitioner per set",
+        "nb": "Snitt repetisjoner per sett",
+        "nl": "Gemiddelde herhalingen per set",
+        "da": "Gennemsnitlige gentagelser pr. sæt",
+        "pl": "Średnia liczba powtórzeń na serię",
+        "fr": "Répétitions moyennes par série",
+        "ar": "متوسط التكرارات لكل مجموعة"
+      },
+      "series.totalReps": {
+        "en": "Total reps per workout",
+        "ru": "Всего повторений за тренировку",
+        "hy": "Ընդհանուր կրկնություններ մեկ մարզման ընթացքում",
+        "sv": "Totalt antal repetitioner per pass",
+        "nb": "Totalt antall repetisjoner per økt",
+        "nl": "Totaal aantal herhalingen per training",
+        "da": "Samlede gentagelser pr. træning",
+        "pl": "Łączna liczba powtórzeń na trening",
+        "fr": "Total de répétitions par séance",
+        "ar": "إجمالي التكرارات لكل تمرين"
+      },
+      "value.averageReps": {
+        "en": "%@ avg",
+        "ru": "ср. %@",
+        "hy": "միջ. %@",
+        "sv": "snitt %@",
+        "nb": "snitt %@",
+        "nl": "gem. %@",
+        "da": "gns. %@",
+        "pl": "śr. %@",
+        "fr": "moy. %@",
+        "ar": "متوسط %@"
+      },
+      "caption.totalReps": {
+        "en": "Total reps: %lld",
+        "ru": "Всего повторений: %lld",
+        "hy": "Ընդհանուր կրկնություններ՝ %lld",
+        "sv": "Totalt antal repetitioner: %lld",
+        "nb": "Totalt antall repetisjoner: %lld",
+        "nl": "Totaal herhalingen: %lld",
+        "da": "Gentagelser i alt: %lld",
+        "pl": "Łącznie powtórzeń: %lld",
+        "fr": "Total de répétitions : %lld",
+        "ar": "إجمالي التكرارات: %lld"
+      },
+      "averageReps.footer": {
+        "en": "Each point is the average reps per set in that workout — not your best set. Tap a point to see that workout's total reps.",
+        "ru": "Каждая точка — среднее число повторений за подход в этой тренировке, а не лучший подход. Нажмите на точку, чтобы увидеть общее число повторений.",
+        "hy": "Յուրաքանչյուր կետ այդ մարզման մեկ սեթի միջին կրկնությունների թիվն է, ոչ թե լավագույն սեթը։ Հպեք կետին՝ մարզման ընդհանուր կրկնությունները տեսնելու համար։",
+        "sv": "Varje punkt är snittet av repetitioner per set i det passet – inte ditt bästa set. Tryck på en punkt för att se passets totala repetitioner.",
+        "nb": "Hvert punkt er snittet av repetisjoner per sett i den økten – ikke ditt beste sett. Trykk på et punkt for å se øktens totale repetisjoner.",
+        "nl": "Elk punt is het gemiddelde aantal herhalingen per set in die training – niet je beste set. Tik op een punt om het totaal aantal herhalingen van die training te zien.",
+        "da": "Hvert punkt er gennemsnittet af gentagelser pr. sæt i den træning – ikke dit bedste sæt. Tryk på et punkt for at se træningens samlede gentagelser.",
+        "pl": "Każdy punkt to średnia liczba powtórzeń na serię w tym treningu – nie Twoja najlepsza seria. Dotknij punktu, aby zobaczyć łączną liczbę powtórzeń w tym treningu.",
+        "fr": "Chaque point correspond à la moyenne de répétitions par série de cette séance, et non à votre meilleure série. Touchez un point pour voir le total de répétitions de la séance.",
+        "ar": "كل نقطة هي متوسط التكرارات لكل مجموعة في ذلك التمرين، وليست أفضل مجموعة لديك. اضغط على نقطة لرؤية إجمالي تكرارات ذلك التمرين."
       }
     },
     "Records": {
@@ -15591,6 +15747,30 @@
         "pl": "Trening niedostępny",
         "fr": "Entraînement indisponible",
         "ar": "التمرين غير متاح"
+      },
+      "category.collapseA11y": {
+        "en": "Collapse %@",
+        "ru": "Свернуть: %@",
+        "hy": "Ծալել՝ %@",
+        "sv": "Komprimera %@",
+        "nb": "Skjul %@",
+        "nl": "%@ samenvouwen",
+        "da": "Skjul %@",
+        "pl": "Zwiń: %@",
+        "fr": "Réduire %@",
+        "ar": "طي %@"
+      },
+      "category.expandA11y": {
+        "en": "Expand %@",
+        "ru": "Развернуть: %@",
+        "hy": "Ընդլայնել՝ %@",
+        "sv": "Utöka %@",
+        "nb": "Utvid %@",
+        "nl": "Vouw %@ uit",
+        "da": "Udvid %@",
+        "pl": "Rozwiń: %@",
+        "fr": "Développer %@",
+        "ar": "توسيع %@"
       }
     },
     "RecycleBin": {
@@ -19795,16 +19975,16 @@
         "ar": "≈ %1$@ · %2$@"
       },
       "energy.footer": {
-        "en": "A rough figure for the plan, not a target. It assumes about three minutes per set, so it moves mostly with how many sets you planned — what a session actually costs depends on how you train it.",
-        "ru": "Грубая оценка плана, а не цель. Считается примерно по три минуты на подход, поэтому зависит в основном от их числа — сколько тренировка стоит на самом деле, решает то, как ты её проведёшь.",
-        "hy": "Պլանի կոպիտ գնահատական է, ոչ թե նպատակ։ Հաշվարկվում է մոտ երեք րոպե մեկ մոտեցման համար, ուստի կախված է հիմնականում մոտեցումների քանակից — իրական արժեքը որոշում է այն, թե ինչպես ես մարզվում։",
-        "sv": "En grov siffra för planen, inte ett mål. Den räknar med ungefär tre minuter per set, så den följer mest hur många set du planerat – vad ett pass faktiskt kostar beror på hur du kör det.",
-        "nb": "Et grovt tall for planen, ikke et mål. Det regner med rundt tre minutter per sett, så det følger mest hvor mange sett du har planlagt – hva en økt faktisk koster, avhenger av hvordan du kjører den.",
-        "nl": "Een ruw getal voor het schema, geen doel. Het rekent met ongeveer drie minuten per set, dus het volgt vooral hoeveel sets je plande — wat een sessie echt kost, hangt af van hoe je hem uitvoert.",
-        "da": "Et groft tal for planen, ikke et mål. Det regner med cirka tre minutter pr. sæt, så det følger mest, hvor mange sæt du har planlagt – hvad et pas faktisk koster, afhænger af, hvordan du kører det.",
-        "pl": "Zgrubna liczba dla planu, nie cel. Zakłada około trzech minut na serię, więc zależy głównie od tego, ile serii zaplanowałeś — ile trening kosztuje naprawdę, zależy od tego, jak go wykonasz.",
-        "fr": "Un ordre de grandeur pour le plan, pas un objectif. Il suppose environ trois minutes par série, donc il suit surtout le nombre de séries prévues — ce qu’une séance coûte réellement dépend de la façon dont vous la menez.",
-        "ar": "رقم تقريبي للخطة، وليس هدفًا. يفترض نحو ثلاث دقائق لكل مجموعة، فيتغيّر أساسًا بعدد المجموعات التي خططت لها — أما كلفة الجلسة فعليًا فتعتمد على طريقة أدائك لها."
+        "en": "A rough figure for the plan, not a target. It is priced over the estimated duration above, so it moves mostly with how many sets you planned and how long you rest — what a session actually costs depends on how you train it.",
+        "ru": "Грубая оценка плана, а не цель. Считается по примерной длительности выше, поэтому зависит в основном от числа подходов и времени отдыха — сколько тренировка стоит на самом деле, решает то, как ты её проведёшь.",
+        "hy": "Պլանի կոպիտ գնահատական է, ոչ թե նպատակ։ Հաշվարկվում է վերևի մոտավոր տևողությամբ, ուստի կախված է հիմնականում մոտեցումների քանակից և հանգստի տևողությունից — իրական արժեքը որոշում է այն, թե ինչպես ես մարզվում։",
+        "sv": "En grov siffra för planen, inte ett mål. Den räknas över den uppskattade tiden ovan, så den följer mest hur många set du planerat och hur länge du vilar – vad ett pass faktiskt kostar beror på hur du kör det.",
+        "nb": "Et grovt tall for planen, ikke et mål. Det regnes over den anslåtte varigheten over, så det følger mest hvor mange sett du har planlagt og hvor lenge du hviler – hva en økt faktisk koster, avhenger av hvordan du kjører den.",
+        "nl": "Een ruw getal voor het schema, geen doel. Het wordt berekend over de geschatte duur hierboven, dus het volgt vooral hoeveel sets je plande en hoe lang je rust — wat een sessie echt kost, hangt af van hoe je hem uitvoert.",
+        "da": "Et groft tal for planen, ikke et mål. Det beregnes over den anslåede varighed ovenfor, så det følger mest, hvor mange sæt du har planlagt, og hvor længe du holder pause – hvad et pas faktisk koster, afhænger af, hvordan du kører det.",
+        "pl": "Zgrubna liczba dla planu, nie cel. Liczona jest dla szacowanego czasu powyżej, więc zależy głównie od liczby zaplanowanych serii i długości przerw — ile trening kosztuje naprawdę, zależy od tego, jak go wykonasz.",
+        "fr": "Un ordre de grandeur pour le plan, pas un objectif. Il est calculé sur la durée estimée ci-dessus, donc il suit surtout le nombre de séries prévues et la durée du repos — ce qu’une séance coûte réellement dépend de la façon dont vous la menez.",
+        "ar": "رقم تقريبي للخطة، وليس هدفًا. يُحسب على المدة التقديرية أعلاه، فيتغيّر أساسًا بعدد المجموعات التي خططت لها ومدة الراحة — أما كلفة الجلسة فعليًا فتعتمد على طريقة أدائك لها."
       },
       "allTemplates": {
         "en": "All Templates",
@@ -20357,6 +20537,54 @@
         "fr": "Rechercher des modèles",
         "ar": "بحث القوالب"
       },
+      "searchWithExercises": {
+        "en": "Search templates and exercises",
+        "ru": "Поиск шаблонов и упражнений",
+        "hy": "Որոնել կաղապարներ և վարժություններ",
+        "sv": "Sök mallar och övningar",
+        "nb": "Søk i maler og øvelser",
+        "nl": "Zoek sjablonen en oefeningen",
+        "da": "Søg i skabeloner og øvelser",
+        "pl": "Szukaj szablonów i ćwiczeń",
+        "fr": "Rechercher des modèles et des exercices",
+        "ar": "ابحث في القوالب والتمارين"
+      },
+      "searchIncludes": {
+        "en": "Includes %@",
+        "ru": "Содержит: %@",
+        "hy": "Ներառում է՝ %@",
+        "sv": "Innehåller %@",
+        "nb": "Inneholder %@",
+        "nl": "Bevat %@",
+        "da": "Indeholder %@",
+        "pl": "Zawiera: %@",
+        "fr": "Contient : %@",
+        "ar": "يتضمن %@"
+      },
+      "durationEstimate": {
+        "en": "≈ %@",
+        "ru": "≈ %@",
+        "hy": "≈ %@",
+        "sv": "≈ %@",
+        "nb": "≈ %@",
+        "nl": "≈ %@",
+        "da": "≈ %@",
+        "pl": "≈ %@",
+        "fr": "≈ %@",
+        "ar": "≈ %@"
+      },
+      "durationA11y": {
+        "en": "Estimated duration: %@",
+        "ru": "Примерная длительность: %@",
+        "hy": "Մոտավոր տևողություն՝ %@",
+        "sv": "Uppskattad längd: %@",
+        "nb": "Anslått varighet: %@",
+        "nl": "Geschatte duur: %@",
+        "da": "Anslået varighed: %@",
+        "pl": "Szacowany czas: %@",
+        "fr": "Durée estimée : %@",
+        "ar": "المدة المقدرة: %@"
+      },
       "startWorkout": {
         "en": "Start Workout",
         "ru": "Начать тренировку",
@@ -20368,6 +20596,42 @@
         "pl": "Rozpocznij trening",
         "fr": "Commencer l'entraînement",
         "ar": "ابدأ التمرين"
+      },
+      "duration.title": {
+        "en": "Estimated duration",
+        "ru": "Примерная длительность",
+        "hy": "Մոտավոր տևողություն",
+        "sv": "Uppskattad tid",
+        "nb": "Anslått varighet",
+        "nl": "Geschatte duur",
+        "da": "Anslået varighed",
+        "pl": "Szacowany czas",
+        "fr": "Durée estimée",
+        "ar": "المدة التقديرية"
+      },
+      "duration.value": {
+        "en": "≈ %@",
+        "ru": "≈ %@",
+        "hy": "≈ %@",
+        "sv": "≈ %@",
+        "nb": "≈ %@",
+        "nl": "≈ %@",
+        "da": "≈ %@",
+        "pl": "≈ %@",
+        "fr": "≈ %@",
+        "ar": "≈ %@"
+      },
+      "duration.footer": {
+        "en": "Planned sets plus the rest between them — the rest timer you saved for each exercise, or 1:30 — and about a minute to move between exercises. Warm-ups aren’t included.",
+        "ru": "Запланированные подходы плюс отдых между ними — таймер отдыха, сохранённый для каждого упражнения, или 1:30 — и около минуты на переход между упражнениями. Разминка не учитывается.",
+        "hy": "Պլանավորված մոտեցումները և դրանց միջև հանգիստը — յուրաքանչյուր վարժության համար պահպանված հանգստի ժամանակաչափը կամ 1:30 — և մոտ մեկ րոպե՝ վարժությունների միջև անցման համար։ Տաքացումը հաշվի չի առնվում։",
+        "sv": "Planerade set plus vilan mellan dem – vilotimern du sparat för varje övning, eller 1:30 – och ungefär en minut för att byta övning. Uppvärmning räknas inte med.",
+        "nb": "Planlagte sett pluss pausen mellom dem – pausetimeren du har lagret for hver øvelse, eller 1:30 – og omtrent ett minutt for å bytte øvelse. Oppvarming er ikke med.",
+        "nl": "Geplande sets plus de rust ertussen – de rusttimer die je per oefening hebt bewaard, of 1:30 – en ongeveer een minuut om van oefening te wisselen. Opwarmen telt niet mee.",
+        "da": "Planlagte sæt plus pausen mellem dem – den pausetimer, du har gemt for hver øvelse, eller 1:30 – og cirka en minut til at skifte øvelse. Opvarmning er ikke medregnet.",
+        "pl": "Zaplanowane serie plus przerwy między nimi — minutnik przerwy zapisany dla każdego ćwiczenia albo 1:30 — i około minuty na przejście do kolejnego ćwiczenia. Rozgrzewka nie jest wliczona.",
+        "fr": "Les séries prévues plus le repos entre elles — le minuteur de repos enregistré pour chaque exercice, ou 1:30 — et environ une minute pour passer d’un exercice à l’autre. L’échauffement n’est pas compté.",
+        "ar": "المجموعات المخطط لها مع الراحة بينها — مؤقت الراحة المحفوظ لكل تمرين، أو 1:30 — ونحو دقيقة للانتقال بين التمارين. لا يشمل الإحماء."
       }
     },
     "Theme": {
@@ -21442,6 +21706,152 @@
         "pl": "Kliknij, aby wznowić",
         "fr": "Appuyez pour reprendre",
         "ar": "انقر للاستئناف"
+      }
+    },
+    "ContactUsPrompt": {
+      "action": {
+        "en": "Contact us",
+        "ru": "Написать нам",
+        "hy": "Կապվել մեզ հետ",
+        "sv": "Kontakta oss",
+        "nb": "Kontakt oss",
+        "nl": "Neem contact op",
+        "da": "Kontakt os",
+        "pl": "Skontaktuj się z nami",
+        "fr": "Nous contacter",
+        "ar": "تواصل معنا"
+      },
+      "body": {
+        "en": "You've been training with Gym Logbook for a bit. Mind sending us a quick note about what's working, or what's not?",
+        "ru": "Ты уже какое-то время тренируешься с Gym Logbook. Не против прислать нам пару слов о том, что нравится, а что нет?",
+        "hy": "Դու արդեն որոշ ժամանակ մարզվում ես Gym Logbook-ով։ Կարո՞ղ ես մեզ մի քանի խոսքով գրել՝ ինչն է աշխատում, և ինչը՝ ոչ։",
+        "sv": "Du har tränat med Gym Logbook ett tag nu. Skicka gärna en snabb rad om vad som fungerar, eller inte.",
+        "nb": "Du har trent med Gym Logbook en stund nå. Send oss gjerne en rask melding om hva som fungerer, eller ikke.",
+        "nl": "Je traint al een tijdje met Gym Logbook. Stuur ons gerust een kort berichtje over wat wel en niet werkt.",
+        "da": "Du har trænet med Gym Logbook et stykke tid nu. Send os gerne en kort besked om, hvad der fungerer, eller ikke gør.",
+        "pl": "Trenujesz z Gym Logbook już jakiś czas. Napisz nam krótko, co działa dobrze, a co nie.",
+        "fr": "Vous vous entraînez avec Gym Logbook depuis un moment. N'hésitez pas à nous envoyer un petit mot sur ce qui fonctionne, ou pas.",
+        "ar": "أنت تتدرّب مع Gym Logbook منذ فترة. هل تودّ إرسال ملاحظة سريعة حول ما ينجح وما لا ينجح؟"
+      },
+      "mail.accountLabel": {
+        "en": "Account",
+        "ru": "Аккаунт",
+        "hy": "Հաշիվ",
+        "sv": "Konto",
+        "nb": "Konto",
+        "nl": "Account",
+        "da": "Konto",
+        "pl": "Konto",
+        "fr": "Compte",
+        "ar": "الحساب"
+      },
+      "mail.appVersionLabel": {
+        "en": "App version",
+        "ru": "Версия приложения",
+        "hy": "Հավելվածի տարբերակը",
+        "sv": "Appversion",
+        "nb": "Appversjon",
+        "nl": "App-versie",
+        "da": "Appversion",
+        "pl": "Wersja aplikacji",
+        "fr": "Version de l'application",
+        "ar": "إصدار التطبيق"
+      },
+      "mail.guest": {
+        "en": "Guest",
+        "ru": "Гость",
+        "hy": "Հյուր",
+        "sv": "Gäst",
+        "nb": "Gjest",
+        "nl": "Gast",
+        "da": "Gæst",
+        "pl": "Gość",
+        "fr": "Invité",
+        "ar": "ضيف"
+      },
+      "mail.signedInFormat": {
+        "en": "Signed in · %@",
+        "ru": "Вошёл в аккаунт · %@",
+        "hy": "Մուտք գործած · %@",
+        "sv": "Inloggad · %@",
+        "nb": "Logget inn · %@",
+        "nl": "Ingelogd · %@",
+        "da": "Logget ind · %@",
+        "pl": "Zalogowano · %@",
+        "fr": "Connecté · %@",
+        "ar": "تم تسجيل الدخول · %@"
+      },
+      "mail.subject": {
+        "en": "Gym Logbook feedback",
+        "ru": "Отзыв о Gym Logbook",
+        "hy": "Կարծիք Gym Logbook-ի մասին",
+        "sv": "Feedback om Gym Logbook",
+        "nb": "Tilbakemelding om Gym Logbook",
+        "nl": "Feedback over Gym Logbook",
+        "da": "Feedback om Gym Logbook",
+        "pl": "Opinia o Gym Logbook",
+        "fr": "Retour sur Gym Logbook",
+        "ar": "ملاحظات حول Gym Logbook"
+      },
+      "noMail.body": {
+        "en": "Copy our address and reach us from any mail app: %@",
+        "ru": "Скопируй наш адрес и напиши нам из любого почтового приложения: %@",
+        "hy": "Պատճենիր մեր հասցեն և գրիր մեզ ցանկացած փոստի հավելվածից՝ %@",
+        "sv": "Kopiera vår adress och nå oss från valfri mejlapp: %@",
+        "nb": "Kopier adressen vår og nå oss fra hvilken som helst e-postapp: %@",
+        "nl": "Kopieer ons adres en bereik ons vanuit elke mail-app: %@",
+        "da": "Kopiér vores adresse, og skriv til os fra en vilkårlig mailapp: %@",
+        "pl": "Skopiuj nasz adres i napisz do nas z dowolnej aplikacji pocztowej: %@",
+        "fr": "Copiez notre adresse et contactez-nous depuis n'importe quelle application de messagerie : %@",
+        "ar": "انسخ عنواننا وتواصل معنا من أي تطبيق بريد: %@"
+      },
+      "noMail.copyEmail": {
+        "en": "Copy Email Address",
+        "ru": "Скопировать адрес почты",
+        "hy": "Պատճենել էլ. հասցեն",
+        "sv": "Kopiera e-postadress",
+        "nb": "Kopiér e-postadresse",
+        "nl": "Kopieer e-mailadres",
+        "da": "Kopiér mailadresse",
+        "pl": "Skopiuj adres e-mail",
+        "fr": "Copier l'adresse e-mail",
+        "ar": "نسخ عنوان البريد الإلكتروني"
+      },
+      "noMail.title": {
+        "en": "No Mail app set up",
+        "ru": "Не настроено почтовое приложение",
+        "hy": "Փոստի հավելված կարգավորված չէ",
+        "sv": "Ingen mejlapp konfigurerad",
+        "nb": "Ingen e-postapp konfigurert",
+        "nl": "Geen mail-app ingesteld",
+        "da": "Ingen mailapp konfigureret",
+        "pl": "Nie skonfigurowano aplikacji Poczta",
+        "fr": "Aucune application Mail configurée",
+        "ar": "لم يتم إعداد تطبيق بريد"
+      },
+      "notNow": {
+        "en": "Not now",
+        "ru": "Не сейчас",
+        "hy": "Ոչ հիմա",
+        "sv": "Inte nu",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "da": "Ikke nu",
+        "pl": "Nie teraz",
+        "fr": "Pas maintenant",
+        "ar": "ليس الآن"
+      },
+      "title": {
+        "en": "Help us improve",
+        "ru": "Помогите нам стать лучше",
+        "hy": "Օգնեք մեզ բարելավվել",
+        "sv": "Hjälp oss att bli bättre",
+        "nb": "Hjelp oss å bli bedre",
+        "nl": "Help ons verbeteren",
+        "da": "Hjælp os med at blive bedre",
+        "pl": "Pomóż nam ulepszyć aplikację",
+        "fr": "Aidez-nous à nous améliorer",
+        "ar": "ساعدنا على التحسّن"
       }
     }
   }

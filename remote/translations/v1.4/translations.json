@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789193882,
+  "lastSyncedAt": 1789250030,
   "minAppVersion": "1.4",
   "strings": {
     "Misc": {
@@ -2787,18 +2787,6 @@
       }
     },
     "Coach": {
-      "balanced.exercises.action": {
-        "en": "Tap an exercise to leave it out",
-        "ru": "Нажмите на упражнение, чтобы исключить его",
-        "hy": "Հպեք վարժությանը՝ այն բաց թողնելու համար",
-        "sv": "Tryck på en övning för att utesluta den",
-        "nb": "Trykk på en øvelse for å utelate den",
-        "nl": "Tik op een oefening om die weg te laten",
-        "da": "Tryk på en øvelse for at udelade den",
-        "pl": "Dotknij ćwiczenia, aby je pominąć",
-        "fr": "Touchez un exercice pour l’exclure",
-        "ar": "المس تمرينًا لاستبعاده"
-      },
       "balanced.exercises.body": {
         "en": "Every suggestion is selected by default. Tap one to leave it out, or use the swap icon to get a different exercise for the same muscle.",
         "ru": "Все предложения выбраны по умолчанию. Нажмите на упражнение, чтобы исключить его, или используйте значок замены, чтобы получить другое упражнение на ту же мышцу.",
@@ -2822,18 +2810,6 @@
         "pl": "Proponowane ćwiczenia",
         "fr": "Vos exercices suggérés",
         "ar": "التمارين المقترحة لك"
-      },
-      "balanced.muscles.action": {
-        "en": "Tap a muscle group to add or remove it",
-        "ru": "Нажмите на группу мышц, чтобы добавить или убрать её",
-        "hy": "Հպեք մկանային խմբին՝ այն ավելացնելու կամ հեռացնելու համար",
-        "sv": "Tryck på en muskelgrupp för att lägga till eller ta bort den",
-        "nb": "Trykk på en muskelgruppe for å legge til eller fjerne den",
-        "nl": "Tik op een spiergroep om die toe te voegen of te verwijderen",
-        "da": "Tryk på en muskelgruppe for at tilføje eller fjerne den",
-        "pl": "Dotknij grupy mięśni, aby ją dodać lub usunąć",
-        "fr": "Touchez un groupe musculaire pour l’ajouter ou le retirer",
-        "ar": "المس مجموعة عضلية لإضافتها أو إزالتها"
       },
       "balanced.muscles.body": {
         "en": "The groups you have trained least are preselected. Tap any chip to add or remove it — the suggestions below update right away.",
@@ -2859,18 +2835,6 @@
         "fr": "Groupes musculaires du jour",
         "ar": "مجموعات اليوم العضلية"
       },
-      "balanced.spider.action": {
-        "en": "Tap a spoke to add that muscle group",
-        "ru": "Нажмите на луч, чтобы добавить эту группу мышц",
-        "hy": "Հպեք ճառագայթին՝ այդ մկանային խումբը ավելացնելու համար",
-        "sv": "Tryck på en spets för att lägga till den muskelgruppen",
-        "nb": "Trykk på en spiss for å legge til den muskelgruppen",
-        "nl": "Tik op een punt om die spiergroep toe te voegen",
-        "da": "Tryk på en spids for at tilføje den muskelgruppe",
-        "pl": "Dotknij ramienia, aby dodać tę grupę mięśni",
-        "fr": "Touchez une branche pour ajouter ce groupe musculaire",
-        "ar": "المس ضلعًا لإضافة تلك المجموعة العضلية"
-      },
       "balanced.spider.body": {
         "en": "Each spoke is a muscle group, measured against what that muscle needs in a week. The further it reaches, the closer you are to its target — the short ones are what you have been skipping.",
         "ru": "Каждый луч — группа мышц, измеренная относительно её недельной нормы. Чем дальше он тянется, тем ближе вы к цели — короткие лучи это то, что вы пропускаете.",
@@ -2895,18 +2859,6 @@
         "fr": "Votre équilibre d’entraînement",
         "ar": "توازن تدريبك"
       },
-      "balanced.start.action": {
-        "en": "Tap Start Balanced Workout",
-        "ru": "Нажмите «Начать сбалансированную тренировку»",
-        "hy": "Հպեք «Սկսել հավասարակշռված մարզում»",
-        "sv": "Tryck på Starta balanserat pass",
-        "nb": "Trykk på Start balansert økt",
-        "nl": "Tik op Gebalanceerde workout starten",
-        "da": "Tryk på Start balanceret træning",
-        "pl": "Dotknij Rozpocznij zrównoważony trening",
-        "fr": "Touchez Démarrer la séance équilibrée",
-        "ar": "المس بدء تمرين متوازن"
-      },
       "balanced.start.body": {
         "en": "That is your session. Nothing here is locked in — you can add, remove or change anything once the workout is open.",
         "ru": "Это ваша тренировка. Ничего не зафиксировано — вы можете добавить, убрать или изменить всё, когда тренировка откроется.",
@@ -2930,30 +2882,6 @@
         "pl": "Zacznij, gdy będziesz gotowy",
         "fr": "Commencez quand vous êtes prêt",
         "ar": "ابدأ عندما تكون جاهزًا"
-      },
-      "balanced.supersets.action": {
-        "en": "Tap the superset to include or skip it",
-        "ru": "Нажмите на суперсет, чтобы включить или пропустить его",
-        "hy": "Հպեք սուպերսեթին՝ այն ներառելու կամ բաց թողնելու համար",
-        "sv": "Tryck på supersetet för att ta med eller hoppa över det",
-        "nb": "Trykk på supersettet for å ta det med eller hoppe over det",
-        "nl": "Tik op de superset om die op te nemen of over te slaan",
-        "da": "Tryk på supersættet for at tage det med eller springe det over",
-        "pl": "Dotknij supersetu, aby go dodać lub pominąć",
-        "fr": "Touchez le superset pour l’inclure ou l’ignorer",
-        "ar": "المس المجموعة المركبة لتضمينها أو تخطيها"
-      },
-      "balanced.supersets.actionToggle": {
-        "en": "Try the switch to see the difference",
-        "ru": "Попробуйте переключатель, чтобы увидеть разницу",
-        "hy": "Փորձեք անջատիչը՝ տարբերությունը տեսնելու համար",
-        "sv": "Testa reglaget för att se skillnaden",
-        "nb": "Prøv bryteren for å se forskjellen",
-        "nl": "Probeer de schakelaar om het verschil te zien",
-        "da": "Prøv kontakten for at se forskellen",
-        "pl": "Użyj przełącznika, aby zobaczyć różnicę",
-        "fr": "Essayez l’interrupteur pour voir la différence",
-        "ar": "جرّب المفتاح لترى الفرق"
       },
       "balanced.supersets.body": {
         "en": "A superset goes into your workout as one group of exercises you alternate between. Turn them off here if you would rather train one exercise at a time.",
@@ -3003,30 +2931,6 @@
         "fr": "Suivant",
         "ar": "التالي"
       },
-      "skip": {
-        "en": "Skip",
-        "ru": "Пропустить",
-        "hy": "Բաց թողնել",
-        "sv": "Hoppa över",
-        "nb": "Hopp over",
-        "nl": "Overslaan",
-        "da": "Spring over",
-        "pl": "Pomiń",
-        "fr": "Passer",
-        "ar": "تخطٍ"
-      },
-      "workout.addSet.action": {
-        "en": "Tap Add Set",
-        "ru": "Нажмите «Добавить подход»",
-        "hy": "Հպեք «Ավելացնել մոտեցում»",
-        "sv": "Tryck på Lägg till set",
-        "nb": "Trykk på Legg til sett",
-        "nl": "Tik op Set toevoegen",
-        "da": "Tryk på Tilføj sæt",
-        "pl": "Dotknij Dodaj serię",
-        "fr": "Touchez Ajouter une série",
-        "ar": "المس إضافة مجموعة"
-      },
       "workout.addSet.body": {
         "en": "Add each set as you finish it, so a row always means a set you really did. The copy icon repeats the set before it.",
         "ru": "Добавляйте каждый подход по мере выполнения, чтобы строка всегда означала действительно сделанный подход. Значок копирования повторяет предыдущий подход.",
@@ -3074,18 +2978,6 @@
         "pl": "Zakończ, gdy skończysz",
         "fr": "Terminez quand vous avez fini",
         "ar": "أنهِ التمرين عندما تنتهي"
-      },
-      "workout.firstSet.action": {
-        "en": "Fill in every value to complete the set",
-        "ru": "Заполните все значения, чтобы завершить подход",
-        "hy": "Լրացրեք բոլոր արժեքները՝ մոտեցումն ավարտելու համար",
-        "sv": "Fyll i alla värden för att slutföra setet",
-        "nb": "Fyll ut alle verdiene for å fullføre settet",
-        "nl": "Vul alle waarden in om de set af te ronden",
-        "da": "Udfyld alle værdier for at fuldføre sættet",
-        "pl": "Uzupełnij wszystkie wartości, aby ukończyć serię",
-        "fr": "Renseignez toutes les valeurs pour terminer la série",
-        "ar": "أدخل جميع القيم لإكمال المجموعة"
       },
       "workout.firstSet.body": {
         "en": "Tap a value to enter what you actually lifted. The set marks itself done once it has everything it needs.",
@@ -3220,6 +3112,18 @@
         "pl": "Zapisz",
         "fr": "Enregistrer",
         "ar": "حفظ"
+      },
+      "next": {
+        "en": "Next",
+        "ru": "Далее",
+        "hy": "Հաջորդը",
+        "sv": "Nästa",
+        "nb": "Neste",
+        "nl": "Volgende",
+        "da": "Næste",
+        "pl": "Dalej",
+        "fr": "Suivant",
+        "ar": "التالي"
       }
     },
     "Discipline": {
@@ -3744,6 +3648,54 @@
         "pl": "Jak działa e1RM",
         "fr": "Comment fonctionne e1RM",
         "ar": "كيف يعمل e1RM"
+      },
+      "reference.change": {
+        "en": "Since your first session",
+        "ru": "С первой тренировки",
+        "hy": "Առաջին մարզումից ի վեր",
+        "sv": "Sedan ditt första pass",
+        "nb": "Siden din første økt",
+        "nl": "Sinds je eerste sessie",
+        "da": "Siden din første session",
+        "pl": "Od pierwszego treningu",
+        "fr": "Depuis votre première séance",
+        "ar": "منذ جلستك الأولى"
+      },
+      "reference.footnote": {
+        "en": "An estimate from your best set — not a record, and not tracked as a goal.",
+        "ru": "Оценка по вашему лучшему подходу — не рекорд и не цель, которую отслеживают.",
+        "hy": "Գնահատական ձեր լավագույն մոտեցման հիման վրա՝ ոչ ռեկորդ և ոչ էլ հետագծվող նպատակ։",
+        "sv": "En uppskattning från ditt bästa set – inget rekord och inget mål som följs upp.",
+        "nb": "Et anslag fra ditt beste sett – ikke en rekord, og ikke et mål som følges opp.",
+        "nl": "Een schatting op basis van je beste set — geen record en geen doel dat wordt bijgehouden.",
+        "da": "Et estimat ud fra dit bedste sæt – ikke en rekord og ikke et mål, der følges.",
+        "pl": "Szacunek na podstawie najlepszej serii — to nie rekord ani śledzony cel.",
+        "fr": "Une estimation d'après votre meilleure série — ni un record, ni un objectif suivi.",
+        "ar": "تقدير من أفضل مجموعة لديك — ليس رقمًا قياسيًا ولا هدفًا يتم تتبعه."
+      },
+      "reference.label": {
+        "en": "Estimated 1RM",
+        "ru": "Расчетный 1ПМ",
+        "hy": "Մոտավոր 1RM",
+        "sv": "Beräknad 1RM",
+        "nb": "Anslått 1RM",
+        "nl": "Geschatte 1RM",
+        "da": "Anslået 1RM",
+        "pl": "Szacowany 1 RM",
+        "fr": "1RM estimé",
+        "ar": "يقدر بـ 1RM"
+      },
+      "reference.title": {
+        "en": "For reference",
+        "ru": "Для справки",
+        "hy": "Տեղեկության համար",
+        "sv": "Som referens",
+        "nb": "Til orientering",
+        "nl": "Ter referentie",
+        "da": "Til orientering",
+        "pl": "Dla orientacji",
+        "fr": "Pour information",
+        "ar": "للمعلومية"
       }
     },
     "Empty": {
@@ -12161,114 +12113,6 @@
         "fr": "À propos des images d’exercices",
         "ar": "حول صور التمارين"
       },
-      "apply.body": {
-        "en": "When you have history, the app suggests the next load. Tap Apply to fill an empty set.",
-        "ru": "Если у вас есть история, приложение предлагает следующую загрузку. Нажмите «Применить», чтобы заполнить пустой набор.",
-        "hy": "Երբ դուք ունեք պատմություն, հավելվածն առաջարկում է հաջորդ բեռնումը: Հպեք Դիմել՝ դատարկ հավաքածուն լրացնելու համար:",
-        "sv": "När du har historik föreslår appen nästa laddning. Tryck på Använd för att fylla en tom uppsättning.",
-        "nb": "Når du har historikk, foreslår appen neste lasting. Trykk på Bruk for å fylle et tomt sett.",
-        "nl": "Als je geschiedenis hebt, stelt de app de volgende lading voor. Tik op Toepassen om een ​​lege set te vullen.",
-        "da": "Når du har historik, foreslår appen den næste indlæsning. Tryk på Anvend for at udfylde et tomt sæt.",
-        "pl": "Gdy masz historię, aplikacja sugeruje następny ładunek. Kliknij Zastosuj, aby wypełnić pusty zestaw.",
-        "fr": "Lorsque vous avez l'historique, l'application suggère le prochain chargement. Appuyez sur Appliquer pour remplir un ensemble vide.",
-        "ar": "عندما يكون لديك سجل، يقترح التطبيق التحميل التالي. اضغط على \"تطبيق\" لملء مجموعة فارغة."
-      },
-      "apply.cta": {
-        "en": "Apply",
-        "ru": "Применять",
-        "hy": "Դիմել",
-        "sv": "Tillämpas",
-        "nb": "Søke",
-        "nl": "Toepassen",
-        "da": "Anvende",
-        "pl": "Stosować",
-        "fr": "Appliquer",
-        "ar": "يتقدم"
-      },
-      "apply.empty": {
-        "en": "— × —",
-        "ru": "— × —",
-        "hy": "— × —",
-        "sv": "— × —",
-        "nb": "— × —",
-        "nl": "— × —",
-        "da": "— × —",
-        "pl": "— × —",
-        "fr": "— × —",
-        "ar": "— × —"
-      },
-      "apply.filled": {
-        "en": "62.5 × 8",
-        "ru": "62.5 × 8",
-        "hy": "62.5 × 8",
-        "sv": "62,5 × 8",
-        "nb": "62,5 × 8",
-        "nl": "62,5×8",
-        "da": "62,5 × 8",
-        "pl": "62,5 × 8",
-        "fr": "62,5 × 8",
-        "ar": "62.5 × 8"
-      },
-      "apply.footer": {
-        "en": "Apply disappears after you use it so the logger stays clean.",
-        "ru": "Apply исчезает после его использования, поэтому регистратор остается чистым.",
-        "hy": "Կիրառումը անհետանում է այն օգտագործելուց հետո, որպեսզի լոգերը մաքուր մնա:",
-        "sv": "Applicering försvinner efter att du har använt den så att loggern förblir ren.",
-        "nb": "Apply forsvinner etter at du har brukt den slik at loggeren forblir ren.",
-        "nl": "Toepassen verdwijnt na gebruik, zodat de logger schoon blijft.",
-        "da": "Applicering forsvinder efter du har brugt den, så loggeren forbliver ren.",
-        "pl": "Apply znika po użyciu, dzięki czemu rejestrator pozostaje czysty.",
-        "fr": "L'application disparaît après son utilisation afin que l'enregistreur reste propre.",
-        "ar": "يختفي التطبيق بعد استخدامه حتى يظل المسجل نظيفًا."
-      },
-      "apply.hint": {
-        "en": "Suggested: 62.5 — you hit all reps last time",
-        "ru": "Рекомендуемое: 62,5 — в прошлый раз вы выполнили все повторения.",
-        "hy": "Առաջարկվող՝ 62.5 — նախորդ անգամ բոլոր կրկնողներին եք խփել",
-        "sv": "Föreslagna: 62,5 — du slog alla reps senast",
-        "nb": "Foreslått: 62,5 — du traff alle reps sist gang",
-        "nl": "Voorgesteld: 62,5 – je hebt de vorige keer alle herhalingen behaald",
-        "da": "Foreslået: 62,5 — du ramte alle reps sidste gang",
-        "pl": "Sugerowana: 62,5 — ostatnim razem wykonałeś wszystkie powtórzenia",
-        "fr": "Suggéré : 62,5 – vous avez effectué toutes les répétitions la dernière fois",
-        "ar": "المقترح: 62.5 — لقد حققت جميع التكرارات في المرة الأخيرة"
-      },
-      "apply.lastLabel": {
-        "en": "Last session",
-        "ru": "Последняя сессия",
-        "hy": "Վերջին նիստը",
-        "sv": "Sista sessionen",
-        "nb": "Siste økt",
-        "nl": "Laatste sessie",
-        "da": "Sidste session",
-        "pl": "Ostatnia sesja",
-        "fr": "Dernière séance",
-        "ar": "الجلسة الأخيرة"
-      },
-      "apply.lastSets": {
-        "en": "60 × 8 · 60 × 8 · 62.5 × 6",
-        "ru": "60 × 8 · 60 × 8 · 62.5 × 6",
-        "hy": "60 × 8 · 60 × 8 · 62.5 × 6",
-        "sv": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "nb": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "nl": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "da": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "pl": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "fr": "60 × 8 · 60 × 8 · 62,5 × 6",
-        "ar": "60 × 8 · 60 × 8 · 62.5 × 6"
-      },
-      "apply.title": {
-        "en": "Build on last time",
-        "ru": "Опирайтесь на прошлый раз",
-        "hy": "Կառուցեք վերջին անգամ",
-        "sv": "Bygg på förra gången",
-        "nb": "Bygg videre på forrige gang",
-        "nl": "Bouw voort op de vorige keer",
-        "da": "Bygg på sidste gang",
-        "pl": "Opieraj się na ostatnim razem",
-        "fr": "Construire sur la dernière fois",
-        "ar": "البناء على آخر مرة"
-      },
       "back": {
         "en": "Back",
         "ru": "Назад",
@@ -12377,66 +12221,6 @@
         "fr": "Onglet Entraînement → Équilibré",
         "ar": "علامة تبويب التمرين → متوازن"
       },
-      "categories.also": {
-        "en": "Also: Cardio, Mobility, and Other",
-        "ru": "Также: Кардио, мобильность и другое.",
-        "hy": "Նաև՝ սիրտ, շարժունակություն և այլն",
-        "sv": "Även: Konditionsträning, rörlighet och annat",
-        "nb": "Også: cardio, mobilitet og annet",
-        "nl": "Ook: Cardio, Mobiliteit en Overig",
-        "da": "Også: Cardio, mobilitet og andet",
-        "pl": "Także: Cardio, mobilność i inne",
-        "fr": "Aussi : Cardio, Mobilité et Autres",
-        "ar": "أيضًا: أمراض القلب والتنقل وغيرها"
-      },
-      "categories.body": {
-        "en": "Each muscle group has a soft color so you can recognize workout types throughout the app.",
-        "ru": "Каждая группа мышц имеет мягкий цвет, поэтому вы можете распознавать типы тренировок в приложении.",
-        "hy": "Յուրաքանչյուր մկանային խումբ ունի փափուկ գույն, որպեսզի կարողանաք ճանաչել մարզումների տեսակները հավելվածում:",
-        "sv": "Varje muskelgrupp har en mjuk färg så att du kan känna igen träningstyper i hela appen.",
-        "nb": "Hver muskelgruppe har en myk farge slik at du kan gjenkjenne treningstyper gjennom hele appen.",
-        "nl": "Elke spiergroep heeft een zachte kleur, zodat je de trainingstypes in de app kunt herkennen.",
-        "da": "Hver muskelgruppe har en blød farve, så du kan genkende træningstyper i hele appen.",
-        "pl": "Każda grupa mięśni ma delikatny kolor, dzięki czemu możesz rozpoznać rodzaje ćwiczeń w całej aplikacji.",
-        "fr": "Chaque groupe musculaire a une couleur douce afin que vous puissiez reconnaître les types d'entraînement dans toute l'application.",
-        "ar": "تتميز كل مجموعة عضلية بلون ناعم حتى تتمكن من التعرف على أنواع التمارين عبر التطبيق."
-      },
-      "categories.title": {
-        "en": "Categories have colors",
-        "ru": "У категорий есть цвета.",
-        "hy": "Կատեգորիաներն ունեն գույներ",
-        "sv": "Kategorier har färger",
-        "nb": "Kategorier har farger",
-        "nl": "Categorieën hebben kleuren",
-        "da": "Kategorier har farver",
-        "pl": "Kategorie mają kolory",
-        "fr": "Les catégories ont des couleurs",
-        "ar": "الفئات لها ألوان"
-      },
-      "chapter.%@.title": {
-        "en": "onboarding.chapter.%@.title",
-        "ru": "onboarding.chapter.%@.title",
-        "hy": "onboarding.chapter.%@.title",
-        "sv": "onboarding.chapter.%@.title",
-        "nb": "onboarding.chapter.%@.title",
-        "nl": "onboarding.chapter.%@.title",
-        "da": "onboarding.chapter.%@.title",
-        "pl": "wprowadzenie.rozdział.%@.tytuł",
-        "fr": "intégration.chapter.%@.title",
-        "ar": "onboarding.chapter.%@.title"
-      },
-      "chapter.apply.title": {
-        "en": "Previous performance",
-        "ru": "Предыдущее выступление",
-        "hy": "Նախորդ կատարումը",
-        "sv": "Tidigare föreställning",
-        "nb": "Tidligere forestilling",
-        "nl": "Vorige optreden",
-        "da": "Tidligere forestilling",
-        "pl": "Poprzedni występ",
-        "fr": "Performance précédente",
-        "ar": "الأداء السابق"
-      },
       "chapter.balanced.title": {
         "en": "Balanced session",
         "ru": "Сбалансированная сессия",
@@ -12449,30 +12233,6 @@
         "fr": "Séance équilibrée",
         "ar": "جلسة متوازنة"
       },
-      "chapter.categories.title": {
-        "en": "Categories & colors",
-        "ru": "Категории и цвета",
-        "hy": "Կատեգորիաներ և գույներ",
-        "sv": "Kategorier & färger",
-        "nb": "Kategorier og farger",
-        "nl": "Categorieën & kleuren",
-        "da": "Kategorier og farver",
-        "pl": "Kategorie i kolory",
-        "fr": "Catégories et couleurs",
-        "ar": "الفئات والألوان"
-      },
-      "chapter.customExercise.title": {
-        "en": "Custom exercises",
-        "ru": "Пользовательские упражнения",
-        "hy": "Պատվերով վարժություններ",
-        "sv": "Anpassade övningar",
-        "nb": "Tilpassede øvelser",
-        "nl": "Oefeningen op maat",
-        "da": "Skræddersyede øvelser",
-        "pl": "Ćwiczenia niestandardowe",
-        "fr": "Exercices personnalisés",
-        "ar": "تمارين مخصصة"
-      },
       "chapter.energy.title": {
         "en": "Energy estimate",
         "ru": "Оценка энергии",
@@ -12484,18 +12244,6 @@
         "pl": "Szacowana energia",
         "fr": "Estimation d’énergie",
         "ar": "تقدير الطاقة"
-      },
-      "chapter.favoritesTip.title": {
-        "en": "Favorites & form guides",
-        "ru": "Избранное и руководства по формам",
-        "hy": "Ընտրյալներ և ձևերի ուղեցույցներ",
-        "sv": "Favoriter och formulärguider",
-        "nb": "Favoritter og skjemaguider",
-        "nl": "Favorieten en formuliergidsen",
-        "da": "Favoritter og formularguider",
-        "pl": "Ulubione i przewodniki po formularzach",
-        "fr": "Favoris et guides de formulaires",
-        "ar": "المفضلة وأدلة النموذج"
       },
       "chapter.gradients.title": {
         "en": "Muscle gradients",
@@ -12521,42 +12269,6 @@
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
       },
-      "chapter.history.title": {
-        "en": "History calendar",
-        "ru": "Календарь истории",
-        "hy": "Պատմության օրացույց",
-        "sv": "Historik kalender",
-        "nb": "Historiekalender",
-        "nl": "Geschiedenis kalender",
-        "da": "Historie kalender",
-        "pl": "Kalendarz historii",
-        "fr": "Calendrier historique",
-        "ar": "تقويم التاريخ"
-      },
-      "chapter.language.title": {
-        "en": "Language",
-        "ru": "Язык",
-        "hy": "Լեզու",
-        "sv": "Språk",
-        "nb": "Språk",
-        "nl": "Taal",
-        "da": "Sprog",
-        "pl": "Język",
-        "fr": "Langue",
-        "ar": "لغة"
-      },
-      "chapter.layout.title": {
-        "en": "List or Cards",
-        "ru": "Список или карты",
-        "hy": "Ցուցակ կամ քարտեր",
-        "sv": "Lista eller kort",
-        "nb": "Liste eller kort",
-        "nl": "Lijst of kaarten",
-        "da": "Liste eller kort",
-        "pl": "Lista lub karty",
-        "fr": "Liste ou cartes",
-        "ar": "القائمة أو البطاقات"
-      },
       "chapter.logging.title": {
         "en": "Logging sets",
         "ru": "Наборы журналов",
@@ -12569,18 +12281,6 @@
         "fr": "Ensembles de journalisation",
         "ar": "مجموعات التسجيل"
       },
-      "chapter.measurement.title": {
-        "en": "Measurement System",
-        "ru": "Система измерения",
-        "hy": "Չափման համակարգ",
-        "sv": "Measurement System",
-        "nb": "Measurement System",
-        "nl": "Measurement System",
-        "da": "Measurement System",
-        "pl": "Measurement System",
-        "fr": "Measurement System",
-        "ar": "Measurement System"
-      },
       "chapter.personalization.title": {
         "en": "Personalization",
         "ru": "Персонализация",
@@ -12592,18 +12292,6 @@
         "pl": "Personalizacja",
         "fr": "Personnalisation",
         "ar": "التخصيص"
-      },
-      "chapter.ready.title": {
-        "en": "You're ready",
-        "ru": "Ты готов",
-        "hy": "դու պատրաստ ես",
-        "sv": "Du är redo",
-        "nb": "Du er klar",
-        "nl": "Je bent klaar",
-        "da": "Du er klar",
-        "pl": "Jesteś gotowy",
-        "fr": "Tu es prêt",
-        "ar": "أنت جاهز"
       },
       "chapter.recordsInsights.title": {
         "en": "Records & Insights",
@@ -12628,18 +12316,6 @@
         "pl": "Kosz",
         "fr": "Corbeille",
         "ar": "سلة المحذوفات"
-      },
-      "chapter.restTimer.title": {
-        "en": "Rest timer",
-        "ru": "Таймер отдыха",
-        "hy": "Հանգստի ժամանակաչափ",
-        "sv": "Vilotimer",
-        "nb": "Hviletimer",
-        "nl": "Rusttimer",
-        "da": "Hviletimer",
-        "pl": "Zegar odpoczynku",
-        "fr": "Minuterie de repos",
-        "ar": "مؤقت الراحة"
       },
       "chapter.supersets.title": {
         "en": "Supersets",
@@ -12676,18 +12352,6 @@
         "pl": "Wygląd",
         "fr": "Apparence",
         "ar": "المظهر"
-      },
-      "chapter.welcome.title": {
-        "en": "Welcome",
-        "ru": "Добро пожаловать",
-        "hy": "Բարի գալուստ",
-        "sv": "Välkomna",
-        "nb": "Velkomst",
-        "nl": "Welkom",
-        "da": "Velkomst",
-        "pl": "Powitanie",
-        "fr": "Accueillir",
-        "ar": "مرحباً"
       },
       "continue": {
         "en": "Continue",
@@ -12760,198 +12424,6 @@
         "pl": "Włącz w Konto → Preferencje",
         "fr": "Activez-le dans Compte → Préférences",
         "ar": "فعّله من الحساب ← التفضيلات"
-      },
-      "exercise.body": {
-        "en": "Tap through the steps. Muscle roles power Insights and balance suggestions.",
-        "ru": "Нажмите на шаги. Роли мышц обеспечивают понимание и предложения по балансу.",
-        "hy": "Հպեք քայլերին: Մկանների դերերի ուժը Խորաթափանցություն և հավասարակշռության առաջարկներ:",
-        "sv": "Klicka dig igenom stegen. Muskelroller kraft Insikter och balansförslag.",
-        "nb": "Trykk gjennom trinnene. Muskelroller makt Innsikt og balanseforslag.",
-        "nl": "Tik door de stappen. Spierrollen kracht Inzichten en balanssuggesties.",
-        "da": "Tryk gennem trinene. Muskelroller magt Indsigt og balanceforslag.",
-        "pl": "Stuknij kolejne kroki. Role mięśni wpływają na spostrzeżenia i sugestie dotyczące równowagi.",
-        "fr": "Appuyez sur les étapes. Les rôles musculaires alimentent les idées et les suggestions d’équilibre.",
-        "ar": "اضغط من خلال الخطوات. أدوار العضلات رؤى القوة واقتراحات التوازن."
-      },
-      "exercise.catalogNote": {
-        "en": "Most lifts are already in the catalog — create custom only when you need something new.",
-        "ru": "Большинство лифтов уже есть в каталоге — создавайте кастомные только тогда, когда вам понадобится что-то новое.",
-        "hy": "Վերելակների մեծ մասն արդեն կատալոգում է. ստեղծեք հատուկ միայն այն ժամանակ, երբ ձեզ նոր բան է անհրաժեշտ:",
-        "sv": "De flesta hissar finns redan i katalogen - skapa anpassade bara när du behöver något nytt.",
-        "nb": "De fleste heiser er allerede i katalogen - lag kun tilpassede når du trenger noe nytt.",
-        "nl": "De meeste liften staan ​​al in de catalogus. Maak alleen aangepaste liften als u iets nieuws nodig heeft.",
-        "da": "De fleste lifte er allerede i kataloget - lav kun brugerdefinerede, når du har brug for noget nyt.",
-        "pl": "Większość podnośników jest już w katalogu — twórz niestandardowe tylko wtedy, gdy potrzebujesz czegoś nowego.",
-        "fr": "La plupart des ascenseurs sont déjà dans le catalogue : créez des personnalisations uniquement lorsque vous avez besoin de quelque chose de nouveau.",
-        "ar": "معظم المصاعد موجودة بالفعل في الكتالوج - قم بإنشاء المصاعد المخصصة فقط عندما تحتاج إلى شيء جديد."
-      },
-      "exercise.current": {
-        "en": "Now",
-        "ru": "Сейчас",
-        "hy": "Հիմա",
-        "sv": "Nu",
-        "nb": "Nå",
-        "nl": "Nu",
-        "da": "Nu",
-        "pl": "Teraz",
-        "fr": "Maintenant",
-        "ar": "الآن"
-      },
-      "exercise.nextStep": {
-        "en": "Next Step",
-        "ru": "Следующий шаг",
-        "hy": "Հաջորդ քայլը",
-        "sv": "Nästa steg",
-        "nb": "Neste trinn",
-        "nl": "Volgende stap",
-        "da": "Næste trin",
-        "pl": "Następny krok",
-        "fr": "Étape suivante",
-        "ar": "الخطوة التالية"
-      },
-      "exercise.step1": {
-        "en": "1. Tap +",
-        "ru": "1. Нажмите +",
-        "hy": "1. Հպեք +",
-        "sv": "1. Tryck på +",
-        "nb": "1. Trykk på +",
-        "nl": "1. Tik op +",
-        "da": "1. Tryk på +",
-        "pl": "1. Stuknij +",
-        "fr": "1. Appuyez sur +",
-        "ar": "1. اضغط على +"
-      },
-      "exercise.step2": {
-        "en": "2. Choose a category",
-        "ru": "2. Выберите категорию",
-        "hy": "2. Ընտրեք կատեգորիա",
-        "sv": "2. Välj en kategori",
-        "nb": "2. Velg en kategori",
-        "nl": "2. Kies een categorie",
-        "da": "2. Vælg en kategori",
-        "pl": "2. Wybierz kategorię",
-        "fr": "2. Choisissez une catégorie",
-        "ar": "2. اختر فئة"
-      },
-      "exercise.step3": {
-        "en": "3. Enter the exercise name",
-        "ru": "3. Введите название упражнения.",
-        "hy": "3. Մուտքագրեք վարժության անվանումը",
-        "sv": "3. Ange träningsnamnet",
-        "nb": "3. Skriv inn treningsnavnet",
-        "nl": "3. Voer de naam van de oefening in",
-        "da": "3. Indtast træningsnavnet",
-        "pl": "3. Wpisz nazwę ćwiczenia",
-        "fr": "3. Entrez le nom de l'exercice",
-        "ar": "3. أدخل اسم التمرين"
-      },
-      "exercise.step4": {
-        "en": "4. Select primary muscle",
-        "ru": "4. Выберите основную мышцу.",
-        "hy": "4. Ընտրեք առաջնային մկան",
-        "sv": "4. Välj primär muskel",
-        "nb": "4. Velg primær muskel",
-        "nl": "4. Selecteer de primaire spier",
-        "da": "4. Vælg primær muskel",
-        "pl": "4. Wybierz mięsień główny",
-        "fr": "4. Sélectionnez le muscle principal",
-        "ar": "4. حدد العضلات الأساسية"
-      },
-      "exercise.step5": {
-        "en": "5. Select secondary muscles",
-        "ru": "5. Выберите второстепенные мышцы.",
-        "hy": "5. Ընտրեք երկրորդական մկանները",
-        "sv": "5. Välj sekundära muskler",
-        "nb": "5. Velg sekundære muskler",
-        "nl": "5. Selecteer secundaire spieren",
-        "da": "5. Vælg sekundære muskler",
-        "pl": "5. Wybierz mięśnie drugorzędne",
-        "fr": "5. Sélectionnez les muscles secondaires",
-        "ar": "5. حدد العضلات الثانوية"
-      },
-      "exercise.step6": {
-        "en": "6. Save",
-        "ru": "6. Сохранить",
-        "hy": "6. Պահպանել",
-        "sv": "6. Spara",
-        "nb": "6. Lagre",
-        "nl": "6. Opslaan",
-        "da": "6. Gem",
-        "pl": "6. Zapisz",
-        "fr": "6. Enregistrer",
-        "ar": "6. احفظ"
-      },
-      "exercise.title": {
-        "en": "Creating a custom exercise",
-        "ru": "Создание индивидуального упражнения",
-        "hy": "Պատվերով վարժությունների ստեղծում",
-        "sv": "Skapa en anpassad övning",
-        "nb": "Lage en tilpasset øvelse",
-        "nl": "Een aangepaste oefening maken",
-        "da": "Oprettelse af en tilpasset øvelse",
-        "pl": "Tworzenie niestandardowego ćwiczenia",
-        "fr": "Créer un exercice personnalisé",
-        "ar": "إنشاء تمرين مخصص"
-      },
-      "exercise.why": {
-        "en": "Choosing muscles keeps category Insights and balance suggestions accurate.",
-        "ru": "Выбор мышц обеспечивает точность категорий и рекомендаций по балансу.",
-        "hy": "Մկանների ընտրությունը ճշգրիտ է դարձնում կատեգորիայի պատկերացումները և հավասարակշռության առաջարկները:",
-        "sv": "Att välja muskler håller kategoriinsikter och balansförslag korrekta.",
-        "nb": "Å velge muskler holder kategoriinnsikt og balanseforslag nøyaktige.",
-        "nl": "Door spieren te kiezen, blijven categorie-inzichten en balanssuggesties accuraat.",
-        "da": "Valg af muskler holder kategoriindsigt og balanceforslag nøjagtige.",
-        "pl": "Wybór mięśni zapewnia dokładność statystyk kategorii i sugestii dotyczących równowagi.",
-        "fr": "Le choix des muscles garantit l’exactitude des informations sur les catégories et des suggestions d’équilibre.",
-        "ar": "يؤدي اختيار العضلات إلى الحفاظ على دقة رؤى الفئة واقتراحات التوازن."
-      },
-      "favorites.body": {
-        "en": "Star lifts you use often. Tap ⓘ next to a name for form cues and target muscle maps.",
-        "ru": "Звездные лифты, которыми вы часто пользуетесь. Нажмите ⓘ рядом с названием, чтобы просмотреть подсказки формы и карты целевых мышц.",
-        "hy": "Աստղային վերելակներ, որոնք դուք հաճախ եք օգտագործում: Հպեք ⓘ անվան կողքին՝ ձևի նշանների և թիրախային մկանային քարտեզների համար:",
-        "sv": "Stjärnlyft använder du ofta. Tryck på ⓘ bredvid ett namn för formsignaler och målmuskelkartor.",
-        "nb": "Stjerneløft bruker du ofte. Trykk på ⓘ ved siden av et navn for skjemasignaler og målmuskelkart.",
-        "nl": "Sterliften die u vaak gebruikt. Tik op ⓘ naast een naam voor vormaanwijzingen en doelspierkaarten.",
-        "da": "Stjerneløft bruger du ofte. Tryk på ⓘ ved siden af ​​et navn for formsignaler og målmuskelkort.",
-        "pl": "Podnośniki gwiazdowe, z których często korzystasz. Kliknij ⓘ obok nazwy, aby wyświetlić wskazówki dotyczące formy i docelowe mapy mięśni.",
-        "fr": "Ascenseurs étoiles que vous utilisez souvent. Appuyez sur ⓘ à côté d'un nom pour obtenir des indices de forme et des cartes musculaires cibles.",
-        "ar": "المصاعد النجمية التي تستخدمها كثيرًا. اضغط على ⓘ بجوار الاسم للحصول على إشارات النموذج وخرائط العضلات المستهدفة."
-      },
-      "favorites.info": {
-        "en": "Form guide — art, cues, target regions",
-        "ru": "Руководство по форме — искусство, реплики, целевые регионы",
-        "hy": "Ձևի ուղեցույց — արվեստ, հուշումներ, թիրախային շրջաններ",
-        "sv": "Formguide — konst, signaler, målområden",
-        "nb": "Formguide - kunst, signaler, målområder",
-        "nl": "Formuliergids - kunst, aanwijzingen, doelregio's",
-        "da": "Formguide - kunst, signaler, målområder",
-        "pl": "Przewodnik po formie — grafika, wskazówki, regiony docelowe",
-        "fr": "Guide de formulaire – art, indices, régions cibles",
-        "ar": "دليل النموذج - الفن، والإشارات، والمناطق المستهدفة"
-      },
-      "favorites.star": {
-        "en": "Favorite — appears first in the picker",
-        "ru": "Избранное — отображается первым в списке выбора.",
-        "hy": "Սիրված — առաջինը հայտնվում է ընտրիչում",
-        "sv": "Favorit — visas först i väljaren",
-        "nb": "Favoritt — vises først i velgeren",
-        "nl": "Favoriet — verschijnt als eerste in de kiezer",
-        "da": "Favorit — vises først i vælgeren",
-        "pl": "Ulubiony — pojawia się jako pierwszy w selektorze",
-        "fr": "Favoris : apparaît en premier dans le sélecteur",
-        "ar": "المفضلة — تظهر أولاً في المنتقي"
-      },
-      "favorites.title": {
-        "en": "Star favorites & form guides",
-        "ru": "Звездные фавориты и руководства по формам",
-        "hy": "Աստղանշեք ընտրյալները և ձևերի ուղեցույցները",
-        "sv": "Stjärnfavoriter och formguider",
-        "nb": "Stjernefavoritter og skjemaguider",
-        "nl": "Sterrenfavorieten en formuliergidsen",
-        "da": "Stjernefavoritter og formularguider",
-        "pl": "Ulubione gwiazdki i przewodniki po formularzach",
-        "fr": "Favoris vedettes et guides de formulaires",
-        "ar": "النجوم المفضلة وأدلة النموذج"
       },
       "gradients.bench.a11y": {
         "en": "Bench Press with Chest to Shoulders to Arms muscle gradient",
@@ -13217,18 +12689,6 @@
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
       },
-      "healthKitDemo.optional": {
-        "en": "You choose whether to connect",
-        "ru": "Вы выбираете, подключаться ли",
-        "hy": "Դուք ընտրում եք միանալ, թե ոչ",
-        "sv": "Du väljer om du vill ansluta",
-        "nb": "Du velger selv om du vil koble til",
-        "nl": "Jij kiest of je verbinding wilt maken",
-        "da": "Du vælger selv om du vil tilslutte",
-        "pl": "Ty wybierasz, czy chcesz się połączyć",
-        "fr": "Vous choisissez de vous connecter",
-        "ar": "اخترت ما إذا كنت تريد الاتصال"
-      },
       "healthKitDemo.privacy": {
         "en": "Optional. Requests write access only — it does not read Health data.",
         "ru": "Необязательный. Запрашивает только доступ на запись — данные о работоспособности не считываются.",
@@ -13300,54 +12760,6 @@
         "pl": "Zakończone sesje synchronizują się jako treningi",
         "fr": "Les sessions terminées sont synchronisées avec les entraînements",
         "ar": "تتم مزامنة الجلسات النهائية كتدريبات"
-      },
-      "historyDemo.body": {
-        "en": "The History tab is a calendar of trained days. Search finds workouts by exercise name in any language.",
-        "ru": "Вкладка «История» представляет собой календарь тренировочных дней. Поиск находит тренировки по названию упражнения на любом языке.",
-        "hy": "Պատմություն ներդիրը մարզված օրերի օրացույց է: Որոնումը գտնում է մարզումները ըստ վարժությունների անվանման ցանկացած լեզվով:",
-        "sv": "Fliken Historik är en kalender med tränade dagar. Sökning hittar träningspass efter träningsnamn på valfritt språk.",
-        "nb": "Historie-fanen er en kalender med trente dager. Søk finner treningsøkter etter treningsnavn på hvilket som helst språk.",
-        "nl": "Het tabblad Geschiedenis is een kalender met trainingsdagen. Zoeken vindt trainingen op naam van de oefening in elke taal.",
-        "da": "Fanen Historie er en kalender med trænede dage. Søgning finder træning efter træningsnavn på ethvert sprog.",
-        "pl": "Zakładka Historia to kalendarz przeszkolonych dni. Wyszukiwanie pozwala znaleźć treningi według nazwy ćwiczenia w dowolnym języku.",
-        "fr": "L'onglet Historique est un calendrier des jours d'entraînement. La recherche trouve des entraînements par nom d’exercice dans n’importe quelle langue.",
-        "ar": "علامة التبويب \"السجل\" عبارة عن تقويم لأيام التدريب. يجد البحث التدريبات حسب اسم التمرين بأي لغة."
-      },
-      "historyDemo.calendarA11y": {
-        "en": "Example attendance calendar",
-        "ru": "Пример календаря посещаемости",
-        "hy": "Հաճախումների օրացույցի օրինակ",
-        "sv": "Exempel på närvarokalender",
-        "nb": "Eksempel på oppmøtekalender",
-        "nl": "Voorbeeld aanwezigheidskalender",
-        "da": "Eksempel på mødekalender",
-        "pl": "Przykładowy kalendarz obecności",
-        "fr": "Exemple de calendrier de présence",
-        "ar": "مثال لتقويم الحضور"
-      },
-      "historyDemo.search": {
-        "en": "Search by exercise from the History search bar",
-        "ru": "Поиск по упражнению с помощью панели поиска в истории.",
-        "hy": "Որոնեք ըստ վարժությունների Պատմության որոնման տողից",
-        "sv": "Sök efter övning från sökfältet Historik",
-        "nb": "Søk etter øvelse fra historikksøkefeltet",
-        "nl": "Zoek op oefening vanuit de zoekbalk Geschiedenis",
-        "da": "Søg efter øvelse fra historiksøgelinjen",
-        "pl": "Wyszukaj według ćwiczenia z paska wyszukiwania Historia",
-        "fr": "Recherche par exercice depuis la barre de recherche Historique",
-        "ar": "ابحث حسب التمرين من شريط بحث التاريخ"
-      },
-      "historyDemo.title": {
-        "en": "History at a glance",
-        "ru": "История с первого взгляда",
-        "hy": "Պատմությունը մի հայացքով",
-        "sv": "Historien i korthet",
-        "nb": "Historie med et blikk",
-        "nl": "Geschiedenis in één oogopslag",
-        "da": "Historie i et blik",
-        "pl": "Historia w skrócie",
-        "fr": "L'histoire en un coup d'œil",
-        "ar": "التاريخ في لمحة"
       },
       "insights.body": {
         "en": "Insights, Records, and progress charts turn your log into motivation — not noise.",
@@ -13589,18 +13001,6 @@
         "fr": "Découvrez pourquoi la cohérence est payante",
         "ar": "انظر لماذا يؤتي الاتساق ثماره"
       },
-      "language.body": {
-        "en": "The app and exercise names follow this language.",
-        "ru": "Названия приложений и упражнений соответствуют этому языку.",
-        "hy": "Հավելվածի և վարժությունների անունները հետևում են այս լեզվին:",
-        "sv": "Appen och övningarnas namn följer detta språk.",
-        "nb": "App- og øvelsesnavn følger dette språket.",
-        "nl": "De namen van de app en oefeningen volgen deze taal.",
-        "da": "App- og øvelsesnavnene følger dette sprog.",
-        "pl": "Nazwy aplikacji i ćwiczeń są zgodne z tym językiem.",
-        "fr": "Les noms des applications et des exercices suivent cette langue.",
-        "ar": "أسماء التطبيقات والتمارين تتبع هذه اللغة."
-      },
       "language.device": {
         "en": "Device language",
         "ru": "Язык устройства",
@@ -13613,197 +13013,17 @@
         "fr": "Langue de l'appareil",
         "ar": "لغة الجهاز"
       },
-      "language.footnote": {
-        "en": "You can change your language anytime in iOS Settings.",
-        "ru": "Вы можете изменить свой язык в любое время в настройках iOS.",
-        "hy": "Դուք ցանկացած ժամանակ կարող եք փոխել ձեր լեզուն iOS-ի կարգավորումներում:",
-        "sv": "Du kan ändra ditt språk när som helst i iOS-inställningarna.",
-        "nb": "Du kan endre språket ditt når som helst i iOS-innstillingene.",
-        "nl": "Je kunt je taal op elk gewenst moment wijzigen in iOS-instellingen.",
-        "da": "Du kan til enhver tid ændre dit sprog i iOS-indstillinger.",
-        "pl": "Możesz zmienić język w dowolnym momencie w Ustawieniach iOS.",
-        "fr": "Vous pouvez changer votre langue à tout moment dans les paramètres iOS.",
-        "ar": "يمكنك تغيير لغتك في أي وقت في إعدادات iOS."
-      },
-      "language.title": {
-        "en": "Choose your language",
-        "ru": "Выберите свой язык",
-        "hy": "Ընտրեք ձեր լեզուն",
-        "sv": "Välj ditt språk",
-        "nb": "Velg ditt språk",
-        "nl": "Kies uw taal",
-        "da": "Vælg dit sprog",
-        "pl": "Wybierz swój język",
-        "fr": "Choisissez votre langue",
-        "ar": "اختر لغتك"
-      },
-      "layout.body": {
-        "en": "Pick List for a fast scan, or Cards for form art and muscle cues.",
-        "ru": "Выберите «Список» для быстрого сканирования или «Карточки» для художественного оформления и мышечных сигналов.",
-        "hy": "Ընտրեք ցուցակ արագ սկանավորման համար, կամ քարտեր՝ ձևերի և մկանների նշանների համար:",
-        "sv": "Välj lista för en snabb skanning, eller kort för formkonst och muskelsignaler.",
-        "nb": "Velg liste for en rask skanning, eller kort for formkunst og muskelsignaler.",
-        "nl": "Keuzelijst voor een snelle scan, of kaarten voor vormkunst en spieraanwijzingen.",
-        "da": "Vælg Liste for en hurtig scanning eller kort til formkunst og muskelsignaler.",
-        "pl": "Lista wyboru do szybkiego skanowania lub karty do tworzenia grafiki i wskazówek dotyczących mięśni.",
-        "fr": "Choisissez une liste pour une analyse rapide ou des cartes pour des dessins de forme et des signaux musculaires.",
-        "ar": "اختر قائمة للمسح السريع، أو بطاقات لفن النموذج وإشارات العضلات."
-      },
-      "layout.cards": {
-        "en": "Cards",
-        "ru": "Карты",
-        "hy": "Քարտեր",
-        "sv": "Kort",
-        "nb": "Kort",
-        "nl": "Kaarten",
-        "da": "Kort",
-        "pl": "Karty",
-        "fr": "Cartes",
-        "ar": "بطاقات"
-      },
-      "layout.cardsHint": {
-        "en": "Cards help you recognize lifts by illustration and muscle colors.",
-        "ru": "Карты помогут вам распознавать упражнения по иллюстрациям и цветам мышц.",
-        "hy": "Քարտերը օգնում են ձեզ ճանաչել վերելակները նկարազարդման և մկանների գույների միջոցով:",
-        "sv": "Kort hjälper dig att känna igen lyft genom illustration och muskelfärger.",
-        "nb": "Kort hjelper deg å gjenkjenne løft etter illustrasjon og muskelfarger.",
-        "nl": "Kaarten helpen je liften te herkennen aan de hand van illustraties en spierkleuren.",
-        "da": "Kort hjælper dig med at genkende løft ved illustration og muskelfarver.",
-        "pl": "Karty pomagają rozpoznać ćwiczenia na podstawie ilustracji i kolorów mięśni.",
-        "fr": "Les cartes vous aident à reconnaître les ascenseurs par illustration et couleurs musculaires.",
-        "ar": "تساعدك البطاقات على التعرف على المصاعد من خلال الرسوم التوضيحية وألوان العضلات."
-      },
-      "layout.cardsPreview": {
-        "en": "Cards layout preview",
-        "ru": "Предварительный просмотр макета карточек",
-        "hy": "Քարտերի դասավորության նախադիտում",
-        "sv": "Förhandsvisning av kortlayout",
-        "nb": "Forhåndsvisning av kortlayout",
-        "nl": "Voorbeeld van kaartindeling",
-        "da": "Forhåndsvisning af kortlayout",
-        "pl": "Podgląd układu kart",
-        "fr": "Aperçu de la disposition des cartes",
-        "ar": "معاينة تخطيط البطاقات"
-      },
-      "layout.footnote": {
-        "en": "You can switch layouts anytime from the exercise picker.",
-        "ru": "Вы можете переключать макеты в любое время с помощью средства выбора упражнений.",
-        "hy": "Դուք ցանկացած ժամանակ կարող եք փոխել դասավորությունները վարժությունների ընտրիչից:",
-        "sv": "Du kan byta layout när som helst från träningsväljaren.",
-        "nb": "Du kan bytte layout når som helst fra treningsvelgeren.",
-        "nl": "U kunt op elk gewenst moment van lay-out wisselen via de oefeningenkiezer.",
-        "da": "Du kan når som helst skifte layout fra træningsvælgeren.",
-        "pl": "Możesz zmieniać układy w dowolnym momencie, korzystając z selektora ćwiczeń.",
-        "fr": "Vous pouvez changer de disposition à tout moment à partir du sélecteur d'exercices.",
-        "ar": "يمكنك تبديل التخطيطات في أي وقت من منتقي التمرين."
-      },
-      "layout.list": {
-        "en": "List",
-        "ru": "Список",
-        "hy": "Ցուցակ",
-        "sv": "Lista",
-        "nb": "Liste",
-        "nl": "Lijst",
-        "da": "Liste",
-        "pl": "Lista",
-        "fr": "Liste",
-        "ar": "قائمة"
-      },
-      "layout.listHint": {
-        "en": "List is great when you already know the name and want fewer taps.",
-        "ru": "Список удобен, когда вы уже знаете имя и хотите меньше нажатий.",
-        "hy": "Ցուցակը հիանալի է, երբ դուք արդեն գիտեք անունը և ցանկանում եք ավելի քիչ սեղմել:",
-        "sv": "Lista är bra när du redan känner till namnet och vill ha färre tryck.",
-        "nb": "Listen er flott når du allerede kjenner navnet og vil ha færre trykk.",
-        "nl": "Lijst is geweldig als je de naam al kent en minder tikken wilt.",
-        "da": "Listen er fantastisk, når du allerede kender navnet og vil have færre tryk.",
-        "pl": "Lista jest świetna, gdy znasz już nazwę i chcesz mieć mniej kliknięć.",
-        "fr": "La liste est idéale lorsque vous connaissez déjà le nom et souhaitez moins de clics.",
-        "ar": "تعتبر القائمة رائعة عندما تعرف الاسم بالفعل وتريد عددًا أقل من النقرات."
-      },
-      "layout.listPreview": {
-        "en": "List layout preview",
-        "ru": "Предварительный просмотр макета списка",
-        "hy": "Ցանկի դասավորության նախադիտում",
-        "sv": "Förhandsgranskning av listlayout",
-        "nb": "Forhåndsvisning av listelayout",
-        "nl": "Voorbeeld van lijstindeling",
-        "da": "Forhåndsvisning af listelayout",
-        "pl": "Podgląd układu listy",
-        "fr": "Aperçu de la disposition de la liste",
-        "ar": "معاينة تخطيط القائمة"
-      },
-      "layout.picker": {
-        "en": "Exercise layout",
-        "ru": "План упражнения",
-        "hy": "Վարժությունների դասավորությունը",
-        "sv": "Övningsupplägg",
-        "nb": "Oppsett av øvelsen",
-        "nl": "Oefening indeling",
-        "da": "Øvelse layout",
-        "pl": "Układ ćwiczeń",
-        "fr": "Disposition de l'exercice",
-        "ar": "تخطيط التمرين"
-      },
-      "layout.title": {
-        "en": "Choose how exercises look",
-        "ru": "Выбирайте, как будут выглядеть упражнения",
-        "hy": "Ընտրեք, թե ինչպիսի տեսք ունեն վարժությունները",
-        "sv": "Välj hur övningarna ser ut",
-        "nb": "Velg hvordan øvelsene ser ut",
-        "nl": "Kies hoe oefeningen eruit zien",
-        "da": "Vælg hvordan øvelserne ser ud",
-        "pl": "Wybierz wygląd ćwiczeń",
-        "fr": "Choisissez à quoi ressemblent les exercices",
-        "ar": "اختر كيف تبدو التمارين"
-      },
-      "library.done": {
-        "en": "Done",
-        "ru": "Сделанный",
-        "hy": "Կատարված է",
-        "sv": "Klar",
-        "nb": "Ferdig",
-        "nl": "Klaar",
-        "da": "Færdig",
-        "pl": "Gotowe",
-        "fr": "Terminé",
-        "ar": "تم"
-      },
       "library.hub.basicsHint": {
-        "en": "Language, units, logging, and balanced sessions",
-        "ru": "Language, units, logging, and balanced sessions",
-        "hy": "Language, units, logging, and balanced sessions",
-        "sv": "Language, units, logging, and balanced sessions",
-        "nb": "Language, units, logging, and balanced sessions",
-        "nl": "Language, units, logging, and balanced sessions",
-        "da": "Language, units, logging, and balanced sessions",
-        "pl": "Language, units, logging, and balanced sessions",
-        "fr": "Language, units, logging, and balanced sessions",
-        "ar": "Language, units, logging, and balanced sessions"
-      },
-      "library.hub.explore": {
-        "en": "Explore",
-        "ru": "Explore",
-        "hy": "Explore",
-        "sv": "Explore",
-        "nb": "Explore",
-        "nl": "Explore",
-        "da": "Explore",
-        "pl": "Explore",
-        "fr": "Explore",
-        "ar": "Explore"
-      },
-      "library.hub.headline": {
-        "en": "Your guide to Gym Logbook",
-        "ru": "Your guide to Gym Logbook",
-        "hy": "Your guide to Gym Logbook",
-        "sv": "Your guide to Gym Logbook",
-        "nb": "Your guide to Gym Logbook",
-        "nl": "Your guide to Gym Logbook",
-        "da": "Your guide to Gym Logbook",
-        "pl": "Your guide to Gym Logbook",
-        "fr": "Your guide to Gym Logbook",
-        "ar": "Your guide to Gym Logbook"
+        "en": "Logging and balanced sessions",
+        "ru": "Запись подходов и сбалансированные тренировки",
+        "hy": "Գրանցում և հավասարակշռված մարզումներ",
+        "sv": "Loggning och balanserade pass",
+        "nb": "Logging og balanserte økter",
+        "nl": "Loggen en gebalanceerde sessies",
+        "da": "Logning og balancerede pas",
+        "pl": "Zapisywanie i zbalansowane sesje",
+        "fr": "Journal et séances équilibrées",
+        "ar": "التسجيل والجلسات المتوازنة"
       },
       "library.hub.personalizationHint": {
         "en": "Where to find every setting",
@@ -13841,42 +13061,6 @@
         "fr": "Records, templates, Health, and Recycle Bin",
         "ar": "Records, templates, Health, and Recycle Bin"
       },
-      "library.hub.session2Subtitle": {
-        "en": "Five tips after your first workout",
-        "ru": "Five tips after your first workout",
-        "hy": "Five tips after your first workout",
-        "sv": "Five tips after your first workout",
-        "nb": "Five tips after your first workout",
-        "nl": "Five tips after your first workout",
-        "da": "Five tips after your first workout",
-        "pl": "Five tips after your first workout",
-        "fr": "Five tips after your first workout",
-        "ar": "Five tips after your first workout"
-      },
-      "library.hub.session3Subtitle": {
-        "en": "Two power-user features",
-        "ru": "Two power-user features",
-        "hy": "Two power-user features",
-        "sv": "Two power-user features",
-        "nb": "Two power-user features",
-        "nl": "Two power-user features",
-        "da": "Two power-user features",
-        "pl": "Two power-user features",
-        "fr": "Two power-user features",
-        "ar": "Two power-user features"
-      },
-      "library.hub.topicCount": {
-        "en": "%lld topics",
-        "ru": "%lld topics",
-        "hy": "%lld topics",
-        "sv": "%lld topics",
-        "nb": "%lld topics",
-        "nl": "%lld topics",
-        "da": "%lld topics",
-        "pl": "%lld topics",
-        "fr": "%lld topics",
-        "ar": "%lld topics"
-      },
       "library.intro": {
         "en": "Jump to any topic, or replay a short session.",
         "ru": "Перейдите к любой теме или воспроизведите короткий сеанс.",
@@ -13912,18 +13096,6 @@
         "pl": "Zagraj w porady dotyczące zasilania",
         "fr": "Conseils pour jouer sur Power",
         "ar": "لعب نصائح الطاقة"
-      },
-      "library.playlists": {
-        "en": "Sessions",
-        "ru": "Сессии",
-        "hy": "Նիստեր",
-        "sv": "Sessioner",
-        "nb": "Økter",
-        "nl": "Sessies",
-        "da": "Sessioner",
-        "pl": "Sesje",
-        "fr": "Séances",
-        "ar": "الجلسات"
       },
       "library.title": {
         "en": "App Tour",
@@ -13961,42 +13133,6 @@
         "fr": "Appuyez sur le poids ou les répétitions pour ouvrir le sélecteur de roue. Faites glisser un ensemble vers la gauche pour le supprimer. Appuyez sur un autre exercice pour le développer : un seul reste ouvert.",
         "ar": "اضغط على الوزن أو الممثلين لفتح منتقي العجلة. اسحب مجموعة إلى اليسار لحذفها. اضغط على تمرين آخر لتوسيعه — يبقى تمرين واحد فقط مفتوحًا."
       },
-      "logging.colReps": {
-        "en": "Reps",
-        "ru": "Представители",
-        "hy": "Reps",
-        "sv": "Reps",
-        "nb": "Reps",
-        "nl": "Vertegenwoordigers",
-        "da": "Reps",
-        "pl": "Przedstawiciele",
-        "fr": "Représentants",
-        "ar": "ممثلين"
-      },
-      "logging.colSet": {
-        "en": "Set",
-        "ru": "Набор",
-        "hy": "Սահմանել",
-        "sv": "Uppsättning",
-        "nb": "Sett",
-        "nl": "Set",
-        "da": "Sæt",
-        "pl": "Ustawić",
-        "fr": "Ensemble",
-        "ar": "تعيين"
-      },
-      "logging.colWeight": {
-        "en": "Weight",
-        "ru": "Масса",
-        "hy": "Քաշը",
-        "sv": "Vikt",
-        "nb": "Vekt",
-        "nl": "Gewicht",
-        "da": "Vægt",
-        "pl": "Waga",
-        "fr": "Poids",
-        "ar": "وزن"
-      },
       "logging.collapseTip": {
         "en": "Only one exercise stays expanded so you can scan what’s done and what’s left.",
         "ru": "Только одно упражнение остается развернутым, поэтому вы можете просмотреть, что сделано и что осталось.",
@@ -14008,18 +13144,6 @@
         "pl": "Tylko jedno ćwiczenie pozostaje rozwinięte, dzięki czemu możesz skanować to, co zostało zrobione, a to, co pozostało.",
         "fr": "Un seul exercice reste développé afin que vous puissiez analyser ce qui a été fait et ce qui reste.",
         "ar": "يبقى تمرين واحد فقط موسعًا حتى تتمكن من فحص ما تم إنجازه وما تبقى."
-      },
-      "logging.collapsedExpandedHint": {
-        "en": "Log sets here when this exercise is open. Tap another title to switch.",
-        "ru": "Здесь устанавливается журнал, когда это упражнение открыто. Нажмите на другой заголовок, чтобы переключиться.",
-        "hy": "Մատյան սահմանվում է այստեղ, երբ այս վարժությունը բաց է: Հպեք մեկ այլ վերնագրի՝ անցնելու համար:",
-        "sv": "Loggen ställs in här när denna övning är öppen. Tryck på en annan titel för att byta.",
-        "nb": "Logg settes her når denne øvelsen er åpen. Trykk på en annen tittel for å bytte.",
-        "nl": "Logsets hier wanneer deze oefening geopend is. Tik op een andere titel om te wisselen.",
-        "da": "Log sættes her, når denne øvelse er åben. Tryk på en anden titel for at skifte.",
-        "pl": "Tutaj ustawiane są dzienniki, gdy to ćwiczenie jest otwarte. Stuknij inny tytuł, aby przełączyć.",
-        "fr": "Le journal est défini ici lorsque cet exercice est ouvert. Appuyez sur un autre titre pour changer.",
-        "ar": "سجل المجموعات هنا عندما يكون هذا التمرين مفتوحًا. اضغط على عنوان آخر للتبديل."
       },
       "logging.collapsedName": {
         "en": "Back Squat",
@@ -14117,18 +13241,6 @@
         "fr": "Une journalisation cohérente déverrouille les graphiques de progression, les informations et les enregistrements personnels.",
         "ar": "يؤدي التسجيل المتسق إلى فتح مخططات التقدم والرؤى والسجلات الشخصية."
       },
-      "measurement.body": {
-        "en": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "ru": "Выберите способ отображения весов и расстояний. Вы можете изменить это позже в учетной записи и переопределить это значение для каждого упражнения при входе в систему.",
-        "hy": "Ընտրեք, թե ինչպես են ցուցադրվում կշիռները և հեռավորությունները: Դուք կարող եք փոխել սա ավելի ուշ «Հաշիվ» բաժնում և չեղարկել այն յուրաքանչյուր վարժությունում գրանցման ընթացքում:",
-        "sv": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "nb": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "nl": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "da": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "pl": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "fr": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging.",
-        "ar": "Choose how weights and distances are shown. You can change this later in Account, and override it per exercise while logging."
-      },
       "measurement.footnote": {
         "en": "Suggested from your region. Default if unset is Metric.",
         "ru": "Предложено из вашего региона. По умолчанию, если не установлено, используется метрическая система.",
@@ -14140,18 +13252,6 @@
         "pl": "Suggested from your region. Default if unset is Metric.",
         "fr": "Suggested from your region. Default if unset is Metric.",
         "ar": "Suggested from your region. Default if unset is Metric."
-      },
-      "measurement.title": {
-        "en": "Measurement System",
-        "ru": "Система измерения",
-        "hy": "Չափման համակարգ",
-        "sv": "Measurement System",
-        "nb": "Measurement System",
-        "nl": "Measurement System",
-        "da": "Measurement System",
-        "pl": "Measurement System",
-        "fr": "Measurement System",
-        "ar": "Measurement System"
       },
       "nudge.continue": {
         "en": "Continue",
@@ -14417,42 +13517,6 @@
         "fr": "Étape %lld de %lld",
         "ar": "الخطوة %lld من %lld"
       },
-      "ready.body": {
-        "en": "We will suggest a balanced session from what you have trained. You can change anything before you start.",
-        "ru": "Мы предложим сбалансированную тренировку на основе ваших занятий. Вы сможете всё изменить перед началом.",
-        "hy": "Մենք կառաջարկենք հավասարակշռված մարզում՝ ելնելով ձեր մարզումներից։ Դուք կարող եք ամեն ինչ փոխել մինչև սկսելը։",
-        "sv": "Vi föreslår ett balanserat pass utifrån vad du tränat. Du kan ändra allt innan du börjar.",
-        "nb": "Vi foreslår en balansert økt ut fra det du har trent. Du kan endre alt før du starter.",
-        "nl": "We stellen een gebalanceerde training voor op basis van je training tot nu toe. Je kunt alles nog aanpassen voor je begint.",
-        "da": "Vi foreslår en balanceret træning ud fra det, du har trænet. Du kan ændre alt, inden du starter.",
-        "pl": "Zaproponujemy zrównoważony trening na podstawie tego, co już trenowałeś. Przed startem możesz wszystko zmienić.",
-        "fr": "Nous proposons une séance équilibrée à partir de ce que vous avez travaillé. Vous pouvez tout modifier avant de commencer.",
-        "ar": "سنقترح جلسة متوازنة بناءً على ما دربته. يمكنك تغيير كل شيء قبل البدء."
-      },
-      "ready.create": {
-        "en": "Create My First Workout",
-        "ru": "Создать мою первую тренировку",
-        "hy": "Ստեղծեք իմ առաջին մարզումը",
-        "sv": "Skapa mitt första träningspass",
-        "nb": "Lag min første treningsøkt",
-        "nl": "Creëer mijn eerste training",
-        "da": "Opret min første træning",
-        "pl": "Utwórz mój pierwszy trening",
-        "fr": "Créer mon premier entraînement",
-        "ar": "قم بإنشاء تمريني الأول"
-      },
-      "ready.explore": {
-        "en": "Explore the App",
-        "ru": "Исследуйте приложение",
-        "hy": "Բացահայտեք հավելվածը",
-        "sv": "Utforska appen",
-        "nb": "Utforsk appen",
-        "nl": "Verken de app",
-        "da": "Udforsk appen",
-        "pl": "Poznaj aplikację",
-        "fr": "Explorez l'application",
-        "ar": "اكتشف التطبيق"
-      },
       "ready.startBalanced": {
         "en": "Start Balanced Workout",
         "ru": "Начать сбалансированную тренировку",
@@ -14464,18 +13528,6 @@
         "pl": "Rozpocznij zrównoważony trening",
         "fr": "Démarrer une séance équilibrée",
         "ar": "ابدأ تمرينًا متوازنًا"
-      },
-      "ready.title": {
-        "en": "You’re ready",
-        "ru": "Вы готовы",
-        "hy": "դու պատրաստ ես",
-        "sv": "Du är redo",
-        "nb": "Du er klar",
-        "nl": "Je bent klaar",
-        "da": "Du er klar",
-        "pl": "Jesteś gotowy",
-        "fr": "Tu es prêt",
-        "ar": "أنت جاهز"
       },
       "recycle.body": {
         "en": "Deleting a finished workout or discarding an in-progress one moves it to the Recycle Bin.",
@@ -14584,78 +13636,6 @@
         "pl": "Historia → ikona kosza na pasku narzędzi",
         "fr": "Historique → icône de la corbeille de la barre d'outils",
         "ar": "التاريخ → أيقونة سلة المهملات في شريط الأدوات"
-      },
-      "rest.body": {
-        "en": "On an expanded exercise, start or stop rest manually. Timing also shows on the Lock Screen and Dynamic Island.",
-        "ru": "В расширенном упражнении начинайте или прекращайте отдых вручную. Время также отображается на экране блокировки и на динамическом острове.",
-        "hy": "Ընդլայնված վարժությունների ժամանակ սկսեք կամ դադարեցրեք հանգիստը ձեռքով: Ժամկետները ցուցադրվում են նաև Lock Screen-ում և Dynamic Island-ում:",
-        "sv": "På en utökad övning, starta eller stoppa vila manuellt. Timing visas också på låsskärmen och Dynamic Island.",
-        "nb": "På en utvidet øvelse, start eller stopp hvile manuelt. Timing vises også på låseskjermen og Dynamic Island.",
-        "nl": "Bij een uitgebreide oefening kunt u de rust handmatig starten of stoppen. De timing wordt ook weergegeven op het vergrendelscherm en op Dynamic Island.",
-        "da": "På en udvidet øvelse, start eller stop hvile manuelt. Timing vises også på låseskærmen og Dynamic Island.",
-        "pl": "W ćwiczeniu rozszerzonym rozpocznij lub zatrzymaj odpoczynek ręcznie. Czas pokazuje się także na ekranie blokady i na dynamicznej wyspie.",
-        "fr": "Lors d'un exercice étendu, démarrez ou arrêtez le repos manuellement. Le timing s'affiche également sur l'écran de verrouillage et sur Dynamic Island.",
-        "ar": "في التمرين الموسع، ابدأ أو أوقف الراحة يدويًا. يظهر التوقيت أيضًا على شاشة القفل والجزيرة الديناميكية."
-      },
-      "rest.liveActivity": {
-        "en": "Live Activity keeps rest visible while you rack the bar",
-        "ru": "Функция Live Activity делает отдых видимым, пока вы поднимаете штангу",
-        "hy": "Live Activity-ը տեսանելի է դարձնում հանգիստը, մինչ դուք շարում եք գիծը",
-        "sv": "Live Activity håller vila synlig medan du rackar stången",
-        "nb": "Live Activity holder hvilen synlig mens du rack baren",
-        "nl": "Live Activity houdt rust zichtbaar terwijl jij de lat hoog legt",
-        "da": "Live Activity holder hvilen synlig, mens du rack baren",
-        "pl": "Aktywność na żywo sprawia, że ​​odpoczynek jest widoczny, gdy podnosisz poprzeczkę",
-        "fr": "L'activité en direct permet de garder le repos visible pendant que vous montez la barre",
-        "ar": "النشاط المباشر يبقي الراحة مرئية أثناء رفع الشريط"
-      },
-      "rest.start": {
-        "en": "Start Rest",
-        "ru": "Начать отдых",
-        "hy": "Սկսեք հանգստանալ",
-        "sv": "Börja vila",
-        "nb": "Start hvile",
-        "nl": "Begin rust",
-        "da": "Start hvile",
-        "pl": "Rozpocznij odpoczynek",
-        "fr": "Commencer le repos",
-        "ar": "ابدأ الراحة"
-      },
-      "rest.stop": {
-        "en": "Stop Rest",
-        "ru": "Остановить отдых",
-        "hy": "Դադարեցրեք հանգիստը",
-        "sv": "Stoppa Vila",
-        "nb": "Stopp hvile",
-        "nl": "Stop met rusten",
-        "da": "Stop hvile",
-        "pl": "Przestań odpoczywać",
-        "fr": "Arrêter le repos",
-        "ar": "توقف عن الراحة"
-      },
-      "rest.title": {
-        "en": "Rest between sets",
-        "ru": "Отдых между подходами",
-        "hy": "Հանգստացեք հավաքածուների միջև",
-        "sv": "Vila mellan seten",
-        "nb": "Hvil mellom settene",
-        "nl": "Rust tussen de sets",
-        "da": "Hvil mellem sæt",
-        "pl": "Odpoczywaj pomiędzy seriami",
-        "fr": "Repos entre les séries",
-        "ar": "الراحة بين المجموعات"
-      },
-      "rest.where": {
-        "en": "Active workout · under Add Set / Dup",
-        "ru": "Активная тренировка · в разделе «Добавить набор/дуп».",
-        "hy": "Ակտիվ մարզում · Ավելացնել Set / Dup բաժնում",
-        "sv": "Aktivt träningspass · under Lägg till Set / Dup",
-        "nb": "Aktiv trening · under Legg til sett / Dup",
-        "nl": "Actieve training · onder Set / Dup toevoegen",
-        "da": "Aktiv træning · under Tilføj sæt / Dup",
-        "pl": "Aktywny trening · w obszarze Dodaj zestaw / Duplikat",
-        "fr": "Entraînement actif · sous Add Set / Dup",
-        "ar": "تمرين نشط · ضمن إضافة مجموعة / دوب"
       },
       "session1.title": {
         "en": "Core tour",
@@ -14969,66 +13949,6 @@
         "fr": "Organisez des séances d'entraînement, créez des routines, suivez vos progrès, surveillez votre équilibre musculaire et voyez comment vous vous améliorez au fil du temps.",
         "ar": "قم بتنظيم التدريبات، وبناء الروتين، وتتبع التقدم، ومراقبة توازن العضلات، وانظر كيف تتحسن بمرور الوقت."
       },
-      "welcome.bullet.analyze": {
-        "en": "Review Insights over time",
-        "ru": "Обзор статистики с течением времени",
-        "hy": "Վերանայեք Insights-ը ժամանակի ընթացքում",
-        "sv": "Granska insikter över tid",
-        "nb": "Gjennomgå innsikt over tid",
-        "nl": "Bekijk inzichten in de loop van de tijd",
-        "da": "Gennemgå indsigt over tid",
-        "pl": "Przeglądanie wniosków na przestrzeni czasu",
-        "fr": "Examiner les informations au fil du temps",
-        "ar": "مراجعة الرؤى مع مرور الوقت"
-      },
-      "welcome.bullet.balance": {
-        "en": "Watch muscle-group balance",
-        "ru": "Следите за балансом групп мышц",
-        "hy": "Դիտեք մկանային խմբի հավասարակշռությունը",
-        "sv": "Se balans mellan muskelgrupper",
-        "nb": "Se muskelgruppebalansen",
-        "nl": "Let op de balans tussen spiergroepen",
-        "da": "Se muskel-gruppe balance",
-        "pl": "Obserwuj równowagę grup mięśniowych",
-        "fr": "Surveillez l’équilibre des groupes musculaires",
-        "ar": "شاهد توازن مجموعة العضلات"
-      },
-      "welcome.bullet.organize": {
-        "en": "Organize every workout",
-        "ru": "Организуйте каждую тренировку",
-        "hy": "Կազմակերպեք յուրաքանչյուր մարզում",
-        "sv": "Organisera varje träningspass",
-        "nb": "Organiser hver treningsøkt",
-        "nl": "Organiseer elke training",
-        "da": "Organiser hver træning",
-        "pl": "Zorganizuj każdy trening",
-        "fr": "Organisez chaque entraînement",
-        "ar": "تنظيم كل تمرين"
-      },
-      "welcome.bullet.progress": {
-        "en": "Track sets and personal records",
-        "ru": "Наборы треков и личные рекорды",
-        "hy": "Հետևությունների հավաքածուներ և անձնական ռեկորդներ",
-        "sv": "Banuppsättningar och personliga rekord",
-        "nb": "Banesett og personlige rekorder",
-        "nl": "Baansets en persoonlijke records",
-        "da": "Banesæt og personlige rekorder",
-        "pl": "Zestawy torów i rekordy osobiste",
-        "fr": "Ensembles de pistes et records personnels",
-        "ar": "مجموعات المسار والسجلات الشخصية"
-      },
-      "welcome.bullet.routines": {
-        "en": "Build reusable routines",
-        "ru": "Создавайте повторно используемые процедуры",
-        "hy": "Կառուցեք բազմակի օգտագործման ռեժիմներ",
-        "sv": "Bygg återanvändbara rutiner",
-        "nb": "Bygg gjenbrukbare rutiner",
-        "nl": "Bouw herbruikbare routines",
-        "da": "Byg genbrugelige rutiner",
-        "pl": "Twórz procedury wielokrotnego użytku",
-        "fr": "Créez des routines réutilisables",
-        "ar": "بناء إجراءات قابلة لإعادة الاستخدام"
-      },
       "welcome.title": {
         "en": "Your weightlifting logbook",
         "ru": "Ваш дневник тяжелой атлетики",
@@ -15040,6 +13960,42 @@
         "pl": "Twój dziennik podnoszenia ciężarów",
         "fr": "Votre carnet d'haltérophilie",
         "ar": "سجل رفع الأثقال الخاص بك"
+      },
+      "personal.trainingStyleDetail": {
+        "en": "Account → Training preferences. Balanced sessions and the picker lead with it.",
+        "ru": "Счет → Настройки обучения. С этого начинаются сбалансированные тренировки и выбор упражнений.",
+        "hy": "Հաշիվ → Վերապատրաստման նախասիրություններ։ Դրանով են սկսվում հավասարակշռված մարզումները և ընտրիչը։",
+        "sv": "Konto → Training preferences. Balanserade pass och väljaren utgår från det.",
+        "nb": "Konto → Training preferences. Balanserte økter og velgeren tar utgangspunkt i det.",
+        "nl": "Rekening → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
+        "da": "Konto → Training preferences. Balancerede pas og vælgeren tager udgangspunkt i det.",
+        "pl": "Konto → Training preferences. Od tego zaczynają się zbalansowane sesje i wybór ćwiczeń.",
+        "fr": "Compte → Training preferences. Les séances équilibrées et le sélecteur en partent.",
+        "ar": "حساب ← Training preferences. الجلسات المتوازنة والمنتقي يبدآن به."
+      },
+      "trainingStyle.body": {
+        "en": "Balanced sessions and the exercise picker lead with what you pick. Gym is always on — change this anytime in Account → Training preferences.",
+        "ru": "Сбалансированные тренировки и выбор упражнений начинаются с того, что вы отметите. Зал включён всегда — изменить можно в любой момент: Счет → Настройки обучения.",
+        "hy": "Հավասարակշռված մարզումները և վարժությունների ընտրիչը սկսվում են ձեր նշածից։ Մարզասրահը միշտ միացված է — փոխեք ցանկացած պահի՝ Հաշիվ → Վերապատրաստման նախասիրություններ։",
+        "sv": "Balanserade pass och övningsväljaren utgår från det du väljer. Gym är alltid på – ändra när som helst under Konto → Training preferences.",
+        "nb": "Balanserte økter og øvelsesvelgeren tar utgangspunkt i det du velger. Gym er alltid på – endre når som helst under Konto → Training preferences.",
+        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Rekening → Training preferences.",
+        "da": "Balancerede pas og øvelsesvælgeren tager udgangspunkt i det, du vælger. Gym er altid slået til – skift når som helst under Konto → Training preferences.",
+        "pl": "Zbalansowane sesje i wybór ćwiczeń zaczynają się od tego, co zaznaczysz. Siłownia jest zawsze włączona — zmień to w dowolnej chwili w Konto → Training preferences.",
+        "fr": "Les séances équilibrées et le sélecteur d'exercices partent de vos choix. La salle est toujours activée — modifiable à tout moment dans Compte → Training preferences.",
+        "ar": "الجلسات المتوازنة ومنتقي التمارين يبدآن بما تختاره. الجيم مفعّل دائمًا — غيّر ذلك في أي وقت من حساب ← Training preferences."
+      },
+      "trainingStyle.title": {
+        "en": "What do you train?",
+        "ru": "Что вы тренируете?",
+        "hy": "Ի՞նչ եք մարզում",
+        "sv": "Vad tränar du?",
+        "nb": "Hva trener du?",
+        "nl": "Wat train je?",
+        "da": "Hvad træner du?",
+        "pl": "Co trenujesz?",
+        "fr": "Que pratiquez-vous ?",
+        "ar": "ماذا تتدرب؟"
       }
     },
     "Performance": {
@@ -15446,6 +14402,66 @@
         "pl": "Najcięższy zestaw",
         "fr": "Ensemble le plus lourd",
         "ar": "أثقل مجموعة"
+      },
+      "series.averageReps": {
+        "en": "Average reps per set",
+        "ru": "Среднее число повторений за подход",
+        "hy": "Միջին կրկնություններ մեկ սեթում",
+        "sv": "Snittrepetitioner per set",
+        "nb": "Snitt repetisjoner per sett",
+        "nl": "Gemiddelde herhalingen per set",
+        "da": "Gennemsnitlige gentagelser pr. sæt",
+        "pl": "Średnia liczba powtórzeń na serię",
+        "fr": "Répétitions moyennes par série",
+        "ar": "متوسط التكرارات لكل مجموعة"
+      },
+      "series.totalReps": {
+        "en": "Total reps per workout",
+        "ru": "Всего повторений за тренировку",
+        "hy": "Ընդհանուր կրկնություններ մեկ մարզման ընթացքում",
+        "sv": "Totalt antal repetitioner per pass",
+        "nb": "Totalt antall repetisjoner per økt",
+        "nl": "Totaal aantal herhalingen per training",
+        "da": "Samlede gentagelser pr. træning",
+        "pl": "Łączna liczba powtórzeń na trening",
+        "fr": "Total de répétitions par séance",
+        "ar": "إجمالي التكرارات لكل تمرين"
+      },
+      "value.averageReps": {
+        "en": "%@ avg",
+        "ru": "ср. %@",
+        "hy": "միջ. %@",
+        "sv": "snitt %@",
+        "nb": "snitt %@",
+        "nl": "gem. %@",
+        "da": "gns. %@",
+        "pl": "śr. %@",
+        "fr": "moy. %@",
+        "ar": "متوسط %@"
+      },
+      "caption.totalReps": {
+        "en": "Total reps: %lld",
+        "ru": "Всего повторений: %lld",
+        "hy": "Ընդհանուր կրկնություններ՝ %lld",
+        "sv": "Totalt antal repetitioner: %lld",
+        "nb": "Totalt antall repetisjoner: %lld",
+        "nl": "Totaal herhalingen: %lld",
+        "da": "Gentagelser i alt: %lld",
+        "pl": "Łącznie powtórzeń: %lld",
+        "fr": "Total de répétitions : %lld",
+        "ar": "إجمالي التكرارات: %lld"
+      },
+      "averageReps.footer": {
+        "en": "Each point is the average reps per set in that workout — not your best set. Tap a point to see that workout's total reps.",
+        "ru": "Каждая точка — среднее число повторений за подход в этой тренировке, а не лучший подход. Нажмите на точку, чтобы увидеть общее число повторений.",
+        "hy": "Յուրաքանչյուր կետ այդ մարզման մեկ սեթի միջին կրկնությունների թիվն է, ոչ թե լավագույն սեթը։ Հպեք կետին՝ մարզման ընդհանուր կրկնությունները տեսնելու համար։",
+        "sv": "Varje punkt är snittet av repetitioner per set i det passet – inte ditt bästa set. Tryck på en punkt för att se passets totala repetitioner.",
+        "nb": "Hvert punkt er snittet av repetisjoner per sett i den økten – ikke ditt beste sett. Trykk på et punkt for å se øktens totale repetisjoner.",
+        "nl": "Elk punt is het gemiddelde aantal herhalingen per set in die training – niet je beste set. Tik op een punt om het totaal aantal herhalingen van die training te zien.",
+        "da": "Hvert punkt er gennemsnittet af gentagelser pr. sæt i den træning – ikke dit bedste sæt. Tryk på et punkt for at se træningens samlede gentagelser.",
+        "pl": "Każdy punkt to średnia liczba powtórzeń na serię w tym treningu – nie Twoja najlepsza seria. Dotknij punktu, aby zobaczyć łączną liczbę powtórzeń w tym treningu.",
+        "fr": "Chaque point correspond à la moyenne de répétitions par série de cette séance, et non à votre meilleure série. Touchez un point pour voir le total de répétitions de la séance.",
+        "ar": "كل نقطة هي متوسط التكرارات لكل مجموعة في ذلك التمرين، وليست أفضل مجموعة لديك. اضغط على نقطة لرؤية إجمالي تكرارات ذلك التمرين."
       }
     },
     "Records": {
@@ -15592,6 +14608,30 @@
         "pl": "Trening niedostępny",
         "fr": "Entraînement indisponible",
         "ar": "التمرين غير متاح"
+      },
+      "category.collapseA11y": {
+        "en": "Collapse %@",
+        "ru": "Свернуть: %@",
+        "hy": "Ծալել՝ %@",
+        "sv": "Komprimera %@",
+        "nb": "Skjul %@",
+        "nl": "%@ samenvouwen",
+        "da": "Skjul %@",
+        "pl": "Zwiń: %@",
+        "fr": "Réduire %@",
+        "ar": "طي %@"
+      },
+      "category.expandA11y": {
+        "en": "Expand %@",
+        "ru": "Развернуть: %@",
+        "hy": "Ընդլայնել՝ %@",
+        "sv": "Utöka %@",
+        "nb": "Utvid %@",
+        "nl": "Vouw %@ uit",
+        "da": "Udvid %@",
+        "pl": "Rozwiń: %@",
+        "fr": "Développer %@",
+        "ar": "توسيع %@"
       }
     },
     "RecycleBin": {
@@ -19616,16 +18656,16 @@
         "ar": "≈ %1$@ · %2$@"
       },
       "energy.footer": {
-        "en": "A rough figure for the plan, not a target. It assumes about three minutes per set, so it moves mostly with how many sets you planned — what a session actually costs depends on how you train it.",
-        "ru": "Грубая оценка плана, а не цель. Считается примерно по три минуты на подход, поэтому зависит в основном от их числа — сколько тренировка стоит на самом деле, решает то, как ты её проведёшь.",
-        "hy": "Պլանի կոպիտ գնահատական է, ոչ թե նպատակ։ Հաշվարկվում է մոտ երեք րոպե մեկ մոտեցման համար, ուստի կախված է հիմնականում մոտեցումների քանակից — իրական արժեքը որոշում է այն, թե ինչպես ես մարզվում։",
-        "sv": "En grov siffra för planen, inte ett mål. Den räknar med ungefär tre minuter per set, så den följer mest hur många set du planerat – vad ett pass faktiskt kostar beror på hur du kör det.",
-        "nb": "Et grovt tall for planen, ikke et mål. Det regner med rundt tre minutter per sett, så det følger mest hvor mange sett du har planlagt – hva en økt faktisk koster, avhenger av hvordan du kjører den.",
-        "nl": "Een ruw getal voor het schema, geen doel. Het rekent met ongeveer drie minuten per set, dus het volgt vooral hoeveel sets je plande — wat een sessie echt kost, hangt af van hoe je hem uitvoert.",
-        "da": "Et groft tal for planen, ikke et mål. Det regner med cirka tre minutter pr. sæt, så det følger mest, hvor mange sæt du har planlagt – hvad et pas faktisk koster, afhænger af, hvordan du kører det.",
-        "pl": "Zgrubna liczba dla planu, nie cel. Zakłada około trzech minut na serię, więc zależy głównie od tego, ile serii zaplanowałeś — ile trening kosztuje naprawdę, zależy od tego, jak go wykonasz.",
-        "fr": "Un ordre de grandeur pour le plan, pas un objectif. Il suppose environ trois minutes par série, donc il suit surtout le nombre de séries prévues — ce qu’une séance coûte réellement dépend de la façon dont vous la menez.",
-        "ar": "رقم تقريبي للخطة، وليس هدفًا. يفترض نحو ثلاث دقائق لكل مجموعة، فيتغيّر أساسًا بعدد المجموعات التي خططت لها — أما كلفة الجلسة فعليًا فتعتمد على طريقة أدائك لها."
+        "en": "A rough figure for the plan, not a target. It is priced over the estimated duration above, so it moves mostly with how many sets you planned and how long you rest — what a session actually costs depends on how you train it.",
+        "ru": "Грубая оценка плана, а не цель. Считается по примерной длительности выше, поэтому зависит в основном от числа подходов и времени отдыха — сколько тренировка стоит на самом деле, решает то, как ты её проведёшь.",
+        "hy": "Պլանի կոպիտ գնահատական է, ոչ թե նպատակ։ Հաշվարկվում է վերևի մոտավոր տևողությամբ, ուստի կախված է հիմնականում մոտեցումների քանակից և հանգստի տևողությունից — իրական արժեքը որոշում է այն, թե ինչպես ես մարզվում։",
+        "sv": "En grov siffra för planen, inte ett mål. Den räknas över den uppskattade tiden ovan, så den följer mest hur många set du planerat och hur länge du vilar – vad ett pass faktiskt kostar beror på hur du kör det.",
+        "nb": "Et grovt tall for planen, ikke et mål. Det regnes over den anslåtte varigheten over, så det følger mest hvor mange sett du har planlagt og hvor lenge du hviler – hva en økt faktisk koster, avhenger av hvordan du kjører den.",
+        "nl": "Een ruw getal voor het schema, geen doel. Het wordt berekend over de geschatte duur hierboven, dus het volgt vooral hoeveel sets je plande en hoe lang je rust — wat een sessie echt kost, hangt af van hoe je hem uitvoert.",
+        "da": "Et groft tal for planen, ikke et mål. Det beregnes over den anslåede varighed ovenfor, så det følger mest, hvor mange sæt du har planlagt, og hvor længe du holder pause – hvad et pas faktisk koster, afhænger af, hvordan du kører det.",
+        "pl": "Zgrubna liczba dla planu, nie cel. Liczona jest dla szacowanego czasu powyżej, więc zależy głównie od liczby zaplanowanych serii i długości przerw — ile trening kosztuje naprawdę, zależy od tego, jak go wykonasz.",
+        "fr": "Un ordre de grandeur pour le plan, pas un objectif. Il est calculé sur la durée estimée ci-dessus, donc il suit surtout le nombre de séries prévues et la durée du repos — ce qu’une séance coûte réellement dépend de la façon dont vous la menez.",
+        "ar": "رقم تقريبي للخطة، وليس هدفًا. يُحسب على المدة التقديرية أعلاه، فيتغيّر أساسًا بعدد المجموعات التي خططت لها ومدة الراحة — أما كلفة الجلسة فعليًا فتعتمد على طريقة أدائك لها."
       },
       "allTemplates": {
         "en": "All Templates",
@@ -20178,6 +19218,42 @@
         "fr": "Rechercher des modèles",
         "ar": "بحث القوالب"
       },
+      "searchWithExercises": {
+        "en": "Search templates and exercises",
+        "ru": "Поиск шаблонов и упражнений",
+        "hy": "Որոնել կաղապարներ և վարժություններ",
+        "sv": "Sök mallar och övningar",
+        "nb": "Søk i maler og øvelser",
+        "nl": "Zoek sjablonen en oefeningen",
+        "da": "Søg i skabeloner og øvelser",
+        "pl": "Szukaj szablonów i ćwiczeń",
+        "fr": "Rechercher des modèles et des exercices",
+        "ar": "ابحث في القوالب والتمارين"
+      },
+      "searchIncludes": {
+        "en": "Includes %@",
+        "ru": "Содержит: %@",
+        "hy": "Ներառում է՝ %@",
+        "sv": "Innehåller %@",
+        "nb": "Inneholder %@",
+        "nl": "Bevat %@",
+        "da": "Indeholder %@",
+        "pl": "Zawiera: %@",
+        "fr": "Contient : %@",
+        "ar": "يتضمن %@"
+      },
+      "durationA11y": {
+        "en": "Estimated duration: %@",
+        "ru": "Примерная длительность: %@",
+        "hy": "Մոտավոր տևողություն՝ %@",
+        "sv": "Uppskattad längd: %@",
+        "nb": "Anslått varighet: %@",
+        "nl": "Geschatte duur: %@",
+        "da": "Anslået varighed: %@",
+        "pl": "Szacowany czas: %@",
+        "fr": "Durée estimée : %@",
+        "ar": "المدة المقدرة: %@"
+      },
       "startWorkout": {
         "en": "Start Workout",
         "ru": "Начать тренировку",
@@ -20189,6 +19265,42 @@
         "pl": "Rozpocznij trening",
         "fr": "Commencer l'entraînement",
         "ar": "ابدأ التمرين"
+      },
+      "duration.title": {
+        "en": "Estimated duration",
+        "ru": "Примерная длительность",
+        "hy": "Մոտավոր տևողություն",
+        "sv": "Uppskattad tid",
+        "nb": "Anslått varighet",
+        "nl": "Geschatte duur",
+        "da": "Anslået varighed",
+        "pl": "Szacowany czas",
+        "fr": "Durée estimée",
+        "ar": "المدة التقديرية"
+      },
+      "duration.value": {
+        "en": "≈ %@",
+        "ru": "≈ %@",
+        "hy": "≈ %@",
+        "sv": "≈ %@",
+        "nb": "≈ %@",
+        "nl": "≈ %@",
+        "da": "≈ %@",
+        "pl": "≈ %@",
+        "fr": "≈ %@",
+        "ar": "≈ %@"
+      },
+      "duration.footer": {
+        "en": "Planned sets plus the rest between them — the rest timer you saved for each exercise, or 1:30 — and about a minute to move between exercises. Warm-ups aren’t included.",
+        "ru": "Запланированные подходы плюс отдых между ними — таймер отдыха, сохранённый для каждого упражнения, или 1:30 — и около минуты на переход между упражнениями. Разминка не учитывается.",
+        "hy": "Պլանավորված մոտեցումները և դրանց միջև հանգիստը — յուրաքանչյուր վարժության համար պահպանված հանգստի ժամանակաչափը կամ 1:30 — և մոտ մեկ րոպե՝ վարժությունների միջև անցման համար։ Տաքացումը հաշվի չի առնվում։",
+        "sv": "Planerade set plus vilan mellan dem – vilotimern du sparat för varje övning, eller 1:30 – och ungefär en minut för att byta övning. Uppvärmning räknas inte med.",
+        "nb": "Planlagte sett pluss pausen mellom dem – pausetimeren du har lagret for hver øvelse, eller 1:30 – og omtrent ett minutt for å bytte øvelse. Oppvarming er ikke med.",
+        "nl": "Geplande sets plus de rust ertussen – de rusttimer die je per oefening hebt bewaard, of 1:30 – en ongeveer een minuut om van oefening te wisselen. Opwarmen telt niet mee.",
+        "da": "Planlagte sæt plus pausen mellem dem – den pausetimer, du har gemt for hver øvelse, eller 1:30 – og cirka en minut til at skifte øvelse. Opvarmning er ikke medregnet.",
+        "pl": "Zaplanowane serie plus przerwy między nimi — minutnik przerwy zapisany dla każdego ćwiczenia albo 1:30 — i około minuty na przejście do kolejnego ćwiczenia. Rozgrzewka nie jest wliczona.",
+        "fr": "Les séries prévues plus le repos entre elles — le minuteur de repos enregistré pour chaque exercice, ou 1:30 — et environ une minute pour passer d’un exercice à l’autre. L’échauffement n’est pas compté.",
+        "ar": "المجموعات المخطط لها مع الراحة بينها — مؤقت الراحة المحفوظ لكل تمرين، أو 1:30 — ونحو دقيقة للانتقال بين التمارين. لا يشمل الإحماء."
       }
     },
     "Theme": {
@@ -21263,6 +20375,152 @@
         "pl": "Kliknij, aby wznowić",
         "fr": "Appuyez pour reprendre",
         "ar": "انقر للاستئناف"
+      }
+    },
+    "ContactUsPrompt": {
+      "action": {
+        "en": "Contact us",
+        "ru": "Написать нам",
+        "hy": "Կապվել մեզ հետ",
+        "sv": "Kontakta oss",
+        "nb": "Kontakt oss",
+        "nl": "Neem contact op",
+        "da": "Kontakt os",
+        "pl": "Skontaktuj się z nami",
+        "fr": "Nous contacter",
+        "ar": "تواصل معنا"
+      },
+      "body": {
+        "en": "You've been training with Gym Logbook for a bit. Mind sending us a quick note about what's working, or what's not?",
+        "ru": "Ты уже какое-то время тренируешься с Gym Logbook. Не против прислать нам пару слов о том, что нравится, а что нет?",
+        "hy": "Դու արդեն որոշ ժամանակ մարզվում ես Gym Logbook-ով։ Կարո՞ղ ես մեզ մի քանի խոսքով գրել՝ ինչն է աշխատում, և ինչը՝ ոչ։",
+        "sv": "Du har tränat med Gym Logbook ett tag nu. Skicka gärna en snabb rad om vad som fungerar, eller inte.",
+        "nb": "Du har trent med Gym Logbook en stund nå. Send oss gjerne en rask melding om hva som fungerer, eller ikke.",
+        "nl": "Je traint al een tijdje met Gym Logbook. Stuur ons gerust een kort berichtje over wat wel en niet werkt.",
+        "da": "Du har trænet med Gym Logbook et stykke tid nu. Send os gerne en kort besked om, hvad der fungerer, eller ikke gør.",
+        "pl": "Trenujesz z Gym Logbook już jakiś czas. Napisz nam krótko, co działa dobrze, a co nie.",
+        "fr": "Vous vous entraînez avec Gym Logbook depuis un moment. N'hésitez pas à nous envoyer un petit mot sur ce qui fonctionne, ou pas.",
+        "ar": "أنت تتدرّب مع Gym Logbook منذ فترة. هل تودّ إرسال ملاحظة سريعة حول ما ينجح وما لا ينجح؟"
+      },
+      "mail.accountLabel": {
+        "en": "Account",
+        "ru": "Аккаунт",
+        "hy": "Հաշիվ",
+        "sv": "Konto",
+        "nb": "Konto",
+        "nl": "Account",
+        "da": "Konto",
+        "pl": "Konto",
+        "fr": "Compte",
+        "ar": "الحساب"
+      },
+      "mail.appVersionLabel": {
+        "en": "App version",
+        "ru": "Версия приложения",
+        "hy": "Հավելվածի տարբերակը",
+        "sv": "Appversion",
+        "nb": "Appversjon",
+        "nl": "App-versie",
+        "da": "Appversion",
+        "pl": "Wersja aplikacji",
+        "fr": "Version de l'application",
+        "ar": "إصدار التطبيق"
+      },
+      "mail.guest": {
+        "en": "Guest",
+        "ru": "Гость",
+        "hy": "Հյուր",
+        "sv": "Gäst",
+        "nb": "Gjest",
+        "nl": "Gast",
+        "da": "Gæst",
+        "pl": "Gość",
+        "fr": "Invité",
+        "ar": "ضيف"
+      },
+      "mail.signedInFormat": {
+        "en": "Signed in · %@",
+        "ru": "Вошёл в аккаунт · %@",
+        "hy": "Մուտք գործած · %@",
+        "sv": "Inloggad · %@",
+        "nb": "Logget inn · %@",
+        "nl": "Ingelogd · %@",
+        "da": "Logget ind · %@",
+        "pl": "Zalogowano · %@",
+        "fr": "Connecté · %@",
+        "ar": "تم تسجيل الدخول · %@"
+      },
+      "mail.subject": {
+        "en": "Gym Logbook feedback",
+        "ru": "Отзыв о Gym Logbook",
+        "hy": "Կարծիք Gym Logbook-ի մասին",
+        "sv": "Feedback om Gym Logbook",
+        "nb": "Tilbakemelding om Gym Logbook",
+        "nl": "Feedback over Gym Logbook",
+        "da": "Feedback om Gym Logbook",
+        "pl": "Opinia o Gym Logbook",
+        "fr": "Retour sur Gym Logbook",
+        "ar": "ملاحظات حول Gym Logbook"
+      },
+      "noMail.body": {
+        "en": "Copy our address and reach us from any mail app: %@",
+        "ru": "Скопируй наш адрес и напиши нам из любого почтового приложения: %@",
+        "hy": "Պատճենիր մեր հասցեն և գրիր մեզ ցանկացած փոստի հավելվածից՝ %@",
+        "sv": "Kopiera vår adress och nå oss från valfri mejlapp: %@",
+        "nb": "Kopier adressen vår og nå oss fra hvilken som helst e-postapp: %@",
+        "nl": "Kopieer ons adres en bereik ons vanuit elke mail-app: %@",
+        "da": "Kopiér vores adresse, og skriv til os fra en vilkårlig mailapp: %@",
+        "pl": "Skopiuj nasz adres i napisz do nas z dowolnej aplikacji pocztowej: %@",
+        "fr": "Copiez notre adresse et contactez-nous depuis n'importe quelle application de messagerie : %@",
+        "ar": "انسخ عنواننا وتواصل معنا من أي تطبيق بريد: %@"
+      },
+      "noMail.copyEmail": {
+        "en": "Copy Email Address",
+        "ru": "Скопировать адрес почты",
+        "hy": "Պատճենել էլ. հասցեն",
+        "sv": "Kopiera e-postadress",
+        "nb": "Kopiér e-postadresse",
+        "nl": "Kopieer e-mailadres",
+        "da": "Kopiér mailadresse",
+        "pl": "Skopiuj adres e-mail",
+        "fr": "Copier l'adresse e-mail",
+        "ar": "نسخ عنوان البريد الإلكتروني"
+      },
+      "noMail.title": {
+        "en": "No Mail app set up",
+        "ru": "Не настроено почтовое приложение",
+        "hy": "Փոստի հավելված կարգավորված չէ",
+        "sv": "Ingen mejlapp konfigurerad",
+        "nb": "Ingen e-postapp konfigurert",
+        "nl": "Geen mail-app ingesteld",
+        "da": "Ingen mailapp konfigureret",
+        "pl": "Nie skonfigurowano aplikacji Poczta",
+        "fr": "Aucune application Mail configurée",
+        "ar": "لم يتم إعداد تطبيق بريد"
+      },
+      "notNow": {
+        "en": "Not now",
+        "ru": "Не сейчас",
+        "hy": "Ոչ հիմա",
+        "sv": "Inte nu",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "da": "Ikke nu",
+        "pl": "Nie teraz",
+        "fr": "Pas maintenant",
+        "ar": "ليس الآن"
+      },
+      "title": {
+        "en": "Help us improve",
+        "ru": "Помогите нам стать лучше",
+        "hy": "Օգնեք մեզ բարելավվել",
+        "sv": "Hjälp oss att bli bättre",
+        "nb": "Hjelp oss å bli bedre",
+        "nl": "Help ons verbeteren",
+        "da": "Hjælp os med at blive bedre",
+        "pl": "Pomóż nam ulepszyć aplikację",
+        "fr": "Aidez-nous à nous améliorer",
+        "ar": "ساعدنا على التحسّن"
       }
     }
   }

@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """Re-translate the Russian + Armenian UI pack from English, group by group.
 
-Reads  remote/translations/locales/en.json   (never written)
-Writes remote/translations/locales/ru.json
-       remote/translations/locales/hy.json
+Reads  remote/translations/strings.json  (the `en` value of every live key — never rewritten)
+Writes remote/translations/strings.json  (only the `ru` / `hy` values)
 
 Every translatable key is re-translated from English on each run, so the output is
-reproducible from en.json alone — there is no curated-overrides layer. Keys are never
-added, removed, or reordered; the output always follows locales/keys.json.
+reproducible from the English column alone — there is no curated-overrides layer. Keys are
+never added, removed, or reordered; retired keys (`removedIn`) are left untouched.
 
 Unlike the older scripts/rewrite_ru_hy.py, an API failure NEVER falls back to writing
 (or caching) the English source. That fallback is what baked 119 English strings into
@@ -37,8 +36,9 @@ import time
 from pathlib import Path
 from threading import Lock
 
+from translation_source import live_keys, load_source, locale_map, save_source, set_text
+
 ROOT = Path(__file__).resolve().parents[1]
-LOCALES_DIR = ROOT / "remote/translations/locales"
 CACHE_PATH = ROOT / "scripts/.translate_cache.json"
 FAILURES_PATH = ROOT / "scripts/.translate_failures.json"
 GLOSSARY_PATH = ROOT / "scripts/glossary.json"
@@ -118,7 +118,7 @@ def load_glossary(keys: list[str]) -> dict[str, dict[str, str]]:
     unknown = sorted(k for k in entries if k not in known)
     if unknown:
         raise SystemExit(
-            f"glossary.json references {len(unknown)} key(s) not in keys.json: {unknown[:5]}"
+            f"glossary.json references {len(unknown)} key(s) not in strings.json: {unknown[:5]}"
         )
     for key, value in entries.items():
         missing = [loc for loc in TARGET_LOCALES if not value.get(loc)]
@@ -319,13 +319,14 @@ def main() -> int:
 
     locales = (args.locale,) if args.locale else TARGET_LOCALES
 
-    keys: list[str] = load_json(LOCALES_DIR / "keys.json")
-    en: dict[str, str] = load_json(LOCALES_DIR / "en.json")
-    current = {loc: load_json(LOCALES_DIR / f"{loc}.json") for loc in locales}
+    source = load_source()
+    keys: list[str] = live_keys(source)
+    en: dict[str, str] = locale_map(source, "en")
+    current = {loc: locale_map(source, loc) for loc in locales}
 
     missing_en = [k for k in keys if k not in en]
     if missing_en:
-        raise SystemExit(f"en.json missing {len(missing_en)} keys, e.g. {missing_en[:5]}")
+        raise SystemExit(f"strings.json missing en for {len(missing_en)} keys, e.g. {missing_en[:5]}")
 
     glossary = load_glossary(keys)
 
@@ -416,17 +417,19 @@ def main() -> int:
 
 
 def write_locale(locale: str, keys: list[str], data: dict[str, str]) -> None:
-    ordered = {}
+    """Write one locale's column back into strings.json (live keys only, order untouched)."""
     for key in keys:
         if key not in data:
-            raise SystemExit(f"Refusing to write {locale}.json — key {key!r} went missing")
-        ordered[key] = data[key]
-    if list(ordered) != keys:
-        raise SystemExit(f"Refusing to write {locale}.json — key order changed")
+            raise SystemExit(f"Refusing to write {locale} — key {key!r} went missing")
     extra = set(data) - set(keys)
     if extra:
-        raise SystemExit(f"Refusing to write {locale}.json — unexpected keys {sorted(extra)[:5]}")
-    dump_json(LOCALES_DIR / f"{locale}.json", ordered)
+        raise SystemExit(f"Refusing to write {locale} — unexpected keys {sorted(extra)[:5]}")
+    source = load_source()
+    if live_keys(source) != keys:
+        raise SystemExit(f"Refusing to write {locale} — strings.json changed underneath the run")
+    for key in keys:
+        set_text(source, key, locale, data[key])
+    save_source(source)
 
 
 if __name__ == "__main__":

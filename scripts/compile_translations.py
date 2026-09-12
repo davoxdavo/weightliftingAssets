@@ -1,34 +1,31 @@
 #!/usr/bin/env python3
-"""Compile flat per-locale translation sources into the published pack.
+"""Compile the single UI-translations source into the published packs.
 
-Authoring layout (easy to edit remotely):
-  remote/translations/locales/<locale>.json   # full dotted key → string
-  remote/translations/locales/keys.json       # canonical key order / set
-  remote/translations/locales/meta.json       # locales + catalog prefixes
+Authoring layout (ONE file — see scripts/translation_source.py for the shape):
+  remote/translations/strings.json       # every key × locale, canonical order, retired keys marked
 
 Published contract (backward-compatible for shipped clients):
   remote/translations/translations.json               # base pack — every shipped client reads it
-  remote/translations/v<floor>/translations.json      # floored pack (meta.minAppVersion)
+  remote/translations/v<floor>/translations.json      # floored pack (strings.json → minAppVersion)
   remote/manifest.json → translations.lastSyncedAt + url            (base)
                          translations.versions[] {minAppVersion, lastSyncedAt, url}  (floored)
 
-App-version floor (since 2026-09-12): every compile writes the BASE pack from the sources
-PLUS `locales/retired.json` (keys an app release stopped using, with their last values and the
-`removedIn` version) — so the base pack never loses a key and older builds keep working while
-still receiving copy fixes to the keys they share. When `meta.json` carries `minAppVersion`,
-the compile also writes `v<floor>/translations.json` — sources plus only the retired keys whose
-`removedIn` is above the floor — and upserts `translations.versions[]` for it. Clients pick the
-eligible entry with the highest floor, else the base pointer.
+App-version floor (since 2026-09-12): every compile writes the BASE pack from every key in the
+source, retired ones included (a key with `removedIn` keeps its last values) — so the base pack
+never loses a key and older builds keep working while still receiving copy fixes to the keys
+they share. When the source carries `minAppVersion`, the compile also writes
+`v<floor>/translations.json` — live keys plus only retired keys whose `removedIn` is above the
+floor — and upserts `translations.versions[]` for it. Clients pick the eligible entry with the
+highest floor, else the base pointer.
 
-Removing a key from `keys.json` is refused unless it is in `retired.json` (a key the previous
-base pack served must stay served). Raise the floor with `--min-app-version X.Y` on the first
-release that stops using keys, and give those keys `"removedIn": "X.Y"`.
+Deleting a key from the source is refused (a key the previous base pack served must stay
+served). Retire it instead: `--retire KEY` marks it `removedIn: <floor>`; raise the floor with
+`--min-app-version X.Y` on the first release that stops using keys.
 
 Usage:
   python3 scripts/compile_translations.py
   python3 scripts/compile_translations.py --bump-timestamp
-  python3 scripts/compile_translations.py --min-app-version 1.4 --bump-timestamp
-  python3 scripts/compile_translations.py --retire share.month.action   # move a key into retired.json
+  python3 scripts/compile_translations.py --min-app-version 1.4 --retire share.month.action --bump-timestamp
 """
 from __future__ import annotations
 
@@ -38,16 +35,24 @@ import re
 import time
 from pathlib import Path
 
+from translation_source import (
+    CATALOG_LOCALES,
+    SOURCE_PATH,
+    UI_LOCALES,
+    is_retired,
+    live_keys,
+    load_source,
+    retired_keys,
+    save_source,
+)
+
 ROOT = Path(__file__).resolve().parents[1]
-LOCALES_DIR = ROOT / "remote/translations/locales"
 OUT_PACK = ROOT / "remote/translations/translations.json"
 MANIFEST_PATH = ROOT / "remote/manifest.json"
 RAW_BASE = "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/"
 VERSION_RE = re.compile(r"^\d+(?:\.\d+){0,2}$")
 
 PLACEHOLDER_RE = re.compile(r"%(?:\d+\$)?[@difsca]|%\d+\$@")
-UI_LOCALES = ("en", "ru", "hy", "sv", "nb", "nl", "da", "pl", "fr", "ar")
-CATALOG_LOCALES = ("en", "ru", "hy")
 
 
 def section_for_key(key: str) -> tuple[str, str]:
@@ -84,49 +89,42 @@ def flatten_pack(pack: dict) -> dict[str, dict[str, str]]:
 
 
 def build_strings(
-    keys: list[str],
-    locale_maps: dict[str, dict[str, str]],
-    catalog_prefixes: list[str],
-    retired: dict[str, dict[str, str]],
+    source: dict,
     include_retired_above: str | None,
 ) -> dict[str, dict[str, dict[str, str]]]:
     """Grouped `strings` for one pack. `include_retired_above=None` keeps every retired key (base
     pack); a floor keeps only retired keys whose `removedIn` is above that floor."""
-    en = locale_maps["en"]
+    catalog_prefixes = list(source["catalogKeyPrefixes"])
     strings: dict[str, dict[str, dict[str, str]]] = {}
-    for key in keys:
+    for key, values in source["strings"].items():
         section, relative = section_for_key(key)
+        if is_retired(values):
+            removed_in = values["removedIn"]
+            if include_retired_above is not None and version_key(removed_in) <= version_key(
+                include_retired_above
+            ):
+                continue
+            entry = {loc: t for loc, t in values.items() if loc in UI_LOCALES and t is not None}
+            if "en" not in entry:
+                raise SystemExit(f"retired key {key} needs at least en")
+            strings.setdefault(section, {})[relative] = entry
+            continue
         catalog = is_catalog_key(key, catalog_prefixes)
         expect = CATALOG_LOCALES if catalog else UI_LOCALES
-        en_text = en[key]
+        en_text = values.get("en")
         if en_text is None:
             raise SystemExit(f"Missing en for {key}")
         en_ph = PLACEHOLDER_RE.findall(en_text)
-        entry: dict[str, str] = {}
+        entry = {}
         for loc in expect:
-            if loc not in locale_maps:
-                raise SystemExit(f"Locale {loc} required for {key}")
-            if key not in locale_maps[loc]:
-                raise SystemExit(f"Missing {loc} for {key}")
-            text = locale_maps[loc][key]
+            text = values.get(loc)
             if text is None:
-                raise SystemExit(f"Null {loc} for {key}")
+                raise SystemExit(f"Missing {loc} for {key}")
             if loc != "en" and PLACEHOLDER_RE.findall(text) != en_ph:
                 raise SystemExit(
                     f"Placeholder mismatch {key} [{loc}]: en={en_ph} got={PLACEHOLDER_RE.findall(text)}"
                 )
             entry[loc] = text
-        strings.setdefault(section, {})[relative] = entry
-    for key, values in retired.items():
-        removed_in = values.get("removedIn")
-        if include_retired_above is not None and (
-            removed_in is None or version_key(removed_in) <= version_key(include_retired_above)
-        ):
-            continue
-        section, relative = section_for_key(key)
-        entry = {loc: text for loc, text in values.items() if loc in UI_LOCALES and text is not None}
-        if "en" not in entry:
-            raise SystemExit(f"retired.json: {key} needs at least en")
         strings.setdefault(section, {})[relative] = entry
     return strings
 
@@ -166,71 +164,38 @@ def main() -> None:
         "--min-app-version",
         default=None,
         help=(
-            "Marketing-version floor for this pack (e.g. 1.4). Persists to meta.json; "
+            "Marketing-version floor for this pack (e.g. 1.4). Persists to strings.json; "
             "writes v<floor>/translations.json + manifest translations.versions[] and leaves "
             "the base pack alone"
         ),
     )
     args = parser.parse_args()
 
-    meta = load_json(LOCALES_DIR / "meta.json")
+    source = load_source()
     if args.min_app_version is not None:
-        meta["minAppVersion"] = args.min_app_version.strip()
-    floor = (meta.get("minAppVersion") or "").strip() or None
+        source["minAppVersion"] = args.min_app_version.strip()
+    floor = (source.get("minAppVersion") or "").strip() or None
     if floor is not None and not VERSION_RE.match(floor):
         raise SystemExit(f"minAppVersion must look like 1.4 or 1.4.0, got {floor!r}")
     floored_pack = None if floor is None else OUT_PACK.parent / f"v{floor}" / OUT_PACK.name
-    retired_path = LOCALES_DIR / "retired.json"
-    retired: dict[str, dict[str, str]] = load_json(retired_path) if retired_path.is_file() else {}
-    keys: list[str] = load_json(LOCALES_DIR / "keys.json")
-    locales = list(meta.get("locales") or UI_LOCALES)
-    catalog_prefixes = list(
-        meta.get("catalogKeyPrefixes")
-        or ["exercise.catalog.", "superset.catalog.", "template.catalog."]
-    )
-
-    if sorted(keys) != sorted(set(keys)):
-        raise SystemExit("keys.json has duplicates")
-
-    locale_maps: dict[str, dict[str, str]] = {}
-    for loc in locales:
-        path = LOCALES_DIR / f"{loc}.json"
-        if not path.is_file():
-            raise SystemExit(f"Missing locale file: {path}")
-        locale_maps[loc] = load_json(path)
 
     if args.retire:
         if floor is None:
-            raise SystemExit("--retire needs a floor (--min-app-version or meta.minAppVersion)")
+            raise SystemExit("--retire needs a floor (--min-app-version or strings.json minAppVersion)")
         for key in args.retire:
-            if key not in keys:
-                raise SystemExit(f"--retire {key}: not in keys.json")
-            entry: dict[str, str] = {"removedIn": floor}
-            for loc in locales:
-                text = locale_maps[loc].pop(key, None)
-                if text is not None:
-                    entry[loc] = text
-            retired[key] = entry
-            keys.remove(key)
-        (LOCALES_DIR / "keys.json").write_text(
-            json.dumps(keys, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-        )
-        for loc in locales:
-            (LOCALES_DIR / f"{loc}.json").write_text(
-                json.dumps(locale_maps[loc], ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-            )
-        retired_path.write_text(
-            json.dumps(dict(sorted(retired.items())), ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
-        print(f"Retired {len(args.retire)} key(s) into {retired_path.relative_to(ROOT)}")
+            entry = source["strings"].get(key)
+            if entry is None:
+                raise SystemExit(f"--retire {key}: not in strings.json")
+            if is_retired(entry):
+                raise SystemExit(f"--retire {key}: already retired in {entry['removedIn']}")
+            source["strings"][key] = {"removedIn": floor, **entry}
+        print(f"Retired {len(args.retire)} key(s) in {SOURCE_PATH.relative_to(ROOT)}")
 
-    both = sorted(set(keys) & set(retired))
-    if both:
-        raise SystemExit(f"Keys in both keys.json and retired.json: {both[:5]}")
+    keys = live_keys(source)
+    retired = retired_keys(source)
     for key, values in retired.items():
-        if not VERSION_RE.match(str(values.get("removedIn") or "")):
-            raise SystemExit(f"retired.json: {key} needs a removedIn version like 1.4")
+        if not VERSION_RE.match(str(values.get("removedIn"))):
+            raise SystemExit(f"{key}: removedIn must look like 1.4, got {values.get('removedIn')!r}")
 
     # The base pack must never lose a key a shipped build still renders.
     if OUT_PACK.is_file():
@@ -238,29 +203,19 @@ def main() -> None:
         lost = sorted(previously_served - set(keys) - set(retired))
         if lost:
             raise SystemExit(
-                f"{len(lost)} key(s) the base pack serves are gone from keys.json and not in "
-                f"retired.json — retire them (--retire KEY) instead of dropping them: {lost[:5]}"
+                f"{len(lost)} key(s) the base pack serves are gone from strings.json — retire them "
+                f"(--retire KEY) instead of deleting them: {lost[:5]}"
             )
 
-    en = locale_maps["en"]
-    missing_en = [k for k in keys if k not in en]
-    if missing_en:
-        raise SystemExit(f"en.json missing {len(missing_en)} keys, e.g. {missing_en[:5]}")
-    extra_en = sorted(set(en) - set(keys))
-    if extra_en:
-        raise SystemExit(f"en.json has unexpected keys: {extra_en[:5]}")
-
-    base_strings = build_strings(keys, locale_maps, catalog_prefixes, retired, None)
-    floored_strings = (
-        None if floor is None else build_strings(keys, locale_maps, catalog_prefixes, retired, floor)
-    )
+    base_strings = build_strings(source, None)
+    floored_strings = None if floor is None else build_strings(source, floor)
 
     if args.timestamp is not None:
         last_synced = int(args.timestamp)
     elif args.bump_timestamp:
         last_synced = int(time.time())
     else:
-        last_synced = int(meta.get("lastSyncedAt") or 0)
+        last_synced = int(source.get("lastSyncedAt") or 0)
         if last_synced <= 0:
             last_synced = int(time.time())
 
@@ -275,16 +230,9 @@ def main() -> None:
             json.dumps(pack, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
         )
 
-    meta["lastSyncedAt"] = last_synced
-    if floor is not None:
-        meta["minAppVersion"] = floor
-    else:
-        meta.pop("minAppVersion", None)
-    meta["locales"] = locales
-    meta["catalogKeyPrefixes"] = catalog_prefixes
-    (LOCALES_DIR / "meta.json").write_text(
-        json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
-    )
+    source["lastSyncedAt"] = last_synced
+    source["minAppVersion"] = floor
+    save_source(source)
 
     if MANIFEST_PATH.is_file():
         manifest = load_json(MANIFEST_PATH)

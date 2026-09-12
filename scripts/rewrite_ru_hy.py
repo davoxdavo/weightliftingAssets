@@ -18,8 +18,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from threading import Lock
 
+from translation_source import live_keys, load_source, locale_map, save_source, set_text
+
 ROOT = Path(__file__).resolve().parents[1]
-LOCALES_DIR = ROOT / "remote/translations/locales"
 MANIFEST_PATH = ROOT / "remote/manifest.json"
 CACHE_PATH = ROOT / "scripts/.ru_hy_rewrite_cache.json"
 
@@ -262,10 +263,11 @@ class Translator:
 
 
 def rewrite_ui(translator: Translator) -> None:
-    keys: list[str] = load_json(LOCALES_DIR / "keys.json")
-    en = load_json(LOCALES_DIR / "en.json")
+    source = load_source()
+    keys: list[str] = live_keys(source)
+    en = locale_map(source, "en")
     locales = {
-        loc: load_json(LOCALES_DIR / f"{loc}.json")
+        loc: locale_map(source, loc)
         for loc in ("en", "ru", "hy", "sv", "nb", "nl", "da", "pl", "fr", "ar")
     }
 
@@ -306,12 +308,13 @@ def rewrite_ui(translator: Translator) -> None:
             else:
                 locales[locale][key] = translator.translate(src, locale)
 
-    dump_json(LOCALES_DIR / "keys.json", keys)
-    for loc, data in locales.items():
-        ordered = {k: data[k] for k in keys if k in data}
-        dump_json(LOCALES_DIR / f"{loc}.json", ordered)
+    for loc in ("ru", "hy"):
+        for key in keys:
+            if key in locales[loc]:
+                set_text(source, key, loc, locales[loc][key])
+    save_source(source)
     translator.save()
-    print("UI locale files updated")
+    print("strings.json updated (ru/hy)")
 
 
 def rewrite_catalog_localizations(translator: Translator) -> None:

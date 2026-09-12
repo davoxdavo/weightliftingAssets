@@ -11,7 +11,7 @@ Two unrelated content systems live under `remote/`, and both look like "translat
 
 ```mermaid
 flowchart TD
-    A1["flat locale sources<br/>translations/locales/*.json"] --> A2["compile_translations.py<br/>groups keys, bumps stamp"]
+    A1["single UI source<br/>translations/strings.json"] --> A2["compile_translations.py<br/>groups keys, bumps stamp, writes base + floored pack"]
     A2 --> A3["compiled UI pack<br/>translations/translations.json"]
 
     B1["catalog source of truth<br/>app repo data/gym_exercises.json"] --> B2["publish new vN folder<br/>expand_localizations.py per language"]
@@ -31,13 +31,12 @@ flowchart TD
 
 ## System 1 — UI copy (`remote/translations/`)
 
-Authoring source is one flat file per language:
+Authoring source is **one file** (since 2026-09-12; it replaced `locales/<lang>.json` + `keys.json` + `meta.json`):
 
 ```text
-remote/translations/locales/
-  en.json … ar.json    # flat dotted key → string
-  keys.json            # canonical key set / order (1580 keys)
-  meta.json            # schemaVersion, lastSyncedAt, locale list, catalogKeyPrefixes
+remote/translations/
+  strings.json         # every key × locale in canonical order; schemaVersion, locales,
+                       # catalogKeyPrefixes, minAppVersion, lastSyncedAt; retired keys carry "removedIn"
 ```
 
 `scripts/compile_translations.py` pivots those into the published pack:
@@ -53,7 +52,7 @@ remote/translations/locales/
 
 The pack carries **all ten languages in one payload**. The app downloads it once; switching language re-resolves strings locally with no refetch.
 
-Rules when editing: don't rename or delete keys in `keys.json` unless the app code changes too; every non-catalog key needs all ten locales; preserve placeholders exactly (`%@`, `%lld`, `%1$@`).
+Rules when editing: don't rename keys unless the app code changes too, and **never delete one — retire it** (`compile_translations.py --retire KEY` marks it `removedIn`; the base pack keeps serving it to older builds, the `v<floor>/` pack drops it — see [`remote/translations/README.md`](remote/translations/README.md)); every non-catalog key needs all ten locales; preserve placeholders exactly (`%@`, `%lld`, `%1$@`).
 
 Supported locales: `en`, `ru`, `hy`, `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. English is the canonical source. Norwegian uses `nb` (device `no` maps to `nb`). Arabic is MSA with RTL layout.
 
@@ -120,7 +119,7 @@ Catalog `version` integers are a content revision, not a schema version — bump
 
 | Change | Edit | Then |
 | --- | --- | --- |
-| UI string | `remote/translations/locales/<lang>.json` | `python3 scripts/compile_translations.py --bump-timestamp`, then `python3 scripts/generate_translation_keys.py` in the app repo |
+| UI string | `remote/translations/strings.json` | `python3 scripts/compile_translations.py --bump-timestamp`, then `python3 scripts/generate_translation_keys.py` in the app repo |
 | Exercise / superset / template row | app repo `data/gym_exercises.json` (etc.), bump its top-level `version` | publish `catalog/exercises/vN+1/`, repoint `manifest.catalog.*.version` + `url` |
 | Exercise name / instructions / safety in one language | `catalog/localizations/<lang>/vN/` | bump that pointer's `version` only |
 | Form guide art | `remote/images/exercises/<formGuideAsset>.png` | bump `exerciseImages.revision` if replacing bytes at an existing path |
@@ -207,7 +206,7 @@ this list, which is a snapshot.
 ## See also
 
 - [`README.md`](README.md) — repo layout and CDN overview
-- [`remote/translations/locales/README.md`](remote/translations/locales/README.md) — authoring rules for flat locale files
+- [`remote/translations/README.md`](remote/translations/README.md) — authoring rules for `strings.json`, retiring keys, the app-version floor
 - App repo `data/REMOTE_MANIFEST.md` — full manifest field reference and operator recipes
 - App repo `data/SHIP_CATALOG_UPDATE.md` — step-by-step catalog release playbook
 - App repo `Gym Logbook Content Manager/` — the editor app; its Exercises module runs the same review rules with a UI on top
