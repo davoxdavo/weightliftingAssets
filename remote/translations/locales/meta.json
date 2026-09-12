@@ -4,7 +4,7 @@
     "superset.catalog.",
     "template.catalog."
   ],
-  "lastSyncedAt": 1789084133,
+  "lastSyncedAt": 1789193882,
   "locales": [
     "en",
     "ru",
@@ -18,5 +18,6 @@
     "ar"
   ],
   "notes": "",
-  "schemaVersion": 1
+  "schemaVersion": 1,
+  "minAppVersion": "1.4"
 }
