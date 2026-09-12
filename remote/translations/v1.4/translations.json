@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789250030,
+  "lastSyncedAt": 1789252611,
   "minAppVersion": "1.4",
   "strings": {
     "Misc": {
@@ -13996,6 +13996,66 @@
         "pl": "Co trenujesz?",
         "fr": "Que pratiquez-vous ?",
         "ar": "ماذا تتدرب؟"
+      },
+      "health.title": {
+        "en": "Apple Health",
+        "ru": "Apple Health",
+        "hy": "Apple Health",
+        "sv": "Apple Hälsa",
+        "nb": "Apple Helse",
+        "nl": "Apple Gezondheid",
+        "da": "Apple Sundhed",
+        "pl": "Apple Zdrowie",
+        "fr": "Apple Santé",
+        "ar": "Apple Health"
+      },
+      "health.body": {
+        "en": "Two optional connections — turn on either, both or neither. Apple asks for permission when you switch one on.",
+        "ru": "Две необязательные связи — включите одну, обе или ни одной. Apple спросит разрешение, когда вы включите переключатель.",
+        "hy": "Երկու ընտրովի կապ — միացրեք մեկը, երկուսը կամ ոչ մեկը։ Apple-ը թույլտվություն կխնդրի, երբ միացնեք։",
+        "sv": "Två valfria kopplingar – slå på en, båda eller ingen. Apple ber om tillstånd när du slår på en.",
+        "nb": "To valgfrie koblinger – slå på én, begge eller ingen. Apple ber om tillatelse når du slår på en.",
+        "nl": "Twee optionele koppelingen — zet er één, allebei of geen aan. Apple vraagt om toestemming wanneer je er een aanzet.",
+        "da": "To valgfrie forbindelser – slå én, begge eller ingen til. Apple beder om tilladelse, når du slår en til.",
+        "pl": "Dwa opcjonalne połączenia — włącz jedno, oba albo żadne. Apple poprosi o zgodę, gdy włączysz któreś z nich.",
+        "fr": "Deux connexions facultatives — activez-en une, les deux ou aucune. Apple demande l'autorisation quand vous en activez une.",
+        "ar": "اتصالان اختياريان — فعّل أحدهما أو كليهما أو لا شيء. ستطلب Apple الإذن عند تفعيل أيٍّ منهما."
+      },
+      "health.workouts.body": {
+        "en": "Finished sessions appear in Apple Health as workouts, with distance when you logged it.",
+        "ru": "Завершённые тренировки появятся в Apple Health — с дистанцией, если вы её записали.",
+        "hy": "Ավարտված մարզումները կհայտնվեն Apple Health-ում՝ հեռավորությամբ, եթե այն գրանցել եք։",
+        "sv": "Avslutade pass visas i Apple Hälsa som träningspass, med distans när du har loggat den.",
+        "nb": "Fullførte økter vises i Apple Helse som treningsøkter, med distanse når du har logget den.",
+        "nl": "Afgeronde sessies verschijnen in Apple Gezondheid als trainingen, met afstand als je die hebt gelogd.",
+        "da": "Afsluttede pas vises i Apple Sundhed som træninger, med distance når du har logget den.",
+        "pl": "Zakończone sesje pojawią się w Apple Zdrowie jako treningi, z dystansem, jeśli go zapisano.",
+        "fr": "Les séances terminées apparaissent dans Apple Santé comme entraînements, avec la distance si vous l'avez enregistrée.",
+        "ar": "تظهر الجلسات المكتملة في Apple Health كتدريبات، مع المسافة إذا سجّلتها."
+      },
+      "health.heartRate.body": {
+        "en": "See your heart rate live during a workout and as a chart on each finished session. It is the only thing Gym Logbook reads from Apple Health.",
+        "ru": "Пульс в реальном времени во время тренировки и график для каждой завершённой тренировки. Это единственное, что Gym Logbook читает из Apple Health.",
+        "hy": "Տեսեք ձեր զարկերակը մարզման ընթացքում և որպես գրաֆիկ յուրաքանչյուր ավարտված մարզման համար։ Սա միակ բանն է, որ Gym Logbook-ը կարդում է Apple Health-ից։",
+        "sv": "Se din puls live under ett pass och som ett diagram för varje avslutat pass. Det är det enda Gym Logbook läser från Apple Hälsa.",
+        "nb": "Se pulsen din live under en økt og som et diagram for hver fullførte økt. Det er det eneste Gym Logbook leser fra Apple Helse.",
+        "nl": "Zie je hartslag live tijdens een training en als grafiek bij elke afgeronde sessie. Het is het enige wat Gym Logbook uit Apple Gezondheid leest.",
+        "da": "Se din puls live under et pas og som et diagram for hvert afsluttet pas. Det er det eneste, Gym Logbook læser fra Apple Sundhed.",
+        "pl": "Zobacz tętno na żywo podczas treningu i jako wykres dla każdej zakończonej sesji. To jedyne, co Gym Logbook odczytuje z Apple Zdrowie.",
+        "fr": "Voyez votre fréquence cardiaque en direct pendant une séance et sous forme de graphique pour chaque séance terminée. C'est la seule donnée que Gym Logbook lit dans Apple Santé.",
+        "ar": "شاهد معدل ضربات قلبك مباشرةً أثناء التمرين وكرسم بياني لكل جلسة مكتملة. إنه الشيء الوحيد الذي يقرأه Gym Logbook من Apple Health."
+      },
+      "health.footer": {
+        "en": "Both stay off unless you turn them on. Change either anytime in Account → Apple Health.",
+        "ru": "Оба выключены, пока вы их не включите. Изменить можно в любой момент: Счет → Apple Health.",
+        "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Apple Health։",
+        "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Apples hälsa.",
+        "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Apple Helse.",
+        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Rekening → Apple Gezondheid.",
+        "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Apple Health.",
+        "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie jabłka.",
+        "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Pomme Santé.",
+        "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من حساب ← صحة التفاح."
       }
     },
     "Performance": {
@@ -14415,6 +14475,18 @@
         "fr": "Répétitions moyennes par série",
         "ar": "متوسط التكرارات لكل مجموعة"
       },
+      "series.maxReps": {
+        "en": "Most reps in a set",
+        "ru": "Максимум повторений за подход",
+        "hy": "Առավելագույն կրկնություններ մեկ սեթում",
+        "sv": "Flest repetitioner i ett set",
+        "nb": "Flest repetisjoner i ett sett",
+        "nl": "Meeste herhalingen in één set",
+        "da": "Flest gentagelser i ét sæt",
+        "pl": "Najwięcej powtórzeń w jednej serii",
+        "fr": "Maximum de répétitions en une série",
+        "ar": "أكثر تكرارات في مجموعة واحدة"
+      },
       "series.totalReps": {
         "en": "Total reps per workout",
         "ru": "Всего повторений за тренировку",
@@ -14632,6 +14704,78 @@
         "pl": "Rozwiń: %@",
         "fr": "Développer %@",
         "ar": "توسيع %@"
+      },
+      "summary.records": {
+        "en": "Records",
+        "ru": "Рекорды",
+        "hy": "Ռեկորդներ",
+        "sv": "Rekord",
+        "nb": "Rekorder",
+        "nl": "Records",
+        "da": "Rekorder",
+        "pl": "Rekordy",
+        "fr": "Records",
+        "ar": "الأرقام القياسية"
+      },
+      "summary.lifts": {
+        "en": "Lifts",
+        "ru": "Упражнения",
+        "hy": "Վարժություններ",
+        "sv": "Övningar",
+        "nb": "Øvelser",
+        "nl": "Oefeningen",
+        "da": "Øvelser",
+        "pl": "Ćwiczenia",
+        "fr": "Exercices",
+        "ar": "التمارين"
+      },
+      "summary.thisMonth": {
+        "en": "This month",
+        "ru": "В этом месяце",
+        "hy": "Այս ամիս",
+        "sv": "Den här månaden",
+        "nb": "Denne måneden",
+        "nl": "Deze maand",
+        "da": "Denne måned",
+        "pl": "W tym miesiącu",
+        "fr": "Ce mois-ci",
+        "ar": "هذا الشهر"
+      },
+      "latest": {
+        "en": "Latest record",
+        "ru": "Последний рекорд",
+        "hy": "Վերջին ռեկորդ",
+        "sv": "Senaste rekord",
+        "nb": "Siste rekord",
+        "nl": "Laatste record",
+        "da": "Seneste rekord",
+        "pl": "Ostatni rekord",
+        "fr": "Dernier record",
+        "ar": "آخر رقم قياسي"
+      },
+      "recent": {
+        "en": "Recent records",
+        "ru": "Недавние рекорды",
+        "hy": "Վերջին ռեկորդներ",
+        "sv": "Senaste rekorden",
+        "nb": "Siste rekorder",
+        "nl": "Recente records",
+        "da": "Seneste rekorder",
+        "pl": "Ostatnie rekordy",
+        "fr": "Records récents",
+        "ar": "الأرقام القياسية الأخيرة"
+      },
+      "thisMonthCount": {
+        "en": "%lld this month",
+        "ru": "%lld в этом месяце",
+        "hy": "%lld այս ամիս",
+        "sv": "%lld den här månaden",
+        "nb": "%lld denne måneden",
+        "nl": "%lld deze maand",
+        "da": "%lld denne måned",
+        "pl": "%lld w tym miesiącu",
+        "fr": "%lld ce mois-ci",
+        "ar": "%lld هذا الشهر"
       }
     },
     "RecycleBin": {
@@ -19301,6 +19445,30 @@
         "pl": "Zaplanowane serie plus przerwy między nimi — minutnik przerwy zapisany dla każdego ćwiczenia albo 1:30 — i około minuty na przejście do kolejnego ćwiczenia. Rozgrzewka nie jest wliczona.",
         "fr": "Les séries prévues plus le repos entre elles — le minuteur de repos enregistré pour chaque exercice, ou 1:30 — et environ une minute pour passer d’un exercice à l’autre. L’échauffement n’est pas compté.",
         "ar": "المجموعات المخطط لها مع الراحة بينها — مؤقت الراحة المحفوظ لكل تمرين، أو 1:30 — ونحو دقيقة للانتقال بين التمارين. لا يشمل الإحماء."
+      },
+      "sort.mine": {
+        "en": "Most-used exercises first",
+        "ru": "Сначала частые упражнения",
+        "hy": "Սկզբում հաճախ կատարվող վարժությունները",
+        "sv": "Mest använda övningar först",
+        "nb": "Mest brukte øvelser først",
+        "nl": "Meest gebruikte oefeningen eerst",
+        "da": "Mest brugte øvelser først",
+        "pl": "Najczęściej wykonywane ćwiczenia najpierw",
+        "fr": "Exercices les plus pratiqués d’abord",
+        "ar": "التمارين الأكثر استخدامًا أولًا"
+      },
+      "sort.everyone": {
+        "en": "Popular exercises first",
+        "ru": "Сначала популярные упражнения",
+        "hy": "Սկզբում հայտնի վարժությունները",
+        "sv": "Populära övningar först",
+        "nb": "Populære øvelser først",
+        "nl": "Populaire oefeningen eerst",
+        "da": "Populære øvelser først",
+        "pl": "Najpopularniejsze ćwiczenia najpierw",
+        "fr": "Exercices populaires d’abord",
+        "ar": "التمارين الشائعة أولًا"
       }
     },
     "Theme": {
