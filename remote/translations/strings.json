@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.4",
-  "lastSyncedAt": 1789252611,
+  "lastSyncedAt": 1789256190,
   "strings": {
     "": {
       "en": "",
@@ -16207,6 +16207,66 @@
       "fr": "Terminez le tour – chaque exercice nécessite le même nombre de séries.",
       "ar": "قم بإنهاء الجولة – كل تمرين يحتاج إلى نفس عدد المجموعات."
     },
+    "rest.timer.setOf": {
+      "en": "Set %lld of %lld",
+      "ru": "Подход %lld из %lld",
+      "hy": "Մոտեցում %lld / %lld",
+      "sv": "Set %lld av %lld",
+      "nb": "Sett %lld av %lld",
+      "nl": "Set %lld van %lld",
+      "da": "Sæt %lld af %lld",
+      "pl": "Seria %lld z %lld",
+      "fr": "Série %lld sur %lld",
+      "ar": "المجموعة %lld من %lld"
+    },
+    "rest.timer.setNumber": {
+      "en": "Set %lld",
+      "ru": "Подход %lld",
+      "hy": "Մոտեցում %lld",
+      "sv": "Set %lld",
+      "nb": "Sett %lld",
+      "nl": "Set %lld",
+      "da": "Sæt %lld",
+      "pl": "Seria %lld",
+      "fr": "Série %lld",
+      "ar": "المجموعة %lld"
+    },
+    "rest.timer.lastTime": {
+      "en": "Last time %@",
+      "ru": "В прошлый раз %@",
+      "hy": "Անցյալ անգամ %@",
+      "sv": "Förra gången %@",
+      "nb": "Sist %@",
+      "nl": "Vorige keer %@",
+      "da": "Sidste gang %@",
+      "pl": "Ostatnio %@",
+      "fr": "La dernière fois %@",
+      "ar": "المرة الماضية %@"
+    },
+    "rest.timer.startWithDuration": {
+      "en": "Rest %@",
+      "ru": "Отдых %@",
+      "hy": "Հանգիստ %@",
+      "sv": "Vila %@",
+      "nb": "Pause %@",
+      "nl": "Rust %@",
+      "da": "Pause %@",
+      "pl": "Przerwa %@",
+      "fr": "Repos %@",
+      "ar": "راحة %@"
+    },
+    "rest.timer.startRound": {
+      "en": "Round rest %@",
+      "ru": "Отдых после раунда %@",
+      "hy": "Ռաունդի հանգիստ %@",
+      "sv": "Rondvila %@",
+      "nb": "Rundepause %@",
+      "nl": "Ronderust %@",
+      "da": "Rundepause %@",
+      "pl": "Przerwa po rundzie %@",
+      "fr": "Repos de série %@",
+      "ar": "راحة الجولة %@"
+    },
     "set.add": {
       "en": "Add Set",
       "ru": "Добавить набор",
@@ -20624,6 +20684,18 @@
       "pl": "%lld/%lld gotowe",
       "fr": "%lld/%lld terminé",
       "ar": "%lld/%lld تم"
+    },
+    "workout.liveActivity.sessionLine": {
+      "en": "%lld sets · %lld/%lld exercises",
+      "ru": "%lld подходов · %lld/%lld упражнений",
+      "hy": "%lld մոտեցում · %lld/%lld վարժություն",
+      "sv": "%lld set · %lld/%lld övningar",
+      "nb": "%lld sett · %lld/%lld øvelser",
+      "nl": "%lld sets · %lld/%lld oefeningen",
+      "da": "%lld sæt · %lld/%lld øvelser",
+      "pl": "%lld serii · %lld/%lld ćwiczeń",
+      "fr": "%lld séries · %lld/%lld exercices",
+      "ar": "%lld مجموعات · %lld/%lld تمارين"
     },
     "workout.cancel": {
       "en": "Cancel",
