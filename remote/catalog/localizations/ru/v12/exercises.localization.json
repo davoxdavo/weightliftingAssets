@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "language": "ru",
   "version": 12,
-  "catalogVersion": 35,
+  "catalogVersion": 36,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Сгибание рук со штангой",

@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.4",
-  "lastSyncedAt": 1789256190,
+  "lastSyncedAt": 1789421110,
   "strings": {
     "": {
       "en": "",
@@ -11753,6 +11753,18 @@
       "fr": "Durée",
       "ar": "مدة"
     },
+    "loggingType.height_reps": {
+      "en": "Height × Reps",
+      "ru": "Высота × Повторения",
+      "hy": "Բարձրություն × Կրկնություններ",
+      "sv": "Höjd × Reps",
+      "nb": "Høyde × Reps",
+      "nl": "Hoogte × herhalingen",
+      "da": "Højde × Reps",
+      "pl": "Wysokość × powtórzeń",
+      "fr": "Hauteur × répétitions",
+      "ar": "الارتفاع × التكرارات"
+    },
     "loggingType.plain.%@.title": {
       "en": "loggingType.plain.%@.title",
       "ru": "loggingType.plain.%@.title",
@@ -11860,6 +11872,30 @@
       "pl": "Czas",
       "fr": "Temps",
       "ar": "وقت"
+    },
+    "loggingType.plain.height_reps.subtitle": {
+      "en": "Box or hurdle — %@ and reps each set; height optional",
+      "ru": "Тумба или барьер — %@ и повторения в каждом подходе; высота необязательна",
+      "hy": "Արկղ կամ պատնեշ — %@ և կրկնություններ յուրաքանչյուր մոտեցման համար. բարձրությունը պարտադիր չէ",
+      "sv": "Låda eller häck — %@ och reps varje set; höjd valfri",
+      "nb": "Kasse eller hekk — %@ og reps per sett; høyde valgfritt",
+      "nl": "Box of horde — %@ en herhalingen per set; hoogte optioneel",
+      "da": "Boks eller hæk — %@ og reps pr. sæt; højde valgfri",
+      "pl": "Skrzynia lub płotek — %@ i powtórzenia w każdej serii; wysokość opcjonalna",
+      "fr": "Box ou haie — %@ et répétitions à chaque série ; hauteur facultative",
+      "ar": "صندوق أو حاجز — %@ وتكرارات في كل مجموعة؛ الارتفاع اختياري"
+    },
+    "loggingType.plain.height_reps.title": {
+      "en": "Height and reps",
+      "ru": "Высота и повторения",
+      "hy": "Բարձրություն և կրկնություններ",
+      "sv": "Höjd och reps",
+      "nb": "Høyde og reps",
+      "nl": "Hoogte en herhalingen",
+      "da": "Højde og reps",
+      "pl": "Wysokość i powtórzenia",
+      "fr": "Hauteur et répétitions",
+      "ar": "الارتفاع والتكرارات"
     },
     "loggingType.plain.reps.subtitle": {
       "en": "Bodyweight or no load — reps only",
@@ -15282,6 +15318,18 @@
       "pl": "Najcięższa waga",
       "fr": "Poids le plus lourd",
       "ar": "أثقل وزنا"
+    },
+    "prType.highest_height": {
+      "en": "Highest height",
+      "ru": "Наибольшая высота",
+      "hy": "Ամենամեծ բարձրություն",
+      "sv": "Högsta höjd",
+      "nb": "Høyeste høyde",
+      "nl": "Hoogste hoogte",
+      "da": "Højeste højde",
+      "pl": "Największa wysokość",
+      "fr": "Hauteur la plus élevée",
+      "ar": "أعلى ارتفاع"
     },
     "prType.longest_duration": {
       "en": "Longest duration",
@@ -20457,6 +20505,18 @@
       "fr": "Poids du corps",
       "ar": "وزن الجسم"
     },
+    "unit.cm": {
+      "en": "cm",
+      "ru": "см",
+      "hy": "սմ",
+      "sv": "cm",
+      "nb": "cm",
+      "nl": "cm",
+      "da": "cm",
+      "pl": "cm",
+      "fr": "cm",
+      "ar": "سم"
+    },
     "unit.distance": {
       "en": "Distance",
       "ru": "Дистанция",
@@ -20480,6 +20540,18 @@
       "pl": "godz",
       "fr": "heure",
       "ar": "ساعة"
+    },
+    "unit.in": {
+      "en": "in",
+      "ru": "дюйм",
+      "hy": "դյույմ",
+      "sv": "tum",
+      "nb": "tommer",
+      "nl": "inch",
+      "da": "tommer",
+      "pl": "cal",
+      "fr": "po",
+      "ar": "بوصة"
     },
     "unit.kg": {
       "en": "kg",

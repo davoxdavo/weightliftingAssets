@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "language": "fr",
   "version": 10,
-  "catalogVersion": 35,
+  "catalogVersion": 36,
   "exercises": {
     "arms-barbell-curl": {
       "name": "Boucle d'haltères",
