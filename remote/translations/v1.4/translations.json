@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789421110,
+  "lastSyncedAt": 1789542157,
   "minAppVersion": "1.4",
   "strings": {
     "Misc": {
@@ -16155,6 +16155,18 @@
         "fr": "Fréquence cardiaque",
         "ar": "معدل ضربات القلب"
       },
+      "style.heartRateHourly": {
+        "en": "Hour by hour",
+        "ru": "По часам",
+        "hy": "Ժամ առ ժամ",
+        "sv": "Timme för timme",
+        "nb": "Time for time",
+        "nl": "Uur voor uur",
+        "da": "Time for time",
+        "pl": "Godzina po godzinie",
+        "fr": "Heure par heure",
+        "ar": "ساعة بساعة"
+      },
       "style.story": {
         "en": "Story",
         "ru": "Стори",
@@ -20833,6 +20845,152 @@
         "pl": "Pomóż nam ulepszyć aplikację",
         "fr": "Aidez-nous à nous améliorer",
         "ar": "ساعدنا على التحسّن"
+      }
+    },
+    "Siri": {
+      "intro.title": {
+        "en": "Train by voice",
+        "ru": "Тренировка голосом",
+        "hy": "Մարզում ձայնով",
+        "sv": "Träna med rösten",
+        "nb": "Tren med stemmen",
+        "nl": "Trainen met je stem",
+        "da": "Træn med stemmen",
+        "pl": "Trenuj głosem",
+        "fr": "S’entraîner à la voix",
+        "ar": "تمرّن بصوتك"
+      },
+      "intro.voice.title": {
+        "en": "Siri can log for you",
+        "ru": "Siri может записывать за вас",
+        "hy": "Siri-ն կարող է գրանցել ձեր փոխարեն",
+        "sv": "Siri kan logga åt dig",
+        "nb": "Siri kan logge for deg",
+        "nl": "Siri kan voor je loggen",
+        "da": "Siri kan logge for dig",
+        "pl": "Siri może zapisywać za Ciebie",
+        "fr": "Siri peut enregistrer à votre place",
+        "ar": "يمكن لـ Siri التسجيل بدلًا عنك"
+      },
+      "intro.voice.body": {
+        "en": "Siri can start a workout, log a set and move you through the session, so your phone can stay in your pocket. Every phrase ends with the app name.",
+        "ru": "Siri может начать тренировку, записать подход и провести вас по сессии — телефон остаётся в кармане. Каждая фраза заканчивается названием приложения.",
+        "hy": "Siri-ն կարող է սկսել մարզումը, գրանցել սեթը և տանել ձեզ սեսիայով — հեռախոսը մնում է գրպանում։ Յուրաքանչյուր արտահայտություն ավարտվում է հավելվածի անունով։",
+        "sv": "Siri kan starta ett pass, logga ett set och ta dig genom passet, så att telefonen kan stanna i fickan. Varje fras slutar med appens namn.",
+        "nb": "Siri kan starte en økt, logge et sett og ta deg gjennom økta, så telefonen kan bli i lomma. Hver frase slutter med appnavnet.",
+        "nl": "Siri kan een training starten, een set loggen en je door de sessie leiden, zodat je telefoon in je zak kan blijven. Elke zin eindigt met de naam van de app.",
+        "da": "Siri kan starte en træning, logge et sæt og føre dig gennem træningen, så telefonen kan blive i lommen. Hver sætning slutter med appens navn.",
+        "pl": "Siri może rozpocząć trening, zapisać serię i przeprowadzić Cię przez sesję, więc telefon może zostać w kieszeni. Każda fraza kończy się nazwą aplikacji.",
+        "fr": "Siri peut démarrer une séance, enregistrer une série et vous guider dans la séance, pour que le téléphone reste dans la poche. Chaque phrase finit par le nom de l’app.",
+        "ar": "يستطيع Siri بدء تمرين وتسجيل مجموعة ونقلك عبر الجلسة، فيبقى هاتفك في جيبك. كل عبارة تنتهي باسم التطبيق."
+      },
+      "intro.start.title": {
+        "en": "Start a workout",
+        "ru": "Начать тренировку",
+        "hy": "Սկսել մարզումը",
+        "sv": "Starta ett pass",
+        "nb": "Start en økt",
+        "nl": "Een training starten",
+        "da": "Start en træning",
+        "pl": "Rozpocznij trening",
+        "fr": "Démarrer une séance",
+        "ar": "ابدأ تمرينًا"
+      },
+      "intro.start.body": {
+        "en": "Say “Hey Siri, Start a workout in Gym Logbook.” Siri asks which template, then names your first exercise.",
+        "ru": "Скажите «Привет, Siri, Начать тренировку в Gym Logbook». Siri спросит, какой шаблон, и назовёт первое упражнение.",
+        "hy": "Ասեք «Hey Siri, Սկսել մարզում Gym Logbook-ում»։ Siri-ն կհարցնի, թե որ ձևանմուշը, ապա կասի առաջին վարժությունը։",
+        "sv": "Säg ”Hej Siri, Starta ett pass i Gym Logbook”. Siri frågar vilken mall och säger sedan din första övning.",
+        "nb": "Si «Hei Siri, Start en økt i Gym Logbook». Siri spør hvilken mal, og sier så den første øvelsen din.",
+        "nl": "Zeg “Hé Siri, Start een training in Gym Logbook”. Siri vraagt welk sjabloon en noemt dan je eerste oefening.",
+        "da": "Sig “Hej Siri, Start en træning i Gym Logbook”. Siri spørger hvilken skabelon og nævner derefter din første øvelse.",
+        "pl": "Powiedz „Hej Siri, Rozpocznij trening w Gym Logbook”. Siri zapyta o szablon, a potem poda pierwsze ćwiczenie.",
+        "fr": "Dites « Dis Siri, Démarrer une séance dans Gym Logbook ». Siri demande quel modèle, puis annonce votre premier exercice.",
+        "ar": "قل «يا Siri، ابدأ تمرينًا في Gym Logbook». سيسأل Siri عن القالب ثم يذكر تمرينك الأول."
+      },
+      "intro.log.title": {
+        "en": "Log a set",
+        "ru": "Записать подход",
+        "hy": "Գրանցել սեթ",
+        "sv": "Logga ett set",
+        "nb": "Logg et sett",
+        "nl": "Een set loggen",
+        "da": "Log et sæt",
+        "pl": "Zapisz serię",
+        "fr": "Enregistrer une série",
+        "ar": "سجّل مجموعة"
+      },
+      "intro.log.body": {
+        "en": "Say “Hey Siri, Log a set in Gym Logbook” and give the numbers when Siri asks. “Same again in Gym Logbook” repeats the set before it.",
+        "ru": "Скажите «Привет, Siri, Записать подход в Gym Logbook» и продиктуйте числа. «Так же в Gym Logbook» повторит предыдущий подход.",
+        "hy": "Ասեք «Hey Siri, Գրանցել սեթ Gym Logbook-ում» և թելադրեք թվերը։ «Նույնը կրկին Gym Logbook-ում»-ը կկրկնի նախորդ սեթը։",
+        "sv": "Säg ”Hej Siri, Logga ett set i Gym Logbook” och ge siffrorna när Siri frågar. ”Samma igen i Gym Logbook” upprepar setet före.",
+        "nb": "Si «Hei Siri, Logg et sett i Gym Logbook» og oppgi tallene når Siri spør. «Samme igjen i Gym Logbook» gjentar settet før.",
+        "nl": "Zeg “Hé Siri, Log een set in Gym Logbook” en geef de getallen als Siri erom vraagt. “Nog een keer hetzelfde in Gym Logbook” herhaalt de vorige set.",
+        "da": "Sig “Hej Siri, Log et sæt i Gym Logbook” og giv tallene, når Siri spørger. “Samme igen i Gym Logbook” gentager sættet før.",
+        "pl": "Powiedz „Hej Siri, Zapisz serię w Gym Logbook” i podaj liczby, gdy Siri zapyta. „Tak samo w Gym Logbook” powtórzy poprzednią serię.",
+        "fr": "Dites « Dis Siri, Enregistrer une série dans Gym Logbook » et donnez les chiffres quand Siri les demande. « Pareil dans Gym Logbook » répète la série précédente.",
+        "ar": "قل «يا Siri، سجّل مجموعة في Gym Logbook» وأعطِ الأرقام عندما يسأل. «نفس الشيء في Gym Logbook» يكرّر المجموعة السابقة."
+      },
+      "intro.around.title": {
+        "en": "Move around the session",
+        "ru": "Перемещение по сессии",
+        "hy": "Շարժվել սեսիայում",
+        "sv": "Rör dig i passet",
+        "nb": "Beveg deg i økta",
+        "nl": "Door de sessie bewegen",
+        "da": "Bevæg dig i træningen",
+        "pl": "Poruszanie się po sesji",
+        "fr": "Se déplacer dans la séance",
+        "ar": "التنقل في الجلسة"
+      },
+      "intro.around.body": {
+        "en": "“Next exercise in Gym Logbook” moves on. “Where am I in Gym Logbook” reads back where you are. “Undo that in Gym Logbook” takes back the last set Siri logged.",
+        "ru": "«Следующее упражнение в Gym Logbook» — дальше. «Где я в Gym Logbook» — напомнит, где вы. «Отменить в Gym Logbook» — уберёт последний записанный Siri подход.",
+        "hy": "«Հաջորդ վարժությունը Gym Logbook-ում» — առաջ։ «Որտեղ եմ Gym Logbook-ում» — կասի, թե որտեղ եք։ «Հետարկել Gym Logbook-ում» — կվերցնի Siri-ի գրանցած վերջին սեթը։",
+        "sv": "”Nästa övning i Gym Logbook” går vidare. ”Var är jag i Gym Logbook” läser upp var du är. ”Ångra det i Gym Logbook” tar tillbaka det senaste setet Siri loggade.",
+        "nb": "«Neste øvelse i Gym Logbook» går videre. «Hvor er jeg i Gym Logbook» leser opp hvor du er. «Angre det i Gym Logbook» tar tilbake det siste settet Siri logget.",
+        "nl": "“Volgende oefening in Gym Logbook” gaat verder. “Waar ben ik in Gym Logbook” leest voor waar je bent. “Maak dat ongedaan in Gym Logbook” neemt de laatste set terug die Siri logde.",
+        "da": "“Næste øvelse i Gym Logbook” går videre. “Hvor er jeg i Gym Logbook” læser op, hvor du er. “Fortryd det i Gym Logbook” tager det sidste sæt tilbage, som Siri loggede.",
+        "pl": "„Następne ćwiczenie w Gym Logbook” idzie dalej. „Gdzie jestem w Gym Logbook” odczyta, gdzie jesteś. „Cofnij to w Gym Logbook” zabierze ostatnią serię zapisaną przez Siri.",
+        "fr": "« Exercice suivant dans Gym Logbook » avance. « Où en suis-je dans Gym Logbook » rappelle où vous en êtes. « Annuler dans Gym Logbook » retire la dernière série enregistrée par Siri.",
+        "ar": "«التمرين التالي في Gym Logbook» ينتقل للأمام. «أين أنا في Gym Logbook» يقرأ موضعك. «تراجع عن ذلك في Gym Logbook» يسحب آخر مجموعة سجّلها Siri."
+      },
+      "intro.limits.title": {
+        "en": "Rest and finish stay taps",
+        "ru": "Отдых и завершение — вручную",
+        "hy": "Հանգիստը և ավարտը՝ ձեռքով",
+        "sv": "Vila och avsluta görs i appen",
+        "nb": "Pause og avslutning gjøres i appen",
+        "nl": "Rust en afronden blijven tikken",
+        "da": "Pause og afslutning sker i appen",
+        "pl": "Odpoczynek i zakończenie zostają w aplikacji",
+        "fr": "La récup et la fin restent à l’écran",
+        "ar": "الراحة والإنهاء تبقى في التطبيق"
+      },
+      "intro.limits.body": {
+        "en": "Starting rest and finishing a workout are still done in the app. Say the phrases in the language Siri is set to, not the app language.",
+        "ru": "Отдых и завершение тренировки пока делаются в приложении. Произносите фразы на языке Siri, а не на языке приложения.",
+        "hy": "Հանգիստը և մարզման ավարտը դեռ արվում են հավելվածում։ Արտահայտությունները ասեք Siri-ի լեզվով, ոչ թե հավելվածի լեզվով։",
+        "sv": "Att starta vila och avsluta ett pass görs fortfarande i appen. Säg fraserna på det språk Siri är inställd på, inte appens språk.",
+        "nb": "Å starte pause og avslutte en økt gjøres fortsatt i appen. Si frasene på språket Siri er satt til, ikke appens språk.",
+        "nl": "Rust starten en een training afronden doe je nog steeds in de app. Zeg de zinnen in de taal waarop Siri staat ingesteld, niet de taal van de app.",
+        "da": "At starte pause og afslutte en træning gøres stadig i appen. Sig sætningerne på det sprog, Siri er indstillet til, ikke appens sprog.",
+        "pl": "Rozpoczęcie odpoczynku i zakończenie treningu nadal robisz w aplikacji. Mów frazy w języku, na który ustawiona jest Siri, a nie w języku aplikacji.",
+        "fr": "Démarrer la récupération et terminer une séance se font encore dans l’app. Dites les phrases dans la langue de Siri, pas celle de l’app.",
+        "ar": "بدء الراحة وإنهاء التمرين ما زالا يتمّان داخل التطبيق. انطق العبارات بلغة Siri وليس بلغة التطبيق."
+      },
+      "intro.home.header": {
+        "en": "Using Siri",
+        "ru": "Как пользоваться Siri",
+        "hy": "Ինչպես օգտվել Siri-ից",
+        "sv": "Använda Siri",
+        "nb": "Bruke Siri",
+        "nl": "Siri gebruiken",
+        "da": "Brug af Siri",
+        "pl": "Jak używać Siri",
+        "fr": "Utiliser Siri",
+        "ar": "استخدام Siri"
       }
     }
   }

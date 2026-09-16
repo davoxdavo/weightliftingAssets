@@ -214,12 +214,12 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1789421110,
+    "lastSyncedAt": 1789542157,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json",
     "versions": [
       {
         "minAppVersion": "1.4",
-        "lastSyncedAt": 1789421110,
+        "lastSyncedAt": 1789542157,
         "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/v1.4/translations.json"
       }
     ]
