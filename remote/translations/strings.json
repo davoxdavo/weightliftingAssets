@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.4",
-  "lastSyncedAt": 1789542157,
+  "lastSyncedAt": 1789555670,
   "strings": {
     "": {
       "en": "",
@@ -9808,6 +9808,54 @@
       "pl": "Spróbuj %@ (+%@) — wykonaj wszystkie powtórzenia ostatnim razem",
       "fr": "Essayez %@ (+%@) – frappez toutes les répétitions la dernière fois",
       "ar": "جرب %@ (+%@) — ضرب جميع الممثلين في المرة الأخيرة"
+    },
+    "hint.set.progress": {
+      "en": "Set %@ · %@ — last time %@, +%@",
+      "ru": "Подход %@ · %@ — в прошлый раз %@, +%@",
+      "hy": "Մոտեցում %@ · %@ — անցյալ անգամ %@, +%@",
+      "sv": "Set %@ · %@ — förra gången %@, +%@",
+      "nb": "Sett %@ · %@ — sist %@, +%@",
+      "nl": "Set %@ · %@ — vorige keer %@, +%@",
+      "da": "Sæt %@ · %@ — sidste gang %@, +%@",
+      "pl": "Seria %@ · %@ — ostatnio %@, +%@",
+      "fr": "Série %@ · %@ — la dernière fois %@, +%@",
+      "ar": "المجموعة %@ · %@ — المرة الماضية %@، +%@"
+    },
+    "hint.set.repeat": {
+      "en": "Set %@ · %@ — as last time",
+      "ru": "Подход %@ · %@ — как в прошлый раз",
+      "hy": "Մոտեցում %@ · %@ — ինչպես անցյալ անգամ",
+      "sv": "Set %@ · %@ — som förra gången",
+      "nb": "Sett %@ · %@ — som sist",
+      "nl": "Set %@ · %@ — zoals vorige keer",
+      "da": "Sæt %@ · %@ — som sidste gang",
+      "pl": "Seria %@ · %@ — jak ostatnio",
+      "fr": "Série %@ · %@ — comme la dernière fois",
+      "ar": "المجموعة %@ · %@ — كالمرة الماضية"
+    },
+    "hint.set.smallStep": {
+      "en": "Set %@ · %@ — a small step up from %@",
+      "ru": "Подход %@ · %@ — небольшой шаг вверх от %@",
+      "hy": "Մոտեցում %@ · %@ — փոքր քայլ վեր՝ %@-ից",
+      "sv": "Set %@ · %@ — ett litet steg upp från %@",
+      "nb": "Sett %@ · %@ — et lite steg opp fra %@",
+      "nl": "Set %@ · %@ — een kleine stap omhoog vanaf %@",
+      "da": "Sæt %@ · %@ — et lille skridt op fra %@",
+      "pl": "Seria %@ · %@ — mały krok w górę od %@",
+      "fr": "Série %@ · %@ — un petit pas au-dessus de %@",
+      "ar": "المجموعة %@ · %@ — خطوة صغيرة أعلى من %@"
+    },
+    "hint.set.hold": {
+      "en": "Set %@ · %@ — stay at this load, your last set fell short",
+      "ru": "Подход %@ · %@ — оставайтесь на этом весе, прошлый подход не дотянул",
+      "hy": "Մոտեցում %@ · %@ — մնացեք այս քաշին, նախորդ մոտեցումը չհասավ նպատակին",
+      "sv": "Set %@ · %@ — stanna på den här vikten, förra setet räckte inte",
+      "nb": "Sett %@ · %@ — bli på denne vekten, forrige sett holdt ikke helt",
+      "nl": "Set %@ · %@ — blijf op dit gewicht, je vorige set haalde het niet",
+      "da": "Sæt %@ · %@ — bliv på denne vægt, dit sidste sæt holdt ikke helt",
+      "pl": "Seria %@ · %@ — zostań przy tym ciężarze, poprzednia seria nie weszła w całości",
+      "fr": "Série %@ · %@ — restez à cette charge, votre série précédente n’a pas tenu",
+      "ar": "المجموعة %@ · %@ — ابقَ على هذا الوزن، مجموعتك السابقة لم تكتمل"
     },
     "history.deleteMessage": {
       "en": "This removes the workout from history. You can restore it from Recycle Bin for 30 days.",
