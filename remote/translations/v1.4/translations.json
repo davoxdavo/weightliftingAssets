@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789555670,
+  "lastSyncedAt": 1789617593,
   "minAppVersion": "1.4",
   "strings": {
     "Misc": {
@@ -1888,6 +1888,18 @@
         "pl": "Joga",
         "fr": "Yoga",
         "ar": "يوجا"
+      },
+      "siri.title": {
+        "en": "Siri",
+        "ru": "Siri",
+        "hy": "Siri",
+        "sv": "Siri",
+        "nb": "Siri",
+        "nl": "Siri",
+        "da": "Siri",
+        "pl": "Siri",
+        "fr": "Siri",
+        "ar": "Siri"
       }
     },
     "Balanced": {
@@ -20921,16 +20933,16 @@
         "ar": "يمكن لـ Siri التسجيل بدلًا عنك"
       },
       "intro.voice.body": {
-        "en": "Siri can start a workout, log a set and move you through the session, so your phone can stay in your pocket. Every phrase ends with the app name.",
-        "ru": "Siri может начать тренировку, записать подход и провести вас по сессии — телефон остаётся в кармане. Каждая фраза заканчивается названием приложения.",
-        "hy": "Siri-ն կարող է սկսել մարզումը, գրանցել սեթը և տանել ձեզ սեսիայով — հեռախոսը մնում է գրպանում։ Յուրաքանչյուր արտահայտություն ավարտվում է հավելվածի անունով։",
-        "sv": "Siri kan starta ett pass, logga ett set och ta dig genom passet, så att telefonen kan stanna i fickan. Varje fras slutar med appens namn.",
-        "nb": "Siri kan starte en økt, logge et sett og ta deg gjennom økta, så telefonen kan bli i lomma. Hver frase slutter med appnavnet.",
-        "nl": "Siri kan een training starten, een set loggen en je door de sessie leiden, zodat je telefoon in je zak kan blijven. Elke zin eindigt met de naam van de app.",
-        "da": "Siri kan starte en træning, logge et sæt og føre dig gennem træningen, så telefonen kan blive i lommen. Hver sætning slutter med appens navn.",
-        "pl": "Siri może rozpocząć trening, zapisać serię i przeprowadzić Cię przez sesję, więc telefon może zostać w kieszeni. Każda fraza kończy się nazwą aplikacji.",
-        "fr": "Siri peut démarrer une séance, enregistrer une série et vous guider dans la séance, pour que le téléphone reste dans la poche. Chaque phrase finit par le nom de l’app.",
-        "ar": "يستطيع Siri بدء تمرين وتسجيل مجموعة ونقلك عبر الجلسة، فيبقى هاتفك في جيبك. كل عبارة تنتهي باسم التطبيق."
+        "en": "Siri can start a workout, log sets, time your rest and finish, so your phone can stay in your pocket. Every phrase ends with the app name.",
+        "ru": "Siri может начать тренировку, записывать подходы, засекать отдых и завершить тренировку — телефон остаётся в кармане. Каждая фраза заканчивается названием приложения.",
+        "hy": "Siri-ն կարող է սկսել մարզումը, գրանցել սեթերը, հաշվել հանգիստը և ավարտել մարզումը — հեռախոսը մնում է գրպանում։ Յուրաքանչյուր արտահայտություն ավարտվում է հավելվածի անունով։",
+        "sv": "Siri kan starta ett pass, logga set, ta tid på vilan och avsluta passet, så att telefonen kan stanna i fickan. Varje fras slutar med appens namn.",
+        "nb": "Siri kan starte en økt, logge sett, ta tiden på pausen og avslutte økta, så telefonen kan bli i lomma. Hver frase slutter med appnavnet.",
+        "nl": "Siri kan een training starten, sets loggen, je rust bijhouden en de training afronden, zodat je telefoon in je zak kan blijven. Elke zin eindigt met de naam van de app.",
+        "da": "Siri kan starte en træning, logge sæt, tage tid på pausen og afslutte træningen, så telefonen kan blive i lommen. Hver sætning slutter med appens navn.",
+        "pl": "Siri może rozpocząć trening, zapisywać serie, odmierzać przerwę i zakończyć trening, więc telefon może zostać w kieszeni. Każda fraza kończy się nazwą aplikacji.",
+        "fr": "Siri peut démarrer une séance, enregistrer vos séries, chronométrer la récup et terminer la séance, pour que le téléphone reste dans la poche. Chaque phrase finit par le nom de l’app.",
+        "ar": "يستطيع Siri بدء تمرين وتسجيل المجموعات وتوقيت الراحة وإنهاء التمرين، فيبقى هاتفك في جيبك. كل عبارة تنتهي باسم التطبيق."
       },
       "intro.start.title": {
         "en": "Start a workout",
@@ -21005,28 +21017,28 @@
         "ar": "«التمرين التالي في Gym Logbook» ينتقل للأمام. «أين أنا في Gym Logbook» يقرأ موضعك. «تراجع عن ذلك في Gym Logbook» يسحب آخر مجموعة سجّلها Siri."
       },
       "intro.limits.title": {
-        "en": "Rest and finish stay taps",
-        "ru": "Отдых и завершение — вручную",
-        "hy": "Հանգիստը և ավարտը՝ ձեռքով",
-        "sv": "Vila och avsluta görs i appen",
-        "nb": "Pause og avslutning gjøres i appen",
-        "nl": "Rust en afronden blijven tikken",
-        "da": "Pause og afslutning sker i appen",
-        "pl": "Odpoczynek i zakończenie zostają w aplikacji",
-        "fr": "La récup et la fin restent à l’écran",
-        "ar": "الراحة والإنهاء تبقى في التطبيق"
+        "en": "Rest, what’s next and finish",
+        "ru": "Отдых, что дальше, завершение",
+        "hy": "Հանգիստ, հաջորդը և ավարտ",
+        "sv": "Vila, nästa och avsluta",
+        "nb": "Pause, neste og avslutning",
+        "nl": "Rust, wat volgt en afronden",
+        "da": "Pause, næste og afslutning",
+        "pl": "Przerwa, co dalej i zakończenie",
+        "fr": "Récup, suite et fin",
+        "ar": "الراحة والتالي والإنهاء"
       },
       "intro.limits.body": {
-        "en": "Starting rest and finishing a workout are still done in the app. Say the phrases in the language Siri is set to, not the app language.",
-        "ru": "Отдых и завершение тренировки пока делаются в приложении. Произносите фразы на языке Siri, а не на языке приложения.",
-        "hy": "Հանգիստը և մարզման ավարտը դեռ արվում են հավելվածում։ Արտահայտությունները ասեք Siri-ի լեզվով, ոչ թե հավելվածի լեզվով։",
-        "sv": "Att starta vila och avsluta ett pass görs fortfarande i appen. Säg fraserna på det språk Siri är inställd på, inte appens språk.",
-        "nb": "Å starte pause og avslutte en økt gjøres fortsatt i appen. Si frasene på språket Siri er satt til, ikke appens språk.",
-        "nl": "Rust starten en een training afronden doe je nog steeds in de app. Zeg de zinnen in de taal waarop Siri staat ingesteld, niet de taal van de app.",
-        "da": "At starte pause og afslutte en træning gøres stadig i appen. Sig sætningerne på det sprog, Siri er indstillet til, ikke appens sprog.",
-        "pl": "Rozpoczęcie odpoczynku i zakończenie treningu nadal robisz w aplikacji. Mów frazy w języku, na który ustawiona jest Siri, a nie w języku aplikacji.",
-        "fr": "Démarrer la récupération et terminer une séance se font encore dans l’app. Dites les phrases dans la langue de Siri, pas celle de l’app.",
-        "ar": "بدء الراحة وإنهاء التمرين ما زالا يتمّان داخل التطبيق. انطق العبارات بلغة Siri وليس بلغة التطبيق."
+        "en": "“Start rest in Gym Logbook” starts your rest timer. “What’s next in Gym Logbook” says the next set. “Finish my workout in Gym Logbook” asks before it saves. Say the phrases in the language Siri is set to, not the app language.",
+        "ru": "«Начать отдых в Gym Logbook» запускает таймер отдыха. «Что дальше в Gym Logbook» называет следующий подход. «Завершить мою тренировку в Gym Logbook» сначала спросит, потом сохранит. Произносите фразы на языке Siri, а не на языке приложения.",
+        "hy": "«Սկսել հանգիստը Gym Logbook-ում» — միացնում է հանգստի ժամաչափը։ «Ինչ է հաջորդը Gym Logbook-ում» — կասի հաջորդ սեթը։ «Ավարտել իմ մարզումը Gym Logbook-ում» — նախ կհարցնի, հետո կպահպանի։ Արտահայտությունները ասեք Siri-ի լեզվով, ոչ թե հավելվածի լեզվով։",
+        "sv": "”Starta vila i Gym Logbook” startar vilotimern. ”Vad är nästa i Gym Logbook” säger nästa set. ”Avsluta mitt pass i Gym Logbook” frågar först och sparar sedan. Säg fraserna på det språk Siri är inställd på, inte appens språk.",
+        "nb": "«Start pause i Gym Logbook» starter pausetimeren. «Hva er det neste i Gym Logbook» sier neste sett. «Avslutt økten min i Gym Logbook» spør først og lagrer så. Si frasene på språket Siri er satt til, ikke appens språk.",
+        "nl": "“Start rust in Gym Logbook” start je rusttimer. “Wat is het volgende in Gym Logbook” noemt de volgende set. “Rond mijn training af in Gym Logbook” vraagt het eerst en slaat dan op. Zeg de zinnen in de taal waarop Siri staat ingesteld, niet de taal van de app.",
+        "da": "“Start pause i Gym Logbook” starter pausetimeren. “Hvad er det næste i Gym Logbook” siger det næste sæt. “Afslut min træning i Gym Logbook” spørger først og gemmer så. Sig sætningerne på det sprog, Siri er indstillet til, ikke appens sprog.",
+        "pl": "„Rozpocznij przerwę w Gym Logbook” uruchamia minutnik przerwy. „Co dalej w Gym Logbook” podaje następną serię. „Zakończ mój trening w Gym Logbook” najpierw pyta, a potem zapisuje. Mów frazy w języku, na który ustawiona jest Siri, a nie w języku aplikacji.",
+        "fr": "« Démarrer le repos dans Gym Logbook » lance le minuteur de récup. « Quelle est la suite dans Gym Logbook » annonce la série suivante. « Terminer ma séance dans Gym Logbook » demande d’abord, puis enregistre. Dites les phrases dans la langue de Siri, pas celle de l’app.",
+        "ar": "«ابدأ الراحة في Gym Logbook» يشغّل مؤقت الراحة. «ما التالي في Gym Logbook» يذكر المجموعة التالية. «أنهِ تمريني في Gym Logbook» يسأل أولًا ثم يحفظ. انطق العبارات بلغة Siri وليس بلغة التطبيق."
       },
       "intro.home.header": {
         "en": "Using Siri",
@@ -21039,6 +21051,126 @@
         "pl": "Jak używać Siri",
         "fr": "Utiliser Siri",
         "ar": "استخدام Siri"
+      },
+      "settings.phrases.header": {
+        "en": "Try saying",
+        "ru": "Попробуйте сказать",
+        "hy": "Փորձեք ասել",
+        "sv": "Testa att säga",
+        "nb": "Prøv å si",
+        "nl": "Zeg bijvoorbeeld",
+        "da": "Prøv at sige",
+        "pl": "Powiedz na przykład",
+        "fr": "Essayez de dire",
+        "ar": "جرّب أن تقول"
+      },
+      "settings.phrases.footer": {
+        "en": "Works with your iPhone locked and from AirPods. Say the phrases in the language Siri is set to.",
+        "ru": "Работает на заблокированном iPhone и через AirPods. Произносите фразы на языке Siri.",
+        "hy": "Աշխատում է կողպված iPhone-ով և AirPods-ով։ Արտահայտությունները ասեք Siri-ի լեզվով։",
+        "sv": "Fungerar med iPhone låst och via AirPods. Säg fraserna på det språk Siri är inställd på.",
+        "nb": "Fungerer med iPhone låst og med AirPods. Si frasene på språket Siri er satt til.",
+        "nl": "Werkt met je iPhone vergrendeld en via AirPods. Zeg de zinnen in de taal waarop Siri staat ingesteld.",
+        "da": "Virker med iPhone låst og via AirPods. Sig sætningerne på det sprog, Siri er indstillet til.",
+        "pl": "Działa przy zablokowanym iPhonie i przez AirPods. Mów frazy w języku, na który ustawiona jest Siri.",
+        "fr": "Fonctionne avec l’iPhone verrouillé et depuis les AirPods. Dites les phrases dans la langue de Siri.",
+        "ar": "يعمل وiPhone مقفل ومن خلال AirPods. انطق العبارات بلغة Siri."
+      },
+      "settings.access.title": {
+        "en": "Siri access",
+        "ru": "Доступ к Siri",
+        "hy": "Siri-ի հասանելիություն",
+        "sv": "Siri-åtkomst",
+        "nb": "Siri-tilgang",
+        "nl": "Toegang voor Siri",
+        "da": "Siri-adgang",
+        "pl": "Dostęp do Siri",
+        "fr": "Accès à Siri",
+        "ar": "الوصول إلى Siri"
+      },
+      "settings.access.allowed": {
+        "en": "Allowed",
+        "ru": "Разрешён",
+        "hy": "Թույլատրված է",
+        "sv": "Tillåten",
+        "nb": "Tillatt",
+        "nl": "Toegestaan",
+        "da": "Tilladt",
+        "pl": "Dozwolony",
+        "fr": "Autorisé",
+        "ar": "مسموح"
+      },
+      "settings.access.denied": {
+        "en": "Not allowed",
+        "ru": "Не разрешён",
+        "hy": "Թույլատրված չէ",
+        "sv": "Inte tillåten",
+        "nb": "Ikke tillatt",
+        "nl": "Niet toegestaan",
+        "da": "Ikke tilladt",
+        "pl": "Niedozwolony",
+        "fr": "Non autorisé",
+        "ar": "غير مسموح"
+      },
+      "settings.access.notAsked": {
+        "en": "Not asked yet",
+        "ru": "Ещё не запрошен",
+        "hy": "Դեռ չի հարցվել",
+        "sv": "Inte frågat än",
+        "nb": "Ikke spurt ennå",
+        "nl": "Nog niet gevraagd",
+        "da": "Ikke spurgt endnu",
+        "pl": "Jeszcze nie zapytano",
+        "fr": "Pas encore demandé",
+        "ar": "لم يُطلب بعد"
+      },
+      "settings.access.restricted": {
+        "en": "Restricted",
+        "ru": "Ограничен",
+        "hy": "Սահմանափակված է",
+        "sv": "Begränsad",
+        "nb": "Begrenset",
+        "nl": "Beperkt",
+        "da": "Begrænset",
+        "pl": "Ograniczony",
+        "fr": "Restreint",
+        "ar": "مقيّد"
+      },
+      "settings.access.allow": {
+        "en": "Allow Siri",
+        "ru": "Разрешить Siri",
+        "hy": "Թույլատրել Siri-ն",
+        "sv": "Tillåt Siri",
+        "nb": "Tillat Siri",
+        "nl": "Sta Siri toe",
+        "da": "Tillad Siri",
+        "pl": "Zezwól Siri",
+        "fr": "Autoriser Siri",
+        "ar": "السماح لـ Siri"
+      },
+      "settings.access.footer": {
+        "en": "Needed for “Start workout”, “End workout” and “Cancel workout in Gym Logbook”. Every other phrase works without it.",
+        "ru": "Нужен для «Начать тренировку», «Завершить тренировку» и «Отменить тренировку в Gym Logbook». Остальные фразы работают и без него.",
+        "hy": "Անհրաժեշտ է «Սկսել մարզումը», «Ավարտել մարզումը» և «Չեղարկել մարզումը Gym Logbook-ում» հրամանների համար։ Մնացած արտահայտություններն աշխատում են առանց դրա։",
+        "sv": "Behövs för ”Starta träningspass”, ”Avsluta träningspass” och ”Avbryt träningspass i Gym Logbook”. Alla andra fraser fungerar utan den.",
+        "nb": "Trengs for «Start treningsøkt», «Avslutt treningsøkt» og «Avbryt treningsøkt i Gym Logbook». Alle andre fraser virker uten.",
+        "nl": "Nodig voor “Start training”, “Beëindig training” en “Annuleer training in Gym Logbook”. Alle andere zinnen werken zonder.",
+        "da": "Kræves til “Start træning”, “Afslut træning” og “Annuller træning i Gym Logbook”. Alle andre sætninger virker uden.",
+        "pl": "Potrzebny do „Rozpocznij trening”, „Zakończ trening” i „Anuluj trening w Gym Logbook”. Pozostałe frazy działają bez niego.",
+        "fr": "Nécessaire pour « Démarrer une séance », « Terminer la séance » et « Annuler la séance dans Gym Logbook ». Toutes les autres phrases fonctionnent sans.",
+        "ar": "مطلوب لعبارات «ابدأ التمرين» و«أنهِ التمرين» و«ألغِ التمرين في Gym Logbook». تعمل كل العبارات الأخرى من دونه."
+      },
+      "settings.intro": {
+        "en": "How Siri works in Gym Logbook",
+        "ru": "Как Siri работает в Gym Logbook",
+        "hy": "Ինչպես է Siri-ն աշխատում Gym Logbook-ում",
+        "sv": "Så fungerar Siri i Gym Logbook",
+        "nb": "Slik fungerer Siri i Gym Logbook",
+        "nl": "Zo werkt Siri in Gym Logbook",
+        "da": "Sådan virker Siri i Gym Logbook",
+        "pl": "Jak działa Siri w Gym Logbook",
+        "fr": "Comment Siri fonctionne dans Gym Logbook",
+        "ar": "كيف يعمل Siri في Gym Logbook"
       }
     }
   }
