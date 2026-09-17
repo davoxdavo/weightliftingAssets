@@ -226,7 +226,7 @@
   },
   "exerciseImages": {
     "baseURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/images/exercises/",
-    "revision": 9
+    "revision": 10
   },
   "sportImages": {
     "baseURL": "https://cdn.jsdelivr.net/gh/davoxdavo/weightliftingAssets@main/remote/images/sports/",
