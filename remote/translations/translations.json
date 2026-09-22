@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1789663949,
+  "lastSyncedAt": 1790120146,
   "strings": {
     "Misc": {
       "": {
@@ -5422,9 +5422,14 @@
         "hy": "Մալուխ փայտահատ"
       },
       "catalog.legs-back-squat": {
+        "en": "Half Squat",
+        "ru": "Полуприсед со штангой",
+        "hy": "Կիսակքանում շթանգով"
+      },
+      "catalog.legs-full-back-squat": {
         "en": "Back Squat",
-        "ru": "Приседания на спине",
-        "hy": "Մեջքի պառկած նստատեղ"
+        "ru": "Присед со штангой на спине",
+        "hy": "Մեջքին շթանգով կքանում"
       },
       "catalog.legs-band-adductor-squeeze": {
         "en": "Band Adductor Squeeze",
@@ -11020,6 +11025,18 @@
         "fr": "Exporter et importer",
         "ar": "التصدير والاستيراد"
       },
+      "dose.bar.target": {
+        "en": "Your target",
+        "ru": "Ваша цель",
+        "hy": "Ձեր նպատակը",
+        "sv": "Ditt mål",
+        "nb": "Ditt mål",
+        "nl": "Jouw doel",
+        "da": "Dit mål",
+        "pl": "Twój cel",
+        "fr": "Votre objectif",
+        "ar": "هدفك"
+      },
       "dose.calibrating": {
         "en": "Still calibrating — targets use typical ranges until you have four trained weeks.",
         "ru": "Идёт калибровка — пока не наберётся четыре недели тренировок, цели берутся из типичных диапазонов.",
@@ -11031,6 +11048,66 @@
         "pl": "Trwa kalibracja — cele korzystają z typowych zakresów, dopóki nie uzbierasz czterech tygodni treningu.",
         "fr": "Calibrage en cours — les objectifs utilisent des plages typiques jusqu'à quatre semaines d'entraînement.",
         "ar": "لا تزال المعايرة جارية — تستخدم الأهداف نطاقات نموذجية حتى تجمع أربعة أسابيع من التدريب."
+      },
+      "dose.count.building": {
+        "en": "%lld building",
+        "ru": "умеренно: %lld",
+        "hy": "չափավոր՝ %lld",
+        "sv": "måttlig: %lld",
+        "nb": "moderat: %lld",
+        "nl": "matig: %lld",
+        "da": "moderat: %lld",
+        "pl": "umiarkowanie: %lld",
+        "fr": "modéré : %lld",
+        "ar": "متوسط: %lld"
+      },
+      "dose.count.high": {
+        "en": "%lld high",
+        "ru": "высокий объём: %lld",
+        "hy": "բարձր՝ %lld",
+        "sv": "hög: %lld",
+        "nb": "høy: %lld",
+        "nl": "hoog: %lld",
+        "da": "høj: %lld",
+        "pl": "wysoki: %lld",
+        "fr": "élevé : %lld",
+        "ar": "مرتفع: %lld"
+      },
+      "dose.count.light": {
+        "en": "%lld light",
+        "ru": "мало: %lld",
+        "hy": "քիչ՝ %lld",
+        "sv": "lite: %lld",
+        "nb": "lite: %lld",
+        "nl": "weinig: %lld",
+        "da": "lidt: %lld",
+        "pl": "mało: %lld",
+        "fr": "faible : %lld",
+        "ar": "قليل: %lld"
+      },
+      "dose.count.notTrained": {
+        "en": "%lld not trained",
+        "ru": "не тренируется: %lld",
+        "hy": "չի մարզվում՝ %lld",
+        "sv": "inte tränad: %lld",
+        "nb": "ikke trent: %lld",
+        "nl": "niet getraind: %lld",
+        "da": "ikke trænet: %lld",
+        "pl": "bez treningu: %lld",
+        "fr": "non travaillé : %lld",
+        "ar": "غير مُدرَّبة: %lld"
+      },
+      "dose.count.onTrack": {
+        "en": "%lld on track",
+        "ru": "в норме: %lld",
+        "hy": "նորմայում՝ %lld",
+        "sv": "i fas: %lld",
+        "nb": "i rute: %lld",
+        "nl": "op schema: %lld",
+        "da": "på sporet: %lld",
+        "pl": "w normie: %lld",
+        "fr": "dans la cible : %lld",
+        "ar": "ضمن النطاق: %lld"
       },
       "dose.extrapolated": {
         "en": "Scaled up from a shorter history — read this as an estimate.",
@@ -11067,6 +11144,78 @@
         "pl": "Boczne i tylne naramienne",
         "fr": "Deltoïdes latéral & postérieur",
         "ar": "الدالية الجانبية والخلفية"
+      },
+      "dose.info.band": {
+        "en": "Most of the measured benefit sits between 10 and 20 sets a week for a muscle. Under 4 does little. Smaller supporting muscles use half those numbers.",
+        "ru": "Основная измеренная польза приходится на 10–20 подходов в неделю на мышцу. Меньше 4 почти ничего не даёт. Для небольших вспомогательных мышц эти числа вдвое меньше.",
+        "hy": "Չափված օգուտի հիմնական մասը ընկնում է մկանի համար շաբաթական 10–20 մոտեցման վրա։ 4-ից քիչը գրեթե ոչինչ չի տալիս։ Փոքր օժանդակ մկանների համար այս թվերը կիսով չափ են։",
+        "sv": "Det mesta av den uppmätta nyttan ligger mellan 10 och 20 set i veckan per muskel. Under 4 gör lite. Mindre stödmuskler använder hälften av de talen.",
+        "nb": "Det meste av den målte effekten ligger mellom 10 og 20 sett i uken per muskel. Under 4 gir lite. Mindre støttemuskler bruker halvparten av disse tallene.",
+        "nl": "Het grootste deel van het gemeten effect zit tussen 10 en 20 sets per week per spier. Onder de 4 doet weinig. Kleinere ondersteunende spieren gebruiken de helft van die getallen.",
+        "da": "Det meste af den målte effekt ligger mellem 10 og 20 sæt om ugen pr. muskel. Under 4 gør ikke meget. Mindre støttemuskler bruger halvdelen af de tal.",
+        "pl": "Większość zmierzonych korzyści przypada na 10–20 serii tygodniowo na mięsień. Poniżej 4 daje niewiele. Dla mniejszych mięśni pomocniczych te liczby są o połowę mniejsze.",
+        "fr": "L'essentiel du bénéfice mesuré se situe entre 10 et 20 séries par semaine pour un muscle. En dessous de 4, l'effet est faible. Les petits muscles de soutien utilisent la moitié de ces chiffres.",
+        "ar": "معظم الفائدة المقاسة تقع بين 10 و20 مجموعة أسبوعيًا للعضلة. أقل من 4 لا يفيد كثيرًا. العضلات المساندة الأصغر تستخدم نصف هذه الأرقام."
+      },
+      "dose.info.button": {
+        "en": "How this is counted",
+        "ru": "Как это считается",
+        "hy": "Ինչպես է սա հաշվվում",
+        "sv": "Så räknas det",
+        "nb": "Slik telles det",
+        "nl": "Zo wordt dit geteld",
+        "da": "Sådan tælles det",
+        "pl": "Jak to jest liczone",
+        "fr": "Comment c'est compté",
+        "ar": "كيف يُحسب هذا"
+      },
+      "dose.info.caveat": {
+        "en": "These are estimates from studies of about ten weeks, mostly in young men. A muscle group can reach the ring through one muscle alone — the list is the real reading.",
+        "ru": "Это оценки по исследованиям длительностью около десяти недель, в основном на молодых мужчинах. Группа мышц может дойти до кольца за счёт одной мышцы — настоящую картину показывает список.",
+        "hy": "Սրանք գնահատականներ են մոտ տասշաբաթյա հետազոտություններից՝ հիմնականում երիտասարդ տղամարդկանց շրջանում։ Մկանային խումբը կարող է հասնել օղակին միայն մեկ մկանի հաշվին՝ իրական պատկերը ցուցակն է։",
+        "sv": "Det här är uppskattningar från studier på omkring tio veckor, mest på unga män. En muskelgrupp kan nå ringen genom en enda muskel — listan är den verkliga avläsningen.",
+        "nb": "Dette er anslag fra studier på rundt ti uker, mest på unge menn. En muskelgruppe kan nå ringen gjennom én muskel alene — listen er den egentlige avlesningen.",
+        "nl": "Dit zijn schattingen uit studies van ongeveer tien weken, vooral bij jonge mannen. Een spiergroep kan de ring halen via één spier — de lijst is de echte uitlezing.",
+        "da": "Det er skøn fra studier på omkring ti uger, mest på unge mænd. En muskelgruppe kan nå ringen gennem én muskel alene — listen er den egentlige aflæsning.",
+        "pl": "To szacunki z badań trwających około dziesięciu tygodni, głównie na młodych mężczyznach. Grupa mięśni może sięgnąć pierścienia dzięki jednemu mięśniowi — prawdziwy obraz daje lista.",
+        "fr": "Ce sont des estimations tirées d'études d'environ dix semaines, surtout chez de jeunes hommes. Un groupe musculaire peut atteindre l'anneau grâce à un seul muscle — la liste est la vraie lecture.",
+        "ar": "هذه تقديرات من دراسات استمرت نحو عشرة أسابيع، معظمها على شبان. قد تصل مجموعة عضلية إلى الحلقة بفضل عضلة واحدة — القائمة هي القراءة الحقيقية."
+      },
+      "dose.info.credit": {
+        "en": "Each set counts 1 for the main muscle, ½ for muscles that help, and ¼ for stabilisers.",
+        "ru": "Каждый подход даёт 1 основной мышце, ½ — помогающим мышцам и ¼ — стабилизаторам.",
+        "hy": "Ամեն մոտեցում հաշվվում է 1՝ հիմնական մկանի, ½՝ օգնող մկանների և ¼՝ կայունացնողների համար։",
+        "sv": "Varje set räknas som 1 för huvudmuskeln, ½ för muskler som hjälper till och ¼ för stabilisatorer.",
+        "nb": "Hvert sett teller 1 for hovedmuskelen, ½ for muskler som hjelper til og ¼ for stabilisatorer.",
+        "nl": "Elke set telt 1 voor de hoofdspier, ½ voor spieren die helpen en ¼ voor stabilisatoren.",
+        "da": "Hvert sæt tæller 1 for hovedmusklen, ½ for muskler der hjælper til og ¼ for stabilisatorer.",
+        "pl": "Każda seria liczy się jako 1 dla głównego mięśnia, ½ dla mięśni pomocniczych i ¼ dla stabilizatorów.",
+        "fr": "Chaque série compte 1 pour le muscle principal, ½ pour les muscles qui aident et ¼ pour les stabilisateurs.",
+        "ar": "كل مجموعة تُحسب 1 للعضلة الرئيسية، و½ للعضلات المساعدة، و¼ للعضلات المثبِّتة."
+      },
+      "dose.info.title": {
+        "en": "How sets are counted",
+        "ru": "Как считаются подходы",
+        "hy": "Ինչպես են հաշվվում մոտեցումները",
+        "sv": "Så räknas set",
+        "nb": "Slik telles sett",
+        "nl": "Zo worden sets geteld",
+        "da": "Sådan tælles sæt",
+        "pl": "Jak liczone są serie",
+        "fr": "Comment les séries sont comptées",
+        "ar": "كيف تُحسب المجموعات"
+      },
+      "dose.info.warmup": {
+        "en": "Warm-up sets — well below your top set of the day — count for less, or not at all.",
+        "ru": "Разминочные подходы — заметно легче вашего лучшего подхода за день — засчитываются частично или не засчитываются вовсе.",
+        "hy": "Տաքացման մոտեցումները՝ օրվա ձեր լավագույն մոտեցումից զգալիորեն թեթև, հաշվվում են մասամբ կամ բոլորովին չեն հաշվվում։",
+        "sv": "Uppvärmningsset — långt under dagens tyngsta set — räknas mindre, eller inte alls.",
+        "nb": "Oppvarmingssett — godt under dagens tyngste sett — teller mindre, eller ikke i det hele tatt.",
+        "nl": "Opwarmsets — ruim onder je zwaarste set van de dag — tellen minder mee, of helemaal niet.",
+        "da": "Opvarmningssæt — langt under dagens tungeste sæt — tæller mindre eller slet ikke.",
+        "pl": "Serie rozgrzewkowe — wyraźnie poniżej najcięższej serii dnia — liczą się słabiej albo wcale.",
+        "fr": "Les séries d'échauffement — bien en dessous de votre meilleure série du jour — comptent moins, voire pas du tout.",
+        "ar": "مجموعات الإحماء — الأخف بكثير من أقوى مجموعة لك في اليوم — تُحسب بقدر أقل أو لا تُحسب إطلاقًا."
       },
       "dose.period": {
         "en": "Per",
@@ -11128,6 +11277,114 @@
         "fr": "Par an",
         "ar": "سنوياً"
       },
+      "dose.row.a11y": {
+        "en": "%1$@, %2$@, %3$@, target %4$@",
+        "ru": "%1$@, %2$@, %3$@, цель %4$@",
+        "hy": "%1$@, %2$@, %3$@, նպատակը՝ %4$@",
+        "sv": "%1$@, %2$@, %3$@, mål %4$@",
+        "nb": "%1$@, %2$@, %3$@, mål %4$@",
+        "nl": "%1$@, %2$@, %3$@, doel %4$@",
+        "da": "%1$@, %2$@, %3$@, mål %4$@",
+        "pl": "%1$@, %2$@, %3$@, cel %4$@",
+        "fr": "%1$@, %2$@, %3$@, objectif %4$@",
+        "ar": "%1$@، %2$@، %3$@، الهدف %4$@"
+      },
+      "dose.section.needsAttention": {
+        "en": "Needs attention",
+        "ru": "Требуют внимания",
+        "hy": "Ուշադրության կարիք ունեն",
+        "sv": "Behöver uppmärksamhet",
+        "nb": "Trenger oppmerksomhet",
+        "nl": "Verdient aandacht",
+        "da": "Kræver opmærksomhed",
+        "pl": "Wymagają uwagi",
+        "fr": "À surveiller",
+        "ar": "تحتاج إلى اهتمام"
+      },
+      "dose.section.onTrack": {
+        "en": "On track",
+        "ru": "В норме",
+        "hy": "Նորմայում",
+        "sv": "I fas",
+        "nb": "I rute",
+        "nl": "Op schema",
+        "da": "På sporet",
+        "pl": "W normie",
+        "fr": "Dans la cible",
+        "ar": "ضمن النطاق"
+      },
+      "dose.session.footer": {
+        "en": "Helper muscles and warm-up sets count for less toward your weekly dose.",
+        "ru": "Вспомогательные мышцы и разминочные подходы учитываются в недельной дозе с меньшим весом.",
+        "hy": "Օժանդակ մկանները և տաքացման մոտեցումները շաբաթական դոզայում հաշվվում են ավելի քիչ։",
+        "sv": "Hjälpmuskler och uppvärmningsset räknas mindre i din veckodos.",
+        "nb": "Hjelpemuskler og oppvarmingssett teller mindre i ukedosen din.",
+        "nl": "Hulpspieren en warming-upsets tellen minder mee in je weekdosis.",
+        "da": "Hjælpemuskler og opvarmningssæt tæller mindre i din ugedosis.",
+        "pl": "Mięśnie pomocnicze i serie rozgrzewkowe liczą się mniej do tygodniowej dawki.",
+        "fr": "Les muscles auxiliaires et les séries d'échauffement comptent moins dans votre dose hebdomadaire.",
+        "ar": "العضلات المساعدة ومجموعات الإحماء تُحتسب بقدر أقل في جرعتك الأسبوعية."
+      },
+      "dose.session.helper": {
+        "en": "helper",
+        "ru": "вспомогательная",
+        "hy": "օժանդակ",
+        "sv": "hjälpmuskel",
+        "nb": "hjelpemuskel",
+        "nl": "hulpspier",
+        "da": "hjælpemuskel",
+        "pl": "pomocniczy",
+        "fr": "auxiliaire",
+        "ar": "مساعدة"
+      },
+      "dose.session.helperSets": {
+        "en": "%lld as helper",
+        "ru": "%lld как вспомогательная",
+        "hy": "%lld՝ որպես օժանդակ",
+        "sv": "%lld som hjälpmuskel",
+        "nb": "%lld som hjelpemuskel",
+        "nl": "%lld als hulpspier",
+        "da": "%lld som hjælpemuskel",
+        "pl": "%lld jako pomocniczy",
+        "fr": "%lld en auxiliaire",
+        "ar": "%lld كمساعدة"
+      },
+      "dose.session.setOne": {
+        "en": "1 set",
+        "ru": "1 подход",
+        "hy": "1 մոտեցում",
+        "sv": "1 set",
+        "nb": "1 sett",
+        "nl": "1 set",
+        "da": "1 sæt",
+        "pl": "1 seria",
+        "fr": "1 série",
+        "ar": "مجموعة واحدة"
+      },
+      "dose.session.warmUpOne": {
+        "en": "1 warm-up",
+        "ru": "1 разминочный",
+        "hy": "1 տաքացման",
+        "sv": "1 uppvärmning",
+        "nb": "1 oppvarming",
+        "nl": "1 warming-up",
+        "da": "1 opvarmning",
+        "pl": "1 rozgrzewkowa",
+        "fr": "1 échauffement",
+        "ar": "إحماء واحد"
+      },
+      "dose.session.warmUps": {
+        "en": "%lld warm-ups",
+        "ru": "%lld разминочных",
+        "hy": "%lld տաքացման",
+        "sv": "%lld uppvärmningar",
+        "nb": "%lld oppvarminger",
+        "nl": "%lld warming-ups",
+        "da": "%lld opvarmninger",
+        "pl": "%lld rozgrzewkowych",
+        "fr": "%lld échauffements",
+        "ar": "%lld إحماء"
+      },
       "dose.sessionTitle": {
         "en": "Muscles worked",
         "ru": "Проработанные мышцы",
@@ -11139,6 +11396,54 @@
         "pl": "Przepracowane mięśnie",
         "fr": "Muscles travaillés",
         "ar": "العضلات المستهدفة"
+      },
+      "dose.setsPerWeekSpoken": {
+        "en": "%@ sets per week",
+        "ru": "%@ подходов в неделю",
+        "hy": "շաբաթական %@ մոտեցում",
+        "sv": "%@ set per vecka",
+        "nb": "%@ sett per uke",
+        "nl": "%@ sets per week",
+        "da": "%@ sæt om ugen",
+        "pl": "%@ serii tygodniowo",
+        "fr": "%@ séries par semaine",
+        "ar": "%@ مجموعة في الأسبوع"
+      },
+      "dose.spider.belowRing": {
+        "en": "Every muscle group is below on track this week — the rows show how far.",
+        "ru": "На этой неделе все группы мышц ниже нормы — строки показывают, насколько.",
+        "hy": "Այս շաբաթ բոլոր մկանային խմբերը նորմայից ցածր են․ տողերը ցույց են տալիս, թե որքան։",
+        "sv": "Alla muskelgrupper ligger under i fas den här veckan – raderna visar hur mycket.",
+        "nb": "Alle muskelgrupper ligger under i rute denne uken – radene viser hvor mye.",
+        "nl": "Elke spiergroep ligt deze week onder schema – de rijen laten zien hoeveel.",
+        "da": "Alle muskelgrupper er under på sporet i denne uge – rækkerne viser hvor meget.",
+        "pl": "W tym tygodniu wszystkie grupy mięśni są poniżej normy — wiersze pokazują, o ile.",
+        "fr": "Cette semaine, tous les groupes musculaires sont sous la cible — les lignes montrent de combien.",
+        "ar": "جميع المجموعات العضلية دون النطاق هذا الأسبوع — تُظهر الصفوف بكم."
+      },
+      "dose.spider.ringCaption": {
+        "en": "The dashed ring is where a muscle group is on track.",
+        "ru": "Пунктирное кольцо — уровень, на котором группа мышц в норме.",
+        "hy": "Կետագծային օղակը այն մակարդակն է, որտեղ մկանային խումբը նորմայում է։",
+        "sv": "Den streckade ringen är där en muskelgrupp är i fas.",
+        "nb": "Den stiplede ringen er der en muskelgruppe er i rute.",
+        "nl": "De stippelring is waar een spiergroep op schema ligt.",
+        "da": "Den stiplede ring er dér, hvor en muskelgruppe er på sporet.",
+        "pl": "Przerywany pierścień to poziom, na którym grupa mięśni jest w normie.",
+        "fr": "L'anneau en pointillés marque le niveau où un groupe musculaire est dans la cible.",
+        "ar": "الحلقة المتقطعة هي المستوى الذي تكون عنده المجموعة العضلية ضمن النطاق."
+      },
+      "dose.zone.building": {
+        "en": "Building",
+        "ru": "Умеренно",
+        "hy": "Չափավոր",
+        "sv": "Måttlig",
+        "nb": "Moderat",
+        "nl": "Matig",
+        "da": "Moderat",
+        "pl": "Umiarkowanie",
+        "fr": "Modéré",
+        "ar": "متوسط"
       },
       "dose.zone.growing": {
         "en": "Growing",
@@ -11164,6 +11469,18 @@
         "fr": "Élevé",
         "ar": "مرتفع"
       },
+      "dose.zone.light": {
+        "en": "Light",
+        "ru": "Мало",
+        "hy": "Քիչ",
+        "sv": "Lite",
+        "nb": "Lite",
+        "nl": "Weinig",
+        "da": "Lidt",
+        "pl": "Mało",
+        "fr": "Faible",
+        "ar": "قليل"
+      },
       "dose.zone.losingGround": {
         "en": "Losing ground",
         "ru": "Теряется форма",
@@ -11187,6 +11504,30 @@
         "pl": "Utrzymanie",
         "fr": "Maintien",
         "ar": "محافظة"
+      },
+      "dose.zone.notTrained": {
+        "en": "Not trained",
+        "ru": "Не тренируется",
+        "hy": "Չի մարզվում",
+        "sv": "Inte tränad",
+        "nb": "Ikke trent",
+        "nl": "Niet getraind",
+        "da": "Ikke trænet",
+        "pl": "Bez treningu",
+        "fr": "Non travaillé",
+        "ar": "غير مُدرَّبة"
+      },
+      "dose.zone.onTrack": {
+        "en": "On track",
+        "ru": "В норме",
+        "hy": "Նորմայում",
+        "sv": "I fas",
+        "nb": "I rute",
+        "nl": "Op schema",
+        "da": "På sporet",
+        "pl": "W normie",
+        "fr": "Dans la cible",
+        "ar": "ضمن النطاق"
       },
       "dose.zone.overCeiling": {
         "en": "Over the ceiling",
@@ -19584,14 +19925,14 @@
         "hy": "Lat Pulldown + Նստած մալուխի շարք + Barbell ուսերը թոթվել"
       },
       "catalog.superset-back-squat-leg-extension": {
-        "en": "Back Squat + Leg Extension",
-        "ru": "Приседания на спине + разгибание ног",
-        "hy": "Մեջքի նստվածք + ոտքի երկարացում"
+        "en": "Half Squat + Leg Extension",
+        "ru": "Полуприсед со штангой + разгибание ног",
+        "hy": "Կիսակքանում շթանգով + ոտքի տարածում"
       },
       "catalog.superset-back-squat-pull-up": {
-        "en": "Back Squat + Pull-Up",
-        "ru": "Приседания на спине + подтягивания",
-        "hy": "Մեջքի նստատեղ + քաշքշուկ"
+        "en": "Half Squat + Pull-Up",
+        "ru": "Полуприсед со штангой + подтягивания",
+        "hy": "Կիսակքանում շթանգով + ձգումներ"
       },
       "catalog.superset-barbell-curl-tricep-pushdown": {
         "en": "Barbell Curl + Tricep Pushdown",
@@ -22306,6 +22647,66 @@
         "pl": "Zaplanuj trening",
         "fr": "Planifier la séance",
         "ar": "خطط التمرين"
+      },
+      "reopen.title": {
+        "en": "Continue this workout?",
+        "ru": "Продолжить эту тренировку?",
+        "hy": "Շարունակե՞լ այս մարզումը",
+        "sv": "Fortsätta det här passet?",
+        "nb": "Fortsette denne økten?",
+        "nl": "Deze training voortzetten?",
+        "da": "Fortsæt denne træning?",
+        "pl": "Kontynuować ten trening?",
+        "fr": "Reprendre cette séance ?",
+        "ar": "هل تريد متابعة هذا التمرين؟"
+      },
+      "reopen.message": {
+        "en": "It goes back to the Workout tab as in progress. Add what's missing, then finish it again.",
+        "ru": "Она вернётся на вкладку «Тренировка» как текущая. Добавьте недостающее и завершите её снова.",
+        "hy": "Այն կվերադառնա «Մարզում» ներդիրին որպես ընթացիկ։ Ավելացրեք պակասը, ապա նորից ավարտեք։",
+        "sv": "Det återgår till fliken Träning som pågående. Lägg till det som saknas och avsluta sedan igen.",
+        "nb": "Den går tilbake til Trening-fanen som pågående. Legg til det som mangler, og avslutt den igjen.",
+        "nl": "De training keert terug naar het tabblad Training als lopende sessie. Voeg toe wat ontbreekt en rond daarna opnieuw af.",
+        "da": "Den vender tilbage til fanen Træning som igangværende. Tilføj det, der mangler, og afslut den igen.",
+        "pl": "Wróci na kartę Trening jako trwający. Dodaj, czego brakuje, i zakończ go ponownie.",
+        "fr": "Elle revient dans l'onglet Séance comme séance en cours. Ajoutez ce qui manque, puis terminez-la à nouveau.",
+        "ar": "سيعود إلى تبويب التمرين كتمرين جارٍ. أضف ما ينقص ثم أنهِه مجددًا."
+      },
+      "autoName.pair": {
+        "en": "%1$@ & %2$@",
+        "ru": "%1$@ и %2$@",
+        "hy": "%1$@ և %2$@",
+        "sv": "%1$@ och %2$@",
+        "nb": "%1$@ og %2$@",
+        "nl": "%1$@ en %2$@",
+        "da": "%1$@ og %2$@",
+        "pl": "%1$@ i %2$@",
+        "fr": "%1$@ et %2$@",
+        "ar": "%1$@ و%2$@"
+      },
+      "autoName.triple": {
+        "en": "%1$@, %2$@ & %3$@",
+        "ru": "%1$@, %2$@ и %3$@",
+        "hy": "%1$@, %2$@ և %3$@",
+        "sv": "%1$@, %2$@ och %3$@",
+        "nb": "%1$@, %2$@ og %3$@",
+        "nl": "%1$@, %2$@ en %3$@",
+        "da": "%1$@, %2$@ og %3$@",
+        "pl": "%1$@, %2$@ i %3$@",
+        "fr": "%1$@, %2$@ et %3$@",
+        "ar": "%1$@، %2$@ و%3$@"
+      },
+      "autoName.fullBody": {
+        "en": "Full body",
+        "ru": "Всё тело",
+        "hy": "Ամբողջ մարմին",
+        "sv": "Helkropp",
+        "nb": "Hele kroppen",
+        "nl": "Hele lichaam",
+        "da": "Hele kroppen",
+        "pl": "Całe ciało",
+        "fr": "Corps entier",
+        "ar": "الجسم كامل"
       },
       "reorderExercises": {
         "en": "Reorder exercises",

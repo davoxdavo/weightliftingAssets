@@ -200,7 +200,7 @@ this list, which is a snapshot.
 4. **Directory `vN` ≠ content `version`.** `catalog/localizations/en/v3/exercises.localization.json` carries `"version": 5`, and the manifest declares `5` while pointing at the `v3` path. Same for `sv`, `nb`, `nl`, `da`, `pl`, `fr`, `ar`. Only `ru` and `hy` line up (`v6` / version 6). Functionally fine — clients compare the integer, not the path — but the folder name misstates the revision. Review code `P2`.
 5. **Stale payloads published.** `catalog/exercises/v10`, `v11` and `v12` are all still in the tree, plus 20 superseded localization folders. Review code `P1`; `fix_catalog.py prune` clears them.
 6. **`manifests/content-10-7.json` is a snapshot, not an entrypoint.** Shipping builds must keep `REMOTE_MANIFEST_URL` on the stable `remote/manifest.json`.
-7. **Three form guides exceed 1.4 MB** (`legs-back-squat`, `legs-donkey-calf-raise`, `legs-hip-adduction`). The corpus is uniformly 1024×1024 8-bit RGB PNG at ~1.1 MB, 309 files, ~307 MB total. Review code `M6`.
+7. **Two form guides exceed 1.4 MB** (`legs-donkey-calf-raise`, `legs-hip-adduction`). `legs-back-squat` left this list at catalog v38: the row became Half Squat and was redrawn (1.41 MB → 113 KB), and the AI art it used to carry moved to `legs-full-back-squat`, where it was re-encoded to 1.13 MB. The corpus is uniformly 1024×1024 8-bit RGB PNG at ~1.1 MB, 309 files, ~307 MB total. Review code `M6`.
 8. **`catalogVersion` drift — resolved 2026-07-31.** Localization files now declare `"catalogVersion": 13`, matching the served `catalog/exercises/v13`. The field is advisory; nothing on the client compares it.
 
 ## See also

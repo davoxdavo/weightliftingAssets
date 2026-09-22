@@ -1,6 +1,6 @@
 {
-  "lastSyncedAt": 1789676400,
-  "minAppVersion": "1.4",
+  "lastSyncedAt": 1790120146,
+  "minAppVersion": "1.6",
   "strings": {
     "Misc": {
       "": {
@@ -5315,9 +5315,14 @@
         "hy": "Մալուխ փայտահատ"
       },
       "catalog.legs-back-squat": {
+        "en": "Half Squat",
+        "ru": "Полуприсед со штангой",
+        "hy": "Կիսակքանում շթանգով"
+      },
+      "catalog.legs-full-back-squat": {
         "en": "Back Squat",
-        "ru": "Приседания на спине",
-        "hy": "Մեջքի պառկած նստատեղ"
+        "ru": "Присед со штангой на спине",
+        "hy": "Մեջքին շթանգով կքանում"
       },
       "catalog.legs-band-adductor-squeeze": {
         "en": "Band Adductor Squeeze",
@@ -10997,18 +11002,6 @@
         "fr": "dans la cible : %lld",
         "ar": "ضمن النطاق: %lld"
       },
-      "dose.extrapolated": {
-        "en": "Scaled up from a shorter history — read this as an estimate.",
-        "ru": "Пересчитано с более короткой истории — это оценка.",
-        "hy": "Հաշվարկված է ավելի կարճ պատմությունից — ընդունեք որպես մոտավոր գնահատական.",
-        "sv": "Uppskalat från en kortare historik — läs det som en uppskattning.",
-        "nb": "Skalert opp fra en kortere historikk — les det som et estimat.",
-        "nl": "Opgeschaald vanuit een kortere geschiedenis — lees dit als een schatting.",
-        "da": "Skaleret op fra en kortere historik — læs det som et estimat.",
-        "pl": "Przeskalowane z krótszej historii — traktuj to jako szacunek.",
-        "fr": "Extrapolé à partir d'un historique plus court — à lire comme une estimation.",
-        "ar": "محسوب من سجل أقصر — اعتبره تقديرًا."
-      },
       "dose.group.back": {
         "en": "Lats & upper back",
         "ru": "Широчайшие и верх спины",
@@ -11105,66 +11098,6 @@
         "fr": "Les séries d'échauffement — bien en dessous de votre meilleure série du jour — comptent moins, voire pas du tout.",
         "ar": "مجموعات الإحماء — الأخف بكثير من أقوى مجموعة لك في اليوم — تُحسب بقدر أقل أو لا تُحسب إطلاقًا."
       },
-      "dose.period": {
-        "en": "Per",
-        "ru": "За период",
-        "hy": "Ժամանակահատված",
-        "sv": "Per",
-        "nb": "Per",
-        "nl": "Per",
-        "da": "Per",
-        "pl": "Na",
-        "fr": "Par",
-        "ar": "لكل"
-      },
-      "dose.period.month": {
-        "en": "Per month",
-        "ru": "За месяц",
-        "hy": "Ամսական",
-        "sv": "Per månad",
-        "nb": "Per måned",
-        "nl": "Per maand",
-        "da": "Per måned",
-        "pl": "Miesięcznie",
-        "fr": "Par mois",
-        "ar": "شهرياً"
-      },
-      "dose.period.total": {
-        "en": "Whole range",
-        "ru": "Весь период",
-        "hy": "Ամբողջ միջակայքը",
-        "sv": "Hela perioden",
-        "nb": "Hele perioden",
-        "nl": "Hele periode",
-        "da": "Hele perioden",
-        "pl": "Cały zakres",
-        "fr": "Toute la période",
-        "ar": "كامل الفترة"
-      },
-      "dose.period.week": {
-        "en": "Per week",
-        "ru": "За неделю",
-        "hy": "Շաբաթական",
-        "sv": "Per vecka",
-        "nb": "Per uke",
-        "nl": "Per week",
-        "da": "Per uge",
-        "pl": "Tygodniowo",
-        "fr": "Par semaine",
-        "ar": "أسبوعياً"
-      },
-      "dose.period.year": {
-        "en": "Per year",
-        "ru": "За год",
-        "hy": "Տարեկան",
-        "sv": "Per år",
-        "nb": "Per år",
-        "nl": "Per jaar",
-        "da": "Per år",
-        "pl": "Rocznie",
-        "fr": "Par an",
-        "ar": "سنوياً"
-      },
       "dose.row.a11y": {
         "en": "%1$@, %2$@, %3$@, target %4$@",
         "ru": "%1$@, %2$@, %3$@, цель %4$@",
@@ -11201,6 +11134,78 @@
         "fr": "Dans la cible",
         "ar": "ضمن النطاق"
       },
+      "dose.session.footer": {
+        "en": "Helper muscles and warm-up sets count for less toward your weekly dose.",
+        "ru": "Вспомогательные мышцы и разминочные подходы учитываются в недельной дозе с меньшим весом.",
+        "hy": "Օժանդակ մկանները և տաքացման մոտեցումները շաբաթական դոզայում հաշվվում են ավելի քիչ։",
+        "sv": "Hjälpmuskler och uppvärmningsset räknas mindre i din veckodos.",
+        "nb": "Hjelpemuskler og oppvarmingssett teller mindre i ukedosen din.",
+        "nl": "Hulpspieren en warming-upsets tellen minder mee in je weekdosis.",
+        "da": "Hjælpemuskler og opvarmningssæt tæller mindre i din ugedosis.",
+        "pl": "Mięśnie pomocnicze i serie rozgrzewkowe liczą się mniej do tygodniowej dawki.",
+        "fr": "Les muscles auxiliaires et les séries d'échauffement comptent moins dans votre dose hebdomadaire.",
+        "ar": "العضلات المساعدة ومجموعات الإحماء تُحتسب بقدر أقل في جرعتك الأسبوعية."
+      },
+      "dose.session.helper": {
+        "en": "helper",
+        "ru": "вспомогательная",
+        "hy": "օժանդակ",
+        "sv": "hjälpmuskel",
+        "nb": "hjelpemuskel",
+        "nl": "hulpspier",
+        "da": "hjælpemuskel",
+        "pl": "pomocniczy",
+        "fr": "auxiliaire",
+        "ar": "مساعدة"
+      },
+      "dose.session.helperSets": {
+        "en": "%lld as helper",
+        "ru": "%lld как вспомогательная",
+        "hy": "%lld՝ որպես օժանդակ",
+        "sv": "%lld som hjälpmuskel",
+        "nb": "%lld som hjelpemuskel",
+        "nl": "%lld als hulpspier",
+        "da": "%lld som hjælpemuskel",
+        "pl": "%lld jako pomocniczy",
+        "fr": "%lld en auxiliaire",
+        "ar": "%lld كمساعدة"
+      },
+      "dose.session.setOne": {
+        "en": "1 set",
+        "ru": "1 подход",
+        "hy": "1 մոտեցում",
+        "sv": "1 set",
+        "nb": "1 sett",
+        "nl": "1 set",
+        "da": "1 sæt",
+        "pl": "1 seria",
+        "fr": "1 série",
+        "ar": "مجموعة واحدة"
+      },
+      "dose.session.warmUpOne": {
+        "en": "1 warm-up",
+        "ru": "1 разминочный",
+        "hy": "1 տաքացման",
+        "sv": "1 uppvärmning",
+        "nb": "1 oppvarming",
+        "nl": "1 warming-up",
+        "da": "1 opvarmning",
+        "pl": "1 rozgrzewkowa",
+        "fr": "1 échauffement",
+        "ar": "إحماء واحد"
+      },
+      "dose.session.warmUps": {
+        "en": "%lld warm-ups",
+        "ru": "%lld разминочных",
+        "hy": "%lld տաքացման",
+        "sv": "%lld uppvärmningar",
+        "nb": "%lld oppvarminger",
+        "nl": "%lld warming-ups",
+        "da": "%lld opvarmninger",
+        "pl": "%lld rozgrzewkowych",
+        "fr": "%lld échauffements",
+        "ar": "%lld إحماء"
+      },
       "dose.sessionTitle": {
         "en": "Muscles worked",
         "ru": "Проработанные мышцы",
@@ -11224,6 +11229,18 @@
         "pl": "%@ serii tygodniowo",
         "fr": "%@ séries par semaine",
         "ar": "%@ مجموعة في الأسبوع"
+      },
+      "dose.spider.belowRing": {
+        "en": "Every muscle group is below on track this week — the rows show how far.",
+        "ru": "На этой неделе все группы мышц ниже нормы — строки показывают, насколько.",
+        "hy": "Այս շաբաթ բոլոր մկանային խմբերը նորմայից ցածր են․ տողերը ցույց են տալիս, թե որքան։",
+        "sv": "Alla muskelgrupper ligger under i fas den här veckan – raderna visar hur mycket.",
+        "nb": "Alle muskelgrupper ligger under i rute denne uken – radene viser hvor mye.",
+        "nl": "Elke spiergroep ligt deze week onder schema – de rijen laten zien hoeveel.",
+        "da": "Alle muskelgrupper er under på sporet i denne uge – rækkerne viser hvor meget.",
+        "pl": "W tym tygodniu wszystkie grupy mięśni są poniżej normy — wiersze pokazują, o ile.",
+        "fr": "Cette semaine, tous les groupes musculaires sont sous la cible — les lignes montrent de combien.",
+        "ar": "جميع المجموعات العضلية دون النطاق هذا الأسبوع — تُظهر الصفوف بكم."
       },
       "dose.spider.ringCaption": {
         "en": "The dashed ring is where a muscle group is on track.",
@@ -11249,18 +11266,6 @@
         "fr": "Modéré",
         "ar": "متوسط"
       },
-      "dose.zone.growing": {
-        "en": "Growing",
-        "ru": "Рост",
-        "hy": "Աճ",
-        "sv": "Växer",
-        "nb": "Vokser",
-        "nl": "Groeit",
-        "da": "Vokser",
-        "pl": "Wzrost",
-        "fr": "Progression",
-        "ar": "نمو"
-      },
       "dose.zone.high": {
         "en": "High",
         "ru": "Высокий объём",
@@ -11285,30 +11290,6 @@
         "fr": "Faible",
         "ar": "قليل"
       },
-      "dose.zone.losingGround": {
-        "en": "Losing ground",
-        "ru": "Теряется форма",
-        "hy": "Հետընթաց",
-        "sv": "Tappar mark",
-        "nb": "Mister fremgang",
-        "nl": "Verliest terrein",
-        "da": "Mister terræn",
-        "pl": "Traci formę",
-        "fr": "En recul",
-        "ar": "تراجع"
-      },
-      "dose.zone.maintaining": {
-        "en": "Maintaining",
-        "ru": "Поддержание",
-        "hy": "Պահպանում",
-        "sv": "Bibehåller",
-        "nb": "Vedlikeholder",
-        "nl": "Behoudt",
-        "da": "Vedligeholder",
-        "pl": "Utrzymanie",
-        "fr": "Maintien",
-        "ar": "محافظة"
-      },
       "dose.zone.notTrained": {
         "en": "Not trained",
         "ru": "Не тренируется",
@@ -11332,18 +11313,6 @@
         "pl": "W normie",
         "fr": "Dans la cible",
         "ar": "ضمن النطاق"
-      },
-      "dose.zone.overCeiling": {
-        "en": "Over the ceiling",
-        "ru": "Выше предела",
-        "hy": "Սահմանից վեր",
-        "sv": "Över taket",
-        "nb": "Over taket",
-        "nl": "Boven het plafond",
-        "da": "Over loftet",
-        "pl": "Powyżej limitu",
-        "fr": "Au-dessus du plafond",
-        "ar": "فوق الحد"
       },
       "emptyDescription": {
         "en": "Finish a workout to see volume, frequency, and trends.",
@@ -11765,42 +11734,6 @@
         "fr": "Training rhythm",
         "ar": "Training rhythm"
       },
-      "metric": {
-        "en": "Metric",
-        "ru": "Метрика",
-        "hy": "Մետրիկա",
-        "sv": "Metrisk",
-        "nb": "Metrisk",
-        "nl": "Metrisch",
-        "da": "Metrisk",
-        "pl": "Metryczny",
-        "fr": "Métrique",
-        "ar": "متري"
-      },
-      "metric.dose": {
-        "en": "Weekly dose",
-        "ru": "Недельная доза",
-        "hy": "Շաբաթական չափաբաժին",
-        "sv": "Veckodos",
-        "nb": "Ukentlig dose",
-        "nl": "Wekelijkse dosis",
-        "da": "Ugentlig dosis",
-        "pl": "Dawka tygodniowa",
-        "fr": "Dose hebdomadaire",
-        "ar": "الجرعة الأسبوعية"
-      },
-      "metric.sessions": {
-        "en": "Sessions",
-        "ru": "Сессии",
-        "hy": "Նիստեր",
-        "sv": "Sessioner",
-        "nb": "Økter",
-        "nl": "Sessies",
-        "da": "Sessioner",
-        "pl": "Sesje",
-        "fr": "Séances",
-        "ar": "الجلسات"
-      },
       "metric.sets": {
         "en": "Sets",
         "ru": "Наборы",
@@ -11812,18 +11745,6 @@
         "pl": "Zestawy",
         "fr": "Ensembles",
         "ar": "مجموعات"
-      },
-      "metric.tonnage": {
-        "en": "Tonnage",
-        "ru": "Тоннаж",
-        "hy": "Տոննաժ",
-        "sv": "Tonnage",
-        "nb": "Tonnasje",
-        "nl": "Tonnage",
-        "da": "Tonnage",
-        "pl": "Tonaż",
-        "fr": "Tonnage",
-        "ar": "حمولة"
       },
       "mostTrained": {
         "en": "Most trained",
@@ -11993,18 +11914,6 @@
         "fr": "%@ séries",
         "ar": "%@ مجموعة"
       },
-      "setsPerMonth": {
-        "en": "%@ sets/month",
-        "ru": "%@ подх./мес.",
-        "hy": "%@ մոտեցում/ամիս",
-        "sv": "%@ set/månad",
-        "nb": "%@ sett/måned",
-        "nl": "%@ sets/maand",
-        "da": "%@ sæt/måned",
-        "pl": "%@ serii/mies.",
-        "fr": "%@ séries/mois",
-        "ar": "%@ مجموعة/شهر"
-      },
       "setsPerWeek": {
         "en": "%@ sets/week",
         "ru": "%@ подх./нед.",
@@ -12016,18 +11925,6 @@
         "pl": "%@ serii/tydz.",
         "fr": "%@ séries/sem.",
         "ar": "%@ مجموعة/أسبوع"
-      },
-      "setsPerYear": {
-        "en": "%@ sets/year",
-        "ru": "%@ подх./год",
-        "hy": "%@ մոտեցում/տարի",
-        "sv": "%@ set/år",
-        "nb": "%@ sett/år",
-        "nl": "%@ sets/jaar",
-        "da": "%@ sæt/år",
-        "pl": "%@ serii/rok",
-        "fr": "%@ séries/an",
-        "ar": "%@ مجموعة/سنة"
       },
       "sportBalance": {
         "en": "Sport balance",
@@ -18517,14 +18414,14 @@
         "hy": "Lat Pulldown + Նստած մալուխի շարք + Barbell ուսերը թոթվել"
       },
       "catalog.superset-back-squat-leg-extension": {
-        "en": "Back Squat + Leg Extension",
-        "ru": "Приседания на спине + разгибание ног",
-        "hy": "Մեջքի նստվածք + ոտքի երկարացում"
+        "en": "Half Squat + Leg Extension",
+        "ru": "Полуприсед со штангой + разгибание ног",
+        "hy": "Կիսակքանում շթանգով + ոտքի տարածում"
       },
       "catalog.superset-back-squat-pull-up": {
-        "en": "Back Squat + Pull-Up",
-        "ru": "Приседания на спине + подтягивания",
-        "hy": "Մեջքի նստատեղ + քաշքշուկ"
+        "en": "Half Squat + Pull-Up",
+        "ru": "Полуприсед со штангой + подтягивания",
+        "hy": "Կիսակքանում շթանգով + ձգումներ"
       },
       "catalog.superset-barbell-curl-tricep-pushdown": {
         "en": "Barbell Curl + Tricep Pushdown",
@@ -21227,6 +21124,66 @@
         "pl": "Zaplanuj trening",
         "fr": "Planifier la séance",
         "ar": "خطط التمرين"
+      },
+      "reopen.title": {
+        "en": "Continue this workout?",
+        "ru": "Продолжить эту тренировку?",
+        "hy": "Շարունակե՞լ այս մարզումը",
+        "sv": "Fortsätta det här passet?",
+        "nb": "Fortsette denne økten?",
+        "nl": "Deze training voortzetten?",
+        "da": "Fortsæt denne træning?",
+        "pl": "Kontynuować ten trening?",
+        "fr": "Reprendre cette séance ?",
+        "ar": "هل تريد متابعة هذا التمرين؟"
+      },
+      "reopen.message": {
+        "en": "It goes back to the Workout tab as in progress. Add what's missing, then finish it again.",
+        "ru": "Она вернётся на вкладку «Тренировка» как текущая. Добавьте недостающее и завершите её снова.",
+        "hy": "Այն կվերադառնա «Մարզում» ներդիրին որպես ընթացիկ։ Ավելացրեք պակասը, ապա նորից ավարտեք։",
+        "sv": "Det återgår till fliken Träning som pågående. Lägg till det som saknas och avsluta sedan igen.",
+        "nb": "Den går tilbake til Trening-fanen som pågående. Legg til det som mangler, og avslutt den igjen.",
+        "nl": "De training keert terug naar het tabblad Training als lopende sessie. Voeg toe wat ontbreekt en rond daarna opnieuw af.",
+        "da": "Den vender tilbage til fanen Træning som igangværende. Tilføj det, der mangler, og afslut den igen.",
+        "pl": "Wróci na kartę Trening jako trwający. Dodaj, czego brakuje, i zakończ go ponownie.",
+        "fr": "Elle revient dans l'onglet Séance comme séance en cours. Ajoutez ce qui manque, puis terminez-la à nouveau.",
+        "ar": "سيعود إلى تبويب التمرين كتمرين جارٍ. أضف ما ينقص ثم أنهِه مجددًا."
+      },
+      "autoName.pair": {
+        "en": "%1$@ & %2$@",
+        "ru": "%1$@ и %2$@",
+        "hy": "%1$@ և %2$@",
+        "sv": "%1$@ och %2$@",
+        "nb": "%1$@ og %2$@",
+        "nl": "%1$@ en %2$@",
+        "da": "%1$@ og %2$@",
+        "pl": "%1$@ i %2$@",
+        "fr": "%1$@ et %2$@",
+        "ar": "%1$@ و%2$@"
+      },
+      "autoName.triple": {
+        "en": "%1$@, %2$@ & %3$@",
+        "ru": "%1$@, %2$@ и %3$@",
+        "hy": "%1$@, %2$@ և %3$@",
+        "sv": "%1$@, %2$@ och %3$@",
+        "nb": "%1$@, %2$@ og %3$@",
+        "nl": "%1$@, %2$@ en %3$@",
+        "da": "%1$@, %2$@ og %3$@",
+        "pl": "%1$@, %2$@ i %3$@",
+        "fr": "%1$@, %2$@ et %3$@",
+        "ar": "%1$@، %2$@ و%3$@"
+      },
+      "autoName.fullBody": {
+        "en": "Full body",
+        "ru": "Всё тело",
+        "hy": "Ամբողջ մարմին",
+        "sv": "Helkropp",
+        "nb": "Hele kroppen",
+        "nl": "Hele lichaam",
+        "da": "Hele kroppen",
+        "pl": "Całe ciało",
+        "fr": "Corps entier",
+        "ar": "الجسم كامل"
       },
       "reorderExercises": {
         "en": "Reorder exercises",
