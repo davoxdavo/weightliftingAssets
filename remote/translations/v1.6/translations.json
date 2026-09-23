@@ -12061,7 +12061,7 @@
       "title": {
         "en": "Insights",
         "ru": "Информация",
-        "hy": "Խորաթափանցություն",
+        "hy": "Վերլուծություն",
         "sv": "Insikter",
         "nb": "Innsikt",
         "nl": "Inzichten",
@@ -13573,7 +13573,7 @@
       "healthKitDemo.where": {
         "en": "Later: History → Insights → Apple Health",
         "ru": "Позже: История → Аналитика → Apple Health",
-        "hy": "Ավելի ուշ՝ Պատմություն → Խորաթափանցություն → Apple Health",
+        "hy": "Ավելի ուշ՝ Պատմություն → Վերլուծություն → Apple Health",
         "sv": "Senare: Historia → Insikter → Apple Health",
         "nb": "Senere: Historie → Innsikt → Apple Health",
         "nl": "Later: Geschiedenis → Inzichten → Apple Health",
@@ -13597,7 +13597,7 @@
       "insights.body": {
         "en": "Insights, Records, and progress charts turn your log into motivation — not noise.",
         "ru": "Аналитика, записи и диаграммы прогресса превращают ваш журнал в мотивацию, а не в шум.",
-        "hy": "Խորաթափանցությունները, գրառումները և առաջընթացի գծապատկերները ձեր գրանցամատյանը վերածում են մոտիվացիայի, այլ ոչ թե աղմուկի:",
+        "hy": "Վերլուծությունները, գրառումները և առաջընթացի գծապատկերները ձեր գրանցամատյանը վերածում են մոտիվացիայի, այլ ոչ թե աղմուկի:",
         "sv": "Insikter, rekord och framstegsdiagram förvandlar din logg till motivation – inte brus.",
         "nb": "Innsikt, registreringer og fremdriftsdiagrammer gjør loggen din til motivasjon – ikke støy.",
         "nl": "Inzichten, records en voortgangsgrafieken veranderen uw log in motivatie en niet in ruis.",
@@ -17981,7 +17981,7 @@
       "info.level": {
         "en": "A level is a number of sets a week for one muscle — level 1 is a light week, and each level adds a set or two. It is counted the same way as Insights: a set counts fully for the muscle it mainly trains and partly for muscles it helps, and warm-ups count for less.",
         "ru": "Уровень — это число подходов в неделю для одной мышцы: 1-й уровень — лёгкая неделя, каждый следующий добавляет один-два подхода. Считается так же, как в разделе «Информация»: подход засчитывается полностью основной мышце и частично вспомогательным, а разминка — меньше.",
-        "hy": "Մակարդակը մեկ մկանի շաբաթական մոտեցումների թիվն է․ 1-ին մակարդակը թեթև շաբաթ է, իսկ յուրաքանչյուր հաջորդն ավելացնում է մեկ-երկու մոտեցում։ Հաշվվում է այնպես, ինչպես «Խորաթափանցություն» բաժնում․ մոտեցումը լրիվ է հաշվվում հիմնական մկանի համար և մասամբ՝ օժանդակների, իսկ տաքացումը՝ ավելի քիչ։",
+        "hy": "Մակարդակը մեկ մկանի շաբաթական մոտեցումների թիվն է․ 1-ին մակարդակը թեթև շաբաթ է, իսկ յուրաքանչյուր հաջորդն ավելացնում է մեկ-երկու մոտեցում։ Հաշվվում է այնպես, ինչպես «Վերլուծություն» բաժնում․ մոտեցումը լրիվ է հաշվվում հիմնական մկանի համար և մասամբ՝ օժանդակների, իսկ տաքացումը՝ ավելի քիչ։",
         "sv": "En nivå är ett antal set i veckan för en muskel – nivå 1 är en lätt vecka och varje nivå lägger till ett eller två set. Det räknas som i Insikter: ett set räknas fullt för muskeln det främst tränar och delvis för muskler som hjälper till, och uppvärmning räknas mindre.",
         "nb": "Et nivå er et antall sett i uken for én muskel – nivå 1 er en lett uke, og hvert nivå legger til ett eller to sett. Det telles som i Innsikt: et sett teller fullt for muskelen det primært trener og delvis for muskler som hjelper, og oppvarming teller mindre.",
         "nl": "Een niveau is een aantal sets per week voor één spier – niveau 1 is een lichte week en elk niveau voegt een of twee sets toe. Het telt zoals in Inzichten: een set telt volledig voor de spier die hij vooral traint en deels voor spieren die meehelpen, en opwarmen telt minder.",
@@ -18017,7 +18017,7 @@
       "info.general": {
         "en": "Only sets on exercises that name the part count — a set tagged just “Chest” counts toward the chest in Insights but toward no chest level.",
         "ru": "Засчитываются только подходы в упражнениях с указанной частью мышцы: подход с отметкой просто «Грудь» идёт в зачёт груди в разделе «Информация», но не уровню какой-либо её части.",
-        "hy": "Հաշվվում են միայն այն վարժությունների մոտեցումները, որոնք նշում են մկանի մասը․ պարզապես «Կրծքավանդակ» նշված մոտեցումը «Խորաթափանցություն» բաժնում հաշվվում է կրծքի համար, բայց ոչ մի մասի մակարդակի համար։",
+        "hy": "Հաշվվում են միայն այն վարժությունների մոտեցումները, որոնք նշում են մկանի մասը․ պարզապես «Կրծքավանդակ» նշված մոտեցումը «Վերլուծություն» բաժնում հաշվվում է կրծքի համար, բայց ոչ մի մասի մակարդակի համար։",
         "sv": "Bara set på övningar som anger delen räknas – ett set som bara är märkt ”Bröst” räknas för bröstet i Insikter men inte för någon bröstnivå.",
         "nb": "Bare sett på øvelser som angir delen teller – et sett merket bare «Kiste» teller for brystet i Innsikt, men ikke for noe brystnivå.",
         "nl": "Alleen sets op oefeningen die het deel noemen tellen – een set met alleen ‘Borst’ telt voor de borst in Inzichten, maar voor geen enkel borstniveau.",
