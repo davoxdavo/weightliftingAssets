@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790237687,
+  "lastSyncedAt": 1790497056,
   "minAppVersion": "1.6",
   "strings": {
     "Misc": {
@@ -1300,6 +1300,18 @@
         "pl": "Po treningu możemy zapytać, czy dodać utworzone przez Ciebie ćwiczenie do biblioteki. Nic nie jest wysyłane, dopóki nie stukniesz Udostępnij.",
         "fr": "Après une séance, nous pouvons vous proposer d’ajouter un exercice que vous avez créé à la bibliothèque. Rien n’est envoyé tant que vous n’appuyez pas sur Partager.",
         "ar": "بعد التمرين قد نسألك عن إضافة تمرين أنشأته إلى المكتبة. لا يُرسل أي شيء ما لم تضغط «مشاركة»."
+      },
+      "adPrivacy.title": {
+        "en": "Ad privacy choices",
+        "ru": "Настройки конфиденциальности рекламы",
+        "hy": "Գովազդի գաղտնիության ընտրություններ",
+        "sv": "Integritetsval för annonser",
+        "nb": "Personvernvalg for annonser",
+        "nl": "Privacykeuzes voor advertenties",
+        "da": "Privatlivsvalg for annoncer",
+        "pl": "Ustawienia prywatności reklam",
+        "fr": "Choix de confidentialité des publicités",
+        "ar": "خيارات خصوصية الإعلانات"
       },
       "signIn.apple": {
         "en": "Continue with Apple",
@@ -23772,6 +23784,104 @@
         "pl": "Przenieś na drugą stronę",
         "fr": "Déplacer de l’autre côté",
         "ar": "نقل إلى الجانب الآخر"
+      }
+    },
+    "SupportAd": {
+      "title": {
+        "en": "Support Gym Logbook",
+        "ru": "Поддержи Gym Logbook",
+        "hy": "Աջակցիր Gym Logbook-ին",
+        "sv": "Stöd Gym Logbook",
+        "nb": "Støtt Gym Logbook",
+        "nl": "Steun Gym Logbook",
+        "da": "Støt Gym Logbook",
+        "pl": "Wesprzyj Gym Logbook",
+        "fr": "Soutenez Gym Logbook",
+        "ar": "ادعم Gym Logbook"
+      },
+      "body": {
+        "en": "Gym Logbook is free. Watching one short ad helps pay for it. Nothing is locked if you skip.",
+        "ru": "Gym Logbook бесплатный. Одна короткая реклама помогает его оплачивать. Если пропустишь, ничего не закроется.",
+        "hy": "Gym Logbook-ն անվճար է։ Մեկ կարճ գովազդ դիտելն օգնում է այն պահել։ Եթե բաց թողնես, ոչինչ չի փակվի։",
+        "sv": "Gym Logbook är gratis. En kort annons hjälper till att betala för appen. Inget låses om du hoppar över.",
+        "nb": "Gym Logbook er gratis. Én kort annonse hjelper til med å betale for appen. Ingenting låses om du hopper over.",
+        "nl": "Gym Logbook is gratis. Eén korte advertentie helpt de app te betalen. Er wordt niets vergrendeld als je overslaat.",
+        "da": "Gym Logbook er gratis. Én kort annonce hjælper med at betale for appen. Intet låses, hvis du springer over.",
+        "pl": "Gym Logbook jest darmowy. Jedna krótka reklama pomaga go utrzymać. Jeśli pominiesz, nic nie zostanie zablokowane.",
+        "fr": "Gym Logbook est gratuit. Regarder une courte publicité aide à le financer. Rien n'est bloqué si vous passez.",
+        "ar": "Gym Logbook مجاني. مشاهدة إعلان قصير واحد تساعد في تغطية تكاليفه. لن يُقفل أي شيء إذا تخطّيت."
+      },
+      "watch": {
+        "en": "Watch an ad",
+        "ru": "Посмотреть рекламу",
+        "hy": "Դիտել գովազդ",
+        "sv": "Titta på en annons",
+        "nb": "Se en annonse",
+        "nl": "Bekijk een advertentie",
+        "da": "Se en annonce",
+        "pl": "Obejrzyj reklamę",
+        "fr": "Regarder une publicité",
+        "ar": "شاهد إعلانًا"
+      },
+      "notNow": {
+        "en": "Not now",
+        "ru": "Не сейчас",
+        "hy": "Ոչ հիմա",
+        "sv": "Inte nu",
+        "nb": "Ikke nå",
+        "nl": "Niet nu",
+        "da": "Ikke nu",
+        "pl": "Nie teraz",
+        "fr": "Pas maintenant",
+        "ar": "ليس الآن"
+      },
+      "thanksTitle": {
+        "en": "Thank you",
+        "ru": "Спасибо",
+        "hy": "Շնորհակալություն",
+        "sv": "Tack",
+        "nb": "Takk",
+        "nl": "Bedankt",
+        "da": "Tak",
+        "pl": "Dziękujemy",
+        "fr": "Merci",
+        "ar": "شكرًا لك"
+      },
+      "thanksBody": {
+        "en": "That helps keep Gym Logbook free.",
+        "ru": "Это помогает Gym Logbook оставаться бесплатным.",
+        "hy": "Դա օգնում է, որ Gym Logbook-ը մնա անվճար։",
+        "sv": "Det hjälper till att hålla Gym Logbook gratis.",
+        "nb": "Det hjelper til med å holde Gym Logbook gratis.",
+        "nl": "Dat helpt om Gym Logbook gratis te houden.",
+        "da": "Det hjælper med at holde Gym Logbook gratis.",
+        "pl": "Dzięki temu Gym Logbook pozostaje darmowy.",
+        "fr": "Cela aide Gym Logbook à rester gratuit.",
+        "ar": "هذا يساعد على إبقاء Gym Logbook مجانيًا."
+      },
+      "noAdTitle": {
+        "en": "No ad right now",
+        "ru": "Сейчас рекламы нет",
+        "hy": "Հիմա գովազդ չկա",
+        "sv": "Ingen annons just nu",
+        "nb": "Ingen annonse akkurat nå",
+        "nl": "Nu geen advertentie",
+        "da": "Ingen annonce lige nu",
+        "pl": "Brak reklamy w tej chwili",
+        "fr": "Aucune publicité pour le moment",
+        "ar": "لا يوجد إعلان الآن"
+      },
+      "noAdBody": {
+        "en": "Nothing was available to show. Thanks for offering.",
+        "ru": "Показать было нечего. Спасибо, что предложил.",
+        "hy": "Ցուցադրելու բան չկար։ Շնորհակալություն առաջարկի համար։",
+        "sv": "Det fanns inget att visa. Tack för att du ville.",
+        "nb": "Det var ingenting å vise. Takk for at du ville.",
+        "nl": "Er was niets om te tonen. Bedankt voor het aanbod.",
+        "da": "Der var intet at vise. Tak, fordi du ville.",
+        "pl": "Nie było nic do wyświetlenia. Dziękujemy za chęć.",
+        "fr": "Rien n'était disponible. Merci d'avoir proposé.",
+        "ar": "لم يتوفر شيء لعرضه. شكرًا على مبادرتك."
       }
     }
   }
