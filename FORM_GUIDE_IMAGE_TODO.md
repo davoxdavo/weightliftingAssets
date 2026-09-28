@@ -13,7 +13,7 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-09-26 — 46 pending, 0 replaced._
+_Last generated 2026-09-29 — 54 pending, 0 replaced._
 
 ## Pending
 
@@ -28,11 +28,13 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 | [ ] | EZ-Bar Overhead Tricep Extension | [`form.arms-ez-bar-overhead-tricep-extension.png`](remote/images/exercises/form.arms-ez-bar-overhead-tricep-extension.png) | 86 KB |
 | [ ] | Incline Hammer Curl | [`form.arms-incline-hammer-curl.png`](remote/images/exercises/form.arms-incline-hammer-curl.png) | 84 KB |
 | [ ] | Machine Dip | [`form.arms-machine-dip.png`](remote/images/exercises/form.arms-machine-dip.png) | 79 KB |
+| [ ] | Machine Preacher Curl | [`form.arms-machine-preacher-curl.png`](remote/images/exercises/form.arms-machine-preacher-curl.png) | 91 KB |
 | [ ] | Single-Arm Overhead Tricep Extension | [`form.arms-single-arm-overhead-tricep-extension.png`](remote/images/exercises/form.arms-single-arm-overhead-tricep-extension.png) | 78 KB |
 | [ ] | Straight Bar Dip | [`form.arms-straight-bar-dip.png`](remote/images/exercises/form.arms-straight-bar-dip.png) | 101 KB |
 | [ ] | Back Extension Hold | [`form.back-back-extension-hold.png`](remote/images/exercises/form.back-back-extension-hold.png) | 104 KB |
 | [ ] | Behind-the-Back Shrug | [`form.back-behind-the-back-shrug.png`](remote/images/exercises/form.back-behind-the-back-shrug.png) | 86 KB |
 | [ ] | Bent-Over Dumbbell Row | [`form.back-bent-over-dumbbell-row.png`](remote/images/exercises/form.back-bent-over-dumbbell-row.png) | 78 KB |
+| [ ] | Chest-Supported T-Bar Row | [`form.back-chest-supported-t-bar-row.png`](remote/images/exercises/form.back-chest-supported-t-bar-row.png) | 92 KB |
 | [ ] | Chest-to-Bar Pull-Up | [`form.back-chest-to-bar-pull-up.png`](remote/images/exercises/form.back-chest-to-bar-pull-up.png) | 93 KB |
 | [ ] | Clean Pull | [`form.back-clean-pull.png`](remote/images/exercises/form.back-clean-pull.png) | 109 KB |
 | [ ] | Dumbbell Deadlift | [`form.back-dumbbell-deadlift.png`](remote/images/exercises/form.back-dumbbell-deadlift.png) | 99 KB |
@@ -42,6 +44,7 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 | [ ] | Jefferson Curl | [`form.back-jefferson-curl.png`](remote/images/exercises/form.back-jefferson-curl.png) | 89 KB |
 | [ ] | Kettlebell Deadlift | [`form.back-kettlebell-deadlift.png`](remote/images/exercises/form.back-kettlebell-deadlift.png) | 92 KB |
 | [ ] | Kipping Pull-Up | [`form.back-kipping-pull-up.png`](remote/images/exercises/form.back-kipping-pull-up.png) | 137 KB |
+| [ ] | Kneeling Dumbbell Row | [`form.back-kneeling-dumbbell-row.png`](remote/images/exercises/form.back-kneeling-dumbbell-row.png) | 81 KB |
 | [ ] | L-Sit Pull-Up | [`form.back-l-sit-pull-up.png`](remote/images/exercises/form.back-l-sit-pull-up.png) | 76 KB |
 | [ ] | Machine High Row | [`form.back-machine-high-row.png`](remote/images/exercises/form.back-machine-high-row.png) | 106 KB |
 | [ ] | Machine Lat Pulldown | [`form.back-machine-lat-pulldown.png`](remote/images/exercises/form.back-machine-lat-pulldown.png) | 86 KB |
@@ -51,15 +54,20 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 | [ ] | Power Shrug | [`form.back-power-shrug.png`](remote/images/exercises/form.back-power-shrug.png) | 116 KB |
 | [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 100 KB |
 | [ ] | Rope Climb | [`form.back-rope-climb.png`](remote/images/exercises/form.back-rope-climb.png) | 118 KB |
+| [ ] | Smith Machine Row | [`form.back-smith-machine-row.png`](remote/images/exercises/form.back-smith-machine-row.png) | 97 KB |
 | [ ] | Smith Machine Shrug | [`form.back-smith-machine-shrug.png`](remote/images/exercises/form.back-smith-machine-shrug.png) | 94 KB |
 | [ ] | Snatch-Grip High Pull | [`form.back-snatch-grip-high-pull.png`](remote/images/exercises/form.back-snatch-grip-high-pull.png) | 112 KB |
 | [ ] | Stability Ball Back Extension | [`form.back-stability-ball-back-extension.png`](remote/images/exercises/form.back-stability-ball-back-extension.png) | 136 KB |
 | [ ] | Superman Hold | [`form.back-superman-hold.png`](remote/images/exercises/form.back-superman-hold.png) | 50 KB |
 | [ ] | Wide-Grip Seated Cable Row | [`form.back-wide-grip-seated-cable-row.png`](remote/images/exercises/form.back-wide-grip-seated-cable-row.png) | 141 KB |
 | [ ] | Archer Push-Up | [`form.chest-archer-push-up.png`](remote/images/exercises/form.chest-archer-push-up.png) | 94 KB |
+| [ ] | Incline Cable Press | [`form.chest-incline-cable-press.png`](remote/images/exercises/form.chest-incline-cable-press.png) | 86 KB |
 | [ ] | Dumbbell Side Bend | [`form.core-dumbbell-side-bend.png`](remote/images/exercises/form.core-dumbbell-side-bend.png) | 99 KB |
+| [ ] | Feet-Elevated Side Plank | [`form.core-feet-elevated-side-plank.png`](remote/images/exercises/form.core-feet-elevated-side-plank.png) | 98 KB |
 | [ ] | Flutter Kick | [`form.core-flutter-kick.png`](remote/images/exercises/form.core-flutter-kick.png) | 95 KB |
+| [ ] | Long-Lever Plank | [`form.core-long-lever-plank.png`](remote/images/exercises/form.core-long-lever-plank.png) | 83 KB |
 | [ ] | Half Squat | [`form.legs-back-squat.png`](remote/images/exercises/form.legs-back-squat.png) | 111 KB |
+| [ ] | Band Foot Inversion | [`form.legs-band-foot-inversion.png`](remote/images/exercises/form.legs-band-foot-inversion.png) | 63 KB |
 | [ ] | Box Squat | [`form.legs-box-squat.png`](remote/images/exercises/form.legs-box-squat.png) | 108 KB |
 | [ ] | Jump Squat | [`form.legs-jump-squat.png`](remote/images/exercises/form.legs-jump-squat.png) | 101 KB |
 | [ ] | Behind-the-Neck Press | [`form.shoulders-behind-the-neck-press.png`](remote/images/exercises/form.shoulders-behind-the-neck-press.png) | 88 KB |
@@ -122,6 +130,12 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 
 > Instructional form-guide: Machine Dip. Two panels, side view of an athlete seated in a dip machine, back against the pad, hands on handles beside the hips. START: elbows bent about 90°, handles at mid-torso. FINISH: arms straight, handles pressed down. Blue straight arrow downward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
+### Machine Preacher Curl
+
+`form.arms-machine-preacher-curl.png`
+
+> Instructional form-guide: Machine Preacher Curl. Two panels, side view of an athlete seated at a selectorised preacher-curl machine, backs of both upper arms flat on the angled pad, hands on the machine's lever handles, palms up, the lever pivoting at a cam level with the elbows. START: arms nearly straight down the pad. FINISH: forearms nearly vertical, handles near the shoulders. Blue curved arrow along the handle arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
 ### Single-Arm Overhead Tricep Extension
 
 `form.arms-single-arm-overhead-tricep-extension.png`
@@ -151,6 +165,12 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 `form.back-bent-over-dumbbell-row.png`
 
 > Instructional form-guide: Bent-Over Dumbbell Row. Two panels, side view of a standing athlete hinged to about 45 degrees with a flat back, a dumbbell in each hand, no bench. START: dumbbells hanging under the shoulders, palms facing each other. FINISH: both dumbbells rowed to the sides of the waist, elbows back. Blue upward arrows beside the dumbbells. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
+### Chest-Supported T-Bar Row
+
+`form.back-chest-supported-t-bar-row.png`
+
+> Instructional form-guide: Chest-Supported T-Bar Row. Two panels, side view of an athlete standing on the foot platform of a plate-loaded T-bar row machine, chest lying on the angled pad, holding the lever handles; the lever pivots low at the back and carries weight plates at its front end. START: arms straight, shoulder blades spread. FINISH: handles rowed to the lower chest, elbows driven back, chest still on the pad. Blue arrow pointing up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Chest-to-Bar Pull-Up
 
@@ -206,6 +226,12 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 
 > Instructional form-guide: Kipping Pull-Up. Three small panels, side view of an athlete on a pull-up bar. Panel 1 ARCH: chest through the arms, legs behind. Panel 2 HOLLOW: chest back, legs in front. Panel 3 FINISH: hips snapped up, chin over the bar. Blue arrows showing the swing and the pull. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
+### Kneeling Dumbbell Row
+
+`form.back-kneeling-dumbbell-row.png`
+
+> Instructional form-guide: Kneeling Dumbbell Row. Two panels, side view of an athlete kneeling on a mat, both knees down, shins flat behind, hips sitting back, torso hinged forward about 35° above horizontal with a flat back, a dumbbell in each hand, palms facing each other. START: arms hanging straight under the shoulders. FINISH: both dumbbells rowed to the hips, elbows driven back. Blue arrow pointing up beside the dumbbells. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
 ### L-Sit Pull-Up
 
 `form.back-l-sit-pull-up.png`
@@ -260,6 +286,12 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 
 > Instructional form-guide: Rope Climb. Two panels, side view of an athlete on a vertical gym rope. PULL: hands high, knees up, rope wrapped around one shin and pinched between the feet. STAND: legs straightened on the foot lock, hands reaching higher. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
+### Smith Machine Row
+
+`form.back-smith-machine-row.png`
+
+> Instructional form-guide: Smith Machine Row. Two panels, side view of an athlete standing close to a Smith machine, hinged to about 45° with a flat back and slightly bent knees, overhand grip on the Smith bar, the vertical rail visible behind the bar. START: arms straight, bar at knee height. FINISH: bar rowed to the lower ribs, elbows driven back, torso angle unchanged. Blue arrow pointing up along the rail. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
 ### Smith Machine Shrug
 
 `form.back-smith-machine-shrug.png`
@@ -296,11 +328,23 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 
 > Instructional form-guide: Archer Push-Up. Two panels, front three-quarter view of an athlete in a very wide high plank. START: both arms straight, body in one line. FINISH: chest lowered toward the right hand with the right elbow bent, left arm straight and extended out to the side. Blue diagonal arrow from centre toward the working hand. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
+### Incline Cable Press
+
+`form.chest-incline-cable-press.png`
+
+> Instructional form-guide: Incline Cable Press. Two panels, side view of an athlete lying on an incline bench set near 30°, placed between two low cable pulleys, a D-handle in each hand. START: handles beside the chest, elbows slightly below the shoulders, cables running down to the low pulleys. FINISH: arms straight, handles above the upper chest. Blue arrow pointing up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
 ### Dumbbell Side Bend
 
 `form.core-dumbbell-side-bend.png`
 
 > Instructional form-guide: Dumbbell Side Bend. Two panels, front view of a standing athlete with one dumbbell in the right hand at the side, left hand behind the head. START: torso upright. FINISH: torso bent directly sideways toward the dumbbell, which has slid down toward the knee, hips still. Blue curved arrow along the side of the torso. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
+### Feet-Elevated Side Plank
+
+`form.core-feet-elevated-side-plank.png`
+
+> Instructional form-guide: Feet-Elevated Side Plank. Two panels stacked, front view of an athlete in a side plank, supporting forearm on the floor under the shoulder, feet stacked on a flat bench. TOP (HIPS DOWN): hips resting low toward the floor. BOTTOM (HOLD): hips lifted so the body forms one straight line from feet to head, top arm resting along the side. Blue arrow pointing up at the hips. Label the panels HIPS DOWN and HOLD. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Flutter Kick
 
@@ -308,11 +352,23 @@ _Last generated 2026-09-26 — 46 pending, 0 replaced._
 
 > Instructional form-guide: Flutter Kick. Two panels, side view of an athlete lying on the back, hands under the hips, lower back pressed to the floor, legs straight and hovering just above the floor. START: right leg higher, left leg lower. FINISH: left leg higher, right leg lower. Blue small up-and-down arrows at the feet. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
+### Long-Lever Plank
+
+`form.core-long-lever-plank.png`
+
+> Instructional form-guide: Long-Lever Plank. Two panels stacked, side view of an athlete in a forearm plank on a mat. TOP (PLANK): elbows directly under the shoulders, body a straight line from head to heels. BOTTOM (LONG LEVER): elbows walked forward in front of the head, body still a straight line, glutes squeezed. Blue arrow pointing forward at the elbows. Label the panels PLANK and LONG LEVER. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
 ### Half Squat
 
 `form.legs-back-squat.png`
 
 > Instructional form-guide: Half Squat (barbell). Two panels, side view of an athlete with a barbell resting across the upper back (high-bar), feet about shoulder-width, toes slightly out. START: standing tall, knees and hips straight. FINISH: a shallow partial squat — knees bent roughly 45 degrees, hips lowered only about a quarter to a half of the way down, thighs clearly WELL ABOVE parallel to the floor, torso close to upright. The short range of motion is the whole point of the image, so the depth difference between the two panels must be obviously small. Short blue arrow tracing the limited downward travel of the hips. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
+### Band Foot Inversion
+
+`form.legs-band-foot-inversion.png`
+
+> Instructional form-guide: Band Foot Inversion. Two panels, top-down view of both lower legs and feet of an athlete seated on the floor with legs straight, a resistance band looped around the right forefoot and anchored out to the right side. START: both feet pointing straight up, band taut. TURN IN: right sole and toes turned inward toward the midline against the band, heel and knee still. Blue curved arrow showing the foot turning in. Label the panels START and TURN IN. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Box Squat
 
