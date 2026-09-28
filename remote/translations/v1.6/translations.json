@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790578308,
+  "lastSyncedAt": 1790638048,
   "minAppVersion": "1.6",
   "strings": {
     "Misc": {
@@ -1732,6 +1732,90 @@
         "pl": "Konto",
         "fr": "Compte",
         "ar": "حساب"
+      },
+      "hub.general": {
+        "en": "General",
+        "ru": "Основные",
+        "hy": "Ընդհանուր",
+        "sv": "Allmänt",
+        "nb": "Generelt",
+        "nl": "Algemeen",
+        "da": "Generelt",
+        "pl": "Ogólne",
+        "fr": "Général",
+        "ar": "عام"
+      },
+      "hub.training": {
+        "en": "Training",
+        "ru": "Тренировки",
+        "hy": "Մարզում",
+        "sv": "Träning",
+        "nb": "Trening",
+        "nl": "Training",
+        "da": "Træning",
+        "pl": "Trening",
+        "fr": "Entraînement",
+        "ar": "التدريب"
+      },
+      "hub.health": {
+        "en": "Health & Energy",
+        "ru": "Здоровье и энергия",
+        "hy": "Առողջություն և էներգիա",
+        "sv": "Hälsa och energi",
+        "nb": "Helse og energi",
+        "nl": "Gezondheid en energie",
+        "da": "Sundhed og energi",
+        "pl": "Zdrowie i energia",
+        "fr": "Santé et énergie",
+        "ar": "الصحة والطاقة"
+      },
+      "hub.health.summary": {
+        "en": "%1$@: %2$@ · Energy estimate: %3$@",
+        "ru": "%1$@: %2$@ · Оценка энергии: %3$@",
+        "hy": "%1$@՝ %2$@ · Էներգիայի գնահատում՝ %3$@",
+        "sv": "%1$@: %2$@ · Energiuppskattning: %3$@",
+        "nb": "%1$@: %2$@ · Energianslag: %3$@",
+        "nl": "%1$@: %2$@ · Energieschatting: %3$@",
+        "da": "%1$@: %2$@ · Energiestimat: %3$@",
+        "pl": "%1$@: %2$@ · Szacunek energii: %3$@",
+        "fr": "%1$@ : %2$@ · Estimation énergétique : %3$@",
+        "ar": "%1$@: %2$@ · تقدير الطاقة: %3$@"
+      },
+      "hub.connections": {
+        "en": "Connections",
+        "ru": "Подключения",
+        "hy": "Կապեր",
+        "sv": "Anslutningar",
+        "nb": "Tilkoblinger",
+        "nl": "Verbindingen",
+        "da": "Forbindelser",
+        "pl": "Połączenia",
+        "fr": "Connexions",
+        "ar": "الاتصالات"
+      },
+      "hub.privacy": {
+        "en": "Privacy & Data",
+        "ru": "Конфиденциальность и данные",
+        "hy": "Գաղտնիություն և տվյալներ",
+        "sv": "Integritet och data",
+        "nb": "Personvern og data",
+        "nl": "Privacy en gegevens",
+        "da": "Privatliv og data",
+        "pl": "Prywatność i dane",
+        "fr": "Confidentialité et données",
+        "ar": "الخصوصية والبيانات"
+      },
+      "hub.about": {
+        "en": "About",
+        "ru": "О приложении",
+        "hy": "Հավելվածի մասին",
+        "sv": "Om",
+        "nb": "Om",
+        "nl": "Over",
+        "da": "Om",
+        "pl": "Informacje",
+        "fr": "À propos",
+        "ar": "حول"
       },
       "training.agility.footer": {
         "en": "Boost jumps, footwork and other fast-feet drills when picking exercises.",
@@ -16285,6 +16369,102 @@
         "pl": "Suggested for rehab",
         "fr": "Suggested for rehab",
         "ar": "Suggested for rehab"
+      },
+      "bandFilter.title": {
+        "en": "Band exercises",
+        "ru": "Упражнения с резинкой",
+        "hy": "Ռետինով վարժություններ",
+        "sv": "Bandövningar",
+        "nb": "Strikkøvelser",
+        "nl": "Oefeningen met band",
+        "da": "Elastikøvelser",
+        "pl": "Ćwiczenia z gumą",
+        "fr": "Exercices avec élastique",
+        "ar": "تمارين الأشرطة المطاطية"
+      },
+      "bandFilter.show": {
+        "en": "Show",
+        "ru": "Показать",
+        "hy": "Ցույց տալ",
+        "sv": "Visa",
+        "nb": "Vis",
+        "nl": "Tonen",
+        "da": "Vis",
+        "pl": "Pokaż",
+        "fr": "Afficher",
+        "ar": "إظهار"
+      },
+      "bandFilter.hide": {
+        "en": "Hide",
+        "ru": "Скрыть",
+        "hy": "Թաքցնել",
+        "sv": "Dölj",
+        "nb": "Skjul",
+        "nl": "Verbergen",
+        "da": "Skjul",
+        "pl": "Ukryj",
+        "fr": "Masquer",
+        "ar": "إخفاء"
+      },
+      "bandFilter.only": {
+        "en": "Bands only",
+        "ru": "Только резинки",
+        "hy": "Միայն ռետիններ",
+        "sv": "Endast band",
+        "nb": "Kun strikk",
+        "nl": "Alleen banden",
+        "da": "Kun elastikker",
+        "pl": "Tylko gumy",
+        "fr": "Élastiques seuls",
+        "ar": "الأشرطة فقط"
+      },
+      "bandFilter.hiddenNote": {
+        "en": "Band exercises hidden",
+        "ru": "Упражнения с резинкой скрыты",
+        "hy": "Ռետինով վարժությունները թաքցված են",
+        "sv": "Bandövningar dolda",
+        "nb": "Strikkøvelser skjult",
+        "nl": "Oefeningen met band verborgen",
+        "da": "Elastikøvelser skjult",
+        "pl": "Ćwiczenia z gumą ukryte",
+        "fr": "Exercices avec élastique masqués",
+        "ar": "تمارين الأشرطة مخفية"
+      },
+      "bandFilter.onlyNote": {
+        "en": "Band exercises only",
+        "ru": "Только упражнения с резинкой",
+        "hy": "Միայն ռետինով վարժություններ",
+        "sv": "Endast bandövningar",
+        "nb": "Kun strikkøvelser",
+        "nl": "Alleen oefeningen met band",
+        "da": "Kun elastikøvelser",
+        "pl": "Tylko ćwiczenia z gumą",
+        "fr": "Exercices avec élastique uniquement",
+        "ar": "تمارين الأشرطة فقط"
+      },
+      "bandFilter.showAll": {
+        "en": "Show all",
+        "ru": "Показать все",
+        "hy": "Ցույց տալ բոլորը",
+        "sv": "Visa alla",
+        "nb": "Vis alle",
+        "nl": "Alles tonen",
+        "da": "Vis alle",
+        "pl": "Pokaż wszystkie",
+        "fr": "Tout afficher",
+        "ar": "إظهار الكل"
+      },
+      "bandFilter.footer": {
+        "en": "Hide removes band exercises from the picker, Balanced and AI Training — search still finds them. Bands only shows nothing else in the picker.",
+        "ru": "«Скрыть» убирает упражнения с резинкой из выбора упражнений, сбалансированной тренировки и ИИ-тренировки — поиск по-прежнему их находит. «Только резинки» оставляет в выборе только их.",
+        "hy": "«Թաքցնել»-ը հեռացնում է ռետինով վարժությունները ընտրությունից, հավասարակշռված մարզումից և ԱԲ մարզումից՝ որոնումը դեռ գտնում է դրանք։ «Միայն ռետիններ»-ը ընտրությունում ուրիշ ոչինչ ցույց չի տալիս։",
+        "sv": "Dölj tar bort bandövningar från väljaren, Balanserat och AI-träning – sökningen hittar dem ändå. Endast band visar inget annat i väljaren.",
+        "nb": "Skjul fjerner strikkøvelser fra velgeren, Balansert og AI-trening – søket finner dem fortsatt. Kun strikk viser ikke noe annet i velgeren.",
+        "nl": "Verbergen haalt oefeningen met band uit de kiezer, Gebalanceerd en AI-training – zoeken vindt ze nog steeds. Alleen banden toont niets anders in de kiezer.",
+        "da": "Skjul fjerner elastikøvelser fra vælgeren, Balanceret og AI-træning – søgningen finder dem stadig. Kun elastikker viser intet andet i vælgeren.",
+        "pl": "Ukryj usuwa ćwiczenia z gumą z wyboru ćwiczeń, treningu zrównoważonego i Treningu AI – wyszukiwarka nadal je znajduje. Tylko gumy nie pokazuje w wyborze nic innego.",
+        "fr": "Masquer retire les exercices avec élastique du sélecteur, de la séance équilibrée et de l’Entraînement IA — la recherche les trouve toujours. Élastiques seuls n’affiche rien d’autre dans le sélecteur.",
+        "ar": "«إخفاء» يزيل تمارين الأشرطة من منتقي التمارين والتمرين المتوازن والتدريب بالذكاء الاصطناعي — ويظل البحث يجدها. «الأشرطة فقط» لا يعرض غيرها في المنتقي."
       }
     },
     "Pr": {
@@ -19685,6 +19865,30 @@
         "pl": "Serie: %lld",
         "fr": "%lld séries",
         "ar": "المجموعات: %lld"
+      },
+      "target.startAt": {
+        "en": "start at %@",
+        "ru": "начните с %@",
+        "hy": "սկսեք %@-ից",
+        "sv": "börja på %@",
+        "nb": "start på %@",
+        "nl": "begin met %@",
+        "da": "start med %@",
+        "pl": "zacznij od %@",
+        "fr": "commencez à %@",
+        "ar": "ابدأ بـ %@"
+      },
+      "target.chooseWeight": {
+        "en": "choose a weight you can lift for %lld reps with 2 to spare",
+        "ru": "выберите вес, который поднимете %lld раз с запасом в 2 повтора",
+        "hy": "ընտրեք քաշ, որը կբարձրացնեք %lld անգամ՝ 2 կրկնության պաշարով",
+        "sv": "välj en vikt du klarar %lld reps med 2 kvar",
+        "nb": "velg en vekt du klarer %lld rep. med 2 i reserve",
+        "nl": "kies een gewicht dat je %lld keer tilt met 2 herhalingen over",
+        "da": "vælg en vægt, du kan løfte %lld gange med 2 i overskud",
+        "pl": "wybierz ciężar, który podniesiesz %lld razy z zapasem 2 powtórzeń",
+        "fr": "choisissez une charge que vous soulevez %lld fois avec 2 rép. en réserve",
+        "ar": "اختر وزنًا يمكنك رفعه %lld مرة مع بقاء تكرارين"
       },
       "reason.nextStep": {
         "en": "One level above yours — a step up",
