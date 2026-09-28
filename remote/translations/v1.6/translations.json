@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790574197,
+  "lastSyncedAt": 1790575837,
   "minAppVersion": "1.6",
   "strings": {
     "Misc": {
@@ -19385,16 +19385,16 @@
         "ar": "لا توجد جلسات كافية بعد"
       },
       "sheet.footer": {
-        "en": "Your level says which exercises suit you now — it is not a grade. It is read from the last %lld weeks: the exercises you have made your own, your best bodyweight sets and how long you have been training.",
-        "ru": "Уровень показывает, какие упражнения вам подходят сейчас, — это не оценка. Он рассчитан по последним %lld нед.: упражнения, которые вы освоили, лучшие подходы с собственным весом и стаж тренировок.",
-        "hy": "Մակարդակը ցույց է տալիս, թե որ վարժություններն են հիմա ձեզ հարմար․ սա գնահատական չէ։ Այն հաշվարկվում է վերջին %lld շաբաթվա տվյալներով՝ ձեր յուրացրած վարժությունները, սեփական քաշով լավագույն սեթերը և մարզումների փորձը։",
-        "sv": "Nivån visar vilka övningar som passar dig nu – det är inget betyg. Den bygger på de senaste %lld veckorna: övningarna du behärskar, dina bästa set med kroppsvikt och hur länge du har tränat.",
-        "nb": "Nivået viser hvilke øvelser som passer deg nå – det er ingen karakter. Det bygger på de siste %lld ukene: øvelsene du mestrer, de beste settene dine med kroppsvekt og hvor lenge du har trent.",
-        "nl": "Je niveau laat zien welke oefeningen nu bij je passen – het is geen cijfer. Het is gebaseerd op de laatste %lld weken: de oefeningen die je beheerst, je beste sets met lichaamsgewicht en hoe lang je al traint.",
-        "da": "Niveauet viser, hvilke øvelser der passer til dig nu – det er ikke en karakter. Det bygger på de seneste %lld uger: de øvelser, du mestrer, dine bedste sæt med kropsvægt og hvor længe du har trænet.",
-        "pl": "Poziom pokazuje, które ćwiczenia pasują do ciebie teraz — to nie ocena. Jest liczony z ostatnich tygodni (%lld): ćwiczenia, które opanowałeś, najlepsze serie z masą ciała i staż treningowy.",
-        "fr": "Votre niveau indique les exercices qui vous conviennent maintenant — ce n'est pas une note. Il est calculé sur les %lld dernières semaines : les exercices que vous maîtrisez, vos meilleures séries au poids du corps et votre ancienneté d'entraînement.",
-        "ar": "يوضّح مستواك التمارين المناسبة لك الآن، وليس تقييمًا. يُحسب من آخر %lld أسبوعًا: التمارين التي أتقنتها، وأفضل مجموعاتك بوزن الجسم، ومدة تدريبك."
+        "en": "Your level says which exercises suit you now — it is not a grade. It is read from the last %lld weeks: the weights you lift for your body weight, your best bodyweight sets, the exercises you have made your own and how long you have been training.",
+        "ru": "Уровень показывает, какие упражнения вам подходят сейчас, — это не оценка. Он рассчитан по последним %lld нед.: рабочие веса относительно веса тела, лучшие подходы с собственным весом, освоенные упражнения и стаж тренировок.",
+        "hy": "Մակարդակը ցույց է տալիս, թե որ վարժություններն են հիմա ձեզ համապատասխանում, դա գնահատական չէ։ Այն հաշվարկվում է վերջին %lld շաբաթներից՝ մարմնի քաշի համեմատ բարձրացրած քաշերը, սեփական քաշով լավագույն սեթերը, յուրացված վարժությունները և մարզումների ստաժը։",
+        "sv": "Din nivå visar vilka övningar som passar dig nu – det är inget betyg. Den läses från de senaste %lld veckorna: vikterna du lyfter i förhållande till kroppsvikten, dina bästa kroppsviktsset, övningarna du behärskar och hur länge du har tränat.",
+        "nb": "Nivået ditt viser hvilke øvelser som passer deg nå – det er ingen karakter. Det leses fra de siste %lld ukene: vektene du løfter i forhold til kroppsvekten, de beste kroppsvektsettene dine, øvelsene du mestrer og hvor lenge du har trent.",
+        "nl": "Je niveau zegt welke oefeningen nu bij je passen – het is geen cijfer. Het wordt gelezen uit de laatste %lld weken: de gewichten die je tilt ten opzichte van je lichaamsgewicht, je beste sets met eigen gewicht, de oefeningen die je beheerst en hoe lang je traint.",
+        "da": "Dit niveau viser, hvilke øvelser der passer til dig nu – det er ikke en karakter. Det aflæses fra de seneste %lld uger: de vægte, du løfter i forhold til kropsvægten, dine bedste kropsvægtsæt, de øvelser, du mestrer, og hvor længe du har trænet.",
+        "pl": "Poziom mówi, które ćwiczenia pasują do Ciebie teraz – to nie ocena. Liczony jest z ostatnich %lld tyg.: ciężary względem masy ciała, najlepsze serie z masą ciała, opanowane ćwiczenia i staż treningowy.",
+        "fr": "Votre niveau indique quels exercices vous conviennent maintenant — ce n'est pas une note. Il est lu sur les %lld dernières semaines : les charges soulevées rapportées au poids du corps, vos meilleures séries au poids du corps, les exercices maîtrisés et votre ancienneté.",
+        "ar": "يوضح مستواك التمارين المناسبة لك الآن — وليس تقييمًا. يُحسب من آخر %lld أسبوعًا: الأوزان التي ترفعها مقارنةً بوزن جسمك، وأفضل مجموعاتك بوزن الجسم، والتمارين التي أتقنتها، ومدة تدريبك."
       },
       "evidence.exercise": {
         "en": "%1$@ · %2$lld sessions",
@@ -19479,6 +19479,66 @@
         "pl": "Jeśli poziom jest błędny, wybierz własny. Planer będzie go używał, dopóki nie wrócisz do opcji Automatycznie.",
         "fr": "Si le niveau vous semble faux, choisissez le vôtre. Le planificateur l'utilise jusqu'à ce que vous repassiez en Automatique.",
         "ar": "إذا بدا المستوى غير صحيح، فاختر مستواك. سيستخدمه المخطِّط حتى تعود إلى «تلقائي»."
+      },
+      "evidence.load": {
+        "en": "%1$@ · est. 1RM %2$@",
+        "ru": "%1$@ · расч. 1ПМ %2$@",
+        "hy": "%1$@ · գնահատված 1ԱԿ %2$@",
+        "sv": "%1$@ · beräknat 1RM %2$@",
+        "nb": "%1$@ · beregnet 1RM %2$@",
+        "nl": "%1$@ · geschat 1RM %2$@",
+        "da": "%1$@ · anslået 1RM %2$@",
+        "pl": "%1$@ · szac. 1RM %2$@",
+        "fr": "%1$@ · 1RM estimé %2$@",
+        "ar": "%1$@ · 1RM تقديري %2$@"
+      },
+      "evidence.loadRatio": {
+        "en": "%1$@ · est. 1RM %2$@ · %3$@× body weight",
+        "ru": "%1$@ · расч. 1ПМ %2$@ · %3$@× веса тела",
+        "hy": "%1$@ · գնահատված 1ԱԿ %2$@ · մարմնի քաշի %3$@×",
+        "sv": "%1$@ · beräknat 1RM %2$@ · %3$@× kroppsvikten",
+        "nb": "%1$@ · beregnet 1RM %2$@ · %3$@× kroppsvekten",
+        "nl": "%1$@ · geschat 1RM %2$@ · %3$@× lichaamsgewicht",
+        "da": "%1$@ · anslået 1RM %2$@ · %3$@× kropsvægt",
+        "pl": "%1$@ · szac. 1RM %2$@ · %3$@× masy ciała",
+        "fr": "%1$@ · 1RM estimé %2$@ · %3$@× le poids du corps",
+        "ar": "%1$@ · 1RM تقديري %2$@ · %3$@× وزن الجسم"
+      },
+      "body.header": {
+        "en": "Body weight",
+        "ru": "Вес тела",
+        "hy": "Մարմնի քաշ",
+        "sv": "Kroppsvikt",
+        "nb": "Kroppsvekt",
+        "nl": "Lichaamsgewicht",
+        "da": "Kropsvægt",
+        "pl": "Masa ciała",
+        "fr": "Poids du corps",
+        "ar": "وزن الجسم"
+      },
+      "body.footer": {
+        "en": "Your lifts are compared with your body weight. Kept on this device and used only for your level. Without it, 75 kg is assumed.",
+        "ru": "Ваши веса сравниваются с весом тела. Хранится только на этом устройстве и используется только для уровня. Без него берётся 75 кг.",
+        "hy": "Ձեր բարձրացրած քաշերը համեմատվում են մարմնի քաշի հետ։ Պահվում է միայն այս սարքում և օգտագործվում միայն մակարդակի համար։ Առանց դրա՝ ընդունվում է 75 կգ։",
+        "sv": "Dina lyft jämförs med din kroppsvikt. Sparas bara på den här enheten och används bara för din nivå. Utan den antas 75 kg.",
+        "nb": "Løftene dine sammenlignes med kroppsvekten din. Lagres bare på denne enheten og brukes bare til nivået ditt. Uten den antas 75 kg.",
+        "nl": "Je lifts worden vergeleken met je lichaamsgewicht. Alleen op dit apparaat bewaard en alleen voor je niveau gebruikt. Zonder wordt 75 kg aangenomen.",
+        "da": "Dine løft sammenlignes med din kropsvægt. Gemmes kun på denne enhed og bruges kun til dit niveau. Uden den antages 75 kg.",
+        "pl": "Twoje ciężary są porównywane z masą ciała. Przechowywana tylko na tym urządzeniu i używana tylko do poziomu. Bez niej przyjmujemy 75 kg.",
+        "fr": "Vos charges sont comparées à votre poids du corps. Conservé sur cet appareil et utilisé uniquement pour votre niveau. Sans lui, 75 kg sont supposés.",
+        "ar": "تُقارن أوزانك بوزن جسمك. يُحفظ على هذا الجهاز فقط ويُستخدم لمستواك فقط. بدونه يُفترض 75 كغ."
+      },
+      "body.fromProfile": {
+        "en": "From your body profile (Account → Energy estimate). Your lifts are compared with it.",
+        "ru": "Из вашего профиля тела (Аккаунт → Оценка энергии). Ваши веса сравниваются с ним.",
+        "hy": "Ձեր մարմնի պրոֆիլից (Հաշիվ → Էներգիայի գնահատում)։ Ձեր քաշերը համեմատվում են դրա հետ։",
+        "sv": "Från din kroppsprofil (Konto → Energiuppskattning). Dina lyft jämförs med den.",
+        "nb": "Fra kroppsprofilen din (Konto → Energianslag). Løftene dine sammenlignes med den.",
+        "nl": "Uit je lichaamsprofiel (Account → Energieschatting). Je lifts worden ermee vergeleken.",
+        "da": "Fra din kropsprofil (Konto → Energiestimat). Dine løft sammenlignes med den.",
+        "pl": "Z profilu ciała (Konto → Szacunek energii). Twoje ciężary są z nim porównywane.",
+        "fr": "Depuis votre profil corporel (Compte → Estimation énergétique). Vos charges y sont comparées.",
+        "ar": "من ملفك الجسدي (الحساب ← تقدير الطاقة). تُقارن أوزانك به."
       }
     },
     "Planner": {

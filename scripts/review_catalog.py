@@ -320,7 +320,12 @@ def check_execution_rank(world: dict, report: Report) -> None:
 TRAINING_LEVELS = (
     "elementary", "beginner", "pre_intermediate", "intermediate", "upper_intermediate", "advanced",
 )
-LEVEL_STANDARD_METRICS = {"repsInSet": {"reps"}, "holdSec": {"duration", "weight_duration"}}
+LEVEL_STANDARD_METRICS = {
+    "repsInSet": {"reps"},
+    "holdSec": {"duration", "weight_duration"},
+    # Best Epley e1RM ÷ body weight; `femaleCuts` optional beside the male `cuts`.
+    "e1rmBodyweight": {"weight_reps"},
+}
 
 
 def check_levels(world: dict, report: Report) -> None:
@@ -371,6 +376,19 @@ def check_levels(world: dict, report: Report) -> None:
             report.add(
                 "catalog", "L4", "error",
                 f"levelStandards cuts={cuts!r} must be 5 positive ascending numbers", exercise_id,
+            )
+        female = standard.get("femaleCuts")
+        if female is not None and (
+            metric != "e1rmBodyweight"
+            or not isinstance(female, list)
+            or len(female) != 5
+            or not all(isinstance(c, (int, float)) and not isinstance(c, bool) for c in female)
+            or female[0] <= 0
+            or any(b <= a for a, b in zip(female, female[1:]))
+        ):
+            report.add(
+                "catalog", "L4", "error",
+                f"levelStandards femaleCuts={female!r} must be 5 positive ascending numbers on e1rmBodyweight", exercise_id,
             )
 
 

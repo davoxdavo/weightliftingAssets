@@ -95,8 +95,8 @@
   },
   "catalog": {
     "exercises": {
-      "version": 39,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v39/gym_exercises.json"
+      "version": 40,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v40/gym_exercises.json"
     },
     "supersets": {
       "version": 6,
@@ -214,7 +214,7 @@
     }
   },
   "translations": {
-    "lastSyncedAt": 1790574197,
+    "lastSyncedAt": 1790575837,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json",
     "versions": [
       {
@@ -224,7 +224,7 @@
       },
       {
         "minAppVersion": "1.6",
-        "lastSyncedAt": 1790574197,
+        "lastSyncedAt": 1790575837,
         "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/v1.6/translations.json"
       }
     ]
