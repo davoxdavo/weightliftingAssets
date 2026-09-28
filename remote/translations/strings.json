@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.6",
-  "lastSyncedAt": 1790575837,
+  "lastSyncedAt": 1790578308,
   "strings": {
     "": {
       "en": "",
@@ -20541,16 +20541,16 @@
       "ar": "تلقائي"
     },
     "trainingLevel.adjust.footer": {
-      "en": "If the level reads wrong, choose your own. The planner uses it until you switch back to Automatic.",
-      "ru": "Если уровень определён неверно, выберите свой. Планировщик будет использовать его, пока вы не вернёте «Автоматически».",
-      "hy": "Եթե մակարդակը սխալ է որոշված, ընտրեք ձերը։ Պլանավորողը այն կօգտագործի, մինչև չվերադառնաք «Ավտոմատ» տարբերակին։",
-      "sv": "Om nivån verkar fel kan du välja din egen. Planeraren använder den tills du byter tillbaka till Automatiskt.",
-      "nb": "Hvis nivået virker feil, kan du velge ditt eget. Planleggeren bruker det til du bytter tilbake til Automatisk.",
-      "nl": "Klopt het niveau niet, kies dan je eigen. De planner gebruikt het tot je teruggaat naar Automatisch.",
-      "da": "Hvis niveauet virker forkert, kan du vælge dit eget. Planlæggeren bruger det, indtil du skifter tilbage til Automatisk.",
-      "pl": "Jeśli poziom jest błędny, wybierz własny. Planer będzie go używał, dopóki nie wrócisz do opcji Automatycznie.",
-      "fr": "Si le niveau vous semble faux, choisissez le vôtre. Le planificateur l'utilise jusqu'à ce que vous repassiez en Automatique.",
-      "ar": "إذا بدا المستوى غير صحيح، فاختر مستواك. سيستخدمه المخطِّط حتى تعود إلى «تلقائي»."
+      "en": "If the level reads wrong, choose your own. AI Training uses it until you switch back to Automatic.",
+      "ru": "Если уровень определён неверно, выберите свой. ИИ-тренировка использует его, пока вы не вернёте «Автоматически».",
+      "hy": "Եթե մակարդակը սխալ է, ընտրեք ձերը։ ԱԲ մարզումը կօգտագործի այն, մինչև չվերադառնաք «Ավտոմատ»-ին։",
+      "sv": "Om nivån verkar fel, välj din egen. AI-träning använder den tills du byter tillbaka till Automatiskt.",
+      "nb": "Hvis nivået virker feil, velg ditt eget. AI-trening bruker det til du bytter tilbake til Automatisk.",
+      "nl": "Klopt het niveau niet, kies dan je eigen. AI-training gebruikt het tot je teruggaat naar Automatisch.",
+      "da": "Hvis niveauet ser forkert ud, så vælg dit eget. AI-træning bruger det, indtil du skifter tilbage til Automatisk.",
+      "pl": "Jeśli poziom jest błędny, wybierz własny. Trening AI używa go, dopóki nie wrócisz do trybu Automatycznie.",
+      "fr": "Si le niveau semble faux, choisissez le vôtre. L'Entraînement IA l'utilise jusqu'à ce que vous repassiez en Automatique.",
+      "ar": "إذا بدا المستوى خاطئًا، فاختر مستواك. يستخدمه التدريب بالذكاء الاصطناعي حتى تعود إلى الوضع التلقائي."
     },
     "trainingLevel.evidence.load": {
       "en": "%1$@ · est. 1RM %2$@",
@@ -20613,16 +20613,16 @@
       "ar": "من ملفك الجسدي (الحساب ← تقدير الطاقة). تُقارن أوزانك به."
     },
     "planner.title": {
-      "en": "Plan by Muscle",
-      "ru": "План по мышцам",
-      "hy": "Պլան ըստ մկանների",
-      "sv": "Plan efter muskel",
-      "nb": "Plan etter muskel",
-      "nl": "Plan per spier",
-      "da": "Plan efter muskel",
-      "pl": "Plan według mięśni",
-      "fr": "Plan par muscle",
-      "ar": "خطة حسب العضلة"
+      "en": "AI Training",
+      "ru": "ИИ-тренировка",
+      "hy": "ԱԲ մարզում",
+      "sv": "AI-träning",
+      "nb": "AI-trening",
+      "nl": "AI-training",
+      "da": "AI-træning",
+      "pl": "Trening AI",
+      "fr": "Entraînement IA",
+      "ar": "تدريب بالذكاء الاصطناعي"
     },
     "planner.subtitle": {
       "en": "Pick the muscles you want to train. The plan suits your level and what you have done lately.",
@@ -20649,16 +20649,16 @@
       "ar": "العضلات المراد تدريبها"
     },
     "planner.muscles.footer": {
-      "en": "Tap a group name to pick all its muscles. Choose up to 6.",
-      "ru": "Нажмите на название группы, чтобы выбрать все её мышцы. Можно выбрать до 6.",
-      "hy": "Հպեք խմբի անվանը՝ դրա բոլոր մկաններն ընտրելու համար։ Ընտրեք մինչև 6։",
-      "sv": "Tryck på ett gruppnamn för att välja alla dess muskler. Välj upp till 6.",
-      "nb": "Trykk på et gruppenavn for å velge alle musklene i den. Velg opptil 6.",
-      "nl": "Tik op een groepsnaam om al haar spieren te kiezen. Kies er maximaal 6.",
-      "da": "Tryk på et gruppenavn for at vælge alle dets muskler. Vælg op til 6.",
-      "pl": "Stuknij nazwę grupy, aby wybrać wszystkie jej mięśnie. Wybierz maksymalnie 6.",
-      "fr": "Touchez le nom d'un groupe pour en choisir tous les muscles. Jusqu'à 6.",
-      "ar": "اضغط على اسم المجموعة لاختيار جميع عضلاتها. اختر حتى 6."
+      "en": "Tap a group to open it, then tick the muscles you want. Up to 6.",
+      "ru": "Нажмите на группу, чтобы открыть её, и отметьте нужные мышцы. До 6.",
+      "hy": "Հպեք խմբին՝ այն բացելու համար, ապա նշեք ցանկալի մկանները։ Մինչև 6։",
+      "sv": "Tryck på en grupp för att öppna den och bocka sedan för musklerna du vill träna. Upp till 6.",
+      "nb": "Trykk på en gruppe for å åpne den, og huk av musklene du vil trene. Opptil 6.",
+      "nl": "Tik op een groep om hem te openen en vink de spieren aan die je wilt. Maximaal 6.",
+      "da": "Tryk på en gruppe for at åbne den, og sæt flueben ved de muskler, du vil træne. Op til 6.",
+      "pl": "Stuknij grupę, aby ją otworzyć, i zaznacz wybrane mięśnie. Maksymalnie 6.",
+      "fr": "Touchez un groupe pour l'ouvrir, puis cochez les muscles voulus. Jusqu'à 6.",
+      "ar": "اضغط على مجموعة لفتحها، ثم حدّد العضلات التي تريدها. حتى 6."
     },
     "planner.levelLine": {
       "en": "Planned for your level: %@",
@@ -20842,16 +20842,16 @@
       "ar": "يُفتح بعد %lld أسابيع أخرى من السلسلة"
     },
     "planner.unlock.title": {
-      "en": "Plan by Muscle unlocked",
-      "ru": "План по мышцам открыт",
-      "hy": "«Պլան ըստ մկանների»-ն բացված է",
-      "sv": "Plan efter muskel upplåst",
-      "nb": "Plan etter muskel er låst opp",
-      "nl": "Plan per spier ontgrendeld",
-      "da": "Plan efter muskel er låst op",
-      "pl": "Plan według mięśni odblokowany",
-      "fr": "Plan par muscle débloqué",
-      "ar": "تم فتح «خطة حسب العضلة»"
+      "en": "AI Training unlocked",
+      "ru": "ИИ-тренировка открыта",
+      "hy": "ԱԲ մարզումը բացված է",
+      "sv": "AI-träning upplåst",
+      "nb": "AI-trening låst opp",
+      "nl": "AI-training ontgrendeld",
+      "da": "AI-træning låst op",
+      "pl": "Trening AI odblokowany",
+      "fr": "Entraînement IA débloqué",
+      "ar": "تم فتح التدريب بالذكاء الاصطناعي"
     },
     "planner.unlock.body": {
       "en": "%lld weeks in a row. Pick the muscles you want to train and get a plan that suits your level.",
