@@ -317,6 +317,63 @@ def check_execution_rank(world: dict, report: Report) -> None:
             )
 
 
+TRAINING_LEVELS = (
+    "elementary", "beginner", "pre_intermediate", "intermediate", "upper_intermediate", "advanced",
+)
+LEVEL_STANDARD_METRICS = {"repsInSet": {"reps"}, "holdSec": {"duration", "weight_duration"}}
+
+
+def check_levels(world: dict, report: Report) -> None:
+    """Training levels (catalog v40+, Training Planner): `levels` and `levelStandards`.
+
+    Both clients parse these per row and drop a malformed row rather than the file, so a bad
+    value never blanks the catalog — it silently takes that exercise out of the planner and out
+    of the user's level evidence instead. This is the only place that notices.
+    """
+    catalog_version = world["catalog"].get("version") or 0
+    for exercise_id, row in world["exercises"].items():
+        levels = row.get("levels")
+        if levels is None:
+            if catalog_version >= 40:
+                report.add("catalog", "L3", "error", "no `levels` on a v40+ row", exercise_id)
+            continue
+        if not isinstance(levels, list) or not levels:
+            report.add("catalog", "L3", "error", f"levels={levels!r} is not a non-empty list", exercise_id)
+            continue
+        unknown = [level for level in levels if level not in TRAINING_LEVELS]
+        if unknown:
+            report.add("catalog", "L1", "error", f"unknown level id(s) {unknown}", exercise_id)
+            continue
+        indices = [TRAINING_LEVELS.index(level) for level in levels]
+        if indices != list(range(indices[0], indices[0] + len(indices))):
+            report.add(
+                "catalog", "L2", "error",
+                f"levels {levels} are not one contiguous ascending run", exercise_id,
+            )
+
+        standard = row.get("levelStandards")
+        if standard is None:
+            continue
+        metric = standard.get("metric") if isinstance(standard, dict) else None
+        cuts = standard.get("cuts") if isinstance(standard, dict) else None
+        if metric not in LEVEL_STANDARD_METRICS:
+            report.add("catalog", "L4", "error", f"levelStandards metric={metric!r} unknown", exercise_id)
+            continue
+        if row.get("loggingType") not in LEVEL_STANDARD_METRICS[metric]:
+            report.add(
+                "catalog", "L4", "error",
+                f"levelStandards metric {metric} on loggingType={row.get('loggingType')!r}", exercise_id,
+            )
+        numeric = isinstance(cuts, list) and all(
+            isinstance(c, (int, float)) and not isinstance(c, bool) for c in cuts
+        )
+        if not numeric or len(cuts) != 5 or cuts[0] <= 0 or any(b <= a for a, b in zip(cuts, cuts[1:])):
+            report.add(
+                "catalog", "L4", "error",
+                f"levelStandards cuts={cuts!r} must be 5 positive ascending numbers", exercise_id,
+            )
+
+
 def check_images(world: dict, report: Report) -> None:
     if not IMAGES_DIR.is_dir():
         report.add("images", "M0", "error", f"images directory missing: {IMAGES_DIR}")
@@ -694,6 +751,10 @@ def main() -> None:
         help="Print the per-locale translation coverage table instead of every issue",
     )
     parser.add_argument(
+        "--catalog", type=Path,
+        help="Review this catalog file instead of the one the manifest points at (pre-publish)",
+    )
+    parser.add_argument(
         "--fail-on",
         choices=("error", "warn", "never"),
         default="error",
@@ -703,12 +764,17 @@ def main() -> None:
 
     areas = tuple(args.only) if args.only else AREAS
     world = load_world()
+    if args.catalog:
+        world["catalog"] = load_json(args.catalog)
+        world["catalog_path"] = args.catalog
+        world["exercises"] = {e["id"]: e for e in world["catalog"]["exercises"]}
     report = Report()
 
     if "catalog" in areas:
         check_catalog(world, report)
         check_disciplines(world, report)
         check_execution_rank(world, report)
+        check_levels(world, report)
     if "images" in areas:
         check_images(world, report)
     if "localizations" in areas:
