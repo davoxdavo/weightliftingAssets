@@ -269,8 +269,8 @@
   },
   "trainingPlanner": {
     "isEnabled": true,
-    "requiredStreakWeeks": 3,
-    "lowFrequencyStreakWeeks": 4,
+    "requiredStreakWeeks": 0,
+    "lowFrequencyStreakWeeks": 0,
     "lowFrequencyBelowDays": 3,
     "levelWindowWeeks": 26,
     "minSessionsForLevel": 6,
