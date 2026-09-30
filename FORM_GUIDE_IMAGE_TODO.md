@@ -13,13 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-09-30 — 42 pending, 12 replaced._
+_Last generated 2026-09-30 — 41 pending, 13 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Back Extension Hold | [`form.back-back-extension-hold.png`](remote/images/exercises/form.back-back-extension-hold.png) | 104 KB |
 | [ ] | Behind-the-Back Shrug | [`form.back-behind-the-back-shrug.png`](remote/images/exercises/form.back-behind-the-back-shrug.png) | 86 KB |
 | [ ] | Bent-Over Dumbbell Row | [`form.back-bent-over-dumbbell-row.png`](remote/images/exercises/form.back-bent-over-dumbbell-row.png) | 78 KB |
 | [ ] | Chest-Supported T-Bar Row | [`form.back-chest-supported-t-bar-row.png`](remote/images/exercises/form.back-chest-supported-t-bar-row.png) | 92 KB |
@@ -63,12 +62,6 @@ _Last generated 2026-09-30 — 42 pending, 12 replaced._
 | [ ] | Smith Machine Shoulder Press | [`form.shoulders-smith-machine-shoulder-press.png`](remote/images/exercises/form.shoulders-smith-machine-shoulder-press.png) | 83 KB |
 
 ## Prompts
-
-### Back Extension Hold
-
-`form.back-back-extension-hold.png`
-
-> Instructional form-guide: Back Extension Hold. Single panel, side view of an athlete on a 45-degree back-extension bench, ankles secured, arms crossed over the chest, body held in one straight line from head to heels. Small blue stopwatch icon and a blue dashed straight line along the body showing the alignment. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Behind-the-Back Shrug
 
@@ -330,3 +323,4 @@ _Last generated 2026-09-30 — 42 pending, 12 replaced._
 - [x] Machine Preacher Curl — `form.arms-machine-preacher-curl.png`
 - [x] Single-Arm Overhead Tricep Extension — `form.arms-single-arm-overhead-tricep-extension.png`
 - [x] Straight Bar Dip — `form.arms-straight-bar-dip.png`
+- [x] Back Extension Hold — `form.back-back-extension-hold.png`
