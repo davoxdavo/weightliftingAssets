@@ -356,6 +356,18 @@
       "fr": "Connectez-vous à nouveau avec Apple ou Google pour supprimer votre compte.",
       "ar": "قم بتسجيل الدخول مرة أخرى باستخدام Apple أو Google لحذف حسابك."
     },
+    "account.delete.reauthMessageAndroid": {
+      "en": "Sign in again with Google to delete your account.",
+      "ru": "Войдите ещё раз через Google, чтобы удалить аккаунт.",
+      "hy": "Նորից մուտք գործեք Google-ի միջոցով՝ ձեր հաշիվը ջնջելու համար։",
+      "sv": "Logga in igen med Google för att radera ditt konto.",
+      "nb": "Logg på igjen med Google for å slette kontoen din.",
+      "nl": "Log opnieuw in met Google om je account te verwijderen.",
+      "da": "Log ind igen med Google for at slette din konto.",
+      "pl": "Zaloguj się ponownie przez Google, aby usunąć swoje konto.",
+      "fr": "Reconnectez-vous avec Google pour supprimer votre compte.",
+      "ar": "سجّل الدخول مرة أخرى باستخدام Google لحذف حسابك."
+    },
     "account.delete.reauthTitle": {
       "en": "Confirm it’s you",
       "ru": "Подтвердите, что это вы",
@@ -463,6 +475,18 @@
       "pl": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now.",
       "fr": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now.",
       "ar": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now."
+    },
+    "account.disclaimerAndroid": {
+      "en": "Signing in with Google protects your account identity and syncs your finished workouts to the cloud.",
+      "ru": "Вход через Google защищает ваш аккаунт и синхронизирует завершённые тренировки с облаком.",
+      "hy": "Google-ով մուտք գործելը պաշտպանում է ձեր հաշիվը և համաժամացնում ավարտված մարզումները ամպի հետ։",
+      "sv": "Inloggning med Google skyddar din kontoidentitet och synkar dina avslutade träningspass till molnet.",
+      "nb": "Innlogging med Google beskytter kontoidentiteten din og synkroniserer fullførte treningsøkter til skyen.",
+      "nl": "Inloggen met Google beschermt je accountidentiteit en synchroniseert je afgeronde trainingen met de cloud.",
+      "da": "Når du logger ind med Google, beskyttes din kontoidentitet, og dine afsluttede træninger synkroniseres til skyen.",
+      "pl": "Logowanie przez Google chroni tożsamość konta i synchronizuje ukończone treningi z chmurą.",
+      "fr": "La connexion avec Google protège l’identité de votre compte et synchronise vos entraînements terminés avec le cloud.",
+      "ar": "يحمي تسجيل الدخول باستخدام Google هوية حسابك ويزامن تمارينك المكتملة مع السحابة."
     },
     "account.displayName.footer": {
       "en": "Shown to friends when you use Friends & Sharing.",
@@ -655,6 +679,18 @@
       "pl": "Synchronizuj ukończone treningi z Apple Health — tylko czas treningu i opcjonalnie dystans, nigdy kalorie.",
       "fr": "Synchronisez les entraînements terminés avec Apple Health — durée d'entraînement et distance en option seulement, jamais les calories.",
       "ar": "مزامنة التمارين المكتملة مع Apple Health — مدة التمرين والمسافة الاختيارية فقط، ولا يتم أبدًا مزامنة السعرات الحرارية."
+    },
+    "account.healthConnect.footer": {
+      "en": "Sync finished workouts to Health Connect — workout time and optional distance; energy only when the energy estimate is on.",
+      "ru": "Отправлять завершённые тренировки в Health Connect — время тренировки и, по желанию, дистанцию; энергию — только при включённой оценке энергии.",
+      "hy": "Ավարտված մարզումներն ուղարկել Health Connect՝ մարզման ժամանակը և ըստ ցանկության հեռավորությունը. էներգիան՝ միայն էներգիայի գնահատումը միացված լինելու դեպքում։",
+      "sv": "Synkronisera avslutade träningspass till Health Connect – träningstid och valfri sträcka; energi bara när energiuppskattningen är på.",
+      "nb": "Synkroniser fullførte treningsøkter til Health Connect – treningstid og valgfri distanse; energi bare når energianslaget er på.",
+      "nl": "Synchroniseer voltooide trainingen met Health Connect — trainingstijd en optioneel afstand; energie alleen als de energieschatting aanstaat.",
+      "da": "Synkroniser afsluttede træningspas til Health Connect – træningstid og valgfri distance; energi kun, når energiestimatet er slået til.",
+      "pl": "Synchronizuj ukończone treningi z Health Connect — czas treningu i opcjonalnie dystans; energię tylko przy włączonej szacowanej energii.",
+      "fr": "Synchronisez les entraînements terminés avec Santé Connect — durée d’entraînement et distance en option ; l’énergie seulement si l’estimation d’énergie est activée.",
+      "ar": "مزامنة التمارين المكتملة مع Health Connect — مدة التمرين والمسافة الاختيارية، والطاقة فقط عند تفعيل تقدير الطاقة."
     },
     "account.healthKit.section": {
       "en": "Health",
@@ -1015,6 +1051,18 @@
       "pl": "Dodaj Apple i Google, aby logować się którymś na innym urządzeniu. Metodę możesz usunąć tylko gdy obie są połączone — zostaw co najmniej jedną albo usuń konto.",
       "fr": "Ajoutez Apple et Google pour vous connecter avec l’un ou l’autre sur un autre appareil. Vous ne pouvez retirer une méthode que si les deux sont liées — gardez-en au moins une, ou supprimez le compte.",
       "ar": "أضف Apple وGoogle لتسجيل الدخول بأي منهما على جهاز آخر. يمكنك إزالة طريقة فقط عندما يكون كلاهما متصلين — أبقِ واحدة واحدة على الأقل أو احذف الحساب."
+    },
+    "account.providers.footerAndroid": {
+      "en": "Sign in with Google on another device to reach this account. Your only sign-in method can’t be removed — use Delete account instead.",
+      "ru": "Войдите через Google на другом устройстве, чтобы открыть этот аккаунт. Единственный способ входа удалить нельзя — вместо этого удалите аккаунт.",
+      "hy": "Մուտք գործեք Google-ով մեկ այլ սարքում՝ այս հաշվին հասնելու համար։ Մուտքի միակ եղանակը հնարավոր չէ հեռացնել. փոխարենը ջնջեք հաշիվը։",
+      "sv": "Logga in med Google på en annan enhet för att nå det här kontot. Din enda inloggningsmetod kan inte tas bort — radera kontot i stället.",
+      "nb": "Logg inn med Google på en annen enhet for å nå denne kontoen. Den eneste innloggingsmetoden din kan ikke fjernes — slett kontoen i stedet.",
+      "nl": "Log op een ander apparaat in met Google om bij dit account te komen. Je enige inlogmethode kan niet worden verwijderd — verwijder in plaats daarvan je account.",
+      "da": "Log ind med Google på en anden enhed for at få adgang til denne konto. Din eneste loginmetode kan ikke fjernes — slet kontoen i stedet.",
+      "pl": "Zaloguj się przez Google na innym urządzeniu, aby dostać się do tego konta. Jedynej metody logowania nie można usunąć — zamiast tego usuń konto.",
+      "fr": "Connectez-vous avec Google sur un autre appareil pour accéder à ce compte. Votre seule méthode de connexion ne peut pas être retirée — supprimez plutôt le compte.",
+      "ar": "سجّل الدخول باستخدام Google على جهاز آخر للوصول إلى هذا الحساب. لا يمكن إزالة طريقة تسجيل الدخول الوحيدة — احذف الحساب بدلاً من ذلك."
     },
     "account.providers.section": {
       "en": "Connected accounts",
@@ -5513,6 +5561,18 @@
       "fr": "Depuis Apple Santé",
       "ar": "من Apple Health"
     },
+    "heartRate.live.sourceHealthConnect": {
+      "en": "From Health Connect",
+      "ru": "Из Health Connect",
+      "hy": "Health Connect-ից",
+      "sv": "Från Health Connect",
+      "nb": "Fra Health Connect",
+      "nl": "Uit Health Connect",
+      "da": "Fra Health Connect",
+      "pl": "Z Health Connect",
+      "fr": "Depuis Santé Connect",
+      "ar": "من Health Connect"
+    },
     "heartRate.live.empty": {
       "en": "No heart-rate readings for this workout yet.",
       "ru": "Для этой тренировки пока нет данных о пульсе.",
@@ -5536,6 +5596,18 @@
       "pl": "Odczyty na żywo pochodzą z Gym Logbook na Apple Watch. Odczyty z innych urządzeń pojawią się po synchronizacji z Apple Health.",
       "fr": "Les mesures en direct viennent de Gym Logbook sur votre Apple Watch. Celles des autres appareils apparaissent une fois synchronisées avec Apple Santé.",
       "ar": "تأتي القراءات المباشرة من Gym Logbook على Apple Watch. وتظهر قراءات الأجهزة الأخرى بعد مزامنتها مع Apple Health."
+    },
+    "heartRate.live.footerHealthConnect": {
+      "en": "Readings from other devices appear once they sync to Health Connect.",
+      "ru": "Показания других устройств появятся после синхронизации с Health Connect.",
+      "hy": "Այլ սարքերի ցուցմունքները կհայտնվեն Health Connect-ի հետ համաժամեցվելուց հետո։",
+      "sv": "Värden från andra enheter visas när de har synkats till Health Connect.",
+      "nb": "Målinger fra andre enheter vises når de er synkronisert til Health Connect.",
+      "nl": "Metingen van andere apparaten verschijnen zodra ze met Health Connect zijn gesynchroniseerd.",
+      "da": "Målinger fra andre enheder vises, når de er synkroniseret til Health Connect.",
+      "pl": "Odczyty z innych urządzeń pojawią się po synchronizacji z Health Connect.",
+      "fr": "Les mesures des autres appareils apparaissent une fois synchronisées avec Santé Connect.",
+      "ar": "تظهر قراءات الأجهزة الأخرى بعد مزامنتها مع Health Connect."
     },
     "heartRate.live.hint": {
       "en": "Shows this workout's heart rate",
@@ -11026,6 +11098,18 @@
       "fr": "Mise à jour dans l'App Store",
       "ar": "التحديث في متجر التطبيقات"
     },
+    "gate.forceUpdate.actionPlay": {
+      "en": "Update in Google Play",
+      "ru": "Обновить в Google Play",
+      "hy": "Թարմացնել Google Play-ում",
+      "sv": "Uppdatera i Google Play",
+      "nb": "Oppdater i Google Play",
+      "nl": "Bijwerken in Google Play",
+      "da": "Opdater i Google Play",
+      "pl": "Zaktualizuj w Google Play",
+      "fr": "Mettre à jour sur Google Play",
+      "ar": "التحديث من Google Play"
+    },
     "gate.forceUpdate.message": {
       "en": "A newer version of Gym Logbook is required to continue.",
       "ru": "Для продолжения нужна более новая версия Gym Logbook.",
@@ -11338,6 +11422,210 @@
       "fr": "Ce qui est synchronisé",
       "ar": "ما الذي تتم مزامنته"
     },
+    "healthConnect.settings.title": {
+      "en": "Health Connect",
+      "ru": "Health Connect",
+      "hy": "Health Connect",
+      "sv": "Health Connect",
+      "nb": "Health Connect",
+      "nl": "Health Connect",
+      "da": "Health Connect",
+      "pl": "Health Connect",
+      "fr": "Santé Connect",
+      "ar": "Health Connect"
+    },
+    "healthConnect.settings.toggle": {
+      "en": "Save workouts to Health Connect",
+      "ru": "Сохранять тренировки в Health Connect",
+      "hy": "Պահել մարզումները Health Connect-ում",
+      "sv": "Spara träningspass i Health Connect",
+      "nb": "Lagre treningsøkter i Health Connect",
+      "nl": "Sla trainingen op in Health Connect",
+      "da": "Gem træning i Health Connect",
+      "pl": "Zapisuj treningi w Health Connect",
+      "fr": "Enregistrer les entraînements dans Santé Connect",
+      "ar": "احفظ التدريبات في Health Connect"
+    },
+    "healthConnect.settings.whatSyncsBody": {
+      "en": "Finished workouts sync to Health Connect as exercise sessions, plus distance when available. Energy is included only when you turn on the energy estimate — and it is an estimate, not a measurement. Heart rate and other health data are never written.",
+      "ru": "Завершённые тренировки синхронизируются с Health Connect — с дистанцией, если она есть. Энергия добавляется, только если включена оценка энергии, — и это оценка, а не измерение. Пульс и другие данные здоровья не записываются.",
+      "hy": "Ավարտված մարզումները համաժամացվում են Health Connect-ի հետ՝ առկայության դեպքում նաև հեռավորությամբ։ Էներգիան ավելացվում է միայն էներգիայի գնահատումը միացնելիս — և դա գնահատում է, ոչ թե չափում։ Զարկերակը և առողջության այլ տվյալները չեն գրվում։",
+      "sv": "Avslutade pass synkas till Health Connect som träningspass, plus distans när den finns. Energi ingår bara när du slår på energiuppskattningen – och det är en uppskattning, inte en mätning. Puls och andra hälsodata skrivs aldrig.",
+      "nb": "Fullførte økter synkroniseres til Health Connect som treningsøkter, pluss distanse når den finnes. Energi følger bare med når du slår på energianslaget – og det er et anslag, ikke en måling. Puls og andre helsedata skrives aldri.",
+      "nl": "Afgeronde workouts synchroniseren naar Health Connect als trainingssessies, plus afstand indien beschikbaar. Energie gaat alleen mee als je de energieschatting aanzet — en het is een schatting, geen meting. Hartslag en andere gezondheidsgegevens worden nooit weggeschreven.",
+      "da": "Afsluttede pas synkroniseres til Health Connect som træningspas plus distance, når den findes. Energi er kun med, når du slår energiestimatet til – og det er et estimat, ikke en måling. Puls og andre sundhedsdata skrives aldrig.",
+      "pl": "Ukończone treningi synchronizują się z Health Connect jako sesje treningowe oraz dystans, jeśli jest. Energia trafia tam tylko po włączeniu szacowanej energii — i jest to szacunek, nie pomiar. Tętno i inne dane zdrowotne nigdy nie są zapisywane.",
+      "fr": "Les séances terminées sont synchronisées avec Santé Connect comme sessions d’exercice, plus la distance si elle existe. L’énergie n’est incluse que si vous activez l’estimation d’énergie — et c’est une estimation, pas une mesure. La fréquence cardiaque et les autres données de santé ne sont jamais écrites.",
+      "ar": "تُزامَن التمارين المكتملة مع Health Connect كجلسات تمرين، مع المسافة إن وُجدت. ولا تُضاف الطاقة إلا عند تفعيل تقدير الطاقة — وهو تقدير لا قياس. ولا تُكتب نبضات القلب ولا بيانات الصحة الأخرى أبدًا."
+    },
+    "healthConnect.settings.footer": {
+      "en": "Finished workouts are saved to Health Connect as exercise sessions. Energy is written only when you turn on the energy estimate.",
+      "ru": "Завершённые тренировки сохраняются в Health Connect. Энергия записывается, только если включена оценка энергии.",
+      "hy": "Ավարտված մարզումները պահվում են Health Connect-ում։ Էներգիան գրվում է միայն այն դեպքում, երբ միացված է էներգիայի գնահատումը։",
+      "sv": "Avslutade pass sparas i Health Connect som träningspass. Energi skrivs bara när du slår på energiuppskattningen.",
+      "nb": "Fullførte økter lagres i Health Connect som treningsøkter. Energi skrives bare når du slår på energianslaget.",
+      "nl": "Afgeronde workouts worden in Health Connect opgeslagen als trainingssessies. Energie wordt alleen weggeschreven als je de energieschatting aanzet.",
+      "da": "Afsluttede pas gemmes i Health Connect som træningspas. Energi skrives kun, når du slår energiestimatet til.",
+      "pl": "Ukończone treningi zapisują się w Health Connect jako sesje treningowe. Energia zapisuje się tylko wtedy, gdy włączysz szacowaną energię.",
+      "fr": "Les séances terminées sont enregistrées dans Santé Connect comme sessions d’exercice. L’énergie n’est écrite que si vous activez l’estimation d’énergie.",
+      "ar": "تُحفظ التمارين المكتملة في Health Connect كجلسات تمرين. ولا تُكتب الطاقة إلا عند تفعيل تقدير الطاقة."
+    },
+    "healthConnect.settings.denied": {
+      "en": "Health Connect access was denied. Allow Gym Logbook in the Health Connect app to sync workouts.",
+      "ru": "Доступ к Health Connect запрещён. Разрешите доступ Gym Logbook в приложении Health Connect, чтобы синхронизировать тренировки.",
+      "hy": "Health Connect-ի հասանելիությունը մերժված է։ Թույլատրեք Gym Logbook-ին Health Connect հավելվածում՝ մարզումները համաժամացնելու համար։",
+      "sv": "Åtkomst till Health Connect nekades. Tillåt Gym Logbook i Health Connect-appen för att synka träningspass.",
+      "nb": "Tilgang til Health Connect ble nektet. Gi Gym Logbook tilgang i Health Connect-appen for å synkronisere treningsøkter.",
+      "nl": "Toegang tot Health Connect is geweigerd. Sta Gym Logbook toe in de Health Connect-app om trainingen te synchroniseren.",
+      "da": "Adgang til Health Connect blev nægtet. Giv Gym Logbook adgang i Health Connect-appen for at synkronisere træning.",
+      "pl": "Odmówiono dostępu do Health Connect. Zezwól Gym Logbook na dostęp w aplikacji Health Connect, aby synchronizować treningi.",
+      "fr": "L’accès à Santé Connect a été refusé. Autorisez Gym Logbook dans l’application Santé Connect pour synchroniser les entraînements.",
+      "ar": "تم رفض الوصول إلى Health Connect. اسمح لـ Gym Logbook في تطبيق Health Connect لمزامنة التدريبات."
+    },
+    "healthConnect.settings.unavailable": {
+      "en": "Health Connect is not available on this device.",
+      "ru": "Health Connect недоступен на этом устройстве.",
+      "hy": "Health Connect-ը հասանելի չէ այս սարքում։",
+      "sv": "Health Connect är inte tillgängligt på den här enheten.",
+      "nb": "Health Connect er ikke tilgjengelig på denne enheten.",
+      "nl": "Health Connect is niet beschikbaar op dit apparaat.",
+      "da": "Health Connect er ikke tilgængelig på denne enhed.",
+      "pl": "Health Connect nie jest dostępny na tym urządzeniu.",
+      "fr": "Santé Connect n’est pas disponible sur cet appareil.",
+      "ar": "Health Connect غير متوفر على هذا الجهاز."
+    },
+    "healthConnect.settings.needsInstall": {
+      "en": "Install or update the Health Connect app to save your workouts there.",
+      "ru": "Установите или обновите приложение Health Connect, чтобы сохранять в нём тренировки.",
+      "hy": "Տեղադրեք կամ թարմացրեք Health Connect հավելվածը՝ մարզումներն այնտեղ պահելու համար։",
+      "sv": "Installera eller uppdatera Health Connect-appen för att spara dina träningspass där.",
+      "nb": "Installer eller oppdater Health Connect-appen for å lagre treningsøktene dine der.",
+      "nl": "Installeer of update de Health Connect-app om je trainingen daar op te slaan.",
+      "da": "Installer eller opdater Health Connect-appen for at gemme din træning der.",
+      "pl": "Zainstaluj lub zaktualizuj aplikację Health Connect, aby zapisywać w niej treningi.",
+      "fr": "Installez ou mettez à jour l’application Santé Connect pour y enregistrer vos entraînements.",
+      "ar": "ثبّت تطبيق Health Connect أو حدّثه لحفظ تدريباتك فيه."
+    },
+    "healthConnect.settings.install": {
+      "en": "Get Health Connect",
+      "ru": "Установить Health Connect",
+      "hy": "Ստանալ Health Connect-ը",
+      "sv": "Hämta Health Connect",
+      "nb": "Hent Health Connect",
+      "nl": "Health Connect downloaden",
+      "da": "Hent Health Connect",
+      "pl": "Pobierz Health Connect",
+      "fr": "Obtenir Santé Connect",
+      "ar": "احصل على Health Connect"
+    },
+    "healthConnect.settings.upToDate": {
+      "en": "Workouts are up to date in Health Connect.",
+      "ru": "Все тренировки синхронизированы с Health Connect.",
+      "hy": "Մարզումները Health Connect-ում արդիական են։",
+      "sv": "Träningspassen är uppdaterade i Health Connect.",
+      "nb": "Treningsøktene er oppdatert i Health Connect.",
+      "nl": "Trainingen zijn up-to-date in Health Connect.",
+      "da": "Træninger er opdateret i Health Connect.",
+      "pl": "Treningi są aktualne w Health Connect.",
+      "fr": "Les entraînements sont à jour dans Santé Connect.",
+      "ar": "التدريبات محدّثة في Health Connect."
+    },
+    "healthConnect.settings.open": {
+      "en": "Open Health Connect",
+      "ru": "Открыть Health Connect",
+      "hy": "Բացել Health Connect-ը",
+      "sv": "Öppna Health Connect",
+      "nb": "Åpne Health Connect",
+      "nl": "Health Connect openen",
+      "da": "Åbn Health Connect",
+      "pl": "Otwórz Health Connect",
+      "fr": "Ouvrir Santé Connect",
+      "ar": "افتح Health Connect"
+    },
+    "healthConnect.heartRate.toggle": {
+      "en": "Read heart rate from Health Connect",
+      "ru": "Читать пульс из Health Connect",
+      "hy": "Կարդալ զարկերակը Health Connect-ից",
+      "sv": "Läs puls från Health Connect",
+      "nb": "Les puls fra Health Connect",
+      "nl": "Hartslag lezen uit Health Connect",
+      "da": "Læs puls fra Health Connect",
+      "pl": "Odczytuj tętno z Health Connect",
+      "fr": "Lire la fréquence cardiaque depuis Santé Connect",
+      "ar": "قراءة معدل ضربات القلب من Health Connect"
+    },
+    "healthConnect.heartRate.footer": {
+      "en": "The only thing Gym Logbook ever reads from Health Connect. When this is on, your heart rate shows live during a workout, on your phone and in the Wear OS app. Each finished session's readings are also copied into the app to draw a chart, and cardio time is costed from your measured rate instead of an average. Lifting still uses the average — heart rate is a poor guide to the energy cost of a heavy set. Turning this off stops all reading; traces already copied stay with their workouts until you delete them.",
+      "ru": "Единственное, что Gym Logbook читает из Health Connect. Когда включено, пульс показывается в реальном времени во время тренировки — на телефоне и в приложении для Wear OS. Показания за каждую завершённую тренировку также копируются в приложение для графика, а кардио оценивается по измеренному пульсу, а не по среднему значению. Силовая работа по-прежнему считается по среднему: пульс плохо отражает затраты энергии в тяжёлом подходе. Выключение полностью прекращает чтение; уже скопированные данные остаются с тренировками, пока вы их не удалите.",
+      "hy": "Միակ բանը, որ Gym Logbook-ը կարդում է Health Connect-ից։ Երբ միացված է, մարզման ընթացքում զարկերակը ցուցադրվում է իրական ժամանակում՝ հեռախոսում և Wear OS-ի հավելվածում։ Յուրաքանչյուր ավարտված մարզման ցուցմունքները նաև պատճենվում են հավելված՝ գծապատկեր կառուցելու համար, իսկ կարդիոն հաշվարկվում է չափված զարկերակով, ոչ թե միջինով։ Ուժային աշխատանքը մնում է միջինի վրա. զարկերակը վատ ցուցիչ է ծանր մոտեցման էներգածախսի համար։ Անջատելը դադարեցնում է ամբողջ ընթերցումը. արդեն պատճենվածը մնում է մարզումների հետ, մինչև չջնջեք։",
+      "sv": "Det enda Gym Logbook någonsin läser från Health Connect. När det är på visas din puls live under passet, på telefonen och i Wear OS-appen. Pulsvärdena från varje avslutat pass kopieras också in i appen för att rita ett diagram, och konditionstiden beräknas från din uppmätta puls i stället för ett medelvärde. Styrketräning använder fortfarande medelvärdet – puls är en dålig vägledning till energikostnaden för ett tungt set. Att stänga av stoppar all läsning; redan kopierade kurvor stannar hos sina pass tills du raderar dem.",
+      "nb": "Det eneste Gym Logbook noen gang leser fra Health Connect. Når dette er på, vises pulsen din direkte under økten, på telefonen og i Wear OS-appen. Pulsmålingene fra hver fullførte økt kopieres også inn i appen for å tegne en graf, og kondisjonstid beregnes fra den målte pulsen din i stedet for et gjennomsnitt. Styrke bruker fortsatt gjennomsnittet – puls er en dårlig pekepinn på energikostnaden i et tungt sett. Å slå det av stopper all lesing; kurver som allerede er kopiert blir hos øktene sine til du sletter dem.",
+      "nl": "Het enige dat Gym Logbook ooit uit Health Connect leest. Als dit aanstaat, zie je je hartslag live tijdens een training, op je telefoon en in de Wear OS-app. De hartslagmetingen van elke voltooide sessie worden ook in de app gekopieerd om een grafiek te tekenen, en cardiotijd wordt berekend met je gemeten hartslag in plaats van een gemiddelde. Krachttraining gebruikt nog steeds het gemiddelde — hartslag zegt weinig over de energiekosten van een zware set. Uitzetten stopt al het lezen; al gekopieerde grafieken blijven bij hun workouts tot je ze verwijdert.",
+      "da": "Det eneste Gym Logbook nogensinde læser fra Health Connect. Når dette er slået til, vises din puls live under træningen, på telefonen og i Wear OS-appen. Pulsmålingerne fra hver afsluttet træning kopieres også ind i appen for at tegne en graf, og konditionstid beregnes ud fra din målte puls i stedet for et gennemsnit. Styrketræning bruger stadig gennemsnittet – puls siger ikke meget om energiforbruget i et tungt sæt. Slår du det fra, stopper al læsning; allerede kopierede kurver bliver hos deres træninger, indtil du sletter dem.",
+      "pl": "Jedyna rzecz, jaką Gym Logbook kiedykolwiek odczytuje z Health Connect. Gdy ta opcja jest włączona, tętno jest widoczne na żywo podczas treningu — na telefonie i w aplikacji na Wear OS. Odczyty tętna z każdego zakończonego treningu są też kopiowane do aplikacji, aby narysować wykres, a czas cardio jest wyceniany na podstawie zmierzonego tętna zamiast wartości średniej. Trening siłowy nadal korzysta ze średniej — tętno słabo opisuje koszt energetyczny ciężkiej serii. Wyłączenie zatrzymuje cały odczyt; już skopiowane przebiegi zostają przy swoich treningach, dopóki ich nie usuniesz.",
+      "fr": "La seule chose que Gym Logbook lit dans Santé Connect. Lorsque cette option est activée, votre fréquence cardiaque s’affiche en direct pendant la séance, sur le téléphone et dans l’app Wear OS. Les mesures de chaque séance terminée sont aussi copiées dans l’app pour tracer un graphique, et le temps de cardio est évalué à partir de votre fréquence mesurée plutôt que d’une moyenne. La musculation continue d’utiliser la moyenne : la fréquence cardiaque renseigne mal sur le coût énergétique d’une série lourde. La désactiver arrête toute lecture ; les tracés déjà copiés restent avec leurs séances jusqu’à ce que vous les supprimiez.",
+      "ar": "الشيء الوحيد الذي يقرأه Gym Logbook من Health Connect. عند تفعيل هذا الخيار يظهر معدل ضربات قلبك مباشرةً أثناء التمرين، على الهاتف وفي تطبيق Wear OS. كما تُنسخ قراءات كل جلسة منتهية إلى التطبيق لرسم مخطط، ويُحتسب وقت الكارديو من معدلك المقاس بدلاً من متوسط عام. أما تمارين الأثقال فتبقى على المتوسط، لأن معدل ضربات القلب دليل ضعيف على تكلفة الطاقة في المجموعة الثقيلة. إيقاف الخيار يوقف القراءة تماماً، وتبقى المخططات المنسوخة مع تمارينها حتى تحذفها."
+    },
+    "healthConnect.heartRate.body": {
+      "en": "Read the heart-rate trace Health Connect recorded for a finished session and draw it on the workout. While this is off, Gym Logbook reads nothing from Health Connect at all.",
+      "ru": "Читать из Health Connect пульс, записанный во время завершённой тренировки, и рисовать его график. Пока выключено, Gym Logbook не читает из Health Connect ничего.",
+      "hy": "Կարդալ Health Connect-ից ավարտված մարզման ընթացքում գրանցված զարկերակը և գծել այն մարզման վրա։ Քանի դեռ անջատված է, Gym Logbook-ը Health Connect-ից ոչինչ չի կարդում։",
+      "sv": "Läs pulskurvan som Health Connect har sparat för ett avslutat pass och rita den på passet. Medan detta är av läser Gym Logbook ingenting alls från Health Connect.",
+      "nb": "Les pulskurven Health Connect har lagret for en fullført økt, og tegn den på økta. Mens dette er av, leser Gym Logbook ingenting fra Health Connect.",
+      "nl": "Lees de hartslagcurve die Health Connect voor een afgeronde sessie heeft opgeslagen en teken die bij de training. Zolang dit uit staat, leest Gym Logbook helemaal niets uit Health Connect.",
+      "da": "Læs den pulskurve, Health Connect har gemt for et afsluttet pas, og tegn den på passet. Mens dette er slået fra, læser Gym Logbook intet som helst fra Health Connect.",
+      "pl": "Odczytaj z Health Connect zapis tętna z zakończonego treningu i narysuj go przy treningu. Dopóki to jest wyłączone, Gym Logbook nie czyta z Health Connect niczego.",
+      "fr": "Lire la courbe de fréquence cardiaque enregistrée dans Santé Connect pour une séance terminée et la tracer sur la séance. Tant que c’est désactivé, Gym Logbook ne lit rien du tout dans Santé Connect.",
+      "ar": "قراءة تسجيل ضربات القلب الذي حفظه Health Connect لجلسة منتهية ورسمه على التمرين. وما دام هذا معطَّلاً، لا يقرأ Gym Logbook أي شيء من Health Connect."
+    },
+    "healthConnect.heartRate.pending": {
+      "en": "Waiting for Health Connect — a watch can take a few minutes to hand over a session. Open the workout again later.",
+      "ru": "Ожидание Health Connect — часам нужно несколько минут, чтобы передать тренировку. Откройте её позже.",
+      "hy": "Սպասում է Health Connect-ին — ժամացույցին կարող է մի քանի րոպե պետք գալ։ Բացեք մարզումը ավելի ուշ։",
+      "sv": "Väntar på Health Connect – en klocka kan behöva några minuter. Öppna passet igen senare.",
+      "nb": "Venter på Health Connect – en klokke kan bruke noen minutter. Åpne økten igjen senere.",
+      "nl": "Wachten op Health Connect — een horloge heeft soms een paar minuten nodig. Open de workout later opnieuw.",
+      "da": "Venter på Health Connect – et ur kan være et par minutter om det. Åbn træningen igen senere.",
+      "pl": "Czekam na Health Connect — zegarek może potrzebować kilku minut. Otwórz trening później.",
+      "fr": "En attente de Santé Connect — une montre peut mettre quelques minutes. Rouvrez la séance plus tard.",
+      "ar": "في انتظار Health Connect — قد تحتاج الساعة بضع دقائق. افتح التمرين لاحقاً."
+    },
+    "healthConnect.heartRate.backfillRunning": {
+      "en": "Checking Health Connect for your past sessions…",
+      "ru": "Проверяем Health Connect по прошлым тренировкам…",
+      "hy": "Ստուգում ենք Health Connect-ը նախորդ մարզումների համար…",
+      "sv": "Kollar Health Connect efter dina tidigare pass…",
+      "nb": "Sjekker Health Connect for de tidligere øktene dine …",
+      "nl": "Health Connect wordt gecontroleerd op je eerdere sessies…",
+      "da": "Tjekker Health Connect for dine tidligere pas…",
+      "pl": "Sprawdzamy Health Connect pod kątem wcześniejszych treningów…",
+      "fr": "Vérification de Santé Connect pour vos séances passées…",
+      "ar": "نتحقق من Health Connect بحثًا عن جلساتك السابقة…"
+    },
+    "healthConnect.heartRate.backfillDoneTitle": {
+      "en": "Finished checking Health Connect",
+      "ru": "Проверка Health Connect завершена",
+      "hy": "Health Connect-ի ստուգումն ավարտվեց",
+      "sv": "Klar med att kolla Health Connect",
+      "nb": "Ferdig med å sjekke Health Connect",
+      "nl": "Klaar met controleren van Health Connect",
+      "da": "Færdig med at tjekke Health Connect",
+      "pl": "Zakończono sprawdzanie Health Connect",
+      "fr": "Vérification de Santé Connect terminée",
+      "ar": "انتهى التحقق من Health Connect"
+    },
+    "healthConnect.heartRate.backfillNoneBody": {
+      "en": "Health Connect had no heart-rate readings for your past sessions. New sessions will still be checked as you finish them.",
+      "ru": "В Health Connect не нашлось пульса для прошлых тренировок. Новые тренировки по-прежнему будут проверяться после завершения.",
+      "hy": "Health Connect-ում նախորդ մարզումների զարկերակի տվյալներ չգտնվեցին։ Նոր մարզումները դեռ կստուգվեն ավարտից հետո։",
+      "sv": "Health Connect hade ingen puls för dina tidigare pass. Nya pass kontrolleras fortfarande när du avslutar dem.",
+      "nb": "Health Connect hadde ingen puls for de tidligere øktene dine. Nye økter sjekkes fortsatt når du fullfører dem.",
+      "nl": "Health Connect had geen hartslag voor je eerdere sessies. Nieuwe sessies worden nog steeds gecontroleerd zodra je ze afrondt.",
+      "da": "Health Connect havde ingen puls for dine tidligere pas. Nye pas bliver stadig tjekket, når du afslutter dem.",
+      "pl": "Health Connect nie miał tętna dla twoich wcześniejszych treningów. Nowe treningi nadal będą sprawdzane po zakończeniu.",
+      "fr": "Santé Connect n’avait aucune fréquence cardiaque pour vos séances passées. Les nouvelles séances seront quand même vérifiées à la fin.",
+      "ar": "لم يجد Health Connect أي قراءات لضربات القلب لجلساتك السابقة. وسيستمر التحقق من الجلسات الجديدة عند إنهائها."
+    },
     "healthNotice.title": {
       "en": "Two new things",
       "ru": "Два новых пункта",
@@ -11361,6 +11649,18 @@
       "pl": "Gym Logbook może teraz powiedzieć trochę więcej o zakończonym treningu. Obie rzeczy są wyłączone, dopóki ich nie włączysz, i żadna nie zmienia tego, co już zapisałeś.",
       "fr": "Gym Logbook peut désormais vous en dire un peu plus sur une séance terminée. Les deux sont désactivées tant que vous ne les activez pas, et aucune ne modifie ce que vous avez déjà enregistré.",
       "ar": "صار بإمكان Gym Logbook أن يخبرك بالمزيد عن الجلسة المنتهية. كلاهما معطَّل حتى تُفعِّله، ولا يغيّر أيٌّ منهما ما سجّلته من قبل."
+    },
+    "healthNotice.leadShort": {
+      "en": "Gym Logbook can now tell you a little more about a finished session.",
+      "ru": "Gym Logbook теперь может рассказать о завершённой тренировке чуть больше.",
+      "hy": "Gym Logbook-ն այժմ կարող է մի փոքր ավելին պատմել ավարտված մարզման մասին։",
+      "sv": "Gym Logbook kan nu berätta lite mer om ett avslutat pass.",
+      "nb": "Gym Logbook kan nå fortelle deg litt mer om en fullført økt.",
+      "nl": "Gym Logbook kan nu iets meer vertellen over een afgeronde sessie.",
+      "da": "Gym Logbook kan nu fortælle dig lidt mere om et afsluttet pas.",
+      "pl": "Gym Logbook może teraz powiedzieć trochę więcej o zakończonym treningu.",
+      "fr": "Gym Logbook peut désormais vous en dire un peu plus sur une séance terminée.",
+      "ar": "صار بإمكان Gym Logbook أن يخبرك بالمزيد عن الجلسة المنتهية."
     },
     "healthNotice.energy.title": {
       "en": "Energy estimate",
@@ -11445,6 +11745,18 @@
       "pl": "Obie rzeczy możesz włączyć lub wyłączyć później w Konto → Ustawienia. To powiadomienie już się nie pojawi.",
       "fr": "Vous pouvez activer ou désactiver les deux plus tard dans Compte → Préférences. Cet avis ne réapparaîtra pas.",
       "ar": "يمكنك تفعيل أيٍّ منهما أو تعطيله لاحقًا من «الحساب ← التفضيلات». لن يظهر هذا الإشعار مرة أخرى."
+    },
+    "healthNotice.footerShort": {
+      "en": "This notice will not appear again.",
+      "ru": "Это сообщение больше не появится.",
+      "hy": "Այս ծանուցումն այլևս չի հայտնվի։",
+      "sv": "Det här meddelandet visas inte igen.",
+      "nb": "Denne meldingen kommer ikke igjen.",
+      "nl": "Deze melding komt niet terug.",
+      "da": "Denne besked kommer ikke igen.",
+      "pl": "To powiadomienie już się nie pojawi.",
+      "fr": "Cet avis ne réapparaîtra pas.",
+      "ar": "لن يظهر هذا الإشعار مرة أخرى."
     },
     "healthNotice.done": {
       "en": "Done",
@@ -12081,6 +12393,18 @@
       "pl": "Import nie powiódł się",
       "fr": "Échec de l'importation",
       "ar": "فشل الاستيراد"
+    },
+    "import.error.fileUnreadable": {
+      "en": "The selected file could not be opened.",
+      "ru": "Не удалось открыть выбранный файл.",
+      "hy": "Չհաջողվեց բացել ընտրված ֆայլը։",
+      "sv": "Den valda filen kunde inte öppnas.",
+      "nb": "Den valgte filen kunne ikke åpnes.",
+      "nl": "Het geselecteerde bestand kon niet worden geopend.",
+      "da": "Den valgte fil kunne ikke åbnes.",
+      "pl": "Nie udało się otworzyć wybranego pliku.",
+      "fr": "Impossible d’ouvrir le fichier sélectionné.",
+      "ar": "تعذّر فتح الملف المحدد."
     },
     "import.processing": {
       "en": "Importing data…",
@@ -13626,6 +13950,18 @@
       "fr": "La langue des paramètres iOS est désormais %2$@, mais cette application est définie sur %1$@. Quelle langue souhaitez-vous utiliser ?",
       "ar": "أصبحت لغة إعدادات iOS الآن %2$@، ولكن تم ضبط هذا التطبيق على %1$@. ما هي اللغة التي تريد استخدامها؟"
     },
+    "language.conflict.messageAndroid": {
+      "en": "Android Settings language is now %2$@, but this app is set to %1$@. Which language do you want to use?",
+      "ru": "Язык Android теперь %2$@, а в приложении выбран %1$@. Какой язык использовать?",
+      "hy": "Android-ի լեզուն այժմ %2$@ է, իսկ հավելվածում ընտրված է %1$@։ Ո՞ր լեզուն օգտագործել։",
+      "sv": "Språket i Android-inställningarna är nu %2$@, men den här appen är inställd på %1$@. Vilket språk vill du använda?",
+      "nb": "Språket i Android-innstillingene er nå %2$@, men denne appen er satt til %1$@. Hvilket språk vil du bruke?",
+      "nl": "De taal in de Android-instellingen is nu %2$@, maar deze app is ingesteld op %1$@. Welke taal wil je gebruiken?",
+      "da": "Sproget i Android-indstillingerne er nu %2$@, men denne app er indstillet til %1$@. Hvilket sprog vil du bruge?",
+      "pl": "Język w ustawieniach Androida to teraz %2$@, ale ta aplikacja jest ustawiona na %1$@. Jakiego języka chcesz używać?",
+      "fr": "La langue des réglages Android est désormais %2$@, mais cette application est réglée sur %1$@. Quelle langue souhaitez-vous utiliser ?",
+      "ar": "أصبحت لغة إعدادات Android الآن %2$@، ولكن تم ضبط هذا التطبيق على %1$@. ما اللغة التي تريد استخدامها؟"
+    },
     "language.conflict.switch": {
       "en": "Use %@",
       "ru": "Использовать %@",
@@ -14807,6 +15143,18 @@
       "fr": "Pomme Santé",
       "ar": "صحة التفاح"
     },
+    "onboarding.chapter.healthConnect.title": {
+      "en": "Health Connect",
+      "ru": "Health Connect",
+      "hy": "Health Connect",
+      "sv": "Health Connect",
+      "nb": "Health Connect",
+      "nl": "Health Connect",
+      "da": "Health Connect",
+      "pl": "Health Connect",
+      "fr": "Santé Connect",
+      "ar": "Health Connect"
+    },
     "onboarding.chapter.history.title": {
       "removedIn": "1.4",
       "en": "History calendar",
@@ -15610,6 +15958,90 @@
       "pl": "Zakończone sesje synchronizują się jako treningi",
       "fr": "Les sessions terminées sont synchronisées avec les entraînements",
       "ar": "تتم مزامنة الجلسات النهائية كتدريبات"
+    },
+    "onboarding.healthConnectDemo.title": {
+      "en": "Connect to Health Connect",
+      "ru": "Подключить Health Connect",
+      "hy": "Միացնել Health Connect-ը",
+      "sv": "Anslut till Health Connect",
+      "nb": "Koble til Health Connect",
+      "nl": "Maak verbinding met Health Connect",
+      "da": "Opret forbindelse til Health Connect",
+      "pl": "Połącz z Health Connect",
+      "fr": "Se connecter à Santé Connect",
+      "ar": "اتصل بـ Health Connect"
+    },
+    "onboarding.healthConnectDemo.body": {
+      "en": "Connect Gym Logbook to Health Connect so finished strength and cardio sessions appear there.",
+      "ru": "Подключите Gym Logbook к Health Connect, чтобы завершённые силовые и кардиотренировки появлялись там.",
+      "hy": "Միացրեք Gym Logbook-ը Health Connect-ին, որպեսզի ավարտված ուժային և կարդիո մարզումները հայտնվեն այնտեղ։",
+      "sv": "Anslut Gym Logbook till Health Connect så att avslutade styrke- och konditionspass visas där.",
+      "nb": "Koble Gym Logbook til Health Connect slik at fullførte styrke- og kondisjonsøkter vises der.",
+      "nl": "Verbind Gym Logbook met Health Connect, zodat afgeronde kracht- en cardiosessies daar verschijnen.",
+      "da": "Forbind Gym Logbook med Health Connect, så afsluttede styrke- og konditionspas vises der.",
+      "pl": "Połącz Gym Logbook z Health Connect, aby pojawiały się tam zakończone treningi siłowe i cardio.",
+      "fr": "Connectez Gym Logbook à Santé Connect pour que les séances de musculation et de cardio terminées y apparaissent.",
+      "ar": "وصّل Gym Logbook بـ Health Connect لتظهر فيه جلسات القوة والكارديو المكتملة."
+    },
+    "onboarding.healthConnectDemo.connectA11y": {
+      "en": "Connect Gym Logbook to Health Connect",
+      "ru": "Подключить Gym Logbook к Health Connect",
+      "hy": "Միացնել Gym Logbook-ը Health Connect-ին",
+      "sv": "Anslut Gym Logbook till Health Connect",
+      "nb": "Koble Gym Logbook til Health Connect",
+      "nl": "Verbind Gym Logbook met Health Connect",
+      "da": "Forbind Gym Logbook med Health Connect",
+      "pl": "Połącz Gym Logbook z Health Connect",
+      "fr": "Connecter Gym Logbook à Santé Connect",
+      "ar": "وصّل Gym Logbook بـ Health Connect"
+    },
+    "onboarding.healthConnectDemo.privacy": {
+      "en": "Optional. Requests write access only.",
+      "ru": "Необязательно. Запрашивает только доступ на запись.",
+      "hy": "Ընտրովի։ Խնդրում է միայն գրելու թույլտվություն։",
+      "sv": "Valfritt. Begär endast skrivåtkomst.",
+      "nb": "Valgfritt. Ber kun om skrivetilgang.",
+      "nl": "Optioneel. Vraagt alleen schrijftoegang.",
+      "da": "Valgfrit. Anmoder kun om skriveadgang.",
+      "pl": "Opcjonalne. Prosi tylko o dostęp do zapisu.",
+      "fr": "Facultatif. Demande uniquement l’accès en écriture.",
+      "ar": "اختياري. يطلب إذن الكتابة فقط."
+    },
+    "onboarding.healthConnectDemo.enabled": {
+      "en": "Connected to Health Connect",
+      "ru": "Подключено к Health Connect",
+      "hy": "Միացված է Health Connect-ին",
+      "sv": "Ansluten till Health Connect",
+      "nb": "Koblet til Health Connect",
+      "nl": "Verbonden met Health Connect",
+      "da": "Forbundet til Health Connect",
+      "pl": "Połączono z Health Connect",
+      "fr": "Connecté à Santé Connect",
+      "ar": "متصل بـ Health Connect"
+    },
+    "onboarding.healthConnectDemo.turnOn": {
+      "en": "Connect to Health Connect",
+      "ru": "Подключить Health Connect",
+      "hy": "Միացնել Health Connect-ը",
+      "sv": "Anslut till Health Connect",
+      "nb": "Koble til Health Connect",
+      "nl": "Maak verbinding met Health Connect",
+      "da": "Opret forbindelse til Health Connect",
+      "pl": "Połącz z Health Connect",
+      "fr": "Se connecter à Santé Connect",
+      "ar": "اتصل بـ Health Connect"
+    },
+    "onboarding.healthConnectDemo.where": {
+      "en": "Later: History → Insights → Health Connect",
+      "ru": "Позже: История → Аналитика → Health Connect",
+      "hy": "Ավելի ուշ՝ Պատմություն → Վերլուծություն → Health Connect",
+      "sv": "Senare: Historia → Insikter → Health Connect",
+      "nb": "Senere: Historie → Innsikt → Health Connect",
+      "nl": "Later: Geschiedenis → Inzichten → Health Connect",
+      "da": "Senere: Historie → Indsigt → Health Connect",
+      "pl": "Później: Historia → Statystyki → Health Connect",
+      "fr": "Plus tard : Historique → Insights → Santé Connect",
+      "ar": "لاحقًا: التاريخ ← الرؤى ← Health Connect"
     },
     "onboarding.historyDemo.body": {
       "removedIn": "1.4",
@@ -16637,6 +17069,18 @@
       "fr": "Choisi ici; suit également les paramètres iOS pour la langue du système.",
       "ar": "المختار هنا؛ يتبع أيضًا إعدادات iOS الخاصة بلغة النظام."
     },
+    "onboarding.personal.languageDetailAndroid": {
+      "en": "Chosen here; also follows Android Settings for the system language.",
+      "ru": "Выбирается здесь; при «Как в системе» следует настройкам Android.",
+      "hy": "Ընտրվում է այստեղ. «Համակարգային»-ի դեպքում հետևում է Android-ի կարգավորումներին։",
+      "sv": "Väljs här; följer även Android-inställningarna för systemspråket.",
+      "nb": "Velges her; følger også Android-innstillingene for systemspråket.",
+      "nl": "Hier gekozen; volgt ook de Android-instellingen voor de systeemtaal.",
+      "da": "Vælges her; følger også Android-indstillingerne for systemsproget.",
+      "pl": "Wybierany tutaj; dla języka systemu działa zgodnie z ustawieniami Androida.",
+      "fr": "Choisie ici ; suit aussi les réglages Android pour la langue du système.",
+      "ar": "تختارها هنا؛ وتتبع أيضًا إعدادات Android للغة النظام."
+    },
     "onboarding.personal.layout": {
       "en": "List or Cards",
       "ru": "Список или карточки",
@@ -16732,6 +17176,18 @@
       "pl": "Jasny i ciemny są zgodne z ustawieniami wyglądu iPhone'a.",
       "fr": "La lumière et l'obscurité suivent les paramètres d'apparence de votre iPhone.",
       "ar": "يتبع الضوء والظلام إعداد مظهر iPhone الخاص بك."
+    },
+    "onboarding.personal.themeDetailAndroid": {
+      "en": "Light and Dark follow your phone's appearance setting.",
+      "ru": "Светлая и тёмная темы следуют настройке оформления телефона.",
+      "hy": "Բաց և մուգ թեմաները հետևում են ձեր հեռախոսի տեսքի կարգավորմանը։",
+      "sv": "Ljust och mörkt följer telefonens utseendeinställning.",
+      "nb": "Lys og mørk følger telefonens utseendeinnstilling.",
+      "nl": "Licht en Donker volgen de weergave-instelling van je telefoon.",
+      "da": "Lys og mørk følger telefonens udseendeindstilling.",
+      "pl": "Jasny i ciemny motyw są zgodne z ustawieniem wyglądu telefonu.",
+      "fr": "Les thèmes clair et sombre suivent le réglage d’apparence de votre téléphone.",
+      "ar": "يتبع الوضعان الفاتح والداكن إعداد المظهر في هاتفك."
     },
     "onboarding.personal.title": {
       "en": "Make it yours",
@@ -18163,6 +18619,30 @@
       "pl": "Usuń na zawsze",
       "fr": "Supprimer pour toujours",
       "ar": "حذف إلى الأبد"
+    },
+    "recycleBin.deleteForeverTitle": {
+      "en": "Delete this workout forever?",
+      "ru": "Удалить тренировку навсегда?",
+      "hy": "Ջնջե՞լ այս մարզումն ընդմիշտ։",
+      "sv": "Ta bort passet för alltid?",
+      "nb": "Slette økten for alltid?",
+      "nl": "Deze training voor altijd verwijderen?",
+      "da": "Slet træningen for evigt?",
+      "pl": "Usunąć ten trening na zawsze?",
+      "fr": "Supprimer cette séance pour toujours ?",
+      "ar": "حذف هذا التمرين إلى الأبد؟"
+    },
+    "recycleBin.deleteForeverMessage": {
+      "en": "It can’t be restored from the Recycle Bin. This cannot be undone.",
+      "ru": "Её нельзя будет восстановить из корзины. Это нельзя отменить.",
+      "hy": "Այն հնարավոր չի լինի վերականգնել Աղբարկղից։ Սա հնարավոր չէ հետարկել։",
+      "sv": "Det går inte att återställa från papperskorgen. Detta kan inte ångras.",
+      "nb": "Den kan ikke gjenopprettes fra papirkurven. Dette kan ikke angres.",
+      "nl": "Deze kan niet meer uit de prullenbak worden teruggezet. Dit kan niet ongedaan worden gemaakt.",
+      "da": "Den kan ikke gendannes fra papirkurven. Dette kan ikke fortrydes.",
+      "pl": "Nie będzie można go przywrócić z kosza. Tego nie można cofnąć.",
+      "fr": "Elle ne pourra pas être restaurée depuis la corbeille. Cela ne peut pas être annulé.",
+      "ar": "لن يمكن استعادته من سلة المحذوفات. لا يمكن التراجع عن هذا."
     },
     "recycleBin.emptyDescription": {
       "en": "Deleted and discarded workouts stay here for 30 days.",
@@ -23159,6 +23639,18 @@
       "fr": "Cloud sync",
       "ar": "Cloud sync"
     },
+    "sync.unavailable": {
+      "en": "Cloud sync isn’t available in this build. Your workouts stay on this device.",
+      "ru": "Облачная синхронизация недоступна в этой сборке. Тренировки остаются на этом устройстве.",
+      "hy": "Ամպային համաժամացումը հասանելի չէ այս տարբերակում։ Ձեր մարզումները մնում են այս սարքում։",
+      "sv": "Molnsynk är inte tillgänglig i den här versionen. Dina träningspass stannar på den här enheten.",
+      "nb": "Skysynkronisering er ikke tilgjengelig i denne versjonen. Treningsøktene dine blir på denne enheten.",
+      "nl": "Cloudsynchronisatie is niet beschikbaar in deze versie. Je trainingen blijven op dit apparaat.",
+      "da": "Skysynkronisering er ikke tilgængelig i denne version. Dine træninger bliver på denne enhed.",
+      "pl": "Synchronizacja z chmurą nie jest dostępna w tej wersji. Twoje treningi zostają na tym urządzeniu.",
+      "fr": "La synchronisation cloud n’est pas disponible dans cette version. Vos entraînements restent sur cet appareil.",
+      "ar": "المزامنة السحابية غير متاحة في هذا الإصدار. تبقى تمارينك على هذا الجهاز."
+    },
     "tab.history": {
       "en": "History",
       "ru": "История",
@@ -24863,6 +25355,30 @@
       "fr": "Exercices",
       "ar": "تمارين"
     },
+    "workout.reorder.moveUp": {
+      "en": "Move up",
+      "ru": "Переместить вверх",
+      "hy": "Տեղափոխել վեր",
+      "sv": "Flytta upp",
+      "nb": "Flytt opp",
+      "nl": "Omhoog verplaatsen",
+      "da": "Flyt op",
+      "pl": "Przesuń w górę",
+      "fr": "Déplacer vers le haut",
+      "ar": "نقل لأعلى"
+    },
+    "workout.reorder.moveDown": {
+      "en": "Move down",
+      "ru": "Переместить вниз",
+      "hy": "Տեղափոխել վար",
+      "sv": "Flytta ned",
+      "nb": "Flytt ned",
+      "nl": "Omlaag verplaatsen",
+      "da": "Flyt ned",
+      "pl": "Przesuń w dół",
+      "fr": "Déplacer vers le bas",
+      "ar": "نقل لأسفل"
+    },
     "workout.resumeBanner": {
       "en": "Workout in progress",
       "ru": "Идёт тренировка",
@@ -25346,6 +25862,18 @@
       "fr": "Set log",
       "ar": "Set log"
     },
+    "share.pageDescription": {
+      "en": "Page %1$lld of %2$lld",
+      "ru": "Страница %1$lld из %2$lld",
+      "hy": "Էջ %1$lld՝ %2$lld-ից",
+      "sv": "Sida %1$lld av %2$lld",
+      "nb": "Side %1$lld av %2$lld",
+      "nl": "Pagina %1$lld van %2$lld",
+      "da": "Side %1$lld af %2$lld",
+      "pl": "Strona %1$lld z %2$lld",
+      "fr": "Page %1$lld sur %2$lld",
+      "ar": "الصفحة %1$lld من %2$lld"
+    },
     "common.next": {
       "en": "Next",
       "ru": "Далее",
@@ -25357,6 +25885,18 @@
       "pl": "Dalej",
       "fr": "Suivant",
       "ar": "التالي"
+    },
+    "common.more": {
+      "en": "More",
+      "ru": "Ещё",
+      "hy": "Ավելին",
+      "sv": "Mer",
+      "nb": "Mer",
+      "nl": "Meer",
+      "da": "Mere",
+      "pl": "Więcej",
+      "fr": "Plus",
+      "ar": "المزيد"
     },
     "contactUsPrompt.action": {
       "en": "Contact us",
@@ -25645,6 +26185,54 @@
       "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie jabłka.",
       "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Pomme Santé.",
       "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من حساب ← صحة التفاح."
+    },
+    "onboarding.health.bodyAndroid": {
+      "en": "Two optional connections — turn on either, both or neither. Health Connect asks for permission when you switch one on.",
+      "ru": "Два необязательных подключения — включите одно, оба или ни одного. Health Connect запросит разрешение при включении.",
+      "hy": "Երկու ընտրովի կապ — միացրեք մեկը, երկուսը կամ ոչ մեկը։ Health Connect-ը թույլտվություն կխնդրի, երբ միացնեք։",
+      "sv": "Två valfria kopplingar – slå på en, båda eller ingen. Health Connect ber om tillstånd när du slår på en.",
+      "nb": "To valgfrie koblinger – slå på én, begge eller ingen. Health Connect ber om tillatelse når du slår på en.",
+      "nl": "Twee optionele koppelingen — zet er één, allebei of geen aan. Health Connect vraagt om toestemming wanneer je er een aanzet.",
+      "da": "To valgfrie forbindelser – slå én, begge eller ingen til. Health Connect beder om tilladelse, når du slår en til.",
+      "pl": "Dwa opcjonalne połączenia — włącz jedno, oba albo żadne. Health Connect poprosi o zgodę, gdy włączysz któreś z nich.",
+      "fr": "Deux connexions facultatives — activez-en une, les deux ou aucune. Santé Connect demande l’autorisation quand vous en activez une.",
+      "ar": "اتصالان اختياريان — فعّل أحدهما أو كليهما أو لا شيء. سيطلب Health Connect الإذن عند تفعيل أيٍّ منهما."
+    },
+    "onboarding.health.workouts.bodyAndroid": {
+      "en": "Finished sessions appear in Health Connect as exercise sessions, with distance when you logged it.",
+      "ru": "Завершённые тренировки появятся в Health Connect — с дистанцией, если вы её записали.",
+      "hy": "Ավարտված մարզումները կհայտնվեն Health Connect-ում՝ հեռավորությամբ, եթե այն գրանցել եք։",
+      "sv": "Avslutade pass visas i Health Connect som träningspass, med distans när du har loggat den.",
+      "nb": "Fullførte økter vises i Health Connect som treningsøkter, med distanse når du har logget den.",
+      "nl": "Afgeronde sessies verschijnen in Health Connect als trainingssessies, met afstand als je die hebt gelogd.",
+      "da": "Afsluttede pas vises i Health Connect som træningspas, med distance når du har logget den.",
+      "pl": "Zakończone sesje pojawią się w Health Connect jako sesje treningowe, z dystansem, jeśli go zapisano.",
+      "fr": "Les séances terminées apparaissent dans Santé Connect comme sessions d’exercice, avec la distance si vous l’avez enregistrée.",
+      "ar": "تظهر الجلسات المكتملة في Health Connect كجلسات تمرين، مع المسافة إذا سجّلتها."
+    },
+    "onboarding.health.heartRate.bodyAndroid": {
+      "en": "See your heart rate live during a workout and as a chart on each finished session. It is the only thing Gym Logbook reads from Health Connect.",
+      "ru": "Пульс в реальном времени во время тренировки и график для каждой завершённой тренировки. Это единственное, что Gym Logbook читает из Health Connect.",
+      "hy": "Տեսեք ձեր զարկերակը մարզման ընթացքում և որպես գրաֆիկ յուրաքանչյուր ավարտված մարզման համար։ Սա միակ բանն է, որ Gym Logbook-ը կարդում է Health Connect-ից։",
+      "sv": "Se din puls live under ett pass och som ett diagram för varje avslutat pass. Det är det enda Gym Logbook läser från Health Connect.",
+      "nb": "Se pulsen din live under en økt og som et diagram for hver fullførte økt. Det er det eneste Gym Logbook leser fra Health Connect.",
+      "nl": "Zie je hartslag live tijdens een training en als grafiek bij elke afgeronde sessie. Het is het enige wat Gym Logbook uit Health Connect leest.",
+      "da": "Se din puls live under et pas og som et diagram for hvert afsluttet pas. Det er det eneste, Gym Logbook læser fra Health Connect.",
+      "pl": "Zobacz tętno na żywo podczas treningu i jako wykres dla każdej zakończonej sesji. To jedyne, co Gym Logbook odczytuje z Health Connect.",
+      "fr": "Voyez votre fréquence cardiaque en direct pendant une séance et sous forme de graphique pour chaque séance terminée. C’est la seule donnée que Gym Logbook lit dans Santé Connect.",
+      "ar": "شاهد معدل ضربات قلبك مباشرةً أثناء التمرين وكرسم بياني لكل جلسة مكتملة. إنه الشيء الوحيد الذي يقرأه Gym Logbook من Health Connect."
+    },
+    "onboarding.health.footerAndroid": {
+      "en": "Both stay off unless you turn them on. Change either anytime in Account → Health Connect.",
+      "ru": "Оба выключены, пока вы их не включите. Изменить можно в любой момент: Аккаунт → Health Connect.",
+      "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Health Connect։",
+      "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Health Connect.",
+      "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Health Connect.",
+      "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Health Connect.",
+      "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Health Connect.",
+      "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Health Connect.",
+      "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Santé Connect.",
+      "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من الحساب ← Health Connect."
     },
     "records.category.collapseA11y": {
       "en": "Collapse %@",

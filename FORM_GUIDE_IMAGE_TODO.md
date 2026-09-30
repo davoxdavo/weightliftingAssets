@@ -13,22 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-09-30 — 52 pending, 2 replaced._
+_Last generated 2026-09-30 — 42 pending, 12 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Bodyweight Tricep Extension | [`form.arms-bodyweight-tricep-extension.png`](remote/images/exercises/form.arms-bodyweight-tricep-extension.png) | 101 KB |
-| [ ] | Cable Preacher Curl | [`form.arms-cable-preacher-curl.png`](remote/images/exercises/form.arms-cable-preacher-curl.png) | 104 KB |
-| [ ] | Cross-Body Cable Tricep Extension | [`form.arms-cross-body-cable-extension.png`](remote/images/exercises/form.arms-cross-body-cable-extension.png) | 107 KB |
-| [ ] | Dumbbell Preacher Curl | [`form.arms-dumbbell-preacher-curl.png`](remote/images/exercises/form.arms-dumbbell-preacher-curl.png) | 88 KB |
-| [ ] | EZ-Bar Overhead Tricep Extension | [`form.arms-ez-bar-overhead-tricep-extension.png`](remote/images/exercises/form.arms-ez-bar-overhead-tricep-extension.png) | 86 KB |
-| [ ] | Incline Hammer Curl | [`form.arms-incline-hammer-curl.png`](remote/images/exercises/form.arms-incline-hammer-curl.png) | 84 KB |
-| [ ] | Machine Dip | [`form.arms-machine-dip.png`](remote/images/exercises/form.arms-machine-dip.png) | 79 KB |
-| [ ] | Machine Preacher Curl | [`form.arms-machine-preacher-curl.png`](remote/images/exercises/form.arms-machine-preacher-curl.png) | 91 KB |
-| [ ] | Single-Arm Overhead Tricep Extension | [`form.arms-single-arm-overhead-tricep-extension.png`](remote/images/exercises/form.arms-single-arm-overhead-tricep-extension.png) | 78 KB |
-| [ ] | Straight Bar Dip | [`form.arms-straight-bar-dip.png`](remote/images/exercises/form.arms-straight-bar-dip.png) | 101 KB |
 | [ ] | Back Extension Hold | [`form.back-back-extension-hold.png`](remote/images/exercises/form.back-back-extension-hold.png) | 104 KB |
 | [ ] | Behind-the-Back Shrug | [`form.back-behind-the-back-shrug.png`](remote/images/exercises/form.back-behind-the-back-shrug.png) | 86 KB |
 | [ ] | Bent-Over Dumbbell Row | [`form.back-bent-over-dumbbell-row.png`](remote/images/exercises/form.back-bent-over-dumbbell-row.png) | 78 KB |
@@ -73,66 +63,6 @@ _Last generated 2026-09-30 — 52 pending, 2 replaced._
 | [ ] | Smith Machine Shoulder Press | [`form.shoulders-smith-machine-shoulder-press.png`](remote/images/exercises/form.shoulders-smith-machine-shoulder-press.png) | 83 KB |
 
 ## Prompts
-
-### Bodyweight Tricep Extension
-
-`form.arms-bodyweight-tricep-extension.png`
-
-> Instructional form-guide: Bodyweight Tricep Extension. Two panels, side view of an athlete in a straight-body lean holding a fixed bar at waist height (Smith machine bar), feet on the floor behind. START: arms straight, body a straight line. FINISH: elbows bent, forehead just under the bar, body still straight. Blue curved arrow at the elbows. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Cable Preacher Curl
-
-`form.arms-cable-preacher-curl.png`
-
-> Instructional form-guide: Cable Preacher Curl. Two panels, side view of an athlete seated at a preacher bench placed in front of a low cable pulley, both upper arms on the pad, straight bar attached to the cable, palms up. START: arms nearly straight, cable taut. FINISH: bar curled toward the shoulders. Blue curved arrow along the bar path. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Cross-Body Cable Tricep Extension
-
-`form.arms-cross-body-cable-extension.png`
-
-> Instructional form-guide: Cross-Body Cable Tricep Extension. Two panels, front view of an athlete standing side-on to a high cable pulley, holding the cable in the far hand. START: elbow bent, hand in front of the opposite shoulder. FINISH: arm straight out to the side, hand at hip height. Blue curved arrow across the body. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Dumbbell Preacher Curl
-
-`form.arms-dumbbell-preacher-curl.png`
-
-> Instructional form-guide: Dumbbell Preacher Curl. Two panels, side view of an athlete seated at a preacher bench, back of one upper arm flat on the angled pad, one dumbbell in that hand, palm up. START: arm nearly straight down the pad. FINISH: forearm nearly vertical, dumbbell near the shoulder. Blue curved arrow along the forearm arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### EZ-Bar Overhead Tricep Extension
-
-`form.arms-ez-bar-overhead-tricep-extension.png`
-
-> Instructional form-guide: EZ-Bar Overhead Tricep Extension. Two panels, side view of a seated athlete on a bench with back support holding an EZ curl bar on the inner angled grips. START: arms straight overhead. FINISH: elbows bent and pointing forward, bar lowered behind the head. Blue curved arrow along the bar path. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Incline Hammer Curl
-
-`form.arms-incline-hammer-curl.png`
-
-> Instructional form-guide: Incline Hammer Curl. Two panels, side view of an athlete sitting back on an incline bench at about 50°, a dumbbell in each hand with palms facing each other. START: arms hanging straight behind the torso line. FINISH: dumbbells curled to the shoulders, upper arms still hanging. Blue curved arrow along the forearm arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Machine Dip
-
-`form.arms-machine-dip.png`
-
-> Instructional form-guide: Machine Dip. Two panels, side view of an athlete seated in a dip machine, back against the pad, hands on handles beside the hips. START: elbows bent about 90°, handles at mid-torso. FINISH: arms straight, handles pressed down. Blue straight arrow downward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Machine Preacher Curl
-
-`form.arms-machine-preacher-curl.png`
-
-> Instructional form-guide: Machine Preacher Curl. Two panels, side view of an athlete seated at a selectorised preacher-curl machine, backs of both upper arms flat on the angled pad, hands on the machine's lever handles, palms up, the lever pivoting at a cam level with the elbows. START: arms nearly straight down the pad. FINISH: forearms nearly vertical, handles near the shoulders. Blue curved arrow along the handle arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Single-Arm Overhead Tricep Extension
-
-`form.arms-single-arm-overhead-tricep-extension.png`
-
-> Instructional form-guide: Single-Arm Overhead Tricep Extension. Two panels, side view of a seated athlete on a bench with back support, one dumbbell in one hand, free hand supporting the working elbow. START: arm straight overhead. FINISH: elbow bent, dumbbell lowered behind the head, upper arm still vertical beside the ear. Blue curved arrow along the forearm arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Straight Bar Dip
-
-`form.arms-straight-bar-dip.png`
-
-> Instructional form-guide: Straight Bar Dip. Two panels, side view of an athlete in a straight-arm support on a single high bar, bar at the hips, chest leaning forward, legs slightly in front. START: arms locked. FINISH: elbows bent, chest lowered toward the bar. Blue curved arrow down and up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Back Extension Hold
 
@@ -389,4 +319,14 @@ _Last generated 2026-09-30 — 52 pending, 2 replaced._
 ## Replaced with AI art
 
 - [x] Barbell 21s — `form.arms-barbell-21s.png`
+- [x] Bodyweight Tricep Extension — `form.arms-bodyweight-tricep-extension.png`
+- [x] Cable Preacher Curl — `form.arms-cable-preacher-curl.png`
+- [x] Cross-Body Cable Tricep Extension — `form.arms-cross-body-cable-extension.png`
+- [x] Dumbbell Preacher Curl — `form.arms-dumbbell-preacher-curl.png`
 - [x] Dumbbell Skull Crusher — `form.arms-dumbbell-skull-crusher.png`
+- [x] EZ-Bar Overhead Tricep Extension — `form.arms-ez-bar-overhead-tricep-extension.png`
+- [x] Incline Hammer Curl — `form.arms-incline-hammer-curl.png`
+- [x] Machine Dip — `form.arms-machine-dip.png`
+- [x] Machine Preacher Curl — `form.arms-machine-preacher-curl.png`
+- [x] Single-Arm Overhead Tricep Extension — `form.arms-single-arm-overhead-tricep-extension.png`
+- [x] Straight Bar Dip — `form.arms-straight-bar-dip.png`
