@@ -13,22 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-09-30 — 41 pending, 13 replaced._
+_Last generated 2026-10-01 — 31 pending, 23 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Behind-the-Back Shrug | [`form.back-behind-the-back-shrug.png`](remote/images/exercises/form.back-behind-the-back-shrug.png) | 86 KB |
-| [ ] | Bent-Over Dumbbell Row | [`form.back-bent-over-dumbbell-row.png`](remote/images/exercises/form.back-bent-over-dumbbell-row.png) | 78 KB |
-| [ ] | Chest-Supported T-Bar Row | [`form.back-chest-supported-t-bar-row.png`](remote/images/exercises/form.back-chest-supported-t-bar-row.png) | 92 KB |
-| [ ] | Chest-to-Bar Pull-Up | [`form.back-chest-to-bar-pull-up.png`](remote/images/exercises/form.back-chest-to-bar-pull-up.png) | 93 KB |
-| [ ] | Clean Pull | [`form.back-clean-pull.png`](remote/images/exercises/form.back-clean-pull.png) | 109 KB |
-| [ ] | Dumbbell Deadlift | [`form.back-dumbbell-deadlift.png`](remote/images/exercises/form.back-dumbbell-deadlift.png) | 99 KB |
-| [ ] | Dumbbell High Pull | [`form.back-dumbbell-high-pull.png`](remote/images/exercises/form.back-dumbbell-high-pull.png) | 95 KB |
-| [ ] | Flexed-Arm Hang | [`form.back-flexed-arm-hang.png`](remote/images/exercises/form.back-flexed-arm-hang.png) | 65 KB |
-| [ ] | Incline Dumbbell Shrug | [`form.back-incline-dumbbell-shrug.png`](remote/images/exercises/form.back-incline-dumbbell-shrug.png) | 79 KB |
-| [ ] | Jefferson Curl | [`form.back-jefferson-curl.png`](remote/images/exercises/form.back-jefferson-curl.png) | 89 KB |
 | [ ] | Kettlebell Deadlift | [`form.back-kettlebell-deadlift.png`](remote/images/exercises/form.back-kettlebell-deadlift.png) | 92 KB |
 | [ ] | Kipping Pull-Up | [`form.back-kipping-pull-up.png`](remote/images/exercises/form.back-kipping-pull-up.png) | 137 KB |
 | [ ] | Kneeling Dumbbell Row | [`form.back-kneeling-dumbbell-row.png`](remote/images/exercises/form.back-kneeling-dumbbell-row.png) | 81 KB |
@@ -62,66 +52,6 @@ _Last generated 2026-09-30 — 41 pending, 13 replaced._
 | [ ] | Smith Machine Shoulder Press | [`form.shoulders-smith-machine-shoulder-press.png`](remote/images/exercises/form.shoulders-smith-machine-shoulder-press.png) | 83 KB |
 
 ## Prompts
-
-### Behind-the-Back Shrug
-
-`form.back-behind-the-back-shrug.png`
-
-> Instructional form-guide: Behind-the-Back Shrug. Two panels, rear three-quarter view of a standing athlete holding a barbell behind the body just below the glutes, palms facing back, a rack visible behind. START: shoulders relaxed down. FINISH: shoulders shrugged straight up toward the ears, arms still straight. Blue upward arrows above both shoulders. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Bent-Over Dumbbell Row
-
-`form.back-bent-over-dumbbell-row.png`
-
-> Instructional form-guide: Bent-Over Dumbbell Row. Two panels, side view of a standing athlete hinged to about 45 degrees with a flat back, a dumbbell in each hand, no bench. START: dumbbells hanging under the shoulders, palms facing each other. FINISH: both dumbbells rowed to the sides of the waist, elbows back. Blue upward arrows beside the dumbbells. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Chest-Supported T-Bar Row
-
-`form.back-chest-supported-t-bar-row.png`
-
-> Instructional form-guide: Chest-Supported T-Bar Row. Two panels, side view of an athlete standing on the foot platform of a plate-loaded T-bar row machine, chest lying on the angled pad, holding the lever handles; the lever pivots low at the back and carries weight plates at its front end. START: arms straight, shoulder blades spread. FINISH: handles rowed to the lower chest, elbows driven back, chest still on the pad. Blue arrow pointing up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Chest-to-Bar Pull-Up
-
-`form.back-chest-to-bar-pull-up.png`
-
-> Instructional form-guide: Chest-to-Bar Pull-Up. Two panels, side view of an athlete on a pull-up bar, overhand grip. START: dead hang. FINISH: upper chest touching the bar, head slightly back, elbows driven down and back. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Clean Pull
-
-`form.back-clean-pull.png`
-
-> Instructional form-guide: Clean Pull. Two panels, side view of an athlete with a loaded barbell. START: bar on the floor over mid-foot, clean-width grip, flat back, shoulders slightly ahead of the bar. FINISH: full hip and knee extension, on the toes, shoulders shrugged, arms straight, bar at upper thigh. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Dumbbell Deadlift
-
-`form.back-dumbbell-deadlift.png`
-
-> Instructional form-guide: Dumbbell Deadlift. Two panels, side view of a standing athlete with a dumbbell in each hand at the sides. START: hips back, knees bent, flat back, dumbbells at mid-shin beside the feet. FINISH: standing tall, dumbbells at the sides of the thighs. Blue upward arrow along the legs. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Dumbbell High Pull
-
-`form.back-dumbbell-high-pull.png`
-
-> Instructional form-guide: Dumbbell High Pull. Two panels, side view of an athlete holding a dumbbell in each hand. START: slight hip hinge, dumbbells just above the knees. FINISH: hips extended, shoulders shrugged, elbows pulled high and out, dumbbells at chest height. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Flexed-Arm Hang
-
-`form.back-flexed-arm-hang.png`
-
-> Instructional form-guide: Flexed-Arm Hang. One held position, front view of an athlete hanging from a pull-up bar with elbows fully bent and the chin above the bar, shoulders pulled down, a box below. A small blue timer icon labelled HOLD. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Incline Dumbbell Shrug
-
-`form.back-incline-dumbbell-shrug.png`
-
-> Instructional form-guide: Incline Dumbbell Shrug. Two panels, side view of an athlete lying chest-down on an incline bench, a dumbbell in each hand, arms hanging straight. START: shoulder blades spread, shoulders dropped. FINISH: shoulder blades pulled up and back, arms still straight. Small blue arrow at the shoulders. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Jefferson Curl
-
-`form.back-jefferson-curl.png`
-
-> Instructional form-guide: Jefferson Curl. Two panels, side view of an athlete standing on the edge of a low box with straight legs, holding a light dumbbell with both hands. START: standing tall, weight in front of the thighs. FINISH: spine rounded segment by segment, chin tucked, weight lowered past the toes below box level. Blue curved arrow following the spine roll-down. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Kettlebell Deadlift
 
@@ -324,3 +254,13 @@ _Last generated 2026-09-30 — 41 pending, 13 replaced._
 - [x] Single-Arm Overhead Tricep Extension — `form.arms-single-arm-overhead-tricep-extension.png`
 - [x] Straight Bar Dip — `form.arms-straight-bar-dip.png`
 - [x] Back Extension Hold — `form.back-back-extension-hold.png`
+- [x] Behind-the-Back Shrug — `form.back-behind-the-back-shrug.png`
+- [x] Bent-Over Dumbbell Row — `form.back-bent-over-dumbbell-row.png`
+- [x] Chest-Supported T-Bar Row — `form.back-chest-supported-t-bar-row.png`
+- [x] Chest-to-Bar Pull-Up — `form.back-chest-to-bar-pull-up.png`
+- [x] Clean Pull — `form.back-clean-pull.png`
+- [x] Dumbbell Deadlift — `form.back-dumbbell-deadlift.png`
+- [x] Dumbbell High Pull — `form.back-dumbbell-high-pull.png`
+- [x] Flexed-Arm Hang — `form.back-flexed-arm-hang.png`
+- [x] Incline Dumbbell Shrug — `form.back-incline-dumbbell-shrug.png`
+- [x] Jefferson Curl — `form.back-jefferson-curl.png`
