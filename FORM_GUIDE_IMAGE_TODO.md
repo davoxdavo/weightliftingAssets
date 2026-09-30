@@ -13,18 +13,16 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-09-29 — 54 pending, 0 replaced._
+_Last generated 2026-09-30 — 52 pending, 2 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Barbell 21s | [`form.arms-barbell-21s.png`](remote/images/exercises/form.arms-barbell-21s.png) | 91 KB |
 | [ ] | Bodyweight Tricep Extension | [`form.arms-bodyweight-tricep-extension.png`](remote/images/exercises/form.arms-bodyweight-tricep-extension.png) | 101 KB |
 | [ ] | Cable Preacher Curl | [`form.arms-cable-preacher-curl.png`](remote/images/exercises/form.arms-cable-preacher-curl.png) | 104 KB |
 | [ ] | Cross-Body Cable Tricep Extension | [`form.arms-cross-body-cable-extension.png`](remote/images/exercises/form.arms-cross-body-cable-extension.png) | 107 KB |
 | [ ] | Dumbbell Preacher Curl | [`form.arms-dumbbell-preacher-curl.png`](remote/images/exercises/form.arms-dumbbell-preacher-curl.png) | 88 KB |
-| [ ] | Dumbbell Skull Crusher | [`form.arms-dumbbell-skull-crusher.png`](remote/images/exercises/form.arms-dumbbell-skull-crusher.png) | 71 KB |
 | [ ] | EZ-Bar Overhead Tricep Extension | [`form.arms-ez-bar-overhead-tricep-extension.png`](remote/images/exercises/form.arms-ez-bar-overhead-tricep-extension.png) | 86 KB |
 | [ ] | Incline Hammer Curl | [`form.arms-incline-hammer-curl.png`](remote/images/exercises/form.arms-incline-hammer-curl.png) | 84 KB |
 | [ ] | Machine Dip | [`form.arms-machine-dip.png`](remote/images/exercises/form.arms-machine-dip.png) | 79 KB |
@@ -76,12 +74,6 @@ _Last generated 2026-09-29 — 54 pending, 0 replaced._
 
 ## Prompts
 
-### Barbell 21s
-
-`form.arms-barbell-21s.png`
-
-> Instructional form-guide: Barbell 21s. Three small panels, side view of a standing athlete curling a barbell with an underhand shoulder-width grip, elbows at the sides. Panel 1 labelled 7 × BOTTOM HALF: arms straight to forearms horizontal. Panel 2 labelled 7 × TOP HALF: forearms horizontal to the top. Panel 3 labelled 7 × FULL: bottom to top. Blue curved arrows for each range. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
 ### Bodyweight Tricep Extension
 
 `form.arms-bodyweight-tricep-extension.png`
@@ -105,12 +97,6 @@ _Last generated 2026-09-29 — 54 pending, 0 replaced._
 `form.arms-dumbbell-preacher-curl.png`
 
 > Instructional form-guide: Dumbbell Preacher Curl. Two panels, side view of an athlete seated at a preacher bench, back of one upper arm flat on the angled pad, one dumbbell in that hand, palm up. START: arm nearly straight down the pad. FINISH: forearm nearly vertical, dumbbell near the shoulder. Blue curved arrow along the forearm arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Dumbbell Skull Crusher
-
-`form.arms-dumbbell-skull-crusher.png`
-
-> Instructional form-guide: Dumbbell Skull Crusher. Two panels, side view of an athlete lying on a flat bench, a dumbbell in each hand, palms facing each other. START: arms straight above the shoulders. FINISH: elbows bent, dumbbells lowered beside the head, upper arms still. Blue curved arrow along the forearm arc. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### EZ-Bar Overhead Tricep Extension
 
@@ -399,3 +385,8 @@ _Last generated 2026-09-29 — 54 pending, 0 replaced._
 `form.shoulders-smith-machine-shoulder-press.png`
 
 > Instructional form-guide: Smith Machine Shoulder Press. Two panels, side three-quarter view of an athlete seated on an upright bench inside a Smith machine, back against the pad. START: guided bar at chin level in front of the face, forearms vertical. FINISH: arms straight overhead. Blue upward arrow along the vertical guide rails. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+
+## Replaced with AI art
+
+- [x] Barbell 21s — `form.arms-barbell-21s.png`
+- [x] Dumbbell Skull Crusher — `form.arms-dumbbell-skull-crusher.png`
