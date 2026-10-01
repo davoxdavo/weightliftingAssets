@@ -19,7 +19,7 @@ _Last generated 2026-10-01 — 21 pending, 33 replaced._
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 100 KB |
+| [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 307 KB |
 | [ ] | Rope Climb | [`form.back-rope-climb.png`](remote/images/exercises/form.back-rope-climb.png) | 118 KB |
 | [ ] | Smith Machine Row | [`form.back-smith-machine-row.png`](remote/images/exercises/form.back-smith-machine-row.png) | 97 KB |
 | [ ] | Smith Machine Shrug | [`form.back-smith-machine-shrug.png`](remote/images/exercises/form.back-smith-machine-shrug.png) | 94 KB |
