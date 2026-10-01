@@ -13,22 +13,14 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-01 — 21 pending, 33 replaced._
+_Last generated 2026-10-01 — 13 pending, 41 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
 | [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 307 KB |
-| [ ] | Rope Climb | [`form.back-rope-climb.png`](remote/images/exercises/form.back-rope-climb.png) | 118 KB |
-| [ ] | Smith Machine Row | [`form.back-smith-machine-row.png`](remote/images/exercises/form.back-smith-machine-row.png) | 97 KB |
-| [ ] | Smith Machine Shrug | [`form.back-smith-machine-shrug.png`](remote/images/exercises/form.back-smith-machine-shrug.png) | 94 KB |
-| [ ] | Snatch-Grip High Pull | [`form.back-snatch-grip-high-pull.png`](remote/images/exercises/form.back-snatch-grip-high-pull.png) | 112 KB |
-| [ ] | Stability Ball Back Extension | [`form.back-stability-ball-back-extension.png`](remote/images/exercises/form.back-stability-ball-back-extension.png) | 136 KB |
-| [ ] | Superman Hold | [`form.back-superman-hold.png`](remote/images/exercises/form.back-superman-hold.png) | 50 KB |
-| [ ] | Wide-Grip Seated Cable Row | [`form.back-wide-grip-seated-cable-row.png`](remote/images/exercises/form.back-wide-grip-seated-cable-row.png) | 141 KB |
-| [ ] | Archer Push-Up | [`form.chest-archer-push-up.png`](remote/images/exercises/form.chest-archer-push-up.png) | 94 KB |
-| [ ] | Incline Cable Press | [`form.chest-incline-cable-press.png`](remote/images/exercises/form.chest-incline-cable-press.png) | 86 KB |
+| [ ] | Superman Hold | [`form.back-superman-hold.png`](remote/images/exercises/form.back-superman-hold.png) | 197 KB |
 | [ ] | Dumbbell Side Bend | [`form.core-dumbbell-side-bend.png`](remote/images/exercises/form.core-dumbbell-side-bend.png) | 99 KB |
 | [ ] | Feet-Elevated Side Plank | [`form.core-feet-elevated-side-plank.png`](remote/images/exercises/form.core-feet-elevated-side-plank.png) | 98 KB |
 | [ ] | Flutter Kick | [`form.core-flutter-kick.png`](remote/images/exercises/form.core-flutter-kick.png) | 95 KB |
@@ -49,59 +41,11 @@ _Last generated 2026-10-01 — 21 pending, 33 replaced._
 
 > Instructional form-guide: Renegade Row. Two panels, side three-quarter view of an athlete in a high plank gripping two hex dumbbells on the floor, feet wide. START: both dumbbells on the floor, body in a straight line. FINISH: one dumbbell rowed to the ribs, hips still level, the other hand pressing its dumbbell into the floor. Blue upward arrow beside the rowing elbow. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
-### Rope Climb
-
-`form.back-rope-climb.png`
-
-> Instructional form-guide: Rope Climb. Two panels, side view of an athlete on a vertical gym rope. PULL: hands high, knees up, rope wrapped around one shin and pinched between the feet. STAND: legs straightened on the foot lock, hands reaching higher. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Smith Machine Row
-
-`form.back-smith-machine-row.png`
-
-> Instructional form-guide: Smith Machine Row. Two panels, side view of an athlete standing close to a Smith machine, hinged to about 45° with a flat back and slightly bent knees, overhand grip on the Smith bar, the vertical rail visible behind the bar. START: arms straight, bar at knee height. FINISH: bar rowed to the lower ribs, elbows driven back, torso angle unchanged. Blue arrow pointing up along the rail. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Smith Machine Shrug
-
-`form.back-smith-machine-shrug.png`
-
-> Instructional form-guide: Smith Machine Shrug. Two panels, front three-quarter view of an athlete standing inside a Smith machine holding the guided bar in front of the thighs with straight arms. START: shoulders relaxed down. FINISH: shoulders shrugged straight up toward the ears. Blue upward arrows above both shoulders; vertical guide rails visible. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Snatch-Grip High Pull
-
-`form.back-snatch-grip-high-pull.png`
-
-> Instructional form-guide: Snatch-Grip High Pull. Two panels, side three-quarter view of an athlete with a wide snatch grip on a barbell. START: bar at mid-thigh, hips hinged, shoulders over the bar. FINISH: full hip and knee extension on the toes, shoulders shrugged, elbows high and out, bar at lower-chest height close to the body. Blue upward arrow along the bar path. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Stability Ball Back Extension
-
-`form.back-stability-ball-back-extension.png`
-
-> Instructional form-guide: Stability Ball Back Extension. Two panels, side view of an athlete lying face down over a large stability ball at the hips, feet wide on the floor against a wall, hands at the temples. START: chest rounded down over the ball. FINISH: body in a straight line from head to heels. Blue curved arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
 ### Superman Hold
 
 `form.back-superman-hold.png`
 
 > Instructional form-guide: Superman Hold. One held position, side view of an athlete lying face down on a mat, arms stretched overhead, arms, chest and straight legs lifted a few centimetres off the floor. A small blue timer icon labelled HOLD. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Wide-Grip Seated Cable Row
-
-`form.back-wide-grip-seated-cable-row.png`
-
-> Instructional form-guide: Wide-Grip Seated Cable Row. Two panels, three-quarter front view of an athlete seated at a low cable row station, feet on the platform, holding a long straight lat bar with a wide overhand grip. START: arms extended, torso upright. FINISH: bar pulled to the upper stomach, elbows flared out and back, shoulder blades squeezed. Blue straight arrow from the pulley toward the stomach. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Archer Push-Up
-
-`form.chest-archer-push-up.png`
-
-> Instructional form-guide: Archer Push-Up. Two panels, front three-quarter view of an athlete in a very wide high plank. START: both arms straight, body in one line. FINISH: chest lowered toward the right hand with the right elbow bent, left arm straight and extended out to the side. Blue diagonal arrow from centre toward the working hand. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Incline Cable Press
-
-`form.chest-incline-cable-press.png`
-
-> Instructional form-guide: Incline Cable Press. Two panels, side view of an athlete lying on an incline bench set near 30°, placed between two low cable pulleys, a D-handle in each hand. START: handles beside the chest, elbows slightly below the shoulders, cables running down to the low pulleys. FINISH: arms straight, handles above the upper chest. Blue arrow pointing up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Dumbbell Side Bend
 
@@ -204,3 +148,11 @@ _Last generated 2026-10-01 — 21 pending, 33 replaced._
 - [x] Overhead Shrug — `form.back-overhead-shrug.png`
 - [x] Pause Deadlift — `form.back-pause-deadlift.png`
 - [x] Power Shrug — `form.back-power-shrug.png`
+- [x] Rope Climb — `form.back-rope-climb.png`
+- [x] Smith Machine Row — `form.back-smith-machine-row.png`
+- [x] Smith Machine Shrug — `form.back-smith-machine-shrug.png`
+- [x] Snatch-Grip High Pull — `form.back-snatch-grip-high-pull.png`
+- [x] Stability Ball Back Extension — `form.back-stability-ball-back-extension.png`
+- [x] Wide-Grip Seated Cable Row — `form.back-wide-grip-seated-cable-row.png`
+- [x] Archer Push-Up — `form.chest-archer-push-up.png`
+- [x] Incline Cable Press — `form.chest-incline-cable-press.png`
