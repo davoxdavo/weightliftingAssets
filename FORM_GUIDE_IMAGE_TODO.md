@@ -13,22 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-01 — 31 pending, 23 replaced._
+_Last generated 2026-10-01 — 21 pending, 33 replaced._
 
 ## Pending
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Kettlebell Deadlift | [`form.back-kettlebell-deadlift.png`](remote/images/exercises/form.back-kettlebell-deadlift.png) | 92 KB |
-| [ ] | Kipping Pull-Up | [`form.back-kipping-pull-up.png`](remote/images/exercises/form.back-kipping-pull-up.png) | 137 KB |
-| [ ] | Kneeling Dumbbell Row | [`form.back-kneeling-dumbbell-row.png`](remote/images/exercises/form.back-kneeling-dumbbell-row.png) | 81 KB |
-| [ ] | L-Sit Pull-Up | [`form.back-l-sit-pull-up.png`](remote/images/exercises/form.back-l-sit-pull-up.png) | 76 KB |
-| [ ] | Machine High Row | [`form.back-machine-high-row.png`](remote/images/exercises/form.back-machine-high-row.png) | 106 KB |
-| [ ] | Machine Lat Pulldown | [`form.back-machine-lat-pulldown.png`](remote/images/exercises/form.back-machine-lat-pulldown.png) | 86 KB |
-| [ ] | Negative Pull-Up | [`form.back-negative-pull-up.png`](remote/images/exercises/form.back-negative-pull-up.png) | 117 KB |
-| [ ] | Overhead Shrug | [`form.back-overhead-shrug.png`](remote/images/exercises/form.back-overhead-shrug.png) | 97 KB |
-| [ ] | Pause Deadlift | [`form.back-pause-deadlift.png`](remote/images/exercises/form.back-pause-deadlift.png) | 145 KB |
-| [ ] | Power Shrug | [`form.back-power-shrug.png`](remote/images/exercises/form.back-power-shrug.png) | 116 KB |
 | [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 100 KB |
 | [ ] | Rope Climb | [`form.back-rope-climb.png`](remote/images/exercises/form.back-rope-climb.png) | 118 KB |
 | [ ] | Smith Machine Row | [`form.back-smith-machine-row.png`](remote/images/exercises/form.back-smith-machine-row.png) | 97 KB |
@@ -52,66 +42,6 @@ _Last generated 2026-10-01 — 31 pending, 23 replaced._
 | [ ] | Smith Machine Shoulder Press | [`form.shoulders-smith-machine-shoulder-press.png`](remote/images/exercises/form.shoulders-smith-machine-shoulder-press.png) | 83 KB |
 
 ## Prompts
-
-### Kettlebell Deadlift
-
-`form.back-kettlebell-deadlift.png`
-
-> Instructional form-guide: Kettlebell Deadlift. Two panels, side view of an athlete with a kettlebell on the floor between the feet. START: hips back, flat back, both hands on the handle. FINISH: standing tall, kettlebell hanging at arm's length in front of the hips. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Kipping Pull-Up
-
-`form.back-kipping-pull-up.png`
-
-> Instructional form-guide: Kipping Pull-Up. Three small panels, side view of an athlete on a pull-up bar. Panel 1 ARCH: chest through the arms, legs behind. Panel 2 HOLLOW: chest back, legs in front. Panel 3 FINISH: hips snapped up, chin over the bar. Blue arrows showing the swing and the pull. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Kneeling Dumbbell Row
-
-`form.back-kneeling-dumbbell-row.png`
-
-> Instructional form-guide: Kneeling Dumbbell Row. Two panels, side view of an athlete kneeling on a mat, both knees down, shins flat behind, hips sitting back, torso hinged forward about 35° above horizontal with a flat back, a dumbbell in each hand, palms facing each other. START: arms hanging straight under the shoulders. FINISH: both dumbbells rowed to the hips, elbows driven back. Blue arrow pointing up beside the dumbbells. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### L-Sit Pull-Up
-
-`form.back-l-sit-pull-up.png`
-
-> Instructional form-guide: L-Sit Pull-Up. Two panels, side view of an athlete hanging from a pull-up bar with straight legs held horizontally in an L. START: arms straight. FINISH: chin over the bar, legs still horizontal. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Machine High Row
-
-`form.back-machine-high-row.png`
-
-> Instructional form-guide: Machine High Row. Two panels, side view of an athlete seated in a plate-loaded high row machine, chest against the pad, thighs under the knee pad. START: arms fully extended up and forward on the handles. FINISH: handles pulled down and back to the upper ribs, elbows at the sides. Blue curved arrow from high-front to low-back. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Machine Lat Pulldown
-
-`form.back-machine-lat-pulldown.png`
-
-> Instructional form-guide: Machine Lat Pulldown. Two panels, side view of an athlete seated in a plate-loaded lat pulldown machine, thighs under pads, gripping two independent handles overhead. START: arms straight up. FINISH: handles pulled to chin height, elbows down and back. Blue straight arrow downward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Negative Pull-Up
-
-`form.back-negative-pull-up.png`
-
-> Instructional form-guide: Negative Pull-Up. Two panels, front view of an athlete on a pull-up bar with a box beneath. TOP: chin over the bar, feet just off the box. SLOW DOWN: arms straight in a dead hang, a long blue downward arrow labelled 3–5 s. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Overhead Shrug
-
-`form.back-overhead-shrug.png`
-
-> Instructional form-guide: Overhead Shrug. Two panels, front view of a standing athlete holding a light barbell locked out overhead with a wide snatch grip. START: shoulders settled down, elbows locked. FINISH: shoulders shrugged up toward the ears, bar slightly higher, elbows still locked. Blue short upward arrows beside the shoulders. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Pause Deadlift
-
-`form.back-pause-deadlift.png`
-
-> Instructional form-guide: Pause Deadlift. Two panels, side view of an athlete deadlifting a loaded barbell. START: bar on the floor over mid-foot, flat back. PAUSE: bar held just below the knees, back flat, a small blue timer icon labelled 1–3 s. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Power Shrug
-
-`form.back-power-shrug.png`
-
-> Instructional form-guide: Power Shrug. Two panels, side view of an athlete holding a barbell at mid-thigh with a clean-width grip. START: short knee dip, bar just above the knees, torso upright. FINISH: hips and knees extended, up on the toes, shoulders shrugged high, arms straight. Blue straight arrow upward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Renegade Row
 
@@ -264,3 +194,13 @@ _Last generated 2026-10-01 — 31 pending, 23 replaced._
 - [x] Flexed-Arm Hang — `form.back-flexed-arm-hang.png`
 - [x] Incline Dumbbell Shrug — `form.back-incline-dumbbell-shrug.png`
 - [x] Jefferson Curl — `form.back-jefferson-curl.png`
+- [x] Kettlebell Deadlift — `form.back-kettlebell-deadlift.png`
+- [x] Kipping Pull-Up — `form.back-kipping-pull-up.png`
+- [x] Kneeling Dumbbell Row — `form.back-kneeling-dumbbell-row.png`
+- [x] L-Sit Pull-Up — `form.back-l-sit-pull-up.png`
+- [x] Machine High Row — `form.back-machine-high-row.png`
+- [x] Machine Lat Pulldown — `form.back-machine-lat-pulldown.png`
+- [x] Negative Pull-Up — `form.back-negative-pull-up.png`
+- [x] Overhead Shrug — `form.back-overhead-shrug.png`
+- [x] Pause Deadlift — `form.back-pause-deadlift.png`
+- [x] Power Shrug — `form.back-power-shrug.png`
