@@ -13,7 +13,7 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-01 — 13 pending, 41 replaced._
+_Last generated 2026-10-02 — 12 pending, 42 replaced._
 
 ## Pending
 
@@ -21,7 +21,6 @@ _Last generated 2026-10-01 — 13 pending, 41 replaced._
 | --- | --- | --- | --- |
 | [ ] | Renegade Row | [`form.back-renegade-row.png`](remote/images/exercises/form.back-renegade-row.png) | 307 KB |
 | [ ] | Superman Hold | [`form.back-superman-hold.png`](remote/images/exercises/form.back-superman-hold.png) | 197 KB |
-| [ ] | Dumbbell Side Bend | [`form.core-dumbbell-side-bend.png`](remote/images/exercises/form.core-dumbbell-side-bend.png) | 99 KB |
 | [ ] | Feet-Elevated Side Plank | [`form.core-feet-elevated-side-plank.png`](remote/images/exercises/form.core-feet-elevated-side-plank.png) | 98 KB |
 | [ ] | Flutter Kick | [`form.core-flutter-kick.png`](remote/images/exercises/form.core-flutter-kick.png) | 95 KB |
 | [ ] | Long-Lever Plank | [`form.core-long-lever-plank.png`](remote/images/exercises/form.core-long-lever-plank.png) | 83 KB |
@@ -46,12 +45,6 @@ _Last generated 2026-10-01 — 13 pending, 41 replaced._
 `form.back-superman-hold.png`
 
 > Instructional form-guide: Superman Hold. One held position, side view of an athlete lying face down on a mat, arms stretched overhead, arms, chest and straight legs lifted a few centimetres off the floor. A small blue timer icon labelled HOLD. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### Dumbbell Side Bend
-
-`form.core-dumbbell-side-bend.png`
-
-> Instructional form-guide: Dumbbell Side Bend. Two panels, front view of a standing athlete with one dumbbell in the right hand at the side, left hand behind the head. START: torso upright. FINISH: torso bent directly sideways toward the dumbbell, which has slid down toward the knee, hips still. Blue curved arrow along the side of the torso. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### Feet-Elevated Side Plank
 
@@ -156,3 +149,4 @@ _Last generated 2026-10-01 — 13 pending, 41 replaced._
 - [x] Wide-Grip Seated Cable Row — `form.back-wide-grip-seated-cable-row.png`
 - [x] Archer Push-Up — `form.chest-archer-push-up.png`
 - [x] Incline Cable Press — `form.chest-incline-cable-press.png`
+- [x] Dumbbell Side Bend — `form.core-dumbbell-side-bend.png`
