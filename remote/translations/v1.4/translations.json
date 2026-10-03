@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790741399,
+  "lastSyncedAt": 1790930388,
   "minAppVersion": "1.4",
   "strings": {
     "Misc": {
@@ -1415,7 +1415,7 @@
         "hy": "Հաշվի պատրաստում…",
         "sv": "Förbereder konto...",
         "nb": "Klargjør konto …",
-        "nl": "Rekening voorbereiden…",
+        "nl": "Account voorbereiden…",
         "da": "Forbereder konto...",
         "pl": "Przygotowuję konto…",
         "fr": "Préparation du compte…",
@@ -1447,7 +1447,7 @@
       },
       "streak.boardNote": {
         "en": "You'll also move to the %lld-day leaderboard. Your best on each board is kept.",
-        "ru": "Вы также перейдёте в таблицу лидеров на %lld дней. Ваш лучший результат в каждой таблице сохраняется.",
+        "ru": "Вы также перейдёте в таблицу лидеров «%lld дн. в неделю». Ваш лучший результат в каждой таблице сохраняется.",
         "hy": "Դուք նաև կտեղափոխվեք %lld-օրյա առաջատարների աղյուսակ։ Ձեր լավագույն արդյունքը յուրաքանչյուր աղյուսակում պահպանվում է։",
         "sv": "Du flyttas också till topplistan för %lld dagar. Ditt bästa på varje lista sparas.",
         "nb": "Du flyttes også til ledertavlen for %lld dager. Ditt beste på hver tavle beholdes.",
@@ -1579,7 +1579,7 @@
       },
       "streak.lower.title": {
         "en": "Lower to %lld days a week?",
-        "ru": "Понизить до %lld дней в неделю?",
+        "ru": "Понизить до %lld дн. в неделю?",
         "hy": "Իջեցնե՞լ մինչև շաբաթական %lld օր",
         "sv": "Sänk till %lld dagar i veckan?",
         "nb": "Senke til %lld dager i uken?",
@@ -1615,7 +1615,7 @@
       },
       "streak.raise.title": {
         "en": "Raise to %lld days a week?",
-        "ru": "Повысить до %lld дней в неделю?",
+        "ru": "Повысить до %lld дн. в неделю?",
         "hy": "Բարձրացնե՞լ մինչև շաբաթական %lld օր",
         "sv": "Höj till %lld dagar i veckan?",
         "nb": "Øke til %lld dager i uken?",
@@ -1715,7 +1715,7 @@
         "hy": "Հաշիվ",
         "sv": "Konto",
         "nb": "Konto",
-        "nl": "Rekening",
+        "nl": "Account",
         "da": "Konto",
         "pl": "Konto",
         "fr": "Compte",
@@ -2617,13 +2617,13 @@
       },
       "daysTrained": {
         "en": "%lld days trained",
-        "ru": "%lld дней с тренировками",
+        "ru": "Дней с тренировками: %lld",
         "hy": "%lld մարզման օր",
         "sv": "%lld dagar tränade",
         "nb": "%lld dager trent",
         "nl": "%lld dagen getraind",
         "da": "%lld dage trænet",
-        "pl": "%lld dni szkolenia",
+        "pl": "Dni z treningiem: %lld",
         "fr": "%lld jours de formation",
         "ar": "%lld أيام تدريب"
       },
@@ -2689,13 +2689,13 @@
       },
       "workoutCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld treningsøkter",
         "nl": "%lld trainingen",
         "da": "%lld træning",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld entraînements",
         "ar": "%lld التدريبات"
       }
@@ -2705,25 +2705,25 @@
         "en": "Arms",
         "ru": "Руки",
         "hy": "Ձեռքեր",
-        "sv": "Vapen",
-        "nb": "Våpen",
+        "sv": "Armar",
+        "nb": "Armer",
         "nl": "Armen",
-        "da": "Våben",
-        "pl": "Herb",
+        "da": "Arme",
+        "pl": "Ramiona",
         "fr": "Bras",
-        "ar": "الأسلحة"
+        "ar": "الذراعان"
       },
       "back": {
         "en": "Back",
         "ru": "Спина",
         "hy": "Մեջք",
-        "sv": "Tillbaka",
-        "nb": "Tilbake",
+        "sv": "Rygg",
+        "nb": "Rygg",
         "nl": "Rug",
-        "da": "Tilbage",
-        "pl": "Z powrotem",
+        "da": "Ryg",
+        "pl": "Plecy",
         "fr": "Dos",
-        "ar": "خلف"
+        "ar": "الظهر"
       },
       "cardio": {
         "en": "Cardio",
@@ -2735,31 +2735,31 @@
         "da": "Cardio",
         "pl": "Kardio",
         "fr": "Cardio",
-        "ar": "القلب"
+        "ar": "كارديو"
       },
       "chest": {
         "en": "Chest",
         "ru": "Грудь",
         "hy": "Կրծքավանդակ",
         "sv": "Bröst",
-        "nb": "Kiste",
+        "nb": "Bryst",
         "nl": "Borst",
         "da": "Bryst",
         "pl": "Klatka piersiowa",
-        "fr": "Poitrine",
-        "ar": "صدر"
+        "fr": "Pectoraux",
+        "ar": "الصدر"
       },
       "core": {
         "en": "Core",
         "ru": "Кор",
         "hy": "Հիմնային",
-        "sv": "Kärna",
+        "sv": "Bål",
         "nb": "Kjerne",
-        "nl": "Kern",
-        "da": "Kerne",
-        "pl": "Rdzeń",
-        "fr": "Cœur",
-        "ar": "جوهر"
+        "nl": "Core",
+        "da": "Core",
+        "pl": "Core",
+        "fr": "Gainage",
+        "ar": "الجذع"
       },
       "legs": {
         "en": "Legs",
@@ -2771,7 +2771,7 @@
         "da": "Ben",
         "pl": "Nogi",
         "fr": "Jambes",
-        "ar": "الساقين"
+        "ar": "الساقان"
       },
       "mobility": {
         "en": "Mobility",
@@ -2781,21 +2781,21 @@
         "nb": "Mobilitet",
         "nl": "Mobiliteit",
         "da": "Mobilitet",
-        "pl": "Ruchliwość",
+        "pl": "Mobilność",
         "fr": "Mobilité",
-        "ar": "التنقل"
+        "ar": "المرونة"
       },
       "other": {
         "en": "Other",
         "ru": "Другое",
         "hy": "Այլ",
-        "sv": "Andra",
-        "nb": "Annen",
-        "nl": "Ander",
-        "da": "Andre",
-        "pl": "Inny",
+        "sv": "Övrigt",
+        "nb": "Annet",
+        "nl": "Overig",
+        "da": "Andet",
+        "pl": "Inne",
         "fr": "Autre",
-        "ar": "آخر"
+        "ar": "أخرى"
       },
       "shoulders": {
         "en": "Shoulders",
@@ -2805,9 +2805,9 @@
         "nb": "Skuldre",
         "nl": "Schouders",
         "da": "Skuldre",
-        "pl": "Plecy",
+        "pl": "Barki",
         "fr": "Épaules",
-        "ar": "أكتاف"
+        "ar": "الأكتاف"
       },
       "superset": {
         "en": "Superset",
@@ -2817,9 +2817,9 @@
         "nb": "Supersett",
         "nl": "Superset",
         "da": "Supersæt",
-        "pl": "Nadzbiór",
-        "fr": "Surensemble",
-        "ar": "مجموعة شاملة"
+        "pl": "Superseria",
+        "fr": "Superset",
+        "ar": "سوبر سيت"
       }
     },
     "Coach": {
@@ -3045,25 +3045,25 @@
         "en": "Add",
         "ru": "Добавить",
         "hy": "Ավելացնել",
-        "sv": "Tillägga",
-        "nb": "Legge til",
+        "sv": "Lägg till",
+        "nb": "Legg til",
         "nl": "Toevoegen",
-        "da": "Tilføje",
-        "pl": "Dodać",
+        "da": "Tilføj",
+        "pl": "Dodaj",
         "fr": "Ajouter",
-        "ar": "يضيف"
+        "ar": "إضافة"
       },
       "apply": {
         "en": "Apply",
         "ru": "Применить",
         "hy": "Կիրառել",
-        "sv": "Tillämpas",
-        "nb": "Søke",
+        "sv": "Använd",
+        "nb": "Bruk",
         "nl": "Toepassen",
-        "da": "Anvende",
-        "pl": "Stosować",
+        "da": "Anvend",
+        "pl": "Zastosuj",
         "fr": "Appliquer",
-        "ar": "يتقدم"
+        "ar": "تطبيق"
       },
       "cancel": {
         "en": "Cancel",
@@ -3082,24 +3082,24 @@
         "ru": "Очистить",
         "hy": "Մաքրել",
         "sv": "Rensa",
-        "nb": "Klar",
-        "nl": "Duidelijk",
-        "da": "Klar",
-        "pl": "Jasne",
-        "fr": "Clair",
-        "ar": "واضح"
+        "nb": "Tøm",
+        "nl": "Wissen",
+        "da": "Ryd",
+        "pl": "Wyczyść",
+        "fr": "Effacer",
+        "ar": "مسح"
       },
       "close": {
         "en": "Close",
         "ru": "Закрыть",
         "hy": "Փակել",
-        "sv": "Nära",
-        "nb": "Lukke",
-        "nl": "Dichtbij",
-        "da": "Tæt",
-        "pl": "Zamknąć",
+        "sv": "Stäng",
+        "nb": "Lukk",
+        "nl": "Sluiten",
+        "da": "Luk",
+        "pl": "Zamknij",
         "fr": "Fermer",
-        "ar": "يغلق"
+        "ar": "إغلاق"
       },
       "delete": {
         "en": "Delete",
@@ -3130,12 +3130,12 @@
         "ru": "Изменить",
         "hy": "Խմբագրել",
         "sv": "Redigera",
-        "nb": "Redigere",
-        "nl": "Bewerking",
-        "da": "Redigere",
-        "pl": "Redagować",
+        "nb": "Rediger",
+        "nl": "Bewerken",
+        "da": "Rediger",
+        "pl": "Edytuj",
         "fr": "Modifier",
-        "ar": "يحرر"
+        "ar": "تعديل"
       },
       "save": {
         "en": "Save",
@@ -3873,11 +3873,11 @@
         "en": "Gym Logbook can estimate what a session cost you. It is worked out from your height, weight, age and how long you trained — an average for a body like yours, not a measurement of yours.",
         "ru": "Gym Logbook может оценить, во что обошлась тренировка. Расчёт идёт по росту, весу, возрасту и длительности — это среднее для такого тела, как у вас, а не измерение.",
         "hy": "Gym Logbook-ը կարող է գնահատել, թե ինչ արժեցավ մարզումը։ Հաշվարկը հիմնված է հասակի, քաշի, տարիքի և տևողության վրա — միջին արժեք ձեր նման մարմնի համար, ոչ թե չափում։",
-        "sv": "Gymloggbok kan uppskatta vad ett pass kostade dig. Det räknas ut från din längd, vikt, ålder och hur länge du tränade – ett genomsnitt för en kropp som din, inte en mätning av din.",
-        "nb": "Gymloggbok kan anslå hva en økt kostet deg. Det regnes ut fra høyde, vekt, alder og hvor lenge du trente – et gjennomsnitt for en kropp som din, ikke en måling av din.",
-        "nl": "Gymlogboek kan schatten wat een sessie je kostte. Het wordt berekend uit je lengte, gewicht, leeftijd en hoe lang je trainde — een gemiddelde voor een lichaam als het jouwe, geen meting.",
+        "sv": "Gym Logbook kan uppskatta vad ett pass kostade dig. Det räknas ut från din längd, vikt, ålder och hur länge du tränade – ett genomsnitt för en kropp som din, inte en mätning av din.",
+        "nb": "Gym Logbook kan anslå hva en økt kostet deg. Det regnes ut fra høyde, vekt, alder og hvor lenge du trente – et gjennomsnitt for en kropp som din, ikke en måling av din.",
+        "nl": "Gym Logbook kan schatten wat een sessie je kostte. Het wordt berekend uit je lengte, gewicht, leeftijd en hoe lang je trainde — een gemiddelde voor een lichaam als het jouwe, geen meting.",
         "da": "Gymlogbog kan estimere, hvad et træningspas kostede dig. Det beregnes ud fra din højde, vægt, alder og hvor længe du trænede – et gennemsnit for en krop som din, ikke en måling af din.",
-        "pl": "Dziennik siłowni może oszacować, ile kosztował cię trening. Wyliczenie opiera się na wzroście, wadze, wieku i czasie treningu — to średnia dla takiego ciała jak twoje, a nie pomiar.",
+        "pl": "Gym Logbook może oszacować, ile kosztował cię trening. Wyliczenie opiera się na wzroście, wadze, wieku i czasie treningu — to średnia dla takiego ciała jak twoje, a nie pomiar.",
         "fr": "Gym Logbook peut estimer ce qu’une séance vous a coûté. Le calcul se base sur votre taille, votre poids, votre âge et la durée — une moyenne pour un corps comme le vôtre, pas une mesure.",
         "ar": "يمكن لـ Gym Logbook تقدير ما كلّفتك الجلسة. يُحتسب ذلك من طولك ووزنك وعمرك ومدة تمرينك — وهو متوسط لجسم مثل جسمك، لا قياس له."
       },
@@ -4341,13 +4341,13 @@
       },
       "summary": {
         "en": "Average %1$d, low %2$d, peak %3$d beats per minute",
-        "ru": "Средний %1$d, минимум %2$d, максимум %3$d ударов в минуту",
+        "ru": "Средний %1$d, минимум %2$d, максимум %3$d уд/мин",
         "hy": "Միջին %1$d, նվազագույն %2$d, առավելագույն %3$d զարկ րոպեում",
         "sv": "Snitt %1$d, lägsta %2$d, högsta %3$d slag per minut",
         "nb": "Snitt %1$d, laveste %2$d, høyeste %3$d slag i minuttet",
         "nl": "Gemiddeld %1$d, laagste %2$d, hoogste %3$d slagen per minuut",
         "da": "Gennemsnit %1$d, laveste %2$d, højeste %3$d slag i minuttet",
-        "pl": "Średnie %1$d, najniższe %2$d, najwyższe %3$d uderzeń na minutę",
+        "pl": "Średnie %1$d, najniższe %2$d, najwyższe %3$d ud./min",
         "fr": "Moyenne %1$d, minimum %2$d, maximum %3$d battements par minute",
         "ar": "المتوسط %1$d، الأدنى %2$d، الأعلى %3$d نبضة في الدقيقة"
       },
@@ -6047,31 +6047,31 @@
       },
       "categoryExerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
       "categoryPresetCount": {
         "en": "%lld presets",
-        "ru": "%lld пресетов",
+        "ru": "Пресетов: %lld",
         "hy": "%lld նախադրվածք",
         "sv": "%lld förinställningar",
         "nb": "%lld forhåndsinnstillinger",
         "nl": "%lld voorinstellingen",
         "da": "%lld forudindstillinger",
-        "pl": "%lld ustawień wstępnych",
+        "pl": "Presety: %lld",
         "fr": "%lld préréglages",
         "ar": "%lld الإعدادات المسبقة"
       },
       "categorySelectedCount": {
         "en": "%lld selected",
-        "ru": "%lld выбрано",
+        "ru": "Выбрано: %lld",
         "hy": "%lld ընտրված",
         "sv": "%lld vald",
         "nb": "%lld valgt",
@@ -8255,13 +8255,13 @@
       },
       "sport.count": {
         "en": "%lld sports",
-        "ru": "%lld видов спорта",
+        "ru": "Видов спорта: %lld",
         "hy": "%lld սպորտաձև",
         "sv": "%lld sporter",
         "nb": "%lld sporter",
         "nl": "%lld sporten",
         "da": "%lld sportsgrene",
-        "pl": "%lld sportów",
+        "pl": "Sporty: %lld",
         "fr": "%lld sports",
         "ar": "%lld رياضات"
       },
@@ -8623,7 +8623,7 @@
         "nb": "%lld treningsøkter i denne sikkerhetskopien",
         "nl": "%lld trainingen in deze back-up",
         "da": "%lld træningspas i denne sikkerhedskopi",
-        "pl": "%lld treningów w tej kopii zapasowej",
+        "pl": "Treningi w tej kopii zapasowej: %lld",
         "fr": "%lld séances dans cette sauvegarde",
         "ar": "%lld تمارين في هذه النسخة الاحتياطية"
       }
@@ -8763,13 +8763,13 @@
       },
       "unlock.body": {
         "en": "%d weeks in a row. Time for a harder session: two sets per exercise, each taken to failure.",
-        "ru": "%d недель подряд. Время для более жёсткой сессии: по два подхода на упражнение, каждый до отказа.",
+        "ru": "%d нед. подряд. Время для более жёсткой сессии: по два подхода на упражнение, каждый до отказа.",
         "hy": "%d շաբաթ անընդմեջ։ Ժամանակն է ավելի դժվար մարզման՝ երկու մոտեցում յուրաքանչյուր վարժության համար՝ մինչև ձախողում։",
         "sv": "%d veckor i rad. Dags för ett tuffare pass: två set per övning, varje till failure.",
         "nb": "%d uker på rad. Tid for en hardere økt: to sett per øvelse, hvert til failure.",
         "nl": "%d weken op rij. Tijd voor een zwaardere sessie: twee sets per oefening, elk tot failure.",
         "da": "%d uger i træk. Tid til en hårdere session: to sæt pr. øvelse, hvert til failure.",
-        "pl": "%d tygodni z rzędu. Czas na trudniejszą sesję: dwa serie na ćwiczenie, każda do upadku.",
+        "pl": "Tygodnie z rzędu: %d. Czas na trudniejszy trening: dwie serie na ćwiczenie, każda do upadku.",
         "fr": "%d semaines d’affilée. Place à une séance plus dure : deux séries par exercice, chacune jusqu’à l’échec.",
         "ar": "%d أسابيع متتالية. حان وقت جلسة أصعب: مجموعتان لكل تمرين، كل منها حتى الفشل."
       },
@@ -9611,7 +9611,7 @@
         "nb": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "nl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "da": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
-        "pl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "pl": "Partner usunął ćwiczenia (%lld), w których masz już zapisane serie. Usuń je także tutaj albo zachowaj własną kopię.",
         "fr": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "ar": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy."
       },
@@ -9623,7 +9623,7 @@
         "nb": "Remove %lld Exercise(s)?",
         "nl": "Remove %lld Exercise(s)?",
         "da": "Remove %lld Exercise(s)?",
-        "pl": "Remove %lld Exercise(s)?",
+        "pl": "Usunąć ćwiczenia (%lld)?",
         "fr": "Remove %lld Exercise(s)?",
         "ar": "Remove %lld Exercise(s)?"
       },
@@ -9765,11 +9765,11 @@
         "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
         "ru": "Gym Logbook на техническом обслуживании. Попробуйте ещё раз чуть позже.",
         "hy": "Gym Logbook-ը սպասարկման մեջ է։ Խնդրում ենք փորձել քիչ անց։",
-        "sv": "Gymloggboken genomgår underhåll. Försök snart igen.",
-        "nb": "Gymloggbok er under vedlikehold. Vennligst prøv igjen snart.",
-        "nl": "Gymlogboek ondergaat onderhoud. Probeer het binnenkort opnieuw.",
+        "sv": "Gym Logbook genomgår underhåll. Försök snart igen.",
+        "nb": "Gym Logbook er under vedlikehold. Vennligst prøv igjen snart.",
+        "nl": "Gym Logbook ondergaat onderhoud. Probeer het binnenkort opnieuw.",
         "da": "Gymlogbog er under vedligeholdelse. Prøv igen snart.",
-        "pl": "Dziennik siłowni jest w trakcie prac konserwacyjnych. Spróbuj ponownie wkrótce.",
+        "pl": "Gym Logbook jest w trakcie prac konserwacyjnych. Spróbuj ponownie wkrótce.",
         "fr": "Le journal de bord du gymnase est en cours de maintenance. Veuillez réessayer sous peu.",
         "ar": "يخضع Gym Logbook للصيانة. يرجى المحاولة مرة أخرى قريبا."
       },
@@ -9879,7 +9879,7 @@
         "nb": "%lld treningsøkter kunne ikke synkroniseres. Bruk Synkroniser nylige eller Prøv igjen på en økt.",
         "nl": "%lld trainingen konden niet worden gesynchroniseerd. Gebruik Recente synchroniseren of Opnieuw proberen bij een training.",
         "da": "%lld træninger kunne ikke synkroniseres. Brug Synkroniser seneste eller Prøv igen på en træning.",
-        "pl": "Nie udało się zsynchronizować %lld treningów. Użyj Synchronizuj ostatnie lub Ponów przy treningu.",
+        "pl": "Treningi, których nie udało się zsynchronizować: %lld. Użyj Synchronizuj ostatnie lub Ponów przy treningu.",
         "fr": "%lld entraînements n’ont pas pu être synchronisés. Utilisez Synchroniser les récents ou Réessayer sur un entraînement.",
         "ar": "فشل مزامنة %lld من التدريبات. استخدم مزامنة الأخيرة أو إعادة المحاولة على تمرين."
       },
@@ -9939,7 +9939,7 @@
         "nb": "Synkroniserte %lld treningsøkter.",
         "nl": "Gesynchroniseerde %lld trainingen.",
         "da": "Synkroniseret %lld træning.",
-        "pl": "Zsynchronizowane treningi %lld.",
+        "pl": "Zsynchronizowane treningi: %lld.",
         "fr": "Entraînements %lld synchronisés.",
         "ar": "تمت مزامنة %lld من التدريبات."
       },
@@ -9951,7 +9951,7 @@
         "nb": "Synkroniserte %lld treningsøkter; %lld mislyktes.",
         "nl": "%lld trainingen gesynchroniseerd; %lld mislukt.",
         "da": "Synkroniserede %lld træninger; %lld mislykkedes.",
-        "pl": "Zsynchronizowano %lld treningów; %lld niepowodzeń.",
+        "pl": "Zsynchronizowane treningi: %lld; nieudane: %lld.",
         "fr": "%lld entraînements synchronisés ; %lld échecs.",
         "ar": "تمت مزامنة %lld؛ فشل %lld."
       },
@@ -10509,7 +10509,7 @@
         "nb": "%lld planlagte sett(er) ikke utført",
         "nl": "%lld geplande set(s) niet uitgevoerd",
         "da": "%lld planlagte sæt(er) ikke udført",
-        "pl": "%lld planowane zestawy nie zostały wykonane",
+        "pl": "Niewykonane zaplanowane serie: %lld",
         "fr": "%lld set(s) planifié(s) non terminé(s)",
         "ar": "لم يتم تنفيذ %lld من المجموعة (المجموعات) المخططة"
       },
@@ -10575,13 +10575,13 @@
       },
       "searchResultsCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld treningsøkter",
         "nl": "%lld trainingen",
         "da": "%lld træning",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld entraînements",
         "ar": "%lld التدريبات"
       },
@@ -10661,13 +10661,13 @@
       },
       "conflict.detail": {
         "en": "%lld exercises · %lld sets",
-        "ru": "%lld упражнений · %lld подходов",
+        "ru": "Упражнений: %lld · подходов: %lld",
         "hy": "%lld վարժություն · %lld մոտեցում",
         "sv": "%lld övningar · %lld set",
         "nb": "%lld øvelser · %lld sett",
         "nl": "%lld oefeningen · %lld sets",
         "da": "%lld øvelser · %lld sæt",
-        "pl": "%lld ćwiczeń · %lld zestawów",
+        "pl": "Ćwiczenia: %lld · serie: %lld",
         "fr": "%lld exercices · %lld ensembles",
         "ar": "%lld تمارين · %lld مجموعات"
       },
@@ -10863,7 +10863,7 @@
         "da": "%lld min",
         "pl": "%lld min",
         "fr": "%lld min",
-        "ar": "%ll دقيقة"
+        "ar": "%lld دقيقة"
       },
       "byCategory": {
         "en": "By category",
@@ -10902,16 +10902,16 @@
         "ar": "التدريبات"
       },
       "dataMenu": {
-        "en": "Export & Import",
-        "ru": "Экспорт и импорт",
-        "hy": "Արտահանում և ներմուծում",
-        "sv": "Exportera och importera",
-        "nb": "Eksport og import",
-        "nl": "Exporteren en importeren",
-        "da": "Eksport & Import",
-        "pl": "Eksportuj i importuj",
-        "fr": "Exporter et importer",
-        "ar": "التصدير والاستيراد"
+        "en": "Data",
+        "ru": "Данные",
+        "hy": "Տվյալներ",
+        "sv": "Data",
+        "nb": "Data",
+        "nl": "Gegevens",
+        "da": "Data",
+        "pl": "Dane",
+        "fr": "Données",
+        "ar": "البيانات"
       },
       "dose.bar.target": {
         "en": "Your target",
@@ -11449,7 +11449,7 @@
         "nb": "%lld muscle groups trained",
         "nl": "%lld muscle groups trained",
         "da": "%lld muscle groups trained",
-        "pl": "%lld muscle groups trained",
+        "pl": "Trenowane grupy mięśni: %lld",
         "fr": "%lld muscle groups trained",
         "ar": "%lld muscle groups trained"
       },
@@ -11545,7 +11545,7 @@
         "nb": "%lld weeks of momentum",
         "nl": "%lld weeks of momentum",
         "da": "%lld weeks of momentum",
-        "pl": "%lld weeks of momentum",
+        "pl": "Tygodnie z rzędu: %lld",
         "fr": "%lld weeks of momentum",
         "ar": "%lld weeks of momentum"
       },
@@ -11653,7 +11653,7 @@
         "nb": "%lld sessions in the last 4 weeks",
         "nl": "%lld sessions in the last 4 weeks",
         "da": "%lld sessions in the last 4 weeks",
-        "pl": "%lld sessions in the last 4 weeks",
+        "pl": "Treningi w ostatnich 4 tygodniach: %lld",
         "fr": "%lld sessions in the last 4 weeks",
         "ar": "%lld sessions in the last 4 weeks"
       },
@@ -11701,7 +11701,7 @@
         "nb": "%lld-week streak",
         "nl": "%lld-week streak",
         "da": "%lld-week streak",
-        "pl": "%lld-week streak",
+        "pl": "seria: %lld tyg.",
         "fr": "%lld-week streak",
         "ar": "%lld-week streak"
       },
@@ -11737,7 +11737,7 @@
         "nb": "%lld workouts",
         "nl": "%lld workouts",
         "da": "%lld workouts",
-        "pl": "%lld workouts",
+        "pl": "Treningi: %lld",
         "fr": "%lld workouts",
         "ar": "%lld workouts"
       },
@@ -11959,25 +11959,25 @@
       },
       "sessionsCount": {
         "en": "%lld sessions",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld sessioner",
         "nb": "%lld økter",
         "nl": "%lld sessies",
         "da": "%lld sessioner",
-        "pl": "%lld sesji",
+        "pl": "Treningi: %lld",
         "fr": "%lld sessions",
-        "ar": "جلسات واحدة فقط"
+        "ar": "%lld جلسة"
       },
       "setsCount": {
         "en": "%lld sets",
-        "ru": "%lld подходов",
+        "ru": "Подходов: %lld",
         "hy": "%lld մոտեցում",
         "sv": "%lld uppsättningar",
         "nb": "%lld sett",
         "nl": "%lld sets",
         "da": "%lld sæt",
-        "pl": "%lld zestawów",
+        "pl": "Serie: %lld",
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
       },
@@ -12055,13 +12055,13 @@
       },
       "streakWeeks": {
         "en": "%lld weeks",
-        "ru": "%lld недель",
+        "ru": "%lld нед.",
         "hy": "%lld շաբաթ",
         "sv": "%lld veckor",
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -12221,7 +12221,7 @@
         "nb": "%lld gratis visninger igjen",
         "nl": "Nog %lld gratis weergaven",
         "da": "%lld gratis visninger tilbage",
-        "pl": "Pozostało %lld darmowych podglądów",
+        "pl": "Pozostałe darmowe podglądy: %lld",
         "fr": "%lld consultations gratuites restantes",
         "ar": "بقي %lld عرض مجاني"
       },
@@ -12311,7 +12311,7 @@
       },
       "segmentTitle": {
         "en": "%lld days a week",
-        "ru": "%lld дней в неделю",
+        "ru": "%lld дн. в неделю",
         "hy": "Շաբաթական %lld օր",
         "sv": "%lld dagar i veckan",
         "nb": "%lld dager i uken",
@@ -12395,13 +12395,13 @@
       },
       "weeks": {
         "en": "%lld weeks",
-        "ru": "%lld недель",
+        "ru": "%lld нед.",
         "hy": "%lld շաբաթ",
         "sv": "%lld veckor",
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -12983,11 +12983,11 @@
         "hy": "Ետ",
         "sv": "Tillbaka",
         "nb": "Tilbake",
-        "nl": "Rug",
+        "nl": "Terug",
         "da": "Tilbage",
-        "pl": "Z powrotem",
-        "fr": "Dos",
-        "ar": "خلف"
+        "pl": "Wstecz",
+        "fr": "Retour",
+        "ar": "رجوع"
       },
       "balanced.body": {
         "en": "Balanced opens from the Workout tab. Pick a lookback, see muscle balance, choose groups, and start with suggested lifts.",
@@ -13233,11 +13233,11 @@
         "en": "Gym Logbook can show roughly what a session cost you. It is off until you turn it on.",
         "ru": "Gym Logbook может показывать примерный расход за тренировку. По умолчанию выключено.",
         "hy": "Gym Logbook-ը կարող է ցույց տալ մարզման մոտավոր ծախսը։ Լռելյայն անջատված է։",
-        "sv": "Gymloggbok kan visa ungefär vad ett pass kostade dig. Det är avstängt tills du slår på det.",
-        "nb": "Gymloggbok kan vise omtrent hva en økt kostet deg. Det er av til du slår det på.",
-        "nl": "Gymlogboek kan ruwweg tonen wat een sessie je kostte. Het staat uit tot je het aanzet.",
+        "sv": "Gym Logbook kan visa ungefär vad ett pass kostade dig. Det är avstängt tills du slår på det.",
+        "nb": "Gym Logbook kan vise omtrent hva en økt kostet deg. Det er av til du slår det på.",
+        "nl": "Gym Logbook kan ruwweg tonen wat een sessie je kostte. Het staat uit tot je het aanzet.",
         "da": "Gymlogbog kan vise cirka, hvad et pas kostede dig. Det er slået fra, indtil du slår det til.",
-        "pl": "Dziennik siłowni może pokazać z grubsza, ile kosztował cię trening. Domyślnie jest wyłączone.",
+        "pl": "Gym Logbook może pokazać z grubsza, ile kosztował cię trening. Domyślnie jest wyłączone.",
         "fr": "Gym Logbook peut montrer approximativement ce qu’une séance vous a coûté. C’est désactivé par défaut.",
         "ar": "يمكن لـ Gym Logbook أن يعرض تقريبًا ما كلّفتك الجلسة. وهو مُعطَّل حتى تُفعّله."
       },
@@ -13473,13 +13473,13 @@
         "en": "Gym Logbook",
         "ru": "Gym Logbook",
         "hy": "Gym Logbook",
-        "sv": "Gymloggbok",
-        "nb": "Gymloggbok",
-        "nl": "Gymlogboek",
+        "sv": "Gym Logbook",
+        "nb": "Gym Logbook",
+        "nl": "Gym Logbook",
         "da": "Gym logbog",
-        "pl": "Dziennik siłowni",
-        "fr": "Journal de bord du gymnase",
-        "ar": "سجل الصالة الرياضية"
+        "pl": "Gym Logbook",
+        "fr": "Gym Logbook",
+        "ar": "Gym Logbook"
       },
       "healthKitDemo.body": {
         "en": "Connect Gym Logbook to the Apple Health app so finished strength and cardio sessions appear there.",
@@ -14831,7 +14831,7 @@
         "hy": "Հաշիվ → Մարզման նախապատվություններ։ Դրանով են սկսվում հավասարակշռված մարզումները և ընտրիչը։",
         "sv": "Konto → Training preferences. Balanserade pass och väljaren utgår från det.",
         "nb": "Konto → Training preferences. Balanserte økter og velgeren tar utgangspunkt i det.",
-        "nl": "Rekening → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
+        "nl": "Account → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
         "da": "Konto → Training preferences. Balancerede pas og vælgeren tager udgangspunkt i det.",
         "pl": "Konto → Training preferences. Od tego zaczynają się zbalansowane sesje i wybór ćwiczeń.",
         "fr": "Compte → Training preferences. Les séances équilibrées et le sélecteur en partent.",
@@ -14843,7 +14843,7 @@
         "hy": "Հավասարակշռված մարզումները և վարժությունների ընտրիչը սկսվում են ձեր նշածից։ Մարզասրահը միշտ միացված է — փոխեք ցանկացած պահի՝ Հաշիվ → Մարզման նախապատվություններ։",
         "sv": "Balanserade pass och övningsväljaren utgår från det du väljer. Gym är alltid på – ändra när som helst under Konto → Training preferences.",
         "nb": "Balanserte økter og øvelsesvelgeren tar utgangspunkt i det du velger. Gym er alltid på – endre når som helst under Konto → Training preferences.",
-        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Rekening → Training preferences.",
+        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Account → Training preferences.",
         "da": "Balancerede pas og øvelsesvælgeren tager udgangspunkt i det, du vælger. Gym er altid slået til – skift når som helst under Konto → Training preferences.",
         "pl": "Zbalansowane sesje i wybór ćwiczeń zaczynają się od tego, co zaznaczysz. Siłownia jest zawsze włączona — zmień to w dowolnej chwili w Konto → Training preferences.",
         "fr": "Les séances équilibrées et le sélecteur d'exercices partent de vos choix. La salle est toujours activée — modifiable à tout moment dans Compte → Training preferences.",
@@ -14915,7 +14915,7 @@
         "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Apple Health։",
         "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Apples hälsa.",
         "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Apple Helse.",
-        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Rekening → Apple Gezondheid.",
+        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Apple Gezondheid.",
         "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Apple Health.",
         "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie jabłka.",
         "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Pomme Santé.",
@@ -14985,7 +14985,7 @@
       },
       "daysAgo": {
         "en": "%lld days ago",
-        "ru": "%lld дней назад",
+        "ru": "%lld дн. назад",
         "hy": "%lld օր առաջ",
         "sv": "för %lld dagar sedan",
         "nb": "for %lld dager siden",
@@ -15681,13 +15681,13 @@
       },
       "daysRemaining": {
         "en": "%lld days left",
-        "ru": "Осталось %lld дней",
+        "ru": "Осталось дней: %lld",
         "hy": "Մնաց %lld օր",
         "sv": "%lld dagar kvar",
         "nb": "%lld dager igjen",
         "nl": "%lld dagen resterend",
         "da": "%lld dage tilbage",
-        "pl": "Pozostało %lld dni",
+        "pl": "Pozostałe dni: %lld",
         "fr": "%lld jours restants",
         "ar": "باقي %lld يوم"
       },
@@ -15887,13 +15887,13 @@
       },
       "atRisk.streakTitle": {
         "en": "%lld-week streak on the line",
-        "ru": "Под угрозой серия из %lld недель",
+        "ru": "Под угрозой серия: %lld нед.",
         "hy": "%lld շաբաթվա շարքը վտանգված է",
         "sv": "Svit på %lld veckor står på spel",
         "nb": "Rekke på %lld uker står på spill",
         "nl": "Reeks van %lld weken staat op het spel",
         "da": "Række på %lld uger står på spil",
-        "pl": "Na szali seria %lld tygodni",
+        "pl": "Na szali seria: %lld tyg.",
         "fr": "Série de %lld semaines en jeu",
         "ar": "سلسلة %lld أسابيع على المحك"
       },
@@ -15983,13 +15983,13 @@
       },
       "newWeek.streakBody": {
         "en": "Your %lld-week streak carries over — keep it going.",
-        "ru": "Серия из %lld недель продолжается — не прерывайте её.",
+        "ru": "Ваша серия (%lld нед.) продолжается — не прерывайте её.",
         "hy": "%lld շաբաթվա շարքը շարունակվում է — մի ընդհատեք։",
         "sv": "Din svit på %lld veckor lever vidare – håll den vid liv.",
         "nb": "Rekken din på %lld uker lever videre – hold den i gang.",
         "nl": "Je reeks van %lld weken loopt door – houd hem vast.",
         "da": "Din række på %lld uger lever videre – hold den i gang.",
-        "pl": "Twoja seria %lld tygodni trwa — nie przerywaj jej.",
+        "pl": "Twoja seria (%lld tyg.) trwa — nie przerywaj jej.",
         "fr": "Votre série de %lld semaines continue — ne la cassez pas.",
         "ar": "سلسلتك المكوّنة من %lld أسابيع مستمرة — حافظ عليها."
       },
@@ -16787,7 +16787,7 @@
         "nb": "%lld nye rekorder",
         "nl": "%lld nieuwe PR's",
         "da": "%lld nye rekorder",
-        "pl": "%lld nowych rekordów",
+        "pl": "Nowe rekordy: %lld",
         "fr": "%lld nouveaux records",
         "ar": "%lld رقم قياسي جديد"
       },
@@ -16943,7 +16943,7 @@
         "nb": "%lld ukers rekke",
         "nl": "Reeks van %lld weken",
         "da": "%lld ugers streak",
-        "pl": "Seria %lld tygodni",
+        "pl": "Seria: %lld tyg.",
         "fr": "Série de %lld semaines",
         "ar": "سلسلة %lld أسابيع"
       },
@@ -17021,13 +17021,13 @@
       },
       "trainingDays": {
         "en": "%lld training days",
-        "ru": "%lld тренировочных дней",
+        "ru": "Тренировочных дней: %lld",
         "hy": "%lld մարզման օր",
         "sv": "%lld träningsdagar",
         "nb": "%lld treningsdager",
         "nl": "%lld trainingsdagen",
         "da": "%lld træningsdage",
-        "pl": "%lld dni treningowych",
+        "pl": "Dni treningowe: %lld",
         "fr": "%lld jours d'entraînement",
         "ar": "%lld يوم تدريب"
       },
@@ -17057,13 +17057,13 @@
       },
       "workoutCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld økter",
         "nl": "%lld trainingen",
         "da": "%lld træninger",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld séances",
         "ar": "%lld تمرين"
       },
@@ -17311,13 +17311,13 @@
       },
       "unlock.body": {
         "en": "%d weeks in a row. Sport filters are unlocked — narrow by the sports you train for.",
-        "ru": "%d недель подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
+        "ru": "%d нед. подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
         "hy": "%d շաբաթ անընդմեջ։ Սպորտային զտիչները բաց են — նեղացրեք ըստ ձեր սպորտաձևերի։",
         "sv": "%d veckor i rad. Sportfilter är upplåsta — begränsa efter sporterna du tränar för.",
         "nb": "%d uker på rad. Sportfiltre er låst opp — snevre inn etter sportene du trener for.",
         "nl": "%d weken op rij. Sportfilters zijn ontgrendeld — filter op de sporten waarvoor je traint.",
         "da": "%d uger i træk. Sportfiltre er låst op — begræns efter sportene, du træner til.",
-        "pl": "%d tygodni z rzędu. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
+        "pl": "Tygodnie z rzędu: %d. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
         "fr": "%d semaines d’affilée. Les filtres sport sont débloqués — affinez selon les sports pour lesquels vous vous entraînez.",
         "ar": "%d أسابيع متتالية. فلاتر الرياضة مفتوحة — ضيّق حسب الرياضات التي تتدرب من أجلها."
       },
@@ -17347,7 +17347,7 @@
       },
       "unlock.lockedFooter": {
         "en": "Available after completing %d weeks of your streak.",
-        "ru": "Доступно после %d недель вашей серии.",
+        "ru": "Доступно после %d нед. вашей серии.",
         "hy": "Հասանելի է ձեր շարքի %d շաբաթից հետո։",
         "sv": "Tillgängligt efter %d veckor av din streak.",
         "nb": "Tilgjengelig etter %d uker av streaken din.",
@@ -17439,7 +17439,7 @@
         "nb": "%lld dager til for å beholde rekken",
         "nl": "Nog %lld dagen om je reeks te behouden",
         "da": "%lld dage mere for at beholde din streak",
-        "pl": "Jeszcze %lld dni, aby utrzymać serię",
+        "pl": "Dni do utrzymania serii: %lld",
         "fr": "Encore %lld jours pour conserver votre série",
         "ar": "%lld أيام إضافية للحفاظ على سلسلتك"
       },
@@ -17499,7 +17499,7 @@
         "nb": "%lld dager til denne uken for å starte en rekke",
         "nl": "Nog %lld dagen deze week om een reeks te starten",
         "da": "%lld dage mere i denne uge for at starte en streak",
-        "pl": "Jeszcze %lld dni w tym tygodniu, aby rozpocząć serię",
+        "pl": "Dni do rozpoczęcia serii w tym tygodniu: %lld",
         "fr": "Encore %lld jours cette semaine pour lancer une série",
         "ar": "%lld أيام إضافية هذا الأسبوع لبدء سلسلة"
       },
@@ -17571,7 +17571,7 @@
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -17595,10 +17595,10 @@
         "hy": "Բոլորը խմբում",
         "sv": "Alla i grupp",
         "nb": "Alle i gruppe",
-        "nl": "Allemaal in groep",
+        "nl": "Alles in groep",
         "da": "Alle i gruppe",
-        "pl": "Wszyscy w grupie",
-        "fr": "Tous en groupe",
+        "pl": "Wszystkie w grupie",
+        "fr": "Tout le groupe",
         "ar": "الكل في المجموعة"
       },
       "allPrimary": {
@@ -17607,11 +17607,11 @@
         "hy": "Բոլոր հիմնականները",
         "sv": "Alla primära",
         "nb": "Alle primære",
-        "nl": "Allemaal primair",
+        "nl": "Alle primaire",
         "da": "Alle primære",
         "pl": "Wszystkie podstawowe",
-        "fr": "Tous primaires",
-        "ar": "جميع الابتدائية"
+        "fr": "Tous les principaux",
+        "ar": "كل العضلات الأساسية"
       },
       "arms.biceps": {
         "en": "Biceps",
@@ -17665,11 +17665,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -17677,13 +17677,13 @@
         "en": "Arms",
         "ru": "Руки",
         "hy": "Ձեռքեր",
-        "sv": "Vapen",
-        "nb": "Våpen",
+        "sv": "Armar",
+        "nb": "Armer",
         "nl": "Armen",
-        "da": "Våben",
-        "pl": "Herb",
+        "da": "Arme",
+        "pl": "Ramiona",
         "fr": "Bras",
-        "ar": "الأسلحة"
+        "ar": "الذراعان"
       },
       "arms.triceps": {
         "en": "Triceps",
@@ -17713,11 +17713,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -17725,13 +17725,13 @@
         "en": "Back",
         "ru": "Спина",
         "hy": "Մեջք",
-        "sv": "Tillbaka",
-        "nb": "Tilbake",
+        "sv": "Rygg",
+        "nb": "Rygg",
         "nl": "Rug",
-        "da": "Tilbage",
-        "pl": "Z powrotem",
+        "da": "Ryg",
+        "pl": "Plecy",
         "fr": "Dos",
-        "ar": "خلف"
+        "ar": "الظهر"
       },
       "back.lats": {
         "en": "Lats",
@@ -17739,11 +17739,11 @@
         "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
-        "nl": "Lat",
+        "nl": "Lats",
         "da": "Lats",
-        "pl": "łat",
+        "pl": "Najszersze grzbietu",
         "fr": "Lats",
-        "ar": "لاتس"
+        "ar": "العضلة الظهرية العريضة"
       },
       "back.lats.workout": {
         "en": "Lats",
@@ -17751,17 +17751,17 @@
         "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
-        "nl": "Lat",
+        "nl": "Lats",
         "da": "Lats",
-        "pl": "łat",
+        "pl": "Najszersze grzbietu",
         "fr": "Lats",
-        "ar": "لاتس"
+        "ar": "العضلة الظهرية العريضة"
       },
       "back.lower_back": {
         "en": "Lower back",
         "ru": "Поясница",
         "hy": "Մեջքի ստորին հատված",
-        "sv": "Nedre delen av ryggen",
+        "sv": "Ländrygg",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
         "da": "Nedre ryg",
@@ -17773,7 +17773,7 @@
         "en": "Lower back",
         "ru": "Поясница",
         "hy": "Մեջքի ստորին հատված",
-        "sv": "Nedre delen av ryggen",
+        "sv": "Ländrygg",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
         "da": "Nedre ryg",
@@ -17785,25 +17785,25 @@
         "en": "Traps",
         "ru": "Трапеции",
         "hy": "Սեղանաձև մկաններ",
-        "sv": "Fällor",
-        "nb": "Feller",
-        "nl": "Vallen",
-        "da": "Fælder",
-        "pl": "Majdan",
-        "fr": "Pièges",
-        "ar": "الفخاخ"
+        "sv": "Trapezius",
+        "nb": "Trapezius",
+        "nl": "Trapezius",
+        "da": "Trapezius",
+        "pl": "Czworoboczne",
+        "fr": "Trapèzes",
+        "ar": "شبه المنحرفة"
       },
       "back.traps.workout": {
         "en": "Traps",
         "ru": "Трапеции",
         "hy": "Սեղանաձև մկաններ",
-        "sv": "Fällor",
-        "nb": "Feller",
-        "nl": "Vallen",
-        "da": "Fælder",
-        "pl": "Majdan",
-        "fr": "Pièges",
-        "ar": "الفخاخ"
+        "sv": "Trapezius",
+        "nb": "Trapezius",
+        "nl": "Trapezius",
+        "da": "Trapezius",
+        "pl": "Czworoboczne",
+        "fr": "Trapèzes",
+        "ar": "شبه المنحرفة"
       },
       "back.upper_back": {
         "en": "Upper back",
@@ -17833,11 +17833,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -17846,24 +17846,24 @@
         "ru": "Грудь",
         "hy": "Կրծքավանդակ",
         "sv": "Bröst",
-        "nb": "Kiste",
+        "nb": "Bryst",
         "nl": "Borst",
         "da": "Bryst",
         "pl": "Klatka piersiowa",
-        "fr": "Poitrine",
-        "ar": "صدر"
+        "fr": "Pectoraux",
+        "ar": "الصدر"
       },
       "chest.lower": {
         "en": "Lower",
         "ru": "Низ",
         "hy": "Ստորին",
-        "sv": "Lägre",
-        "nb": "Senke",
-        "nl": "Lager",
-        "da": "Sænke",
-        "pl": "Niżej",
-        "fr": "Inférieur",
-        "ar": "أدنى"
+        "sv": "Nedre",
+        "nb": "Nedre",
+        "nl": "Onder",
+        "da": "Nedre",
+        "pl": "Dolna",
+        "fr": "Bas",
+        "ar": "السفلي"
       },
       "chest.lower.workout": {
         "en": "Lower chest",
@@ -17871,7 +17871,7 @@
         "hy": "Կրծքի ստորին հատված",
         "sv": "Nedre bröstet",
         "nb": "Nedre bryst",
-        "nl": "Lagere borst",
+        "nl": "Onderste borst",
         "da": "Nederste bryst",
         "pl": "Dolna klatka piersiowa",
         "fr": "Bas de la poitrine",
@@ -17885,9 +17885,9 @@
         "nb": "Midt",
         "nl": "Midden",
         "da": "Midt",
-        "pl": "Średni",
+        "pl": "Środkowa",
         "fr": "Milieu",
-        "ar": "منتصف"
+        "ar": "الأوسط"
       },
       "chest.mid.workout": {
         "en": "Mid chest",
@@ -17911,7 +17911,7 @@
         "da": "Serratus",
         "pl": "Serratus",
         "fr": "Serratus",
-        "ar": "سيراتوس"
+        "ar": "العضلة المنشارية"
       },
       "chest.serratus.workout": {
         "en": "Serratus",
@@ -17923,18 +17923,18 @@
         "da": "Serratus",
         "pl": "Serratus",
         "fr": "Serratus",
-        "ar": "سيراتوس"
+        "ar": "العضلة المنشارية"
       },
       "chest.upper": {
         "en": "Upper",
         "ru": "Верх",
         "hy": "Վերին",
         "sv": "Övre",
-        "nb": "Øverste",
-        "nl": "Bovenste",
-        "da": "Øverst",
-        "pl": "Górny",
-        "fr": "Supérieur",
+        "nb": "Øvre",
+        "nl": "Boven",
+        "da": "Øvre",
+        "pl": "Górna",
+        "fr": "Haut",
         "ar": "العلوي"
       },
       "chest.upper.workout": {
@@ -17953,35 +17953,35 @@
         "en": "Abs",
         "ru": "Пресс",
         "hy": "Որովայնի մկաններ",
-        "sv": "Abs",
-        "nb": "Abs",
-        "nl": "Abs",
-        "da": "Abs",
-        "pl": "Abs",
+        "sv": "Magmuskler",
+        "nb": "Magemuskler",
+        "nl": "Buikspieren",
+        "da": "Mavemuskler",
+        "pl": "Mięśnie brzucha",
         "fr": "Abdos",
-        "ar": "القيمة المطلقة"
+        "ar": "عضلات البطن"
       },
       "core.abs.workout": {
         "en": "Abs",
         "ru": "Пресс",
         "hy": "Որովայնի մկաններ",
-        "sv": "Abs",
-        "nb": "Abs",
-        "nl": "Abs",
-        "da": "Abs",
-        "pl": "Abs",
+        "sv": "Magmuskler",
+        "nb": "Magemuskler",
+        "nl": "Buikspieren",
+        "da": "Mavemuskler",
+        "pl": "Mięśnie brzucha",
         "fr": "Abdos",
-        "ar": "القيمة المطلقة"
+        "ar": "عضلات البطن"
       },
       "core.general": {
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -17989,37 +17989,37 @@
         "en": "Core",
         "ru": "Кор",
         "hy": "Հիմնային",
-        "sv": "Kärna",
+        "sv": "Bål",
         "nb": "Kjerne",
-        "nl": "Kern",
-        "da": "Kerne",
-        "pl": "Rdzeń",
-        "fr": "Cœur",
-        "ar": "جوهر"
+        "nl": "Core",
+        "da": "Core",
+        "pl": "Core",
+        "fr": "Gainage",
+        "ar": "الجذع"
       },
       "core.obliques": {
         "en": "Obliques",
         "ru": "Косые",
         "hy": "Շեղ մկաններ",
-        "sv": "Obliques",
-        "nb": "Skrå",
-        "nl": "Obliques",
-        "da": "Skrå",
-        "pl": "Skośne",
+        "sv": "Sneda magmuskler",
+        "nb": "Skrå magemuskler",
+        "nl": "Schuine buikspieren",
+        "da": "Skrå mavemuskler",
+        "pl": "Mięśnie skośne",
         "fr": "Obliques",
-        "ar": "منحرف"
+        "ar": "العضلات المائلة"
       },
       "core.obliques.workout": {
         "en": "Obliques",
         "ru": "Косые",
         "hy": "Շեղ մկաններ",
-        "sv": "Obliques",
-        "nb": "Skrå",
-        "nl": "Obliques",
-        "da": "Skrå",
-        "pl": "Skośne",
+        "sv": "Sneda magmuskler",
+        "nb": "Skrå magemuskler",
+        "nl": "Schuine buikspieren",
+        "da": "Skrå mavemuskler",
+        "pl": "Mięśnie skośne",
         "fr": "Obliques",
-        "ar": "منحرف"
+        "ar": "العضلات المائلة"
       },
       "core.stability": {
         "en": "Stability",
@@ -18031,19 +18031,19 @@
         "da": "Stabilitet",
         "pl": "Stabilność",
         "fr": "Stabilité",
-        "ar": "استقرار"
+        "ar": "الثبات"
       },
       "core.stability.workout": {
         "en": "Core stability",
         "ru": "Стабильность кора",
         "hy": "Հիմնային կայունություն",
-        "sv": "Kärnstabilitet",
+        "sv": "Bålstabilitet",
         "nb": "Kjernestabilitet",
-        "nl": "Kernstabiliteit",
-        "da": "Kernestabilitet",
-        "pl": "Stabilność rdzenia",
-        "fr": "Stabilité du noyau",
-        "ar": "الاستقرار الأساسي"
+        "nl": "Core-stabiliteit",
+        "da": "Core-stabilitet",
+        "pl": "Stabilizacja tułowia",
+        "fr": "Stabilité du tronc",
+        "ar": "ثبات الجذع"
       },
       "diagram": {
         "en": "Target region",
@@ -18071,13 +18071,13 @@
       },
       "exerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -18089,9 +18089,9 @@
         "nb": "Alle",
         "nl": "Alle",
         "da": "Alle",
-        "pl": "Wszystko",
+        "pl": "Wszystkie",
         "fr": "Tous",
-        "ar": "الجميع"
+        "ar": "الكل"
       },
       "formFooter": {
         "en": "Choose a primary muscle subgroup so the picker can suggest related lifts.",
@@ -18099,45 +18099,45 @@
         "hy": "Ընտրեք առաջնային մկանային ենթախումբ, որպեսզի ընտրիչը կարողանա առաջարկել հարակից վարժություններ։",
         "sv": "Välj en primär muskelundergrupp så att väljaren kan föreslå relaterade lyft.",
         "nb": "Velg en primær muskelundergruppe slik at velgeren kan foreslå relaterte løft.",
-        "nl": "Kies een primaire spiersubgroep, zodat de kiezer gerelateerde liften kan voorstellen.",
+        "nl": "Kies een primaire spiersubgroep, zodat de kiezer verwante oefeningen kan voorstellen.",
         "da": "Vælg en primær muskelundergruppe, så vælgeren kan foreslå relaterede løft.",
-        "pl": "Wybierz główną podgrupę mięśni, aby osoba zbierająca mogła zasugerować powiązane ćwiczenia.",
-        "fr": "Choisissez un sous-groupe musculaire principal afin que le sélectionneur puisse suggérer des levées associées.",
+        "pl": "Wybierz główną podgrupę mięśni, aby wybór ćwiczeń mógł podpowiadać powiązane ćwiczenia.",
+        "fr": "Choisissez un sous-groupe musculaire principal pour que le sélecteur puisse suggérer des exercices associés.",
         "ar": "اختر مجموعة فرعية أساسية من العضلات حتى يتمكن المنتقي من اقتراح تمارين الرفع ذات الصلة."
       },
       "legs.calves": {
         "en": "Calves",
         "ru": "Икры",
         "hy": "Սրունքի մկաններ",
-        "sv": "Kalvar",
-        "nb": "Kalver",
-        "nl": "Kalveren",
-        "da": "Kalve",
+        "sv": "Vader",
+        "nb": "Legger",
+        "nl": "Kuiten",
+        "da": "Lægge",
         "pl": "Łydki",
-        "fr": "Veaux",
-        "ar": "العجول"
+        "fr": "Mollets",
+        "ar": "عضلات السمانة"
       },
       "legs.calves.workout": {
         "en": "Calves",
         "ru": "Икры",
         "hy": "Սրունքի մկաններ",
-        "sv": "Kalvar",
-        "nb": "Kalver",
-        "nl": "Kalveren",
-        "da": "Kalve",
+        "sv": "Vader",
+        "nb": "Legger",
+        "nl": "Kuiten",
+        "da": "Lægge",
         "pl": "Łydki",
-        "fr": "Veaux",
-        "ar": "العجول"
+        "fr": "Mollets",
+        "ar": "عضلات السمانة"
       },
       "legs.general": {
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -18151,31 +18151,31 @@
         "da": "Ben",
         "pl": "Nogi",
         "fr": "Jambes",
-        "ar": "الساقين"
+        "ar": "الساقان"
       },
       "legs.glutes": {
         "en": "Glutes",
         "ru": "Ягодицы",
         "hy": "Հետույքի մկաններ",
-        "sv": "Glutes",
-        "nb": "Glutes",
+        "sv": "Sätesmuskler",
+        "nb": "Setemuskler",
         "nl": "Bilspieren",
-        "da": "Glutes",
+        "da": "Ballemuskler",
         "pl": "Pośladki",
         "fr": "Fessiers",
-        "ar": "المؤخرة"
+        "ar": "الأرداف"
       },
       "legs.glutes.workout": {
         "en": "Glutes",
         "ru": "Ягодицы",
         "hy": "Հետույքի մկաններ",
-        "sv": "Glutes",
-        "nb": "Glutes",
+        "sv": "Sätesmuskler",
+        "nb": "Setemuskler",
         "nl": "Bilspieren",
-        "da": "Glutes",
+        "da": "Ballemuskler",
         "pl": "Pośladki",
         "fr": "Fessiers",
-        "ar": "المؤخرة"
+        "ar": "الأرداف"
       },
       "legs.hamstrings": {
         "en": "Hamstrings",
@@ -18185,9 +18185,9 @@
         "nb": "Hamstrings",
         "nl": "Hamstrings",
         "da": "Hamstrings",
-        "pl": "Ścięgna podkolanowe",
+        "pl": "Dwugłowe uda",
         "fr": "Ischio-jambiers",
-        "ar": "أوتار الركبة"
+        "ar": "العضلات الخلفية للفخذ"
       },
       "legs.hamstrings.workout": {
         "en": "Hamstrings",
@@ -18197,9 +18197,9 @@
         "nb": "Hamstrings",
         "nl": "Hamstrings",
         "da": "Hamstrings",
-        "pl": "Ścięgna podkolanowe",
+        "pl": "Dwugłowe uda",
         "fr": "Ischio-jambiers",
-        "ar": "أوتار الركبة"
+        "ar": "العضلات الخلفية للفخذ"
       },
       "legs.hips": {
         "en": "Hips",
@@ -18210,8 +18210,8 @@
         "nl": "Heupen",
         "da": "Hofter",
         "pl": "Biodra",
-        "fr": "Les hanches",
-        "ar": "خَواصِر"
+        "fr": "Hanches",
+        "ar": "الوركان"
       },
       "legs.hips.workout": {
         "en": "Hips",
@@ -18222,41 +18222,41 @@
         "nl": "Heupen",
         "da": "Hofter",
         "pl": "Biodra",
-        "fr": "Les hanches",
-        "ar": "خَواصِر"
+        "fr": "Hanches",
+        "ar": "الوركان"
       },
       "legs.quads": {
         "en": "Quads",
         "ru": "Квадрицепсы",
         "hy": "Քառագլուխ մկաններ",
-        "sv": "Fyrhjulingar",
+        "sv": "Quadriceps",
         "nb": "Quads",
-        "nl": "Vierlingen",
+        "nl": "Quadriceps",
         "da": "Quads",
-        "pl": "Quady",
-        "fr": "Quads",
-        "ar": "الكواد"
+        "pl": "Czworogłowe",
+        "fr": "Quadriceps",
+        "ar": "عضلات الفخذ الأمامية"
       },
       "legs.quads.workout": {
         "en": "Quads",
         "ru": "Квадрицепсы",
         "hy": "Քառագլուխ մկաններ",
-        "sv": "Fyrhjulingar",
+        "sv": "Quadriceps",
         "nb": "Quads",
-        "nl": "Vierlingen",
+        "nl": "Quadriceps",
         "da": "Quads",
-        "pl": "Quady",
-        "fr": "Quads",
-        "ar": "الكواد"
+        "pl": "Czworogłowe",
+        "fr": "Quadriceps",
+        "ar": "عضلات الفخذ الأمامية"
       },
       "picker": {
         "en": "Target muscle",
         "ru": "Целевая мышца",
         "hy": "Թիրախային մկան",
         "sv": "Målmuskel",
-        "nb": "Mål muskel",
-        "nl": "Doel spier",
-        "da": "Mål muskel",
+        "nb": "Målmuskel",
+        "nl": "Doelspier",
+        "da": "Målmuskel",
         "pl": "Docelowy mięsień",
         "fr": "Muscle cible",
         "ar": "العضلات المستهدفة"
@@ -18267,7 +18267,7 @@
         "hy": "Հիմնական թիրախ",
         "sv": "Primärt mål",
         "nb": "Primært mål",
-        "nl": "Primair doelwit",
+        "nl": "Primair doel",
         "da": "Primært mål",
         "pl": "Główny cel",
         "fr": "Cible principale",
@@ -18291,7 +18291,7 @@
         "hy": "Երրորդական թիրախ",
         "sv": "Tertiärt mål",
         "nb": "Tertiært mål",
-        "nl": "Tertiair doelwit",
+        "nl": "Tertiair doel",
         "da": "Tertiært mål",
         "pl": "Cel trzeciorzędny",
         "fr": "Cible tertiaire",
@@ -18325,13 +18325,13 @@
         "en": "Front delts",
         "ru": "Передние дельты",
         "hy": "Առջևի դելտաներ",
-        "sv": "Främre delts",
-        "nb": "Deler foran",
+        "sv": "Främre deltoider",
+        "nb": "Fremre deltoider",
         "nl": "Voorste delta's",
-        "da": "Forreste dele",
+        "da": "Forreste deltoider",
         "pl": "Delty przednie",
         "fr": "Deltas avant",
-        "ar": "الحذف الأمامي"
+        "ar": "الدالية الأمامية"
       },
       "shoulders.front.workout": {
         "en": "Front deltoids",
@@ -18349,11 +18349,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -18365,9 +18365,9 @@
         "nb": "Skuldre",
         "nl": "Schouders",
         "da": "Skuldre",
-        "pl": "Plecy",
+        "pl": "Barki",
         "fr": "Épaules",
-        "ar": "أكتاف"
+        "ar": "الأكتاف"
       },
       "shoulders.rear": {
         "en": "Rear",
@@ -18375,11 +18375,11 @@
         "hy": "Հետևի",
         "sv": "Bak",
         "nb": "Bak",
-        "nl": "Achterkant",
+        "nl": "Achter",
         "da": "Bag",
         "pl": "Tył",
         "fr": "Arrière",
-        "ar": "مؤخرة"
+        "ar": "الخلفية"
       },
       "shoulders.rear.workout": {
         "en": "Rear deltoids",
@@ -18399,17 +18399,17 @@
         "hy": "Կողային",
         "sv": "Sida",
         "nb": "Side",
-        "nl": "Kant",
+        "nl": "Zij",
         "da": "Side",
-        "pl": "Strona",
+        "pl": "Boczne",
         "fr": "Côté",
-        "ar": "جانب"
+        "ar": "الجانبية"
       },
       "shoulders.side.workout": {
         "en": "Side deltoids",
         "ru": "Средние дельты",
         "hy": "Կողային դելտաներ",
-        "sv": "Sida deltoider",
+        "sv": "Sidodeltoider",
         "nb": "Sidedeltoider",
         "nl": "Zijdeltoïden",
         "da": "Side deltoider",
@@ -18987,13 +18987,13 @@
       },
       "memberCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -19161,9 +19161,9 @@
         "nb": "Supersett",
         "nl": "Superset",
         "da": "Supersæt",
-        "pl": "Nadzbiór",
-        "fr": "Surensemble",
-        "ar": "مجموعة شاملة"
+        "pl": "Superseria",
+        "fr": "Superset",
+        "ar": "سوبر سيت"
       },
       "selectMembersHint": {
         "en": "Select at least two exercises to link as a superset.",
@@ -19219,13 +19219,13 @@
         "en": "%d sync conflicts",
         "ru": "Конфликтов синхронизации: %d",
         "hy": "%d համաժամացման կոնֆլիկտ",
-        "sv": "%d sync conflicts",
-        "nb": "%d sync conflicts",
-        "nl": "%d sync conflicts",
-        "da": "%d sync conflicts",
-        "pl": "%d sync conflicts",
-        "fr": "%d sync conflicts",
-        "ar": "%d sync conflicts"
+        "sv": "%d synkkonflikter",
+        "nb": "%d synkroniseringskonflikter",
+        "nl": "%d synchronisatieconflicten",
+        "da": "%d synkroniseringskonflikter",
+        "pl": "Konflikty synchronizacji: %d",
+        "fr": "%d conflits de synchronisation",
+        "ar": "تعارضات المزامنة: %d"
       },
       "conflict.emptyMessage": {
         "en": "Local and cloud data match.",
@@ -19639,13 +19639,13 @@
         "en": "%d conflicts need your choice.",
         "ru": "Конфликтов, требующих вашего решения: %d.",
         "hy": "%d կոնֆլիկտ ձեր որոշման կարիքն ունի։",
-        "sv": "%d conflicts need your choice.",
-        "nb": "%d conflicts need your choice.",
-        "nl": "%d conflicts need your choice.",
-        "da": "%d conflicts need your choice.",
-        "pl": "%d conflicts need your choice.",
-        "fr": "%d conflicts need your choice.",
-        "ar": "%d conflicts need your choice."
+        "sv": "%d konflikter behöver ditt val.",
+        "nb": "%d konflikter trenger valget ditt.",
+        "nl": "%d conflicten vragen om je keuze.",
+        "da": "%d konflikter kræver dit valg.",
+        "pl": "Konflikty wymagające Twojej decyzji: %d.",
+        "fr": "%d conflits attendent votre choix.",
+        "ar": "تعارضات تحتاج إلى قرارك: %d."
       },
       "resync.success": {
         "en": "Everything is up to date.",
@@ -19677,25 +19677,25 @@
         "en": "History",
         "ru": "История",
         "hy": "Պատմություն",
-        "sv": "Historia",
+        "sv": "Historik",
         "nb": "Historie",
         "nl": "Geschiedenis",
         "da": "Historie",
         "pl": "Historia",
-        "fr": "Histoire",
-        "ar": "تاريخ"
+        "fr": "Historique",
+        "ar": "السجل"
       },
       "records": {
         "en": "Records",
         "ru": "Рекорды",
         "hy": "Ռեկորդներ",
-        "sv": "Uppgifter",
+        "sv": "Rekord",
         "nb": "Rekorder",
-        "nl": "Opnames",
-        "da": "Optegnelser",
-        "pl": "Dokumentacja",
-        "fr": "Enregistrements",
-        "ar": "السجلات"
+        "nl": "Records",
+        "da": "Rekorder",
+        "pl": "Rekordy",
+        "fr": "Records",
+        "ar": "الأرقام القياسية"
       },
       "templates": {
         "en": "Templates",
@@ -19717,9 +19717,9 @@
         "nb": "Trening",
         "nl": "Training",
         "da": "Træning",
-        "pl": "Ćwiczyć",
+        "pl": "Trening",
         "fr": "Entraînement",
-        "ar": "اكتشف - حل"
+        "ar": "التمرين"
       }
     },
     "Template": {
@@ -20060,13 +20060,13 @@
       },
       "count": {
         "en": "%lld templates",
-        "ru": "%lld шаблонов",
+        "ru": "Шаблонов: %lld",
         "hy": "%lld ձևանմուշ",
         "sv": "%lld mallar",
         "nb": "%lld maler",
         "nl": "%lld sjablonen",
         "da": "%lld skabeloner",
-        "pl": "%lld szablonów",
+        "pl": "Szablony: %lld",
         "fr": "%lld modèles",
         "ar": "%lld قوالب"
       },
@@ -20132,13 +20132,13 @@
       },
       "exerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -20278,13 +20278,13 @@
         "en": "Clear targets",
         "ru": "Очистить цели",
         "hy": "Մաքրել նպատակները",
-        "sv": "Tydliga mål",
-        "nb": "Klare mål",
-        "nl": "Duidelijke doelen",
-        "da": "Klare mål",
+        "sv": "Rensa mål",
+        "nb": "Tøm mål",
+        "nl": "Doelen wissen",
+        "da": "Ryd mål",
         "pl": "Wyczyść cele",
-        "fr": "Des objectifs clairs",
-        "ar": "أهداف واضحة"
+        "fr": "Effacer les objectifs",
+        "ar": "مسح الأهداف"
       },
       "plan.setCount": {
         "en": "Sets",
@@ -20774,13 +20774,13 @@
       },
       "liveActivity.sessionLine": {
         "en": "%lld sets · %lld/%lld exercises",
-        "ru": "%lld подходов · %lld/%lld упражнений",
+        "ru": "Подходов: %lld · упражнений: %lld/%lld",
         "hy": "%lld մոտեցում · %lld/%lld վարժություն",
         "sv": "%lld set · %lld/%lld övningar",
         "nb": "%lld sett · %lld/%lld øvelser",
         "nl": "%lld sets · %lld/%lld oefeningen",
         "da": "%lld sæt · %lld/%lld øvelser",
-        "pl": "%lld serii · %lld/%lld ćwiczeń",
+        "pl": "Serie: %lld · ćwiczenia: %lld/%lld",
         "fr": "%lld séries · %lld/%lld exercices",
         "ar": "%lld مجموعات · %lld/%lld تمارين"
       },
@@ -20816,9 +20816,9 @@
         "nb": "Trening",
         "nl": "Training",
         "da": "Træning",
-        "pl": "Ćwiczyć",
+        "pl": "Trening",
         "fr": "Entraînement",
-        "ar": "اكتشف - حل"
+        "ar": "التمرين"
       },
       "details": {
         "en": "Workout Details",
@@ -21326,13 +21326,13 @@
       },
       "setCount": {
         "en": "%lld sets",
-        "ru": "%lld подходов",
+        "ru": "Подходов: %lld",
         "hy": "%lld մոտեցում",
         "sv": "%lld uppsättningar",
         "nb": "%lld sett",
         "nl": "%lld sets",
         "da": "%lld sæt",
-        "pl": "%lld zestawów",
+        "pl": "Serie: %lld",
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
       },
@@ -21406,7 +21406,7 @@
         "da": "%lld min",
         "pl": "%lld min",
         "fr": "%lld min",
-        "ar": "%ll دقيقة"
+        "ar": "%lld دقيقة"
       },
       "staleFinishPreview": {
         "en": "End time: %@",

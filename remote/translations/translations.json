@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790741399,
+  "lastSyncedAt": 1790985266,
   "strings": {
     "Misc": {
       "": {
@@ -364,6 +364,18 @@
         "fr": "Connectez-vous à nouveau avec Apple ou Google pour supprimer votre compte.",
         "ar": "قم بتسجيل الدخول مرة أخرى باستخدام Apple أو Google لحذف حسابك."
       },
+      "delete.reauthMessageAndroid": {
+        "en": "Sign in again with Google to delete your account.",
+        "ru": "Войдите ещё раз через Google, чтобы удалить аккаунт.",
+        "hy": "Նորից մուտք գործեք Google-ի միջոցով՝ ձեր հաշիվը ջնջելու համար։",
+        "sv": "Logga in igen med Google för att radera ditt konto.",
+        "nb": "Logg på igjen med Google for å slette kontoen din.",
+        "nl": "Log opnieuw in met Google om je account te verwijderen.",
+        "da": "Log ind igen med Google for at slette din konto.",
+        "pl": "Zaloguj się ponownie przez Google, aby usunąć swoje konto.",
+        "fr": "Reconnectez-vous avec Google pour supprimer votre compte.",
+        "ar": "سجّل الدخول مرة أخرى باستخدام Google لحذف حسابك."
+      },
       "delete.reauthTitle": {
         "en": "Confirm it’s you",
         "ru": "Подтвердите, что это вы",
@@ -471,6 +483,18 @@
         "pl": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now.",
         "fr": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now.",
         "ar": "Signing in protects your account identity and prepares future cloud sync. Link Apple and Google to the same account. Workouts stay on this device for now."
+      },
+      "disclaimerAndroid": {
+        "en": "Signing in with Google protects your account identity and syncs your finished workouts to the cloud.",
+        "ru": "Вход через Google защищает ваш аккаунт и синхронизирует завершённые тренировки с облаком.",
+        "hy": "Google-ով մուտք գործելը պաշտպանում է ձեր հաշիվը և համաժամացնում ավարտված մարզումները ամպի հետ։",
+        "sv": "Inloggning med Google skyddar din kontoidentitet och synkar dina avslutade träningspass till molnet.",
+        "nb": "Innlogging med Google beskytter kontoidentiteten din og synkroniserer fullførte treningsøkter til skyen.",
+        "nl": "Inloggen met Google beschermt je accountidentiteit en synchroniseert je afgeronde trainingen met de cloud.",
+        "da": "Når du logger ind med Google, beskyttes din kontoidentitet, og dine afsluttede træninger synkroniseres til skyen.",
+        "pl": "Logowanie przez Google chroni tożsamość konta i synchronizuje ukończone treningi z chmurą.",
+        "fr": "La connexion avec Google protège l’identité de votre compte et synchronise vos entraînements terminés avec le cloud.",
+        "ar": "يحمي تسجيل الدخول باستخدام Google هوية حسابك ويزامن تمارينك المكتملة مع السحابة."
       },
       "displayName.footer": {
         "en": "Shown to friends when you use Friends & Sharing.",
@@ -663,6 +687,18 @@
         "pl": "Synchronizuj ukończone treningi z Apple Health — tylko czas treningu i opcjonalnie dystans, nigdy kalorie.",
         "fr": "Synchronisez les entraînements terminés avec Apple Health — durée d'entraînement et distance en option seulement, jamais les calories.",
         "ar": "مزامنة التمارين المكتملة مع Apple Health — مدة التمرين والمسافة الاختيارية فقط، ولا يتم أبدًا مزامنة السعرات الحرارية."
+      },
+      "healthConnect.footer": {
+        "en": "Sync finished workouts to Health Connect — workout time and optional distance; energy only when the energy estimate is on.",
+        "ru": "Отправлять завершённые тренировки в Health Connect — время тренировки и, по желанию, дистанцию; энергию — только при включённой оценке энергии.",
+        "hy": "Ավարտված մարզումներն ուղարկել Health Connect՝ մարզման ժամանակը և ըստ ցանկության հեռավորությունը. էներգիան՝ միայն էներգիայի գնահատումը միացված լինելու դեպքում։",
+        "sv": "Synkronisera avslutade träningspass till Health Connect – träningstid och valfri sträcka; energi bara när energiuppskattningen är på.",
+        "nb": "Synkroniser fullførte treningsøkter til Health Connect – treningstid og valgfri distanse; energi bare når energianslaget er på.",
+        "nl": "Synchroniseer voltooide trainingen met Health Connect — trainingstijd en optioneel afstand; energie alleen als de energieschatting aanstaat.",
+        "da": "Synkroniser afsluttede træningspas til Health Connect – træningstid og valgfri distance; energi kun, når energiestimatet er slået til.",
+        "pl": "Synchronizuj ukończone treningi z Health Connect — czas treningu i opcjonalnie dystans; energię tylko przy włączonej szacowanej energii.",
+        "fr": "Synchronisez les entraînements terminés avec Santé Connect — durée d’entraînement et distance en option ; l’énergie seulement si l’estimation d’énergie est activée.",
+        "ar": "مزامنة التمارين المكتملة مع Health Connect — مدة التمرين والمسافة الاختيارية، والطاقة فقط عند تفعيل تقدير الطاقة."
       },
       "healthKit.section": {
         "en": "Health",
@@ -952,6 +988,18 @@
         "fr": "Associez Apple ou Google pour que votre compte soit prêt lorsque la synchronisation cloud arrive. Les entraînements restent locaux pour le moment.",
         "ar": "قم بربط Apple أو Google حتى يصبح حسابك جاهزًا عند وصول المزامنة السحابية. تبقى التدريبات محلية في الوقت الحالي."
       },
+      "prompt.workoutBodyAndroid": {
+        "en": "Sign in with Google so your finished workouts are backed up to your account.",
+        "ru": "Войдите через Google, чтобы завершённые тренировки сохранялись в вашем аккаунте.",
+        "hy": "Մուտք գործեք Google-ով, որպեսզի ավարտված մարզումները պահպանվեն ձեր հաշվում։",
+        "sv": "Logga in med Google så säkerhetskopieras dina avslutade träningspass till ditt konto.",
+        "nb": "Logg inn med Google, så sikkerhetskopieres de fullførte øktene dine til kontoen din.",
+        "nl": "Log in met Google zodat je afgeronde trainingen in je account worden bewaard.",
+        "da": "Log ind med Google, så sikkerhedskopieres dine afsluttede træninger til din konto.",
+        "pl": "Zaloguj się przez Google, aby zakończone treningi były zapisywane na Twoim koncie.",
+        "fr": "Connectez-vous avec Google pour sauvegarder vos entraînements terminés dans votre compte.",
+        "ar": "سجّل الدخول باستخدام Google لنسخ تمارينك المكتملة احتياطيًا إلى حسابك."
+      },
       "prompt.workoutTitle": {
         "en": "Sign in to keep your progress",
         "ru": "Войдите, чтобы сохранить свой прогресс",
@@ -1023,6 +1071,18 @@
         "pl": "Dodaj Apple i Google, aby logować się którymś na innym urządzeniu. Metodę możesz usunąć tylko gdy obie są połączone — zostaw co najmniej jedną albo usuń konto.",
         "fr": "Ajoutez Apple et Google pour vous connecter avec l’un ou l’autre sur un autre appareil. Vous ne pouvez retirer une méthode que si les deux sont liées — gardez-en au moins une, ou supprimez le compte.",
         "ar": "أضف Apple وGoogle لتسجيل الدخول بأي منهما على جهاز آخر. يمكنك إزالة طريقة فقط عندما يكون كلاهما متصلين — أبقِ واحدة واحدة على الأقل أو احذف الحساب."
+      },
+      "providers.footerAndroid": {
+        "en": "Sign in with Google on another device to reach this account. Your only sign-in method can’t be removed — use Delete account instead.",
+        "ru": "Войдите через Google на другом устройстве, чтобы открыть этот аккаунт. Единственный способ входа удалить нельзя — вместо этого удалите аккаунт.",
+        "hy": "Մուտք գործեք Google-ով մեկ այլ սարքում՝ այս հաշվին հասնելու համար։ Մուտքի միակ եղանակը հնարավոր չէ հեռացնել. փոխարենը ջնջեք հաշիվը։",
+        "sv": "Logga in med Google på en annan enhet för att nå det här kontot. Din enda inloggningsmetod kan inte tas bort — radera kontot i stället.",
+        "nb": "Logg inn med Google på en annen enhet for å nå denne kontoen. Den eneste innloggingsmetoden din kan ikke fjernes — slett kontoen i stedet.",
+        "nl": "Log op een ander apparaat in met Google om bij dit account te komen. Je enige inlogmethode kan niet worden verwijderd — verwijder in plaats daarvan je account.",
+        "da": "Log ind med Google på en anden enhed for at få adgang til denne konto. Din eneste loginmetode kan ikke fjernes — slet kontoen i stedet.",
+        "pl": "Zaloguj się przez Google na innym urządzeniu, aby dostać się do tego konta. Jedynej metody logowania nie można usunąć — zamiast tego usuń konto.",
+        "fr": "Connectez-vous avec Google sur un autre appareil pour accéder à ce compte. Votre seule méthode de connexion ne peut pas être retirée — supprimez plutôt le compte.",
+        "ar": "سجّل الدخول باستخدام Google على جهاز آخر للوصول إلى هذا الحساب. لا يمكن إزالة طريقة تسجيل الدخول الوحيدة — احذف الحساب بدلاً من ذلك."
       },
       "providers.section": {
         "en": "Connected accounts",
@@ -1426,7 +1486,7 @@
         "hy": "Հաշվի պատրաստում…",
         "sv": "Förbereder konto...",
         "nb": "Klargjør konto …",
-        "nl": "Rekening voorbereiden…",
+        "nl": "Account voorbereiden…",
         "da": "Forbereder konto...",
         "pl": "Przygotowuję konto…",
         "fr": "Préparation du compte…",
@@ -1458,7 +1518,7 @@
       },
       "streak.boardNote": {
         "en": "You'll also move to the %lld-day leaderboard. Your best on each board is kept.",
-        "ru": "Вы также перейдёте в таблицу лидеров на %lld дней. Ваш лучший результат в каждой таблице сохраняется.",
+        "ru": "Вы также перейдёте в таблицу лидеров «%lld дн. в неделю». Ваш лучший результат в каждой таблице сохраняется.",
         "hy": "Դուք նաև կտեղափոխվեք %lld-օրյա առաջատարների աղյուսակ։ Ձեր լավագույն արդյունքը յուրաքանչյուր աղյուսակում պահպանվում է։",
         "sv": "Du flyttas också till topplistan för %lld dagar. Ditt bästa på varje lista sparas.",
         "nb": "Du flyttes også til ledertavlen for %lld dager. Ditt beste på hver tavle beholdes.",
@@ -1590,7 +1650,7 @@
       },
       "streak.lower.title": {
         "en": "Lower to %lld days a week?",
-        "ru": "Понизить до %lld дней в неделю?",
+        "ru": "Понизить до %lld дн. в неделю?",
         "hy": "Իջեցնե՞լ մինչև շաբաթական %lld օր",
         "sv": "Sänk till %lld dagar i veckan?",
         "nb": "Senke til %lld dager i uken?",
@@ -1626,7 +1686,7 @@
       },
       "streak.raise.title": {
         "en": "Raise to %lld days a week?",
-        "ru": "Повысить до %lld дней в неделю?",
+        "ru": "Повысить до %lld дн. в неделю?",
         "hy": "Բարձրացնե՞լ մինչև շաբաթական %lld օր",
         "sv": "Höj till %lld dagar i veckan?",
         "nb": "Øke til %lld dager i uken?",
@@ -1726,7 +1786,7 @@
         "hy": "Հաշիվ",
         "sv": "Konto",
         "nb": "Konto",
-        "nl": "Rekening",
+        "nl": "Account",
         "da": "Konto",
         "pl": "Konto",
         "fr": "Compte",
@@ -2019,6 +2079,18 @@
         "pl": "Siri",
         "fr": "Siri",
         "ar": "Siri"
+      },
+      "voice.title": {
+        "en": "Voice",
+        "ru": "Голос",
+        "hy": "Ձայն",
+        "sv": "Röst",
+        "nb": "Stemme",
+        "nl": "Stem",
+        "da": "Stemme",
+        "pl": "Głos",
+        "fr": "Voix",
+        "ar": "الصوت"
       }
     },
     "Balanced": {
@@ -2712,13 +2784,13 @@
       },
       "daysTrained": {
         "en": "%lld days trained",
-        "ru": "%lld дней с тренировками",
+        "ru": "Дней с тренировками: %lld",
         "hy": "%lld մարզման օր",
         "sv": "%lld dagar tränade",
         "nb": "%lld dager trent",
         "nl": "%lld dagen getraind",
         "da": "%lld dage trænet",
-        "pl": "%lld dni szkolenia",
+        "pl": "Dni z treningiem: %lld",
         "fr": "%lld jours de formation",
         "ar": "%lld أيام تدريب"
       },
@@ -2784,13 +2856,13 @@
       },
       "workoutCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld treningsøkter",
         "nl": "%lld trainingen",
         "da": "%lld træning",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld entraînements",
         "ar": "%lld التدريبات"
       }
@@ -2800,25 +2872,25 @@
         "en": "Arms",
         "ru": "Руки",
         "hy": "Ձեռքեր",
-        "sv": "Vapen",
-        "nb": "Våpen",
+        "sv": "Armar",
+        "nb": "Armer",
         "nl": "Armen",
-        "da": "Våben",
-        "pl": "Herb",
+        "da": "Arme",
+        "pl": "Ramiona",
         "fr": "Bras",
-        "ar": "الأسلحة"
+        "ar": "الذراعان"
       },
       "back": {
         "en": "Back",
         "ru": "Спина",
         "hy": "Մեջք",
-        "sv": "Tillbaka",
-        "nb": "Tilbake",
+        "sv": "Rygg",
+        "nb": "Rygg",
         "nl": "Rug",
-        "da": "Tilbage",
-        "pl": "Z powrotem",
+        "da": "Ryg",
+        "pl": "Plecy",
         "fr": "Dos",
-        "ar": "خلف"
+        "ar": "الظهر"
       },
       "cardio": {
         "en": "Cardio",
@@ -2830,31 +2902,31 @@
         "da": "Cardio",
         "pl": "Kardio",
         "fr": "Cardio",
-        "ar": "القلب"
+        "ar": "كارديو"
       },
       "chest": {
         "en": "Chest",
         "ru": "Грудь",
         "hy": "Կրծքավանդակ",
         "sv": "Bröst",
-        "nb": "Kiste",
+        "nb": "Bryst",
         "nl": "Borst",
         "da": "Bryst",
         "pl": "Klatka piersiowa",
-        "fr": "Poitrine",
-        "ar": "صدر"
+        "fr": "Pectoraux",
+        "ar": "الصدر"
       },
       "core": {
         "en": "Core",
         "ru": "Кор",
         "hy": "Հիմնային",
-        "sv": "Kärna",
+        "sv": "Bål",
         "nb": "Kjerne",
-        "nl": "Kern",
-        "da": "Kerne",
-        "pl": "Rdzeń",
-        "fr": "Cœur",
-        "ar": "جوهر"
+        "nl": "Core",
+        "da": "Core",
+        "pl": "Core",
+        "fr": "Gainage",
+        "ar": "الجذع"
       },
       "legs": {
         "en": "Legs",
@@ -2866,7 +2938,7 @@
         "da": "Ben",
         "pl": "Nogi",
         "fr": "Jambes",
-        "ar": "الساقين"
+        "ar": "الساقان"
       },
       "mobility": {
         "en": "Mobility",
@@ -2876,21 +2948,21 @@
         "nb": "Mobilitet",
         "nl": "Mobiliteit",
         "da": "Mobilitet",
-        "pl": "Ruchliwość",
+        "pl": "Mobilność",
         "fr": "Mobilité",
-        "ar": "التنقل"
+        "ar": "المرونة"
       },
       "other": {
         "en": "Other",
         "ru": "Другое",
         "hy": "Այլ",
-        "sv": "Andra",
-        "nb": "Annen",
-        "nl": "Ander",
-        "da": "Andre",
-        "pl": "Inny",
+        "sv": "Övrigt",
+        "nb": "Annet",
+        "nl": "Overig",
+        "da": "Andet",
+        "pl": "Inne",
         "fr": "Autre",
-        "ar": "آخر"
+        "ar": "أخرى"
       },
       "shoulders": {
         "en": "Shoulders",
@@ -2900,9 +2972,9 @@
         "nb": "Skuldre",
         "nl": "Schouders",
         "da": "Skuldre",
-        "pl": "Plecy",
+        "pl": "Barki",
         "fr": "Épaules",
-        "ar": "أكتاف"
+        "ar": "الأكتاف"
       },
       "superset": {
         "en": "Superset",
@@ -2912,9 +2984,9 @@
         "nb": "Supersett",
         "nl": "Superset",
         "da": "Supersæt",
-        "pl": "Nadzbiór",
-        "fr": "Surensemble",
-        "ar": "مجموعة شاملة"
+        "pl": "Superseria",
+        "fr": "Superset",
+        "ar": "سوبر سيت"
       }
     },
     "Coach": {
@@ -3406,7 +3478,7 @@
         "nb": "Ingen økt på %lld dager",
         "nl": "Geen training in %lld dagen",
         "da": "Ingen træning i %lld dage",
-        "pl": "Brak treningu od %lld dni",
+        "pl": "Dni bez treningu: %lld",
         "fr": "Aucune séance depuis %lld jours",
         "ar": "لا جلسات منذ %lld يوم"
       },
@@ -4453,6 +4525,90 @@
         "pl": "Przenieś do",
         "fr": "Déplacer vers",
         "ar": "نقل إلى"
+      },
+      "roster.add": {
+        "en": "Add athlete",
+        "ru": "Добавить атлета",
+        "hy": "Ավելացնել մարզիկ",
+        "sv": "Lägg till atlet",
+        "nb": "Legg til utøver",
+        "nl": "Atleet toevoegen",
+        "da": "Tilføj atlet",
+        "pl": "Dodaj zawodnika",
+        "fr": "Ajouter un athlète",
+        "ar": "إضافة رياضي"
+      },
+      "roster.add.prompt": {
+        "en": "Name or email",
+        "ru": "Имя или e-mail",
+        "hy": "Անուն կամ էլ. փոստ",
+        "sv": "Namn eller e-post",
+        "nb": "Navn eller e-post",
+        "nl": "Naam of e-mail",
+        "da": "Navn eller e-mail",
+        "pl": "Imię lub e-mail",
+        "fr": "Nom ou e-mail",
+        "ar": "الاسم أو البريد الإلكتروني"
+      },
+      "roster.add.empty": {
+        "en": "No users found",
+        "ru": "Пользователи не найдены",
+        "hy": "Օգտատերեր չեն գտնվել",
+        "sv": "Inga användare hittades",
+        "nb": "Fant ingen brukere",
+        "nl": "Geen gebruikers gevonden",
+        "da": "Ingen brugere fundet",
+        "pl": "Nie znaleziono użytkowników",
+        "fr": "Aucun utilisateur trouvé",
+        "ar": "لم يتم العثور على مستخدمين"
+      },
+      "roster.add.added": {
+        "en": "Added",
+        "ru": "Добавлен",
+        "hy": "Ավելացված է",
+        "sv": "Tillagd",
+        "nb": "Lagt til",
+        "nl": "Toegevoegd",
+        "da": "Tilføjet",
+        "pl": "Dodano",
+        "fr": "Ajouté",
+        "ar": "تمت الإضافة"
+      },
+      "roster.add.hint": {
+        "en": "Tap + to add an athlete by name or email.",
+        "ru": "Нажмите +, чтобы добавить атлета по имени или e-mail.",
+        "hy": "Սեղմեք +՝ մարզիկ ավելացնելու համար անունով կամ էլ. փոստով։",
+        "sv": "Tryck på + för att lägga till en atlet via namn eller e-post.",
+        "nb": "Trykk + for å legge til en utøver etter navn eller e-post.",
+        "nl": "Tik op + om een atleet toe te voegen op naam of e-mail.",
+        "da": "Tryk på + for at tilføje en atlet via navn eller e-mail.",
+        "pl": "Dotknij +, aby dodać zawodnika po imieniu lub e-mailu.",
+        "fr": "Touchez + pour ajouter un athlète par son nom ou son e-mail.",
+        "ar": "اضغط + لإضافة رياضي بالاسم أو البريد الإلكتروني."
+      },
+      "roster.remove": {
+        "en": "Remove athlete",
+        "ru": "Удалить атлета",
+        "hy": "Հեռացնել մարզիկին",
+        "sv": "Ta bort atlet",
+        "nb": "Fjern utøver",
+        "nl": "Atleet verwijderen",
+        "da": "Fjern atlet",
+        "pl": "Usuń zawodnika",
+        "fr": "Retirer l'athlète",
+        "ar": "إزالة الرياضي"
+      },
+      "school.myAthletes": {
+        "en": "My athletes",
+        "ru": "Мои атлеты",
+        "hy": "Իմ մարզիկները",
+        "sv": "Mina atleter",
+        "nb": "Mine utøvere",
+        "nl": "Mijn atleten",
+        "da": "Mine atleter",
+        "pl": "Moi zawodnicy",
+        "fr": "Mes athlètes",
+        "ar": "رياضيّي"
       }
     },
     "Common": {
@@ -4460,25 +4616,37 @@
         "en": "Add",
         "ru": "Добавить",
         "hy": "Ավելացնել",
-        "sv": "Tillägga",
-        "nb": "Legge til",
+        "sv": "Lägg till",
+        "nb": "Legg til",
         "nl": "Toevoegen",
-        "da": "Tilføje",
-        "pl": "Dodać",
+        "da": "Tilføj",
+        "pl": "Dodaj",
         "fr": "Ajouter",
-        "ar": "يضيف"
+        "ar": "إضافة"
       },
       "apply": {
         "en": "Apply",
         "ru": "Применить",
         "hy": "Կիրառել",
-        "sv": "Tillämpas",
-        "nb": "Søke",
+        "sv": "Använd",
+        "nb": "Bruk",
         "nl": "Toepassen",
-        "da": "Anvende",
-        "pl": "Stosować",
+        "da": "Anvend",
+        "pl": "Zastosuj",
         "fr": "Appliquer",
-        "ar": "يتقدم"
+        "ar": "تطبيق"
+      },
+      "back": {
+        "en": "Back",
+        "ru": "Назад",
+        "hy": "Ետ",
+        "sv": "Tillbaka",
+        "nb": "Tilbake",
+        "nl": "Terug",
+        "da": "Tilbage",
+        "pl": "Wstecz",
+        "fr": "Retour",
+        "ar": "رجوع"
       },
       "cancel": {
         "en": "Cancel",
@@ -4497,24 +4665,24 @@
         "ru": "Очистить",
         "hy": "Մաքրել",
         "sv": "Rensa",
-        "nb": "Klar",
-        "nl": "Duidelijk",
-        "da": "Klar",
-        "pl": "Jasne",
-        "fr": "Clair",
-        "ar": "واضح"
+        "nb": "Tøm",
+        "nl": "Wissen",
+        "da": "Ryd",
+        "pl": "Wyczyść",
+        "fr": "Effacer",
+        "ar": "مسح"
       },
       "close": {
         "en": "Close",
         "ru": "Закрыть",
         "hy": "Փակել",
-        "sv": "Nära",
-        "nb": "Lukke",
-        "nl": "Dichtbij",
-        "da": "Tæt",
-        "pl": "Zamknąć",
+        "sv": "Stäng",
+        "nb": "Lukk",
+        "nl": "Sluiten",
+        "da": "Luk",
+        "pl": "Zamknij",
         "fr": "Fermer",
-        "ar": "يغلق"
+        "ar": "إغلاق"
       },
       "delete": {
         "en": "Delete",
@@ -4545,12 +4713,36 @@
         "ru": "Изменить",
         "hy": "Խմբագրել",
         "sv": "Redigera",
-        "nb": "Redigere",
-        "nl": "Bewerking",
-        "da": "Redigere",
-        "pl": "Redagować",
+        "nb": "Rediger",
+        "nl": "Bewerken",
+        "da": "Rediger",
+        "pl": "Edytuj",
         "fr": "Modifier",
-        "ar": "يحرر"
+        "ar": "تعديل"
+      },
+      "decrement": {
+        "en": "Decrement",
+        "ru": "Уменьшить",
+        "hy": "Նվազեցնել",
+        "sv": "Minska",
+        "nb": "Reduser",
+        "nl": "Verlagen",
+        "da": "Formindsk",
+        "pl": "Zmniejsz",
+        "fr": "Diminuer",
+        "ar": "إنقاص"
+      },
+      "increment": {
+        "en": "Increment",
+        "ru": "Увеличить",
+        "hy": "Ավելացնել",
+        "sv": "Öka",
+        "nb": "Øk",
+        "nl": "Verhogen",
+        "da": "Forøg",
+        "pl": "Zwiększ",
+        "fr": "Augmenter",
+        "ar": "زيادة"
       },
       "save": {
         "en": "Save",
@@ -4575,6 +4767,18 @@
         "pl": "Dalej",
         "fr": "Suivant",
         "ar": "التالي"
+      },
+      "more": {
+        "en": "More",
+        "ru": "Ещё",
+        "hy": "Ավելին",
+        "sv": "Mer",
+        "nb": "Mer",
+        "nl": "Meer",
+        "da": "Mere",
+        "pl": "Więcej",
+        "fr": "Plus",
+        "ar": "المزيد"
       }
     },
     "Discipline": {
@@ -5288,11 +5492,11 @@
         "en": "Gym Logbook can estimate what a session cost you. It is worked out from your height, weight, age and how long you trained — an average for a body like yours, not a measurement of yours.",
         "ru": "Gym Logbook может оценить, во что обошлась тренировка. Расчёт идёт по росту, весу, возрасту и длительности — это среднее для такого тела, как у вас, а не измерение.",
         "hy": "Gym Logbook-ը կարող է գնահատել, թե ինչ արժեցավ մարզումը։ Հաշվարկը հիմնված է հասակի, քաշի, տարիքի և տևողության վրա — միջին արժեք ձեր նման մարմնի համար, ոչ թե չափում։",
-        "sv": "Gymloggbok kan uppskatta vad ett pass kostade dig. Det räknas ut från din längd, vikt, ålder och hur länge du tränade – ett genomsnitt för en kropp som din, inte en mätning av din.",
-        "nb": "Gymloggbok kan anslå hva en økt kostet deg. Det regnes ut fra høyde, vekt, alder og hvor lenge du trente – et gjennomsnitt for en kropp som din, ikke en måling av din.",
-        "nl": "Gymlogboek kan schatten wat een sessie je kostte. Het wordt berekend uit je lengte, gewicht, leeftijd en hoe lang je trainde — een gemiddelde voor een lichaam als het jouwe, geen meting.",
+        "sv": "Gym Logbook kan uppskatta vad ett pass kostade dig. Det räknas ut från din längd, vikt, ålder och hur länge du tränade – ett genomsnitt för en kropp som din, inte en mätning av din.",
+        "nb": "Gym Logbook kan anslå hva en økt kostet deg. Det regnes ut fra høyde, vekt, alder og hvor lenge du trente – et gjennomsnitt for en kropp som din, ikke en måling av din.",
+        "nl": "Gym Logbook kan schatten wat een sessie je kostte. Het wordt berekend uit je lengte, gewicht, leeftijd en hoe lang je trainde — een gemiddelde voor een lichaam als het jouwe, geen meting.",
         "da": "Gymlogbog kan estimere, hvad et træningspas kostede dig. Det beregnes ud fra din højde, vægt, alder og hvor længe du trænede – et gennemsnit for en krop som din, ikke en måling af din.",
-        "pl": "Dziennik siłowni może oszacować, ile kosztował cię trening. Wyliczenie opiera się na wzroście, wadze, wieku i czasie treningu — to średnia dla takiego ciała jak twoje, a nie pomiar.",
+        "pl": "Gym Logbook może oszacować, ile kosztował cię trening. Wyliczenie opiera się na wzroście, wadze, wieku i czasie treningu — to średnia dla takiego ciała jak twoje, a nie pomiar.",
         "fr": "Gym Logbook peut estimer ce qu’une séance vous a coûté. Le calcul se base sur votre taille, votre poids, votre âge et la durée — une moyenne pour un corps comme le vôtre, pas une mesure.",
         "ar": "يمكن لـ Gym Logbook تقدير ما كلّفتك الجلسة. يُحتسب ذلك من طولك ووزنك وعمرك ومدة تمرينك — وهو متوسط لجسم مثل جسمك، لا قياس له."
       },
@@ -5367,6 +5571,18 @@
         "pl": "Gdy synchronizacja z Apple Health jest włączona, szacunek zapisuje się tam jako energia aktywna.",
         "fr": "Si la synchronisation avec Apple Santé est activée, l’estimation y est enregistrée comme énergie active.",
         "ar": "عند تفعيل المزامنة مع Apple Health، يُحفظ التقدير هناك كطاقة نشطة."
+      },
+      "setup.point.healthAndroid": {
+        "en": "When Health Connect sync is on, the estimate is saved there as active calories burned.",
+        "ru": "Если включена синхронизация с Health Connect, оценка сохраняется туда как сожжённые активные калории.",
+        "hy": "Եթե Health Connect-ի համաժամացումը միացված է, գնահատումը պահվում է այնտեղ որպես այրված ակտիվ կալորիաներ։",
+        "sv": "När synk med Health Connect är på sparas uppskattningen dit som förbrända aktiva kalorier.",
+        "nb": "Når synkronisering med Health Connect er på, lagres anslaget der som forbrente aktive kalorier.",
+        "nl": "Als synchronisatie met Health Connect aanstaat, wordt de schatting daar opgeslagen als verbrande actieve calorieën.",
+        "da": "Når synkronisering med Health Connect er slået til, gemmes estimatet der som forbrændte aktive kalorier.",
+        "pl": "Gdy synchronizacja z Health Connect jest włączona, szacunek zapisuje się tam jako spalone aktywne kalorie.",
+        "fr": "Si la synchronisation avec Santé Connect est activée, l’estimation y est enregistrée comme calories actives brûlées.",
+        "ar": "عند تفعيل المزامنة مع Health Connect، يُحفظ التقدير هناك كسعرات حرارية نشطة محروقة."
       },
       "setup.point.off": {
         "en": "You can turn it off any time. Nothing is deleted when you do.",
@@ -5670,6 +5886,18 @@
         "fr": "Depuis Apple Santé",
         "ar": "من Apple Health"
       },
+      "live.sourceHealthConnect": {
+        "en": "From Health Connect",
+        "ru": "Из Health Connect",
+        "hy": "Health Connect-ից",
+        "sv": "Från Health Connect",
+        "nb": "Fra Health Connect",
+        "nl": "Uit Health Connect",
+        "da": "Fra Health Connect",
+        "pl": "Z Health Connect",
+        "fr": "Depuis Santé Connect",
+        "ar": "من Health Connect"
+      },
       "live.empty": {
         "en": "No heart-rate readings for this workout yet.",
         "ru": "Для этой тренировки пока нет данных о пульсе.",
@@ -5693,6 +5921,18 @@
         "pl": "Odczyty na żywo pochodzą z Gym Logbook na Apple Watch. Odczyty z innych urządzeń pojawią się po synchronizacji z Apple Health.",
         "fr": "Les mesures en direct viennent de Gym Logbook sur votre Apple Watch. Celles des autres appareils apparaissent une fois synchronisées avec Apple Santé.",
         "ar": "تأتي القراءات المباشرة من Gym Logbook على Apple Watch. وتظهر قراءات الأجهزة الأخرى بعد مزامنتها مع Apple Health."
+      },
+      "live.footerHealthConnect": {
+        "en": "Readings from other devices appear once they sync to Health Connect.",
+        "ru": "Показания других устройств появятся после синхронизации с Health Connect.",
+        "hy": "Այլ սարքերի ցուցմունքները կհայտնվեն Health Connect-ի հետ համաժամեցվելուց հետո։",
+        "sv": "Värden från andra enheter visas när de har synkats till Health Connect.",
+        "nb": "Målinger fra andre enheter vises når de er synkronisert til Health Connect.",
+        "nl": "Metingen van andere apparaten verschijnen zodra ze met Health Connect zijn gesynchroniseerd.",
+        "da": "Målinger fra andre enheder vises, når de er synkroniseret til Health Connect.",
+        "pl": "Odczyty z innych urządzeń pojawią się po synchronizacji z Health Connect.",
+        "fr": "Les mesures des autres appareils apparaissent une fois synchronisées avec Santé Connect.",
+        "ar": "تظهر قراءات الأجهزة الأخرى بعد مزامنتها مع Health Connect."
       },
       "live.hint": {
         "en": "Shows this workout's heart rate",
@@ -5756,13 +5996,13 @@
       },
       "summary": {
         "en": "Average %1$d, low %2$d, peak %3$d beats per minute",
-        "ru": "Средний %1$d, минимум %2$d, максимум %3$d ударов в минуту",
+        "ru": "Средний %1$d, минимум %2$d, максимум %3$d уд/мин",
         "hy": "Միջին %1$d, նվազագույն %2$d, առավելագույն %3$d զարկ րոպեում",
         "sv": "Snitt %1$d, lägsta %2$d, högsta %3$d slag per minut",
         "nb": "Snitt %1$d, laveste %2$d, høyeste %3$d slag i minuttet",
         "nl": "Gemiddeld %1$d, laagste %2$d, hoogste %3$d slagen per minuut",
         "da": "Gennemsnit %1$d, laveste %2$d, højeste %3$d slag i minuttet",
-        "pl": "Średnie %1$d, najniższe %2$d, najwyższe %3$d uderzeń na minutę",
+        "pl": "Średnie %1$d, najniższe %2$d, najwyższe %3$d ud./min",
         "fr": "Moyenne %1$d, minimum %2$d, maximum %3$d battements par minute",
         "ar": "المتوسط %1$d، الأدنى %2$d، الأعلى %3$d نبضة في الدقيقة"
       },
@@ -7515,31 +7755,31 @@
       },
       "categoryExerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
       "categoryPresetCount": {
         "en": "%lld presets",
-        "ru": "%lld пресетов",
+        "ru": "Пресетов: %lld",
         "hy": "%lld նախադրվածք",
         "sv": "%lld förinställningar",
         "nb": "%lld forhåndsinnstillinger",
         "nl": "%lld voorinstellingen",
         "da": "%lld forudindstillinger",
-        "pl": "%lld ustawień wstępnych",
+        "pl": "Presety: %lld",
         "fr": "%lld préréglages",
         "ar": "%lld الإعدادات المسبقة"
       },
       "categorySelectedCount": {
         "en": "%lld selected",
-        "ru": "%lld выбрано",
+        "ru": "Выбрано: %lld",
         "hy": "%lld ընտրված",
         "sv": "%lld vald",
         "nb": "%lld valgt",
@@ -9723,13 +9963,13 @@
       },
       "sport.count": {
         "en": "%lld sports",
-        "ru": "%lld видов спорта",
+        "ru": "Видов спорта: %lld",
         "hy": "%lld սպորտաձև",
         "sv": "%lld sporter",
         "nb": "%lld sporter",
         "nl": "%lld sporten",
         "da": "%lld sportsgrene",
-        "pl": "%lld sportów",
+        "pl": "Sporty: %lld",
         "fr": "%lld sports",
         "ar": "%lld رياضات"
       },
@@ -10091,9 +10331,45 @@
         "nb": "%lld treningsøkter i denne sikkerhetskopien",
         "nl": "%lld trainingen in deze back-up",
         "da": "%lld træningspas i denne sikkerhedskopi",
-        "pl": "%lld treningów w tej kopii zapasowej",
+        "pl": "Treningi w tej kopii zapasowej: %lld",
         "fr": "%lld séances dans cette sauvegarde",
         "ar": "%lld تمارين في هذه النسخة الاحتياطية"
+      },
+      "error.encodeFailed": {
+        "en": "Your data couldn’t be prepared for export.",
+        "ru": "Не удалось подготовить данные к экспорту.",
+        "hy": "Չհաջողվեց պատրաստել տվյալները արտահանման համար։",
+        "sv": "Dina data kunde inte förberedas för export.",
+        "nb": "Dataene dine kunne ikke klargjøres for eksport.",
+        "nl": "Je gegevens konden niet worden voorbereid voor export.",
+        "da": "Dine data kunne ikke klargøres til eksport.",
+        "pl": "Nie udało się przygotować danych do eksportu.",
+        "fr": "Impossible de préparer vos données pour l’exportation.",
+        "ar": "تعذّر تجهيز بياناتك للتصدير."
+      },
+      "error.zipFailed": {
+        "en": "The CSV archive couldn’t be created.",
+        "ru": "Не удалось создать CSV-архив.",
+        "hy": "Չհաջողվեց ստեղծել CSV արխիվը։",
+        "sv": "CSV-arkivet kunde inte skapas.",
+        "nb": "CSV-arkivet kunne ikke opprettes.",
+        "nl": "Het CSV-archief kon niet worden gemaakt.",
+        "da": "CSV-arkivet kunne ikke oprettes.",
+        "pl": "Nie udało się utworzyć archiwum CSV.",
+        "fr": "Impossible de créer l’archive CSV.",
+        "ar": "تعذّر إنشاء أرشيف CSV."
+      },
+      "error.writeFailed": {
+        "en": "The export file couldn’t be saved.",
+        "ru": "Не удалось сохранить файл экспорта.",
+        "hy": "Չհաջողվեց պահել արտահանման ֆայլը։",
+        "sv": "Exportfilen kunde inte sparas.",
+        "nb": "Eksportfilen kunne ikke lagres.",
+        "nl": "Het exportbestand kon niet worden opgeslagen.",
+        "da": "Eksportfilen kunne ikke gemmes.",
+        "pl": "Nie udało się zapisać pliku eksportu.",
+        "fr": "Impossible d’enregistrer le fichier d’exportation.",
+        "ar": "تعذّر حفظ ملف التصدير."
       }
     },
     "Failure": {
@@ -10231,13 +10507,13 @@
       },
       "unlock.body": {
         "en": "%d weeks in a row. Time for a harder session: two sets per exercise, each taken to failure.",
-        "ru": "%d недель подряд. Время для более жёсткой сессии: по два подхода на упражнение, каждый до отказа.",
+        "ru": "%d нед. подряд. Время для более жёсткой сессии: по два подхода на упражнение, каждый до отказа.",
         "hy": "%d շաբաթ անընդմեջ։ Ժամանակն է ավելի դժվար մարզման՝ երկու մոտեցում յուրաքանչյուր վարժության համար՝ մինչև ձախողում։",
         "sv": "%d veckor i rad. Dags för ett tuffare pass: två set per övning, varje till failure.",
         "nb": "%d uker på rad. Tid for en hardere økt: to sett per øvelse, hvert til failure.",
         "nl": "%d weken op rij. Tijd voor een zwaardere sessie: twee sets per oefening, elk tot failure.",
         "da": "%d uger i træk. Tid til en hårdere session: to sæt pr. øvelse, hvert til failure.",
-        "pl": "%d tygodni z rzędu. Czas na trudniejszą sesję: dwa serie na ćwiczenie, każda do upadku.",
+        "pl": "Tygodnie z rzędu: %d. Czas na trudniejszy trening: dwie serie na ćwiczenie, każda do upadku.",
         "fr": "%d semaines d’affilée. Place à une séance plus dure : deux séries par exercice, chacune jusqu’à l’échec.",
         "ar": "%d أسابيع متتالية. حان وقت جلسة أصعب: مجموعتان لكل تمرين، كل منها حتى الفشل."
       },
@@ -11079,7 +11355,7 @@
         "nb": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "nl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "da": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
-        "pl": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
+        "pl": "Partner usunął ćwiczenia (%lld), w których masz już zapisane serie. Usuń je także tutaj albo zachowaj własną kopię.",
         "fr": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy.",
         "ar": "Your partner removed %lld exercise(s) you've already logged sets on. Remove them here too, or keep your own copy."
       },
@@ -11091,7 +11367,7 @@
         "nb": "Remove %lld Exercise(s)?",
         "nl": "Remove %lld Exercise(s)?",
         "da": "Remove %lld Exercise(s)?",
-        "pl": "Remove %lld Exercise(s)?",
+        "pl": "Usunąć ćwiczenia (%lld)?",
         "fr": "Remove %lld Exercise(s)?",
         "ar": "Remove %lld Exercise(s)?"
       },
@@ -11107,6 +11383,30 @@
         "fr": "Save a copy",
         "ar": "Save a copy"
       },
+      "share.inbox.empty": {
+        "en": "Nothing has been shared with you yet. When a friend shares a workout, template, exercise or record, it appears here.",
+        "ru": "С вами пока ничем не поделились. Когда друг поделится тренировкой, шаблоном, упражнением или рекордом, это появится здесь.",
+        "hy": "Ձեզ հետ դեռ ոչինչ չեն կիսվել։ Երբ ընկերը կիսվի մարզումով, ձևանմուշով, վարժությամբ կամ ռեկորդով, այն կհայտնվի այստեղ։",
+        "sv": "Inget har delats med dig än. När en vän delar ett träningspass, en mall, en övning eller ett rekord visas det här.",
+        "nb": "Ingenting er delt med deg ennå. Når en venn deler en økt, en mal, en øvelse eller en rekord, vises den her.",
+        "nl": "Er is nog niets met je gedeeld. Als een vriend een training, sjabloon, oefening of record deelt, verschijnt die hier.",
+        "da": "Intet er delt med dig endnu. Når en ven deler en træning, en skabelon, en øvelse eller en rekord, vises den her.",
+        "pl": "Nikt jeszcze niczego Ci nie udostępnił. Gdy znajomy udostępni trening, szablon, ćwiczenie lub rekord, pojawi się tutaj.",
+        "fr": "Rien n’a encore été partagé avec vous. Quand un ami partage un entraînement, un modèle, un exercice ou un record, il apparaît ici.",
+        "ar": "لم يُشارَك معك أي شيء بعد. عندما يشارك صديق جلسة تدريب أو قالبًا أو تمرينًا أو رقمًا قياسيًا، يظهر هنا."
+      },
+      "share.inbox.title": {
+        "en": "Shared with me",
+        "ru": "Поделились со мной",
+        "hy": "Ինձ հետ կիսվածներ",
+        "sv": "Delat med mig",
+        "nb": "Delt med meg",
+        "nl": "Gedeeld met mij",
+        "da": "Delt med mig",
+        "pl": "Udostępnione mi",
+        "fr": "Partagés avec moi",
+        "ar": "تمت مشاركته معي"
+      },
       "share.pickFriend": {
         "en": "Choose a friend",
         "ru": "Выбрать друга",
@@ -11118,6 +11418,54 @@
         "pl": "Choose a friend",
         "fr": "Choose a friend",
         "ar": "Choose a friend"
+      },
+      "share.type.exercise": {
+        "en": "Exercise",
+        "ru": "Упражнение",
+        "hy": "Վարժություն",
+        "sv": "Övning",
+        "nb": "Øvelse",
+        "nl": "Oefening",
+        "da": "Øvelse",
+        "pl": "Ćwiczenie",
+        "fr": "Exercice",
+        "ar": "تمرين"
+      },
+      "share.type.personalBest": {
+        "en": "Personal record",
+        "ru": "Рекорд",
+        "hy": "Ռեկորդ",
+        "sv": "Personligt rekord",
+        "nb": "Personlig rekord",
+        "nl": "Persoonlijk record",
+        "da": "Personlig rekord",
+        "pl": "Rekord osobisty",
+        "fr": "Record personnel",
+        "ar": "رقم قياسي شخصي"
+      },
+      "share.type.template": {
+        "en": "Template",
+        "ru": "Шаблон",
+        "hy": "Ձևանմուշ",
+        "sv": "Mall",
+        "nb": "Mal",
+        "nl": "Sjabloon",
+        "da": "Skabelon",
+        "pl": "Szablon",
+        "fr": "Modèle",
+        "ar": "قالب"
+      },
+      "share.type.workout": {
+        "en": "Workout",
+        "ru": "Тренировка",
+        "hy": "Մարզում",
+        "sv": "Träningspass",
+        "nb": "Treningsøkt",
+        "nl": "Training",
+        "da": "Træning",
+        "pl": "Trening",
+        "fr": "Entraînement",
+        "ar": "جلسة تدريب"
       },
       "share.view": {
         "en": "View share",
@@ -11193,6 +11541,18 @@
         "fr": "Mise à jour dans l'App Store",
         "ar": "التحديث في متجر التطبيقات"
       },
+      "forceUpdate.actionPlay": {
+        "en": "Update in Google Play",
+        "ru": "Обновить в Google Play",
+        "hy": "Թարմացնել Google Play-ում",
+        "sv": "Uppdatera i Google Play",
+        "nb": "Oppdater i Google Play",
+        "nl": "Bijwerken in Google Play",
+        "da": "Opdater i Google Play",
+        "pl": "Zaktualizuj w Google Play",
+        "fr": "Mettre à jour sur Google Play",
+        "ar": "التحديث من Google Play"
+      },
       "forceUpdate.message": {
         "en": "A newer version of Gym Logbook is required to continue.",
         "ru": "Для продолжения нужна более новая версия Gym Logbook.",
@@ -11233,11 +11593,11 @@
         "en": "Gym Logbook is undergoing maintenance. Please try again shortly.",
         "ru": "Gym Logbook на техническом обслуживании. Попробуйте ещё раз чуть позже.",
         "hy": "Gym Logbook-ը սպասարկման մեջ է։ Խնդրում ենք փորձել քիչ անց։",
-        "sv": "Gymloggboken genomgår underhåll. Försök snart igen.",
-        "nb": "Gymloggbok er under vedlikehold. Vennligst prøv igjen snart.",
-        "nl": "Gymlogboek ondergaat onderhoud. Probeer het binnenkort opnieuw.",
+        "sv": "Gym Logbook genomgår underhåll. Försök snart igen.",
+        "nb": "Gym Logbook er under vedlikehold. Vennligst prøv igjen snart.",
+        "nl": "Gym Logbook ondergaat onderhoud. Probeer het binnenkort opnieuw.",
         "da": "Gymlogbog er under vedligeholdelse. Prøv igen snart.",
-        "pl": "Dziennik siłowni jest w trakcie prac konserwacyjnych. Spróbuj ponownie wkrótce.",
+        "pl": "Gym Logbook jest w trakcie prac konserwacyjnych. Spróbuj ponownie wkrótce.",
         "fr": "Le journal de bord du gymnase est en cours de maintenance. Veuillez réessayer sous peu.",
         "ar": "يخضع Gym Logbook للصيانة. يرجى المحاولة مرة أخرى قريبا."
       },
@@ -11347,7 +11707,7 @@
         "nb": "%lld treningsøkter kunne ikke synkroniseres. Bruk Synkroniser nylige eller Prøv igjen på en økt.",
         "nl": "%lld trainingen konden niet worden gesynchroniseerd. Gebruik Recente synchroniseren of Opnieuw proberen bij een training.",
         "da": "%lld træninger kunne ikke synkroniseres. Brug Synkroniser seneste eller Prøv igen på en træning.",
-        "pl": "Nie udało się zsynchronizować %lld treningów. Użyj Synchronizuj ostatnie lub Ponów przy treningu.",
+        "pl": "Treningi, których nie udało się zsynchronizować: %lld. Użyj Synchronizuj ostatnie lub Ponów przy treningu.",
         "fr": "%lld entraînements n’ont pas pu être synchronisés. Utilisez Synchroniser les récents ou Réessayer sur un entraînement.",
         "ar": "فشل مزامنة %lld من التدريبات. استخدم مزامنة الأخيرة أو إعادة المحاولة على تمرين."
       },
@@ -11407,7 +11767,7 @@
         "nb": "Synkroniserte %lld treningsøkter.",
         "nl": "Gesynchroniseerde %lld trainingen.",
         "da": "Synkroniseret %lld træning.",
-        "pl": "Zsynchronizowane treningi %lld.",
+        "pl": "Zsynchronizowane treningi: %lld.",
         "fr": "Entraînements %lld synchronisés.",
         "ar": "تمت مزامنة %lld من التدريبات."
       },
@@ -11419,7 +11779,7 @@
         "nb": "Synkroniserte %lld treningsøkter; %lld mislyktes.",
         "nl": "%lld trainingen gesynchroniseerd; %lld mislukt.",
         "da": "Synkroniserede %lld træninger; %lld mislykkedes.",
-        "pl": "Zsynchronizowano %lld treningów; %lld niepowodzeń.",
+        "pl": "Zsynchronizowane treningi: %lld; nieudane: %lld.",
         "fr": "%lld entraînements synchronisés ; %lld échecs.",
         "ar": "تمت مزامنة %lld؛ فشل %lld."
       },
@@ -11508,6 +11868,224 @@
         "ar": "ما الذي تتم مزامنته"
       }
     },
+    "HealthConnect": {
+      "settings.title": {
+        "en": "Health Connect",
+        "ru": "Health Connect",
+        "hy": "Health Connect",
+        "sv": "Health Connect",
+        "nb": "Health Connect",
+        "nl": "Health Connect",
+        "da": "Health Connect",
+        "pl": "Health Connect",
+        "fr": "Santé Connect",
+        "ar": "Health Connect"
+      },
+      "rationale.body": {
+        "en": "Gym Logbook uses Health Connect only for what you turn on: saving finished workouts — with distance, and active calories when the energy estimate is on — and reading heart rate to draw it on a workout. It reads nothing else, and health data is never used for advertising.",
+        "ru": "Gym Logbook использует Health Connect только для того, что вы включили сами: сохранения завершённых тренировок — с дистанцией, а при включённой оценке энергии и с активными калориями — и чтения пульса, чтобы показать его график на тренировке. Больше ничего не читается, а данные о здоровье никогда не используются для рекламы.",
+        "hy": "Gym Logbook-ը Health Connect-ն օգտագործում է միայն այն բանի համար, ինչ դուք ինքներդ եք միացրել՝ ավարտված մարզումները պահելու համար՝ հեռավորությամբ, իսկ էներգիայի գնահատումը միացված լինելու դեպքում՝ նաև ակտիվ կալորիաներով, և զարկերակը կարդալու համար՝ այն մարզման վրա գծելու նպատակով։ Ուրիշ ոչինչ չի կարդացվում, և առողջության տվյալները երբեք չեն օգտագործվում գովազդի համար։",
+        "sv": "Gym Logbook använder Health Connect bara till det du själv slår på: att spara avslutade träningspass – med distans, och aktiva kalorier när energiuppskattningen är på – och att läsa pulsen för att rita den på ett pass. Inget annat läses, och hälsodata används aldrig för reklam.",
+        "nb": "Gym Logbook bruker Health Connect bare til det du selv slår på: å lagre fullførte økter – med distanse, og aktive kalorier når energianslaget er på – og å lese pulsen for å tegne den på en økt. Ingenting annet leses, og helsedata brukes aldri til reklame.",
+        "nl": "Gym Logbook gebruikt Health Connect alleen voor wat je zelf aanzet: afgeronde trainingen opslaan – met afstand, en actieve calorieën als de energieschatting aanstaat – en je hartslag lezen om die bij een training te tekenen. Er wordt niets anders gelezen, en gezondheidsgegevens worden nooit voor advertenties gebruikt.",
+        "da": "Gym Logbook bruger kun Health Connect til det, du selv slår til: at gemme afsluttede træninger – med distance og aktive kalorier, når energiestimatet er slået til – og at læse din puls for at tegne den på en træning. Intet andet læses, og helbredsdata bruges aldrig til reklamer.",
+        "pl": "Gym Logbook korzysta z Health Connect tylko w zakresie, który sam włączysz: zapisuje zakończone treningi – z dystansem, a gdy szacunek energii jest włączony, także z aktywnymi kaloriami – oraz odczytuje tętno, aby narysować je na treningu. Nic więcej nie jest odczytywane, a dane o zdrowiu nigdy nie służą do reklam.",
+        "fr": "Gym Logbook n’utilise Santé Connect que pour ce que vous activez : enregistrer les entraînements terminés – avec la distance, et les calories actives si l’estimation d’énergie est activée – et lire la fréquence cardiaque pour la tracer sur une séance. Rien d’autre n’est lu, et les données de santé ne servent jamais à la publicité.",
+        "ar": "يستخدم Gym Logbook ‏Health Connect فقط لما تفعّله بنفسك: حفظ التمارين المكتملة — مع المسافة، والسعرات الحرارية النشطة عند تفعيل تقدير الطاقة — وقراءة معدل ضربات القلب لرسمه على التمرين. لا يُقرأ أي شيء آخر، ولا تُستخدم البيانات الصحية للإعلانات أبدًا."
+      },
+      "settings.toggle": {
+        "en": "Save workouts to Health Connect",
+        "ru": "Сохранять тренировки в Health Connect",
+        "hy": "Պահել մարզումները Health Connect-ում",
+        "sv": "Spara träningspass i Health Connect",
+        "nb": "Lagre treningsøkter i Health Connect",
+        "nl": "Sla trainingen op in Health Connect",
+        "da": "Gem træning i Health Connect",
+        "pl": "Zapisuj treningi w Health Connect",
+        "fr": "Enregistrer les entraînements dans Santé Connect",
+        "ar": "احفظ التدريبات في Health Connect"
+      },
+      "settings.whatSyncsBody": {
+        "en": "Finished workouts sync to Health Connect as exercise sessions, plus distance when available. Energy is included only when you turn on the energy estimate — and it is an estimate, not a measurement. Heart rate and other health data are never written.",
+        "ru": "Завершённые тренировки синхронизируются с Health Connect — с дистанцией, если она есть. Энергия добавляется, только если включена оценка энергии, — и это оценка, а не измерение. Пульс и другие данные здоровья не записываются.",
+        "hy": "Ավարտված մարզումները համաժամացվում են Health Connect-ի հետ՝ առկայության դեպքում նաև հեռավորությամբ։ Էներգիան ավելացվում է միայն էներգիայի գնահատումը միացնելիս — և դա գնահատում է, ոչ թե չափում։ Զարկերակը և առողջության այլ տվյալները չեն գրվում։",
+        "sv": "Avslutade pass synkas till Health Connect som träningspass, plus distans när den finns. Energi ingår bara när du slår på energiuppskattningen – och det är en uppskattning, inte en mätning. Puls och andra hälsodata skrivs aldrig.",
+        "nb": "Fullførte økter synkroniseres til Health Connect som treningsøkter, pluss distanse når den finnes. Energi følger bare med når du slår på energianslaget – og det er et anslag, ikke en måling. Puls og andre helsedata skrives aldri.",
+        "nl": "Afgeronde workouts synchroniseren naar Health Connect als trainingssessies, plus afstand indien beschikbaar. Energie gaat alleen mee als je de energieschatting aanzet — en het is een schatting, geen meting. Hartslag en andere gezondheidsgegevens worden nooit weggeschreven.",
+        "da": "Afsluttede pas synkroniseres til Health Connect som træningspas plus distance, når den findes. Energi er kun med, når du slår energiestimatet til – og det er et estimat, ikke en måling. Puls og andre sundhedsdata skrives aldrig.",
+        "pl": "Ukończone treningi synchronizują się z Health Connect jako sesje treningowe oraz dystans, jeśli jest. Energia trafia tam tylko po włączeniu szacowanej energii — i jest to szacunek, nie pomiar. Tętno i inne dane zdrowotne nigdy nie są zapisywane.",
+        "fr": "Les séances terminées sont synchronisées avec Santé Connect comme sessions d’exercice, plus la distance si elle existe. L’énergie n’est incluse que si vous activez l’estimation d’énergie — et c’est une estimation, pas une mesure. La fréquence cardiaque et les autres données de santé ne sont jamais écrites.",
+        "ar": "تُزامَن التمارين المكتملة مع Health Connect كجلسات تمرين، مع المسافة إن وُجدت. ولا تُضاف الطاقة إلا عند تفعيل تقدير الطاقة — وهو تقدير لا قياس. ولا تُكتب نبضات القلب ولا بيانات الصحة الأخرى أبدًا."
+      },
+      "settings.footer": {
+        "en": "Finished workouts are saved to Health Connect as exercise sessions. Energy is written only when you turn on the energy estimate.",
+        "ru": "Завершённые тренировки сохраняются в Health Connect. Энергия записывается, только если включена оценка энергии.",
+        "hy": "Ավարտված մարզումները պահվում են Health Connect-ում։ Էներգիան գրվում է միայն այն դեպքում, երբ միացված է էներգիայի գնահատումը։",
+        "sv": "Avslutade pass sparas i Health Connect som träningspass. Energi skrivs bara när du slår på energiuppskattningen.",
+        "nb": "Fullførte økter lagres i Health Connect som treningsøkter. Energi skrives bare når du slår på energianslaget.",
+        "nl": "Afgeronde workouts worden in Health Connect opgeslagen als trainingssessies. Energie wordt alleen weggeschreven als je de energieschatting aanzet.",
+        "da": "Afsluttede pas gemmes i Health Connect som træningspas. Energi skrives kun, når du slår energiestimatet til.",
+        "pl": "Ukończone treningi zapisują się w Health Connect jako sesje treningowe. Energia zapisuje się tylko wtedy, gdy włączysz szacowaną energię.",
+        "fr": "Les séances terminées sont enregistrées dans Santé Connect comme sessions d’exercice. L’énergie n’est écrite que si vous activez l’estimation d’énergie.",
+        "ar": "تُحفظ التمارين المكتملة في Health Connect كجلسات تمرين. ولا تُكتب الطاقة إلا عند تفعيل تقدير الطاقة."
+      },
+      "settings.denied": {
+        "en": "Health Connect access was denied. Allow Gym Logbook in the Health Connect app to sync workouts.",
+        "ru": "Доступ к Health Connect запрещён. Разрешите доступ Gym Logbook в приложении Health Connect, чтобы синхронизировать тренировки.",
+        "hy": "Health Connect-ի հասանելիությունը մերժված է։ Թույլատրեք Gym Logbook-ին Health Connect հավելվածում՝ մարզումները համաժամացնելու համար։",
+        "sv": "Åtkomst till Health Connect nekades. Tillåt Gym Logbook i Health Connect-appen för att synka träningspass.",
+        "nb": "Tilgang til Health Connect ble nektet. Gi Gym Logbook tilgang i Health Connect-appen for å synkronisere treningsøkter.",
+        "nl": "Toegang tot Health Connect is geweigerd. Sta Gym Logbook toe in de Health Connect-app om trainingen te synchroniseren.",
+        "da": "Adgang til Health Connect blev nægtet. Giv Gym Logbook adgang i Health Connect-appen for at synkronisere træning.",
+        "pl": "Odmówiono dostępu do Health Connect. Zezwól Gym Logbook na dostęp w aplikacji Health Connect, aby synchronizować treningi.",
+        "fr": "L’accès à Santé Connect a été refusé. Autorisez Gym Logbook dans l’application Santé Connect pour synchroniser les entraînements.",
+        "ar": "تم رفض الوصول إلى Health Connect. اسمح لـ Gym Logbook في تطبيق Health Connect لمزامنة التدريبات."
+      },
+      "settings.unavailable": {
+        "en": "Health Connect is not available on this device.",
+        "ru": "Health Connect недоступен на этом устройстве.",
+        "hy": "Health Connect-ը հասանելի չէ այս սարքում։",
+        "sv": "Health Connect är inte tillgängligt på den här enheten.",
+        "nb": "Health Connect er ikke tilgjengelig på denne enheten.",
+        "nl": "Health Connect is niet beschikbaar op dit apparaat.",
+        "da": "Health Connect er ikke tilgængelig på denne enhed.",
+        "pl": "Health Connect nie jest dostępny na tym urządzeniu.",
+        "fr": "Santé Connect n’est pas disponible sur cet appareil.",
+        "ar": "Health Connect غير متوفر على هذا الجهاز."
+      },
+      "settings.needsInstall": {
+        "en": "Install or update the Health Connect app to save your workouts there.",
+        "ru": "Установите или обновите приложение Health Connect, чтобы сохранять в нём тренировки.",
+        "hy": "Տեղադրեք կամ թարմացրեք Health Connect հավելվածը՝ մարզումներն այնտեղ պահելու համար։",
+        "sv": "Installera eller uppdatera Health Connect-appen för att spara dina träningspass där.",
+        "nb": "Installer eller oppdater Health Connect-appen for å lagre treningsøktene dine der.",
+        "nl": "Installeer of update de Health Connect-app om je trainingen daar op te slaan.",
+        "da": "Installer eller opdater Health Connect-appen for at gemme din træning der.",
+        "pl": "Zainstaluj lub zaktualizuj aplikację Health Connect, aby zapisywać w niej treningi.",
+        "fr": "Installez ou mettez à jour l’application Santé Connect pour y enregistrer vos entraînements.",
+        "ar": "ثبّت تطبيق Health Connect أو حدّثه لحفظ تدريباتك فيه."
+      },
+      "settings.install": {
+        "en": "Get Health Connect",
+        "ru": "Установить Health Connect",
+        "hy": "Ստանալ Health Connect-ը",
+        "sv": "Hämta Health Connect",
+        "nb": "Hent Health Connect",
+        "nl": "Health Connect downloaden",
+        "da": "Hent Health Connect",
+        "pl": "Pobierz Health Connect",
+        "fr": "Obtenir Santé Connect",
+        "ar": "احصل على Health Connect"
+      },
+      "settings.upToDate": {
+        "en": "Workouts are up to date in Health Connect.",
+        "ru": "Все тренировки синхронизированы с Health Connect.",
+        "hy": "Մարզումները Health Connect-ում արդիական են։",
+        "sv": "Träningspassen är uppdaterade i Health Connect.",
+        "nb": "Treningsøktene er oppdatert i Health Connect.",
+        "nl": "Trainingen zijn up-to-date in Health Connect.",
+        "da": "Træninger er opdateret i Health Connect.",
+        "pl": "Treningi są aktualne w Health Connect.",
+        "fr": "Les entraînements sont à jour dans Santé Connect.",
+        "ar": "التدريبات محدّثة في Health Connect."
+      },
+      "settings.open": {
+        "en": "Open Health Connect",
+        "ru": "Открыть Health Connect",
+        "hy": "Բացել Health Connect-ը",
+        "sv": "Öppna Health Connect",
+        "nb": "Åpne Health Connect",
+        "nl": "Health Connect openen",
+        "da": "Åbn Health Connect",
+        "pl": "Otwórz Health Connect",
+        "fr": "Ouvrir Santé Connect",
+        "ar": "افتح Health Connect"
+      },
+      "heartRate.toggle": {
+        "en": "Read heart rate from Health Connect",
+        "ru": "Читать пульс из Health Connect",
+        "hy": "Կարդալ զարկերակը Health Connect-ից",
+        "sv": "Läs puls från Health Connect",
+        "nb": "Les puls fra Health Connect",
+        "nl": "Hartslag lezen uit Health Connect",
+        "da": "Læs puls fra Health Connect",
+        "pl": "Odczytuj tętno z Health Connect",
+        "fr": "Lire la fréquence cardiaque depuis Santé Connect",
+        "ar": "قراءة معدل ضربات القلب من Health Connect"
+      },
+      "heartRate.footer": {
+        "en": "The only thing Gym Logbook ever reads from Health Connect. When this is on, your heart rate shows live during a workout, on your phone and in the Wear OS app. Each finished session's readings are also copied into the app to draw a chart, and cardio time is costed from your measured rate instead of an average. Lifting still uses the average — heart rate is a poor guide to the energy cost of a heavy set. Turning this off stops all reading; traces already copied stay with their workouts until you delete them.",
+        "ru": "Единственное, что Gym Logbook читает из Health Connect. Когда включено, пульс показывается в реальном времени во время тренировки — на телефоне и в приложении для Wear OS. Показания за каждую завершённую тренировку также копируются в приложение для графика, а кардио оценивается по измеренному пульсу, а не по среднему значению. Силовая работа по-прежнему считается по среднему: пульс плохо отражает затраты энергии в тяжёлом подходе. Выключение полностью прекращает чтение; уже скопированные данные остаются с тренировками, пока вы их не удалите.",
+        "hy": "Միակ բանը, որ Gym Logbook-ը կարդում է Health Connect-ից։ Երբ միացված է, մարզման ընթացքում զարկերակը ցուցադրվում է իրական ժամանակում՝ հեռախոսում և Wear OS-ի հավելվածում։ Յուրաքանչյուր ավարտված մարզման ցուցմունքները նաև պատճենվում են հավելված՝ գծապատկեր կառուցելու համար, իսկ կարդիոն հաշվարկվում է չափված զարկերակով, ոչ թե միջինով։ Ուժային աշխատանքը մնում է միջինի վրա. զարկերակը վատ ցուցիչ է ծանր մոտեցման էներգածախսի համար։ Անջատելը դադարեցնում է ամբողջ ընթերցումը. արդեն պատճենվածը մնում է մարզումների հետ, մինչև չջնջեք։",
+        "sv": "Det enda Gym Logbook någonsin läser från Health Connect. När det är på visas din puls live under passet, på telefonen och i Wear OS-appen. Pulsvärdena från varje avslutat pass kopieras också in i appen för att rita ett diagram, och konditionstiden beräknas från din uppmätta puls i stället för ett medelvärde. Styrketräning använder fortfarande medelvärdet – puls är en dålig vägledning till energikostnaden för ett tungt set. Att stänga av stoppar all läsning; redan kopierade kurvor stannar hos sina pass tills du raderar dem.",
+        "nb": "Det eneste Gym Logbook noen gang leser fra Health Connect. Når dette er på, vises pulsen din direkte under økten, på telefonen og i Wear OS-appen. Pulsmålingene fra hver fullførte økt kopieres også inn i appen for å tegne en graf, og kondisjonstid beregnes fra den målte pulsen din i stedet for et gjennomsnitt. Styrke bruker fortsatt gjennomsnittet – puls er en dårlig pekepinn på energikostnaden i et tungt sett. Å slå det av stopper all lesing; kurver som allerede er kopiert blir hos øktene sine til du sletter dem.",
+        "nl": "Het enige dat Gym Logbook ooit uit Health Connect leest. Als dit aanstaat, zie je je hartslag live tijdens een training, op je telefoon en in de Wear OS-app. De hartslagmetingen van elke voltooide sessie worden ook in de app gekopieerd om een grafiek te tekenen, en cardiotijd wordt berekend met je gemeten hartslag in plaats van een gemiddelde. Krachttraining gebruikt nog steeds het gemiddelde — hartslag zegt weinig over de energiekosten van een zware set. Uitzetten stopt al het lezen; al gekopieerde grafieken blijven bij hun workouts tot je ze verwijdert.",
+        "da": "Det eneste Gym Logbook nogensinde læser fra Health Connect. Når dette er slået til, vises din puls live under træningen, på telefonen og i Wear OS-appen. Pulsmålingerne fra hver afsluttet træning kopieres også ind i appen for at tegne en graf, og konditionstid beregnes ud fra din målte puls i stedet for et gennemsnit. Styrketræning bruger stadig gennemsnittet – puls siger ikke meget om energiforbruget i et tungt sæt. Slår du det fra, stopper al læsning; allerede kopierede kurver bliver hos deres træninger, indtil du sletter dem.",
+        "pl": "Jedyna rzecz, jaką Gym Logbook kiedykolwiek odczytuje z Health Connect. Gdy ta opcja jest włączona, tętno jest widoczne na żywo podczas treningu — na telefonie i w aplikacji na Wear OS. Odczyty tętna z każdego zakończonego treningu są też kopiowane do aplikacji, aby narysować wykres, a czas cardio jest wyceniany na podstawie zmierzonego tętna zamiast wartości średniej. Trening siłowy nadal korzysta ze średniej — tętno słabo opisuje koszt energetyczny ciężkiej serii. Wyłączenie zatrzymuje cały odczyt; już skopiowane przebiegi zostają przy swoich treningach, dopóki ich nie usuniesz.",
+        "fr": "La seule chose que Gym Logbook lit dans Santé Connect. Lorsque cette option est activée, votre fréquence cardiaque s’affiche en direct pendant la séance, sur le téléphone et dans l’app Wear OS. Les mesures de chaque séance terminée sont aussi copiées dans l’app pour tracer un graphique, et le temps de cardio est évalué à partir de votre fréquence mesurée plutôt que d’une moyenne. La musculation continue d’utiliser la moyenne : la fréquence cardiaque renseigne mal sur le coût énergétique d’une série lourde. La désactiver arrête toute lecture ; les tracés déjà copiés restent avec leurs séances jusqu’à ce que vous les supprimiez.",
+        "ar": "الشيء الوحيد الذي يقرأه Gym Logbook من Health Connect. عند تفعيل هذا الخيار يظهر معدل ضربات قلبك مباشرةً أثناء التمرين، على الهاتف وفي تطبيق Wear OS. كما تُنسخ قراءات كل جلسة منتهية إلى التطبيق لرسم مخطط، ويُحتسب وقت الكارديو من معدلك المقاس بدلاً من متوسط عام. أما تمارين الأثقال فتبقى على المتوسط، لأن معدل ضربات القلب دليل ضعيف على تكلفة الطاقة في المجموعة الثقيلة. إيقاف الخيار يوقف القراءة تماماً، وتبقى المخططات المنسوخة مع تمارينها حتى تحذفها."
+      },
+      "heartRate.body": {
+        "en": "Read the heart-rate trace Health Connect recorded for a finished session and draw it on the workout. While this is off, Gym Logbook reads nothing from Health Connect at all.",
+        "ru": "Читать из Health Connect пульс, записанный во время завершённой тренировки, и рисовать его график. Пока выключено, Gym Logbook не читает из Health Connect ничего.",
+        "hy": "Կարդալ Health Connect-ից ավարտված մարզման ընթացքում գրանցված զարկերակը և գծել այն մարզման վրա։ Քանի դեռ անջատված է, Gym Logbook-ը Health Connect-ից ոչինչ չի կարդում։",
+        "sv": "Läs pulskurvan som Health Connect har sparat för ett avslutat pass och rita den på passet. Medan detta är av läser Gym Logbook ingenting alls från Health Connect.",
+        "nb": "Les pulskurven Health Connect har lagret for en fullført økt, og tegn den på økta. Mens dette er av, leser Gym Logbook ingenting fra Health Connect.",
+        "nl": "Lees de hartslagcurve die Health Connect voor een afgeronde sessie heeft opgeslagen en teken die bij de training. Zolang dit uit staat, leest Gym Logbook helemaal niets uit Health Connect.",
+        "da": "Læs den pulskurve, Health Connect har gemt for et afsluttet pas, og tegn den på passet. Mens dette er slået fra, læser Gym Logbook intet som helst fra Health Connect.",
+        "pl": "Odczytaj z Health Connect zapis tętna z zakończonego treningu i narysuj go przy treningu. Dopóki to jest wyłączone, Gym Logbook nie czyta z Health Connect niczego.",
+        "fr": "Lire la courbe de fréquence cardiaque enregistrée dans Santé Connect pour une séance terminée et la tracer sur la séance. Tant que c’est désactivé, Gym Logbook ne lit rien du tout dans Santé Connect.",
+        "ar": "قراءة تسجيل ضربات القلب الذي حفظه Health Connect لجلسة منتهية ورسمه على التمرين. وما دام هذا معطَّلاً، لا يقرأ Gym Logbook أي شيء من Health Connect."
+      },
+      "heartRate.pending": {
+        "en": "Waiting for Health Connect — a watch can take a few minutes to hand over a session. Open the workout again later.",
+        "ru": "Ожидание Health Connect — часам нужно несколько минут, чтобы передать тренировку. Откройте её позже.",
+        "hy": "Սպասում է Health Connect-ին — ժամացույցին կարող է մի քանի րոպե պետք գալ։ Բացեք մարզումը ավելի ուշ։",
+        "sv": "Väntar på Health Connect – en klocka kan behöva några minuter. Öppna passet igen senare.",
+        "nb": "Venter på Health Connect – en klokke kan bruke noen minutter. Åpne økten igjen senere.",
+        "nl": "Wachten op Health Connect — een horloge heeft soms een paar minuten nodig. Open de workout later opnieuw.",
+        "da": "Venter på Health Connect – et ur kan være et par minutter om det. Åbn træningen igen senere.",
+        "pl": "Czekam na Health Connect — zegarek może potrzebować kilku minut. Otwórz trening później.",
+        "fr": "En attente de Santé Connect — une montre peut mettre quelques minutes. Rouvrez la séance plus tard.",
+        "ar": "في انتظار Health Connect — قد تحتاج الساعة بضع دقائق. افتح التمرين لاحقاً."
+      },
+      "heartRate.backfillRunning": {
+        "en": "Checking Health Connect for your past sessions…",
+        "ru": "Проверяем Health Connect по прошлым тренировкам…",
+        "hy": "Ստուգում ենք Health Connect-ը նախորդ մարզումների համար…",
+        "sv": "Kollar Health Connect efter dina tidigare pass…",
+        "nb": "Sjekker Health Connect for de tidligere øktene dine …",
+        "nl": "Health Connect wordt gecontroleerd op je eerdere sessies…",
+        "da": "Tjekker Health Connect for dine tidligere pas…",
+        "pl": "Sprawdzamy Health Connect pod kątem wcześniejszych treningów…",
+        "fr": "Vérification de Santé Connect pour vos séances passées…",
+        "ar": "نتحقق من Health Connect بحثًا عن جلساتك السابقة…"
+      },
+      "heartRate.backfillDoneTitle": {
+        "en": "Finished checking Health Connect",
+        "ru": "Проверка Health Connect завершена",
+        "hy": "Health Connect-ի ստուգումն ավարտվեց",
+        "sv": "Klar med att kolla Health Connect",
+        "nb": "Ferdig med å sjekke Health Connect",
+        "nl": "Klaar met controleren van Health Connect",
+        "da": "Færdig med at tjekke Health Connect",
+        "pl": "Zakończono sprawdzanie Health Connect",
+        "fr": "Vérification de Santé Connect terminée",
+        "ar": "انتهى التحقق من Health Connect"
+      },
+      "heartRate.backfillNoneBody": {
+        "en": "Health Connect had no heart-rate readings for your past sessions. New sessions will still be checked as you finish them.",
+        "ru": "В Health Connect не нашлось пульса для прошлых тренировок. Новые тренировки по-прежнему будут проверяться после завершения.",
+        "hy": "Health Connect-ում նախորդ մարզումների զարկերակի տվյալներ չգտնվեցին։ Նոր մարզումները դեռ կստուգվեն ավարտից հետո։",
+        "sv": "Health Connect hade ingen puls för dina tidigare pass. Nya pass kontrolleras fortfarande när du avslutar dem.",
+        "nb": "Health Connect hadde ingen puls for de tidligere øktene dine. Nye økter sjekkes fortsatt når du fullfører dem.",
+        "nl": "Health Connect had geen hartslag voor je eerdere sessies. Nieuwe sessies worden nog steeds gecontroleerd zodra je ze afrondt.",
+        "da": "Health Connect havde ingen puls for dine tidligere pas. Nye pas bliver stadig tjekket, når du afslutter dem.",
+        "pl": "Health Connect nie miał tętna dla twoich wcześniejszych treningów. Nowe treningi nadal będą sprawdzane po zakończeniu.",
+        "fr": "Santé Connect n’avait aucune fréquence cardiaque pour vos séances passées. Les nouvelles séances seront quand même vérifiées à la fin.",
+        "ar": "لم يجد Health Connect أي قراءات لضربات القلب لجلساتك السابقة. وسيستمر التحقق من الجلسات الجديدة عند إنهائها."
+      }
+    },
     "HealthNotice": {
       "title": {
         "en": "Two new things",
@@ -11532,6 +12110,18 @@
         "pl": "Gym Logbook może teraz powiedzieć trochę więcej o zakończonym treningu. Obie rzeczy są wyłączone, dopóki ich nie włączysz, i żadna nie zmienia tego, co już zapisałeś.",
         "fr": "Gym Logbook peut désormais vous en dire un peu plus sur une séance terminée. Les deux sont désactivées tant que vous ne les activez pas, et aucune ne modifie ce que vous avez déjà enregistré.",
         "ar": "صار بإمكان Gym Logbook أن يخبرك بالمزيد عن الجلسة المنتهية. كلاهما معطَّل حتى تُفعِّله، ولا يغيّر أيٌّ منهما ما سجّلته من قبل."
+      },
+      "leadShort": {
+        "en": "Gym Logbook can now tell you a little more about a finished session.",
+        "ru": "Gym Logbook теперь может рассказать о завершённой тренировке чуть больше.",
+        "hy": "Gym Logbook-ն այժմ կարող է մի փոքր ավելին պատմել ավարտված մարզման մասին։",
+        "sv": "Gym Logbook kan nu berätta lite mer om ett avslutat pass.",
+        "nb": "Gym Logbook kan nå fortelle deg litt mer om en fullført økt.",
+        "nl": "Gym Logbook kan nu iets meer vertellen over een afgeronde sessie.",
+        "da": "Gym Logbook kan nu fortælle dig lidt mere om et afsluttet pas.",
+        "pl": "Gym Logbook może teraz powiedzieć trochę więcej o zakończonym treningu.",
+        "fr": "Gym Logbook peut désormais vous en dire un peu plus sur une séance terminée.",
+        "ar": "صار بإمكان Gym Logbook أن يخبرك بالمزيد عن الجلسة المنتهية."
       },
       "energy.title": {
         "en": "Energy estimate",
@@ -11616,6 +12206,18 @@
         "pl": "Obie rzeczy możesz włączyć lub wyłączyć później w Konto → Ustawienia. To powiadomienie już się nie pojawi.",
         "fr": "Vous pouvez activer ou désactiver les deux plus tard dans Compte → Préférences. Cet avis ne réapparaîtra pas.",
         "ar": "يمكنك تفعيل أيٍّ منهما أو تعطيله لاحقًا من «الحساب ← التفضيلات». لن يظهر هذا الإشعار مرة أخرى."
+      },
+      "footerShort": {
+        "en": "This notice will not appear again.",
+        "ru": "Это сообщение больше не появится.",
+        "hy": "Այս ծանուցումն այլևս չի հայտնվի։",
+        "sv": "Det här meddelandet visas inte igen.",
+        "nb": "Denne meldingen kommer ikke igjen.",
+        "nl": "Deze melding komt niet terug.",
+        "da": "Denne besked kommer ikke igen.",
+        "pl": "To powiadomienie już się nie pojawi.",
+        "fr": "Cet avis ne réapparaîtra pas.",
+        "ar": "لن يظهر هذا الإشعار مرة أخرى."
       },
       "done": {
         "en": "Done",
@@ -12001,7 +12603,7 @@
         "nb": "%lld planlagte sett(er) ikke utført",
         "nl": "%lld geplande set(s) niet uitgevoerd",
         "da": "%lld planlagte sæt(er) ikke udført",
-        "pl": "%lld planowane zestawy nie zostały wykonane",
+        "pl": "Niewykonane zaplanowane serie: %lld",
         "fr": "%lld set(s) planifié(s) non terminé(s)",
         "ar": "لم يتم تنفيذ %lld من المجموعة (المجموعات) المخططة"
       },
@@ -12067,13 +12669,13 @@
       },
       "searchResultsCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld treningsøkter",
         "nl": "%lld trainingen",
         "da": "%lld træning",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld entraînements",
         "ar": "%lld التدريبات"
       },
@@ -12153,13 +12755,13 @@
       },
       "conflict.detail": {
         "en": "%lld exercises · %lld sets",
-        "ru": "%lld упражнений · %lld подходов",
+        "ru": "Упражнений: %lld · подходов: %lld",
         "hy": "%lld վարժություն · %lld մոտեցում",
         "sv": "%lld övningar · %lld set",
         "nb": "%lld øvelser · %lld sett",
         "nl": "%lld oefeningen · %lld sets",
         "da": "%lld øvelser · %lld sæt",
-        "pl": "%lld ćwiczeń · %lld zestawów",
+        "pl": "Ćwiczenia: %lld · serie: %lld",
         "fr": "%lld exercices · %lld ensembles",
         "ar": "%lld تمارين · %lld مجموعات"
       },
@@ -12259,6 +12861,54 @@
         "fr": "Échec de l'importation",
         "ar": "فشل الاستيراد"
       },
+      "error.fileUnreadable": {
+        "en": "The selected file could not be opened.",
+        "ru": "Не удалось открыть выбранный файл.",
+        "hy": "Չհաջողվեց բացել ընտրված ֆայլը։",
+        "sv": "Den valda filen kunde inte öppnas.",
+        "nb": "Den valgte filen kunne ikke åpnes.",
+        "nl": "Het geselecteerde bestand kon niet worden geopend.",
+        "da": "Den valgte fil kunne ikke åbnes.",
+        "pl": "Nie udało się otworzyć wybranego pliku.",
+        "fr": "Impossible d’ouvrir le fichier sélectionné.",
+        "ar": "تعذّر فتح الملف المحدد."
+      },
+      "error.unsupportedSchema": {
+        "en": "This backup’s format (version %lld) isn’t supported. Update Gym Logbook and try again.",
+        "ru": "Формат этой копии (версия %lld) не поддерживается. Обновите Gym Logbook и попробуйте снова.",
+        "hy": "Այս պատճենի ձևաչափը (տարբերակ %lld) չի աջակցվում։ Թարմացրեք Gym Logbook-ը և նորից փորձեք։",
+        "sv": "Säkerhetskopians format (version %lld) stöds inte. Uppdatera Gym Logbook och försök igen.",
+        "nb": "Formatet på sikkerhetskopien (versjon %lld) støttes ikke. Oppdater Gym Logbook og prøv igjen.",
+        "nl": "De indeling van deze back-up (versie %lld) wordt niet ondersteund. Werk Gym Logbook bij en probeer het opnieuw.",
+        "da": "Sikkerhedskopiens format (version %lld) understøttes ikke. Opdater Gym Logbook, og prøv igen.",
+        "pl": "Format tej kopii zapasowej (wersja %lld) nie jest obsługiwany. Zaktualizuj Gym Logbook i spróbuj ponownie.",
+        "fr": "Le format de cette sauvegarde (version %lld) n’est pas pris en charge. Mettez à jour Gym Logbook et réessayez.",
+        "ar": "تنسيق هذه النسخة الاحتياطية (الإصدار %lld) غير مدعوم. حدّث Gym Logbook وحاول مرة أخرى."
+      },
+      "error.invalidPackage": {
+        "en": "This file isn’t a Gym Logbook backup.",
+        "ru": "Этот файл не является резервной копией Gym Logbook.",
+        "hy": "Այս ֆայլը Gym Logbook-ի պահուստային պատճեն չէ։",
+        "sv": "Filen är inte en säkerhetskopia från Gym Logbook.",
+        "nb": "Filen er ikke en sikkerhetskopi fra Gym Logbook.",
+        "nl": "Dit bestand is geen back-up van Gym Logbook.",
+        "da": "Filen er ikke en sikkerhedskopi fra Gym Logbook.",
+        "pl": "Ten plik nie jest kopią zapasową Gym Logbook.",
+        "fr": "Ce fichier n’est pas une sauvegarde Gym Logbook.",
+        "ar": "هذا الملف ليس نسخة احتياطية من Gym Logbook."
+      },
+      "error.decodeFailed": {
+        "en": "The backup couldn’t be read. It may be damaged or incomplete.",
+        "ru": "Не удалось прочитать копию. Возможно, файл повреждён или неполон.",
+        "hy": "Չհաջողվեց կարդալ պատճենը։ Հնարավոր է՝ ֆայլը վնասված է կամ թերի։",
+        "sv": "Säkerhetskopian kunde inte läsas. Den kan vara skadad eller ofullständig.",
+        "nb": "Sikkerhetskopien kunne ikke leses. Den kan være skadet eller ufullstendig.",
+        "nl": "De back-up kon niet worden gelezen. Mogelijk is hij beschadigd of onvolledig.",
+        "da": "Sikkerhedskopien kunne ikke læses. Den kan være beskadiget eller ufuldstændig.",
+        "pl": "Nie udało się odczytać kopii zapasowej. Może być uszkodzona lub niekompletna.",
+        "fr": "Impossible de lire la sauvegarde. Elle est peut-être endommagée ou incomplète.",
+        "ar": "تعذّرت قراءة النسخة الاحتياطية. ربما تكون تالفة أو غير مكتملة."
+      },
       "processing": {
         "en": "Importing data…",
         "ru": "Импорт данных…",
@@ -12355,7 +13005,7 @@
         "da": "%lld min",
         "pl": "%lld min",
         "fr": "%lld min",
-        "ar": "%ll دقيقة"
+        "ar": "%lld دقيقة"
       },
       "byCategory": {
         "en": "By category",
@@ -12394,16 +13044,16 @@
         "ar": "التدريبات"
       },
       "dataMenu": {
-        "en": "Export & Import",
-        "ru": "Экспорт и импорт",
-        "hy": "Արտահանում և ներմուծում",
-        "sv": "Exportera och importera",
-        "nb": "Eksport og import",
-        "nl": "Exporteren en importeren",
-        "da": "Eksport & Import",
-        "pl": "Eksportuj i importuj",
-        "fr": "Exporter et importer",
-        "ar": "التصدير والاستيراد"
+        "en": "Data",
+        "ru": "Данные",
+        "hy": "Տվյալներ",
+        "sv": "Data",
+        "nb": "Data",
+        "nl": "Gegevens",
+        "da": "Data",
+        "pl": "Dane",
+        "fr": "Données",
+        "ar": "البيانات"
       },
       "dose.bar.target": {
         "en": "Your target",
@@ -12761,7 +13411,7 @@
         "nb": "%lld oppvarminger",
         "nl": "%lld warming-ups",
         "da": "%lld opvarmninger",
-        "pl": "%lld rozgrzewkowych",
+        "pl": "rozgrzewkowe: %lld",
         "fr": "%lld échauffements",
         "ar": "%lld إحماء"
       },
@@ -13025,7 +13675,7 @@
         "nb": "%lld muscle groups trained",
         "nl": "%lld muscle groups trained",
         "da": "%lld muscle groups trained",
-        "pl": "%lld muscle groups trained",
+        "pl": "Trenowane grupy mięśni: %lld",
         "fr": "%lld muscle groups trained",
         "ar": "%lld muscle groups trained"
       },
@@ -13121,7 +13771,7 @@
         "nb": "%lld weeks of momentum",
         "nl": "%lld weeks of momentum",
         "da": "%lld weeks of momentum",
-        "pl": "%lld weeks of momentum",
+        "pl": "Tygodnie z rzędu: %lld",
         "fr": "%lld weeks of momentum",
         "ar": "%lld weeks of momentum"
       },
@@ -13229,7 +13879,7 @@
         "nb": "%lld sessions in the last 4 weeks",
         "nl": "%lld sessions in the last 4 weeks",
         "da": "%lld sessions in the last 4 weeks",
-        "pl": "%lld sessions in the last 4 weeks",
+        "pl": "Treningi w ostatnich 4 tygodniach: %lld",
         "fr": "%lld sessions in the last 4 weeks",
         "ar": "%lld sessions in the last 4 weeks"
       },
@@ -13325,7 +13975,7 @@
         "nb": "%lld-week streak",
         "nl": "%lld-week streak",
         "da": "%lld-week streak",
-        "pl": "%lld-week streak",
+        "pl": "seria: %lld tyg.",
         "fr": "%lld-week streak",
         "ar": "%lld-week streak"
       },
@@ -13361,7 +14011,7 @@
         "nb": "%lld workouts",
         "nl": "%lld workouts",
         "da": "%lld workouts",
-        "pl": "%lld workouts",
+        "pl": "Treningi: %lld",
         "fr": "%lld workouts",
         "ar": "%lld workouts"
       },
@@ -13583,25 +14233,25 @@
       },
       "sessionsCount": {
         "en": "%lld sessions",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld sessioner",
         "nb": "%lld økter",
         "nl": "%lld sessies",
         "da": "%lld sessioner",
-        "pl": "%lld sesji",
+        "pl": "Treningi: %lld",
         "fr": "%lld sessions",
-        "ar": "جلسات واحدة فقط"
+        "ar": "%lld جلسة"
       },
       "setsCount": {
         "en": "%lld sets",
-        "ru": "%lld подходов",
+        "ru": "Подходов: %lld",
         "hy": "%lld մոտեցում",
         "sv": "%lld uppsättningar",
         "nb": "%lld sett",
         "nl": "%lld sets",
         "da": "%lld sæt",
-        "pl": "%lld zestawów",
+        "pl": "Serie: %lld",
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
       },
@@ -13679,13 +14329,13 @@
       },
       "streakWeeks": {
         "en": "%lld weeks",
-        "ru": "%lld недель",
+        "ru": "%lld нед.",
         "hy": "%lld շաբաթ",
         "sv": "%lld veckor",
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -13787,6 +14437,18 @@
         "fr": "La langue des paramètres iOS est désormais %2$@, mais cette application est définie sur %1$@. Quelle langue souhaitez-vous utiliser ?",
         "ar": "أصبحت لغة إعدادات iOS الآن %2$@، ولكن تم ضبط هذا التطبيق على %1$@. ما هي اللغة التي تريد استخدامها؟"
       },
+      "conflict.messageAndroid": {
+        "en": "Android Settings language is now %2$@, but this app is set to %1$@. Which language do you want to use?",
+        "ru": "Язык Android теперь %2$@, а в приложении выбран %1$@. Какой язык использовать?",
+        "hy": "Android-ի լեզուն այժմ %2$@ է, իսկ հավելվածում ընտրված է %1$@։ Ո՞ր լեզուն օգտագործել։",
+        "sv": "Språket i Android-inställningarna är nu %2$@, men den här appen är inställd på %1$@. Vilket språk vill du använda?",
+        "nb": "Språket i Android-innstillingene er nå %2$@, men denne appen er satt til %1$@. Hvilket språk vil du bruke?",
+        "nl": "De taal in de Android-instellingen is nu %2$@, maar deze app is ingesteld op %1$@. Welke taal wil je gebruiken?",
+        "da": "Sproget i Android-indstillingerne er nu %2$@, men denne app er indstillet til %1$@. Hvilket sprog vil du bruge?",
+        "pl": "Język w ustawieniach Androida to teraz %2$@, ale ta aplikacja jest ustawiona na %1$@. Jakiego języka chcesz używać?",
+        "fr": "La langue des réglages Android est désormais %2$@, mais cette application est réglée sur %1$@. Quelle langue souhaitez-vous utiliser ?",
+        "ar": "أصبحت لغة إعدادات Android الآن %2$@، ولكن تم ضبط هذا التطبيق على %1$@. ما اللغة التي تريد استخدامها؟"
+      },
       "conflict.switch": {
         "en": "Use %@",
         "ru": "Использовать %@",
@@ -13845,7 +14507,7 @@
         "nb": "%lld gratis visninger igjen",
         "nl": "Nog %lld gratis weergaven",
         "da": "%lld gratis visninger tilbage",
-        "pl": "Pozostało %lld darmowych podglądów",
+        "pl": "Pozostałe darmowe podglądy: %lld",
         "fr": "%lld consultations gratuites restantes",
         "ar": "بقي %lld عرض مجاني"
       },
@@ -13935,7 +14597,7 @@
       },
       "segmentTitle": {
         "en": "%lld days a week",
-        "ru": "%lld дней в неделю",
+        "ru": "%lld дн. в неделю",
         "hy": "Շաբաթական %lld օր",
         "sv": "%lld dagar i veckan",
         "nb": "%lld dager i uken",
@@ -14019,13 +14681,13 @@
       },
       "weeks": {
         "en": "%lld weeks",
-        "ru": "%lld недель",
+        "ru": "%lld нед.",
         "hy": "%lld շաբաթ",
         "sv": "%lld veckor",
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -14715,11 +15377,11 @@
         "hy": "Ետ",
         "sv": "Tillbaka",
         "nb": "Tilbake",
-        "nl": "Rug",
+        "nl": "Terug",
         "da": "Tilbage",
-        "pl": "Z powrotem",
-        "fr": "Dos",
-        "ar": "خلف"
+        "pl": "Wstecz",
+        "fr": "Retour",
+        "ar": "رجوع"
       },
       "balanced.body": {
         "en": "Balanced opens from the Workout tab. Pick a lookback, see muscle balance, choose groups, and start with suggested lifts.",
@@ -14961,6 +15623,18 @@
         "fr": "Pomme Santé",
         "ar": "صحة التفاح"
       },
+      "chapter.healthConnect.title": {
+        "en": "Health Connect",
+        "ru": "Health Connect",
+        "hy": "Health Connect",
+        "sv": "Health Connect",
+        "nb": "Health Connect",
+        "nl": "Health Connect",
+        "da": "Health Connect",
+        "pl": "Health Connect",
+        "fr": "Santé Connect",
+        "ar": "Health Connect"
+      },
       "chapter.history.title": {
         "en": "History calendar",
         "ru": "Календарь истории",
@@ -15145,11 +15819,11 @@
         "en": "Gym Logbook can show roughly what a session cost you. It is off until you turn it on.",
         "ru": "Gym Logbook может показывать примерный расход за тренировку. По умолчанию выключено.",
         "hy": "Gym Logbook-ը կարող է ցույց տալ մարզման մոտավոր ծախսը։ Լռելյայն անջատված է։",
-        "sv": "Gymloggbok kan visa ungefär vad ett pass kostade dig. Det är avstängt tills du slår på det.",
-        "nb": "Gymloggbok kan vise omtrent hva en økt kostet deg. Det er av til du slår det på.",
-        "nl": "Gymlogboek kan ruwweg tonen wat een sessie je kostte. Het staat uit tot je het aanzet.",
+        "sv": "Gym Logbook kan visa ungefär vad ett pass kostade dig. Det är avstängt tills du slår på det.",
+        "nb": "Gym Logbook kan vise omtrent hva en økt kostet deg. Det er av til du slår det på.",
+        "nl": "Gym Logbook kan ruwweg tonen wat een sessie je kostte. Het staat uit tot je het aanzet.",
         "da": "Gymlogbog kan vise cirka, hvad et pas kostede dig. Det er slået fra, indtil du slår det til.",
-        "pl": "Dziennik siłowni może pokazać z grubsza, ile kosztował cię trening. Domyślnie jest wyłączone.",
+        "pl": "Gym Logbook może pokazać z grubsza, ile kosztował cię trening. Domyślnie jest wyłączone.",
         "fr": "Gym Logbook peut montrer approximativement ce qu’une séance vous a coûté. C’est désactivé par défaut.",
         "ar": "يمكن لـ Gym Logbook أن يعرض تقريبًا ما كلّفتك الجلسة. وهو مُعطَّل حتى تُفعّله."
       },
@@ -15577,13 +16251,13 @@
         "en": "Gym Logbook",
         "ru": "Gym Logbook",
         "hy": "Gym Logbook",
-        "sv": "Gymloggbok",
-        "nb": "Gymloggbok",
-        "nl": "Gymlogboek",
+        "sv": "Gym Logbook",
+        "nb": "Gym Logbook",
+        "nl": "Gym Logbook",
         "da": "Gym logbog",
-        "pl": "Dziennik siłowni",
-        "fr": "Journal de bord du gymnase",
-        "ar": "سجل الصالة الرياضية"
+        "pl": "Gym Logbook",
+        "fr": "Gym Logbook",
+        "ar": "Gym Logbook"
       },
       "healthKitDemo.body": {
         "en": "Connect Gym Logbook to the Apple Health app so finished strength and cardio sessions appear there.",
@@ -15740,6 +16414,90 @@
         "pl": "Zakończone sesje synchronizują się jako treningi",
         "fr": "Les sessions terminées sont synchronisées avec les entraînements",
         "ar": "تتم مزامنة الجلسات النهائية كتدريبات"
+      },
+      "healthConnectDemo.title": {
+        "en": "Connect to Health Connect",
+        "ru": "Подключить Health Connect",
+        "hy": "Միացնել Health Connect-ը",
+        "sv": "Anslut till Health Connect",
+        "nb": "Koble til Health Connect",
+        "nl": "Maak verbinding met Health Connect",
+        "da": "Opret forbindelse til Health Connect",
+        "pl": "Połącz z Health Connect",
+        "fr": "Se connecter à Santé Connect",
+        "ar": "اتصل بـ Health Connect"
+      },
+      "healthConnectDemo.body": {
+        "en": "Connect Gym Logbook to Health Connect so finished strength and cardio sessions appear there.",
+        "ru": "Подключите Gym Logbook к Health Connect, чтобы завершённые силовые и кардиотренировки появлялись там.",
+        "hy": "Միացրեք Gym Logbook-ը Health Connect-ին, որպեսզի ավարտված ուժային և կարդիո մարզումները հայտնվեն այնտեղ։",
+        "sv": "Anslut Gym Logbook till Health Connect så att avslutade styrke- och konditionspass visas där.",
+        "nb": "Koble Gym Logbook til Health Connect slik at fullførte styrke- og kondisjonsøkter vises der.",
+        "nl": "Verbind Gym Logbook met Health Connect, zodat afgeronde kracht- en cardiosessies daar verschijnen.",
+        "da": "Forbind Gym Logbook med Health Connect, så afsluttede styrke- og konditionspas vises der.",
+        "pl": "Połącz Gym Logbook z Health Connect, aby pojawiały się tam zakończone treningi siłowe i cardio.",
+        "fr": "Connectez Gym Logbook à Santé Connect pour que les séances de musculation et de cardio terminées y apparaissent.",
+        "ar": "وصّل Gym Logbook بـ Health Connect لتظهر فيه جلسات القوة والكارديو المكتملة."
+      },
+      "healthConnectDemo.connectA11y": {
+        "en": "Connect Gym Logbook to Health Connect",
+        "ru": "Подключить Gym Logbook к Health Connect",
+        "hy": "Միացնել Gym Logbook-ը Health Connect-ին",
+        "sv": "Anslut Gym Logbook till Health Connect",
+        "nb": "Koble Gym Logbook til Health Connect",
+        "nl": "Verbind Gym Logbook met Health Connect",
+        "da": "Forbind Gym Logbook med Health Connect",
+        "pl": "Połącz Gym Logbook z Health Connect",
+        "fr": "Connecter Gym Logbook à Santé Connect",
+        "ar": "وصّل Gym Logbook بـ Health Connect"
+      },
+      "healthConnectDemo.privacy": {
+        "en": "Optional. Requests write access only.",
+        "ru": "Необязательно. Запрашивает только доступ на запись.",
+        "hy": "Ընտրովի։ Խնդրում է միայն գրելու թույլտվություն։",
+        "sv": "Valfritt. Begär endast skrivåtkomst.",
+        "nb": "Valgfritt. Ber kun om skrivetilgang.",
+        "nl": "Optioneel. Vraagt alleen schrijftoegang.",
+        "da": "Valgfrit. Anmoder kun om skriveadgang.",
+        "pl": "Opcjonalne. Prosi tylko o dostęp do zapisu.",
+        "fr": "Facultatif. Demande uniquement l’accès en écriture.",
+        "ar": "اختياري. يطلب إذن الكتابة فقط."
+      },
+      "healthConnectDemo.enabled": {
+        "en": "Connected to Health Connect",
+        "ru": "Подключено к Health Connect",
+        "hy": "Միացված է Health Connect-ին",
+        "sv": "Ansluten till Health Connect",
+        "nb": "Koblet til Health Connect",
+        "nl": "Verbonden met Health Connect",
+        "da": "Forbundet til Health Connect",
+        "pl": "Połączono z Health Connect",
+        "fr": "Connecté à Santé Connect",
+        "ar": "متصل بـ Health Connect"
+      },
+      "healthConnectDemo.turnOn": {
+        "en": "Connect to Health Connect",
+        "ru": "Подключить Health Connect",
+        "hy": "Միացնել Health Connect-ը",
+        "sv": "Anslut till Health Connect",
+        "nb": "Koble til Health Connect",
+        "nl": "Maak verbinding met Health Connect",
+        "da": "Opret forbindelse til Health Connect",
+        "pl": "Połącz z Health Connect",
+        "fr": "Se connecter à Santé Connect",
+        "ar": "اتصل بـ Health Connect"
+      },
+      "healthConnectDemo.where": {
+        "en": "Later: History → Insights → Health Connect",
+        "ru": "Позже: История → Аналитика → Health Connect",
+        "hy": "Ավելի ուշ՝ Պատմություն → Վերլուծություն → Health Connect",
+        "sv": "Senare: Historia → Insikter → Health Connect",
+        "nb": "Senere: Historie → Innsikt → Health Connect",
+        "nl": "Later: Geschiedenis → Inzichten → Health Connect",
+        "da": "Senere: Historie → Indsigt → Health Connect",
+        "pl": "Później: Historia → Statystyki → Health Connect",
+        "fr": "Plus tard : Historique → Insights → Santé Connect",
+        "ar": "لاحقًا: التاريخ ← الرؤى ← Health Connect"
       },
       "historyDemo.body": {
         "en": "The History tab is a calendar of trained days. Search finds workouts by exercise name in any language.",
@@ -16737,6 +17495,18 @@
         "fr": "Choisi ici; suit également les paramètres iOS pour la langue du système.",
         "ar": "المختار هنا؛ يتبع أيضًا إعدادات iOS الخاصة بلغة النظام."
       },
+      "personal.languageDetailAndroid": {
+        "en": "Chosen here; also follows Android Settings for the system language.",
+        "ru": "Выбирается здесь; при «Как в системе» следует настройкам Android.",
+        "hy": "Ընտրվում է այստեղ. «Համակարգային»-ի դեպքում հետևում է Android-ի կարգավորումներին։",
+        "sv": "Väljs här; följer även Android-inställningarna för systemspråket.",
+        "nb": "Velges her; følger også Android-innstillingene for systemspråket.",
+        "nl": "Hier gekozen; volgt ook de Android-instellingen voor de systeemtaal.",
+        "da": "Vælges her; følger også Android-indstillingerne for systemsproget.",
+        "pl": "Wybierany tutaj; dla języka systemu działa zgodnie z ustawieniami Androida.",
+        "fr": "Choisie ici ; suit aussi les réglages Android pour la langue du système.",
+        "ar": "تختارها هنا؛ وتتبع أيضًا إعدادات Android للغة النظام."
+      },
       "personal.layout": {
         "en": "List or Cards",
         "ru": "Список или карточки",
@@ -16832,6 +17602,18 @@
         "pl": "Jasny i ciemny są zgodne z ustawieniami wyglądu iPhone'a.",
         "fr": "La lumière et l'obscurité suivent les paramètres d'apparence de votre iPhone.",
         "ar": "يتبع الضوء والظلام إعداد مظهر iPhone الخاص بك."
+      },
+      "personal.themeDetailAndroid": {
+        "en": "Light and Dark follow your phone's appearance setting.",
+        "ru": "Светлая и тёмная темы следуют настройке оформления телефона.",
+        "hy": "Բաց և մուգ թեմաները հետևում են ձեր հեռախոսի տեսքի կարգավորմանը։",
+        "sv": "Ljust och mörkt följer telefonens utseendeinställning.",
+        "nb": "Lys og mørk følger telefonens utseendeinnstilling.",
+        "nl": "Licht en Donker volgen de weergave-instelling van je telefoon.",
+        "da": "Lys og mørk følger telefonens udseendeindstilling.",
+        "pl": "Jasny i ciemny motyw są zgodne z ustawieniem wyglądu telefonu.",
+        "fr": "Les thèmes clair et sombre suivent le réglage d’apparence de votre téléphone.",
+        "ar": "يتبع الوضعان الفاتح والداكن إعداد المظهر في هاتفك."
       },
       "personal.title": {
         "en": "Make it yours",
@@ -17487,7 +18269,7 @@
         "hy": "Հաշիվ → Մարզման նախապատվություններ։ Դրանով են սկսվում հավասարակշռված մարզումները և ընտրիչը։",
         "sv": "Konto → Training preferences. Balanserade pass och väljaren utgår från det.",
         "nb": "Konto → Training preferences. Balanserte økter og velgeren tar utgangspunkt i det.",
-        "nl": "Rekening → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
+        "nl": "Account → Training preferences. Gebalanceerde sessies en de kiezer beginnen ermee.",
         "da": "Konto → Training preferences. Balancerede pas og vælgeren tager udgangspunkt i det.",
         "pl": "Konto → Training preferences. Od tego zaczynają się zbalansowane sesje i wybór ćwiczeń.",
         "fr": "Compte → Training preferences. Les séances équilibrées et le sélecteur en partent.",
@@ -17499,7 +18281,7 @@
         "hy": "Հավասարակշռված մարզումները և վարժությունների ընտրիչը սկսվում են ձեր նշածից։ Մարզասրահը միշտ միացված է — փոխեք ցանկացած պահի՝ Հաշիվ → Մարզման նախապատվություններ։",
         "sv": "Balanserade pass och övningsväljaren utgår från det du väljer. Gym är alltid på – ändra när som helst under Konto → Training preferences.",
         "nb": "Balanserte økter og øvelsesvelgeren tar utgangspunkt i det du velger. Gym er alltid på – endre når som helst under Konto → Training preferences.",
-        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Rekening → Training preferences.",
+        "nl": "Gebalanceerde sessies en de oefeningenkiezer beginnen met wat je kiest. Gym staat altijd aan — wijzig dit wanneer je wilt via Account → Training preferences.",
         "da": "Balancerede pas og øvelsesvælgeren tager udgangspunkt i det, du vælger. Gym er altid slået til – skift når som helst under Konto → Training preferences.",
         "pl": "Zbalansowane sesje i wybór ćwiczeń zaczynają się od tego, co zaznaczysz. Siłownia jest zawsze włączona — zmień to w dowolnej chwili w Konto → Training preferences.",
         "fr": "Les séances équilibrées et le sélecteur d'exercices partent de vos choix. La salle est toujours activée — modifiable à tout moment dans Compte → Training preferences.",
@@ -17571,11 +18353,59 @@
         "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Apple Health։",
         "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Apples hälsa.",
         "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Apple Helse.",
-        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Rekening → Apple Gezondheid.",
+        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Apple Gezondheid.",
         "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Apple Health.",
         "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie jabłka.",
         "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Pomme Santé.",
         "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من حساب ← صحة التفاح."
+      },
+      "health.bodyAndroid": {
+        "en": "Two optional connections — turn on either, both or neither. Health Connect asks for permission when you switch one on.",
+        "ru": "Два необязательных подключения — включите одно, оба или ни одного. Health Connect запросит разрешение при включении.",
+        "hy": "Երկու ընտրովի կապ — միացրեք մեկը, երկուսը կամ ոչ մեկը։ Health Connect-ը թույլտվություն կխնդրի, երբ միացնեք։",
+        "sv": "Två valfria kopplingar – slå på en, båda eller ingen. Health Connect ber om tillstånd när du slår på en.",
+        "nb": "To valgfrie koblinger – slå på én, begge eller ingen. Health Connect ber om tillatelse når du slår på en.",
+        "nl": "Twee optionele koppelingen — zet er één, allebei of geen aan. Health Connect vraagt om toestemming wanneer je er een aanzet.",
+        "da": "To valgfrie forbindelser – slå én, begge eller ingen til. Health Connect beder om tilladelse, når du slår en til.",
+        "pl": "Dwa opcjonalne połączenia — włącz jedno, oba albo żadne. Health Connect poprosi o zgodę, gdy włączysz któreś z nich.",
+        "fr": "Deux connexions facultatives — activez-en une, les deux ou aucune. Santé Connect demande l’autorisation quand vous en activez une.",
+        "ar": "اتصالان اختياريان — فعّل أحدهما أو كليهما أو لا شيء. سيطلب Health Connect الإذن عند تفعيل أيٍّ منهما."
+      },
+      "health.workouts.bodyAndroid": {
+        "en": "Finished sessions appear in Health Connect as exercise sessions, with distance when you logged it.",
+        "ru": "Завершённые тренировки появятся в Health Connect — с дистанцией, если вы её записали.",
+        "hy": "Ավարտված մարզումները կհայտնվեն Health Connect-ում՝ հեռավորությամբ, եթե այն գրանցել եք։",
+        "sv": "Avslutade pass visas i Health Connect som träningspass, med distans när du har loggat den.",
+        "nb": "Fullførte økter vises i Health Connect som treningsøkter, med distanse når du har logget den.",
+        "nl": "Afgeronde sessies verschijnen in Health Connect als trainingssessies, met afstand als je die hebt gelogd.",
+        "da": "Afsluttede pas vises i Health Connect som træningspas, med distance når du har logget den.",
+        "pl": "Zakończone sesje pojawią się w Health Connect jako sesje treningowe, z dystansem, jeśli go zapisano.",
+        "fr": "Les séances terminées apparaissent dans Santé Connect comme sessions d’exercice, avec la distance si vous l’avez enregistrée.",
+        "ar": "تظهر الجلسات المكتملة في Health Connect كجلسات تمرين، مع المسافة إذا سجّلتها."
+      },
+      "health.heartRate.bodyAndroid": {
+        "en": "See your heart rate live during a workout and as a chart on each finished session. It is the only thing Gym Logbook reads from Health Connect.",
+        "ru": "Пульс в реальном времени во время тренировки и график для каждой завершённой тренировки. Это единственное, что Gym Logbook читает из Health Connect.",
+        "hy": "Տեսեք ձեր զարկերակը մարզման ընթացքում և որպես գրաֆիկ յուրաքանչյուր ավարտված մարզման համար։ Սա միակ բանն է, որ Gym Logbook-ը կարդում է Health Connect-ից։",
+        "sv": "Se din puls live under ett pass och som ett diagram för varje avslutat pass. Det är det enda Gym Logbook läser från Health Connect.",
+        "nb": "Se pulsen din live under en økt og som et diagram for hver fullførte økt. Det er det eneste Gym Logbook leser fra Health Connect.",
+        "nl": "Zie je hartslag live tijdens een training en als grafiek bij elke afgeronde sessie. Het is het enige wat Gym Logbook uit Health Connect leest.",
+        "da": "Se din puls live under et pas og som et diagram for hvert afsluttet pas. Det er det eneste, Gym Logbook læser fra Health Connect.",
+        "pl": "Zobacz tętno na żywo podczas treningu i jako wykres dla każdej zakończonej sesji. To jedyne, co Gym Logbook odczytuje z Health Connect.",
+        "fr": "Voyez votre fréquence cardiaque en direct pendant une séance et sous forme de graphique pour chaque séance terminée. C’est la seule donnée que Gym Logbook lit dans Santé Connect.",
+        "ar": "شاهد معدل ضربات قلبك مباشرةً أثناء التمرين وكرسم بياني لكل جلسة مكتملة. إنه الشيء الوحيد الذي يقرأه Gym Logbook من Health Connect."
+      },
+      "health.footerAndroid": {
+        "en": "Both stay off unless you turn them on. Change either anytime in Account → Health Connect.",
+        "ru": "Оба выключены, пока вы их не включите. Изменить можно в любой момент: Аккаунт → Health Connect.",
+        "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Health Connect։",
+        "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Health Connect.",
+        "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Health Connect.",
+        "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Health Connect.",
+        "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Health Connect.",
+        "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Health Connect.",
+        "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Santé Connect.",
+        "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من الحساب ← Health Connect."
       }
     },
     "Performance": {
@@ -17641,7 +18471,7 @@
       },
       "daysAgo": {
         "en": "%lld days ago",
-        "ru": "%lld дней назад",
+        "ru": "%lld дн. назад",
         "hy": "%lld օր առաջ",
         "sv": "för %lld dagar sedan",
         "nb": "for %lld dager siden",
@@ -18433,13 +19263,13 @@
       },
       "daysRemaining": {
         "en": "%lld days left",
-        "ru": "Осталось %lld дней",
+        "ru": "Осталось дней: %lld",
         "hy": "Մնաց %lld օր",
         "sv": "%lld dagar kvar",
         "nb": "%lld dager igjen",
         "nl": "%lld dagen resterend",
         "da": "%lld dage tilbage",
-        "pl": "Pozostało %lld dni",
+        "pl": "Pozostałe dni: %lld",
         "fr": "%lld jours restants",
         "ar": "باقي %lld يوم"
       },
@@ -18454,6 +19284,30 @@
         "pl": "Usuń na zawsze",
         "fr": "Supprimer pour toujours",
         "ar": "حذف إلى الأبد"
+      },
+      "deleteForeverTitle": {
+        "en": "Delete this workout forever?",
+        "ru": "Удалить тренировку навсегда?",
+        "hy": "Ջնջե՞լ այս մարզումն ընդմիշտ։",
+        "sv": "Ta bort passet för alltid?",
+        "nb": "Slette økten for alltid?",
+        "nl": "Deze training voor altijd verwijderen?",
+        "da": "Slet træningen for evigt?",
+        "pl": "Usunąć ten trening na zawsze?",
+        "fr": "Supprimer cette séance pour toujours ?",
+        "ar": "حذف هذا التمرين إلى الأبد؟"
+      },
+      "deleteForeverMessage": {
+        "en": "It can’t be restored from the Recycle Bin. This cannot be undone.",
+        "ru": "Её нельзя будет восстановить из корзины. Это нельзя отменить.",
+        "hy": "Այն հնարավոր չի լինի վերականգնել Աղբարկղից։ Սա հնարավոր չէ հետարկել։",
+        "sv": "Det går inte att återställa från papperskorgen. Detta kan inte ångras.",
+        "nb": "Den kan ikke gjenopprettes fra papirkurven. Dette kan ikke angres.",
+        "nl": "Deze kan niet meer uit de prullenbak worden teruggezet. Dit kan niet ongedaan worden gemaakt.",
+        "da": "Den kan ikke gendannes fra papirkurven. Dette kan ikke fortrydes.",
+        "pl": "Nie będzie można go przywrócić z kosza. Tego nie można cofnąć.",
+        "fr": "Elle ne pourra pas être restaurée depuis la corbeille. Cela ne peut pas être annulé.",
+        "ar": "لن يمكن استعادته من سلة المحذوفات. لا يمكن التراجع عن هذا."
       },
       "emptyDescription": {
         "en": "Deleted and discarded workouts stay here for 30 days.",
@@ -18639,13 +19493,13 @@
       },
       "atRisk.streakTitle": {
         "en": "%lld-week streak on the line",
-        "ru": "Под угрозой серия из %lld недель",
+        "ru": "Под угрозой серия: %lld нед.",
         "hy": "%lld շաբաթվա շարքը վտանգված է",
         "sv": "Svit på %lld veckor står på spel",
         "nb": "Rekke på %lld uker står på spill",
         "nl": "Reeks van %lld weken staat op het spel",
         "da": "Række på %lld uger står på spil",
-        "pl": "Na szali seria %lld tygodni",
+        "pl": "Na szali seria: %lld tyg.",
         "fr": "Série de %lld semaines en jeu",
         "ar": "سلسلة %lld أسابيع على المحك"
       },
@@ -18735,13 +19589,13 @@
       },
       "newWeek.streakBody": {
         "en": "Your %lld-week streak carries over — keep it going.",
-        "ru": "Серия из %lld недель продолжается — не прерывайте её.",
+        "ru": "Ваша серия (%lld нед.) продолжается — не прерывайте её.",
         "hy": "%lld շաբաթվա շարքը շարունակվում է — մի ընդհատեք։",
         "sv": "Din svit på %lld veckor lever vidare – håll den vid liv.",
         "nb": "Rekken din på %lld uker lever videre – hold den i gang.",
         "nl": "Je reeks van %lld weken loopt door – houd hem vast.",
         "da": "Din række på %lld uger lever videre – hold den i gang.",
-        "pl": "Twoja seria %lld tygodni trwa — nie przerywaj jej.",
+        "pl": "Twoja seria (%lld tyg.) trwa — nie przerywaj jej.",
         "fr": "Votre série de %lld semaines continue — ne la cassez pas.",
         "ar": "سلسلتك المكوّنة من %lld أسابيع مستمرة — حافظ عليها."
       },
@@ -18998,6 +19852,54 @@
         "pl": "Przerwa po rundzie %@",
         "fr": "Repos de série %@",
         "ar": "راحة الجولة %@"
+      },
+      "notification.channel.name": {
+        "en": "Workout in progress",
+        "ru": "Текущая тренировка",
+        "hy": "Ընթացիկ մարզում",
+        "sv": "Pågående träningspass",
+        "nb": "Pågående treningsøkt",
+        "nl": "Lopende training",
+        "da": "Igangværende træning",
+        "pl": "Trwający trening",
+        "fr": "Entraînement en cours",
+        "ar": "التمرين الجاري"
+      },
+      "notification.channel.description": {
+        "en": "The workout card while you train, with the rest countdown or stopwatch",
+        "ru": "Карточка тренировки во время занятия — с отсчётом отдыха или секундомером",
+        "hy": "Մարզման քարտը մարզվելու ընթացքում՝ հանգստի հետհաշվարկով կամ վայրկյանաչափով",
+        "sv": "Träningskortet medan du tränar, med vilans nedräkning eller stoppur",
+        "nb": "Treningskortet mens du trener, med nedtelling for hvile eller stoppeklokke",
+        "nl": "De trainingskaart tijdens het trainen, met de rustafteller of stopwatch",
+        "da": "Træningskortet, mens du træner, med nedtælling af hvile eller stopur",
+        "pl": "Karta treningu podczas ćwiczeń, z odliczaniem odpoczynku lub stoperem",
+        "fr": "La carte d’entraînement pendant la séance, avec le compte à rebours du repos ou le chronomètre",
+        "ar": "بطاقة التمرين أثناء التدريب، مع العد التنازلي للاستراحة أو ساعة الإيقاف"
+      },
+      "notification.doneChannel.name": {
+        "en": "Rest finished",
+        "ru": "Отдых окончен",
+        "hy": "Հանգիստն ավարտվեց",
+        "sv": "Vilan är slut",
+        "nb": "Hvilen er over",
+        "nl": "Rust voorbij",
+        "da": "Hvilen er slut",
+        "pl": "Koniec odpoczynku",
+        "fr": "Repos terminé",
+        "ar": "انتهت الاستراحة"
+      },
+      "notification.doneChannel.description": {
+        "en": "An alert when a rest countdown reaches zero",
+        "ru": "Оповещение, когда отсчёт отдыха доходит до нуля",
+        "hy": "Ծանուցում, երբ հանգստի հետհաշվարկը հասնում է զրոյի",
+        "sv": "En avisering när vilans nedräkning når noll",
+        "nb": "Et varsel når nedtellingen for hvile når null",
+        "nl": "Een melding wanneer de rustafteller op nul staat",
+        "da": "En besked, når nedtællingen af hvile når nul",
+        "pl": "Powiadomienie, gdy odliczanie odpoczynku dojdzie do zera",
+        "fr": "Une alerte lorsque le compte à rebours du repos arrive à zéro",
+        "ar": "تنبيه عندما يصل العد التنازلي للاستراحة إلى الصفر"
       }
     },
     "Set": {
@@ -19539,7 +20441,7 @@
         "nb": "%lld nye rekorder",
         "nl": "%lld nieuwe PR's",
         "da": "%lld nye rekorder",
-        "pl": "%lld nowych rekordów",
+        "pl": "Nowe rekordy: %lld",
         "fr": "%lld nouveaux records",
         "ar": "%lld رقم قياسي جديد"
       },
@@ -19695,7 +20597,7 @@
         "nb": "%lld ukers rekke",
         "nl": "Reeks van %lld weken",
         "da": "%lld ugers streak",
-        "pl": "Seria %lld tygodni",
+        "pl": "Seria: %lld tyg.",
         "fr": "Série de %lld semaines",
         "ar": "سلسلة %lld أسابيع"
       },
@@ -19773,13 +20675,13 @@
       },
       "trainingDays": {
         "en": "%lld training days",
-        "ru": "%lld тренировочных дней",
+        "ru": "Тренировочных дней: %lld",
         "hy": "%lld մարզման օր",
         "sv": "%lld träningsdagar",
         "nb": "%lld treningsdager",
         "nl": "%lld trainingsdagen",
         "da": "%lld træningsdage",
-        "pl": "%lld dni treningowych",
+        "pl": "Dni treningowe: %lld",
         "fr": "%lld jours d'entraînement",
         "ar": "%lld يوم تدريب"
       },
@@ -19809,13 +20711,13 @@
       },
       "workoutCount": {
         "en": "%lld workouts",
-        "ru": "%lld тренировок",
+        "ru": "Тренировок: %lld",
         "hy": "%lld մարզում",
         "sv": "%lld träningspass",
         "nb": "%lld økter",
         "nl": "%lld trainingen",
         "da": "%lld træninger",
-        "pl": "%lld treningów",
+        "pl": "Treningi: %lld",
         "fr": "%lld séances",
         "ar": "%lld تمرين"
       },
@@ -20226,6 +21128,18 @@
         "pl": "Set log",
         "fr": "Set log",
         "ar": "Set log"
+      },
+      "pageDescription": {
+        "en": "Page %1$lld of %2$lld",
+        "ru": "Страница %1$lld из %2$lld",
+        "hy": "Էջ %1$lld՝ %2$lld-ից",
+        "sv": "Sida %1$lld av %2$lld",
+        "nb": "Side %1$lld av %2$lld",
+        "nl": "Pagina %1$lld van %2$lld",
+        "da": "Side %1$lld af %2$lld",
+        "pl": "Strona %1$lld z %2$lld",
+        "fr": "Page %1$lld sur %2$lld",
+        "ar": "الصفحة %1$lld من %2$lld"
       }
     },
     "Sport": {
@@ -20243,13 +21157,13 @@
       },
       "unlock.body": {
         "en": "%d weeks in a row. Sport filters are unlocked — narrow by the sports you train for.",
-        "ru": "%d недель подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
+        "ru": "%d нед. подряд. Фильтры по видам спорта открыты — сужайте список под свои виды спорта.",
         "hy": "%d շաբաթ անընդմեջ։ Սպորտային զտիչները բաց են — նեղացրեք ըստ ձեր սպորտաձևերի։",
         "sv": "%d veckor i rad. Sportfilter är upplåsta — begränsa efter sporterna du tränar för.",
         "nb": "%d uker på rad. Sportfiltre er låst opp — snevre inn etter sportene du trener for.",
         "nl": "%d weken op rij. Sportfilters zijn ontgrendeld — filter op de sporten waarvoor je traint.",
         "da": "%d uger i træk. Sportfiltre er låst op — begræns efter sportene, du træner til.",
-        "pl": "%d tygodni z rzędu. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
+        "pl": "Tygodnie z rzędu: %d. Filtry sportowe odblokowane — zawężaj według sportów, do których trenujesz.",
         "fr": "%d semaines d’affilée. Les filtres sport sont débloqués — affinez selon les sports pour lesquels vous vous entraînez.",
         "ar": "%d أسابيع متتالية. فلاتر الرياضة مفتوحة — ضيّق حسب الرياضات التي تتدرب من أجلها."
       },
@@ -20279,7 +21193,7 @@
       },
       "unlock.lockedFooter": {
         "en": "Available after completing %d weeks of your streak.",
-        "ru": "Доступно после %d недель вашей серии.",
+        "ru": "Доступно после %d нед. вашей серии.",
         "hy": "Հասանելի է ձեր շարքի %d շաբաթից հետո։",
         "sv": "Tillgängligt efter %d veckor av din streak.",
         "nb": "Tilgjengelig etter %d uker av streaken din.",
@@ -20371,7 +21285,7 @@
         "nb": "%lld dager til for å beholde rekken",
         "nl": "Nog %lld dagen om je reeks te behouden",
         "da": "%lld dage mere for at beholde din streak",
-        "pl": "Jeszcze %lld dni, aby utrzymać serię",
+        "pl": "Dni do utrzymania serii: %lld",
         "fr": "Encore %lld jours pour conserver votre série",
         "ar": "%lld أيام إضافية للحفاظ على سلسلتك"
       },
@@ -20431,7 +21345,7 @@
         "nb": "%lld dager til denne uken for å starte en rekke",
         "nl": "Nog %lld dagen deze week om een reeks te starten",
         "da": "%lld dage mere i denne uge for at starte en streak",
-        "pl": "Jeszcze %lld dni w tym tygodniu, aby rozpocząć serię",
+        "pl": "Dni do rozpoczęcia serii w tym tygodniu: %lld",
         "fr": "Encore %lld jours cette semaine pour lancer une série",
         "ar": "%lld أيام إضافية هذا الأسبوع لبدء سلسلة"
       },
@@ -20503,7 +21417,7 @@
         "nb": "%lld uker",
         "nl": "%lld weken",
         "da": "%lld uger",
-        "pl": "%lld tygodni",
+        "pl": "%lld tyg.",
         "fr": "%lld semaines",
         "ar": "%lld أسابيع"
       },
@@ -20613,7 +21527,7 @@
         "nb": "%1$@: målet nådd %2$lld av %3$lld uker. Gå opp til %4$@ sett i uken?",
         "nl": "%1$@: doel gehaald in %2$lld van %3$lld weken. Naar %4$@ sets per week?",
         "da": "%1$@: målet nået %2$lld af %3$lld uger. Gå op til %4$@ sæt om ugen?",
-        "pl": "%1$@: cel osiągnięty w %2$lld z %3$lld tygodni. Przejść na %4$@ serii tygodniowo?",
+        "pl": "%1$@: cel osiągnięty w %2$lld z %3$lld tygodni. Podnieść tygodniowy cel serii do %4$@?",
         "fr": "%1$@ : objectif atteint %2$lld semaines sur %3$lld. Passer à %4$@ séries par semaine ?",
         "ar": "%1$@: تحقق الهدف في %2$lld من %3$lld أسابيع. هل تنتقل إلى %4$@ مجموعة في الأسبوع؟"
       },
@@ -20625,7 +21539,7 @@
         "nb": "%1$@: målet nådd %2$lld av %3$lld uker. Prøv %4$@ sett i uken neste periode?",
         "nl": "%1$@: doel gehaald in %2$lld van %3$lld weken. De volgende cyclus %4$@ sets per week proberen?",
         "da": "%1$@: målet nået %2$lld af %3$lld uger. Prøv %4$@ sæt om ugen i næste periode?",
-        "pl": "%1$@: cel osiągnięty w %2$lld z %3$lld tygodni. Spróbować %4$@ serii tygodniowo w następnym cyklu?",
+        "pl": "%1$@: cel osiągnięty w %2$lld z %3$lld tygodni. W następnym cyklu obniżyć tygodniowy cel serii do %4$@?",
         "fr": "%1$@ : objectif atteint %2$lld semaines sur %3$lld. Essayer %4$@ séries par semaine au prochain cycle ?",
         "ar": "%1$@: تحقق الهدف في %2$lld من %3$lld أسابيع. هل تجرب %4$@ مجموعة في الأسبوع في الدورة القادمة؟"
       },
@@ -20721,7 +21635,7 @@
         "nb": "%2$lld økter til for å nå %1$lld",
         "nl": "Nog %2$lld trainingen tot %1$lld",
         "da": "%2$lld træninger mere for at nå %1$lld",
-        "pl": "Jeszcze %2$lld treningów do %1$lld",
+        "pl": "Treningi do %1$lld: jeszcze %2$lld",
         "fr": "Encore %2$lld séances pour atteindre %1$lld",
         "ar": "%2$lld تمارين أخرى للوصول إلى %1$lld"
       },
@@ -21577,10 +22491,10 @@
         "hy": "Բոլորը խմբում",
         "sv": "Alla i grupp",
         "nb": "Alle i gruppe",
-        "nl": "Allemaal in groep",
+        "nl": "Alles in groep",
         "da": "Alle i gruppe",
-        "pl": "Wszyscy w grupie",
-        "fr": "Tous en groupe",
+        "pl": "Wszystkie w grupie",
+        "fr": "Tout le groupe",
         "ar": "الكل في المجموعة"
       },
       "allPrimary": {
@@ -21589,11 +22503,11 @@
         "hy": "Բոլոր հիմնականները",
         "sv": "Alla primära",
         "nb": "Alle primære",
-        "nl": "Allemaal primair",
+        "nl": "Alle primaire",
         "da": "Alle primære",
         "pl": "Wszystkie podstawowe",
-        "fr": "Tous primaires",
-        "ar": "جميع الابتدائية"
+        "fr": "Tous les principaux",
+        "ar": "كل العضلات الأساسية"
       },
       "arms.biceps": {
         "en": "Biceps",
@@ -21647,11 +22561,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -21659,13 +22573,13 @@
         "en": "Arms",
         "ru": "Руки",
         "hy": "Ձեռքեր",
-        "sv": "Vapen",
-        "nb": "Våpen",
+        "sv": "Armar",
+        "nb": "Armer",
         "nl": "Armen",
-        "da": "Våben",
-        "pl": "Herb",
+        "da": "Arme",
+        "pl": "Ramiona",
         "fr": "Bras",
-        "ar": "الأسلحة"
+        "ar": "الذراعان"
       },
       "arms.triceps": {
         "en": "Triceps",
@@ -21695,11 +22609,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -21707,13 +22621,13 @@
         "en": "Back",
         "ru": "Спина",
         "hy": "Մեջք",
-        "sv": "Tillbaka",
-        "nb": "Tilbake",
+        "sv": "Rygg",
+        "nb": "Rygg",
         "nl": "Rug",
-        "da": "Tilbage",
-        "pl": "Z powrotem",
+        "da": "Ryg",
+        "pl": "Plecy",
         "fr": "Dos",
-        "ar": "خلف"
+        "ar": "الظهر"
       },
       "back.lats": {
         "en": "Lats",
@@ -21721,11 +22635,11 @@
         "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
-        "nl": "Lat",
+        "nl": "Lats",
         "da": "Lats",
-        "pl": "łat",
+        "pl": "Najszersze grzbietu",
         "fr": "Lats",
-        "ar": "لاتس"
+        "ar": "العضلة الظهرية العريضة"
       },
       "back.lats.workout": {
         "en": "Lats",
@@ -21733,17 +22647,17 @@
         "hy": "Մեջքի լայն մկաններ",
         "sv": "Lats",
         "nb": "Lats",
-        "nl": "Lat",
+        "nl": "Lats",
         "da": "Lats",
-        "pl": "łat",
+        "pl": "Najszersze grzbietu",
         "fr": "Lats",
-        "ar": "لاتس"
+        "ar": "العضلة الظهرية العريضة"
       },
       "back.lower_back": {
         "en": "Lower back",
         "ru": "Поясница",
         "hy": "Մեջքի ստորին հատված",
-        "sv": "Nedre delen av ryggen",
+        "sv": "Ländrygg",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
         "da": "Nedre ryg",
@@ -21755,7 +22669,7 @@
         "en": "Lower back",
         "ru": "Поясница",
         "hy": "Մեջքի ստորին հատված",
-        "sv": "Nedre delen av ryggen",
+        "sv": "Ländrygg",
         "nb": "Nedre rygg",
         "nl": "Onderrug",
         "da": "Nedre ryg",
@@ -21767,25 +22681,25 @@
         "en": "Traps",
         "ru": "Трапеции",
         "hy": "Սեղանաձև մկաններ",
-        "sv": "Fällor",
-        "nb": "Feller",
-        "nl": "Vallen",
-        "da": "Fælder",
-        "pl": "Majdan",
-        "fr": "Pièges",
-        "ar": "الفخاخ"
+        "sv": "Trapezius",
+        "nb": "Trapezius",
+        "nl": "Trapezius",
+        "da": "Trapezius",
+        "pl": "Czworoboczne",
+        "fr": "Trapèzes",
+        "ar": "شبه المنحرفة"
       },
       "back.traps.workout": {
         "en": "Traps",
         "ru": "Трапеции",
         "hy": "Սեղանաձև մկաններ",
-        "sv": "Fällor",
-        "nb": "Feller",
-        "nl": "Vallen",
-        "da": "Fælder",
-        "pl": "Majdan",
-        "fr": "Pièges",
-        "ar": "الفخاخ"
+        "sv": "Trapezius",
+        "nb": "Trapezius",
+        "nl": "Trapezius",
+        "da": "Trapezius",
+        "pl": "Czworoboczne",
+        "fr": "Trapèzes",
+        "ar": "شبه المنحرفة"
       },
       "back.upper_back": {
         "en": "Upper back",
@@ -21815,11 +22729,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -21828,24 +22742,24 @@
         "ru": "Грудь",
         "hy": "Կրծքավանդակ",
         "sv": "Bröst",
-        "nb": "Kiste",
+        "nb": "Bryst",
         "nl": "Borst",
         "da": "Bryst",
         "pl": "Klatka piersiowa",
-        "fr": "Poitrine",
-        "ar": "صدر"
+        "fr": "Pectoraux",
+        "ar": "الصدر"
       },
       "chest.lower": {
         "en": "Lower",
         "ru": "Низ",
         "hy": "Ստորին",
-        "sv": "Lägre",
-        "nb": "Senke",
-        "nl": "Lager",
-        "da": "Sænke",
-        "pl": "Niżej",
-        "fr": "Inférieur",
-        "ar": "أدنى"
+        "sv": "Nedre",
+        "nb": "Nedre",
+        "nl": "Onder",
+        "da": "Nedre",
+        "pl": "Dolna",
+        "fr": "Bas",
+        "ar": "السفلي"
       },
       "chest.lower.workout": {
         "en": "Lower chest",
@@ -21853,7 +22767,7 @@
         "hy": "Կրծքի ստորին հատված",
         "sv": "Nedre bröstet",
         "nb": "Nedre bryst",
-        "nl": "Lagere borst",
+        "nl": "Onderste borst",
         "da": "Nederste bryst",
         "pl": "Dolna klatka piersiowa",
         "fr": "Bas de la poitrine",
@@ -21867,9 +22781,9 @@
         "nb": "Midt",
         "nl": "Midden",
         "da": "Midt",
-        "pl": "Średni",
+        "pl": "Środkowa",
         "fr": "Milieu",
-        "ar": "منتصف"
+        "ar": "الأوسط"
       },
       "chest.mid.workout": {
         "en": "Mid chest",
@@ -21893,7 +22807,7 @@
         "da": "Serratus",
         "pl": "Serratus",
         "fr": "Serratus",
-        "ar": "سيراتوس"
+        "ar": "العضلة المنشارية"
       },
       "chest.serratus.workout": {
         "en": "Serratus",
@@ -21905,18 +22819,18 @@
         "da": "Serratus",
         "pl": "Serratus",
         "fr": "Serratus",
-        "ar": "سيراتوس"
+        "ar": "العضلة المنشارية"
       },
       "chest.upper": {
         "en": "Upper",
         "ru": "Верх",
         "hy": "Վերին",
         "sv": "Övre",
-        "nb": "Øverste",
-        "nl": "Bovenste",
-        "da": "Øverst",
-        "pl": "Górny",
-        "fr": "Supérieur",
+        "nb": "Øvre",
+        "nl": "Boven",
+        "da": "Øvre",
+        "pl": "Górna",
+        "fr": "Haut",
         "ar": "العلوي"
       },
       "chest.upper.workout": {
@@ -21935,35 +22849,35 @@
         "en": "Abs",
         "ru": "Пресс",
         "hy": "Որովայնի մկաններ",
-        "sv": "Abs",
-        "nb": "Abs",
-        "nl": "Abs",
-        "da": "Abs",
-        "pl": "Abs",
+        "sv": "Magmuskler",
+        "nb": "Magemuskler",
+        "nl": "Buikspieren",
+        "da": "Mavemuskler",
+        "pl": "Mięśnie brzucha",
         "fr": "Abdos",
-        "ar": "القيمة المطلقة"
+        "ar": "عضلات البطن"
       },
       "core.abs.workout": {
         "en": "Abs",
         "ru": "Пресс",
         "hy": "Որովայնի մկաններ",
-        "sv": "Abs",
-        "nb": "Abs",
-        "nl": "Abs",
-        "da": "Abs",
-        "pl": "Abs",
+        "sv": "Magmuskler",
+        "nb": "Magemuskler",
+        "nl": "Buikspieren",
+        "da": "Mavemuskler",
+        "pl": "Mięśnie brzucha",
         "fr": "Abdos",
-        "ar": "القيمة المطلقة"
+        "ar": "عضلات البطن"
       },
       "core.general": {
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -21971,37 +22885,37 @@
         "en": "Core",
         "ru": "Кор",
         "hy": "Հիմնային",
-        "sv": "Kärna",
+        "sv": "Bål",
         "nb": "Kjerne",
-        "nl": "Kern",
-        "da": "Kerne",
-        "pl": "Rdzeń",
-        "fr": "Cœur",
-        "ar": "جوهر"
+        "nl": "Core",
+        "da": "Core",
+        "pl": "Core",
+        "fr": "Gainage",
+        "ar": "الجذع"
       },
       "core.obliques": {
         "en": "Obliques",
         "ru": "Косые",
         "hy": "Շեղ մկաններ",
-        "sv": "Obliques",
-        "nb": "Skrå",
-        "nl": "Obliques",
-        "da": "Skrå",
-        "pl": "Skośne",
+        "sv": "Sneda magmuskler",
+        "nb": "Skrå magemuskler",
+        "nl": "Schuine buikspieren",
+        "da": "Skrå mavemuskler",
+        "pl": "Mięśnie skośne",
         "fr": "Obliques",
-        "ar": "منحرف"
+        "ar": "العضلات المائلة"
       },
       "core.obliques.workout": {
         "en": "Obliques",
         "ru": "Косые",
         "hy": "Շեղ մկաններ",
-        "sv": "Obliques",
-        "nb": "Skrå",
-        "nl": "Obliques",
-        "da": "Skrå",
-        "pl": "Skośne",
+        "sv": "Sneda magmuskler",
+        "nb": "Skrå magemuskler",
+        "nl": "Schuine buikspieren",
+        "da": "Skrå mavemuskler",
+        "pl": "Mięśnie skośne",
         "fr": "Obliques",
-        "ar": "منحرف"
+        "ar": "العضلات المائلة"
       },
       "core.stability": {
         "en": "Stability",
@@ -22013,19 +22927,19 @@
         "da": "Stabilitet",
         "pl": "Stabilność",
         "fr": "Stabilité",
-        "ar": "استقرار"
+        "ar": "الثبات"
       },
       "core.stability.workout": {
         "en": "Core stability",
         "ru": "Стабильность кора",
         "hy": "Հիմնային կայունություն",
-        "sv": "Kärnstabilitet",
+        "sv": "Bålstabilitet",
         "nb": "Kjernestabilitet",
-        "nl": "Kernstabiliteit",
-        "da": "Kernestabilitet",
-        "pl": "Stabilność rdzenia",
-        "fr": "Stabilité du noyau",
-        "ar": "الاستقرار الأساسي"
+        "nl": "Core-stabiliteit",
+        "da": "Core-stabilitet",
+        "pl": "Stabilizacja tułowia",
+        "fr": "Stabilité du tronc",
+        "ar": "ثبات الجذع"
       },
       "diagram": {
         "en": "Target region",
@@ -22053,13 +22967,13 @@
       },
       "exerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -22071,9 +22985,9 @@
         "nb": "Alle",
         "nl": "Alle",
         "da": "Alle",
-        "pl": "Wszystko",
+        "pl": "Wszystkie",
         "fr": "Tous",
-        "ar": "الجميع"
+        "ar": "الكل"
       },
       "formFooter": {
         "en": "Choose a primary muscle subgroup so the picker can suggest related lifts.",
@@ -22081,45 +22995,45 @@
         "hy": "Ընտրեք առաջնային մկանային ենթախումբ, որպեսզի ընտրիչը կարողանա առաջարկել հարակից վարժություններ։",
         "sv": "Välj en primär muskelundergrupp så att väljaren kan föreslå relaterade lyft.",
         "nb": "Velg en primær muskelundergruppe slik at velgeren kan foreslå relaterte løft.",
-        "nl": "Kies een primaire spiersubgroep, zodat de kiezer gerelateerde liften kan voorstellen.",
+        "nl": "Kies een primaire spiersubgroep, zodat de kiezer verwante oefeningen kan voorstellen.",
         "da": "Vælg en primær muskelundergruppe, så vælgeren kan foreslå relaterede løft.",
-        "pl": "Wybierz główną podgrupę mięśni, aby osoba zbierająca mogła zasugerować powiązane ćwiczenia.",
-        "fr": "Choisissez un sous-groupe musculaire principal afin que le sélectionneur puisse suggérer des levées associées.",
+        "pl": "Wybierz główną podgrupę mięśni, aby wybór ćwiczeń mógł podpowiadać powiązane ćwiczenia.",
+        "fr": "Choisissez un sous-groupe musculaire principal pour que le sélecteur puisse suggérer des exercices associés.",
         "ar": "اختر مجموعة فرعية أساسية من العضلات حتى يتمكن المنتقي من اقتراح تمارين الرفع ذات الصلة."
       },
       "legs.calves": {
         "en": "Calves",
         "ru": "Икры",
         "hy": "Սրունքի մկաններ",
-        "sv": "Kalvar",
-        "nb": "Kalver",
-        "nl": "Kalveren",
-        "da": "Kalve",
+        "sv": "Vader",
+        "nb": "Legger",
+        "nl": "Kuiten",
+        "da": "Lægge",
         "pl": "Łydki",
-        "fr": "Veaux",
-        "ar": "العجول"
+        "fr": "Mollets",
+        "ar": "عضلات السمانة"
       },
       "legs.calves.workout": {
         "en": "Calves",
         "ru": "Икры",
         "hy": "Սրունքի մկաններ",
-        "sv": "Kalvar",
-        "nb": "Kalver",
-        "nl": "Kalveren",
-        "da": "Kalve",
+        "sv": "Vader",
+        "nb": "Legger",
+        "nl": "Kuiten",
+        "da": "Lægge",
         "pl": "Łydki",
-        "fr": "Veaux",
-        "ar": "العجول"
+        "fr": "Mollets",
+        "ar": "عضلات السمانة"
       },
       "legs.general": {
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -22133,31 +23047,31 @@
         "da": "Ben",
         "pl": "Nogi",
         "fr": "Jambes",
-        "ar": "الساقين"
+        "ar": "الساقان"
       },
       "legs.glutes": {
         "en": "Glutes",
         "ru": "Ягодицы",
         "hy": "Հետույքի մկաններ",
-        "sv": "Glutes",
-        "nb": "Glutes",
+        "sv": "Sätesmuskler",
+        "nb": "Setemuskler",
         "nl": "Bilspieren",
-        "da": "Glutes",
+        "da": "Ballemuskler",
         "pl": "Pośladki",
         "fr": "Fessiers",
-        "ar": "المؤخرة"
+        "ar": "الأرداف"
       },
       "legs.glutes.workout": {
         "en": "Glutes",
         "ru": "Ягодицы",
         "hy": "Հետույքի մկաններ",
-        "sv": "Glutes",
-        "nb": "Glutes",
+        "sv": "Sätesmuskler",
+        "nb": "Setemuskler",
         "nl": "Bilspieren",
-        "da": "Glutes",
+        "da": "Ballemuskler",
         "pl": "Pośladki",
         "fr": "Fessiers",
-        "ar": "المؤخرة"
+        "ar": "الأرداف"
       },
       "legs.hamstrings": {
         "en": "Hamstrings",
@@ -22167,9 +23081,9 @@
         "nb": "Hamstrings",
         "nl": "Hamstrings",
         "da": "Hamstrings",
-        "pl": "Ścięgna podkolanowe",
+        "pl": "Dwugłowe uda",
         "fr": "Ischio-jambiers",
-        "ar": "أوتار الركبة"
+        "ar": "العضلات الخلفية للفخذ"
       },
       "legs.hamstrings.workout": {
         "en": "Hamstrings",
@@ -22179,9 +23093,9 @@
         "nb": "Hamstrings",
         "nl": "Hamstrings",
         "da": "Hamstrings",
-        "pl": "Ścięgna podkolanowe",
+        "pl": "Dwugłowe uda",
         "fr": "Ischio-jambiers",
-        "ar": "أوتار الركبة"
+        "ar": "العضلات الخلفية للفخذ"
       },
       "legs.hips": {
         "en": "Hips",
@@ -22192,8 +23106,8 @@
         "nl": "Heupen",
         "da": "Hofter",
         "pl": "Biodra",
-        "fr": "Les hanches",
-        "ar": "خَواصِر"
+        "fr": "Hanches",
+        "ar": "الوركان"
       },
       "legs.hips.workout": {
         "en": "Hips",
@@ -22204,41 +23118,41 @@
         "nl": "Heupen",
         "da": "Hofter",
         "pl": "Biodra",
-        "fr": "Les hanches",
-        "ar": "خَواصِر"
+        "fr": "Hanches",
+        "ar": "الوركان"
       },
       "legs.quads": {
         "en": "Quads",
         "ru": "Квадрицепсы",
         "hy": "Քառագլուխ մկաններ",
-        "sv": "Fyrhjulingar",
+        "sv": "Quadriceps",
         "nb": "Quads",
-        "nl": "Vierlingen",
+        "nl": "Quadriceps",
         "da": "Quads",
-        "pl": "Quady",
-        "fr": "Quads",
-        "ar": "الكواد"
+        "pl": "Czworogłowe",
+        "fr": "Quadriceps",
+        "ar": "عضلات الفخذ الأمامية"
       },
       "legs.quads.workout": {
         "en": "Quads",
         "ru": "Квадрицепсы",
         "hy": "Քառագլուխ մկաններ",
-        "sv": "Fyrhjulingar",
+        "sv": "Quadriceps",
         "nb": "Quads",
-        "nl": "Vierlingen",
+        "nl": "Quadriceps",
         "da": "Quads",
-        "pl": "Quady",
-        "fr": "Quads",
-        "ar": "الكواد"
+        "pl": "Czworogłowe",
+        "fr": "Quadriceps",
+        "ar": "عضلات الفخذ الأمامية"
       },
       "picker": {
         "en": "Target muscle",
         "ru": "Целевая мышца",
         "hy": "Թիրախային մկան",
         "sv": "Målmuskel",
-        "nb": "Mål muskel",
-        "nl": "Doel spier",
-        "da": "Mål muskel",
+        "nb": "Målmuskel",
+        "nl": "Doelspier",
+        "da": "Målmuskel",
         "pl": "Docelowy mięsień",
         "fr": "Muscle cible",
         "ar": "العضلات المستهدفة"
@@ -22249,7 +23163,7 @@
         "hy": "Հիմնական թիրախ",
         "sv": "Primärt mål",
         "nb": "Primært mål",
-        "nl": "Primair doelwit",
+        "nl": "Primair doel",
         "da": "Primært mål",
         "pl": "Główny cel",
         "fr": "Cible principale",
@@ -22273,7 +23187,7 @@
         "hy": "Երրորդական թիրախ",
         "sv": "Tertiärt mål",
         "nb": "Tertiært mål",
-        "nl": "Tertiair doelwit",
+        "nl": "Tertiair doel",
         "da": "Tertiært mål",
         "pl": "Cel trzeciorzędny",
         "fr": "Cible tertiaire",
@@ -22307,13 +23221,13 @@
         "en": "Front delts",
         "ru": "Передние дельты",
         "hy": "Առջևի դելտաներ",
-        "sv": "Främre delts",
-        "nb": "Deler foran",
+        "sv": "Främre deltoider",
+        "nb": "Fremre deltoider",
         "nl": "Voorste delta's",
-        "da": "Forreste dele",
+        "da": "Forreste deltoider",
         "pl": "Delty przednie",
         "fr": "Deltas avant",
-        "ar": "الحذف الأمامي"
+        "ar": "الدالية الأمامية"
       },
       "shoulders.front.workout": {
         "en": "Front deltoids",
@@ -22331,11 +23245,11 @@
         "en": "General",
         "ru": "Общее",
         "hy": "Ընդհանուր",
-        "sv": "Allmän",
-        "nb": "General",
+        "sv": "Allmänt",
+        "nb": "Generelt",
         "nl": "Algemeen",
-        "da": "Generel",
-        "pl": "Ogólny",
+        "da": "Generelt",
+        "pl": "Ogólne",
         "fr": "Général",
         "ar": "عام"
       },
@@ -22347,9 +23261,9 @@
         "nb": "Skuldre",
         "nl": "Schouders",
         "da": "Skuldre",
-        "pl": "Plecy",
+        "pl": "Barki",
         "fr": "Épaules",
-        "ar": "أكتاف"
+        "ar": "الأكتاف"
       },
       "shoulders.rear": {
         "en": "Rear",
@@ -22357,11 +23271,11 @@
         "hy": "Հետևի",
         "sv": "Bak",
         "nb": "Bak",
-        "nl": "Achterkant",
+        "nl": "Achter",
         "da": "Bag",
         "pl": "Tył",
         "fr": "Arrière",
-        "ar": "مؤخرة"
+        "ar": "الخلفية"
       },
       "shoulders.rear.workout": {
         "en": "Rear deltoids",
@@ -22381,17 +23295,17 @@
         "hy": "Կողային",
         "sv": "Sida",
         "nb": "Side",
-        "nl": "Kant",
+        "nl": "Zij",
         "da": "Side",
-        "pl": "Strona",
+        "pl": "Boczne",
         "fr": "Côté",
-        "ar": "جانب"
+        "ar": "الجانبية"
       },
       "shoulders.side.workout": {
         "en": "Side deltoids",
         "ru": "Средние дельты",
         "hy": "Կողային դելտաներ",
-        "sv": "Sida deltoider",
+        "sv": "Sidodeltoider",
         "nb": "Sidedeltoider",
         "nl": "Zijdeltoïden",
         "da": "Side deltoider",
@@ -22969,13 +23883,13 @@
       },
       "memberCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -23143,9 +24057,9 @@
         "nb": "Supersett",
         "nl": "Superset",
         "da": "Supersæt",
-        "pl": "Nadzbiór",
-        "fr": "Surensemble",
-        "ar": "مجموعة شاملة"
+        "pl": "Superseria",
+        "fr": "Superset",
+        "ar": "سوبر سيت"
       },
       "selectMembersHint": {
         "en": "Select at least two exercises to link as a superset.",
@@ -23201,13 +24115,25 @@
         "en": "%d sync conflicts",
         "ru": "Конфликтов синхронизации: %d",
         "hy": "%d համաժամացման կոնֆլիկտ",
-        "sv": "%d sync conflicts",
-        "nb": "%d sync conflicts",
-        "nl": "%d sync conflicts",
-        "da": "%d sync conflicts",
-        "pl": "%d sync conflicts",
-        "fr": "%d sync conflicts",
-        "ar": "%d sync conflicts"
+        "sv": "%d synkkonflikter",
+        "nb": "%d synkroniseringskonflikter",
+        "nl": "%d synchronisatieconflicten",
+        "da": "%d synkroniseringskonflikter",
+        "pl": "Konflikty synchronizacji: %d",
+        "fr": "%d conflits de synchronisation",
+        "ar": "تعارضات المزامنة: %d"
+      },
+      "conflict.bannerOne": {
+        "en": "1 sync conflict",
+        "ru": "Один конфликт синхронизации",
+        "hy": "1 համաժամացման կոնֆլիկտ",
+        "sv": "1 synkkonflikt",
+        "nb": "1 synkroniseringskonflikt",
+        "nl": "1 synchronisatieconflict",
+        "da": "1 synkroniseringskonflikt",
+        "pl": "1 konflikt synchronizacji",
+        "fr": "1 conflit de synchronisation",
+        "ar": "تعارض مزامنة واحد"
       },
       "conflict.emptyMessage": {
         "en": "Local and cloud data match.",
@@ -23621,13 +24547,25 @@
         "en": "%d conflicts need your choice.",
         "ru": "Конфликтов, требующих вашего решения: %d.",
         "hy": "%d կոնֆլիկտ ձեր որոշման կարիքն ունի։",
-        "sv": "%d conflicts need your choice.",
-        "nb": "%d conflicts need your choice.",
-        "nl": "%d conflicts need your choice.",
-        "da": "%d conflicts need your choice.",
-        "pl": "%d conflicts need your choice.",
-        "fr": "%d conflicts need your choice.",
-        "ar": "%d conflicts need your choice."
+        "sv": "%d konflikter behöver ditt val.",
+        "nb": "%d konflikter trenger valget ditt.",
+        "nl": "%d conflicten vragen om je keuze.",
+        "da": "%d konflikter kræver dit valg.",
+        "pl": "Konflikty wymagające Twojej decyzji: %d.",
+        "fr": "%d conflits attendent votre choix.",
+        "ar": "تعارضات تحتاج إلى قرارك: %d."
+      },
+      "resync.conflictsFoundOne": {
+        "en": "1 conflict needs your choice.",
+        "ru": "Один конфликт требует вашего решения.",
+        "hy": "1 կոնֆլիկտ ձեր որոշման կարիքն ունի։",
+        "sv": "1 konflikt behöver ditt val.",
+        "nb": "1 konflikt trenger valget ditt.",
+        "nl": "1 conflict vraagt om je keuze.",
+        "da": "1 konflikt kræver dit valg.",
+        "pl": "1 konflikt wymaga Twojej decyzji.",
+        "fr": "1 conflit attend votre choix.",
+        "ar": "تعارض واحد يحتاج إلى قرارك."
       },
       "resync.success": {
         "en": "Everything is up to date.",
@@ -23652,6 +24590,18 @@
         "pl": "Cloud sync",
         "fr": "Cloud sync",
         "ar": "Cloud sync"
+      },
+      "unavailable": {
+        "en": "Cloud sync isn’t available in this build. Your workouts stay on this device.",
+        "ru": "Облачная синхронизация недоступна в этой сборке. Тренировки остаются на этом устройстве.",
+        "hy": "Ամպային համաժամացումը հասանելի չէ այս տարբերակում։ Ձեր մարզումները մնում են այս սարքում։",
+        "sv": "Molnsynk är inte tillgänglig i den här versionen. Dina träningspass stannar på den här enheten.",
+        "nb": "Skysynkronisering er ikke tilgjengelig i denne versjonen. Treningsøktene dine blir på denne enheten.",
+        "nl": "Cloudsynchronisatie is niet beschikbaar in deze versie. Je trainingen blijven op dit apparaat.",
+        "da": "Skysynkronisering er ikke tilgængelig i denne version. Dine træninger bliver på denne enhed.",
+        "pl": "Synchronizacja z chmurą nie jest dostępna w tej wersji. Twoje treningi zostają na tym urządzeniu.",
+        "fr": "La synchronisation cloud n’est pas disponible dans cette version. Vos entraînements restent sur cet appareil.",
+        "ar": "المزامنة السحابية غير متاحة في هذا الإصدار. تبقى تمارينك على هذا الجهاز."
       }
     },
     "Tab": {
@@ -23659,25 +24609,25 @@
         "en": "History",
         "ru": "История",
         "hy": "Պատմություն",
-        "sv": "Historia",
+        "sv": "Historik",
         "nb": "Historie",
         "nl": "Geschiedenis",
         "da": "Historie",
         "pl": "Historia",
-        "fr": "Histoire",
-        "ar": "تاريخ"
+        "fr": "Historique",
+        "ar": "السجل"
       },
       "records": {
         "en": "Records",
         "ru": "Рекорды",
         "hy": "Ռեկորդներ",
-        "sv": "Uppgifter",
+        "sv": "Rekord",
         "nb": "Rekorder",
-        "nl": "Opnames",
-        "da": "Optegnelser",
-        "pl": "Dokumentacja",
-        "fr": "Enregistrements",
-        "ar": "السجلات"
+        "nl": "Records",
+        "da": "Rekorder",
+        "pl": "Rekordy",
+        "fr": "Records",
+        "ar": "الأرقام القياسية"
       },
       "templates": {
         "en": "Templates",
@@ -23699,9 +24649,9 @@
         "nb": "Trening",
         "nl": "Training",
         "da": "Træning",
-        "pl": "Ćwiczyć",
+        "pl": "Trening",
         "fr": "Entraînement",
-        "ar": "اكتشف - حل"
+        "ar": "التمرين"
       }
     },
     "Template": {
@@ -24042,13 +24992,13 @@
       },
       "count": {
         "en": "%lld templates",
-        "ru": "%lld шаблонов",
+        "ru": "Шаблонов: %lld",
         "hy": "%lld ձևանմուշ",
         "sv": "%lld mallar",
         "nb": "%lld maler",
         "nl": "%lld sjablonen",
         "da": "%lld skabeloner",
-        "pl": "%lld szablonów",
+        "pl": "Szablony: %lld",
         "fr": "%lld modèles",
         "ar": "%lld قوالب"
       },
@@ -24114,13 +25064,13 @@
       },
       "exerciseCount": {
         "en": "%lld exercises",
-        "ru": "%lld упражнений",
+        "ru": "Упражнений: %lld",
         "hy": "%lld վարժություն",
         "sv": "%lld övningar",
         "nb": "%lld øvelser",
         "nl": "%lld oefeningen",
         "da": "%lld øvelser",
-        "pl": "%lld ćwiczeń",
+        "pl": "Ćwiczenia: %lld",
         "fr": "%lld exercices",
         "ar": "%lld تمارين"
       },
@@ -24260,13 +25210,13 @@
         "en": "Clear targets",
         "ru": "Очистить цели",
         "hy": "Մաքրել նպատակները",
-        "sv": "Tydliga mål",
-        "nb": "Klare mål",
-        "nl": "Duidelijke doelen",
-        "da": "Klare mål",
+        "sv": "Rensa mål",
+        "nb": "Tøm mål",
+        "nl": "Doelen wissen",
+        "da": "Ryd mål",
         "pl": "Wyczyść cele",
-        "fr": "Des objectifs clairs",
-        "ar": "أهداف واضحة"
+        "fr": "Effacer les objectifs",
+        "ar": "مسح الأهداف"
       },
       "plan.setCount": {
         "en": "Sets",
@@ -24768,13 +25718,13 @@
       },
       "liveActivity.sessionLine": {
         "en": "%lld sets · %lld/%lld exercises",
-        "ru": "%lld подходов · %lld/%lld упражнений",
+        "ru": "Подходов: %lld · упражнений: %lld/%lld",
         "hy": "%lld մոտեցում · %lld/%lld վարժություն",
         "sv": "%lld set · %lld/%lld övningar",
         "nb": "%lld sett · %lld/%lld øvelser",
         "nl": "%lld sets · %lld/%lld oefeningen",
         "da": "%lld sæt · %lld/%lld øvelser",
-        "pl": "%lld serii · %lld/%lld ćwiczeń",
+        "pl": "Serie: %lld · ćwiczenia: %lld/%lld",
         "fr": "%lld séries · %lld/%lld exercices",
         "ar": "%lld مجموعات · %lld/%lld تمارين"
       },
@@ -24810,9 +25760,9 @@
         "nb": "Trening",
         "nl": "Training",
         "da": "Træning",
-        "pl": "Ćwiczyć",
+        "pl": "Trening",
         "fr": "Entraînement",
-        "ar": "اكتشف - حل"
+        "ar": "التمرين"
       },
       "details": {
         "en": "Workout Details",
@@ -25426,6 +26376,30 @@
         "fr": "Exercices",
         "ar": "تمارين"
       },
+      "reorder.moveUp": {
+        "en": "Move up",
+        "ru": "Переместить вверх",
+        "hy": "Տեղափոխել վեր",
+        "sv": "Flytta upp",
+        "nb": "Flytt opp",
+        "nl": "Omhoog verplaatsen",
+        "da": "Flyt op",
+        "pl": "Przesuń w górę",
+        "fr": "Déplacer vers le haut",
+        "ar": "نقل لأعلى"
+      },
+      "reorder.moveDown": {
+        "en": "Move down",
+        "ru": "Переместить вниз",
+        "hy": "Տեղափոխել վար",
+        "sv": "Flytta ned",
+        "nb": "Flytt ned",
+        "nl": "Omlaag verplaatsen",
+        "da": "Flyt ned",
+        "pl": "Przesuń w dół",
+        "fr": "Déplacer vers le bas",
+        "ar": "نقل لأسفل"
+      },
       "resumeBanner": {
         "en": "Workout in progress",
         "ru": "Идёт тренировка",
@@ -25488,13 +26462,13 @@
       },
       "setCount": {
         "en": "%lld sets",
-        "ru": "%lld подходов",
+        "ru": "Подходов: %lld",
         "hy": "%lld մոտեցում",
         "sv": "%lld uppsättningar",
         "nb": "%lld sett",
         "nl": "%lld sets",
         "da": "%lld sæt",
-        "pl": "%lld zestawów",
+        "pl": "Serie: %lld",
         "fr": "%lld ensembles",
         "ar": "%lld مجموعة"
       },
@@ -25568,7 +26542,7 @@
         "da": "%lld min",
         "pl": "%lld min",
         "fr": "%lld min",
-        "ar": "%ll دقيقة"
+        "ar": "%lld دقيقة"
       },
       "staleFinishPreview": {
         "en": "End time: %@",
@@ -26103,6 +27077,346 @@
         "ar": "كيف يعمل Siri في Gym Logbook"
       }
     },
+    "Voice": {
+      "intro.title": {
+        "en": "Train by voice",
+        "ru": "Тренировка голосом",
+        "hy": "Մարզում ձայնով",
+        "sv": "Träna med rösten",
+        "nb": "Tren med stemmen",
+        "nl": "Trainen met je stem",
+        "da": "Træn med stemmen",
+        "pl": "Trenuj głosem",
+        "fr": "S’entraîner à la voix",
+        "ar": "تدرّب بصوتك"
+      },
+      "intro.gemini.title": {
+        "en": "Gemini can log for you",
+        "ru": "Gemini может записывать за вас",
+        "hy": "Gemini-ն կարող է գրանցել ձեր փոխարեն",
+        "sv": "Gemini kan logga åt dig",
+        "nb": "Gemini kan loggføre for deg",
+        "nl": "Gemini kan voor je loggen",
+        "da": "Gemini kan logge for dig",
+        "pl": "Gemini może zapisywać za Ciebie",
+        "fr": "Gemini peut noter pour vous",
+        "ar": "يمكن لـ Gemini التسجيل نيابةً عنك"
+      },
+      "intro.gemini.body": {
+        "en": "Gemini can start a workout, log sets, time your rest and finish, so your phone can stay in your pocket. Mention Gym Logbook in what you ask.",
+        "ru": "Gemini может начать тренировку, записывать подходы, засекать отдых и завершить тренировку — телефон остаётся в кармане. Упоминайте Gym Logbook в просьбе.",
+        "hy": "Gemini-ն կարող է սկսել մարզումը, գրանցել մոտեցումները, չափել հանգիստը և ավարտել մարզումը՝ հեռախոսը կմնա գրպանում։ Ձեր խնդրանքում նշեք Gym Logbook-ը։",
+        "sv": "Gemini kan starta ett träningspass, logga set, ta tid på vilan och avsluta, så att telefonen kan ligga kvar i fickan. Nämn Gym Logbook när du frågar.",
+        "nb": "Gemini kan starte en økt, loggføre sett, ta tiden på hvilen og avslutte, så telefonen kan bli i lomma. Nevn Gym Logbook når du spør.",
+        "nl": "Gemini kan een training starten, sets loggen, je rust timen en afronden, zodat je telefoon in je zak kan blijven. Noem Gym Logbook in je vraag.",
+        "da": "Gemini kan starte en træning, logge sæt, tage tid på hvilen og afslutte, så telefonen kan blive i lommen. Nævn Gym Logbook, når du spørger.",
+        "pl": "Gemini może rozpocząć trening, zapisywać serie, mierzyć odpoczynek i zakończyć trening, a telefon zostaje w kieszeni. Wspomnij o Gym Logbook w swojej prośbie.",
+        "fr": "Gemini peut démarrer un entraînement, noter vos séries, chronométrer le repos et terminer la séance : votre téléphone reste dans votre poche. Mentionnez Gym Logbook dans votre demande.",
+        "ar": "يمكن لـ Gemini بدء التمرين وتسجيل المجموعات وتوقيت الاستراحة وإنهاء التمرين، ليبقى هاتفك في جيبك. اذكر Gym Logbook في طلبك."
+      },
+      "intro.start.title": {
+        "en": "Start a workout",
+        "ru": "Начать тренировку",
+        "hy": "Սկսել մարզում",
+        "sv": "Starta ett träningspass",
+        "nb": "Start en økt",
+        "nl": "Een training starten",
+        "da": "Start en træning",
+        "pl": "Rozpocznij trening",
+        "fr": "Démarrer un entraînement",
+        "ar": "ابدأ تمرينًا"
+      },
+      "intro.start.body": {
+        "en": "Ask Gemini to “start Push Day in Gym Logbook”. Without a template name it lists your templates; a Balanced or empty workout starts in the app.",
+        "ru": "Попросите Gemini: «Начни Push Day в Gym Logbook». Без названия шаблона он перечислит ваши шаблоны; сбалансированная или пустая тренировка начинается в приложении.",
+        "hy": "Ասեք Gemini-ին՝ «Սկսիր Push Day-ը Gym Logbook-ում»։ Առանց ձևանմուշի անվան այն կթվարկի ձեր ձևանմուշները, իսկ հավասարակշռված կամ դատարկ մարզումը սկսվում է հավելվածում։",
+        "sv": "Be Gemini att ”starta Push Day i Gym Logbook”. Utan mallnamn listar den dina mallar; ett balanserat eller tomt pass startar i appen.",
+        "nb": "Be Gemini om å «starte Push Day i Gym Logbook». Uten malnavn lister den opp malene dine; en balansert eller tom økt starter i appen.",
+        "nl": "Vraag Gemini om ‘Push Day te starten in Gym Logbook’. Zonder sjabloonnaam somt hij je sjablonen op; een gebalanceerde of lege training start je in de app.",
+        "da": "Bed Gemini om at »starte Push Day i Gym Logbook«. Uden et skabelonnavn opremser den dine skabeloner; en balanceret eller tom træning startes i appen.",
+        "pl": "Poproś Gemini: „Rozpocznij Push Day w Gym Logbook”. Bez nazwy szablonu wymieni Twoje szablony; trening zrównoważony lub pusty rozpoczniesz w aplikacji.",
+        "fr": "Demandez à Gemini de « démarrer Push Day dans Gym Logbook ». Sans nom de modèle, il énumère vos modèles ; une séance équilibrée ou vide se démarre dans l’app.",
+        "ar": "اطلب من Gemini: «ابدأ Push Day في Gym Logbook». من دون اسم قالب يسرد قوالبك، أما التمرين المتوازن أو الفارغ فيبدأ من التطبيق."
+      },
+      "intro.log.title": {
+        "en": "Log a set",
+        "ru": "Записать подход",
+        "hy": "Գրանցել մոտեցում",
+        "sv": "Logga ett set",
+        "nb": "Loggfør et sett",
+        "nl": "Een set loggen",
+        "da": "Log et sæt",
+        "pl": "Zapisz serię",
+        "fr": "Noter une série",
+        "ar": "سجّل مجموعة"
+      },
+      "intro.log.body": {
+        "en": "Say “log 80 kilos for 8 in Gym Logbook”. “Same again” repeats the set before it, “undo that” takes back the last set logged by voice, and “apply last time” fills in last session’s numbers.",
+        "ru": "Скажите: «Запиши 80 кг на 8 повторений в Gym Logbook». «Так же» повторит предыдущий подход, «отмени» уберёт последний подход, записанный голосом, а «как в прошлый раз» подставит числа прошлой тренировки.",
+        "hy": "Ասեք՝ «Գրանցիր 80 կգ 8 կրկնությամբ Gym Logbook-ում»։ «Նույնը» կկրկնի նախորդ մոտեցումը, «չեղարկիր» կհեռացնի ձայնով գրանցված վերջին մոտեցումը, իսկ «ինչպես նախորդ անգամ» կլրացնի նախորդ մարզման թվերը։",
+        "sv": "Säg ”logga 80 kilo gånger 8 i Gym Logbook”. ”Samma igen” upprepar setet innan, ”ångra det” tar tillbaka det senaste setet som loggades med rösten och ”som förra gången” fyller i siffrorna från förra passet.",
+        "nb": "Si «loggfør 80 kilo ganger 8 i Gym Logbook». «Det samme igjen» gjentar settet før, «angre det» tar tilbake det siste settet som ble loggført med stemmen, og «som forrige gang» fyller inn tallene fra forrige økt.",
+        "nl": "Zeg ‘log 80 kilo keer 8 in Gym Logbook’. ‘Hetzelfde nog eens’ herhaalt de vorige set, ‘maak dat ongedaan’ haalt de laatste set weg die met je stem is gelogd en ‘zoals vorige keer’ vult de cijfers van de vorige training in.",
+        "da": "Sig »log 80 kilo gange 8 i Gym Logbook«. »Det samme igen« gentager sættet før, »fortryd det« fjerner det seneste sæt, der blev logget med stemmen, og »som sidste gang« udfylder tallene fra sidste træning.",
+        "pl": "Powiedz: „Zapisz 80 kilo na 8 powtórzeń w Gym Logbook”. „To samo jeszcze raz” powtarza poprzednią serię, „cofnij to” usuwa ostatnią serię zapisaną głosem, a „jak ostatnio” wpisuje liczby z poprzedniego treningu.",
+        "fr": "Dites « note 80 kilos pour 8 dans Gym Logbook ». « Pareil » répète la série précédente, « annule ça » retire la dernière série notée à la voix et « comme la dernière fois » reprend les chiffres de la séance précédente.",
+        "ar": "قل: «سجّل 80 كيلو لـ 8 تكرارات في Gym Logbook». «نفس الشيء مرة أخرى» يكرر المجموعة السابقة، و«تراجع» يلغي آخر مجموعة سُجّلت بالصوت، و«مثل المرة السابقة» يملأ أرقام التمرين السابق."
+      },
+      "intro.around.title": {
+        "en": "Rest, what’s next and finish",
+        "ru": "Отдых, что дальше, завершение",
+        "hy": "Հանգիստ, հաջորդը և ավարտ",
+        "sv": "Vila, nästa och avsluta",
+        "nb": "Hvile, neste og avslutt",
+        "nl": "Rust, wat nu en afronden",
+        "da": "Hvile, næste og afslut",
+        "pl": "Odpoczynek, co dalej i koniec",
+        "fr": "Repos, la suite et terminer",
+        "ar": "الاستراحة والتالي والإنهاء"
+      },
+      "intro.around.body": {
+        "en": "“Start rest” starts your rest timer and “stop rest” ends it. “Where am I” and “what’s next” read back the session. “Finish my workout” asks before it saves.",
+        "ru": "«Начни отдых» запускает таймер отдыха, «останови отдых» — завершает его. «Где я» и «что дальше» напомнят, где вы в тренировке. «Заверши тренировку» сначала спросит, потом сохранит.",
+        "hy": "«Սկսիր հանգիստը» գործարկում է հանգստի ժամաչափը, «կանգնեցրու հանգիստը»՝ ավարտում։ «Որտե՞ղ եմ» և «ի՞նչ է հաջորդը» կհիշեցնեն, թե որտեղ եք մարզման մեջ։ «Ավարտիր մարզումը» նախ կհարցնի, հետո կպահի։",
+        "sv": "”Starta vila” startar vilotimern och ”stoppa vila” avslutar den. ”Var är jag” och ”vad är nästa” berättar var du är i passet. ”Avsluta mitt träningspass” frågar innan det sparas.",
+        "nb": "«Start hvile» starter hviletimeren og «stopp hvile» avslutter den. «Hvor er jeg» og «hva er det neste» forteller hvor du er i økta. «Avslutt økta mi» spør før den lagrer.",
+        "nl": "‘Start rust’ start je rusttimer en ‘stop rust’ beëindigt hem. ‘Waar ben ik’ en ‘wat is het volgende’ vertellen waar je bent in je training. ‘Rond mijn training af’ vraagt het eerst voordat er wordt opgeslagen.",
+        "da": "»Start hvile« starter hvile-timeren, og »stop hvile« afslutter den. »Hvor er jeg« og »hvad er det næste« fortæller, hvor du er i træningen. »Afslut min træning« spørger, før den gemmer.",
+        "pl": "„Rozpocznij odpoczynek” uruchamia minutnik odpoczynku, a „zatrzymaj odpoczynek” go kończy. „Gdzie jestem” i „co dalej” mówią, w którym miejscu treningu jesteś. „Zakończ trening” najpierw zapyta, a potem zapisze.",
+        "fr": "« Lance le repos » démarre le minuteur de repos et « arrête le repos » le termine. « Où j’en suis » et « quelle est la suite » vous situent dans la séance. « Termine mon entraînement » demande confirmation avant d’enregistrer.",
+        "ar": "«ابدأ الاستراحة» يشغّل مؤقت الاستراحة و«أوقف الاستراحة» ينهيه. «أين أنا» و«ما التالي» يخبرانك بموضعك في التمرين. «أنهِ تمريني» يسألك قبل الحفظ."
+      },
+      "intro.limits.title": {
+        "en": "Gemini and Google Assistant",
+        "ru": "Gemini и Google Ассистент",
+        "hy": "Gemini և Google Assistant",
+        "sv": "Gemini och Google Assistent",
+        "nb": "Gemini og Google Assistent",
+        "nl": "Gemini en Google Assistent",
+        "da": "Gemini og Google Assistent",
+        "pl": "Gemini i Asystent Google",
+        "fr": "Gemini et l’Assistant Google",
+        "ar": "Gemini و«مساعد Google»"
+      },
+      "intro.limits.body": {
+        "en": "Gemini needs Android 16 or later. Google Assistant can start, stop or show your workout, and opens the app to do it. Speak in the language your assistant is set to, not the app language.",
+        "ru": "Gemini работает на Android 16 и новее. Google Ассистент может начать, остановить или показать тренировку — для этого он открывает приложение. Говорите на языке ассистента, а не на языке приложения.",
+        "hy": "Gemini-ն աշխատում է Android 16 և ավելի նոր տարբերակներում։ Google Assistant-ը կարող է սկսել, կանգնեցնել կամ ցույց տալ մարզումը՝ դրա համար բացելով հավելվածը։ Խոսեք օգնականի լեզվով, ոչ թե հավելվածի։",
+        "sv": "Gemini kräver Android 16 eller senare. Google Assistent kan starta, stoppa eller visa ditt pass och öppnar appen för att göra det. Tala på det språk din assistent är inställd på, inte appens språk.",
+        "nb": "Gemini krever Android 16 eller nyere. Google Assistent kan starte, stoppe eller vise økta di, og åpner appen for å gjøre det. Snakk på språket assistenten er satt til, ikke appens språk.",
+        "nl": "Gemini werkt vanaf Android 16. Google Assistent kan je training starten, stoppen of tonen en opent daarvoor de app. Spreek in de taal van je assistent, niet in die van de app.",
+        "da": "Gemini kræver Android 16 eller nyere. Google Assistent kan starte, stoppe eller vise din træning og åbner appen for at gøre det. Tal på det sprog, din assistent er indstillet til, ikke appens sprog.",
+        "pl": "Gemini wymaga Androida 16 lub nowszego. Asystent Google może rozpocząć, zatrzymać lub pokazać trening, otwierając w tym celu aplikację. Mów w języku ustawionym w asystencie, nie w języku aplikacji.",
+        "fr": "Gemini nécessite Android 16 ou une version ultérieure. L’Assistant Google peut démarrer, arrêter ou afficher votre entraînement en ouvrant l’app. Parlez dans la langue de votre assistant, pas dans celle de l’app.",
+        "ar": "يتطلب Gemini نظام Android 16 أو أحدث. يمكن لـ«مساعد Google» بدء تمرينك أو إيقافه أو عرضه، ويفتح التطبيق لذلك. تحدّث بلغة المساعد، لا بلغة التطبيق."
+      },
+      "settings.intro": {
+        "en": "How voice works in Gym Logbook",
+        "ru": "Как голосовое управление работает в Gym Logbook",
+        "hy": "Ինչպես է ձայնային կառավարումն աշխատում Gym Logbook-ում",
+        "sv": "Så fungerar röststyrning i Gym Logbook",
+        "nb": "Slik fungerer stemmestyring i Gym Logbook",
+        "nl": "Zo werkt spraakbediening in Gym Logbook",
+        "da": "Sådan fungerer stemmestyring i Gym Logbook",
+        "pl": "Jak działa sterowanie głosem w Gym Logbook",
+        "fr": "Comment fonctionne la commande vocale dans Gym Logbook",
+        "ar": "كيف يعمل التحكم الصوتي في Gym Logbook"
+      },
+      "settings.examples.header": {
+        "en": "Try saying",
+        "ru": "Попробуйте сказать",
+        "hy": "Փորձեք ասել",
+        "sv": "Prova att säga",
+        "nb": "Prøv å si",
+        "nl": "Probeer te zeggen",
+        "da": "Prøv at sige",
+        "pl": "Spróbuj powiedzieć",
+        "fr": "Essayez de dire",
+        "ar": "جرّب أن تقول"
+      },
+      "settings.examples.footer": {
+        "en": "Say the phrases to Gemini or Google Assistant, mention Gym Logbook, and use the language your assistant is set to.",
+        "ru": "Говорите фразы Gemini или Google Ассистенту, упоминайте Gym Logbook и используйте язык, выбранный в ассистенте.",
+        "hy": "Ասեք արտահայտությունները Gemini-ին կամ Google Assistant-ին, նշեք Gym Logbook-ը և օգտագործեք օգնականի լեզուն։",
+        "sv": "Säg fraserna till Gemini eller Google Assistent, nämn Gym Logbook och använd språket din assistent är inställd på.",
+        "nb": "Si frasene til Gemini eller Google Assistent, nevn Gym Logbook og bruk språket assistenten er satt til.",
+        "nl": "Zeg de zinnen tegen Gemini of Google Assistent, noem Gym Logbook en gebruik de taal van je assistent.",
+        "da": "Sig sætningerne til Gemini eller Google Assistent, nævn Gym Logbook, og brug det sprog, din assistent er indstillet til.",
+        "pl": "Mów te frazy do Gemini lub Asystenta Google, wspominaj o Gym Logbook i używaj języka ustawionego w asystencie.",
+        "fr": "Dites ces phrases à Gemini ou à l’Assistant Google, mentionnez Gym Logbook et utilisez la langue de votre assistant.",
+        "ar": "قل هذه العبارات لـ Gemini أو «مساعد Google»، واذكر Gym Logbook، واستخدم اللغة المضبوطة في المساعد."
+      }
+    },
+    "Watch": {
+      "empty.title": {
+        "en": "Start a workout on your phone",
+        "ru": "Начните тренировку на телефоне",
+        "hy": "Սկսեք մարզումը հեռախոսում",
+        "sv": "Starta ett träningspass på telefonen",
+        "nb": "Start en økt på telefonen",
+        "nl": "Start een training op je telefoon",
+        "da": "Start en træning på telefonen",
+        "pl": "Rozpocznij trening na telefonie",
+        "fr": "Démarrez un entraînement sur votre téléphone",
+        "ar": "ابدأ تمرينًا على هاتفك"
+      },
+      "empty.openApp": {
+        "en": "Open Gym Logbook on your phone",
+        "ru": "Откройте Gym Logbook на телефоне",
+        "hy": "Բացեք Gym Logbook-ը հեռախոսում",
+        "sv": "Öppna Gym Logbook på telefonen",
+        "nb": "Åpne Gym Logbook på telefonen",
+        "nl": "Open Gym Logbook op je telefoon",
+        "da": "Åbn Gym Logbook på telefonen",
+        "pl": "Otwórz Gym Logbook na telefonie",
+        "fr": "Ouvrez Gym Logbook sur votre téléphone",
+        "ar": "افتح Gym Logbook على هاتفك"
+      },
+      "empty.footer": {
+        "en": "Your session will appear here",
+        "ru": "Тренировка появится здесь",
+        "hy": "Մարզումը կհայտնվի այստեղ",
+        "sv": "Ditt pass visas här",
+        "nb": "Økta di vises her",
+        "nl": "Je training verschijnt hier",
+        "da": "Din træning vises her",
+        "pl": "Twój trening pojawi się tutaj",
+        "fr": "Votre séance apparaîtra ici",
+        "ar": "ستظهر جلستك هنا"
+      },
+      "log.onPhone": {
+        "en": "Log this exercise on your phone",
+        "ru": "Запишите это упражнение на телефоне",
+        "hy": "Գրանցեք այս վարժությունը հեռախոսում",
+        "sv": "Logga den här övningen på telefonen",
+        "nb": "Loggfør denne øvelsen på telefonen",
+        "nl": "Log deze oefening op je telefoon",
+        "da": "Log denne øvelse på telefonen",
+        "pl": "Zapisz to ćwiczenie na telefonie",
+        "fr": "Notez cet exercice sur votre téléphone",
+        "ar": "سجّل هذا التمرين على هاتفك"
+      },
+      "phone.unreachable": {
+        "en": "Phone not reachable",
+        "ru": "Телефон недоступен",
+        "hy": "Հեռախոսը հասանելի չէ",
+        "sv": "Telefonen kan inte nås",
+        "nb": "Telefonen er utilgjengelig",
+        "nl": "Telefoon niet bereikbaar",
+        "da": "Telefonen kan ikke nås",
+        "pl": "Telefon jest niedostępny",
+        "fr": "Téléphone injoignable",
+        "ar": "الهاتف غير متاح"
+      },
+      "rest.refused": {
+        "en": "Your phone didn’t start the rest",
+        "ru": "Телефон не запустил отдых",
+        "hy": "Հեռախոսը չսկսեց հանգիստը",
+        "sv": "Telefonen startade inte vilan",
+        "nb": "Telefonen startet ikke hvilen",
+        "nl": "Je telefoon heeft de rust niet gestart",
+        "da": "Telefonen startede ikke hvilen",
+        "pl": "Telefon nie rozpoczął odpoczynku",
+        "fr": "Le téléphone n’a pas lancé le repos",
+        "ar": "لم يبدأ هاتفك الاستراحة"
+      },
+      "formGuide.failed": {
+        "en": "Couldn’t load form guide",
+        "ru": "Не удалось загрузить технику выполнения",
+        "hy": "Չհաջողվեց բեռնել կատարման տեխնիկան",
+        "sv": "Det gick inte att läsa in teknikguiden",
+        "nb": "Kunne ikke laste inn teknikkguiden",
+        "nl": "Kan uitvoeringsgids niet laden",
+        "da": "Kunne ikke indlæse teknikguiden",
+        "pl": "Nie udało się wczytać instrukcji techniki",
+        "fr": "Impossible de charger le guide d’exécution",
+        "ar": "تعذّر تحميل دليل الأداء"
+      },
+      "loading": {
+        "en": "Loading…",
+        "ru": "Загрузка…",
+        "hy": "Բեռնվում է…",
+        "sv": "Läser in…",
+        "nb": "Laster inn…",
+        "nl": "Laden…",
+        "da": "Indlæser…",
+        "pl": "Wczytywanie…",
+        "fr": "Chargement…",
+        "ar": "جارٍ التحميل…"
+      },
+      "rest.resting": {
+        "en": "Resting",
+        "ru": "Отдых",
+        "hy": "Հանգիստ",
+        "sv": "Vilar",
+        "nb": "Hviler",
+        "nl": "Rust",
+        "da": "Hviler",
+        "pl": "Odpoczynek",
+        "fr": "Repos en cours",
+        "ar": "استراحة"
+      },
+      "rest.hide": {
+        "en": "Hide rest timer",
+        "ru": "Скрыть таймер отдыха",
+        "hy": "Թաքցնել հանգստի ժամաչափը",
+        "sv": "Dölj vilotimern",
+        "nb": "Skjul hviletimeren",
+        "nl": "Rusttimer verbergen",
+        "da": "Skjul hvile-timeren",
+        "pl": "Ukryj minutnik odpoczynku",
+        "fr": "Masquer le minuteur de repos",
+        "ar": "إخفاء مؤقت الاستراحة"
+      },
+      "rest.addFifteen": {
+        "en": "Add 15 seconds",
+        "ru": "Добавить 15 секунд",
+        "hy": "Ավելացնել 15 վայրկյան",
+        "sv": "Lägg till 15 sekunder",
+        "nb": "Legg til 15 sekunder",
+        "nl": "15 seconden toevoegen",
+        "da": "Tilføj 15 sekunder",
+        "pl": "Dodaj 15 sekund",
+        "fr": "Ajouter 15 secondes",
+        "ar": "إضافة 15 ثانية"
+      },
+      "rest.stopwatchHint": {
+        "en": "Counts up until you stop it",
+        "ru": "Считает время, пока вы его не остановите",
+        "hy": "Հաշվում է, մինչև կանգնեցնեք",
+        "sv": "Räknar uppåt tills du stoppar det",
+        "nb": "Teller opp til du stopper den",
+        "nl": "Telt op tot je hem stopt",
+        "da": "Tæller op, indtil du stopper det",
+        "pl": "Liczy w górę, dopóki go nie zatrzymasz",
+        "fr": "Compte jusqu’à ce que vous l’arrêtiez",
+        "ar": "يعدّ تصاعديًا حتى توقفه"
+      },
+      "rest.options": {
+        "en": "Rest options",
+        "ru": "Настройки отдыха",
+        "hy": "Հանգստի կարգավորումներ",
+        "sv": "Vilaalternativ",
+        "nb": "Hvilealternativer",
+        "nl": "Rustopties",
+        "da": "Hvileindstillinger",
+        "pl": "Opcje odpoczynku",
+        "fr": "Options de repos",
+        "ar": "خيارات الاستراحة"
+      },
+      "heartRate.noReading": {
+        "en": "Heart rate, no reading",
+        "ru": "Пульс, нет данных",
+        "hy": "Զարկերակ, տվյալ չկա",
+        "sv": "Puls, ingen mätning",
+        "nb": "Puls, ingen måling",
+        "nl": "Hartslag, geen meting",
+        "da": "Puls, ingen måling",
+        "pl": "Tętno, brak odczytu",
+        "fr": "Fréquence cardiaque, aucune mesure",
+        "ar": "معدل ضربات القلب، لا توجد قراءة"
+      }
+    },
     "Pane": {
       "moveToOtherSide": {
         "en": "Move to the other side",
@@ -26213,6 +27527,298 @@
         "pl": "Nie było nic do wyświetlenia. Dziękujemy za chęć.",
         "fr": "Rien n'était disponible. Merci d'avoir proposé.",
         "ar": "لم يتوفر شيء لعرضه. شكرًا على مبادرتك."
+      }
+    },
+    "Machine": {
+      "chip.label": {
+        "en": "Machine",
+        "ru": "Тренажёр",
+        "hy": "Մարզասարք",
+        "sv": "Maskin",
+        "nb": "Maskin",
+        "nl": "Machine",
+        "da": "Maskine",
+        "pl": "Maszyna",
+        "fr": "Machine",
+        "ar": "الجهاز"
+      },
+      "picker.title": {
+        "en": "Machine",
+        "ru": "Тренажёр",
+        "hy": "Մարզասարք",
+        "sv": "Maskin",
+        "nb": "Maskin",
+        "nl": "Machine",
+        "da": "Maskine",
+        "pl": "Maszyna",
+        "fr": "Machine",
+        "ar": "الجهاز"
+      },
+      "notSpecified": {
+        "en": "Not specified",
+        "ru": "Не указан",
+        "hy": "Նշված չէ",
+        "sv": "Inte angiven",
+        "nb": "Ikke angitt",
+        "nl": "Niet opgegeven",
+        "da": "Ikke angivet",
+        "pl": "Nie wybrano",
+        "fr": "Non précisée",
+        "ar": "غير محدد"
+      },
+      "new": {
+        "en": "New machine",
+        "ru": "Новый тренажёр",
+        "hy": "Նոր մարզասարք",
+        "sv": "Ny maskin",
+        "nb": "Ny maskin",
+        "nl": "Nieuwe machine",
+        "da": "Ny maskine",
+        "pl": "Nowa maszyna",
+        "fr": "Nouvelle machine",
+        "ar": "جهاز جديد"
+      },
+      "namePlaceholder": {
+        "en": "Name, e.g. Gym cable – 4 rollers",
+        "ru": "Название, напр. Блок в зале – 4 ролика",
+        "hy": "Անուն, օր.՝ Ճոպանային սարք – 4 գլան",
+        "sv": "Namn, t.ex. Kabelmaskin – 4 trissor",
+        "nb": "Navn, f.eks. Kabelmaskin – 4 trinser",
+        "nl": "Naam, bv. Kabelstation – 4 katrollen",
+        "da": "Navn, f.eks. Kabelmaskine – 4 trisser",
+        "pl": "Nazwa, np. Wyciąg – 4 rolki",
+        "fr": "Nom, ex. Poulie – 4 roulettes",
+        "ar": "الاسم، مثل: جهاز الكابل – 4 بكرات"
+      },
+      "notRecorded": {
+        "en": "Machine not recorded",
+        "ru": "Тренажёр не указан",
+        "hy": "Մարզասարքը նշված չէ",
+        "sv": "Maskin inte registrerad",
+        "nb": "Maskin ikke registrert",
+        "nl": "Machine niet vastgelegd",
+        "da": "Maskine ikke registreret",
+        "pl": "Maszyna nie zapisana",
+        "fr": "Machine non enregistrée",
+        "ar": "لم يُسجَّل الجهاز"
+      },
+      "track.toggle": {
+        "en": "Track machine",
+        "ru": "Указывать тренажёр",
+        "hy": "Նշել մարզասարքը",
+        "sv": "Ange maskin",
+        "nb": "Angi maskin",
+        "nl": "Machine bijhouden",
+        "da": "Angiv maskine",
+        "pl": "Zapisuj maszynę",
+        "fr": "Suivre la machine",
+        "ar": "تتبّع الجهاز"
+      },
+      "manage.title": {
+        "en": "Machines",
+        "ru": "Тренажёры",
+        "hy": "Մարզասարքեր",
+        "sv": "Maskiner",
+        "nb": "Maskiner",
+        "nl": "Machines",
+        "da": "Maskiner",
+        "pl": "Maszyny",
+        "fr": "Machines",
+        "ar": "الأجهزة"
+      },
+      "manage.footer": {
+        "en": "Each machine keeps its own hints and records. Deleting a machine keeps your history.",
+        "ru": "У каждого тренажёра свои подсказки и рекорды. Удаление тренажёра не удаляет историю.",
+        "hy": "Յուրաքանչյուր մարզասարք ունի իր հուշումներն ու ռեկորդները։ Մարզասարքը ջնջելիս պատմությունը պահպանվում է։",
+        "sv": "Varje maskin har egna tips och rekord. Om du tar bort en maskin finns historiken kvar.",
+        "nb": "Hver maskin har egne hint og rekorder. Sletter du en maskin, beholdes historikken.",
+        "nl": "Elke machine heeft eigen hints en records. Een machine verwijderen behoudt je geschiedenis.",
+        "da": "Hver maskine har egne tips og rekorder. Sletter du en maskine, bevares historikken.",
+        "pl": "Każda maszyna ma własne podpowiedzi i rekordy. Usunięcie maszyny zachowuje historię.",
+        "fr": "Chaque machine a ses propres suggestions et records. Supprimer une machine conserve votre historique.",
+        "ar": "لكل جهاز تلميحاته وأرقامه القياسية. حذف الجهاز يحتفظ بسجلك."
+      },
+      "manage.empty": {
+        "en": "No machines yet",
+        "ru": "Тренажёров пока нет",
+        "hy": "Մարզասարքեր դեռ չկան",
+        "sv": "Inga maskiner än",
+        "nb": "Ingen maskiner ennå",
+        "nl": "Nog geen machines",
+        "da": "Ingen maskiner endnu",
+        "pl": "Brak maszyn",
+        "fr": "Aucune machine",
+        "ar": "لا توجد أجهزة بعد"
+      },
+      "rename": {
+        "en": "Rename",
+        "ru": "Переименовать",
+        "hy": "Վերանվանել",
+        "sv": "Byt namn",
+        "nb": "Gi nytt navn",
+        "nl": "Naam wijzigen",
+        "da": "Omdøb",
+        "pl": "Zmień nazwę",
+        "fr": "Renommer",
+        "ar": "إعادة تسمية"
+      },
+      "delete": {
+        "en": "Delete",
+        "ru": "Удалить",
+        "hy": "Ջնջել",
+        "sv": "Ta bort",
+        "nb": "Slett",
+        "nl": "Verwijderen",
+        "da": "Slet",
+        "pl": "Usuń",
+        "fr": "Supprimer",
+        "ar": "حذف"
+      }
+    },
+    "Setup": {
+      "title": {
+        "en": "Setup",
+        "ru": "Настройка",
+        "hy": "Կարգավորում",
+        "sv": "Inställning",
+        "nb": "Innstilling",
+        "nl": "Instelling",
+        "da": "Indstilling",
+        "pl": "Ustawienia",
+        "fr": "Réglages",
+        "ar": "الإعداد"
+      },
+      "add": {
+        "en": "Add row",
+        "ru": "Добавить строку",
+        "hy": "Ավելացնել տող",
+        "sv": "Lägg till rad",
+        "nb": "Legg til rad",
+        "nl": "Rij toevoegen",
+        "da": "Tilføj række",
+        "pl": "Dodaj wiersz",
+        "fr": "Ajouter une ligne",
+        "ar": "إضافة صف"
+      },
+      "edit": {
+        "en": "Machine setup",
+        "ru": "Настройка тренажёра",
+        "hy": "Մարզասարքի կարգավորում",
+        "sv": "Maskininställning",
+        "nb": "Maskininnstilling",
+        "nl": "Machine-instelling",
+        "da": "Maskineindstilling",
+        "pl": "Ustawienia maszyny",
+        "fr": "Réglages de la machine",
+        "ar": "إعداد الجهاز"
+      },
+      "last": {
+        "en": "Last setup: %@",
+        "ru": "Прошлая настройка: %@",
+        "hy": "Նախորդ կարգավորում՝ %@",
+        "sv": "Senast: %@",
+        "nb": "Sist: %@",
+        "nl": "Vorige keer: %@",
+        "da": "Sidst: %@",
+        "pl": "Ostatnio: %@",
+        "fr": "Dernier réglage : %@",
+        "ar": "الإعداد السابق: %@"
+      },
+      "label.seat": {
+        "en": "Seat",
+        "ru": "Сиденье",
+        "hy": "Նստատեղ",
+        "sv": "Säte",
+        "nb": "Sete",
+        "nl": "Zitting",
+        "da": "Sæde",
+        "pl": "Siedzisko",
+        "fr": "Siège",
+        "ar": "المقعد"
+      },
+      "label.backPad": {
+        "en": "Back pad",
+        "ru": "Спинка",
+        "hy": "Թիկնակ",
+        "sv": "Ryggstöd",
+        "nb": "Ryggstøtte",
+        "nl": "Rugsteun",
+        "da": "Ryglæn",
+        "pl": "Oparcie",
+        "fr": "Dossier",
+        "ar": "مسند الظهر"
+      },
+      "label.pin": {
+        "en": "Pin",
+        "ru": "Штифт",
+        "hy": "Քորոց",
+        "sv": "Sprint",
+        "nb": "Pinne",
+        "nl": "Pen",
+        "da": "Pind",
+        "pl": "Bolec",
+        "fr": "Goupille",
+        "ar": "المسمار"
+      },
+      "label.pulleyHeight": {
+        "en": "Pulley height",
+        "ru": "Высота блока",
+        "hy": "Ճախարակի բարձրություն",
+        "sv": "Trisshöjd",
+        "nb": "Trinsehøyde",
+        "nl": "Katrolhoogte",
+        "da": "Trissehøjde",
+        "pl": "Wysokość wyciągu",
+        "fr": "Hauteur de poulie",
+        "ar": "ارتفاع البكرة"
+      },
+      "label.handle": {
+        "en": "Handle",
+        "ru": "Рукоять",
+        "hy": "Բռնակ",
+        "sv": "Handtag",
+        "nb": "Håndtak",
+        "nl": "Handvat",
+        "da": "Håndtag",
+        "pl": "Uchwyt",
+        "fr": "Poignée",
+        "ar": "المقبض"
+      },
+      "label.custom": {
+        "en": "Own label",
+        "ru": "Своя метка",
+        "hy": "Սեփական պիտակ",
+        "sv": "Egen etikett",
+        "nb": "Egen etikett",
+        "nl": "Eigen label",
+        "da": "Egen etiket",
+        "pl": "Własna etykieta",
+        "fr": "Libellé perso",
+        "ar": "تسمية مخصصة"
+      },
+      "value": {
+        "en": "Value",
+        "ru": "Значение",
+        "hy": "Արժեք",
+        "sv": "Värde",
+        "nb": "Verdi",
+        "nl": "Waarde",
+        "da": "Værdi",
+        "pl": "Wartość",
+        "fr": "Valeur",
+        "ar": "القيمة"
+      },
+      "edit.footer": {
+        "en": "Saved with this workout. Next time it's shown as your last setup.",
+        "ru": "Сохраняется с этой тренировкой. В следующий раз появится как прошлая настройка.",
+        "hy": "Պահվում է այս մարզման հետ։ Հաջորդ անգամ կցուցադրվի որպես նախորդ կարգավորում։",
+        "sv": "Sparas med passet. Nästa gång visas den som senaste inställning.",
+        "nb": "Lagres med økten. Neste gang vises den som siste innstilling.",
+        "nl": "Wordt bij deze training bewaard. De volgende keer zie je het als vorige instelling.",
+        "da": "Gemmes med træningen. Næste gang vises den som seneste indstilling.",
+        "pl": "Zapisywane z tym treningiem. Następnym razem pojawi się jako ostatnie ustawienie.",
+        "fr": "Enregistré avec cette séance. La prochaine fois, il s'affichera comme dernier réglage.",
+        "ar": "يُحفظ مع هذا التمرين. في المرة القادمة يظهر كإعدادك السابق."
       }
     }
   }
