@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1790985266,
+  "lastSyncedAt": 1791008970,
   "strings": {
     "Misc": {
       "": {
@@ -27673,6 +27673,42 @@
         "pl": "Usuń",
         "fr": "Supprimer",
         "ar": "حذف"
+      },
+      "guide.header": {
+        "en": "Machine & setup",
+        "ru": "Тренажёр и настройка",
+        "hy": "Մարզասարք և կարգավորում",
+        "sv": "Maskin och inställning",
+        "nb": "Maskin og innstilling",
+        "nl": "Machine en instelling",
+        "da": "Maskine og indstilling",
+        "pl": "Maszyna i ustawienia",
+        "fr": "Machine et réglages",
+        "ar": "الجهاز والإعداد"
+      },
+      "guide.footer": {
+        "en": "Your next workout with this exercise starts on this machine and offers this setup.",
+        "ru": "Следующая тренировка с этим упражнением начнётся на этом тренажёре и предложит эту настройку.",
+        "hy": "Այս վարժությամբ հաջորդ մարզումը կսկսվի այս մարզասարքով և կառաջարկի այս կարգավորումը։",
+        "sv": "Nästa pass med den här övningen börjar på den här maskinen och föreslår den här inställningen.",
+        "nb": "Neste økt med denne øvelsen starter på denne maskinen og foreslår denne innstillingen.",
+        "nl": "Je volgende training met deze oefening start op deze machine en stelt deze instelling voor.",
+        "da": "Næste træning med denne øvelse starter på denne maskine og foreslår denne indstilling.",
+        "pl": "Następny trening z tym ćwiczeniem zacznie się na tej maszynie i zaproponuje te ustawienia.",
+        "fr": "Votre prochaine séance avec cet exercice commencera sur cette machine et proposera ces réglages.",
+        "ar": "سيبدأ تمرينك القادم بهذا التمرين على هذا الجهاز ويقترح هذا الإعداد."
+      },
+      "guide.footerWorkout": {
+        "en": "Changes apply to this exercise in the current workout and become its new default.",
+        "ru": "Изменения применяются к этому упражнению в текущей тренировке и становятся его новыми значениями по умолчанию.",
+        "hy": "Փոփոխությունները կիրառվում են այս վարժության վրա ընթացիկ մարզման մեջ և դառնում են նրա նոր լռելյայն արժեքները։",
+        "sv": "Ändringarna gäller övningen i det pågående passet och blir dess nya standard.",
+        "nb": "Endringene gjelder øvelsen i den pågående økten og blir den nye standarden.",
+        "nl": "Wijzigingen gelden voor deze oefening in de huidige training en worden de nieuwe standaard.",
+        "da": "Ændringerne gælder øvelsen i den igangværende træning og bliver dens nye standard.",
+        "pl": "Zmiany dotyczą tego ćwiczenia w bieżącym treningu i stają się nowymi ustawieniami domyślnymi.",
+        "fr": "Les modifications s’appliquent à cet exercice dans la séance en cours et deviennent ses nouveaux réglages par défaut.",
+        "ar": "تُطبَّق التغييرات على هذا التمرين في التمرين الحالي وتصبح الإعداد الافتراضي الجديد."
       }
     },
     "Setup": {
@@ -27689,16 +27725,16 @@
         "ar": "الإعداد"
       },
       "add": {
-        "en": "Add row",
-        "ru": "Добавить строку",
-        "hy": "Ավելացնել տող",
-        "sv": "Lägg till rad",
-        "nb": "Legg til rad",
-        "nl": "Rij toevoegen",
-        "da": "Tilføj række",
-        "pl": "Dodaj wiersz",
-        "fr": "Ajouter une ligne",
-        "ar": "إضافة صف"
+        "en": "Add your own setting",
+        "ru": "Добавить свою настройку",
+        "hy": "Ավելացնել սեփական կարգավորում",
+        "sv": "Lägg till egen inställning",
+        "nb": "Legg til egen innstilling",
+        "nl": "Eigen instelling toevoegen",
+        "da": "Tilføj egen indstilling",
+        "pl": "Dodaj własne ustawienie",
+        "fr": "Ajouter votre propre réglage",
+        "ar": "إضافة إعداد خاص بك"
       },
       "edit": {
         "en": "Machine setup",
@@ -27819,6 +27855,18 @@
         "pl": "Zapisywane z tym treningiem. Następnym razem pojawi się jako ostatnie ustawienie.",
         "fr": "Enregistré avec cette séance. La prochaine fois, il s'affichera comme dernier réglage.",
         "ar": "يُحفظ مع هذا التمرين. في المرة القادمة يظهر كإعدادك السابق."
+      },
+      "none": {
+        "en": "No setup saved",
+        "ru": "Настройка не сохранена",
+        "hy": "Կարգավորում պահված չէ",
+        "sv": "Ingen inställning sparad",
+        "nb": "Ingen innstilling lagret",
+        "nl": "Geen instelling opgeslagen",
+        "da": "Ingen indstilling gemt",
+        "pl": "Brak zapisanych ustawień",
+        "fr": "Aucun réglage enregistré",
+        "ar": "لا يوجد إعداد محفوظ"
       }
     }
   }
