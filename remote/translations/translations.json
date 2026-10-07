@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1791008970,
+  "lastSyncedAt": 1791338112,
   "strings": {
     "Misc": {
       "": {
@@ -183,6 +183,30 @@
         "pl": "Wygląd",
         "fr": "Apparence",
         "ar": "المظهر"
+      },
+      "rotationLock.footer": {
+        "en": "Keeps the app upright when you turn your phone. Turn it off to use the app in landscape. On iPad, the window's size decides.",
+        "ru": "Приложение не поворачивается вместе с телефоном. Выключите, чтобы пользоваться им в альбомной ориентации. На iPad вид определяется размером окна.",
+        "hy": "Հավելվածը չի պտտվում հեռախոսի հետ։ Անջատեք՝ այն հորիզոնական դիրքում օգտագործելու համար։ iPad-ում տեսքը որոշում է պատուհանի չափը։",
+        "sv": "Appen förblir stående när du vrider telefonen. Stäng av för att använda appen liggande. På iPad avgör fönstrets storlek.",
+        "nb": "Appen holder seg stående når du snur telefonen. Slå av for å bruke appen liggende. På iPad avgjør vindusstørrelsen.",
+        "nl": "De app blijft staand als je je telefoon draait. Zet dit uit om de app liggend te gebruiken. Op iPad bepaalt de venstergrootte het.",
+        "da": "Appen forbliver stående, når du drejer telefonen. Slå fra for at bruge appen liggende. På iPad afgør vinduets størrelse.",
+        "pl": "Aplikacja nie obraca się razem z telefonem. Wyłącz, aby używać jej w poziomie. Na iPadzie decyduje rozmiar okna.",
+        "fr": "L’app reste à la verticale quand vous tournez le téléphone. Désactivez pour l’utiliser en paysage. Sur iPad, la taille de la fenêtre décide.",
+        "ar": "يبقى التطبيق عموديًا عند تدوير الهاتف. أوقف هذا الخيار لاستخدامه أفقيًا. على iPad يحدد حجم النافذة طريقة العرض."
+      },
+      "rotationLock.title": {
+        "en": "Lock to portrait",
+        "ru": "Только портретная ориентация",
+        "hy": "Միայն ուղղաձիգ դիրք",
+        "sv": "Lås till stående",
+        "nb": "Lås til stående",
+        "nl": "Vergrendel staand",
+        "da": "Lås til stående",
+        "pl": "Blokada orientacji pionowej",
+        "fr": "Verrouiller en portrait",
+        "ar": "قفل الوضع العمودي"
       },
       "delete": {
         "en": "Delete account",
@@ -677,16 +701,16 @@
         "ar": "الاسم الكامل"
       },
       "healthKit.footer": {
-        "en": "Sync finished workouts to Apple Health — workout time and optional distance only, never calories.",
-        "ru": "Отправлять завершённые тренировки в Apple Health — только время тренировки и, по желанию, дистанцию. Калории не передаются.",
-        "hy": "Ավարտված մարզումներն ուղարկել Apple Health՝ միայն մարզման ժամանակը և ըստ ցանկության հեռավորությունը։ Կալորիաներ չեն ուղարկվում։",
-        "sv": "Synkronisera avslutade träningspass till Apple Health – endast träningstid och valfri sträcka, aldrig kalorier.",
-        "nb": "Synkroniser fullførte treningsøkter til Apple Health – kun treningstid og valgfri distanse, aldri kalorier.",
-        "nl": "Synchroniseer voltooide trainingen met Apple Health — alleen trainingstijd en optioneel afstand, nooit calorieën.",
-        "da": "Synkroniser afsluttede træningspas til Apple Health – kun træningstid og valgfri distance, aldrig kalorier.",
-        "pl": "Synchronizuj ukończone treningi z Apple Health — tylko czas treningu i opcjonalnie dystans, nigdy kalorie.",
-        "fr": "Synchronisez les entraînements terminés avec Apple Health — durée d'entraînement et distance en option seulement, jamais les calories.",
-        "ar": "مزامنة التمارين المكتملة مع Apple Health — مدة التمرين والمسافة الاختيارية فقط، ولا يتم أبدًا مزامنة السعرات الحرارية."
+        "en": "Sync finished workouts to Apple Health — workout time and optional distance. Energy is written only when the energy estimate is on.",
+        "ru": "Отправлять завершённые тренировки в Apple Health — время тренировки и, по желанию, дистанцию. Энергия передаётся, только если включена оценка энергии.",
+        "hy": "Ավարտված մարզումներն ուղարկել Apple Health՝ մարզման ժամանակը և ըստ ցանկության հեռավորությունը։ Էներգիան ուղարկվում է միայն էներգիայի գնահատումը միացված լինելու դեպքում։",
+        "sv": "Synkronisera avslutade träningspass till Apple Health – träningstid och valfri sträcka. Energi skrivs bara när energiuppskattningen är på.",
+        "nb": "Synkroniser fullførte treningsøkter til Apple Health – treningstid og valgfri distanse. Energi skrives bare når energiestimatet er på.",
+        "nl": "Synchroniseer voltooide trainingen met Apple Health — trainingstijd en optioneel afstand. Energie wordt alleen geschreven als de energieschatting aan staat.",
+        "da": "Synkroniser afsluttede træningspas til Apple Health – træningstid og valgfri distance. Energi skrives kun, når energiestimatet er slået til.",
+        "pl": "Synchronizuj ukończone treningi z Apple Health — czas treningu i opcjonalnie dystans. Energia jest zapisywana tylko przy włączonym szacunku energii.",
+        "fr": "Synchronisez les entraînements terminés avec Apple Health — durée d'entraînement et distance en option. L'énergie n'est écrite que si l'estimation d'énergie est activée.",
+        "ar": "مزامنة التمارين المكتملة مع Apple Health — مدة التمرين والمسافة الاختيارية. لا تُكتب الطاقة إلا عند تشغيل تقدير الطاقة."
       },
       "healthConnect.footer": {
         "en": "Sync finished workouts to Health Connect — workout time and optional distance; energy only when the energy estimate is on.",
@@ -2865,6 +2889,18 @@
         "pl": "Treningi: %lld",
         "fr": "%lld entraînements",
         "ar": "%lld التدريبات"
+      },
+      "workoutCountOne": {
+        "en": "1 workout",
+        "ru": "1 тренировка",
+        "hy": "1 մարզում",
+        "sv": "1 träningspass",
+        "nb": "1 treningsøkt",
+        "nl": "1 training",
+        "da": "1 træning",
+        "pl": "1 trening",
+        "fr": "1 entraînement",
+        "ar": "تدريب واحد"
       }
     },
     "Category": {
@@ -4609,6 +4645,54 @@
         "pl": "Moi zawodnicy",
         "fr": "Mes athlètes",
         "ar": "رياضيّي"
+      },
+      "detail.section.summary": {
+        "en": "Summary",
+        "ru": "Сводка",
+        "hy": "Ամփոփում",
+        "sv": "Sammanfattning",
+        "nb": "Sammendrag",
+        "nl": "Samenvatting",
+        "da": "Oversigt",
+        "pl": "Podsumowanie",
+        "fr": "Résumé",
+        "ar": "ملخص"
+      },
+      "detail.summary.sessions": {
+        "en": "Sessions · last 4 weeks",
+        "ru": "Тренировки · 4 недели",
+        "hy": "Մարզումներ · վերջին 4 շաբաթ",
+        "sv": "Pass · senaste 4 veckorna",
+        "nb": "Økter · siste 4 uker",
+        "nl": "Sessies · laatste 4 weken",
+        "da": "Træninger · seneste 4 uger",
+        "pl": "Treningi · ostatnie 4 tygodnie",
+        "fr": "Séances · 4 dernières semaines",
+        "ar": "الجلسات · آخر 4 أسابيع"
+      },
+      "detail.summary.sets": {
+        "en": "Sets · last 4 weeks",
+        "ru": "Подходы · 4 недели",
+        "hy": "Մոտեցումներ · վերջին 4 շաբաթ",
+        "sv": "Set · senaste 4 veckorna",
+        "nb": "Sett · siste 4 uker",
+        "nl": "Sets · laatste 4 weken",
+        "da": "Sæt · seneste 4 uger",
+        "pl": "Serie · ostatnie 4 tygodnie",
+        "fr": "Séries · 4 dernières semaines",
+        "ar": "المجموعات · آخر 4 أسابيع"
+      },
+      "detail.dose.groups": {
+        "en": "Muscle groups",
+        "ru": "Группы мышц",
+        "hy": "Մկանային խմբեր",
+        "sv": "Muskelgrupper",
+        "nb": "Muskelgrupper",
+        "nl": "Spiergroepen",
+        "da": "Muskelgrupper",
+        "pl": "Grupy mięśni",
+        "fr": "Groupes musculaires",
+        "ar": "المجموعات العضلية"
       }
     },
     "Common": {
@@ -12714,6 +12798,114 @@
         "pl": "Wczoraj",
         "fr": "Hier",
         "ar": "أمس"
+      },
+      "logWorkout": {
+        "en": "Log Workout",
+        "ru": "Записать тренировку",
+        "hy": "Գրանցել մարզում",
+        "sv": "Logga pass",
+        "nb": "Loggfør økt",
+        "nl": "Training vastleggen",
+        "da": "Log træning",
+        "pl": "Zapisz trening",
+        "fr": "Enregistrer une séance",
+        "ar": "تسجيل تمرين"
+      },
+      "logWorkout.chooseExercises": {
+        "en": "Choose Exercises",
+        "ru": "Выбрать упражнения",
+        "hy": "Ընտրել վարժություններ",
+        "sv": "Välj övningar",
+        "nb": "Velg øvelser",
+        "nl": "Oefeningen kiezen",
+        "da": "Vælg øvelser",
+        "pl": "Wybierz ćwiczenia",
+        "fr": "Choisir des exercices",
+        "ar": "اختيار التمارين"
+      },
+      "logWorkout.fromTemplate": {
+        "en": "From a Template",
+        "ru": "Из шаблона",
+        "hy": "Ձևանմուշից",
+        "sv": "Från en mall",
+        "nb": "Fra en mal",
+        "nl": "Van een sjabloon",
+        "da": "Fra en skabelon",
+        "pl": "Z szablonu",
+        "fr": "À partir d'un modèle",
+        "ar": "من قالب"
+      },
+      "logWorkout.durationFooter": {
+        "en": "Duration is estimated from the logged sets, the same way a template's is. Change Started or Finished if you remember them.",
+        "ru": "Длительность оценивается по записанным подходам — так же, как для шаблона. Измените «Начато» или «Завершено», если помните точное время.",
+        "hy": "Տևողությունը գնահատվում է գրանցված մոտեցումներով, ինչպես ձևանմուշի դեպքում։ Փոխեք «Սկսվել է»-ն կամ «Ավարտվել է»-ն, եթե հիշում եք։",
+        "sv": "Varaktigheten uppskattas utifrån de loggade seten, på samma sätt som för en mall. Ändra Startade eller Färdig om du minns tiderna.",
+        "nb": "Varigheten anslås ut fra de loggførte settene, på samme måte som for en mal. Endre Startet eller Ferdig hvis du husker tidene.",
+        "nl": "De duur wordt geschat op basis van de vastgelegde sets, net als bij een sjabloon. Pas Gestart of Afgerond aan als je de tijden nog weet.",
+        "da": "Varigheden anslås ud fra de loggede sæt, på samme måde som for en skabelon. Ret Startede eller Færdig, hvis du kan huske tiderne.",
+        "pl": "Czas trwania jest szacowany na podstawie zapisanych serii, tak jak dla szablonu. Zmień Rozpoczęło się lub Gotowy, jeśli pamiętasz godziny.",
+        "fr": "La durée est estimée à partir des séries enregistrées, comme pour un modèle. Modifiez Commencé ou Fini si vous vous en souvenez.",
+        "ar": "تُقدَّر المدة من المجموعات المسجلة، بالطريقة نفسها المتبعة مع القالب. غيّر «بدأت» أو «انتهى» إن كنت تتذكر الوقت."
+      },
+      "logWorkout.needsSet": {
+        "en": "Log at least one set to save.",
+        "ru": "Чтобы сохранить, запишите хотя бы один подход.",
+        "hy": "Պահպանելու համար գրանցեք առնվազն մեկ մոտեցում։",
+        "sv": "Logga minst ett set för att spara.",
+        "nb": "Loggfør minst ett sett for å lagre.",
+        "nl": "Leg minstens één set vast om op te slaan.",
+        "da": "Log mindst ét sæt for at gemme.",
+        "pl": "Zapisz co najmniej jedną serię, aby zachować trening.",
+        "fr": "Enregistrez au moins une série pour sauvegarder.",
+        "ar": "سجّل مجموعة واحدة على الأقل للحفظ."
+      },
+      "logWorkout.discardMessage": {
+        "en": "Nothing you entered here will be saved.",
+        "ru": "Ничего из введённого здесь не сохранится.",
+        "hy": "Այստեղ մուտքագրվածից ոչինչ չի պահպանվի։",
+        "sv": "Inget du har angett här sparas.",
+        "nb": "Ingenting du har lagt inn her blir lagret.",
+        "nl": "Niets wat je hier hebt ingevuld, wordt bewaard.",
+        "da": "Intet af det, du har indtastet her, bliver gemt.",
+        "pl": "Nic, co tu wpisano, nie zostanie zapisane.",
+        "fr": "Rien de ce que vous avez saisi ici ne sera enregistré.",
+        "ar": "لن يُحفظ أي شيء أدخلته هنا."
+      },
+      "loggedLater": {
+        "en": "Logged later",
+        "ru": "Записано позже",
+        "hy": "Գրանցվել է ավելի ուշ",
+        "sv": "Loggad i efterhand",
+        "nb": "Loggført i ettertid",
+        "nl": "Later vastgelegd",
+        "da": "Logget senere",
+        "pl": "Zapisano później",
+        "fr": "Enregistrée après coup",
+        "ar": "سُجّل لاحقًا"
+      },
+      "loggedLaterOn": {
+        "en": "Logged on %@",
+        "ru": "Записано %@",
+        "hy": "Գրանցվել է %@",
+        "sv": "Loggad %@",
+        "nb": "Loggført %@",
+        "nl": "Vastgelegd op %@",
+        "da": "Logget %@",
+        "pl": "Zapisano %@",
+        "fr": "Enregistrée le %@",
+        "ar": "سُجّل في %@"
+      },
+      "loggedLater.streakFooter": {
+        "en": "Workouts logged later don't count toward your weekly streak.",
+        "ru": "Тренировки, записанные позже, не засчитываются в недельную серию.",
+        "hy": "Ավելի ուշ գրանցված մարզումները չեն հաշվվում շաբաթական շարքում։",
+        "sv": "Pass som loggas i efterhand räknas inte till din veckosvit.",
+        "nb": "Økter som loggføres i ettertid, teller ikke med i ukerekken din.",
+        "nl": "Trainingen die later zijn vastgelegd, tellen niet mee voor je weekreeks.",
+        "da": "Træninger, der logges senere, tæller ikke med i din ugestreak.",
+        "pl": "Treningi zapisane później nie liczą się do tygodniowej serii.",
+        "fr": "Les séances enregistrées après coup ne comptent pas pour votre série hebdomadaire.",
+        "ar": "التمارين المسجلة لاحقًا لا تُحتسب ضمن سلسلتك الأسبوعية."
       }
     },
     "Import": {
@@ -13875,37 +14067,37 @@
         "en": "%lld sessions in the last 4 weeks",
         "ru": "Тренировок за последние 4 недели: %lld",
         "hy": "%lld մարզում վերջին 4 շաբաթում",
-        "sv": "%lld sessions in the last 4 weeks",
-        "nb": "%lld sessions in the last 4 weeks",
-        "nl": "%lld sessions in the last 4 weeks",
-        "da": "%lld sessions in the last 4 weeks",
+        "sv": "%lld pass de senaste 4 veckorna",
+        "nb": "%lld økter de siste 4 ukene",
+        "nl": "%lld sessies in de afgelopen 4 weken",
+        "da": "%lld træninger de seneste 4 uger",
         "pl": "Treningi w ostatnich 4 tygodniach: %lld",
-        "fr": "%lld sessions in the last 4 weeks",
-        "ar": "%lld sessions in the last 4 weeks"
+        "fr": "%lld séances au cours des 4 dernières semaines",
+        "ar": "%lld جلسات في آخر 4 أسابيع"
       },
       "hub.rhythmSubtitle.none": {
         "en": "No sessions in recent weeks",
         "ru": "В последние недели тренировок не было",
         "hy": "Վերջին շաբաթներին մարզումներ չեն եղել",
-        "sv": "No sessions in recent weeks",
-        "nb": "No sessions in recent weeks",
-        "nl": "No sessions in recent weeks",
-        "da": "No sessions in recent weeks",
-        "pl": "No sessions in recent weeks",
-        "fr": "No sessions in recent weeks",
-        "ar": "No sessions in recent weeks"
+        "sv": "Inga pass de senaste veckorna",
+        "nb": "Ingen økter de siste ukene",
+        "nl": "Geen sessies in de afgelopen weken",
+        "da": "Ingen træninger de seneste uger",
+        "pl": "Brak treningów w ostatnich tygodniach",
+        "fr": "Aucune séance ces dernières semaines",
+        "ar": "لا توجد جلسات في الأسابيع الأخيرة"
       },
       "hub.rhythmSubtitle.one": {
         "en": "1 session in the last 4 weeks",
         "ru": "1 тренировка за последние 4 недели",
         "hy": "1 մարզում վերջին 4 շաբաթում",
-        "sv": "1 session in the last 4 weeks",
-        "nb": "1 session in the last 4 weeks",
-        "nl": "1 session in the last 4 weeks",
-        "da": "1 session in the last 4 weeks",
-        "pl": "1 session in the last 4 weeks",
-        "fr": "1 session in the last 4 weeks",
-        "ar": "1 session in the last 4 weeks"
+        "sv": "1 pass de senaste 4 veckorna",
+        "nb": "1 økt de siste 4 ukene",
+        "nl": "1 sessie in de afgelopen 4 weken",
+        "da": "1 træning de seneste 4 uger",
+        "pl": "1 trening w ostatnich 4 tygodniach",
+        "fr": "1 séance au cours des 4 dernières semaines",
+        "ar": "جلسة واحدة في آخر 4 أسابيع"
       },
       "hub.sessionShare": {
         "en": "Sessions by muscle group",
@@ -13995,13 +14187,13 @@
         "en": "1 workout",
         "ru": "1 тренировка",
         "hy": "1 մարզում",
-        "sv": "1 workout",
-        "nb": "1 workout",
-        "nl": "1 workout",
-        "da": "1 workout",
-        "pl": "1 workout",
-        "fr": "1 workout",
-        "ar": "1 workout"
+        "sv": "1 träningspass",
+        "nb": "1 treningsøkt",
+        "nl": "1 training",
+        "da": "1 træning",
+        "pl": "1 trening",
+        "fr": "1 entraînement",
+        "ar": "تدريب واحد"
       },
       "hub.subline.workouts": {
         "en": "%lld workouts",
@@ -14242,6 +14434,18 @@
         "pl": "Treningi: %lld",
         "fr": "%lld sessions",
         "ar": "%lld جلسة"
+      },
+      "sessionsCountOne": {
+        "en": "1 session",
+        "ru": "1 тренировка",
+        "hy": "1 մարզում",
+        "sv": "1 session",
+        "nb": "1 økt",
+        "nl": "1 sessie",
+        "da": "1 session",
+        "pl": "1 trening",
+        "fr": "1 session",
+        "ar": "جلسة واحدة"
       },
       "setsCount": {
         "en": "%lld sets",
