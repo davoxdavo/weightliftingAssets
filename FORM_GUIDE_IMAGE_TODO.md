@@ -13,66 +13,7 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-12 — 9 with no image, 0 pending, 0 semi complete, 54 replaced._
-
-## No image yet
-
-No PNG at all — the app shows the fallback symbol. Save the generated image as
-`remote/images/exercises/form.<catalogId>.png`.
-
-### [ ] Single-Arm Incline Cable Press
-
-`form.chest-single-arm-incline-cable-press.png`
-
-> Instructional form-guide: Single-Arm Incline Cable Press. Two panels, side view of an athlete standing in a split stance facing away from a low cable behind them, one hand on the handle. START: handle beside the shoulder. FINISH: arm extended up and forward on a 30–45° line above the upper chest. Blue arrow pointing up and forward along the incline. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Leg Lying Leg Curl
-
-`form.legs-single-leg-lying-leg-curl.png`
-
-> Instructional form-guide: Single-Leg Lying Leg Curl. Two panels, side view of an athlete lying face down on a lying leg curl machine, knees just past the pad edge, one ankle hooked under the roller, the other leg resting. START: working knee nearly straight. FINISH: heel curled toward the glutes, hips pressed into the pad. Blue arrow curving up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Leg Seated Leg Curl
-
-`form.legs-single-leg-seated-leg-curl.png`
-
-> Instructional form-guide: Single-Leg Seated Leg Curl. Two panels, side view of an athlete seated at a seated leg curl machine, thigh pad locked down, one ankle on the lower roller, the other leg resting. START: working knee nearly straight in front. FINISH: heel curled down and back under the seat. Blue arrow curving down and back. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Front Raise
-
-`form.shoulders-single-arm-cable-front-raise.png`
-
-> Instructional form-guide: Single-Arm Cable Front Raise. Two panels, side view of an athlete standing facing away from a low cable, the cable running between the legs, one hand holding the handle in front of the thigh. START: arm down in front of the thigh. FINISH: arm raised straight in front to shoulder height, soft elbow. Blue arrow curving up in front. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Upright Row
-
-`form.shoulders-single-arm-cable-upright-row.png`
-
-> Instructional form-guide: Single-Arm Cable Upright Row. Two panels, front view of an athlete standing facing a low cable stack, one hand holding the handle in front of the thigh, free hand on the hip. START: arm straight down. FINISH: handle pulled up close to the body, elbow leading, at shoulder height and no higher. Blue arrow pointing up. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Lateral Raise
-
-`form.shoulders-single-arm-machine-lateral-raise.png`
-
-> Instructional form-guide: Single-Arm Machine Lateral Raise. Two panels, front view of an athlete seated at a lateral raise machine, shoulder aligned with the pivot, one arm against its pad, the other resting. START: arm down at the side. FINISH: arm raised out to the side until the upper arm is level with the shoulder. Blue arrow curving up and out. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Shoulder Press
-
-`form.shoulders-single-arm-machine-shoulder-press.png`
-
-> Instructional form-guide: Single-Arm Machine Shoulder Press. Two panels, front view of an athlete seated at a shoulder press machine, back flat on the pad, one hand on a handle at shoulder height, the other hand on the thigh. START: handle at shoulder height. FINISH: arm pressed straight overhead, ribs down, no lean. Blue arrow pointing up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Reverse Pec Deck
-
-`form.shoulders-single-arm-reverse-pec-deck.png`
-
-> Instructional form-guide: Single-Arm Reverse Pec Deck. Two panels, top-down view of an athlete seated facing the pad of a reverse pec deck, chest on the pad, one hand on a handle. START: working arm straight in front. FINISH: arm swept out and back in a wide arc in line with the shoulder. Blue arrow sweeping back. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Y-Raise
-
-`form.shoulders-single-arm-cable-y-raise.png`
-
-> Instructional form-guide: Single-Arm Cable Y-Raise. Two panels, front view of an athlete standing side-on to a low cable, the far hand holding the handle across the body at the opposite hip. START: hand low across the body. FINISH: arm raised up and out on a Y line to about eye height, thumb up. Blue arrow sweeping up and out. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
+_Last generated 2026-10-13 — 0 with no image, 0 pending, 0 semi complete, 54 replaced._
 
 ## Pending
 
