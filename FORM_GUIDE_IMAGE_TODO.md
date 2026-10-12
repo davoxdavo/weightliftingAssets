@@ -13,42 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-03 — 26 with no image, 1 pending, 11 semi complete, 42 replaced._
+_Last generated 2026-10-12 — 21 with no image, 0 pending, 0 semi complete, 54 replaced._
 
 ## No image yet
 
 No PNG at all — the app shows the fallback symbol. Save the generated image as
 `remote/images/exercises/form.<catalogId>.png`.
-
-### [ ] Single-Arm Cable Reverse Curl
-
-`form.arms-single-arm-cable-reverse-curl.png`
-
-> Instructional form-guide: Single-Arm Cable Reverse Curl. Two panels, side view of an athlete standing facing a low cable stack, one hand holding the handle palm down (overhand), free hand on the hip. START: arm straight down. FINISH: elbow at the side, handle curled up to the shoulder, palm still facing down. Blue arrow curving up. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Curl
-
-`form.arms-single-arm-cable-curl.png`
-
-> Instructional form-guide: Single-Arm Cable Curl. Two panels, side view of an athlete standing facing a low cable stack, one arm working, the other hand on the hip. START: working arm straight down, palm forward, holding the handle. FINISH: elbow pinned at the side, handle curled to the shoulder. Blue arrow curving up beside the forearm. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Hammer Curl
-
-`form.arms-single-arm-cable-hammer-curl.png`
-
-> Instructional form-guide: Single-Arm Cable Hammer Curl. Two panels, side view of an athlete standing facing a low cable stack, one hand holding the handle with a neutral thumb-up grip, free hand on the hip. START: arm straight down. FINISH: elbow at the side, handle curled to the front of the shoulder, thumb still up. Blue arrow curving up. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Overhead Tricep Extension
-
-`form.arms-single-arm-cable-overhead-tricep-extension.png`
-
-> Instructional form-guide: Single-Arm Cable Overhead Tricep Extension. Two panels, side view of an athlete standing facing away from a high cable in a split stance, one hand holding the handle behind the head, elbow pointing up and forward. START: elbow bent deeply, handle behind the head. FINISH: arm straight overhead and slightly forward. Blue arrow pointing up and forward. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at high position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Wrist Curl
-
-`form.arms-single-arm-cable-wrist-curl.png`
-
-> Instructional form-guide: Single-Arm Cable Wrist Curl. Two panels, side view close-up of an athlete kneeling beside a bench in front of a low cable, one forearm resting on the bench palm up with the wrist past the edge. START: wrist extended down with the handle low. FINISH: wrist curled up as far as it goes, forearm still flat. Small blue arrow curving up at the wrist. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### [ ] Single-Arm Machine Bicep Curl
 
@@ -180,29 +150,8 @@ No PNG at all — the app shows the fallback symbol. Save the generated image as
 
 | | Exercise | Current image | Size |
 | --- | --- | --- | --- |
-| [ ] | Feet-Elevated Side Plank | [`form.core-feet-elevated-side-plank.png`](remote/images/exercises/form.core-feet-elevated-side-plank.png) | 98 KB |
 
 ## Prompts
-
-### Feet-Elevated Side Plank
-
-`form.core-feet-elevated-side-plank.png`
-
-> Instructional form-guide: Feet-Elevated Side Plank. Two panels stacked, front view of an athlete in a side plank, supporting forearm on the floor under the shoulder, feet stacked on a flat bench. TOP (HIPS DOWN): hips resting low toward the floor. BOTTOM (HOLD): hips lifted so the body forms one straight line from feet to head, top arm resting along the side. Blue arrow pointing up at the hips. Label the panels HIPS DOWN and HOLD. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-## Semi complete (Midjourney)
-
-- [~] Renegade Row — `form.back-renegade-row.png`
-- [~] Superman Hold — `form.back-superman-hold.png`
-- [~] Flutter Kick — `form.core-flutter-kick.png`
-- [~] Long-Lever Plank — `form.core-long-lever-plank.png`
-- [~] Half Squat — `form.legs-back-squat.png`
-- [~] Band Foot Inversion — `form.legs-band-foot-inversion.png`
-- [~] Box Squat — `form.legs-box-squat.png`
-- [~] Jump Squat — `form.legs-jump-squat.png`
-- [~] Behind-the-Neck Press — `form.shoulders-behind-the-neck-press.png`
-- [~] Plate Front Raise — `form.shoulders-plate-front-raise.png`
-- [~] Smith Machine Shoulder Press — `form.shoulders-smith-machine-shoulder-press.png`
 
 ## Replaced with AI art
 
@@ -239,12 +188,24 @@ No PNG at all — the app shows the fallback symbol. Save the generated image as
 - [x] Overhead Shrug — `form.back-overhead-shrug.png`
 - [x] Pause Deadlift — `form.back-pause-deadlift.png`
 - [x] Power Shrug — `form.back-power-shrug.png`
+- [x] Renegade Row — `form.back-renegade-row.png`
 - [x] Rope Climb — `form.back-rope-climb.png`
 - [x] Smith Machine Row — `form.back-smith-machine-row.png`
 - [x] Smith Machine Shrug — `form.back-smith-machine-shrug.png`
 - [x] Snatch-Grip High Pull — `form.back-snatch-grip-high-pull.png`
 - [x] Stability Ball Back Extension — `form.back-stability-ball-back-extension.png`
+- [x] Superman Hold — `form.back-superman-hold.png`
 - [x] Wide-Grip Seated Cable Row — `form.back-wide-grip-seated-cable-row.png`
 - [x] Archer Push-Up — `form.chest-archer-push-up.png`
 - [x] Incline Cable Press — `form.chest-incline-cable-press.png`
 - [x] Dumbbell Side Bend — `form.core-dumbbell-side-bend.png`
+- [x] Feet-Elevated Side Plank — `form.core-feet-elevated-side-plank.png`
+- [x] Flutter Kick — `form.core-flutter-kick.png`
+- [x] Long-Lever Plank — `form.core-long-lever-plank.png`
+- [x] Half Squat — `form.legs-back-squat.png`
+- [x] Band Foot Inversion — `form.legs-band-foot-inversion.png`
+- [x] Box Squat — `form.legs-box-squat.png`
+- [x] Jump Squat — `form.legs-jump-squat.png`
+- [x] Behind-the-Neck Press — `form.shoulders-behind-the-neck-press.png`
+- [x] Plate Front Raise — `form.shoulders-plate-front-raise.png`
+- [x] Smith Machine Shoulder Press — `form.shoulders-smith-machine-shoulder-press.png`
