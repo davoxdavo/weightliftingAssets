@@ -13,72 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-12 — 21 with no image, 0 pending, 0 semi complete, 54 replaced._
+_Last generated 2026-10-12 — 11 with no image, 0 pending, 0 semi complete, 54 replaced._
 
 ## No image yet
 
 No PNG at all — the app shows the fallback symbol. Save the generated image as
 `remote/images/exercises/form.<catalogId>.png`.
-
-### [ ] Single-Arm Machine Bicep Curl
-
-`form.arms-single-arm-machine-bicep-curl.png`
-
-> Instructional form-guide: Single-Arm Machine Bicep Curl. Two panels, side view of an athlete seated at a selectorized bicep curl machine, one upper arm on the pad, elbow aligned with the pivot, the other hand resting on the frame. START: working arm nearly straight. FINISH: handle curled up, biceps fully shortened. Blue arrow curving up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Tricep Extension
-
-`form.arms-single-arm-machine-tricep-extension.png`
-
-> Instructional form-guide: Single-Arm Machine Tricep Extension. Two panels, side view of an athlete seated at a tricep extension machine, one upper arm on the pad, elbow aligned with the pivot. START: elbow bent past 90° with the handle near the head. FINISH: arm extended fully, pressing the handle away. Blue arrow pointing in the direction of extension. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Preacher Curl
-
-`form.arms-single-arm-cable-preacher-curl.png`
-
-> Instructional form-guide: Single-Arm Cable Preacher Curl. Two panels, side view of an athlete seated at a preacher bench placed in front of a low cable, one upper arm flat on the angled pad, the other arm resting off the pad. START: working arm almost straight along the pad. FINISH: forearm nearly vertical, handle near the shoulder. Blue arrow curving up. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Preacher Curl
-
-`form.arms-single-arm-machine-preacher-curl.png`
-
-> Instructional form-guide: Single-Arm Machine Preacher Curl. Two panels, side view of an athlete seated at a preacher curl machine, armpit over the top of the angled pad, one arm working, the other resting off the pad. START: working arm nearly straight on the pad. FINISH: forearm nearly vertical. Blue arrow curving up. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Lat Pulldown
-
-`form.back-single-arm-machine-lat-pulldown.png`
-
-> Instructional form-guide: Single-Arm Machine Lat Pulldown. Two panels, front view of an athlete seated at an iso-lateral lat pulldown machine, thighs under the pad, one hand on its own handle, the other hand on the thigh. START: working arm long overhead. FINISH: handle pulled down beside the shoulder, elbow toward the hip. Blue arrow pointing down. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Cable Shrug
-
-`form.back-single-arm-cable-shrug.png`
-
-> Instructional form-guide: Single-Arm Cable Shrug. Two panels, front view of an athlete standing side-on to a low cable, one arm straight at the side holding the handle, the other relaxed. START: working shoulder relaxed down. FINISH: working shoulder shrugged straight up toward the ear, arm still straight. Blue arrow pointing up at the shoulder. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at low position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Face Pull
-
-`form.back-single-arm-face-pull.png`
-
-> Instructional form-guide: Single-Arm Face Pull. Two panels, side view of an athlete standing facing a cable set at upper-chest height, one hand on the handle, free hand on the hip. START: arm straight toward the stack. FINISH: handle pulled to the side of the face, elbow high and out, hand rotated back. Blue arrow pointing back toward the face. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at mid position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine Row
-
-`form.back-single-arm-machine-row.png`
-
-> Instructional form-guide: Single-Arm Machine Row. Two panels, side view of an athlete seated at a chest-supported plate-loaded row machine, chest on the pad, one hand on a handle, the free hand braced on the frame. START: working arm long and reaching forward. FINISH: handle rowed back, elbow past the ribs, shoulder blade squeezed. Blue arrow pointing back. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Machine High Row
-
-`form.back-single-arm-machine-high-row.png`
-
-> Instructional form-guide: Single-Arm Machine High Row. Two panels, side view of an athlete seated at a high-row machine, thighs under the pad, one hand on a high handle. START: arm reaching up and forward. FINISH: handle pulled down and back to the side of the chest, elbow driven toward the hip. Blue arrow pointing down and back. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Incline Machine Press
-
-`form.chest-single-arm-incline-machine-press.png`
-
-> Instructional form-guide: Single-Arm Incline Machine Press. Two panels, side view of an athlete seated at an incline press machine with a 30–45° back pad, one hand on a handle at upper-chest height. START: handle beside the upper chest. FINISH: arm extended up and forward above the upper chest. Blue arrow pointing up along the incline. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### [ ] Single-Arm Machine Chest Press
 
