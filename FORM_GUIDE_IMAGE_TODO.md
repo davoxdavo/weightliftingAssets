@@ -13,24 +13,12 @@ filename** in `remote/images/exercises/`, then in the app repo run
 `exerciseImages.revision` in `remote/manifest.json` (and the app repo's `data/remote/manifest.json`),
 push this repo and purge that image's jsDelivr URL. Re-running the script drops the row.
 
-_Last generated 2026-10-12 — 11 with no image, 0 pending, 0 semi complete, 54 replaced._
+_Last generated 2026-10-12 — 9 with no image, 0 pending, 0 semi complete, 54 replaced._
 
 ## No image yet
 
 No PNG at all — the app shows the fallback symbol. Save the generated image as
 `remote/images/exercises/form.<catalogId>.png`.
-
-### [ ] Single-Arm Machine Chest Press
-
-`form.chest-single-arm-machine-chest-press.png`
-
-> Instructional form-guide: Single-Arm Machine Chest Press. Two panels, side view of an athlete seated at an iso-lateral chest press machine, back flat on the pad, one hand on a handle at mid-chest height, the other hand resting on the thigh. START: handle beside the chest. FINISH: arm extended forward without locking hard. Blue arrow pointing forward. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
-
-### [ ] Single-Arm Standing Cable Chest Press
-
-`form.chest-single-arm-cable-press.png`
-
-> Instructional form-guide: Single-Arm Standing Cable Chest Press. Two panels, side view of an athlete standing facing away from a cable set at chest height, split stance, one hand on the handle, free hand on the hip. START: handle beside the chest, elbow back. FINISH: arm extended straight forward at chest height, hips and shoulders square. Blue arrow pointing forward. Cable attachment: a single stirrup (D) handle clipped to the cable, one handle per hand; pulley at mid position. One arm only — the other hand does not hold a handle. Style: clean black line art, light gray shading, off-white background, blue arrows only, square 1:1, no photo-realism.
 
 ### [ ] Single-Arm Incline Cable Press
 
