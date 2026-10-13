@@ -95,8 +95,8 @@
   },
   "catalog": {
     "exercises": {
-      "version": 44,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v44/gym_exercises.json"
+      "version": 45,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/exercises/v45/gym_exercises.json"
     },
     "supersets": {
       "version": 6,
@@ -115,8 +115,8 @@
       },
       "ru": {
         "exercises": {
-          "version": 19,
-          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v19/exercises.localization.json"
+          "version": 20,
+          "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/localizations/ru/v20/exercises.localization.json"
         },
         "supersets": {
           "version": 3,
@@ -209,12 +209,12 @@
       "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/templates/v12/gym_templates.json"
     },
     "exerciseSearchAliases": {
-      "version": 14,
-      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/search-aliases/v14/exercise_search_aliases.json"
+      "version": 15,
+      "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/catalog/search-aliases/v15/exercise_search_aliases.json"
     }
   },
   "translations": {
-    "lastSyncedAt": 1791338112,
+    "lastSyncedAt": 1791872521,
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json",
     "versions": [
       {
@@ -224,7 +224,7 @@
       },
       {
         "minAppVersion": "1.6",
-        "lastSyncedAt": 1791338112,
+        "lastSyncedAt": 1791872521,
         "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/v1.6/translations.json"
       }
     ]
@@ -277,5 +277,5 @@
     "useSystemModel": true,
     "useBundledModel": true
   },
-  "revision": 24
+  "revision": 25
 }
