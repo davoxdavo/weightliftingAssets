@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.6",
-  "lastSyncedAt": 1791966476,
+  "lastSyncedAt": 1792081417,
   "strings": {
     "": {
       "en": "",
@@ -30037,6 +30037,150 @@
       "pl": "Brak jeszcze ćwiczeń regeneracyjnych.",
       "fr": "Aucun exercice de récupération n’est encore disponible.",
       "ar": "لا توجد تمارين استشفاء متاحة بعد."
+    },
+    "water.rest.sipOne": {
+      "en": "1 sip",
+      "ru": "1 глоток",
+      "hy": "1 կում",
+      "sv": "1 klunk",
+      "nb": "1 slurk",
+      "nl": "1 slok",
+      "da": "1 slurk",
+      "pl": "1 łyk",
+      "fr": "1 gorgée",
+      "ar": "رشفة واحدة"
+    },
+    "water.rest.sipMany": {
+      "en": "%lld sips",
+      "ru": "Глотков: %lld",
+      "hy": "%lld կում",
+      "sv": "%lld klunkar",
+      "nb": "%lld slurker",
+      "nl": "%lld slokken",
+      "da": "%lld slurke",
+      "pl": "Łyki: %lld",
+      "fr": "%lld gorgées",
+      "ar": "%lld رشفات"
+    },
+    "water.rest.favoriteA11y": {
+      "en": "Favorite: %@",
+      "ru": "Избранное: %@",
+      "hy": "Սիրելի՝ %@",
+      "sv": "Favorit: %@",
+      "nb": "Favoritt: %@",
+      "nl": "Favoriet: %@",
+      "da": "Favorit: %@",
+      "pl": "Ulubione: %@",
+      "fr": "Favori : %@",
+      "ar": "المفضل: %@"
+    },
+    "water.rest.makeFavorite": {
+      "en": "Make Favorite",
+      "ru": "Сделать избранным",
+      "hy": "Դարձնել սիրելի",
+      "sv": "Gör till favorit",
+      "nb": "Gjør til favoritt",
+      "nl": "Als favoriet instellen",
+      "da": "Gør til favorit",
+      "pl": "Ustaw jako ulubione",
+      "fr": "Définir comme favori",
+      "ar": "تعيين كمفضل"
+    },
+    "water.rest.header": {
+      "en": "During Rest",
+      "ru": "Во время отдыха",
+      "hy": "Հանգստի ժամանակ",
+      "sv": "Under vila",
+      "nb": "Under hvile",
+      "nl": "Tijdens rust",
+      "da": "Under hvil",
+      "pl": "Podczas odpoczynku",
+      "fr": "Pendant le repos",
+      "ar": "أثناء الراحة"
+    },
+    "water.rest.toggle": {
+      "en": "Offer Water During Rest",
+      "ru": "Предлагать воду во время отдыха",
+      "hy": "Առաջարկել ջուր հանգստի ժամանակ",
+      "sv": "Föreslå vatten under vila",
+      "nb": "Foreslå vann under hvile",
+      "nl": "Water aanbieden tijdens rust",
+      "da": "Foreslå vand under hvil",
+      "pl": "Proponuj wodę podczas odpoczynku",
+      "fr": "Proposer de l’eau pendant le repos",
+      "ar": "اقتراح الماء أثناء الراحة"
+    },
+    "water.rest.footer": {
+      "en": "Sip amounts appear while your rest timer runs. A sip counts as %@.",
+      "ru": "Пока идёт таймер отдыха, появляются кнопки с глотками. Один глоток — %@.",
+      "hy": "Մինչ հանգստի ժամաչափն աշխատում է, երևում են կումերի կոճակները։ Մեկ կումը՝ %@։",
+      "sv": "Klunkmängder visas medan vilotimern går. En klunk räknas som %@.",
+      "nb": "Slurkmengder vises mens hviletimeren går. En slurk regnes som %@.",
+      "nl": "Slokhoeveelheden verschijnen terwijl je rusttimer loopt. Eén slok telt als %@.",
+      "da": "Slurkmængder vises, mens hviletimeren kører. En slurk tæller som %@.",
+      "pl": "Podczas odliczania odpoczynku pojawiają się przyciski łyków. Jeden łyk to %@.",
+      "fr": "Des quantités en gorgées s’affichent pendant le minuteur de repos. Une gorgée compte pour %@.",
+      "ar": "تظهر كميات الرشفات أثناء تشغيل مؤقت الراحة. الرشفة الواحدة تساوي %@."
+    },
+    "water.rest.favorite.title": {
+      "en": "Favorite Amount",
+      "ru": "Избранный объём",
+      "hy": "Սիրելի քանակ",
+      "sv": "Favoritmängd",
+      "nb": "Favorittmengde",
+      "nl": "Favoriete hoeveelheid",
+      "da": "Foretrukken mængde",
+      "pl": "Ulubiona ilość",
+      "fr": "Quantité favorite",
+      "ar": "الكمية المفضلة"
+    },
+    "water.rest.favorite.learned": {
+      "en": "Automatic · %@",
+      "ru": "Автоматически · %@",
+      "hy": "Ավտոմատ · %@",
+      "sv": "Automatisk · %@",
+      "nb": "Automatisk · %@",
+      "nl": "Automatisch · %@",
+      "da": "Automatisk · %@",
+      "pl": "Automatycznie · %@",
+      "fr": "Automatique · %@",
+      "ar": "تلقائي · %@"
+    },
+    "water.rest.favorite.notYet": {
+      "en": "Automatic · not enough drinks yet",
+      "ru": "Автоматически · пока мало данных",
+      "hy": "Ավտոմատ · դեռ բավարար տվյալ չկա",
+      "sv": "Automatisk · för få drycker än",
+      "nb": "Automatisk · for få drikker ennå",
+      "nl": "Automatisch · nog te weinig drankjes",
+      "da": "Automatisk · for få drikke endnu",
+      "pl": "Automatycznie · za mało danych",
+      "fr": "Automatique · pas encore assez de données",
+      "ar": "تلقائي · لا توجد بيانات كافية بعد"
+    },
+    "water.rest.favorite.choose": {
+      "en": "Choose Amount",
+      "ru": "Выбрать объём",
+      "hy": "Ընտրել քանակը",
+      "sv": "Välj mängd",
+      "nb": "Velg mengde",
+      "nl": "Hoeveelheid kiezen",
+      "da": "Vælg mængde",
+      "pl": "Wybierz ilość",
+      "fr": "Choisir la quantité",
+      "ar": "اختيار الكمية"
+    },
+    "water.rest.favorite.footer": {
+      "en": "Shown first while you rest. Automatic uses the amount you log most during workouts; choose one to pin it.",
+      "ru": "Показывается первым во время отдыха. Автоматически — объём, который вы чаще всего записываете на тренировках; выберите свой, чтобы закрепить.",
+      "hy": "Ցուցադրվում է առաջինը հանգստի ժամանակ։ Ավտոմատը այն քանակն է, որը ամենից հաճախ եք գրանցում մարզումների ժամանակ․ ընտրեք ձերը՝ այն ամրացնելու համար։",
+      "sv": "Visas först när du vilar. Automatisk använder mängden du loggar oftast under pass; välj en för att fästa den.",
+      "nb": "Vises først når du hviler. Automatisk bruker mengden du logger oftest under økter; velg en for å feste den.",
+      "nl": "Wordt als eerste getoond tijdens rust. Automatisch gebruikt de hoeveelheid die je het vaakst tijdens trainingen logt; kies er een om hem vast te zetten.",
+      "da": "Vises først, når du hviler. Automatisk bruger den mængde, du oftest logger under træning; vælg en for at fastgøre den.",
+      "pl": "Wyświetlana jako pierwsza podczas odpoczynku. Automatycznie to ilość, którą najczęściej zapisujesz na treningach; wybierz własną, aby ją przypiąć.",
+      "fr": "Affichée en premier pendant le repos. Automatique utilise la quantité que vous enregistrez le plus pendant les séances ; choisissez-en une pour l’épingler.",
+      "ar": "تظهر أولاً أثناء الراحة. التلقائي يستخدم الكمية التي تسجلها أكثر أثناء التمارين؛ اختر كمية لتثبيتها."
     }
   }
 }
