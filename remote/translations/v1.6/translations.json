@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1792081417,
+  "lastSyncedAt": 1792159397,
   "minAppVersion": "1.6",
   "strings": {
     "Misc": {
@@ -208,6 +208,30 @@
         "pl": "Blokada orientacji pionowej",
         "fr": "Verrouiller en portrait",
         "ar": "قفل الوضع العمودي"
+      },
+      "screenAwake.footer": {
+        "en": "The screen stays on while a rest timer or stopwatch is running. Once the rest ends, it locks as usual.",
+        "ru": "Экран не блокируется, пока идёт таймер или секундомер отдыха. Когда отдых закончится, он блокируется как обычно.",
+        "hy": "Էկրանը չի կողպվում, քանի դեռ հանգստի ժամաչափը կամ վայրկյանաչափը աշխատում է։ Հանգիստն ավարտվելուն պես այն կողպվում է ինչպես միշտ։",
+        "sv": "Skärmen förblir tänd medan en vilotimer eller ett stoppur går. När vilan är slut låses den som vanligt.",
+        "nb": "Skjermen holder seg på mens en hviletimer eller stoppeklokke går. Når hvilen er over, låses den som vanlig.",
+        "nl": "Het scherm blijft aan zolang een rusttimer of stopwatch loopt. Zodra de rust voorbij is, vergrendelt het zoals gewoonlijk.",
+        "da": "Skærmen bliver ved med at være tændt, mens en hviletimer eller et stopur kører. Når hvilen er slut, låses den som normalt.",
+        "pl": "Ekran pozostaje włączony, gdy działa minutnik lub stoper odpoczynku. Po zakończeniu odpoczynku blokuje się jak zwykle.",
+        "fr": "L’écran reste allumé tant qu’un minuteur ou un chronomètre de repos tourne. Une fois le repos terminé, il se verrouille normalement.",
+        "ar": "تبقى الشاشة مضاءة ما دام مؤقت الاستراحة أو ساعة الإيقاف يعمل. وبعد انتهاء الاستراحة تُقفل كالمعتاد."
+      },
+      "screenAwake.title": {
+        "en": "Keep screen on during rest",
+        "ru": "Не гасить экран во время отдыха",
+        "hy": "Հանգստի ժամանակ էկրանը վառ պահել",
+        "sv": "Håll skärmen tänd under vilan",
+        "nb": "Hold skjermen på under hvilen",
+        "nl": "Scherm aan tijdens rust",
+        "da": "Hold skærmen tændt under hvilen",
+        "pl": "Nie wygaszaj ekranu podczas odpoczynku",
+        "fr": "Garder l’écran allumé pendant le repos",
+        "ar": "إبقاء الشاشة مضاءة أثناء الاستراحة"
       },
       "delete": {
         "en": "Delete account",
