@@ -1,5 +1,5 @@
 {
-  "lastSyncedAt": 1792159397,
+  "lastSyncedAt": 1792340024,
   "strings": {
     "Misc": {
       "": {
@@ -29663,6 +29663,114 @@
         "pl": "Wyświetlana jako pierwsza podczas odpoczynku. Automatycznie to ilość, którą najczęściej zapisujesz na treningach; wybierz własną, aby ją przypiąć.",
         "fr": "Affichée en premier pendant le repos. Automatique utilise la quantité que vous enregistrez le plus pendant les séances ; choisissez-en une pour l’épingler.",
         "ar": "تظهر أولاً أثناء الراحة. التلقائي يستخدم الكمية التي تسجلها أكثر أثناء التمارين؛ اختر كمية لتثبيتها."
+      },
+      "workout.hint": {
+        "en": "Shows the water you’ve drunk this workout.",
+        "ru": "Показывает воду, выпитую на этой тренировке.",
+        "hy": "Ցույց է տալիս այս մարզման ընթացքում խմած ջուրը։",
+        "sv": "Visar vattnet du har druckit under passet.",
+        "nb": "Viser vannet du har drukket i økten.",
+        "nl": "Toont het water dat je tijdens deze training hebt gedronken.",
+        "da": "Viser det vand, du har drukket under træningen.",
+        "pl": "Pokazuje wodę wypitą na tym treningu.",
+        "fr": "Affiche l’eau bue pendant cette séance.",
+        "ar": "يعرض الماء الذي شربته في هذا التمرين."
+      },
+      "workout.total": {
+        "en": "Total",
+        "ru": "Всего",
+        "hy": "Ընդամենը",
+        "sv": "Totalt",
+        "nb": "Totalt",
+        "nl": "Totaal",
+        "da": "I alt",
+        "pl": "Łącznie",
+        "fr": "Total",
+        "ar": "الإجمالي"
+      },
+      "workout.drinks": {
+        "en": "Drinks",
+        "ru": "Приёмы",
+        "hy": "Անգամ",
+        "sv": "Gånger",
+        "nb": "Ganger",
+        "nl": "Keer",
+        "da": "Gange",
+        "pl": "Razy",
+        "fr": "Prises",
+        "ar": "مرات"
+      },
+      "workout.byMinute": {
+        "en": "By Minute",
+        "ru": "По минутам",
+        "hy": "Ըստ րոպեների",
+        "sv": "Per minut",
+        "nb": "Per minutt",
+        "nl": "Per minuut",
+        "da": "Per minut",
+        "pl": "Według minut",
+        "fr": "Par minute",
+        "ar": "حسب الدقيقة"
+      },
+      "workout.byMinuteFooter": {
+        "en": "Each bar is the water you logged in that minute of the workout.",
+        "ru": "Каждый столбец — вода, записанная в эту минуту тренировки.",
+        "hy": "Յուրաքանչյուր սյունը մարզման այդ րոպեին գրանցված ջուրն է։",
+        "sv": "Varje stapel är vattnet du loggade under den minuten av passet.",
+        "nb": "Hver søyle er vannet du logget i det minuttet av økten.",
+        "nl": "Elke balk is het water dat je in die minuut van de training hebt gelogd.",
+        "da": "Hver søjle er det vand, du loggede i det minut af træningen.",
+        "pl": "Każdy słupek to woda zapisana w tej minucie treningu.",
+        "fr": "Chaque barre correspond à l’eau enregistrée pendant cette minute de la séance.",
+        "ar": "كل عمود هو الماء الذي سجلته في تلك الدقيقة من التمرين."
+      },
+      "workout.minute": {
+        "en": "Minute %lld",
+        "ru": "Минута %lld",
+        "hy": "%lld-րդ րոպե",
+        "sv": "Minut %lld",
+        "nb": "Minutt %lld",
+        "nl": "Minuut %lld",
+        "da": "Minut %lld",
+        "pl": "Minuta %lld",
+        "fr": "Minute %lld",
+        "ar": "الدقيقة %lld"
+      },
+      "workout.empty": {
+        "en": "No water logged in this workout yet.",
+        "ru": "На этой тренировке вода ещё не записана.",
+        "hy": "Այս մարզման ընթացքում դեռ ջուր չի գրանցվել։",
+        "sv": "Inget vatten loggat under det här passet än.",
+        "nb": "Ikke noe vann logget i denne økten ennå.",
+        "nl": "Nog geen water gelogd tijdens deze training.",
+        "da": "Intet vand logget under denne træning endnu.",
+        "pl": "Na tym treningu nie zapisano jeszcze wody.",
+        "fr": "Aucune eau enregistrée pendant cette séance pour l’instant.",
+        "ar": "لم يُسجَّل ماء في هذا التمرين بعد."
+      },
+      "workout.footer": {
+        "en": "Tap a row to change the amount. Swipe left to delete it.",
+        "ru": "Нажмите на запись, чтобы изменить количество. Смахните влево, чтобы удалить.",
+        "hy": "Հպեք գրառմանը՝ քանակը փոխելու համար։ Սահեցրեք ձախ՝ ջնջելու համար։",
+        "sv": "Tryck på en rad för att ändra mängden. Svep åt vänster för att radera den.",
+        "nb": "Trykk på en rad for å endre mengden. Sveip mot venstre for å slette den.",
+        "nl": "Tik op een regel om de hoeveelheid te wijzigen. Veeg naar links om hem te verwijderen.",
+        "da": "Tryk på en række for at ændre mængden. Stryg til venstre for at slette den.",
+        "pl": "Stuknij wpis, aby zmienić ilość. Przesuń w lewo, aby go usunąć.",
+        "fr": "Touchez une ligne pour modifier la quantité. Balayez vers la gauche pour la supprimer.",
+        "ar": "اضغط على صف لتغيير الكمية. اسحب لليسار لحذفه."
+      },
+      "workout.editTitle": {
+        "en": "Change Amount",
+        "ru": "Изменить количество",
+        "hy": "Փոխել քանակը",
+        "sv": "Ändra mängd",
+        "nb": "Endre mengde",
+        "nl": "Hoeveelheid wijzigen",
+        "da": "Skift mængde",
+        "pl": "Zmień ilość",
+        "fr": "Modifier la quantité",
+        "ar": "تغيير الكمية"
       }
     },
     "Hub": {
