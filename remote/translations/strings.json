@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.6",
-  "lastSyncedAt": 1792340024,
+  "lastSyncedAt": 1792693001,
   "strings": {
     "": {
       "en": "",
@@ -11939,16 +11939,16 @@
       "ar": "مُفعَّل بالفعل"
     },
     "healthNotice.footer": {
-      "en": "You can turn either one on or off later in Account → Preferences. This notice will not appear again.",
-      "ru": "Включить или выключить любой из пунктов можно позже в «Аккаунт → Настройки». Это сообщение больше не появится.",
-      "hy": "Երկուսն էլ կարող եք միացնել կամ անջատել ավելի ուշ՝ «Հաշիվ → Նախապատվություններ»։ Այս ծանուցումն այլևս չի հայտնվի։",
-      "sv": "Du kan slå på eller av båda senare under Konto → Inställningar. Det här meddelandet visas inte igen.",
-      "nb": "Du kan slå begge av eller på senere under Konto → Innstillinger. Denne meldingen kommer ikke igjen.",
-      "nl": "Je kunt beide later aan- of uitzetten bij Account → Voorkeuren. Deze melding komt niet terug.",
-      "da": "Du kan slå begge til eller fra senere under Konto → Indstillinger. Denne besked kommer ikke igen.",
-      "pl": "Obie rzeczy możesz włączyć lub wyłączyć później w Konto → Ustawienia. To powiadomienie już się nie pojawi.",
-      "fr": "Vous pouvez activer ou désactiver les deux plus tard dans Compte → Préférences. Cet avis ne réapparaîtra pas.",
-      "ar": "يمكنك تفعيل أيٍّ منهما أو تعطيله لاحقًا من «الحساب ← التفضيلات». لن يظهر هذا الإشعار مرة أخرى."
+      "en": "You can turn either one on or off later in Account → Health & Energy. This notice will not appear again.",
+      "ru": "Включить или выключить любой из пунктов можно позже в «Аккаунт» → «Здоровье и энергия». Это сообщение больше не появится.",
+      "hy": "Երկուսն էլ կարող եք միացնել կամ անջատել ավելի ուշ՝ «Հաշիվ» → «Առողջություն և էներգիա»։ Այս ծանուցումն այլևս չի հայտնվի։",
+      "sv": "Du kan slå på eller av båda senare under Konto → Hälsa och energi. Det här meddelandet visas inte igen.",
+      "nb": "Du kan slå begge av eller på senere under Konto → Helse og energi. Denne meldingen kommer ikke igjen.",
+      "nl": "Je kunt beide later aan- of uitzetten bij Account → Gezondheid en energie. Deze melding komt niet terug.",
+      "da": "Du kan slå begge til eller fra senere under Konto → Sundhed og energi. Denne besked kommer ikke igen.",
+      "pl": "Obie rzeczy możesz włączyć lub wyłączyć później w Konto → Zdrowie i energia. To powiadomienie już się nie pojawi.",
+      "fr": "Vous pouvez activer ou désactiver les deux plus tard dans Compte → Santé et énergie. Cet avis ne réapparaîtra pas.",
+      "ar": "يمكنك تفعيل أيٍّ منهما أو تعطيله لاحقًا من الحساب ← الصحة والطاقة. لن يظهر هذا الإشعار مرة أخرى."
     },
     "healthNotice.footerShort": {
       "en": "This notice will not appear again.",
@@ -15679,16 +15679,16 @@
       "ar": "تقدير الطاقة"
     },
     "onboarding.energyDemo.where": {
-      "en": "Turn it on in Account → Preferences",
-      "ru": "Включить: Аккаунт → Настройки",
-      "hy": "Միացրեք՝ Հաշիվ → Նախապատվություններ",
-      "sv": "Slå på det i Konto → Inställningar",
-      "nb": "Slå det på i Konto → Innstillinger",
-      "nl": "Zet het aan bij Account → Voorkeuren",
-      "da": "Slå det til i Konto → Indstillinger",
-      "pl": "Włącz w Konto → Preferencje",
-      "fr": "Activez-le dans Compte → Préférences",
-      "ar": "فعّله من الحساب ← التفضيلات"
+      "en": "Turn it on in Account → Health & Energy → Energy estimate",
+      "ru": "Включить: «Аккаунт» → «Здоровье и энергия» → «Оценка энергии»",
+      "hy": "Միացրեք՝ «Հաշիվ» → «Առողջություն և էներգիա» → «Էներգիայի գնահատում»",
+      "sv": "Slå på det i Konto → Hälsa och energi → Energiuppskattning",
+      "nb": "Slå det på i Konto → Helse og energi → Energiestimat",
+      "nl": "Zet het aan bij Account → Gezondheid en energie → Energieschatting",
+      "da": "Slå det til i Konto → Sundhed og energi → Energiestimat",
+      "pl": "Włącz w Konto → Zdrowie i energia → Szacowana energia",
+      "fr": "Activez-le dans Compte → Santé et énergie → Estimation d’énergie",
+      "ar": "فعّله من الحساب ← الصحة والطاقة ← تقدير الطاقة"
     },
     "onboarding.exercise.body": {
       "removedIn": "1.4",
@@ -18052,16 +18052,16 @@
       "ar": "المظهر"
     },
     "onboarding.welcome.body": {
-      "en": "Organize workouts, build routines, track progress, monitor muscle balance, and see how you improve over time.",
-      "ru": "Организуйте тренировки, составляйте программы, отслеживайте прогресс, следите за балансом мышц и наблюдайте, как растёте со временем.",
-      "hy": "Կազմակերպեք մարզումները, կազմեք ծրագրեր, հետևեք առաջընթացին, վերահսկեք մկանային հավասարակշռությունը և տեսեք, թե ինչպես եք առաջադիմում ժամանակի ընթացքում։",
-      "sv": "Organisera träningspass, bygg rutiner, spåra framsteg, övervaka muskelbalansen och se hur du förbättras över tiden.",
-      "nb": "Organiser treningsøkter, bygg rutiner, spor fremgang, overvåk muskelbalansen og se hvordan du forbedrer deg over tid.",
-      "nl": "Organiseer trainingen, bouw routines op, houd de voortgang bij, controleer de spierbalans en zie hoe u in de loop van de tijd verbetert.",
-      "da": "Organiser træning, opbyg rutiner, spor fremskridt, overvåg muskelbalance, og se, hvordan du forbedrer dig over tid.",
-      "pl": "Organizuj treningi, twórz programy ćwiczeń, śledź postępy, monitoruj równowagę mięśni i sprawdzaj, jak z biegiem czasu osiągasz poprawę.",
-      "fr": "Organisez des séances d'entraînement, créez des routines, suivez vos progrès, surveillez votre équilibre musculaire et voyez comment vous vous améliorez au fil du temps.",
-      "ar": "قم بتنظيم التدريبات، وبناء الروتين، وتتبع التقدم، ومراقبة توازن العضلات، وانظر كيف تتحسن بمرور الوقت."
+      "en": "Log fast in the gym. See what you trained and what you missed. Know when you are ready for more.",
+      "ru": "Записывайте быстро прямо в зале. Видьте, что тренировали и что пропустили. Знайте, когда готовы к большему.",
+      "hy": "Գրանցեք արագ՝ հենց մարզասրահում։ Տեսեք, թե ինչ եք մարզել և ինչ եք բաց թողել։ Իմացեք, թե երբ եք պատրաստ ավելիին։",
+      "sv": "Logga snabbt på gymmet. Se vad du tränat och vad du missat. Vet när du är redo för mer.",
+      "nb": "Logg raskt på trening. Se hva du har trent og hva du har gått glipp av. Vit når du er klar for mer.",
+      "nl": "Log snel in de sportschool. Zie wat je hebt getraind en wat je hebt gemist. Weet wanneer je klaar bent voor meer.",
+      "da": "Log hurtigt i centret. Se, hvad du har trænet, og hvad du har sprunget over. Vid, hvornår du er klar til mere.",
+      "pl": "Zapisuj szybko na siłowni. Zobacz, co trenujesz, a co pomijasz. Wiedz, kiedy jesteś gotowy na więcej.",
+      "fr": "Notez vite, à la salle. Voyez ce que vous avez travaillé et ce que vous avez laissé de côté. Sachez quand vous êtes prêt pour plus.",
+      "ar": "سجّل بسرعة في الصالة. اعرف ما تدرّبت عليه وما فاتك. واعرف متى تكون جاهزًا للمزيد."
     },
     "onboarding.welcome.bullet.analyze": {
       "removedIn": "1.4",
@@ -21597,16 +21597,16 @@
       "ar": "تُقارن أوزانك بوزن جسمك. يُحفظ على هذا الجهاز فقط ويُستخدم لمستواك فقط. بدونه يُفترض 75 كغ."
     },
     "trainingLevel.body.fromProfile": {
-      "en": "From your body profile (Account → Energy estimate). Your lifts are compared with it.",
-      "ru": "Из вашего профиля тела (Аккаунт → Оценка энергии). Ваши веса сравниваются с ним.",
-      "hy": "Ձեր մարմնի պրոֆիլից (Հաշիվ → Էներգիայի գնահատում)։ Ձեր քաշերը համեմատվում են դրա հետ։",
-      "sv": "Från din kroppsprofil (Konto → Energiuppskattning). Dina lyft jämförs med den.",
-      "nb": "Fra kroppsprofilen din (Konto → Energianslag). Løftene dine sammenlignes med den.",
-      "nl": "Uit je lichaamsprofiel (Account → Energieschatting). Je lifts worden ermee vergeleken.",
-      "da": "Fra din kropsprofil (Konto → Energiestimat). Dine løft sammenlignes med den.",
-      "pl": "Z profilu ciała (Konto → Szacunek energii). Twoje ciężary są z nim porównywane.",
-      "fr": "Depuis votre profil corporel (Compte → Estimation énergétique). Vos charges y sont comparées.",
-      "ar": "من ملفك الجسدي (الحساب ← تقدير الطاقة). تُقارن أوزانك به."
+      "en": "From your body profile (Account → Health & Energy → Energy estimate). Your lifts are compared with it.",
+      "ru": "Из вашего профиля тела («Аккаунт» → «Здоровье и энергия» → «Оценка энергии»). Ваши веса сравниваются с ним.",
+      "hy": "Ձեր մարմնի պրոֆիլից («Հաշիվ» → «Առողջություն և էներգիա» → «Էներգիայի գնահատում»)։ Ձեր քաշերը համեմատվում են դրա հետ։",
+      "sv": "Från din kroppsprofil (Konto → Hälsa och energi → Energiuppskattning). Dina lyft jämförs med den.",
+      "nb": "Fra kroppsprofilen din (Konto → Helse og energi → Energiestimat). Løftene dine sammenlignes med den.",
+      "nl": "Uit je lichaamsprofiel (Account → Gezondheid en energie → Energieschatting). Je lifts worden ermee vergeleken.",
+      "da": "Fra din kropsprofil (Konto → Sundhed og energi → Energiestimat). Dine løft sammenlignes med den.",
+      "pl": "Z profilu ciała (Konto → Zdrowie i energia → Szacowana energia). Twoje ciężary są z nim porównywane.",
+      "fr": "Depuis votre profil corporel (Compte → Santé et énergie → Estimation d’énergie). Vos charges y sont comparées.",
+      "ar": "من ملفك الجسدي (الحساب ← الصحة والطاقة ← تقدير الطاقة). تُقارن أوزانك به."
     },
     "planner.title": {
       "en": "AI Training",
@@ -26535,16 +26535,16 @@
       "ar": "شاهد معدل ضربات قلبك مباشرةً أثناء التمرين وكرسم بياني لكل جلسة مكتملة."
     },
     "onboarding.health.footer": {
-      "en": "Both stay off unless you turn them on. Change either anytime in Account → Apple Health.",
-      "ru": "Оба выключены, пока вы их не включите. Изменить можно в любой момент: Аккаунт → Apple Health.",
-      "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ Հաշիվ → Apple Health։",
-      "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Apples hälsa.",
-      "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Apple Helse.",
-      "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Apple Gezondheid.",
-      "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Apple Health.",
-      "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie jabłka.",
-      "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Pomme Santé.",
-      "ar": "يبقى كلاهما متوقفًا حتى تفعّله. غيّر ذلك في أي وقت من حساب ← صحة التفاح."
+      "en": "Both stay off unless you turn them on. Change either anytime in Account → Health & Energy → Apple Health.",
+      "ru": "Оба выключены, пока вы их не включите. Изменить можно в любой момент: «Аккаунт» → «Здоровье и энергия» → Apple Health.",
+      "hy": "Երկուսն էլ անջատված են, մինչև չմիացնեք։ Փոխեք ցանկացած պահի՝ «Հաշիվ» → «Առողջություն և էներգիա» → Apple Health։",
+      "sv": "Båda är avstängda tills du slår på dem. Ändra när som helst under Konto → Hälsa och energi → Apple Health.",
+      "nb": "Begge er av til du slår dem på. Endre når som helst under Konto → Helse og energi → Apple Health.",
+      "nl": "Beide staan uit tot je ze aanzet. Wijzig dit wanneer je wilt via Account → Gezondheid en energie → Apple Health.",
+      "da": "Begge er slået fra, indtil du slår dem til. Skift når som helst under Konto → Sundhed og energi → Apple Health.",
+      "pl": "Oba pozostają wyłączone, dopóki ich nie włączysz. Zmień to w dowolnej chwili w Konto → Zdrowie i energia → Apple Health.",
+      "fr": "Les deux restent désactivées tant que vous ne les activez pas. Modifiable à tout moment dans Compte → Santé et énergie → Apple Health.",
+      "ar": "يبقى كلاهما مُعطَّلًا حتى تفعّله. غيّر ذلك في أي وقت من الحساب ← الصحة والطاقة ← Apple Health."
     },
     "onboarding.health.bodyAndroid": {
       "en": "Two optional connections — turn on either, both or neither. Health Connect asks for permission when you switch one on.",
@@ -30313,6 +30313,270 @@
       "pl": "Zmień ilość",
       "fr": "Modifier la quantité",
       "ar": "تغيير الكمية"
+    },
+    "onboarding.features.title": {
+      "en": "How it helps you",
+      "ru": "Чем приложение поможет",
+      "hy": "Ինչպես է այն օգնում ձեզ",
+      "sv": "Så hjälper den dig",
+      "nb": "Slik hjelper den deg",
+      "nl": "Zo helpt het je",
+      "da": "Sådan hjælper den dig",
+      "pl": "Jak ci pomaga",
+      "fr": "Ce que l’app fait pour vous",
+      "ar": "كيف يساعدك"
+    },
+    "onboarding.features.body": {
+      "en": "Seven things worth knowing. Nothing here is switched on for you, and nothing is asked of you.",
+      "ru": "Семь вещей, о которых стоит знать. Ничего здесь не включается за вас, и ничего от вас не требуется.",
+      "hy": "Յոթ բան, որ արժե իմանալ։ Այստեղ ոչինչ ձեր փոխարեն չի միացվում, և ձեզնից ոչինչ չի պահանջվում։",
+      "sv": "Sju saker värda att veta. Inget här slås på åt dig, och inget begärs av dig.",
+      "nb": "Sju ting verdt å vite. Ingenting her slås på for deg, og ingenting kreves av deg.",
+      "nl": "Zeven dingen die de moeite waard zijn om te weten. Niets hier wordt voor je aangezet, en er wordt niets van je gevraagd.",
+      "da": "Syv ting, der er værd at vide. Intet her bliver slået til for dig, og intet kræves af dig.",
+      "pl": "Siedem rzeczy wartych poznania. Nic tutaj nie jest włączane za ciebie i niczego się od ciebie nie wymaga.",
+      "fr": "Sept choses à savoir. Rien ici n’est activé à votre place, et rien ne vous est demandé.",
+      "ar": "سبعة أشياء تستحق المعرفة. لا شيء هنا يُفعَّل بالنيابة عنك، ولا يُطلب منك شيء."
+    },
+    "features.balanced.title": {
+      "en": "Balanced sessions",
+      "ru": "Сбалансированные тренировки",
+      "hy": "Հավասարակշռված մարզումներ",
+      "sv": "Balanserade pass",
+      "nb": "Balanserte økter",
+      "nl": "Evenwichtige sessies",
+      "da": "Balancerede pas",
+      "pl": "Zrównoważone treningi",
+      "fr": "Séances équilibrées",
+      "ar": "جلسات متوازنة"
+    },
+    "features.balanced.body": {
+      "en": "Start Balanced looks at what you have trained least and suggests the lifts. Change anything before you start.",
+      "ru": "«Сбалансированная» смотрит, что вы тренировали меньше всего, и предлагает упражнения. Перед стартом можно изменить что угодно.",
+      "hy": "«Հավասարակշռված»-ը նայում է, թե ինչն եք ամենաքիչը մարզել, և առաջարկում է վարժություններ։ Սկսելուց առաջ կարող եք փոխել ցանկացած բան։",
+      "sv": "Starta balanserad ser vad du tränat minst och föreslår övningarna. Ändra vad du vill innan du börjar.",
+      "nb": "Start balansert ser hva du har trent minst og foreslår øvelsene. Endre hva du vil før du starter.",
+      "nl": "Begin evenwichtig kijkt wat je het minst hebt getraind en stelt de oefeningen voor. Pas alles aan voordat je begint.",
+      "da": "Start afbalanceret ser, hvad du har trænet mindst, og foreslår øvelserne. Ret hvad som helst, før du begynder.",
+      "pl": "Zacznij zrównoważony sprawdza, co trenujesz najrzadziej, i proponuje ćwiczenia. Przed startem możesz zmienić wszystko.",
+      "fr": "Démarrer équilibré regarde ce que vous avez le moins travaillé et propose les exercices. Modifiez ce que vous voulez avant de commencer.",
+      "ar": "«ابدأ بالتوازن» ينظر إلى ما تدرّبت عليه أقل ويقترح التمارين. غيّر ما تشاء قبل البدء."
+    },
+    "features.goals.title": {
+      "en": "Goals & levels",
+      "ru": "Цели и уровни",
+      "hy": "Նպատակներ և մակարդակներ",
+      "sv": "Mål och nivåer",
+      "nb": "Mål og nivåer",
+      "nl": "Doelen en niveaus",
+      "da": "Mål og niveauer",
+      "pl": "Cele i poziomy",
+      "fr": "Objectifs et niveaux",
+      "ar": "الأهداف والمستويات"
+    },
+    "features.goals.body": {
+      "en": "Set a weekly goal and keep a streak. Focus up to three muscles and they level up as you train — milestones are earned, never given.",
+      "ru": "Поставьте недельную цель и держите серию. Выберите до трёх мышц в фокус — их уровень растёт по мере тренировок. Достижения зарабатываются, а не выдаются.",
+      "hy": "Սահմանեք շաբաթական նպատակ և պահեք շարքը։ Ընտրեք մինչև երեք մկան, և դրանց մակարդակը կբարձրանա մարզվելուն զուգընթաց։ Նվաճումները վաստակվում են, ոչ թե տրվում։",
+      "sv": "Sätt ett veckomål och håll en svit. Fokusera på upp till tre muskler så går de upp i nivå när du tränar – milstolpar förtjänas, de ges aldrig.",
+      "nb": "Sett et ukemål og hold en rekke. Fokuser på opptil tre muskler, så går de opp i nivå etter hvert som du trener – milepæler fortjenes, de gis aldri.",
+      "nl": "Stel een weekdoel en houd een reeks vol. Kies tot drie spieren als focus; ze stijgen in niveau terwijl je traint — mijlpalen verdien je, ze worden nooit cadeau gegeven.",
+      "da": "Sæt et ugemål og hold en streak. Fokusér på op til tre muskler, så stiger de i niveau, når du træner – milepæle optjenes, de gives aldrig.",
+      "pl": "Ustaw cel tygodniowy i utrzymuj serię. Skup się na maksymalnie trzech mięśniach, a ich poziom rośnie wraz z treningiem — kamienie milowe się zdobywa, nigdy nie dostaje.",
+      "fr": "Fixez un objectif hebdomadaire et tenez une série. Ciblez jusqu’à trois muscles : ils montent de niveau à mesure que vous vous entraînez — les étapes se gagnent, elles ne sont jamais offertes.",
+      "ar": "حدّد هدفًا أسبوعيًا وحافظ على سلسلتك. ركّز على ثلاث عضلات كحدّ أقصى فترتفع مستوياتها مع تدريبك — الإنجازات تُكتسب ولا تُمنح."
+    },
+    "features.readiness.body": {
+      "en": "A 1 to 10 guide on the Workout tab: muscles still recovering, days in a row and, if you choose, last night's sleep. It suggests and never blocks.",
+      "ru": "Оценка от 1 до 10 на вкладке «Тренировка»: мышцы, которые ещё восстанавливаются, дни подряд и, если захотите, сон прошлой ночью. Она подсказывает и никогда не запрещает.",
+      "hy": "1-ից 10 ուղեցույց «Մարզում» ներդիրում՝ դեռ վերականգնվող մկաններ, անընդմեջ օրեր և, եթե ցանկանաք, անցած գիշերվա քունը։ Այն առաջարկում է և երբեք չի արգելում։",
+      "sv": "En guide från 1 till 10 på fliken Träning: muskler som fortfarande återhämtar sig, dagar i rad och, om du vill, nattens sömn. Den föreslår och stoppar aldrig.",
+      "nb": "En guide fra 1 til 10 på Trening-fanen: muskler som fortsatt restituerer, dager på rad og, om du vil, nattens søvn. Den foreslår og stopper aldri.",
+      "nl": "Een richtlijn van 1 tot 10 op het tabblad Training: spieren die nog herstellen, dagen op rij en, als je wilt, je slaap van vannacht. Het adviseert en blokkeert nooit.",
+      "da": "En guide fra 1 til 10 på fanen Træning: muskler, der stadig restituerer, dage i træk og, hvis du vil, nattens søvn. Den foreslår og blokerer aldrig.",
+      "pl": "Wskazówka od 1 do 10 na karcie Trening: mięśnie wciąż w regeneracji, dni z rzędu i, jeśli chcesz, sen ostatniej nocy. Podpowiada, nigdy nie blokuje.",
+      "fr": "Un repère de 1 à 10 dans l’onglet Entraînement : muscles encore en récupération, jours d’affilée et, si vous le souhaitez, le sommeil de la nuit. Il suggère, il ne bloque jamais.",
+      "ar": "دليل من 1 إلى 10 في تبويب التمرين: عضلات ما زالت تتعافى، أيام متتالية، وإن شئت نوم الليلة الماضية. يقترح ولا يمنع أبدًا."
+    },
+    "features.readiness.where": {
+      "en": "Sleep is off until you turn it on — Readiness → Read Sleep from Apple Health.",
+      "ru": "Сон выключен, пока вы его не включите: Готовность → Читать сон из Apple Health.",
+      "hy": "Քունն անջատված է, մինչև չմիացնեք՝ Պատրաստվածություն → Կարդալ քունը Apple Health-ից։",
+      "sv": "Sömn är av tills du slår på det – Beredskap → Läs sömn från Apple Health.",
+      "nb": "Søvn er av til du slår det på – Beredskap → Les søvn fra Apple Health.",
+      "nl": "Slaap staat uit tot je het aanzet — Paraatheid → Slaap lezen uit Apple Health.",
+      "da": "Søvn er slået fra, indtil du slår det til – Parathed → Læs søvn fra Apple Health.",
+      "pl": "Sen jest wyłączony, dopóki go nie włączysz — Gotowość → Odczytuj sen z Apple Health.",
+      "fr": "Le sommeil est désactivé tant que vous ne l’activez pas — Disponibilité → Lire le sommeil depuis Apple Health.",
+      "ar": "النوم مُعطَّل حتى تفعّله — الجاهزية ← قراءة النوم من Apple Health."
+    },
+    "features.heartRate.where": {
+      "en": "Off until you turn it on — Account → Health & Energy → Apple Health.",
+      "ru": "Выключено, пока вы не включите: «Аккаунт» → «Здоровье и энергия» → Apple Health.",
+      "hy": "Անջատված է, մինչև չմիացնեք՝ «Հաշիվ» → «Առողջություն և էներգիա» → Apple Health։",
+      "sv": "Av tills du slår på det – Konto → Hälsa och energi → Apple Health.",
+      "nb": "Av til du slår det på – Konto → Helse og energi → Apple Health.",
+      "nl": "Uit tot je het aanzet — Account → Gezondheid en energie → Apple Health.",
+      "da": "Slået fra, indtil du slår det til – Konto → Sundhed og energi → Apple Health.",
+      "pl": "Wyłączone, dopóki tego nie włączysz — Konto → Zdrowie i energia → Apple Health.",
+      "fr": "Désactivé tant que vous ne l’activez pas — Compte → Santé et énergie → Apple Health.",
+      "ar": "مُعطَّل حتى تفعّله — الحساب ← الصحة والطاقة ← Apple Health."
+    },
+    "features.water.body": {
+      "en": "Log water in a tap and see today against a guide from your weight and training. The rest timer can offer a sip.",
+      "ru": "Отмечайте воду одним касанием и сравнивайте день с ориентиром по весу и тренировкам. Таймер отдыха может предложить глоток.",
+      "hy": "Նշեք ջուրը մեկ հպումով և տեսեք օրը՝ ըստ ձեր քաշի և մարզումների ուղենիշի։ Հանգստի ժամանակաչափը կարող է առաջարկել կում։",
+      "sv": "Logga vatten med ett tryck och se dagen mot en riktlinje från din vikt och träning. Vilotimern kan föreslå en klunk.",
+      "nb": "Logg vann med ett trykk og se dagen mot en rettesnor fra vekten og treningen din. Pausetimeren kan foreslå en slurk.",
+      "nl": "Log water met één tik en zie je dag tegenover een richtlijn op basis van je gewicht en training. De rusttimer kan een slok voorstellen.",
+      "da": "Log vand med ét tryk, og se dagen mod en rettesnor ud fra din vægt og træning. Pausetimeren kan foreslå en slurk.",
+      "pl": "Zapisuj wodę jednym dotknięciem i porównuj dzień z wytyczną z twojej wagi i treningu. Minutnik przerwy może zaproponować łyk.",
+      "fr": "Notez l’eau d’un geste et comparez la journée à un repère basé sur votre poids et votre entraînement. Le minuteur de récup peut proposer une gorgée.",
+      "ar": "سجّل الماء بلمسة وقارن يومك بدليل مبني على وزنك وتدريبك. يمكن لمؤقّت الراحة أن يقترح رشفة."
+    },
+    "features.water.where": {
+      "en": "Apple Health sync is off until you turn it on — Water → Apple Health.",
+      "ru": "Синхронизация с Apple Health выключена, пока вы её не включите: Вода → Apple Health.",
+      "hy": "Apple Health-ի համաժամացումն անջատված է, մինչև չմիացնեք՝ Ջուր → Apple Health։",
+      "sv": "Synkning med Apple Health är av tills du slår på den – Vatten → Apple Health.",
+      "nb": "Synkronisering med Apple Health er av til du slår den på – Vann → Apple Health.",
+      "nl": "Synchronisatie met Apple Health staat uit tot je het aanzet — Water → Apple Health.",
+      "da": "Synkronisering med Apple Health er slået fra, indtil du slår den til – Vand → Apple Health.",
+      "pl": "Synchronizacja z Apple Health jest wyłączona, dopóki jej nie włączysz — Woda → Apple Health.",
+      "fr": "La synchronisation Apple Health est désactivée tant que vous ne l’activez pas — Eau → Apple Health.",
+      "ar": "مزامنة Apple Health مُعطَّلة حتى تفعّلها — الماء ← Apple Health."
+    },
+    "features.siri.where": {
+      "en": "Every phrase is listed in Account → Connections → Siri.",
+      "ru": "Все фразы перечислены в «Аккаунт» → «Подключения» → Siri.",
+      "hy": "Բոլոր արտահայտությունները թվարկված են «Հաշիվ» → «Կապեր» → Siri-ում։",
+      "sv": "Alla fraser finns under Konto → Anslutningar → Siri.",
+      "nb": "Alle frasene står under Konto → Tilkoblinger → Siri.",
+      "nl": "Elke zin staat onder Account → Verbindingen → Siri.",
+      "da": "Alle sætninger står under Konto → Forbindelser → Siri.",
+      "pl": "Wszystkie frazy znajdziesz w Konto → Połączenia → Siri.",
+      "fr": "Toutes les phrases sont listées dans Compte → Connexions → Siri.",
+      "ar": "كل العبارات مذكورة في الحساب ← الاتصالات ← Siri."
+    },
+    "whatsNew.title": {
+      "en": "What's new in %@",
+      "ru": "Что нового в %@",
+      "hy": "Ինչ կա նոր %@-ում",
+      "sv": "Nytt i %@",
+      "nb": "Nytt i %@",
+      "nl": "Nieuw in %@",
+      "da": "Nyt i %@",
+      "pl": "Co nowego w %@",
+      "fr": "Nouveautés de la version %@",
+      "ar": "الجديد في %@"
+    },
+    "whatsNew.lead": {
+      "en": "A few things this update adds. Anything optional stays off until you turn it on.",
+      "ru": "Несколько новшеств этого обновления. Всё необязательное остаётся выключенным, пока вы не включите.",
+      "hy": "Մի քանի բան, որ ավելացնում է այս թարմացումը։ Ամեն ընտրովի բան մնում է անջատված, մինչև չմիացնեք։",
+      "sv": "Några saker den här uppdateringen lägger till. Allt valfritt förblir av tills du slår på det.",
+      "nb": "Noen ting denne oppdateringen legger til. Alt valgfritt forblir av til du slår det på.",
+      "nl": "Een paar dingen die deze update toevoegt. Alles wat optioneel is blijft uit tot je het aanzet.",
+      "da": "Et par ting, denne opdatering tilføjer. Alt valgfrit forbliver slået fra, indtil du slår det til.",
+      "pl": "Kilka rzeczy, które dodaje ta aktualizacja. Wszystko, co opcjonalne, pozostaje wyłączone, dopóki tego nie włączysz.",
+      "fr": "Quelques nouveautés de cette mise à jour. Tout ce qui est facultatif reste désactivé tant que vous ne l’activez pas.",
+      "ar": "بعض ما يضيفه هذا التحديث. كل ما هو اختياري يبقى مُعطَّلًا حتى تفعّله."
+    },
+    "whatsNew.bodyWeight.body": {
+      "en": "Log your weight and see the trend, not the daily noise. Set an optional target — no colours, no pressure. Read your scale through Apple Health if you choose.",
+      "ru": "Записывайте вес и смотрите на тренд, а не на дневные колебания. Задайте цель по желанию — без цветов и давления. При желании считывайте показания весов через Apple Health.",
+      "hy": "Գրանցեք քաշը և տեսեք միտումը, ոչ թե օրական տատանումները։ Ըստ ցանկության սահմանեք թիրախ՝ առանց գույների ու ճնշման։ Ցանկության դեպքում կարդացեք կշեռքի տվյալները Apple Health-ից։",
+      "sv": "Logga din vikt och se trenden, inte det dagliga bruset. Sätt ett valfritt mål – inga färger, ingen press. Läs din våg via Apple Health om du vill.",
+      "nb": "Logg vekten din og se trenden, ikke den daglige støyen. Sett et valgfritt mål – ingen farger, ikke noe press. Les vekten din via Apple Health om du vil.",
+      "nl": "Log je gewicht en zie de trend, niet de dagelijkse ruis. Stel optioneel een doel in — geen kleuren, geen druk. Lees je weegschaal via Apple Health als je wilt.",
+      "da": "Log din vægt, og se tendensen, ikke den daglige støj. Sæt et valgfrit mål – ingen farver, intet pres. Læs din vægt via Apple Health, hvis du vil.",
+      "pl": "Zapisuj wagę i patrz na trend, nie na dzienne wahania. Ustaw opcjonalny cel — bez kolorów, bez presji. Jeśli chcesz, odczytuj wagę z Apple Health.",
+      "fr": "Notez votre poids et suivez la tendance, pas le bruit quotidien. Fixez une cible facultative — sans couleurs, sans pression. Lisez votre balance via Apple Health si vous le souhaitez.",
+      "ar": "سجّل وزنك وراقب الاتجاه لا التذبذب اليومي. حدّد هدفًا اختياريًا — بلا ألوان ولا ضغط. اقرأ ميزانك عبر Apple Health إن شئت."
+    },
+    "whatsNew.bodyGoal.title": {
+      "en": "Body goal & milestones",
+      "ru": "Цель по телу и достижения",
+      "hy": "Մարմնի նպատակ և նվաճումներ",
+      "sv": "Kroppsmål och milstolpar",
+      "nb": "Kroppsmål og milepæler",
+      "nl": "Lichaamsdoel en mijlpalen",
+      "da": "Kropsmål og milepæle",
+      "pl": "Cel sylwetkowy i kamienie milowe",
+      "fr": "Objectif corporel et étapes",
+      "ar": "هدف الجسم والإنجازات"
+    },
+    "whatsNew.bodyGoal.body": {
+      "en": "Say whether you want to lose, gain or keep your weight. AI Training and Balanced adjust to it, and you earn milestones along the way. No calorie goals, ever.",
+      "ru": "Скажите, хотите ли вы сбросить, набрать или сохранить вес. ИИ-тренировка и «Сбалансированная» подстроятся, а по пути вы будете получать достижения. Никаких целей по калориям — никогда.",
+      "hy": "Նշեք՝ ուզում եք նիհարել, քաշ հավաքել, թե պահել այն։ ԱԲ մարզումը և «Հավասարակշռված»-ը կհարմարվեն, իսկ ճանապարհին կվաստակեք նվաճումներ։ Կալորիաների նպատակներ՝ երբեք։",
+      "sv": "Säg om du vill gå ner, gå upp eller behålla vikten. AI-träning och Balanserad anpassar sig, och du förtjänar milstolpar längs vägen. Aldrig några kalorimål.",
+      "nb": "Si om du vil gå ned, opp eller holde vekten. AI-trening og Balansert tilpasser seg, og du fortjener milepæler underveis. Aldri noen kalorimål.",
+      "nl": "Geef aan of je wilt afvallen, aankomen of op gewicht blijven. AI-training en Evenwichtig passen zich aan, en onderweg verdien je mijlpalen. Nooit caloriedoelen.",
+      "da": "Sig, om du vil tabe dig, tage på eller holde vægten. AI-træning og Balanceret tilpasser sig, og du optjener milepæle undervejs. Aldrig kaloriemål.",
+      "pl": "Powiedz, czy chcesz schudnąć, przytyć czy utrzymać wagę. Trening AI i Zrównoważony dostosują się, a po drodze zdobywasz kamienie milowe. Nigdy żadnych celów kalorycznych.",
+      "fr": "Dites si vous voulez perdre, prendre ou garder votre poids. Entraînement IA et Équilibré s’y adaptent, et vous gagnez des étapes en chemin. Jamais d’objectif calorique.",
+      "ar": "قل إن كنت تريد خسارة الوزن أو زيادته أو الحفاظ عليه. يتكيّف تدريب الذكاء الاصطناعي و«متوازن» مع ذلك، وتكسب إنجازات في الطريق. لا أهداف للسعرات أبدًا."
+    },
+    "whatsNew.widgets.title": {
+      "en": "Workout tab and Home Screen",
+      "ru": "Вкладка «Тренировка» и экран «Домой»",
+      "hy": "«Մարզում» ներդիր և հիմնական էկրան",
+      "sv": "Fliken Träning och hemskärmen",
+      "nb": "Trening-fanen og Hjem-skjermen",
+      "nl": "Tabblad Training en beginscherm",
+      "da": "Fanen Træning og hjemmeskærmen",
+      "pl": "Karta Trening i ekran główny",
+      "fr": "Onglet Entraînement et écran d’accueil",
+      "ar": "تبويب التمرين والشاشة الرئيسية"
+    },
+    "whatsNew.widgets.body": {
+      "en": "Readiness, water and body weight sit in one Today strip on the Workout tab — hide any of them. Add the Body weight and Water widgets to your Home Screen.",
+      "ru": "Готовность, вода и вес тела собраны в одну полосу «Сегодня» на вкладке «Тренировка» — любую из них можно скрыть. Добавьте виджеты «Вес тела» и «Вода» на экран «Домой».",
+      "hy": "Պատրաստվածությունը, ջուրը և մարմնի քաշը հավաքված են «Այսօր» շերտում «Մարզում» ներդիրում. ցանկացածը կարող եք թաքցնել։ Ավելացրեք «Մարմնի քաշ» և «Ջուր» վիջեթները հիմնական էկրանին։",
+      "sv": "Beredskap, vatten och kroppsvikt samlas i en Idag-rad på fliken Träning – dölj vilken du vill. Lägg till widgetarna Kroppsvikt och Vatten på hemskärmen.",
+      "nb": "Beredskap, vann og kroppsvekt samles i én I dag-rad på Trening-fanen – skjul den du vil. Legg til widgetene Kroppsvekt og Vann på Hjem-skjermen.",
+      "nl": "Paraatheid, water en lichaamsgewicht staan samen in één Vandaag-strook op het tabblad Training — verberg wat je wilt. Zet de widgets Lichaamsgewicht en Water op je beginscherm.",
+      "da": "Parathed, vand og kropsvægt samles i én I dag-stribe på fanen Træning – skjul dem, du vil. Føj widgets for Kropsvægt og Vand til hjemmeskærmen.",
+      "pl": "Gotowość, woda i masa ciała są w jednym pasku Dzisiaj na karcie Trening — każdy z nich możesz ukryć. Dodaj widżety Masa ciała i Woda na ekran główny.",
+      "fr": "Disponibilité, eau et poids corporel se regroupent dans une bande Aujourd’hui de l’onglet Entraînement — masquez ce que vous voulez. Ajoutez les widgets Poids corporel et Eau à l’écran d’accueil.",
+      "ar": "الجاهزية والماء ووزن الجسم في شريط «اليوم» واحد في تبويب التمرين — أخفِ أيًّا منها. أضف أداتَي وزن الجسم والماء إلى الشاشة الرئيسية."
+    },
+    "hub.today.title": {
+      "en": "Today",
+      "ru": "Сегодня",
+      "hy": "Այսօր",
+      "sv": "Idag",
+      "nb": "I dag",
+      "nl": "Vandaag",
+      "da": "I dag",
+      "pl": "Dzisiaj",
+      "fr": "Aujourd’hui",
+      "ar": "اليوم"
+    },
+    "goals.card.focus": {
+      "en": "Focus: %@",
+      "ru": "Фокус: %@",
+      "hy": "Ֆոկուս՝ %@",
+      "sv": "Fokus: %@",
+      "nb": "Fokus: %@",
+      "nl": "Focus: %@",
+      "da": "Fokus: %@",
+      "pl": "Fokus: %@",
+      "fr": "Cible : %@",
+      "ar": "التركيز: %@"
+    },
+    "goals.card.offerWaiting": {
+      "en": "A level offer is waiting",
+      "ru": "Вас ждёт предложение по уровню",
+      "hy": "Մակարդակի առաջարկ է սպասում",
+      "sv": "Ett nivåförslag väntar",
+      "nb": "Et nivåforslag venter",
+      "nl": "Er wacht een niveauvoorstel",
+      "da": "Et niveauforslag venter",
+      "pl": "Czeka propozycja zmiany poziomu",
+      "fr": "Une proposition de niveau vous attend",
+      "ar": "ثمة عرض لتغيير المستوى بانتظارك"
     }
   }
 }
