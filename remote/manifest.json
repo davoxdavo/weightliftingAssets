@@ -28,7 +28,7 @@
     }
   },
   "forceUpdate": {
-    "minAppVersion": "1.0.0",
+    "minAppVersion": "1.6",
     "title": {
       "en": "Update required",
       "ru": "Нужно обновление",
@@ -53,7 +53,7 @@
       "fr": "Une version plus récente de Gym Logbook est requise pour continuer.",
       "ar": "مطلوب إصدار أحدث من Gym Logbook للمتابعة."
     },
-    "storeURL": "https://apps.apple.com/app/id0000000000",
+    "storeURL": "https://apps.apple.com/app/id6793684183",
     "upcomingFeatures": [
       {
         "en": "Faster workout logging",
@@ -218,11 +218,6 @@
     "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/translations.json",
     "versions": [
       {
-        "minAppVersion": "1.4",
-        "lastSyncedAt": 1790930388,
-        "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/v1.4/translations.json"
-      },
-      {
         "minAppVersion": "1.6",
         "lastSyncedAt": 1793215456,
         "url": "https://raw.githubusercontent.com/davoxdavo/weightliftingAssets/main/remote/translations/v1.6/translations.json"
@@ -277,5 +272,5 @@
     "useSystemModel": true,
     "useBundledModel": true
   },
-  "revision": 25
+  "revision": 26
 }
