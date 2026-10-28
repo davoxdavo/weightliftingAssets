@@ -18,7 +18,7 @@
     "template.catalog."
   ],
   "minAppVersion": "1.6",
-  "lastSyncedAt": 1792693001,
+  "lastSyncedAt": 1793215456,
   "strings": {
     "": {
       "en": "",
@@ -187,6 +187,18 @@
       "pl": "Aplikacja nie obraca się razem z telefonem. Wyłącz, aby używać jej w poziomie. Na iPadzie decyduje rozmiar okna.",
       "fr": "L’app reste à la verticale quand vous tournez le téléphone. Désactivez pour l’utiliser en paysage. Sur iPad, la taille de la fenêtre décide.",
       "ar": "يبقى التطبيق عموديًا عند تدوير الهاتف. أوقف هذا الخيار لاستخدامه أفقيًا. على iPad يحدد حجم النافذة طريقة العرض."
+    },
+    "account.rotationLock.footerAndroid": {
+      "en": "Keeps the app upright when you turn your phone. Turn it off to use the app in landscape.",
+      "ru": "Приложение не поворачивается вместе с телефоном. Выключите, чтобы пользоваться им в альбомной ориентации.",
+      "hy": "Հավելվածը չի պտտվում հեռախոսի հետ։ Անջատեք՝ այն հորիզոնական դիրքում օգտագործելու համար։",
+      "sv": "Appen förblir stående när du vrider telefonen. Stäng av för att använda appen liggande.",
+      "nb": "Appen holder seg stående når du snur telefonen. Slå av for å bruke appen liggende.",
+      "nl": "De app blijft staand als je je telefoon draait. Zet dit uit om de app liggend te gebruiken.",
+      "da": "Appen forbliver stående, når du drejer telefonen. Slå fra for at bruge appen liggende.",
+      "pl": "Aplikacja nie obraca się razem z telefonem. Wyłącz, aby używać jej w poziomie.",
+      "fr": "L’app reste à la verticale quand vous tournez le téléphone. Désactivez pour l’utiliser en paysage.",
+      "ar": "يبقى التطبيق عموديًا عند تدوير الهاتف. أوقف هذا الخيار لاستخدامه أفقيًا."
     },
     "account.rotationLock.title": {
       "en": "Lock to portrait",
@@ -29413,6 +29425,30 @@
       "pl": "Zapisuj wodę w Health Connect",
       "fr": "Enregistrer l’eau dans Santé Connect",
       "ar": "حفظ الماء في Health Connect"
+    },
+    "healthConnect.sleep.read": {
+      "en": "Read Sleep from Health Connect",
+      "ru": "Считывать сон из Health Connect",
+      "hy": "Կարդալ քունը Health Connect-ից",
+      "sv": "Läs sömn från Health Connect",
+      "nb": "Les søvn fra Health Connect",
+      "nl": "Slaap lezen uit Health Connect",
+      "da": "Læs søvn fra Health Connect",
+      "pl": "Odczytuj sen z Health Connect",
+      "fr": "Lire le sommeil depuis Santé Connect",
+      "ar": "قراءة النوم من Health Connect"
+    },
+    "healthConnect.sleep.rationale": {
+      "en": "Reads your sleep sessions only when you turn on reading sleep for Readiness — last night and the two weeks before it, kept in memory and never saved.",
+      "ru": "Считывает ваш сон, только если вы включили считывание сна для готовности, — прошлую ночь и две недели до неё; хранится в памяти и никогда не сохраняется.",
+      "hy": "Կարդում է ձեր քունը միայն այն ժամանակ, երբ միացնում եք քնի կարդալը Պատրաստվածության համար՝ անցած գիշերը և դրան նախորդող երկու շաբաթը, պահվում է հիշողության մեջ և երբեք չի պահպանվում։",
+      "sv": "Läser dina sömnpass bara när du slår på läsning av sömn för Beredskap – senaste natten och de två veckorna före, hålls i minnet och sparas aldrig.",
+      "nb": "Leser søvnøktene dine bare når du slår på lesing av søvn for Beredskap – siste natt og de to ukene før, holdes i minnet og lagres aldri.",
+      "nl": "Leest je slaap alleen als je slaap lezen voor Paraatheid aanzet – afgelopen nacht en de twee weken ervoor, in het geheugen gehouden en nooit opgeslagen.",
+      "da": "Læser dine søvnperioder kun, når du slår læsning af søvn til for Parathed – sidste nat og de to uger før, holdes i hukommelsen og gemmes aldrig.",
+      "pl": "Odczytuje Twój sen tylko wtedy, gdy włączysz odczyt snu dla Gotowości – ostatnią noc i dwa tygodnie przed nią, przechowywane w pamięci i nigdy niezapisywane.",
+      "fr": "Lit vos sessions de sommeil seulement si vous activez la lecture du sommeil pour la Disponibilité – la nuit dernière et les deux semaines précédentes, gardées en mémoire et jamais enregistrées.",
+      "ar": "يقرأ جلسات نومك فقط عند تشغيل قراءة النوم للجاهزية — الليلة الماضية والأسبوعين السابقين لها، ويُحفظ في الذاكرة ولا يُحفظ أبداً."
     },
     "water.health.footer": {
       "en": "Saving writes only the water you log here. Reading imports water other apps logged; imported entries can be hidden but not edited.",
